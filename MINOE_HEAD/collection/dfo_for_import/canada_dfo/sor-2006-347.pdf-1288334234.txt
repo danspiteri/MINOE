@@ -1,0 +1,424 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+          2-Butoxyethanol                                                Règlement sur le 2-
+            Regulations                                                    butoxyéthanol
+
+                     SOR/2006-347                                                      DORS/2006-347
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published            31. (1) Every copy of a consolidated statute or             31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies       (3) In the event of an inconsistency between a             (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                                 Enregistrement
+SOR/2006-347 December 14, 2006                               DORS/2006-347 Le 14 décembre 2006
+CANADIAN ENVIRONMENTAL PROTECTION ACT,                       LOI CANADIENNE SUR LA PROTECTION DE
+1999                                                         L’ENVIRONNEMENT (1999)
+
+2-Butoxyethanol Regulations                                  Règlement sur le 2-butoxyéthanol
+
+P.C. 2006-1557 December 14, 2006                             C.P. 2006-1557 Le 14 décembre 2006
+
+   Whereas, pursuant to subsection 332(1)a of the Cana-         Attendu que, conformément au paragraphe 332(1)a de
+dian Environmental Protection Act, 1999b, the Minister       la Loi canadienne sur la protection de l’environnement
+of the Environment published in the Canada Gazette,          (1999)b, le ministre de l’Environnement a fait publier
+Part I, on July 9, 2005 a copy of the proposed 2-Bu-         dans la Gazette du Canada Partie I, le 9 juillet 2005, le
+toxyethanol Regulations under the title Regulations Re-      projet de règlement intitulé Règlement sur le 2-butoxyé-
+specting 2-Butoxyethanol, substantially in the annexed       thanol, conforme en substance au texte ci-après, et que
+form, and persons were given an opportunity to file com-     les intéressés ont ainsi eu la possibilité de présenter leurs
+ments with respect to the proposed Regulations or to file    observations à cet égard ou un avis d’opposition motivé
+a notice of objection requesting that a board of review be   demandant la constitution d’une commission de révision;
+established and stating the reasons for the objection;          Attendu que, conformément au paragraphe 93(3) de
+  Whereas, pursuant to subsection 93(3) of that Act, the     cette loi, le comité consultatif national s’est vu accorder
+National Advisory Committee has been given an oppor-         la possibilité de formuler ses conseils dans le cadre de
+tunity to provide its advice under section 6c of that Act;   l’article 6c de celle-ci;
+   And whereas, in the opinion of the Governor in Coun-        Attendu que la gouverneure en conseil est d’avis que,
+cil, pursuant to subsection 93(4) of that Act, the pro-      aux termes du paragraphe 93(4) de cette loi, le projet de
+posed Regulations do not regulate an aspect of a sub-        règlement ne vise pas un point déjà réglementé sous le
+stance that is regulated by or under any other Act of        régime d’une autre loi fédérale de manière à offrir une
+Parliament in a manner that provides, in the opinion of      protection suffisante pour l’environnement et la santé
+the Governor in Council, sufficient protection to the en-    humaine,
+vironment and human health;                                     À ces causes, sur recommandation de la ministre de
+   Therefore, Her Excellency the Governor General in         l’Environnement et du ministre de la Santé et en vertu du
+Council, pursuant to subsection 93(1) and section 319 of     paragraphe 93(1) et de l’article 319 de la Loi canadienne
+the Canadian Environmental Protection Act, 1999b, on         sur la protection de l’environnement (1999)b, Son Excel-
+the recommendation of the Minister of the Environment        lence la Gouverneure générale en conseil prend le Règle-
+and the Minister of Health, hereby makes the annexed 2-      ment sur le 2-butoxyéthanol, ci-après.
+Butoxyethanol Regulations.
+
+
+
+
+a                                                             a 
+   S.C. 2004, c. 15, s. 31                                       L.C. 2004, ch. 15, art. 31
+b                                                             b 
+   S.C. 1999, c. 33                                              L.C. 1999, ch. 33
+c                                                             c 
+   S.C. 2002, c. 7, s. 124                                       L.C. 2002, ch. 7, art. 124
+2-BUTOXYETHANOL REGULATIONS                                        RÈGLEMENT SUR LE 2-BUTOXYÉTHANOL
+
+                     APPLICATION                                                 CHAMP D’APPLICATION
+   1. These Regulations apply in respect of products set              1. Le présent règlement vise les produits conçus pour
+out in column 1 of Schedule 1 that contain 2-bu-                   usage intérieur figurant à la colonne 1 de l’annexe 1 qui
+toxyethanol, which has the molecular formula                       contiennent du 2-butoxyéthanol, dont la formule molé-
+C6H14O2, and that are for indoor use except if they are            culaire est C6H14O2, sauf ceux qui sont conçus pour
+for use                                                            être utilisés aux fins suivantes :
+  (a) in a manufacturing or processing activity;                     a) dans le cadre d’activités de fabrication ou de trans-
+  (b) in a commercial activity as paints or coatings, in-            formation;
+  cluding automobile refinish coatings;                              b) dans le cadre d’activités commerciales comme
+  (c) as a solvent in a laboratory for analysis;                     peintures ou revêtements, y compris les revêtements
+                                                                     de finition pour automobiles;
+  (d) in scientific research; or
+                                                                     c) comme solvants dans un laboratoire à des fins
+  (e) as a laboratory analytical standard.                           d’analyse;
+                                                                     d) dans le cadre de recherches scientifiques;
+                                                                     e) ceux qui sont conçus pour être utilisés comme éta-
+                                                                     lon analytique de laboratoire.
+
+                    PROHIBITIONS                                                      INTERDICTIONS
+   2. (1) No person shall manufacture or import a prod-              2. (1) Il est interdit de fabriquer ou d’importer un
+uct set out in column 1 of Schedule 1 if its concentration         produit mentionné à la colonne 1 de l’annexe 1 dont la
+of 2-butoxyethanol exceeds the limit set out in column 2           concentration en 2-butoxyéthanol dépasse celle prévue
+for that product unless                                            pour ce produit à la colonne 2, sauf dans les cas
+  (a) dilution of the product is required, in accordance           suivants :
+  with the manufacturer’s written instructions, to a con-            a) le produit doit, selon les instructions du fabricant,
+  centration equal to or less than the limit set out in col-         être dilué avant usage à une concentration égale ou in-
+  umn 2 for that product before it is used and that prod-            férieure à celle prévue pour ce produit à la colonne 2
+  uct is either labelled with or accompanied by those                et être accompagné d’une étiquette ou d’instructions
+  instructions in both official languages; or                        écrites précisant, dans les deux langues officielles, le
+  (b) the person has been issued a permit under section              mode de dilution recommandé par le fabricant;
+  5 and, in the case of a product that is to be diluted be-          b) la personne est titulaire d’un permis délivré en ver-
+  fore it is used, that product is either labelled with or           tu de l’article 5 et, dans le cas où le produit doit être
+  accompanied by the manufacturer’s written dilution                 dilué avant usage, celui-ci est accompagné d’une éti-
+  instructions in both official languages.                           quette ou d’instructions écrites précisant, dans les
+                                                                     deux langues officielles, le mode de dilution recom-
+                                                                     mandé par le fabricant.
+   (2) The prohibition in subsection (1) does not apply,             (2) Toutefois l’interdiction prévue au paragraphe (1)
+however, to the manufacturing or importing of a product            ne vise pas la fabrication ou l’importation à des fins
+for export only.                                                   d’exportation.
+
+
+
+
+                                                               1
+                                           SOR/2006-347 — October 6, 2010
+
+
+
+   3. No person shall sell or offer for sale a product set           3. Il est interdit de vendre ou de mettre en vente un
+out in column 1 of Schedule 1 if its concentration of 2-           produit mentionné à la colonne 1 de l’annexe 1 dont la
+butoxyethanol exceeds the limit set out in column 2 for            concentration en 2-butoxyéthanol dépasse celle prévue
+that product unless                                                pour ce produit à la colonne 2, sauf dans les cas
+  (a) dilution of the product is required, in accordance           suivants :
+  with the manufacturer’s written instructions, to a con-            a) le produit doit, selon les instructions du fabricant,
+  centration equal to or less than the limit set out in col-         être dilué avant usage à une concentration égale ou in-
+  umn 2 for that product before it is used and that prod-            férieure à celle prévue pour ce produit à la colonne 2
+  uct is either labelled with or accompanied by those                et être accompagné d’une étiquette ou d’instructions
+  instructions in both official languages; or                        écrites précisant, dans les deux langues officielles, le
+  (b) that product was manufactured or imported under                mode de dilution recommandé par le fabricant;
+  a permit issued under section 5, the sale or offer to sell         b) le produit a été fabriqué ou importé aux termes
+  occurs no later than one year after the expiry date of             d’un permis délivré en vertu de l’article 5, la vente ou
+  the permit and, in the case of a product that is to be             la mise en vente a lieu au plus tard un an après l’expi-
+  diluted before it is used, that product is either labelled         ration du permis et, dans le cas où le produit doit être
+  with or accompanied by the manufacturer’s written di-              dilué avant usage, celui-ci est accompagné d’une éti-
+  lution instructions in both official languages.                    quette ou d’instructions écrites précisant, dans les
+                                                                     deux langues officielles, le mode de dilution recom-
+                                                                     mandé par le fabricant.
+
+                        PERMITS                                                            PERMIS
+
+                       APPLICATION                                                         DEMANDE
+   4. (1) Any person that is importing or manufacturing               4. (1) Le fabricant ou l’importateur d’un produit
+a product set out in column 1 of Schedule 1 whose con-             mentionné à la colonne 1 de l’annexe 1, autre que celui
+centration of 2-butoxyethanol exceeds the limit set out in         visé à l’alinéa 2(1)a), dont la concentration en 2-bu-
+column 2 for that product other than a product referred            toxyéthanol dépasse celle prévue pour ce produit à la co-
+to in paragraph 2(1)(a) shall hold a permit to continue            lonne 2 de cette annexe, doit détenir un permis.
+that activity.
+  (2) An application for a permit shall be submitted to              (2) La demande de permis est présentée au ministre et
+the Minister and contain the information specified in              comporte les renseignements prévus à l’annexe 2.
+Schedule 2.
+   (3) The application shall be accompanied by a certifi-             (3) La demande de permis est accompagnée d’une at-
+cation, dated and signed by the applicant, or by their au-         testation, datée et signée par le demandeur ou son repré-
+thorized representative, stating that the information con-         sentant autorisé, portant que les renseignements conte-
+tained in the application is accurate and complete.                nus dans la demande sont complets et exacts.
+   (4) The application and certification may be submit-               (4) La demande et l’attestation peuvent être présen-
+ted either in writing or in an electronic format that is           tées sur un support papier ou sur un support électronique
+compatible with the one that is used by the Minister and           compatible avec celui utilisé par le ministre et portent la
+the documents shall bear the written or electronic signa-          signature manuscrite ou électronique, selon le cas, du de-
+                                                                   mandeur ou de son représentant autorisé.
+
+
+
+
+                                                               2
+                                          DORS/2006-347 — 6 octobre 2010
+
+
+
+ture, as the case may be, of the applicant or their autho-
+rized representative.
+
+                CONDITIONS OF ISSUANCE                                           CONDITIONS DE DÉLIVRANCE
+  5. (1) Subject to subsection (2), the Minister shall is-           5. (1) Sous réserve du paragraphe (2), le ministre dé-
+sue the permit if the following conditions are met:               livre le permis si les conditions suivantes sont réunies :
+  (a) it is not technically or economically feasible to re-         a) il est techniquement ou économiquement non
+  duce the concentration of 2-butoxyethanol in the prod-            viable pour le demandeur de réduire la concentration
+  uct to the limit set out in column 2 of Schedule 1 for            en 2-butoxyéthanol dans le produit de façon à respec-
+  that product;                                                     ter la limite prévue pour celui-ci à la colonne 2 de
+  (b) the applicant has taken all necessary measures to             l’annexe 1;
+  minimize or eliminate any harmful effect of 2-bu-                 b) le demandeur a pris toutes les mesures nécessaires
+  toxyethanol on human health;                                      pour éliminer ou atténuer les effets nocifs du 2-bu-
+  (c) a plan has been prepared by the applicant identify-           toxyéthanol sur la santé humaine;
+  ing the measures that they intend to take so that the             c) un plan a été dressé concernant les mesures que le
+  concentration of 2-butoxyethanol in the product to be             demandeur s’engage à prendre pour que la concentra-
+  manufactured or imported will be within the limit pre-            tion en 2-butoxyéthanol des produits qu’il fabrique ou
+  scribed by these Regulations; and                                 importe respecte les limites prévues au présent règle-
+  (d) the period within which the plan is to be fully im-           ment;
+  plemented does not exceed four years from the day on              d) le délai prévu pour l’achèvement de l’exécution du
+  which a permit is first issued to the applicant.                  plan n’excède pas quatre ans à compter de la date de
+                                                                    délivrance du permis initial.
+   (2) The Minister shall refuse to issue a permit if the           (2) Le ministre refuse de délivrer le permis s’il a des
+Minister has reasonable grounds to believe that the ap-           motifs raisonnables de croire que le demandeur a fourni
+plicant has provided false or misleading information in           des renseignements faux ou trompeurs au soutien de sa
+support of their application.                                     demande.
+   (3) A permit expires 24 months after the day on                  (3) Le permis expire vingt-quatre mois après la date
+which it is issued unless, before its expiry date, the ap-        de sa délivrance, sauf si le demandeur présente, confor-
+plicant submits a new application in accordance with              mément à l’article 4, une nouvelle demande de permis
+section 4. The validity of the initial permit may only be         avant l’expiration de celui-ci. La durée de validité du
+extended once for an additional 24 months for the same            permis initial peut être prolongée une seule fois pour une
+use of 2-butoxyethanol.                                           période de vingt-quatre mois, pour la même utilisation
+                                                                  de 2-butoxyéthanol.
+
+                       REVOCATION                                                       RÉVOCATION
+   6. (1) The Minister shall revoke a permit if the con-             6. (1) Le ministre révoque le permis si l’une ou
+ditions set out in paragraphs 5(1)(a) to (d) are no longer        l’autre des conditions prévues aux alinéas 5(1)a) à d)
+met or if the Minister has reasonable grounds to believe          n’est plus respectée ou s’il a des motifs raisonnables de
+that the permit holder has provided false or misleading           croire que le titulaire du permis lui a fourni des rensei-
+information to the Minister.                                      gnements faux ou trompeurs.
+
+
+
+
+                                                              3
+                                           SOR/2006-347 — October 6, 2010
+
+
+
+ (2) The Minister shall not revoke a permit unless the                (2) Le ministre ne peut révoquer le permis qu’après :
+Minister has provided the permit holder with                          a) avoir avisé par écrit le titulaire des motifs de la ré-
+  (a) written reasons for the revocation; and                         vocation;
+  (b) an opportunity to be heard, by written representa-              b) lui avoir donné la possibilité de présenter des ob-
+  tion, in respect of the revocation.                                 servations écrites au sujet de la révocation.
+
+   ANALYSIS BY ACCREDITED LABORATORY                                 ANALYSE PAR UN LABORATOIRE ACCRÉDITÉ
+  7. The concentration of 2-butoxyethanol under these                  7. Pour l’application du présent règlement, la concen-
+Regulations shall be determined by a laboratory that is             tration en 2-butoxyéthanol est déterminée par un labora-
+accredited under the International Organization for Stan-           toire qui est accrédité selon la norme de l’Organisation
+dardization standard ISO/IEC 17025: 2005, entitled                  internationale de normalisation ISO/CEI 17025: 2005,
+General requirements for the competence of testing and              intitulée Exigences générales concernant la compétence
+calibration laboratories, as amended from time to time,             des laboratoires d’étalonnages et d’essais, avec ses mo-
+and whose accreditation includes the analysis of 2-bu-              difications successives, et dont l’accréditation prévoit un
+toxyethanol within its scope of testing.                            champ d’essai qui couvre l’analyse du 2-butoxyéthanol.
+
+                   RECORD KEEPING                                                          REGISTRES
+  8. (1) Every person that submits the information set                 8. (1) Toute personne qui présente les renseigne-
+out in Schedule 2 shall keep a copy of that information,            ments prévus à l’annexe 2 en conserve copie dans un re-
+the certification and any documents supporting the infor-           gistre, avec l’attestation et les documents à l’appui, pen-
+mation for a period of at least five years, beginning on            dant au moins cinq ans à compter de la date de leur
+the date of the submission of the information.                      présentation.
+   (2) Every person that manufactures or imports a prod-               (2) Toute personne qui fabrique ou importe un pro-
+uct set out in column 1 of Schedule 1 containing 2-bu-              duit mentionné à la colonne 1 de l’annexe 1 conserve
+toxyethanol shall keep a record of the results of any               dans un registre les résultats de toute analyse établissant
+analysis conducted to determine the concentration of 2-             la concentration de 2-butoxyéthanol dans le produit —
+butoxyethanol in the product — either as diluted in ac-             soit dilué, selon les instructions du fabricant s’il doit être
+cordance with the manufacturer’s written instructions, in           dilué, soit dans son état lors de sa fabrication — et tout
+the case of a product that is to be diluted, or as it is man-       document à l’appui, de même que l’identité et l’adresse
+ufactured —, the name of the laboratory that performed              municipale du laboratoire qui a fait l’analyse, et ce, pen-
+the analysis and any supporting documents related to the            dant au moins cinq ans à compter de la date de celle-ci.
+analysis for a period of at least five years, beginning on
+the date of the analysis.
+   (3) The information, certification, results of analysis             (3) Les registres contenant les renseignements, l’at-
+and supporting documents that are required to be kept by            testation, les résultats d’analyse et les documents à l’ap-
+the person shall be kept at their principal place of busi-          pui sont conservés à l’établissement principal de la per-
+ness in Canada or at any other place in Canada where the            sonne au Canada ou en tout autre lieu au Canada où ils
+information, certification, results and supporting docu-            peuvent être examinés. S’ils sont conservés en un lieu
+ments can be inspected. If those records are kept at any            autre qu’à l’établissement principal de la personne au
+place other than the person’s principal place of business,          Canada, celle-ci informe le ministre de l’adresse munici-
+                                                                    pale de cet endroit.
+
+
+
+
+                                                                4
+                                         DORS/2006-347 — 6 octobre 2010
+
+
+
+the person shall provide the Minister with the civic ad-
+dress of the place where they are kept.
+   (4) The person shall keep the required information,              (4) La personne conserve les renseignements, l’attes-
+certification, test results and supporting documents in          tation, les résultats d’analyse et les documents à l’appui
+writing or in an electronic format that is compatible with       sur un support papier ou sur un support électronique
+the one that is used by the Minister.                            compatible avec celui utilisé par le ministre.
+
+               COMING INTO FORCE                                                ENTRÉE EN VIGUEUR
+  9. (1) Subject to subsection (2), these Regulations              9. (1) Sous réserve du paragraphe (2), le présent
+come into force one year after the day on which they             règlement entre en vigueur un an après la date de son
+are registered.                                                  enregistrement.
+  (2) Section 3 comes into force two years after the               (2) L’article 3 entre en vigueur deux ans après la
+day on which these Regulations are registered.                   date d’enregistrement du présent règlement.
+
+
+
+
+                                                             5
+                                                        SOR/2006-347 — October 6, 2010
+
+
+
+                              SCHEDULE 1                                                                           ANNEXE 1
+    (Section 1, subsection 2(1), section 3, subsection 4(1), paragraph                (article 1, paragraphe 2(1), article 3, paragraphe 4(1), alinéa 5(1)a),
+                 5(1)(a), subsection 8(2), and Schedule 2)                                                paragraphe 8(2) et annexe 2)
+
+                      CONCENTRATION LIMITS                                                              CONCENTRATIONS MAXIMALES
+
+         Column 1                                Column 2                                        Colonne 1                               Colonne 2
+                                                 Concentration Limit (%)                                                                 Concentration maximale
+Item     Product                                 (w/w)                                Article Produit                                    (%) (p/p)
+1.       Automobile Cleaner1                     10.0                                 1.         Nettoyant pour automobiles1             10,0
+2.       Rug or Carpet Cleaner                   10.0                                 2.         Nettoyant pour tapis ou                 10,0
+3.       Floor or Baseboard Stripper             2.0                                             moquettes
+                                                                                      3.         Décapant pour planchers ou              2,0
+4.       Paint Stripper or Thinner               0.5
+                                                                                                 plinthes
+5.       Laundry Stain Remover                   22.0
+                                                                                      4.         Diluant ou décapant à peinture          0,5
+                              2         3
+6.       Any Other Aerosol Cleaner               5.0
+                                                                                      5.         Détachant à lessive                     22,0
+7.       Any Other Non-aerosol Cleaner3          6.0                                                                     2         3
+                                                                                      6.         Tout autre nettoyant aérosol            5,0
+8.       Aerosol2 Paint or Coating               0.1                                  7.         Tout autre nettoyant2 non aérosol 6,0
+9.       Non-aerosol Paint or Coating            0.5                                  8.         Peinture ou revêtement aérosol3         0,1
+1
+  Does not include automobile degreasers.                                             9.         Peinture ou revêtement non
+2
+   Does not include pump sprays.                                                                 aérosol                                 0,5
+3
+   A product to be used to degrease and clean glass, floors and other surfaces,       1
+                                                                                         Ne vise pas les solvants de dégraissage pour automobiles.
+including bathroom and kitchen surfaces, but does not include automobile de-
+greasers.
+                                                                                      2
+                                                                                         Produit servant à dégraisser et à nettoyer les vitres, les planchers et autres
+                                                                                      surfaces, notamment dans la salle de bain ou la cuisine, sauf les solvants de
+                                                                                      dégraissage pour automobiles.
+                                                                                      3
+                                                                                         Ne vise pas les vaporisateurs à poussoir.
+
+
+
+
+                                                                                  6
+                                                   DORS/2006-347 — 6 octobre 2010
+
+
+
+                           SCHEDULE 2                                                                     ANNEXE 2
+                     (Subsections 4(2) and 8(1))                                                    (paragraphes 4(2) et 8(1))
+
+  INFORMATION TO BE CONTAINED IN AN APPLICATION                                 RENSEIGNEMENTS À FOURNIR DANS LA DEMANDE DE
+                  FOR A PERMIT                                                                     PERMIS
+  1. Information respecting the applicant:                                      1. Renseignements sur le demandeur :
+  (a) their name, civic and postal addresses, e-mail address, if any,           a) ses nom, adresses municipale et postale, numéro de téléphone
+  telephone number and fax number, if any; and                                  et, le cas échéant, numéro de télécopieur et adresse électronique;
+  (b) the name, title, civic and postal addresses, e-mail address, if           b) les nom, titre, adresses municipale et postale, numéro de télé-
+  any, telephone number and fax number, if any, of their authorized             phone et, le cas échéant, numéro de télécopieur et adresse électro-
+  representative, if any.                                                       nique de son représentant autorisé, s’il y a lieu.
+  2. Information respecting the product:                                        2. Renseignements sur le produit :
+  (a) its name;                                                                 a) son nom;
+  (b) its concentration of 2-butoxyethanol;                                     b) sa concentration en 2-butoxyéthanol;
+  (c) the estimated quantity to be manufactured, sold, offered for              c) la quantité de produit que le demandeur prévoit fabriquer,
+  sale or imported in a calendar year and the unit of measurement;              vendre, mettre en vente ou importer au cours d’une année civile,
+                                                                                ainsi que l’unité de mesure;
+  (d) the identification of each proposed use for the product; and
+                                                                                d) le détail de l’utilisation projetée;
+  (e) an indication as to whether a permit has been issued under sec-
+  tion 5 of these Regulations for each proposed use for the product.            e) une mention indiquant s’il fait déjà l’objet d’un permis délivré
+                                                                                en vertu de l’article 5 du présent règlement pour l’utilisation proje-
+                                                                                tée.
+   3. Evidence that it is not technically or economically feasible to            3. Les renseignements qui établissent qu’il n’est pas technique-
+reduce the concentration of 2-butoxyethanol in the product to the lim-        ment ni économiquement viable pour le demandeur de réduire la
+it set out in column 2 of Schedule 1 for that product.                        concentration en 2-butoxyéthanol dans le produit de façon à respecter
+                                                                              la limite prévue pour celui-ci à la colonne 2 de l’annexe 1.
+   4. Identification of the measures that have been taken to minimize            4. Une mention des mesures qui ont été prises pour éliminer ou at-
+or eliminate any harmful effect of 2-butoxyethanol on human health.           ténuer les effets nocifs du 2-butoxyéthanol sur la santé humaine.
+   5. A description of the plan prepared respecting 2-butoxyethanol              5. Le détail du plan concernant les mesures que le demandeur
+identifying the measures to be taken so that the concentration of 2-          s’engage à prendre pour que la concentration en 2-butoxyéthanol des
+butoxyethanol in the product to be manufactured or imported will be           produits qu’il fabrique ou importe respecte les limites prévues au pré-
+within the limit prescribed by these Regulations.                             sent règlement.
+  6. Identification of the period within which the plan is to be fully          6. Une mention du délai dans lequel l’exécution du plan sera ache-
+implemented.                                                                  vée.
+  7. The civic and postal addresses of the location where records,              7. Les adresses municipale et postale de l’endroit où les renseigne-
+certification and supporting documents are kept.                              ments, les documents à l’appui de ceux-ci et l’attestation sont conser-
+                                                                              vés.
+   8. An applicant that submits a request, in accordance with section            8. Si les renseignements fournis dans la demande de permis font
+313 of the Canadian Environmental Protection Act, 1999, that infor-           l’objet d’une demande de confidentialité conformément à l’article
+mation contained in the application be treated as confidential must in-       313 de la Loi canadienne sur la protection de l’environnement
+clude with that request the identification of the following:                  (1999), le demandeur indique dans celle-ci ceux de ces renseigne-
+                                                                              ments :
+  (a) any information that constitutes a trade secret;
+                                                                                a) qui constituent un secret industriel;
+  (b) any information the disclosure of which would likely cause
+  material financial loss to, or prejudice the competitive position of,         b) dont la divulgation risquerait vraisemblablement de lui causer
+  the applicant;                                                                des pertes financières importantes ou de nuire à sa compétitivité;
+  (c) any information the disclosure of which would likely interfere            c) dont la divulgation risquerait vraisemblablement d’entraver des
+  with contractual or other negotiations being conducted by the ap-             négociations — contractuelles ou autres — menées par lui;
+  plicant; and
+                                                                                d) qui, étant à caractère financier, commercial, scientifique ou
+  (d) any financial, commercial, scientific or technical information            technique sont de nature confidentielle et sont traités comme tels
+  that is confidential and is treated consistently in a confidential            de façon constante par lui.
+  manner by the applicant.
+
+
+
+
+                                                                          7
+

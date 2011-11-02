@@ -1,0 +1,1612 @@
+                             PLEASE NOTE
+This document, prepared by the Legislative Counsel Office, is an office
+consolidation of this regulation, current to January 1, 2010. It is intended for
+information and reference purposes only.
+
+This document is not the official version of these regulations. The regulations and
+the amendments printed in the Royal Gazette should be consulted to determine the
+authoritative text of these regulations.
+
+For more information concerning the history of these regulations, please see the
+Table of Regulations.
+
+If you find any errors or omissions in this consolidation, please contact:
+
+                             Legislative Counsel Office
+                                Tel: (902) 368-4291
+                            Email: legislation@gov.pe.ca
+                          CHAPTER E-9
+
+             ENVIRONMENTAL PROTECTION ACT
+
+         SEWAGE DISPOSAL SYSTEMS REGULATIONS
+
+Pursuant to section 25 of the Environmental Protection Act R.S.P.E.I.
+1988, Cap. E-9, Council made the following regulations:
+
+(In these regulations Imperial measurements are added editorially
+for convenience and are not exact equivalents of the metric
+measurements specified)
+1. In these regulations                                                       Definitions
+
+    (a) “application for permit” means an application on a form               application for
+    approved by the Minister;                                                 permit
+
+    (b) “alternative multiple trench disposal field” means a multiple         alternative multiple
+    trench disposal field oriented across the slope of a property with        trench disposal field
+
+    lateral spacing of no less than 4 metres (13 ft) between the lines (see
+    Appendix A, Figure A.2);
+    (c) “authority having jurisdiction” means the Department of               authority having
+    Environment, Energy and Forestry;                                         jurisdiction
+
+    (d) “barrier material” means a non-degradable, manmade fibre (such        barrier material
+    as polyester or polypropylene) which allows water to flow and
+    prevents the migration of soil fines into gravel;
+    (e) “bedrock” means a solid or continuous body of rock, with or           bedrock
+    without fractures, or a weathered or broken body of rock fragments
+    overlying a solid body of rock;
+    (f) “bottom header” means the disposal field header connecting the        bottom header
+    lower ends of the disposal field drainage pipe or leaching chambers
+    opposite to the ends connected by the top header (see Appendix A,
+    Figures A.1 and A.2);
+    (g) revoked by EC429/07;                                                  Board
+
+    (g.1) “cafeteria” means a restaurant in which food is displayed on        cafeteria
+    counters and patrons serve themselves;
+    (h) “capacity” means the liquid capacity of a septic tank between the     capacity
+    waterline and the floor of the tank;
+                                                                              certificate of
+    (i) “certificate of compliance” means a certificate on a form             compliance
+    approved by the Minister;
+
+
+                                    1
+2                      Cap. E-9                 Environmental Protection Act          Updated 2010
+                                             Sewage Disposal Systems Regulations
+
+
+                            (j) “certified” means guaranteed by a Standards Council of Canada
+certified
+                            Accredited Testing Agency as being in conformance with the latest
+                            CSA Standard pertinent to the application of the product;
+contour trench              (k) “contour trench disposal field” means a relatively narrow and
+disposal field              shallow disposal bed constructed in a trench of constant depth, with
+                            both the trench bottom and the lip of the trench wall at the ground
+                            surface horizontal throughout the entire length (see Appendix A,
+                            Figures A.3 and A.3.1);
+contractor                  (l) “contractor” means any person, corporation, company, firm,
+                            organization or partnership performing or engaging to perform for
+                            his or its own benefit or that of another, with or without
+                            remuneration or gain, any sewage disposal system work or
+                            installation within the scope of these regulations;
+contractor’s licence        (m) “contractor’s licence” means a licence issued under section 3;
+cottage                     (n) “cottage” means a non-commercial summer dwelling of two
+                            bedrooms or less, having less than 85 m2 (900 ft2) of floor area;
+CSA                         (o) “CSA” means the Canadian Standards Association;
+disposal field              (p) “disposal field” means that part of an on-site sewage disposal
+                            system designed and installed in accordance with these regulations
+                            for the subsurface distribution of septic tank effluent into the soil;
+drainage pipe               (q) “drainage pipe” means the certified, perforated, rigid, straight,
+                            sewer pipe used in a disposal field;
+duplex                      (r) “duplex” means a building that is divided into two dwelling
+                            units;
+dwelling                    (s) “dwelling“ means a building or portion thereof designed,
+                            arranged or intended for residential occupancy;
+dwelling unit               (t) “dwelling unit” means two or more rooms used or intended for
+                            domestic use of one or more individuals living as a single
+                            housekeeping unit with cooking and sanitary facilities;
+effluent                    (u) “effluent” means sewage after it has passed through a septic tank
+                            or some other type of treatment;
+effluent line               (u.1) “effluent line” means a pipe that transports effluent from a
+                            septic tank to a disposal field;
+existing parcel             (u.2) “existing parcel” means any parcel in existence prior to June
+                            12, 1993;
+filter sand
+                            (v) “filter sand” means clean, washed, screened or natural sand
+                            having less than 10% by weight retained on a 10 mm (3/8 in) sieve
+
+
+                                                             2
+Updated 2010            Environmental Protection Act              Cap. E-9                         3
+                     Sewage Disposal Systems Regulations
+
+
+    and less than 2% by weight passing a 0.075 mm (#200 US std.)
+    sieve and the permeability of the sand must be not less than 0.0004
+    m/s (0.0013 ft/s);
+    (w) “good quality fill” means a reasonably uniform sand or sandy         good quality fill
+    gravel containing a small proportion of silt but no more than 30 % of
+    the material shall be retained on a 10 mm (3/8 in) sieve and a
+    minimum of 2.5 % and a maximum of 15% must pass the 0.075 mm
+    sieve (#200 US std.);
+    (x) “gravel” means clean, washed or screened small pieces of rock        gravel
+    or crushed rock of a consistency or hardness which is not conducive
+    to premature deterioration, and of which 98% by weight shall pass a
+    40 mm (1½ in) screen and 98% by weight shall be retained on a 12.5
+    mm (½ in) screen;
+    (x.1) “grease interceptor tank” means a tank installed in front of the   grease interceptor
+    septic tank to remove grease, oil and fats from sewage;                  tank
+
+    (y) “header” means pipe used to connect the ends of lines of             header
+    drainage pipe or leaching chambers;
+    (z) “leaching chamber” means a prefabricated device approved by          leaching chamber
+    the authority having jurisdiction for use in a disposal field as an
+    alternative to gravel and drainage pipe;
+    (aa) “leaching chamber disposal field” means a system of leaching        leaching chamber
+    chambers arranged in a multiple trench or serial distribution            disposal field
+
+    configuration (see Appendix A, Figure A.4 and A.4.2);
+    (bb) “licence” means a licence issued pursuant to these regulations      licence
+    by the authority having jurisdiction to any person or any contractor;
+    (bb.1) “licensed contractor” means a contractor who holds a              licensed contractor
+    contractor’s licence;
+    (bb.2) “licensed pumper” means a person who holds a pumper’s             licensed pumper
+    licence;
+    (bb.3) “licensed site assessor” means a person who holds a site          licensed site
+    assessor’s licence;                                                      assessor
+
+    (cc) “liquid depth” means the maximum vertical depth of liquid           liquid depth
+    which a septic tank can contain before the liquid discharges through
+    the septic tank outlet;
+    (dd) revoked by EC429/07;                                                Minister
+                                                                             multiple family
+    (ee) “multiple family dwelling” means a building containing three or     dwelling
+    more dwelling units;
+
+
+
+                                     3
+4                      Cap. E-9                 Environmental Protection Act             Updated 2010
+                                             Sewage Disposal Systems Regulations
+
+
+                            (ff) “multiple trench disposal field” means a system of drainage
+multiple trench
+disposal field              pipes and gravel arranged in the form of narrow, parallel trenches
+                            connected to a header (see Appendix A, Figure A.1);
+natural boundary            (gg) “natural boundary” means the visible high water mark of any
+                            stream, river, or other body of water;
+owner                       (hh) “owner” includes any person, firm, corporation or agent
+                            controlling or occupying the property under consideration;
+parcel                      (ii) “parcel” means any lot, block or other area in which real
+                            property is held or into which real property is subdivided and can
+                            include two or more adjacent lots, blocks or areas of property upon
+                            which a sewage disposal system is being situated;
+permeable soil              (jj) “permeable soil” means soil having a hydraulic conductivity in
+                            the range of 8.0 x 10-3 cm/s to 8.0 x 10-5 cm/s (3.1 x 10-8 in/s to 3.1 x
+                            10-5 in/s);
+permit                      (kk) “permit” means a written approval from the authority having
+                            jurisdiction;
+potable water               (ll) revoked by EC427/03;
+pressure                    (mm) “pressure distribution system” means a distribution system
+distribution system         designed such that a pump or siphon supplies septic tank effluent to
+                            non-perforated pipe that is drilled with holes of such diameter and
+                            spacing that the top header, full length of all interconnecting pipes,
+                            and the bottom header are under a positive pressure;
+pumper’s licence            (mm.1) “pumper’s licence” means a licence issued under subsection
+                            22(2);
+professional                (mm.01) “professional engineer” means a professional engineer as
+engineer                    defined in the Engineering Profession Act R.S.P.E.I. 1988, Cap. E-
+                            8.1;
+registered installer        (nn) “registered installer” means a person who is employed and
+                            supervised by a contractor, and is registered with the authority
+                            having jurisdiction as a person qualified to install sewage disposal
+                            systems;
+restaurant                  (nn.1) “restaurant” means a place where meals can be bought and
+                            eaten and includes a cafeteria and an institutional kitchen;
+septage                     (oo) “septage” means all settled solids, scum, liquid or other material
+                            removed from a septic tank or disposal field;
+septage holding             (oo.1) “septage holding facility” means a facility that is used for the
+facility                    temporary storage of septage prior to the final disposal of septage
+
+
+
+                                                             4
+Updated 2010            Environmental Protection Act              Cap. E-9                       5
+                     Sewage Disposal Systems Regulations
+
+
+    within a wastewater treatment facility approved to receive septage
+    by the authority having jurisdiction;
+    (pp) “septic tank” means a watertight receptacle that receives           septic tank
+    sewage which is designed and installed so as to permit settling of
+    settleable solids from the sewage, retention of the solids and scum,
+    partial digestion of the organic matter, and discharge of the liquid
+    portion into a disposal field;
+    (qq) “sewage” means any human waste emitted from a house or              sewage
+    premises where persons work, live or frequent and includes waste
+    from ablutions, culinary activities and laundering;
+    (rr) “sewage disposal system” includes any system or part thereof        sewage disposal
+    for disposing of sewage or waste by means of one or more settling        system
+
+    or septic tanks and one or more disposal fields, and any other system
+    or part thereof for sewage or waste disposal not directly connected
+    to a municipal or approved central sewage collection system;
+    (ss) “sewage holding tank” means a closed, water-tight receptacle        sewage holding
+    designed and used to receive and store sewage or septic tank effluent    tank
+
+    which does not discharge waste water;
+    (ss.1) “sewer line” means a pipe that transports sewage from a           sewer line
+    building to a septic tank or a sewer collection main;
+    (ss.2) “site assessor’s licence” means a licence issued under section    site assessor’s
+    17.1;                                                                    licence
+
+    (tt) “site suitability assessment” means an assessment completed on      site suitability
+    property to determine the suitability of that property for on site       assessment
+
+    sewage disposal and may include test pit inspection(s) and
+    permeability test(s);
+    (uu) “sludge” means the semi-liquid material that is removed from a      sludge
+    wastewater treatment system as an end product of the treatment
+    process;
+    (vv) “standard disposal field” means                                     standard disposal
+      (i) a multiple trench or alternative multiple trench disposal field,   field
+
+      or
+      (ii) another type of disposal field permitted under section 21, but
+      does not include a contour trench or leaching chamber disposal
+      field (see Appendix A, Figure A.1);
+    (ww) “top header” means the first header of each disposal field to       top header
+    receive effluent from the septic tank (see Appendix A, Figures A.1
+    and A.2);
+
+
+
+
+                                     5
+6                     Cap. E-9                 Environmental Protection Act               Updated 2010
+                                            Sewage Disposal Systems Regulations
+
+
+                           (xx) “unstabilized sewage” means sewage that has been held in a
+unstabilized sewage
+                           septic tank or a holding tank for less than 30 days;
+waterline                  (yy) “waterline” means the maximum elevation of the liquid in a
+                           septic tank;
+water table
+                           (zz) “water table” means the level at which water stands in a
+                           shallow well open along its depth and penetrating the surficial
+                           deposits just deeply enough to encounter standing water in the
+                           bottom (level of water in saturated soil where hydraulic pressure is
+                           equal to zero). (EC403/03; 427/03; 429/07; 647/07; 551/09)
+Categories of         1.1. For the purposes of these regulations, a Category I, II or III lot is a
+property              property that has been assessed as such in a site suitability assessment
+                      completed in accordance with section 17. (EC427/03)
+Application           2. (1) These regulations apply to the installation, construction,
+                      reconstruction or modification of sewage disposal systems.
+System expansion        (2) Where an existing sewage disposal system is to be expanded or
+or modification       modified, the authority having jurisdiction may, for the purpose of
+                      protecting public health or the environment, require the entire existing
+                      sewage disposal system or any part thereof to be modified or replaced in
+                      conformance with the provisions of these regulations. (EC403/03;
+                      427/03)
+
+                                             LICENCES AND PERMITS
+Licence               3. (1) No contractor shall install, construct, reconstruct or modify a
+                      sewage disposal system, or cause the same to be done, without first
+                      obtaining a contractor’s licence.
+Site supervision        (2) No licensed contractor shall permit a sewage disposal system to be
+                      installed, constructed, reconstructed or modified unless the licensed
+                      contractor, or a registered installer in the employ of the licensed
+                      contractor, is present on the job site during the installation, construction,
+                      reconstruction or modification.
+Responsibility          (3) Where a licensed contractor carries out work on a sewage disposal
+                      system, or causes it to be carried out, the licensed contractor shall ensure
+                      that the work is carried out in compliance with the standards and
+                      requirements prescribed in these regulations.
+Application             (4) The application for a contractor’s licence shall be made in such
+                      form and manner as prescribed by the authority having jurisdiction and
+                      submitted with the prescribed fee.
+Qualifications          (5) A contractor’s license shall be granted to a contractor if:
+
+
+                                                            6
+Updated 2010             Environmental Protection Act                Cap. E-9                      7
+                      Sewage Disposal Systems Regulations
+
+
+    (a) an application for a contractors license is made; and
+    (b) an applicant has attended a seminar or workshop sponsored by
+    the authority having jurisdiction and has completed and passed an
+    examination administered by the authority having jurisdiction; or
+    (c) an applicant holds a license issued by another province or
+    territory and the Minister considers the license to be equivalent to a
+    contractor’s license issued under these regulations.
+  (6) Revoked by EC427/03.                                                      Waiver
+
+  (7) Revoked by EC429/07.                                                      Appointment of the
+                                                                                Board
+  (8) Revoked by EC429/07.                                                      Duties of the Board
+
+   (9) No contractor’s licence issued under the provisions of this section      Transfer
+is transferable.
+  (10) A contractor’s licence is valid for a period of not more than            Time frame
+twenty-four months from the date of issuance.
+   (11) A contractor’s licence shall expire on the date indicated on the        Expiry
+licence and may be renewed upon payment of the renewal fee.
+  (12) The Minister may suspend a contractor’s licence for a period of          Suspension
+time if the Minister is satisfied that one or all of the following conditions
+prevail:
+    (a) the licence holder has been convicted of two or more offences
+    under these regulations or any regulations replaced by these
+    regulations;
+    (b) the licence holder has obtained a licence through
+    misrepresentation or fraud;
+    (c) the licence holder has allowed some other person to have the use
+    of their licence;
+    (d) the licence holder has failed to attend a workshop or seminar
+    sponsored by the authority having jurisdiction for two consecutive
+    years.
+  (13) Before any person may qualify as a registered installer, he or she       Registered installer
+must have registered their attendance at a workshop or seminar
+sponsored by the authority having jurisdiction and must have paid the
+application fee.
+  (14) The registration for registered installers is valid for not more than    Renewal
+twenty-four months from the date of registration or renewal.
+  (15) Any registered installer who fails to attend a workshop or seminar       Continuing
+sponsored by the authority having jurisdiction for two consecutive years,       education
+
+shall cease to be registered.
+
+
+                                      7
+8                  Cap. E-9                 Environmental Protection Act           Updated 2010
+                                         Sewage Disposal Systems Regulations
+
+
+                     (16) Where a contractor ceases to be qualified in accordance with
+Reinstatement of
+qualifications
+                   subsection (12) he or she may be reinstated by the Minister upon
+                   reapplication pursuant to subsection (4) and in such circumstances the
+                   Minister may require reexamination pursuant to clause (5)(b).
+Variance             (17) Notwithstanding these regulations, the owner of a dwelling may
+                   install an on-site sewage disposal system for the dwelling unit provided
+                   that
+                        (a) the lot conforms to a Category I lot as set out in the Planning Act
+                        Regulations (EC601/77);
+                        (b) the on-site sewage disposal system to be installed is a standard,
+                        multiple-trench, sewage disposal system for a single family
+                        dwelling; and
+                        (c) not more than one on-site sewage disposal system will be
+                        installed by the dwelling owner in a calendar year. (EC403/03;
+                        427/03; 429/07)
+Permit             4. (1) No contractor or dwelling owner shall commence the construction,
+                   reconstruction, installation or modification of a sewage disposal system,
+                   or cause the same to be done, unless
+                        (a) an application for a permit has been completed, and a permit has
+                        been issued pursuant to these regulations;
+                        (b) the application fee has been paid in full; and
+                        (c) the person installing the system has a copy of the permit in his or
+                        her possession on site.
+Multiple             (2) No person shall be granted a sewage disposal permit to install more
+installations      than one on-site sewage disposal system per calendar year unless that
+                   person holds a valid contractor’s licence.
+Construction and     (3) No contractor, registered installer or dwelling owner shall install,
+installation       construct, reconstruct or modify a sewage disposal system unless it is
+                   designed, located, installed, constructed, reconstructed or modified in
+                   accordance with the standards and requirements prescribed in these
+                   regulations.
+Construction         (4) The Minister may prohibit the construction, reconstruction,
+prohibited         installation or modification of a sewage disposal system when, in the
+                   Minister’s opinion, weather conditions or ground conditions are
+                   unsuitable.
+Covering system       (5) No contractor, registered installer or dwelling owner shall cover a
+                   sewage disposal system, or cause the same to be done, without having
+                   first served notice to, and received instructions from, the authority
+                   having jurisdiction.
+
+
+
+
+                                                         8
+Updated 2010                       Environmental Protection Act                                      Cap. E-9                       9
+                                Sewage Disposal Systems Regulations
+
+
+  (6) Upon receipt of a permit for a sewage disposal system, no
+                                                                                                                Deviation
+contractor, registered installer or dwelling owner shall deviate from the
+conditions of the permit without prior approval of the authority having
+jurisdiction.
+  (7) A sewage disposal system permit issued pursuant to subsection (1),                                        Permit duration
+shall be valid for a period of twenty-four months from the date of issue.
+(EC403/03; 427/03)
+4.1 A professional engineer or a licensed contractor who holds a site                                           Exception
+assessor’s license
+    (a) is exempt from subsection 4(1); and
+    (b) is exempt from subsections 3(3), 4(3) and 4(5) in respect of the
+    requirements of sections 8.1 to 16. (EC429/07; 647/07)
+
+                                                   FEES
+5. (1) The fees payable for an application are as follows:                                                      Fees
+     (a) for an application by a contractor for a sewage disposal
+         system permit....................................................................             $ 75
+     (b) for an application by a dwelling owner for a sewage
+         disposal system permit......................................................                  $100
+     (c) for an application for a site suitability assessment per
+         lot......................................................................................     $160
+     (d) for an application for, or renewal of, a pumper’s
+         licence (2 yrs)....................................................................           $250
+     (e) for an application for, or renewal of, a contractor’s
+         licence (2 yrs)....................................................................           $250
+     (f) for an application for, or renewal of, a qualified site
+         assessor’s licence (2 yrs)...................................................                 $250
+     (g) for an application to be registered as a registered
+         installer, or to renew a registration as a registered
+         installer (2 yrs)..................................................................           $ 25
+  (2) An inspection fee of $50.00 per inspection shall be payable where                                         Extra inspections
+extra inspections are required:
+     (a) for reinspection of a sewage disposal system that has been found
+     to have deficiencies;
+     (b) for additional requested inspections. (EC403/03; 427/03; 732/04;
+     429/07)
+
+                           CERTIFICATE OF COMPLIANCE
+6. Within 60 days of construction, reconstruction or installation of a                                          Certificate of
+sewage disposal system, the licensed contractor shall furnish a certificate                                     compliance
+
+
+
+
+                                                      9
+10                     Cap. E-9                 Environmental Protection Act           Updated 2010
+                                             Sewage Disposal Systems Regulations
+
+
+                       of compliance to the owner and the authority having jurisdiction.
+                       (EC403/03; 427/03)
+
+                                          ORDER TO UNCOVER SYSTEM
+Power to order         7. Where the authority having jurisdiction finds that a sewage disposal
+system                 system has been constructed, reconstructed, installed or modified and
+                       covered without permission, the authority having jurisdiction may order
+                       the owner of the system or the licensed contractor to uncover all or part
+                       of the system for inspection. (EC403/03; 427/03)
+
+                                           LOCATION — RESTRICTIONS
+Beach setback          8. (1) No contractor, registered installer or dwelling owner shall install
+                       or construct a sewage disposal system, or cause the same to be done, on a
+                       lot or existing parcel of land closer to the beach than
+                            (a) the distance determined by multiplying the erosion rate for that
+                            shoreline by 60; or
+                            (b) 23 m (75 ft),
+                       whichever is greater, measured from the top of the bank to the nearest
+                       portion of the system.
+Application              (2) This section does not apply to approved lots or existing parcels of
+                       land as defined in the Planning Act Subdivision and Development
+                       Regulations (EC693/00). (EC403/03; 427/03)
+
+                                                    SEPTIC TANKS
+Standards and          8.1 Section 9, Table A of Appendix A, and Appendix E prescribe the
+requirements           standards and requirements for
+                            (a) septic tanks used in the installation, construction, reconstruction
+                            or modification of sewage disposal systems; and
+                            (b) the sewer lines, effluent lines and grease interceptor tanks
+                            connected to such septic tanks. (EC427/03)
+Septic tank location   9. (1) A septic tank shall be located not less than
+                            (a) 15.2 m (50 ft) from any well;
+                            (b) 3.0 m (10 ft) from a parcel boundary; and
+                            (c) 4.6 m (15 ft) from a foundation wall.
+Sewer line               (2) A sewer line shall
+                           (a) be constructed of sewer pipe that is straight, non-perforated,
+                           rigid, smooth bore, watertight, certified and of an SDR (or
+                           equivalent) grade;
+                           (b) have sealed joints;
+                           (c) be located a minimum of 3.0 m (10 ft) from any well;
+
+
+                                                             10
+Updated 2010            Environmental Protection Act               Cap. E-9                      11
+                     Sewage Disposal Systems Regulations
+
+
+    (d) have certified, long-sweep fittings for changes in direction; and
+    (e) be located no closer than 450 mm (18 in) from a water line.
+                                                                              Elevation
+  (3) The elevation of a septic tank shall be such as to afford a minimum
+slope of two percent in the sewer line from the building to the tank.
+ (3.1) An effluent line from a septic tank to a disposal field shall have a   Effluent line
+minimum slope of one percent.
+  (4) A septic tank shall be watertight and constructed of concrete,          Construction
+polyethylene or other material not subject to corrosion or decay and
+which is approved by the authority having jurisdiction, but concrete used
+in the construction shall not be in block form and steel septic tanks shall
+not be permitted.
+  (5) A single-compartment septic tank shall have a riser section that        Risers
+    (a) is installed over the outlet opening in the top of the septic tank;
+    (b) has a watertight seal where it joins the tank;
+    (c) raises the outlet opening sufficiently to prevent flooding by
+    surface water; and
+    (d) is equipped with a tamper-resistant lid labelled “DANGER—
+    DO NOT ENTER”.
+  (5.1) Each compartment of a multiple-compartment septic tank shall          Idem
+have a riser section that is installed and equipped in accordance with the
+requirements of clauses (5)(a) to (d).
+  (5.2) Every prefabricated septic tank shall be installed in accordance      Installation of
+with the manufacturer’s recommendations.                                      prefabricated septic
+                                                                              tanks
+
+  (6) Every prefabricated concrete septic tank shall be designed and          Standard for
+constructed in conformity with the latest CSA Standard for prefabricated      prefabricated
+                                                                              concrete septic
+septic tanks.                                                                 tanks
+
+  (7) Every polyethylene and every fibreglass septic tank shall be            Standard for
+certified as being in accordance with the latest CSA Standard for             polyethylene and
+                                                                              fibreglass tanks
+prefabricated septic tanks.
+  (8) Every cast-in-place concrete septic tank shall conform to the           Cast-in-place
+following standards:                                                          concrete septic
+                                                                              tanks
+     (a) concrete shall have a 28 day minimum compressive strength of
+     25 MPa (3625 psi) and a strength test shall comprise two standard
+     cured cylinders, and testing procedures shall be in accordance with
+     CSA Standard A23.2 and evaluation of strength tests shall be in
+     accordance with CSA Standard A23.1;
+
+
+
+
+                                     11
+12                      Cap. E-9                 Environmental Protection Act           Updated 2010
+                                              Sewage Disposal Systems Regulations
+
+
+                             (b) the minimum wall thickness of a cast-in-place concrete septic
+                             tank shall be 15 cm (6 in), and the minimum floor thickness shall be
+                             10 cm (4 in);
+                             (c) means of access shall be provided over the inlet and outlet of a
+                             septic tank and an access opening shall have a minimum inside
+                             dimension of 50 cm (20 in) and shall be provided with covers;
+                             (d) the liquid depth of a septic tank shall be not less than 90 cm (36
+                             in);
+                             (e) septic tanks shall have a minimum of 22.5 cm (9 in) of air space
+                             between the waterline and the interior side of the septic tank cover;
+                             (f) septic tank inlets shall have either inlet baffles, T, TY, or elbow
+                             fittings to maintain a quiescent flow of sewage into the septic tank
+                             and the inlet baffles or inlet fittings shall extend not more than 7.5
+                             cm (3 in) and not less than 2.5 cm (1 in) below the waterline;
+                             (g) septic tank outlets shall have either open topped T, or open
+                             topped TY fittings or baffles which extend a minimum of 45 cm (18
+                             in) below the waterline and above the waterline to within 5 cm (2 in)
+                             of the septic tank cover;
+                             (h) septic tanks shall have not less than 5 cm (2 in) difference in
+                             elevation between the bottom of the inlet pipe where it enters the
+                             interior of the septic tank and the bottom of the outlet pipe where it
+                             begins to pass through the wall of the tank towards a disposal field;
+                             (i) travel distance of sewage between the inlet and outlet within a
+                             septic tank shall be not less than 120 cm (48 in), measured
+                             horizontally.
+Compartments               (9) A septic tank having a capacity of greater than 4090 litres (900
+                        imperial gallons) shall have two compartments; the capacity of the first
+                        compartment shall be equal to two-thirds of the total septic tank capacity,
+                        a minimum opening of 20 cm by 20 cm (8 in by 8 in) shall be left in the
+                        partition in the septic tank, and such opening shall be half-way in the
+                        liquid depth.
+Septic tank,              (10) The minimum septic tank capacity for a dwelling unit shall be as
+minimum capacity        set out in Table A of Appendix A.
+Idem, other than          (11) Septic tanks for establishments other than those listed in Table A
+those listed in Table   of Appendix A shall have a minimum septic tank capacity determined by
+                        the following formula:
+                             (a) for an estimated (or determined) sewage flow of less than 6800
+                             litres/day (1500 Igal/day), the capacity of the septic tank shall be
+                             two times the flow;
+                             (b) for an estimated (or determined) sewage flow of greater than
+                             6800 litres/day (1500 Igal/day), the capacity of the septic tank shall
+                             be determined as follows:
+
+
+
+                                                              12
+Updated 2010              Environmental Protection Act               Cap. E-9                    13
+                       Sewage Disposal Systems Regulations
+
+
+               5100 + Q (metric); or
+               1125 + Q (imperial),
+               where Q is the daily sewage flow.
+                                                                                Tank capacity
+  (12) In no case shall the septic tank capacity be less than 2725 litres
+(600 imperial gallons).
+  (13) The minimum sewage flow from the establishments identified in            Minimum sewage
+Appendix B shall comply with the respective minimum sewage flows                flow
+
+identified therein or shall be as determined by measurement.
+   (14) A septic tank serving a restaurant shall be fitted with an effluent     Septic tank effluent
+filter that is installed in accordance with the manufacturer’s                  filter
+
+recommendations.
+  (15) A grease interceptor tank shall be installed in front of a septic tank   Grease interceptor
+serving a restaurant.                                                           tank
+
+
+  (16) A grease interceptor tank installed in accordance with subsection        Idem
+(15) shall
+    (a) be watertight;
+    (b) be constructed of
+       (i) precast concrete and shall conform with the standards for
+       prefabricated concrete septic tanks required by subsection 9(6),
+       (ii) polyethylene and shall be certified as being in accordance
+       with the latest CSA Standard for prefabricated septic tanks, or
+       (iii) any other material, other than steel, that is not subject to
+       corrosion or decay, and which is approved by the authority having
+       jurisdiction;
+    (c) have a minimum capacity of 2725 litres (600 imperial gallons);
+    (d) be connected only to a dishwasher or to a kitchen sink that does
+    not have a garbage grinder; and
+    (e) be located not less than 1.5m (5 ft) from the building containing
+    the dishwasher or kitchen sink to which the tank is connected.
+  (17) The capacity of a grease interceptor tank shall be calculated, for       Idem
+the purposes of clause (16)(c), in accordance with the equation set out in
+Appendix E. (EC403/03; 427/03)
+9.1 (1) For the purposes of this section, a septic tank is abandoned if it is   Abandoned septic
+disconnected from a source of sewage on a parcel served by the septic           tank
+
+tank.
+   (2) The owner of a parcel served by a septic tank shall ensure that the      Decommissioning
+septic tank is decommissioned, in accordance with this section, by a            abandoned septic
+                                                                                tank
+licensed contractor within 10 days after the septic tank is abandoned.
+
+
+
+                                       13
+14                    Cap. E-9                 Environmental Protection Act            Updated 2010
+                                            Sewage Disposal Systems Regulations
+
+
+                        (3) A licensed contractor shall decommission an abandoned septic tank
+Abandoned septic
+tank
+                          (a) by removing the contents of the tank, disinfecting the tank and
+                          filling the tank with clean soil fill; or
+                          (b) by removing the tank, disinfecting the resulting excavation and
+                          filling the excavation with clean soil fill.
+Notice                  (4) Where a licensed contractor decommissions an abandoned septic
+                      tank, the licensed contractor shall notify the authority having jurisdiction
+                      of the decommissioning. (EC427/03)
+
+                          SEWAGE PUMPING STATIONS AND SIPHON CHAMBERS
+Standards and         9.2 Section 10 prescribes the standards and requirements for
+requirements               (a) sewage pumping stations and siphon chambers used in the
+                           installation, construction, reconstruction or modification of sewage
+                           disposal systems; and
+                           (b) the sewer lines connected to such pumping stations and siphon
+                           chambers. (EC427/03)
+Pumping station or    10. (1) A sewage pumping station or siphon chamber is required where
+siphon chamber            (a) the required length of a standard disposal field or a leaching
+required
+                          chamber disposal field exceeds 150 m (500 ft);
+                          (b) the required length of a contour trench disposal field exceeds 46
+                          metres (150 feet); or
+                          (c) the disposal field is to be at an elevation higher than the elevation
+                          of the septic tank.
+Location                (2) A sewage pumping station or siphon chamber shall be located not
+                      less than
+                           (a) 15.2 m (50 ft) from any well;
+                           (b) 3.0 m (10 ft) from a parcel boundary; and
+                           (c) 4.6 m (15 ft) from a foundation wall.
+Gravity sewer line      (3) The sewer line from the septic tank to the sewage pumping station
+                      or siphon chamber
+                           (a) shall be constructed of non-perforated, rigid, smooth-bore,
+                           watertight, certified, sewer pipe with sealed joints; and
+                           (b) shall be located a minimum of 3.0 m (10 ft) from any well.
+Pressure sewer line     (4) The pressure sewer line from the sewage pumping station or siphon
+                      chamber to the disposal field
+                          (a) shall be certified pressure sewer pipe (SDR 26 or equivalent)
+                          with sealed joints; and
+                          (b) shall be located a minimum of 3.0 m (10 ft) from any well.
+Pumping station         (5) A sewage pumping station
+construction
+
+
+
+                                                            14
+Updated 2010            Environmental Protection Act               Cap. E-9                     15
+                     Sewage Disposal Systems Regulations
+
+
+    (a) shall be watertight and constructed of concrete, polyethylene or
+    other material not subject to corrosion or decay, and which is
+    approved by the authority having jurisdiction but concrete used in
+    the construction shall not be in block form and steel pumping
+    stations shall not be permitted;
+    (b) shall be designed and constructed to withstand the lateral and
+    bearing loads to which it will be subjected;
+    (c) shall provide at least one quarter (1/4) day storage above the high
+    alarm set point;
+    (d) shall have a secured, water-tight, above-ground access with a
+    minimum inside dimension of 50 cm (20 in); and
+    (e) shall be wired in compliance with section 18 of the Canadian
+    Electrical Code.
+  (6) All pumps used in sewage pumping stations shall                         Pumps
+    (a) be open face centrifugal type designed to pump sewage;
+    (b) have a capacity approximately 2.5 times the average daily flow
+    in litres per minute (gallons/minute) but not less than 23 litres per
+    minute (5 gallons/ minute) at the system head;
+    (c) be provided with a suitable shut off valve on the discharge line;
+    and
+    (d) be piped so that they can be removed for servicing without
+    having to completely dewater the pumping station or without
+    requiring service personnel to enter the lift station.
+  (7) Each sewage pumping station shall be provided with control              Pumping station
+    (a) to automatically start and stop the pumps based on water level;       controls
+
+    (b) to automatically alternate the pumps in a multiple-pump system;
+    (c) to provide a high water level alarm (audiovisual) in an area
+    where it may be easily monitored; and
+    (d) to provide a pump failure alarm (audiovisual), in a multiple
+    pump system, when a pump motor fails to start on demand.
+  (8) A siphon chamber                                                        Siphon chamber
+    (a) shall be watertight and constructed of concrete, polyethylene or      construction
+
+    other material not subject to corrosion or decay, and which is
+    approved by the authority having jurisdiction but concrete used in
+    the construction shall not be in block form and steel siphon
+    chambers shall not be permitted;
+    (b) shall be designed and constructed to withstand the lateral and
+    bearing loads to which it will be subjected;
+    (c) shall have an average discharge rate greater than 2.5 times the
+    average daily influent flow in gallons per minute;
+    (d) shall have a volume equal to 0.6 the volume of the drainage pipe
+    in the disposal field to which it discharges; and
+
+
+
+                                     15
+16                     Cap. E-9                 Environmental Protection Act           Updated 2010
+                                             Sewage Disposal Systems Regulations
+
+
+                            (e) shall have a secured, water-tight, above-ground access with a
+                            minimum inside dimension of 50 cm (20 in). (EC403/03; 427/03)
+
+                                                  DISPOSAL FIELDS
+Standards and          10.1 Sections 11 to 15 prescribe the standards and requirements for
+requirements           disposal fields used in the installation, construction, reconstruction or
+                       modification of sewage disposal systems. (EC427/03)
+Disposal fields        11. (1) A disposal field shall not be located
+                            (a) in an area where either the maximum water table or bedrock is
+                            less than 0.6 m (2 ft) below the ground surface at any time;
+                            (b) in soil which does not meet the definition of permeable soil;
+                            (c) in any area which may be subject to flooding either by a natural
+                            body of water or by surface water runoff;
+                            (d) under a roadway;
+                            (e) under a paved area;
+                            (f) under an area used by motor vehicles;
+                            (g) under an area used intensively by livestock;
+                            (h) less than 6.1 m (20 ft) from a foundation;
+                            (i) less than 3.0 m (10 ft) from a parcel boundary or an embankment;
+                            (j) less than 15.2 m (50 ft) from any well; or
+                            (k) less than 15.2 m (50 ft) from a natural boundary of a body of
+                            water.
+Installation of          (2) A disposal field shall be installed
+disposal field             (a) approximately parallel to the ground contour to spread the
+                           effluent across a longer slope interface; and
+                           (b) with a minimum depth of 0.3 m (12 in) of permeable soil below
+                           the bottom of any trench of the disposal field.
+Septic tank required     (3) A disposal field shall not be installed unless a septic tank had first
+                       been constructed in accordance with section 9.
+Location                 (4) Whenever possible, a sewage disposal system shall be located
+                       downgrade of the nearest well. (EC403/03; 427/03)
+Standard disposal      12. (1) Unless otherwise approved by the authority having jurisdiction, a
+field                  standard disposal field shall be rectangular, with an even number of
+                       parallel lines of drainage pipe and shall have a top and bottom header
+                       (see Appendix A, Figures A.1 and A.2) and the pipe connecting the
+                       disposal field with the septic tank shall connect at the centre of the top
+                       header with an equal number of lines on each side of the connection.
+Pipe                     (2) The pipe from the septic tank to the top header shall be non-
+                       perforated, rigid, smooth bore, certified sewer pipe with sealed joints.
+
+
+
+                                                             16
+Updated 2010             Environmental Protection Act               Cap. E-9                       17
+                      Sewage Disposal Systems Regulations
+
+
+  (3) The top header of a standard disposal field shall be level and
+                                                                               Top header
+constructed of non-perforated, rigid, smooth bore, certified sewer pipe
+and fittings, with sealed joints.
+                                                                               Bottom header
+   (4) The bottom header of a standard disposal field shall be level and
+constructed of drainage pipe, or non-perforated, certified sewer pipe and
+fittings.
+  (5) When the bottom header of a disposal field is constructed of             Installation
+drainage pipe, its installation shall conform with the drainage pipe
+construction and installation requirements of subsection 11(1), (6) and
+(9).
+   (6) As shown in Appendix A, Figure A.1.1, drainage pipe in a multiple       Drainage pipe
+trench disposal field shall be
+     (a) a minimum of 750 mm (3 in) interior diameter;
+     (b) laid on a slope of not less than 5 cm (2 in) and not more than 10
+     cm (4 in) per 15 m (50 ft) of length, with parallel lines not less than
+     1.5 m (5 ft) apart;
+     (c) laid in lines of not more than 30 m (100 ft) long;
+     (d) laid on at least 20 cm (8 in) depth of gravel in a 45 cm (18 in)
+     wide trench or on at least 15 cm (6 in) depth of gravel in a 60 cm (24
+     in) wide trench;
+     (e) completely covered with gravel and the full width of the gravel
+     shall be covered with barrier material.
+  (7) Barrier material shall be a light weight (50 g/m2 or more) non-          Barrier material
+woven (i.e. felted, needle punched or heat bonded fibre) fabric or
+proprietary geotextile with a permeability greater than 0.001 m/s (0.04
+in/sec) and an opening size of less than 700 µm (0.028 in).
+  (7.1) Barrier material shall be covered with between 0.3 m (12 in) and       Idem
+0.4 m (15 in) of soil.
+  (8) Where the total length of drainage pipe exceeds 150 m (500 ft),          Multiple disposal
+there shall be constructed two or more separate disposal fields connected      fields
+
+to the septic tank by using
+     (a) a sewage pumping station; or
+     (b) a siphon chamber.
+  (9) Unless otherwise approved by the authority having jurisdiction, the      Trenches
+bottom of standard disposal field trenches shall be
+    (a) level and of equal elevation; and
+    (b) not less than 45 cm (18 in) in width.
+  (10) The minimum total length of drainage pipe for single and multiple       Disposal field
+family dwellings on Category I or Category II lots is given in Appendix        minimum drainage
+                                                                               pipe length
+
+
+
+                                      17
+18                      Cap. E-9                 Environmental Protection Act            Updated 2010
+                                              Sewage Disposal Systems Regulations
+
+
+                        A, Table A.1 and the minimum total length of drainage pipe for
+                        establishments identified in Appendix B, or others not listed, shall be
+                        calculated using the estimated (or measured) daily sewage flow and the
+                        on-site sewage disposal system design formula in Appendix D.
+Designed systems          (10.1) The sewage disposal system installed on a lot with a water table
+for Category III        between 0.6 m (2 ft) and 1.2 m (4 ft) below the soil surface shall be
+properties
+                        designed by a qualified engineer.
+Cottage sewage             (11) A cottage sewage disposal system shall have a minimum septic
+disposal system         tank capacity of 2725 litres (600 imperial gallons) and a minimum
+                        drainage pipe length equal to 75% of the minimum drainage pipe length
+                        listed for a two bedroom single family dwelling (see Appendix A, Table
+                        A.1). (EC403/03; 427/03)
+Alternative multiple    13. (1) The alternative multiple trench disposal field shall conform with
+trench disposal field   all requirements of sections 11 and 12 and shall have lines spaced at a
+                        minimum of 4 m (13 ft) apart and be oriented so as to have the greatest
+                        dimension across the slope (see Appendix A, Figure A.2).
+Pipe                      (2) The pipe from the septic tank to the top header shall be non-
+                        perforated, rigid, smooth bore, certified sewer pipe with sealed joints.
+Alternative multiple      (3) Where the lines of drainage pipe in an alternative multiple trench
+field lines             disposal field are laid to have the effluent in the drainage pipe flow in the
+                        direction of the natural slope of the land, the disposal field must have a
+                        bottom header constructed of drainage pipe. The installation of the
+                        header shall conform with the drainage pipe construction and installation
+                        requirements of subsections 11(1), 12(6) and (9).
+Bottom header              (4) When the bottom header in an alternative multiple trench disposal
+                        field is installed in accordance with subsection (3), the pipe shall be laid
+                        in a trench that follows as nearly as possible along a natural elevation
+                        contour line of the site, with the bottom of the trench, the gravel bed and
+                        the drainage pipe laid truly level.
+Disposal field,           (5) For single and multiple family dwellings the minimum total length
+minimum drainage        drainage pipe in an alternative multiple trench disposal field is given in
+pipe length
+                        Appendix A, Table A.1, and the minimum total length of drainage pipe
+                        for establishments identified in Appendix B, or others not listed, shall be
+                        calculated using the estimated (or measured) daily sewage flow and the
+                        on-site sewage disposal system design formula in Appendix D.
+                        (EC403/03; 427/03)
+Leaching chamber        14. (1) A leaching chamber disposal field may be used for those
+disposal field          applications and locations where soil and other site conditions are
+                        suitable for a standard disposal field.
+
+
+                                                              18
+Updated 2010            Environmental Protection Act               Cap. E-9                       19
+                     Sewage Disposal Systems Regulations
+
+
+  (2) The pipe from the septic tank to the top header shall be non-           Pipe
+perforated, rigid, smooth bore, certified sewer pipe with sealed joints.
+   (3) Unless otherwise stated, installation of a leaching chamber disposal   Location
+field shall conform with all requirements of Section 11.
+  (4) The leaching chamber shall be constructed from suitable materials       Materials
+that are impervious to septic tank effluent and to soil chemicals and it
+shall not be subject to corrosion, and shall be structurally capable of
+supporting the loads to which it will be subjected.
+  (5) Leaching chambers shall be designed and manufactured such that,         Design and
+when installed, they fit tightly and securely together so as to prevent       manufacture
+
+backfill soil migration into the chamber void space and end plates must
+be included in the design and installation.
+  (6) Leaching chamber systems may be installed in a multiple-trench or       Configuration
+in a serial distribution configuration (see Appendix A, Figure A.4 and
+Figure A.4.2).
+  (7) When leaching chambers are installed in a multiple-trench               Multiple trench
+configuration, the following shall apply (see Appendix A, Figure A.4):
+    (a) the leaching chamber disposal field shall be installed
+       (i) approximately parallel to the ground contour,
+       (ii) with lines of chambers of equal length, and
+       (iii) with a minimum depth of 0.3 m (12 in) of permeable soil
+       below the bottom of any trench of the disposal field;
+    (b) the minimum distance between the walls of adjacent trenches
+    shall be 0.9 m (3 ft);
+    (c) the bottom of each trench shall be level and of equal elevation;
+    (d) the chambers shall be covered with between 0.3 m (12 in) and
+    0.4 m (15 in) of soil cover;
+    (e) each line of chambers shall be fed from a header, via tees, and
+    the downstream end of each line of chambers shall be connected to a
+    bottom header;
+    (f) for gravity-fed systems, the inlet pipe shall extend through the
+    end plate and terminate on an adequate splash plate;
+    (g) for pressure distribution systems, perforated, CSA-approved,
+    PVC pipe, extending the length of the chambers, is required.
+  (8) Where the total length of leaching chambers in a multiple-trench        Multiple disposal
+configuration exceeds 150 m (500 ft), there shall be constructed two or       fields
+
+more separate disposal fields connected to the septic tank by using
+    (a) a sewage pumping station; or
+    (b) a siphon chamber.
+
+
+
+
+                                     19
+20                    Cap. E-9                 Environmental Protection Act           Updated 2010
+                                            Sewage Disposal Systems Regulations
+
+
+Serial distribution     (9) When leaching chambers are installed in a serial distribution
+                      configuration
+                          (a) the basic trench construction shall comply with subsection (7)
+                          and each row shall be connected and placed parallel to the existing
+                          natural grade (see Appendix A, Figure A.4.2);
+                          (b) the maximum number of lines that shall be connected for gravity
+                          distribution is five, with the maximum length of any one line being
+                          30 m (100 ft); and
+                          (c) subject to subsection (13), the minimum distance between the
+                          walls of adjacent trenches shall be 0.9 m (3 ft);
+                          (d) the minimum depth of permeable soil below the bottom of any
+                          trench shall be 0.3 m (12 in);
+                          (e) the lines of chambers shall be of equal length unless otherwise
+                          approved by the authority having jurisdiction; and
+                          (f) the slope across the disposal field area shall not be less than five
+                          percent.
+Approval                (10) Every leaching chamber manufacturer must receive product
+                      approval from the authority having jurisdiction prior to use of its
+                      chambers on Prince Edward Island.
+Evidence of              (11) Before approving any leaching chamber, the authority having
+compliance            jurisdiction may require that the manufacturer provide such evidence as
+                      it considers necessary to establish compliance with subsections 14(4) and
+                      (5).
+Leaching chamber        (12) The sizing of 0.9 m (3 ft) wide leaching chamber systems for
+sizing                single and multiple family dwellings shall be as set out in Appendix A,
+                      Table A.1 and leaching chamber systems for establishments identified in
+                      Appendix B, or others not listed, shall be sized using the estimated (or
+                      measured) daily sewage flow and the on-site sewage disposal system
+                      design formula in Appendix D.
+Minimum distances        (13) When a leaching chamber disposal field is installed on a Category
+                      II lot, the minimum distance between the walls of adjacent trenches shall
+                      be 2.1 m (7 ft). (EC403/03; 427/03)
+Contour trench        15. (1) A contour trench disposal field may be installed on a lot with a
+disposal field        slope of 5% to 30%, and its installation shall conform with all the
+                      requirements of section 11.
+Design                 (2) A contour trench disposal field shall be designed as shown in
+                      Appendix A, Figures A.3 and A.3.1.
+Disposal field,         (3) For single and multiple family dwellings the minimum total length
+minimum drainage      drainage pipe in a contour trench disposal field is given in Appendix A,
+pipe length
+                      Table A.1. The minimum total length of drainage pipe for establishments
+
+
+                                                            20
+Updated 2010             Environmental Protection Act                Cap. E-9                   21
+                      Sewage Disposal Systems Regulations
+
+
+identified in Appendix B, or others not listed, shall be calculated using
+the estimated (or measured) daily sewage flow and the on-site sewage
+disposal system design formula in Appendix D.
+  (4) The pipe from the septic tank to the contour trench disposal field        Pipe
+shall be non-perforated, rigid, smooth bore, certified sewer pipe with
+sealed joints.
+   (5) The drainage pipe in a contour trench disposal field shall be            Drainage pipe
+situated towards the up-slope side of the bed and, where the bed is             location
+
+curved to follow the contour, the pipe shall be laid to a line that reduces
+the curvature of the pipe.
+  (6) A contour trench disposal field shall be operated as follows:             Gravity fed
+    (a) for systems of 30 m (100 ft) or less, the disposal field shall be
+    gravity fed using drainage pipe fed from either the end or near the
+    centre of the field;
+    (b) for systems of 30 m to 45 m (100 ft to 150 ft), the disposal field
+    shall be gravity fed using drainage pipe fed from near the centre of
+    the field;
+    (c) for beds longer than 45 m (150 ft), the disposal field shall be
+    pressure fed by a pump or siphon system.
+  (7) A contour trench disposal field shall be constructed to the               Construction
+following minimum standards (see Appendix A, figures A.3.1 through
+A.3.3):
+     (a) the minimum trench width shall be 0.9 m (3 ft);
+     (a.1) the minimum depth of permeable soil below the bottom of any
+     trench shall be 0.3 m (12 in);
+     (b) the minimum trench length shall be 30 m (100 ft) for single
+     family dwellings and 23 m (75 ft) for cottages;
+     (c) the sides and bottom of the trench shall be raked to remove the
+     smeared and compacted soil;
+     (d) 7.5 cm (3 in) of filter sand shall be placed on the bottom of the
+     trench and shall be benched up on the down-slope wall of the trench;
+     (e) a minimum of 10 cm (4 in) of gravel shall be placed the entire
+     width of the trench;
+     (f) the drainage pipe shall be laid on a slope of 8 to 12.5 cm per 50
+     m (2 to 3 in per 100 ft);
+     (g) the drainage pipe must be covered with at least 7.5 cm (3 in) of
+     gravel;
+     (h) the full width of gravel in the trench shall be covered with barrier
+     material;
+     (i) the barrier material shall be covered with between 0.3 m (12 in)
+     and 0.4 m (15 in) of soil, as measured directly over the distribution
+     pipe. (EC403/03; 427/03)
+
+
+                                      21
+22                      Cap. E-9                 Environmental Protection Act             Updated 2010
+                                              Sewage Disposal Systems Regulations
+
+
+                                              SEWAGE HOLDING TANKS
+Sewage holding          16. (1) No licensed contractor shall install or construct a sewage holding
+tank                    tank on an existing parcel, or cause it to be installed or constructed on
+                        such a parcel, without the approval of the authority having jurisdiction.
+Permission to install     (1.1) The authority having jurisdiction shall, on application, approve
+                        the installation or construction of a sewage holding tank on an existing
+                        parcel if
+                             (a) in the opinion of the authority having jurisdiction, no practical
+                             alternative disposal system can be installed; or
+                             (b) the sewage holding tank is to be installed or constructed for
+                             commercial use and, in the opinion of the authority having
+                             jurisdiction, no practical alternative sewage disposal system can be
+                             installed or constructed.
+Restriction               (1.2) No licensed contractor shall install or construct a sewage holding
+                        tank, or cause it to be installed or constructed, unless the tank as installed
+                        or constructed complies with the requirements of this section.
+Construction              (2) A sewage holding tank shall be designed, constructed and installed
+                        in accordance with section 9.
+Requirements for          (3) Notwithstanding subsection (2), a sewage holding tank installed or
+dwelling unit           constructed for a dwelling unit shall
+                            (a) have a liquid holding capacity of not less than 4500 litres (1000
+                            gallons);
+                            (b) have a high liquid level alarm probe positioned at the 3/4 mark
+                            of the tank and which shall be connected to an alarm system in the
+                            dwelling unit that may easily be heard or monitored;
+                            (c) be readily accessible to a pumping vehicle; and
+                            (d) have a watertight pump out connection which does not allow the
+                            unauthorized discharge of sewage.
+Requirements for          (4) Notwithstanding subsection (2), a sewage holding tank installed or
+commercial use          constructed to service a commercial establishment shall
+                            (a) have a liquid holding capacity of not less than two days’ storage
+                            and not less than 6800 litres (1500 gallons);
+                            (b) have a high liquid level alarm (audiovisual)
+                               (i) that is positioned at the 3/4 mark of the tank, and
+                               (ii) connected to an alarm system in the commercial establishment
+                               that may easily be heard or monitored;
+                            (c) be readily accessible to a pumping vehicle; and
+                            (d) have a watertight pump out connection which will not allow
+                            unauthorized discharge of sewage. (EC403/03; 427/03; 429/07)
+
+
+
+
+                                                              22
+Updated 2010             Environmental Protection Act                Cap. E-9                       23
+                      Sewage Disposal Systems Regulations
+
+
+                 SITE SUITABILITY ASSESSMENTS
+17. (1) The authority having jurisdiction may require that the owner of a       Site suitability
+lot, for which an application for a sewage disposal permit has been             assessment
+
+submitted, have a site suitability assessment completed on said lot.
+  (2) A site suitability assessment of a lot must assess the lot as one of      Categories of lot
+the lot categories established under section 23 of the Planning Act
+Subdivision and Development Regulations in accordance with the
+standards specified in that section. (EC403/03; 427/03)
+17.1 (1) Subject to subsection (2), no person shall perform a site              Site assessor’s
+suitability assessment without first obtaining a site assessor’s licence.       licence
+
+
+  (2) A person may perform a site suitability assessment without a site         Exceptions
+assessor’s license if the person is
+    (a) an engineer, as defined under the Engineering Profession Act; or
+    (b) an environment officer.
+  (3) An application for a site assessor’s licence shall be                     Application for site
+    (a) made to the authority having jurisdiction in a form approved by         assessor’s licence
+
+    the authority having jurisdiction; and
+    (b) submitted together with the fee prescribed in subsection 5(1).
+  (4) The Minister shall, on application, grant a site assessor’s licence to    Qualifications
+an applicant if
+    (a) the application is made in accordance with subsection (3); and
+    (b) the applicant has
+       (i) at least two years of post secondary education in a related field
+       of study, and
+       (ii) either
+           (A) has successfully completed a course of instruction
+           established or adopted by the Board of Examiners, or
+           (B) holds a licence issued by another province or territory that
+           the Minister considers to be equivalent to a site assessor’s
+           licence.
+  (4.1) The Minister may grant a site assessor’s license to an applicant        Exception
+under subsection (4), notwithstanding that the applicant does not have
+the post secondary education in a related field that is required by that
+subsection, if the applicant has practical experience in a related field that
+the Minister considers to be equivalent to that post secondary education.
+                                                                                Licence not
+  (5) A site assessor’s licence is not transferable.                            transferable
+
+
+
+
+                                      23
+24                 Cap. E-9                 Environmental Protection Act            Updated 2010
+                                         Sewage Disposal Systems Regulations
+
+
+                      (6) A site assessor’s licence expires on the date indicated on the
+Expiry
+                   licence, which may not be more than 24 months from the date of
+                   issuance.
+Suspension            (7) The Minister may suspend a site assessor’s licence for such period
+                   as the Minister considers appropriate if the Minister is satisfied that the
+                   licence holder has engaged in conduct for which a contractor’s licence
+                   may be suspended under subsection 3(12). (EC427/03; 116/04; 429/07)
+Variances          18. Notwithstanding the provisions of these regulations affecting the
+                   design and location of a sewage disposal system, the Minister may vary
+                   those provisions where, because of existing lot size or other reasons,
+                   compliance is impossible, except that the variance with respect to setback
+                   from a well shall not be reduced by more than 10 percent of the required
+                   distance. (EC403/03)
+
+                                              MISCELLANEOUS
+Maintenance        19. The owner of a sewage disposal system shall ensure that the system
+                   is maintained in accordance with the procedures outlined in Appendix C.
+                   (EC403/03; 427/03)
+Increase of        20. Where, in the opinion of the Minister, the requirements of these
+requirements       regulations are inadequate, the Minister may increase the minimum
+                   requirements. (EC403/03)
+Exemption permit   21. Notwithstanding any other provisions of these regulations, the
+                   authority having jurisdiction may, on application by a licensed
+                   contractor, issue an exemption permit to the licensed contractor
+                   authorizing the licensed contractor to construct, reconstruct or install a
+                   sewage disposal system not authorized herein if the authority having
+                   jurisdiction is satisfied that the system to be constructed, reconstructed or
+                   installed is satisfactory for the treatment and disposal of the sewage it is
+                   to receive. (EC403/03; 429/07)
+Sewage disposal    22. (1) No person shall engage in the cleaning of a sewage disposal
+system cleaning    system or a wastewater treatment system, or in the land spreading of
+                   sludge, unless the person
+                        (a) first obtains a pumper’s licence from the Minister; and
+                        (b) complies with the provisions of these regulations.
+Pumper’s licence      (2) The Minister shall, on an application for the issuance or renewal of
+                   a pumper’s licence referred to in subsection (1), issue or renew the
+                   licence if the application
+                        (a) is made in a form acceptable to the Minister; and
+                        (b) is accompanied by the prescribed fee.
+
+
+
+                                                         24
+Updated 2010             Environmental Protection Act                Cap. E-9                    25
+                      Sewage Disposal Systems Regulations
+
+
+  (3) The ultimate disposal of sludge from sewage disposal systems or
+                                                                                Conditions for
+wastewater treatment systems shall be done in accordance with the               disposal
+following conditions:
+     (a) sludge shall not be placed or spread on frozen or snow-covered
+     ground and, during the period of time when the ground is frozen or
+     snow-covered, an alternative method of disposing of sludge,
+     acceptable to the authority having jurisdiction, shall be utilized;
+     (b) sludge shall not be placed or spread, in the same calendar year,
+     on land to be used for animal pasture or on land to be used to
+     produce crops for human consumption;
+     (b.1) sludge shall be spread on the land using a diffuser plate or
+     other equipment acceptable to the authority having jurisdiction;
+     (c) sludge shall not be placed or spread upon any ground except in
+     accordance with the following criteria:
+        (i) at least 300 m (1000 ft) from land zoned for business or
+        residential use,
+        (ii) at least 300 m (1000 ft) from any dwelling on adjacent
+        property,
+        (iii) at least 15 m (50 ft) from the edge of a provincial public
+        highway,
+        (iv) at least 150 m (500 ft) from any water well,
+        (v) in respect of distance from any watercourse
+            (A) at least 15 m (50 ft) where the land slope averages less than
+            2 percent,
+            (B) at least 37 m (120 ft) where the land slope averages
+            between 2 and 5 per cent,
+            (C) at least 107 m (350 ft) where the land slope averages
+            between 5 and 10 per cent,
+            (D) at least 213 m (700 ft) where the land slope exceeds 10 per
+            cent.
+  (3.1) No person shall place sludge in any holding site without the prior      Holding of sludge
+approval of the authority having jurisdiction.
+   (4) In accordance with clause (3) (a), the authority having jurisdiction     Alternative disposal
+may approve an alternative disposal method or site for sludge disposal, if      method
+
+it is satisfied that the method and the site is satisfactory for the safe
+treatment and disposal of the waste.
+  (5) All licences granted under this section shall be valid for a period of    Duration of license
+not more than twenty-four months from the date of issuance. (EC403/03;
+551/09)
+                                                                                Renewal
+  (6) Revoked by EC427/03.
+
+
+
+
+                                      25
+26                    Cap. E-9                 Environmental Protection Act           Updated 2010
+                                            Sewage Disposal Systems Regulations
+
+
+                      23. No person shall dispose of unstabilized sewage at any place other
+Disposal at waste
+treatment system
+                      than a waste treatment system. (EC403/03; 427/03)
+Disposal of septage   23.1 Notwithstanding section 23, no person shall dispose of septage or
+                      septage temporarily held at a septage holding facility other than at a
+                      waste treatment system approved by the authority having jurisdiction, as
+                      outlined in Schedule II, Appendix F. (EC551/09)
+Offences              24. Any person who violates any provision of these regulations or fails to
+                      comply with any condition of a permit or fulfil any obligations imposed
+                      on the person by these regulations, is guilty of an offence and is liable on
+                      summary conviction to the penalties specified in section 32 of the
+                      Environmental Protection Act. (EC403/03; 551/09)
+
+
+
+
+                                                            26
+Updated 2010            Environmental Protection Act                    Cap. E-9   27
+                     Sewage Disposal Systems Regulations
+
+
+                             SCHEDULE I
+
+                          TABLE A
+               STANDARD SEPTIC TANK CAPACITY
+
+Number of bedrooms            Minimum liquid capacity of septic tank
+in dwelling unit
+                                  (litres)                 (imperial gallons)
+2 or less                          2725                           600
+3                                  2725                           600
+4                                  3400                           750
+5                                  4090                           900
+6                                  4540                          1000
+7                                  5000                          1100
+
+
+
+
+                                     27
+28   Cap. E-9      Environmental Protection Act       Updated 2010
+                Sewage Disposal Systems Regulations
+
+
+                        APPENDIX A
+                         TABLE A.1
+
+
+
+
+                                28
+Updated 2010      Environmental Protection Act       Cap. E-9   29
+               Sewage Disposal Systems Regulations
+
+
+                    APPENDIX A
+               SEPTIC SYSTEM DESIGN
+
+
+
+
+                               29
+30   Cap. E-9      Environmental Protection Act       Updated 2010
+                Sewage Disposal Systems Regulations
+
+
+
+
+                                30
+Updated 2010      Environmental Protection Act       Cap. E-9   31
+               Sewage Disposal Systems Regulations
+
+
+
+
+                               31
+32   Cap. E-9      Environmental Protection Act       Updated 2010
+                Sewage Disposal Systems Regulations
+
+
+
+
+                                32
+Updated 2010          Environmental Protection Act       Cap. E-9   33
+                   Sewage Disposal Systems Regulations
+
+
+                           APPENDIX B
+               ESTIMATED DAILY SEWAGE FLOW RATES
+                       (for establishments listed)
+
+
+
+
+                                   33
+34   Cap. E-9             Environmental Protection Act       Updated 2010
+                       Sewage Disposal Systems Regulations
+
+
+                ESTIMATED DAILY SEWAGE FLOW RATES
+                        (for establishments listed)
+
+
+
+
+                                       34
+Updated 2010                 Environmental Protection Act                          Cap. E-9    35
+                          Sewage Disposal Systems Regulations
+
+
+                       APPENDIX C
+           SEWAGE DISPOSAL SYSTEM MAINTENANCE
+
+Proper routine maintenance is a key to long term satisfactory operation of an on-site sewage
+disposal system. This is the responsibility of the owner.
+In order to get the optimum performance out of a septic system, the following should be
+noted:
+      (a) When the system is being installed, reference the location of the septic tank and
+      the disposal field to some permanent markers.
+      (b) Do not overload the hydraulic design of the system. Keep water consumption to a
+      minimum and repair leaky faucets or toilet tanks.
+      (c) Do not allow large quantities of fats, plastics and chemicals to enter the system.
+      (d) Have the septic tank pumped when required. The required frequency depends on
+      the habits of the household and on the septic tank capacity. However, pumping every
+      3 to 5 years is suggested.
+      (e) Remove any large trees from the immediate area of the disposal field to prevent
+      roots from clogging the pipes.
+      (f) Maintain a sod cover over the disposal field to prevent erosion and increase water
+      dissipation through evapotranspiration.
+      (g) Do not allow vehicles to drive over the disposal field.
+      (h) Divert roof drains and surface drainage away from the area of the disposal field.
+
+
+
+
+                                            35
+36   Cap. E-9                       Environmental Protection Act                       Updated 2010
+                                 Sewage Disposal Systems Regulations
+
+
+                                APPENDIX D
+          ON-SITE SEWAGE DISPOSAL SYSTEM DESIGN (Metric)
+                (for systems other than those listed in Table A)
+
+     (1) Calculate the wastewater flow (Q)
+     (2) Calculate septic tank volume based on clause 9(8)(b) of these regulations.
+     (3) Calculate the length of the disposal system according to the following:
+          (a) Choose the soil loading rate (SLR).
+              (i) For ‘Category I’ conditions choose
+              - 36 (m2/1000 litres/day) for a multiple trench disposal field
+              - 36 (m2/1000 litres/day) for a leaching chamber disposal field
+              - 31 (m2/1000 litres/day) for a contour trench disposal field
+              (ii) For ‘Category II’ conditions choose
+              - 41 (m2/1000 litres/day) for a multiple trench disposal field
+              - 41 (m2/1000 litres/day) for a leaching chamber disposal field
+              - 36 (m2/1000 litres/day) for a contour trench disposal field
+          (b) Choose the contact area / linear metre of trench (CA)
+              (i) For a multiple trench system the CA is .6 (m2/m)
+              (ii) For a leaching chamber system the CA for
+              - Infiltratortm leaching chambers is 1.2 (m2/m)
+              - Biodiffusertm leaching chambers is 1.2 (m2/m)
+              - EnviroChambertm leaching chambers is 1.2 (m2/m)
+              (iii) For a contour trench disposal field the contact area for
+              - a 0.9 m wide trench is 1.1 (m2/m)
+              - a 1.2 m wide trench is 1.4 (m2/m)
+              - a 1.5 m wide trench is 1.7 (m2/m)
+              - a 1.8 m wide trench is 2.0 (m2/m)
+          (c) Calculate the required drainage pipe length using the following formula :
+     Where,
+     Flow (Q) is the design flow referenced from Appendix B or as determined by actual
+     measured readings.
+     Soil loading rate (SLR) is the disposal area required for each one thousand litres per day of
+     wastewater generated and is expressed as square metres per 1000 litres per day (m2/1000
+     litres/day).
+     Contact area (CA) is the minimum square metres per linear metre of gravel / soil interface
+     on the bottom of the trenches in the disposal field. The contact area is expressed as square
+     metres per linear metre (m2/m).
+
+                                       Design Example - Metric
+
+     Design a sewage disposal system for a 5-unit motel. Each unit contains one bedroom and a
+     kitchen. Calculate the length of drainage pipe required for the sewage disposal system for
+     (i) a multiple trench disposal field, (ii) a 0.9 metre contour trench disposal field, and (iii) a
+     leaching chamber disposal field. The motel is located on a ‘Category I’ lot
+     .
+     (1) From Appendix B, flow (Q) = 450 litres/unit/day
+     Therefore, Q = 5 units x 450 litres/unit/day = 2250 litres/day
+     (2) From clause 9(8)(b) of these regulations, the septic tank capacity = 1.5 x 2250 litres/day
+     = 3375 litres
+     (3) (a) For ‘Category I’ conditions choose a soil loading rate (SLR) of
+               - 36 (m2/1000 litres/day) for the multiple trench and leaching chamber disposal
+               fields
+
+
+
+                                                    36
+Updated 2010                 Environmental Protection Act                           Cap. E-9        37
+                          Sewage Disposal Systems Regulations
+
+
+         - 31 (m2/1000 litres/day) for the contour trench disposal field
+     (b) Choose a contact area/linear metre of trench (CA) as follows:
+         (i) For a multiple trench disposal field the CA is .6 (m2/m)
+         (ii) For a leaching chamber disposal field the CA is 1.2 (m2/m)
+         (iii) For a 0.9 metre contour trench disposal field the CA is 1.1 (m2/m)
+
+Drainage pipe length = 2250 (litres/day) x 36 (m2/1000 litres/day) = 135 metres (multiple trench)
+                                  0.6 (m2/m)
+          = 2250 (litres/day) x 36 (m2/1000 litres/day) = 67.5 metres (leaching chamber)
+                                  1.2 (m2/m)
+          = 2250 (litres/day) x 31 (m2/1000 litres/day) = 63.4 metres (contour trench)
+                                  1.1 (m2/m)
+
+
+
+
+                                             37
+38   Cap. E-9                      Environmental Protection Act                      Updated 2010
+                                Sewage Disposal Systems Regulations
+
+
+        ON -SITE SEWAGE DISPOSAL SYSTEM DESIGN (Imperial)
+               (for systems other than those listed in Table A)
+
+     (1) Calculate the wastewater flow (Q)
+     (2) Calculate septic tank volume based on clause 9(8)(b) of the Sewage Disposal
+     Regulations
+     (3) Calculate the length of the disposal system according to the following:
+          (a) Choose the soil loading rate (SLR).
+              (i) For ‘Category I’ conditions choose
+              - 1.75 (ft2/Igal/day) for a multiple trench disposal field
+              - 1.75 (ft2/Igal/day) for a leaching chamber disposal field
+              - 1.5 (ft2/Igal/day) for a contour trench disposal field
+              (ii) For ‘Category II’ conditions choose
+              - 2.0 (ft2/Igal/day) for a multiple trench disposal field
+              - 2.0 (ft2/Igal/day) for a leaching chamber disposal field
+              - 1.75 (ft2/Igal/day) for a contour trench disposal field
+          (b) Choose the contact area / linear foot of trench (CA)
+              (i) For a multiple trench system the CA is 2.0 (ft2/ft)
+              (ii) For a leaching chamber system the CA for
+              - Infiltratortm leaching chambers is 4.0 (ft2/ft)
+              - Biodiffusertm leaching chambers is 4.0 (ft2/ft)
+              - EnviroChambertm leaching chambers 4.0 (ft2/ft)
+              (iii) For a contour trench disposal field the contact area for
+              - a 3-foot wide trench is 3.5 (ft2/ft)
+              - a 4-foot wide trench is 4.5 (ft2/ft)
+              - a 5-foot wide trench is 5.5 (ft2/ft)
+              - a 6-foot wide trench is 6.5 (ft2/ft)
+          (c) Calculate the required drainage pipe length using the following formula :
+     Where,
+     Flow (Q) is the design flow referenced from Appendix B or as determined by actual
+     measured readings.
+     Soil loading rate (SLR) is the disposal area required for each imperial gallon per day of
+     wastewater generated and is expressed as square feet/imperial gallon/day (ft2/Igal/day).
+     Contact area (CA) is the minimum square feet per linear foot of gravel / soil interface on the
+     bottom of the trenches in the disposal field. The contact area is expressed as square feet per
+     linear foot (ft2/ft).
+
+                                     Design Example - Imperial
+
+     Design a sewage disposal system for a 5-unit motel. Each unit contains one bedroom and a
+     kitchen. Calculate the length of drainage pipe required for the sewage disposal system for
+     (i) a multiple trench disposal field, (ii) a 3-foot contour trench disposal field, and (iii) a
+     leaching chamber disposal field. The motel is located on a ‘Category I’ lot.
+     (1) From Appendix B, Flow (Q) = 100 Igal/unit/day
+     Therefore, Q = 5 units x 100 Igal/unit/day = 500 Igal/day
+     (2) From clause 9(8)(b) of these regulations, the septic tank capacity = 1.5 x 500 Igal/day =
+     750 Igal
+     (3)(a) For ‘Category I’ conditions choose a soil loading rate (SLR) of
+           - 1.75 (ft2/Igal/day) for the multiple trench and leaching chamber disposal fields.
+           - 1.5 (ft2/Igal/day) for the contour trench
+           (b) Choose a contact area/linear foot of trench(CA) as follows:
+               (i) For a multiple trench disposal field the CA is 2.0 (ft2/ft)
+
+
+
+                                                   38
+Updated 2010                   Environmental Protection Act                              Cap. E-9   39
+                            Sewage Disposal Systems Regulations
+
+
+         (ii) For a leaching chamber disposal field the CA is 4.0 (ft2/ft)
+         (iii) For a 3-foot contour trench disposal field the CA is 3.5 (ft2/ft)
+
+Drainage pipe length = 500 (Igal/day) x 1.75 (ft2/Igal/day) = 438 ft (multiple trench)
+                                 2.0 (ft2/ft)
+
+                        = 500 (Igal/day) x 1.75 (ft2/Igal/day) = 219 ft (leaching chamber)
+                                  4.0 (ft2/ft)
+
+                       = 500 (Igal/day) x 1.5 (ft2/Igal/day) = 214 ft (contour trench)
+                                  3.5 (ft2/ft)
+
+(EC403/03)
+
+
+
+
+                                               39
+40   Cap. E-9                 Environmental Protection Act       Updated 2010
+                           Sewage Disposal Systems Regulations
+
+
+                                   SCHEDULE II
+
+                                   APPENDIX E
+
+     For a restaurant other than a cafeteria:
+
+     V grease = D*(HR/2)*GL*ST*LF
+
+     Where:     D       = Number of seats in dining room
+                HR      = Number of hours open per day
+                GL      = Gallons of wastewater per meal (2 or more)
+                ST      = Storage capacity (normally 2)
+                LF      = Loading factor depending on restaurant location
+                          • 1.25 - central locations
+                          • 1.0 - recreational areas
+                          • 0.5 to 0.8 - other locations
+
+     For a cafeteria:
+
+     V grease = M*GL*ST*LF
+
+     Where:     M       = Total number of meals served per day
+                GL      = Gallons of wastewater per meal (2 or more)
+                ST      = Storage Capacity (normally 2)
+                LF      = Loading factor
+                          • 1.0 with dishwasher
+                          • 0.5 without dishwasher
+
+     (EC427/03)
+
+
+
+
+                                           40
+Updated 2010                 Environmental Protection Act                          Cap. E-9   41
+                          Sewage Disposal Systems Regulations
+
+
+                                      APPENDIX F
+
+Wastewater Treatment Facilities Approved for the Receipt of Septage or Unstabilized
+Sewage
+
+The following wastewater treatment facilities are approved for the receipt and treatment of
+septage or unstabilized sewage:
+     (1) Charlottetown - Water and Sewer Utility wastewater treatment facility
+     (2) Summerside - Water and Sewer Utility wastewater treatment facility
+(EC551/09)
+
+
+
+
+                                             41
+

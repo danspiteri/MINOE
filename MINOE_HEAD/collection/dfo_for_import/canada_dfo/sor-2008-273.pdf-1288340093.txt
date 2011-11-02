@@ -1,0 +1,2106 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+         PCB Regulations                                             Règlement sur les BPC
+
+                     SOR/2008-273                                                      DORS/2008-273
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published            31. (1) Every copy of a consolidated statute or             31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies       (3) In the event of an inconsistency between a             (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                                 Enregistrement
+SOR/2008-273 September 5, 2008                               DORS/2008-273 Le 5 septembre 2008
+CANADIAN ENVIRONMENTAL PROTECTION ACT,                       LOI CANADIENNE SUR LA PROTECTION DE
+1999                                                         L’ENVIRONNEMENT (1999)
+
+PCB Regulations                                              Règlement sur les BPC
+
+P.C. 2008-1659 September 5, 2008                             C.P. 2008-1659 Le 5 septembre 2008
+
+   Whereas, pursuant to subsection 332(1)a of the Cana-         Attendu que, conformément au paragraphe 332(1)a de
+dian Environmental Protection Act, 1999b, the Minister       la Loi canadienne sur la protection de l’environnement
+of the Environment published in the Canada Gazette,          (1999)b, le ministre de l’Environnement a fait publier
+Part I, November 4, 2006, a copy of the proposed PCB         dans la Gazette du Canada Partie I, le 4 novembre 2006,
+Regulations, substantially in the annexed form, and per-     le projet de règlement intitulé Règlement sur les BPC,
+sons were given an opportunity to file comments with         conforme en substance au texte ci-après, et que les inté-
+respect to the proposed Regulations or to file a notice of   ressés ont ainsi eu la possibilité de présenter leurs obser-
+objection requesting that a board of review be estab-        vations à cet égard ou un avis d’opposition motivé de-
+lished and stating the reasons for the objection;            mandant la constitution d’une commission de révision;
+  Whereas, pursuant to subsection 93(3) of that Act, the        Attendu que, conformément au paragraphe 93(3) de
+National Advisory Committee has been given an oppor-         cette loi, le comité consultatif national s’est vu accorder
+tunity to provide its advice under section 6c of that Act;   la possibilité de formuler ses conseils dans le cadre de
+                                                             l’article 6c de celle-ci;
+   And whereas, in the opinion of the Governor in Coun-        Attendu que la gouverneure en conseil est d’avis que,
+cil, pursuant to subsection 93(4) of that Act, the pro-      aux termes du paragraphe 93(4) de cette loi, le projet de
+posed Regulations do not regulate an aspect of a sub-        règlement ne vise pas un point déjà réglementé sous le
+stance that is regulated by or under any other Act of        régime d’une autre loi fédérale de manière à offrir une
+Parliament in a manner that provides, in the opinion of      protection suffisante pour l’environnement et la santé
+the Governor in Council, sufficient protection to the en-    humaine,
+vironment and human health;
+  Therefore, Her Excellency the Governor General in             À ces causes, sur recommandation du ministre de
+Council, on the recommendation of the Minister of the        l’Environnement et du ministre de la Santé et en vertu du
+Environment and the Minister of Health, pursuant to          paragraphe 93(1) et de l’article 97 de la Loi canadienne
+subsection 93(1) and section 97 of the Canadian Envi-        sur la protection de l’environnement (1999)b, Son Excel-
+ronmental Protection Act, 1999b, hereby makes the an-        lence la Gouverneure générale en conseil prend le Règle-
+nexed PCB Regulations.                                       ment sur les BPC, ci-après.
+
+
+
+
+a                                                             a 
+   S.C. 2004, c. 15, s. 31                                       L.C. 2004, ch. 15, art. 31
+b                                                             b 
+   S.C. 1999, c. 33                                              L.C. 1999, ch. 33
+c                                                             c 
+   S.C. 2002, c. 7, s. 124                                       L.C. 2002, ch. 7, art. 124
+                  PCB REGULATIONS                                      RÈGLEMENT SUR LES BPC
+
+                                    PART 1                                              PARTIE 1
+
+                                  GENERAL                                            GÉNÉRALITÉS
+Definitions          1. (1) The following definitions apply               1. (1) Les définitions qui suivent s’ap-      Définitions
+
+                  in these Regulations.                                pliquent au présent règlement.
+“Act”             “Act” means the Canadian Environmental               « BPC » Tout biphényle chloré visé à l’ar-       « BPC »
+« Loi »                                                                                                                 “PCB”
+                  Protection Act, 1999.                                ticle 1 de la liste des substances toxiques
+“authorized       “authorized facility” means a facility, in-          de l’annexe 1 de la Loi.
+facility”
+« installation    cluding a transfer site, that is authorized by       « Code national de prévention des incen-         « Code national
+agréée »                                                                                                                de prévention
+                  the authorities of the jurisdiction in which         dies » Le Code national de prévention des        des incendies »
+                                                                                                                        “National Fire
+                  it is located to process PCBs or products            incendies — Canada 2005, CNRC 47667F,            Code”
+                  containing PCBs or to conduct laboratory             avec ses modifications successives, publié
+                  analysis or research with PCBs or products           par la Commission canadienne des codes
+                  containing PCBs.                                     du bâtiment et de prévention des incendies
+“National Fire    “National Fire Code” means the National              du Conseil national de recherches du
+Code”                                                                  Canada.
+« Code national   Fire Code of Canada 2005, NRCC No.
+de prévention
+des incendies »   47667, issued by the Canadian Commis-                « installation agréée » Installation — no-       « installation
+                                                                                                                        agréée »
+                  sion on Building and Fire Codes, National            tamment un centre de transfert — qui est         “authorized
+                                                                                                                        facility”
+                  Research Council of Canada, as amended               autorisée par les autorités de la province ou
+                  from time to time.                                   du territoire où elle est située à transformer
+“PCB”             “PCB” means any chlorobiphenyl de-                   des BPC ou des produits qui en
+« BPC »                                                                contiennent, ou à les utiliser pour des ana-
+                  scribed in item 1 of the List of Toxic Sub-
+                  stances in Schedule 1 to the Act.                    lyses de laboratoire ou des recherches.
+“process”         “process” includes to mix with a product.            « Loi » La Loi canadienne sur la protection      « Loi »
+                                                                                                                        “Act”
+« transformer »                                                        de l’environnement (1999).
+“product”         “product” includes equipment.                        « produit » S’entend     notamment     d’une     « produit »
+« produit »
+                                                                                                                        “product”
+                                                                       pièce d’équipement.
+                                                                       « transformer » S’entend notamment du fait       « transformer »
+                                                                                                                        “process”
+                                                                       de mélanger avec tout produit.
+Concentration        (2) For the purposes of these Regula-                (2) Pour l’application du présent règle-      Concentration
+— several                                                                                                               — plusieurs
+matrices          tions, if a solid or a liquid containing PCBs        ment, lorsqu’un solide ou un liquide qui         matrices
+                  is composed of several matrices, the con-            contient des BPC est composé de plusieurs
+                  centration of PCBs is based on the mass of           matrices, la concentration de BPC est ba-
+                  the matrix in which the PCBs are located.            sée sur la masse de la matrice dans laquelle
+                                                                       les BPC se trouvent.
+Concentration        (3) For the purposes of these Regula-               (3) Pour l’application du présent règle-       Concentration et
+and quantity                                                                                                            quantité
+                  tions, the concentration and quantity of             ment, la concentration et la quantité de
+                  PCBs shall be determined                             BPC sont déterminées :
+                    (a) by a laboratory                                  a) soit par tout laboratoire :
+
+
+
+                                                                   1
+                                              SOR/2008-273 — October 6, 2010
+
+
+
+                      (i) accredited by the Standards Coun-              (i) qui est accrédité à la norme de
+                      cil of Canada (SCC), the Canadian                  l’Organisation internationale de nor-
+                      Association for Environmental Ana-                 malisation intitulée Exigences géné-
+                      lytical Laboratories Inc. (CAEAL), or              rales concernant la compétence des
+                      any other accreditation body that is a             laboratoires d’étalonnages et d’essais
+                      signatory to the International Labora-             (ISO/IEC 17025:2005), avec ses mo-
+                      tory     Accreditation     Cooperation             difications successives, par le Conseil
+                      (ILAC) Mutual Recognition Arrange-                 canadien des normes (CCN), l’Asso-
+                      ment, and the laboratory shall be ac-              ciation canadienne des laboratoires
+                      credited in accordance with the Inter-             d’analyse            environnementale
+                      national        Organization       for             (ACLAE) ou tout autre organisme
+                      Standardization standard ISO/IEC                   d’accréditation signataire de l’Inter-
+                      17025:2005 entitled General Require-               national Laboratory Accreditation
+                      ments for the Competence of Testing                Cooperation (ILAC) Mutual Recogni-
+                      and Calibration Laboratories, as                   tion Arrangement,
+                      amended from time to time, and                     (ii) dont la portée d’accréditation
+                      (ii) for which the scope of accredita-             couvre la méthode d’analyse utilisée
+                      tion shall include the analytical                  pour déterminer la concentration des
+                      method used to determine the concen-               BPC dans la matrice dans laquelle les
+                      tration of PCBs in the matrix in which             BPC se trouvent;
+                      the PCBs are located; or                        b) soit par tout laboratoire :
+                   (b) by a laboratory                                   (i) qui est accrédité conformément à
+                      (i) accredited in accordance with the              la Loi sur la qualité de l’environne-
+                      Environmental Quality Act, R.S.Q., c.              ment, L.R.Q., ch. Q-2, avec ses modi-
+                      Q-2, as amended from time to time,                 fications successives,
+                      and                                                (ii) dont la portée d’accréditation
+                      (ii) for which the scope of accredita-             couvre la méthode d’analyse utilisée
+                      tion shall include the analytical                  pour déterminer la concentration des
+                      method used to determine the concen-               BPC dans la matrice dans laquelle se
+                      tration of PCBs in the matrix in which             trouvent les BPC.
+                      the PCBs are located.
+Sampling            (4) For the purposes of these Regula-              (4) Pour l’application du présent règle-    Méthode
+method                                                                                                             d’échantillon-
+                 tions, other than section 13, the concentra-       ment, sauf l’article 13, la concentration de   nage
+                 tion of PCBs in a matrix is determined us-         BPC se trouvant dans une matrice est dé-
+                 ing a provincially, nationally or                  terminée au moyen de toute méthode
+                 internationally     recognized     sampling        d’échantillonnage pour les BPC dans cette
+                 method for PCBs in the matrix in which             matrice qui est reconnue à l’échelle provin-
+                 the PCBs are located.                              ciale, nationale ou internationale.
+Sampling            (5) For the purposes of section 13, the           (5) Pour l’application de l’article 13, la   Méthode
+method — bulk                                                                                                      d’échantillon-
+solid products   concentration of PCBs is determined using          concentration de BPC est déterminée au         nage — produits
+                                                                                                                   solides en vrac
+                 a sampling method for bulk solid products,         moyen de toute méthode d’échantillonnage
+
+
+
+                                                                2
+                                                   DORS/2008-273 — 6 octobre 2010
+
+
+
+                   which is set out in either federal or provin-       pour les produits solides en vrac qui est
+                   cial legislation, as amended from time to           prévue par une loi ou un règlement fédéral
+                   time, or approved by the United States En-          ou provincial, avec ses modifications suc-
+                   vironmental Protection Agency for compli-           cessives, ou qui est approuvée par la Uni-
+                   ance with the Resource Conservation and             ted States Environmental Protection Agen-
+                   Recovery Act or with the regulations made           cy pour l’application de la loi des États-
+                   under that Act, as amended from time to             Unis intitulée Resource Conservation and
+                   time.                                               Recovery Act ou de ses règlements avec
+                   SOR/2010-57, ss. 1(F), 20(F).                       leurs modifications successives.
+                                                                       DORS/2010-57, art. 1(F) et 20(F).
+
+Application          2. (1) These Regulations apply to PCBs              2. (1) Le présent règlement s’applique          Application
+
+                   and to any products containing PCBs.                aux BPC et à tout produit qui en contient.
+Non-application      (2) These Regulations do not apply to                (2) Il ne s’applique toutefois pas aux ac-     Exclusion
+
+                   the following:                                      tivités suivantes :
+                      (a) the export and import of PCBs that              a) l’exportation et l’importation de BPC
+                      are hazardous waste or hazardous recy-              qui sont des déchets dangereux ou des
+                      clable material within the meaning of the           matières recyclables dangereuses au sens
+                      Export and Import of Hazardous Waste                du Règlement sur l’exportation et l’im-
+                      and Hazardous Recyclable Material                   portation de déchets dangereux et de
+                      Regulations or the export of PCBs that              matières recyclables dangereuses et
+                      are waste within the meaning of the PCB             l’exportation de déchets contenant des
+                      Waste Export Regulations, 1996;                     BPC au sens du Règlement sur l’expor-
+                      (b) the sale, importation or advertising            tation de déchets contenant des BPC
+                      of liquids containing PCBs for use in               (1996);
+                      microscopy, including immersion oils,               b) la vente, l’importation ou la publicité
+                      but not including refractive index oils,            des liquides pour usage en microscopie
+                      which is prohibited under section 4 of              qui contiennent des BPC, y compris les
+                      the Hazardous Products Act; and                     huiles à immersion mais à l’exclusion
+                      (c) the offer for sale, sale and use of             des huiles à indice de réfraction, inter-
+                      land contaminated with PCBs or with                 dites par l’article 4 de la Loi sur les pro-
+                      products containing PCBs.                           duits dangereux;
+                                                                          c) la mise en vente, la vente et l’utilisa-
+                                                                          tion de terrains contaminés par des BPC
+                                                                          ou des produits qui en contiennent.
+Sale of property     3. Nothing in these Regulations shall be             3. Le présent règlement n’a pas pour ef-       Vente de biens
+
+                   construed as preventing the sale of                 fet d’empêcher la vente des biens suivants :
+                      (a) personal property or movables that              a) tout bien meuble ou personnel qui
+                      contain PCBs, or real property or im-               contient des BPC ou tout bien immeuble
+                      movables that have PCBs or products                 ou réel où se trouvent des BPC ou des
+                      containing PCBs, and that form part of              produits qui en contiennent, lesquels
+                      the sale of the whole or part of a busi-            biens sont compris dans la vente de tout
+
+
+
+                                                                   3
+                                                 SOR/2008-273 — October 6, 2010
+
+
+
+                     ness, including a manufacturing or a              ou partie d’une entreprise, y compris une
+                     processing business;                              entreprise de fabrication ou de transfor-
+                     (b) real property or immovables that              mation;
+                     have products containing PCBs if the              b) tout bien immeuble ou réel dont font
+                     products continue to be used after the            partie intégrante les produits qui
+                     sale for the same purpose at the same             contiennent des BPC qui s’y trouvent, si
+                     place and are an integral part of the             les produits continuent d’être utilisés
+                     property or immovable; or                         aux mêmes fins et au même endroit
+                     (c) real property or immovables on                après la vente;
+                     which a PCB storage site is located.              c) tout bien immeuble ou réel où se
+                                                                       trouve un dépôt de BPC.
+Compliance            4. In addition to the persons who must           4. En plus des personnes auxquelles il          Conformité
+
+                   comply with the requirements set out in           incombe des obligations en vertu du pré-
+                   these Regulations, a person who owns              sent règlement, le propriétaire de BPC ou
+                   PCBs or products containing PCBs shall            de produits qui en contiennent veille à ce
+                   ensure that the requirements of these Regu-       que les exigences du présent règlement
+                   lations with respect to those PCBs or prod-       concernant ces BPC ou produits soient
+                   ucts are met.                                     remplies.
+
+                                    PART 2                                            PARTIE 2
+
+                     PROHIBITIONS AND PERMITTED                         INTERDICTIONS ET ACTIVITÉS
+                              ACTIVITIES                                        PERMISES
+
+                                  PROHIBITIONS                                       INTERDICTIONS
+Release into the      5. (1) No person shall release PCBs in-           5. (1) Il est interdit de rejeter dans l’en-   Rejet dans
+environment                                                                                                            l’environnement
+                   to the environment, other than from the           vironnement, autrement qu’à partir d’une
+                   equipment referred to in subsection (2), in       pièce d’équipement visée au paragraphe
+                   a concentration of                                (2), des BPC de l’une ou l’autre des
+                     (a) 2 mg/kg or more for a liquid con-           concentrations suivantes :
+                     taining PCBs; or                                  a) dans le cas d’un liquide qui contient
+                     (b) 50 mg/kg or more for a solid con-             des BPC, une concentration égale ou su-
+                     taining PCBs.                                     périeure à 2 mg/kg;
+                                                                       b) dans le cas d’un solide qui contient
+                                                                       des BPC, une concentration égale ou su-
+                                                                       périeure à 50 mg/kg.
+Release from          (2) No person shall release more than             (2) Il est interdit de rejeter plus d’un       Rejet à partir
+equipment                                                                                                              d’une pièce
+                   one gram of PCBs into the environment             gramme de BPC dans l’environnement à              d’équipement
+                   from equipment referred to in section 16          partir d’une pièce d’équipement visée à
+                   that is in use or from equipment in use for       l’article 16 qui est en usage ou d’une pièce
+                                                                     d’équipement dont l’usage fait l’objet
+
+
+
+
+                                                                 4
+                                           DORS/2008-273 — 6 octobre 2010
+
+
+
+             which an extension has been granted under            d’une prolongation en vertu de l’article 17
+             section 17.                                          et qui est en usage.
+Prohibited      6. Except as provided in these Regula-              6. Sauf dans la mesure prévue par le            Activités
+activities                                                                                                          interdites
+             tions, no person shall                               présent règlement, il est interdit :
+                (a) manufacture, export or import PCBs               a) de fabriquer, d’exporter ou d’impor-
+                or a product containing PCBs in a con-               ter des BPC ou tout produit qui en
+                centration of 2 mg/kg or more;                       contient en une concentration égale ou
+                (b) offer for sale or sell PCBs or a prod-           supérieure à 2 mg/kg;
+                uct containing PCBs in a concentration               b) de mettre en vente ou de vendre des
+                of 50 mg/kg or more; or                              BPC ou tout produit qui en contient en
+                (c) process or use PCBs or a product                 une concentration égale ou supérieure à
+                containing PCBs.                                     50 mg/kg;
+                                                                     c) de transformer ou d’utiliser des BPC
+                                                                     ou tout produit qui en contient.
+
+                           PERMITTED ACTIVITIES                                  ACTIVITÉS PERMISES
+Laboratory      7. A person may manufacture, export,                 7. Il est permis de fabriquer, d’exporter,     Analyses de
+analysis                                                                                                            laboratoire
+             import, offer for sale, sell, process and use        d’importer, de mettre en vente, de vendre,
+             PCBs or products containing PCBs for the             de transformer et d’utiliser des BPC et des
+             purpose of laboratory analysis if the analy-         produits qui en contiennent pour des ana-
+             sis is conducted                                     lyses de laboratoire, si celles-ci sont effec-
+                (a) in an authorized facility that is au-         tuées :
+                thorized for that purpose; or                        a) dans toute installation agréée à cette
+                (b) in a facility that conforms to interna-          fin;
+                tionally recognized guidelines on best               b) dans le cas où les autorités de la pro-
+                laboratory practices, if the authorities of          vince ou du territoire où elle est située
+                the jurisdiction in which the facility is            ne disposent d’aucun mécanisme l’auto-
+                located do not have a mechanism in                   risant à les effectuer, dans toute installa-
+                place to authorize the facility to conduct           tion qui est conforme à des lignes direc-
+                the analysis.                                        trices,     reconnues       à     l’échelle
+             SOR/2010-57, s. 20(F).                                  internationale, sur les pratiques exem-
+                                                                     plaires en laboratoire.
+                                                                  DORS/2010-57, art. 20(F).
+
+Research        8. (1) A person may offer for sale or                8. (1) Il est permis de mettre en vente        Recherches
+
+             sell PCBs or products containing PCBs to             ou de vendre des BPC ou des produits qui
+             be processed or used for the purpose of re-          en contiennent pour qu’ils soient utilisés ou
+             search to determine the effects of those             transformés à des fins de recherche visant à
+             PCBs or products on human health or on               déterminer les effets des BPC ou des pro-
+             the environment, if the facility in which            duits sur la santé humaine ou l’environne-
+             they are processed or used is                        ment, si l’installation où ils sont utilisés ou
+
+
+
+
+                                                              5
+                                                  SOR/2008-273 — October 6, 2010
+
+
+
+                      (a) an authorized facility that is autho-         transformés se conforme à l’une ou l’autre
+                      rized for that purpose; or                        des exigences suivantes :
+                      (b) a facility that conforms to interna-             a) elle est agréée à cette fin;
+                      tionally recognized guidelines on best               b) dans le cas où les autorités de la pro-
+                      laboratory practices, if the authorities of          vince ou du territoire où elle est située
+                      the jurisdiction in which the facility is            ne disposent d’aucun mécanisme l’auto-
+                      located do not have a mechanism in                   risant à effectuer des recherches, elle est
+                      place to authorize the facility to conduct           conforme à des lignes directrices, recon-
+                      the research.                                        nues à l’échelle internationale, sur les
+                                                                           pratiques exemplaires en laboratoire.
+Processing and        (2) A person may process and use the                 (2) Il est permis de transformer et d’uti-     Transformation
+use                                                                                                                       et utilisation
+                   PCBs or products containing PCBs for the             liser des BPC et des produits qui en
+                   purpose of the research referred to in sub-          contiennent pour effectuer les recherches
+                   section (1) at a facility that meets the re-         visées au paragraphe (1) dans une installa-
+                   quirement set out in paragraph (1)(a) or             tion qui se conforme à l’une ou l’autre des
+                   (b).                                                 exigences prévues à ce paragraphe.
+                   SOR/2010-57, s. 20(F).                               DORS/2010-57, art. 20(F).
+
+Electrical            9. A person may offer for sale, sell and             9. Il est permis de mettre en vente, de        Condensateurs
+capacitor                                                                                                                 électriques
+                   use an electrical capacitor containing PCBs          vendre et d’utiliser tout condensateur élec-
+                   if the electrical capacitor                          trique qui contient des BPC, si les condi-
+                      (a) is an integral part of a consumer             tions suivantes sont réunies :
+                      product;                                             a) il fait partie intégrante d’un produit
+                      (b) is fusion sealed; and                            de consommation;
+
+                      (c) would be rendered inoperable and ir-             b) ses joints sont thermoscellés;
+                      reparable if the PCBs were removed                   c) il ne fonctionnerait plus et serait irré-
+                      from it.                                             parable si les BPC en étaient extraits.
+Aircraft, ships,      10. A person may export, import, offer              10. Il est permis d’exporter, d’importer,       Aéronefs,
+trains and other                                                                                                          navires, trains et
+vehicles           for sale, sell and use for transportation pur-       de mettre en vente, de vendre et d’utiliser       autres véhicules
+                   poses aircraft, ships, trains and other vehi-        pour le transport, tout aéronef, navire, train
+                   cles that contain PCBs only in their com-            ou autre véhicule dont seuls l’équipement
+                   munication, navigation or electronic                 de communication, de navigation ou de
+                   control equipment or cables.                         commande électronique ou les câbles
+                                                                        contiennent des BPC.
+Colouring             11. (1) A person may manufacture, ex-               11. (1) Il est permis de fabriquer, d’ex-       Pigments pour la
+pigment                                                                                                                   coloration
+                   port, import, offer for sale, sell, process          porter, d’importer, de mettre en vente, de
+                   and use a colouring pigment containing               vendre, de transformer et d’utiliser des pig-
+                   PCBs produced incidentally if the concen-            ments pour la coloration qui contiennent
+                   tration of the PCBs is less than 50 mg/kg.           des BPC produits par inadvertance en une
+                                                                        concentration inférieure à 50 mg/kg.
+
+
+
+
+                                                                    6
+                                               DORS/2008-273 — 6 octobre 2010
+
+
+
+Annual average       (2) Despite subsection (1), the annual             (2) Toutefois, la concentration moyenne          Moyenne
+concentration                                                                                                            annuelle
+                  average concentration of PCBs produced              annuelle de BPC produits par inadvertance          maximale
+                  incidentally in colouring pigment that a            dans les pigments pour la coloration fabri-
+                  person may manufacture, export, import,             qués, exportés, importés, mis en vente,
+                  offer for sale, sell, process and use shall         vendus, transformés et utilisés par toute
+                  not exceed 25 mg/kg.                                personne ne peut dépasser 25 mg/kg.
+                  SOR/2010-57, s. 2(F).                               DORS/2010-57, art. 2(F).
+
+Destruction          12. A person may process PCBs or                   12. Il est permis de transformer des             Destruction
+
+                  products containing PCBs for the purpose            BPC et des produits qui en contiennent
+                  of destroying PCBs or recovering PCBs for           pour les détruire dans une installation
+                  the purpose of destroying them in an au-            agréée à cette fin ou pour les récupérer afin
+                  thorized facility that is authorized for that       de les détruire dans une telle installation.
+                  purpose.                                            DORS/2010-57, art. 3(F).
+                  SOR/2010-57, s. 3(F).
+
+Solid products       13. (1) A person may manufacture sol-                13. (1) Il est permis de fabriquer des         Produits solides
+
+                  id products containing PCBs in a concen-            produits solides qui contiennent des BPC
+                  tration of less than 50 mg/kg using bulk            en une concentration inférieure à 50 mg/kg
+                  solid products containing PCBs in a con-            à partir de produits solides en vrac qui eux-
+                  centration of less than 50 mg/kg, and may           mêmes contiennent des BPC en une
+                  use those solid products.                           concentration inférieure à 50 mg/kg et d’u-
+                                                                      tiliser ces produits solides.
+Application          (2) Subsection (1) only applies to the             (2) Le paragraphe (1) ne s’applique              Application
+
+                  manufacture of the types of products that           qu’aux types de produits qui sont fabriqués
+                  are manufactured before September 5,                avant le 5 septembre 2008.
+                  2008.
+Exception           (3) No person shall offer for sale or sell          (3) Il est interdit de mettre en vente ou        Exception
+
+                  the products manufactured in accordance             de vendre des produits fabriqués conformé-
+                  with subsection (1) unless the products are         ment au paragraphe (1) pour tout usage en
+                  used in the course of a commercial or in-           dehors d’une activité commerciale ou in-
+                  dustrial activity.                                  dustrielle.
+                  SOR/2010-57, s. 4.                                  DORS/2010-57, art. 4.
+
+Cables,             14. (1) A person may use the following              14. (1) Il est permis d’utiliser les pro-        Câbles,
+pipelines,                                                                                                               pipelines,
+electrical        products containing PCBs:                           duits ci-après qui contiennent des BPC :           condensateurs
+capacitors and                                                                                                           électriques et
+other equipment      (a) cables, if they remain in place on              a) tout câble, s’il demeure à l’endroit où      pièces
+                                                                                                                         d’équipements
+                     September 5, 2008;                                  il se trouvait le 5 septembre 2008;
+                     (b) pipelines that transport natural gas,           b) tout pipeline qui transporte du gaz
+                     petroleum or petroleum products and                 naturel, du pétrole ou des produits pétro-
+                     any associated equipment that is in con-            liers, ainsi que tout équipement connexe
+                     tact with the natural gas, petroleum or             qui est en contact avec le gaz naturel, le
+                     petroleum products if the pipelines and             pétrole ou les produits pétroliers, si le pi-
+                                                                         peline et l’équipement demeurent à l’en-
+
+
+
+                                                                  7
+                                                   SOR/2008-273 — October 6, 2010
+
+
+
+                      the equipment remain in place on                       droit où ils se trouvaient le 5 septembre
+                      September 5, 2008;                                     2008;
+                      (c) fusion sealed capacitors if they are               c) tout condensateur électrique dont les
+                      used in relation to communication                      joints sont thermoscellés et qui est utilisé
+                      equipment or electronic control equip-                 à des fins de communication ou de com-
+                      ment; and                                              mande électronique;
+                      (d) the following equipment containing                 d) les pièces d’équipement ci-après qui
+                      PCBs in a concentration of less than 50                contiennent des BPC en une concentra-
+                      mg/kg if the equipment is used for the                 tion inférieure à 50 mg/kg et qui sont
+                      purpose for which it was manufactured:                 utilisées aux fins auxquelles elles étaient
+                         (i) electrical capacitors, light ballasts,          destinées lors de leur fabrication :
+                         electrical transformers and their auxil-               (i) les condensateurs électriques, les
+                         iary electrical equipment, including                   ballasts de lampes, les transformateurs
+                         pole-top electrical transformers and                   électriques et tout équipement élec-
+                         their pole-top auxiliary electrical                    trique connexe, y compris les transfor-
+                         equipment,                                             mateurs sur poteaux et tout équipe-
+                         (ii) electromagnets that are not used                  ment électrique connexe sur poteaux,
+                         in the handling of food, feed or any                   (ii) les électroaimants ne servant pas
+                         additive to food or feed, and                          à la manutention des aliments destinés
+                         (iii) heat transfer equipment, hy-                     aux humains ou aux animaux, ou de
+                         draulic equipment, vapour diffusion                    tout additif à ces aliments,
+                         pumps and bridge bearings.                             (iii) l’équipement caloporteur, l’équi-
+                                                                                pement hydraulique, les pompes à dif-
+                                                                                fusion de vapeur et les appareils d’ap-
+                                                                                pui de pont.
+Electrical            (2) A person may import fusion sealed                  (2) Il est permis d’importer tout conden-      Condensateurs
+capacitors                                                                                                                  électriques
+                   capacitors containing PCBs for use in rela-            sateur électrique qui contient des BPC et
+                   tion to communication tactical equipment               dont les joints sont thermoscellés pour
+                   or electronic control tactical equipment.              qu’il soit utilisé à des fins de communica-
+                   SOR/2010-57, ss. 5, 19.                                tion tactique ou de commande électronique
+                                                                          tactique.
+                                                                          DORS/2010-57, art. 5 et 19.
+
+Liquids for           15. (1) A person may use liquids con-                  15. (1) Il est permis d’utiliser tout li-      Liquides pour
+servicing —                                                                                                                 entretien —
+concentration      taining PCBs in a concentration of less                quide qui contient des BPC en une concen-         concentration
+less than 2 mg/                                                                                                             inférieure à 2
+kg                 than 2 mg/kg for the purpose of servicing              tration inférieure à 2 mg/kg pour l’entretien     mg/kg
+                   equipment containing PCBs.                             de toute pièce d’équipement qui contient
+                                                                          des BPC.
+Liquids for          (2) A person may use liquids containing                (2) Il est également permis, jusqu’au 31        Liquide pour
+servicing —                                                                                                                 entretien —
+concentration of   PCBs in a concentration of 500 mg/kg or                décembre 2009, d’utiliser tout liquide qui        concentration de
+500 mg/kg or                                                                                                                500 mg/kg ou
+more               more for the purpose of servicing equip-               contient des BPC en une concentration             plus
+
+
+
+
+                                                                      8
+                                               DORS/2008-273 — 6 octobre 2010
+
+
+
+                 ment containing PCBs in a concentration              égale ou supérieure à 500 mg/kg pour l’en-
+                 of 500 mg/kg or more until December 31,              tretien de toute pièce d’équipement qui
+                 2009.                                                elle-même contient des BPC en une
+                                                                      concentration égale ou supérieure à 500
+                                                                      mg/kg.
+
+                      END-OF-USE DATES AND EXTENSION                        UTILISATION — DATES LIMITES ET
+                                                                                     PROLONGATION
+
+Equipment           16. (1) A person may use the equip-                  16. (1) Il est permis d’utiliser les pièces   Pièces
+referred to in                                                                                                         d’équipement
+subparagraphs    ment referred to in subparagraphs                    d’équipement        visées     aux       sous-   visées aux sous-
+14(1)(d)(i) to                                                                                                         alinéas
+(iii)            14(1)(d)(i) to (iii) until the following dates       alinéas 14(1)d)(i) à (iii) qui sont en usage     14(1)d)(i) à (iii)
+                 if the equipment is in use on September 5,           le 5 septembre 2008 jusqu’aux dates sui-
+                 2008:                                                vantes :
+                   (a) in the case of equipment containing              a) si elles contiennent des BPC en une
+                   PCBs in a concentration of 500 mg/kg or              concentration égale ou supérieure à
+                   more, December 31, 2009; and                         500 mg/kg, jusqu’au 31 décembre 2009;
+                   (b) in the case of equipment containing              b) si elles contiennent des BPC en une
+                   PCBs in a concentration of at least 50               concentration égale ou supérieure à
+                   mg/kg but less than 500 mg/kg,                       50 mg/kg mais inférieure à 500 mg/kg :
+                      (i) December 31, 2009, if the equip-                 (i) jusqu’au 31 décembre 2009, si
+                      ment is located at a drinking water                  elles se trouvent dans une usine de
+                      treatment plant or food or feed pro-                 traitement d’eau potable ou de trans-
+                      cessing plant, in a child care facility,             formation des aliments destinés aux
+                      preschool, primary school, secondary                 humains ou aux animaux, dans une
+                      school, hospital or senior citizens’                 garderie, dans une école — de niveau
+                      care facility or on the property on                  préscolaire, primaire ou secondaire
+                      which the plant or facility is located               —, dans un hôpital ou dans une rési-
+                      and within 100 m of it, and                          dence pour personnes âgées ou sur le
+                      (ii) December 31, 2025, if the equip-                terrain d’un tel établissement, à 100 m
+                      ment is located at any other place.                  ou moins de celui-ci,
+                                                                           (ii) jusqu’au 31 décembre 2025, si
+                                                                           elles se trouvent à tout autre endroit.
+Light ballasts      (2) A person may use the following                  (2) Il est permis, jusqu’au 31 décembre        Ballasts de
+and pole-top                                                                                                           lampes et
+electrical       equipment containing PCBs in a concentra-            2025, d’utiliser les pièces d’équipement ci-     transformateurs
+transformers                                                                                                           sur poteaux
+                 tion of 50 mg/kg or more until December              après qui sont en usage le 5 septembre
+                 31, 2025, if the equipment is in use on              2008 et qui contiennent des BPC en une
+                 September 5, 2008:                                   concentration égale ou supérieure à 50 mg/
+                   (a) light ballasts; and                            kg :
+                                                                        a) les ballasts de lampes;
+
+
+
+
+                                                                  9
+                                                  SOR/2008-273 — October 6, 2010
+
+
+
+                      (b) pole-top electrical transformers and            b) les transformateurs sur poteaux ainsi
+                      their pole-top auxiliary electrical equip-          que tout équipement électrique connexe
+                      ment.                                               sur poteaux.
+Liquid —             (3) A person may use a liquid contain-              (3) Il est permis d’utiliser tout liquide     Liquides —
+concentration of                                                                                                       concentration de
+2 mg/kg or more    ing 2 mg/kg or more of PCBs that is in             qui contient des BPC en une concentration        2 mg/kg ou plus
+                   equipment until the day on which the liq-          égale ou supérieure à 2 mg/kg dans une
+                   uid is removed from the equipment.                 pièce d’équipement jusqu’à ce qu’il en soit
+                   SOR/2010-57, s. 19.                                extrait.
+                                                                      DORS/2010-57, art. 19.
+
+Extension of          17. (1) Despite subsection 15(2), para-            17. (1) Malgré le paragraphe 15(2),           Prolongation de
+end-of-use date                                                                                                        la date de fin
+                   graph      16(1)(a)     and     subparagraph       l’alinéa 16(1)a) et le sous-alinéa 16(1)b)(i),   d’utilisation
+                   16(1)(b)(i), a person may use the equip-           il est permis d’utiliser les pièces d’équipe-
+                   ment and the liquids used for servicing that       ment et les liquides utilisés pour leur entre-
+                   equipment, referred to in those provisions,        tien visés à ces dispositions jusqu’à l’expi-
+                   until the date set out in an extension grant-      ration de toute prolongation accordée par le
+                   ed by the Minister under subsection (2) for        ministre en vertu du paragraphe (2) pour
+                   that equipment and those liquids.                  ces pièces d’équipement et ces liquides.
+Application           (2) The Minister shall, on receiving a             (2) Sur réception d’une demande écrite        Demande
+
+                   written application containing the informa-        comportant les renseignements prévus au
+                   tion set out in subsection (3), grant an ex-       paragraphe (3), le ministre accorde une
+                   tension up to the date applied for but no          prolongation jusqu’à la date prévue dans la
+                   later than December 31, 2014, if either of         demande mais au plus tard jusqu’au 31 dé-
+                   the following conditions are met:                  cembre 2014, si l’une ou l’autre des condi-
+                      (a) the equipment is being replaced with        tions suivantes est remplie :
+                      equipment that is engineered to order,              a) la pièce d’équipement doit être rem-
+                      and                                                 placée par une pièce d’équipement
+                         (i) it is not technically feasible to re-        conçue et fabriquée sur mesure et :
+                         place the equipment on or before De-               (i) il est techniquement impossible de
+                         cember 31, 2009,                                   le faire le 31 décembre 2009 ou avant
+                         (ii) the applicant is taking all neces-            cette date,
+                         sary measures to minimize or elimi-                (ii) le demandeur prend les mesures
+                         nate any harmful effect of the PCBs in             nécessaires pour éliminer ou atténuer
+                         the equipment on the environment and               tout effet nocif des BPC contenus
+                         on human health,                                   dans la pièce sur l’environnement et la
+                         (iii) a plan has been prepared, along              santé humaine,
+                         with timelines, to end the use of the              (iii) un plan, incluant un échéancier, a
+                         equipment by the date applied for,                 été dressé afin que l’utilisation de la
+                         (iv) a plan has been prepared for in-              pièce cesse au plus tard à la date pré-
+                         specting the equipment on a monthly                vue dans la demande,
+                         basis for the period of the extension
+
+
+
+
+                                                                     10
+                                          DORS/2008-273 — 6 octobre 2010
+
+
+
+                   for damage that could lead to the re-            (iv) un plan a été dressé pour l’ins-
+                   lease of PCBs, and                               pection de la pièce une fois par mois
+                   (v) the equipment bears the label re-            durant la prolongation afin que soit
+                   quired under section 29; or                      décelé tout dommage pouvant mener
+                                                                    au rejet de BPC,
+                (b) the equipment is located at a facility
+                that is scheduled for permanent closure             (v) la pièce porte l’étiquette exigée
+                on or before December 31, 2014, and                 par l’article 29;
+
+                   (i) the applicant is taking all neces-         b) la pièce d’équipement se trouve dans
+                   sary measures to minimize or elimi-            une installation dont la fermeture perma-
+                   nate any harmful effect of the PCBs in         nente est prévue au plus tard pour le 31
+                   the equipment on the environment and           décembre 2014 et :
+                   on human health,                                 (i) le demandeur prend les mesures
+                   (ii) a plan has been prepared, along             nécessaires pour éliminer ou atténuer
+                   with timelines, to end the use of the            tout effet nocif des BPC contenus
+                   equipment by the date applied for,               dans la pièce sur l’environnement et la
+                                                                    santé humaine,
+                   (iii) a plan has been prepared for in-
+                   specting the equipment on a monthly              (ii) un plan, incluant un échéancier, a
+                   basis, for the period of the extension,          été dressé afin que l’utilisation de la
+                   for damage that could lead to the re-            pièce cesse au plus tard à la date pré-
+                   lease of PCBs, and                               vue dans la demande,
+
+                   (iv) the equipment bears the label re-           (iii) un plan a été dressé pour l’ins-
+                   quired under section 29.                         pection de la pièce une fois par mois
+                                                                    durant la prolongation afin que soit
+                                                                    décelé tout dommage pouvant mener
+                                                                    au rejet de BPC;
+                                                                    (iv) la pièce porte l’étiquette exigée
+                                                                    par l’article 29.
+Information     (3) The application shall contain the fol-        (3) La demande comporte :                    Renseignements
+
+              lowing:                                             a) les nom, adresses municipale et pos-
+                (a) the name, civic and mailing address-          tale et numéro de téléphone du deman-
+                es, telephone number, fax number, if              deur et de toute personne autorisée à agir
+                any, and e-mail address, if any, of the           en son nom et, le cas échéant, leurs nu-
+                applicant and of any person authorized            méro de télécopieur et adresse électro-
+                to act on the applicant’s behalf;                 nique;
+                (b) a technical description of the equip-         b) les caractéristiques techniques de la
+                ment which is the subject of the applica-         pièce d’équipement qui fait l’objet de la
+                tion, including                                   demande, notamment :
+                   (i) the type and function of the equip-          (i) son type et sa fonction,
+                   ment,
+
+
+
+
+                                                             11
+                            SOR/2008-273 — October 6, 2010
+
+
+
+  (ii) the quantity of liquid containing              (ii) la quantité de liquide qui contient
+  PCBs that is in the equipment and the               des BPC qui s’y trouve et la quantité
+  quantity of liquid needed for servicing             de liquide nécessaire pour son entre-
+  that equipment, expressed in litres,                tien, exprimées en litres,
+  (iii) the concentration of PCBs in the              (iii) la concentration de BPC dans le
+  liquid, expressed in milligrams of                  liquide, exprimée en milligrammes de
+  PCBs per kilogram of liquid,                        BPC par kilogramme de liquide,
+  (iv) the quantity of PCBs in the liquid             (iv) la quantité de BPC dans le li-
+  that is in the equipment, expressed in              quide qui s’y trouve, exprimée en ki-
+  kilograms, and                                      logrammes,
+  (v) the name-plate description, if any,             (v) s’il y a lieu, l’information figurant
+  and the manufacturer’s serial number,               sur la plaque d’identification et le nu-
+  if any;                                             méro de série de son fabricant;
+(c) the unique identification number that           c) le numéro d’identification unique fi-
+is on the label required under section 29;          gurant sur l’étiquette en application de
+(d) the name, if any, and civic address             l’article 29;
+of the facility where the equipment is lo-          d) le nom, s’il y a lieu, et l’adresse mu-
+cated, or, if there is no civic address, the        nicipale de l’installation où se trouve la
+location using the owner’s site identifi-           pièce d’équipement ou, à défaut, l’en-
+cation system, and the function and tech-           droit où elle se trouve d’après le système
+nical description of the facility;                  d’identification de site du propriétaire, et
+(e) information demonstrating that                  la fonction et les caractéristiques tech-
+                                                    niques de l’installation;
+  (i) it is not technically feasible to re-
+                                                    e) les renseignements qui établissent :
+  place the equipment on or before De-
+  cember 31, 2009, or                                 (i) soit qu’il est techniquement im-
+  (ii) the facility where the equipment               possible de remplacer la pièce d’équi-
+  is located is scheduled for permanent               pement le 31 décembre 2009 ou avant
+  closure on or before December 31,                   cette date,
+  2014;                                               (ii) soit que la fermeture permanente
+(f) information demonstrating that the                de l’installation dans laquelle se
+applicant is taking all necessary mea-                trouve la pièce d’équipement est pré-
+sures to minimize or eliminate any                    vue au plus tard pour le 31 décembre
+harmful effect of the PCBs that are con-              2014;
+tained in the equipment on the environ-             f) les renseignements qui établissent que
+ment and on human health;                           les mesures nécessaires ont été prises par
+(g) the plan, along with timelines, for             le demandeur pour éliminer ou atténuer
+ending the use of the equipment; and                tout effet nocif des BPC contenus dans
+                                                    la pièce d’équipement sur l’environne-
+(h) the plan for inspecting the equip-              ment et la santé humaine;
+ment.
+
+
+
+
+                                               12
+                                                    DORS/2008-273 — 6 octobre 2010
+
+
+
+                                                                         g) le plan et l’échéancier qui seront mis
+                                                                         en œuvre afin que cesse l’utilisation de
+                                                                         la pièce d’équipement;
+                                                                         h) le plan d’inspection de la pièce
+                                                                         d’équipement.
+Notice of change      (4) The applicant shall notify the Minis-        (4) Le demandeur est tenu d’aviser le            Avis de
+to information                                                                                                          changement
+                   ter in writing of any change to the informa-      ministre par écrit de tout changement ap-          apporté aux
+                                                                                                                        renseignements
+                   tion provided under subsection (3) within         porté aux renseignements fournis en appli-
+                   30 days after the day on which the change         cation du paragraphe (3) dans les trente
+                   occurs.                                           jours suivant la date du changement.
+False or             (5) The Minister shall refuse to grant an          (5) Le ministre refuse d’accorder une           Renseignements
+misleading                                                                                                              faux ou
+information        extension if the Minister has reasonable          prolongation s’il a des motifs raisonnables        trompeurs
+                   grounds to believe that the applicant has         de croire que le demandeur a fourni des
+                   provided false or misleading information in       renseignements faux ou trompeurs au sou-
+                   support of its application.                       tien de sa demande.
+Revocation            (6) The Minister shall revoke the exten-           (6) Il révoque la prolongation :               Révocation
+
+                   sion if                                               a) si, durant la prolongation, les condi-
+                      (a) the requirements set out in subsec-            tions prévues au paragraphe (2), selon le
+                      tion (2) are no longer met during the pe-          cas, ne sont plus remplies;
+                      riod of the extension; or                          b) s’il a des motifs raisonnables de
+                      (b) the Minister has reasonable grounds            croire que le demandeur lui a fourni des
+                      to believe that the applicant has provided         renseignements faux ou trompeurs au
+                      false or misleading information to the             soutien de sa demande.
+                      Minister in support of its application.
+Reasons for          (7) The Minister shall not revoke the             (7) Il ne peut toutefois révoquer la pro-        Motifs de
+revocation                                                                                                              révocation
+                   extension unless the Minister provides the        longation que si, à la fois :
+                   applicant with                                        a) il a avisé le titulaire par écrit des mo-
+                      (a) written reasons for the revocation;            tifs de la révocation;
+                      and                                                b) il lui a donné la possibilité de présen-
+                      (b) an opportunity to be heard, by writ-           ter des observations par écrit au sujet de
+                      ten representation, in respect of the revo-        celle-ci.
+                      cation.                                        DORS/2010-57, art. 6(F).
+                   SOR/2010-57, s. 6(F).
+
+                                           PART 3                                         PARTIE 3
+
+                                       STORAGE                                          STOCKAGE
+Application —        18. (1) Subject to subsection (3), this            18. (1) Sous réserve du paragraphe (3),         Application —
+concentration of                                                                                                        Concentration
+50 mg/kg or        Part applies to a solid or liquid product         la présente partie s’applique aux produits         égale ou
+more                                                                                                                    supérieure à 50
+                                                                     liquides ou solides qui contiennent des            mg/kg
+
+
+
+
+                                                                    13
+                                                SOR/2008-273 — October 6, 2010
+
+
+
+                  containing PCBs in a concentration of 50          BPC en une concentration égale ou supé-
+                  mg/kg or more                                     rieure à 50 mg/kg et :
+                     (a) that is in an amount equal to or               a) dont la quantité est égale ou supé-
+                     greater than 100 L if the product is a liq-        rieure à 100 L, dans le cas d’un produit
+                     uid, or in an amount equal to or greater           liquide, ou à 100 kg, dans le cas d’un
+                     than 100 kg if the product is a solid; or          produit solide;
+                     (b) that is in a lesser amount if the prod-        b) dont la quantité est moindre, si ces
+                     uct contains 1 kg or more of PCBs.                 produits renferment 1 kg ou plus de
+                                                                        BPC.
+Determination        (2) For the purposes of subsection (1),           (2) Pour     l’application   du  para-           Détermination
+of amount                                                                                                               des quantités
+                  the amount of PCBs or products containing         graphe (1), la quantité de BPC ou de pro-
+                  PCBs is the aggregate of all amounts of           duits qui en contiennent correspond à la
+                  PCBs and products that are located at a           somme de toutes les quantités de BPC et de
+                  particular site.                                  produits qui se trouvent dans un même em-
+                                                                    placement.
+Non-application      (3) This Part does not apply in respect          (3) La présente partie ne s’applique pas          Exclusion
+
+                  of the following products containing PCBs:        aux produits ci-après qui contiennent des
+                     (a) solid or liquid products that are pro-     BPC :
+                     cessed daily or used;                              a) les produits liquides ou solides qui
+                     (b) pipelines that transport natural gas,          sont transformés quotidiennement ou
+                     petroleum or petroleum products, and               utilisés;
+                     any associated equipment that is in con-           b) tout pipeline qui transporte du gaz
+                     tact with the natural gas, petroleum or            naturel, du pétrole ou des produits pétro-
+                     petroleum products, if they remain in              liers, ainsi que tout équipement connexe
+                     place on September 5, 2008; and                    qui est en contact avec le gaz naturel, le
+                     (c) cables, if they remain in place on             pétrole ou les produits pétroliers, si le pi-
+                     September 5, 2008.                                 peline et l’équipement demeurent à l’en-
+                                                                        droit où ils se trouvaient le 5 septembre
+                  SOR/2010-57, s. 19.
+                                                                        2008;
+                                                                        c) les câbles, s’ils demeurent à l’endroit
+                                                                        où ils se trouvaient le 5 septembre 2008.
+                                                                    DORS/2010-57, art. 19.
+
+Requirement to       19. (1) A person who owns, controls or            19. (1) Le propriétaire de BPC ou de             Obligation de
+store                                                                                                                   stocker
+                  possesses PCBs or products containing             produits qui en contiennent ou la personne
+                  PCBs shall, within 30 days after the day on       qui en a la possession ou le contrôle est te-
+                  which those PCBs or products cease to be          nu, dans les trente jours suivant la date où
+                  processed daily or used or after September        ceux-ci cessent d’être transformés quoti-
+                  5, 2008, whichever is later, either               diennement ou utilisés ou suivant le 5 sep-
+                                                                    tembre 2008, selon la plus tardive de ces
+                                                                    dates :
+
+
+
+
+                                                                   14
+                                               DORS/2008-273 — 6 octobre 2010
+
+
+
+                     (a) send them for destruction to an au-           a) soit de les expédier pour qu’ils soient
+                     thorized facility that is authorized for          détruits dans une installation agréée à
+                     that purpose; or                                  cette fin;
+                     (b) store them at a PCB storage site for          b) soit de les stocker dans un dépôt de
+                     the period during which they are not              BPC pendant qu’ils ne sont pas transfor-
+                     processed daily or used.                          més quotidiennement ou utilisés.
+Remote from or       (2) Despite subsection (1), if the PCBs          (2) Si les BPC ou les produits qui en         Endroit éloigné
+no access to                                                                                                        ou inaccessible
+roadway           or products containing PCBs are remote           contiennent sont éloignés de tout système
+                  from a roadway system or if there is no ac-      routier ou se trouvent à un endroit où il n’y
+                  cess to a roadway system, the person who         a pas d’accès à un tel système, le proprié-
+                  owns, controls or possesses the PCBs or          taire ou la personne peut les stocker dans
+                  products may store them at a PCB storage         un dépôt de BPC le plus tôt possible, sans
+                  site as soon as feasible but no later than       toutefois dépasser un an à compter de la
+                  one year after the day on which they are         date où ils cessent d’être transformés quoti-
+                  not processed daily or used or one year af-      diennement ou utilisés ou du 5 septembre
+                  ter September 5, 2008, whichever is later.       2008, selon la plus tardive de ces dates. Ils
+                  That person shall use best management            sont tenus d’appliquer des pratiques exem-
+                  practices for them from the time that they       plaires de gestion pour les BPC et les pro-
+                  cease to be processed daily or used until        duits dès qu’ils cessent d’être transformés
+                  the time that they are stored at a PCB stor-     quotidiennement ou utilisés, et ce, jusqu’à
+                  age site.                                        leur stockage dans un dépôt de BPC.
+                  SOR/2010-57, s. 7.                               DORS/2010-57, art. 7.
+
+Prohibition          20. (1) Effective September 5, 2009, no         20. (1) À compter du 5 septembre               Interdiction de
+against storage                                                                                                     stocker
+                  person shall store PCBs or products con-         2009, il est interdit de stocker des BPC ou
+                  taining PCBs at the following plants or fa-      des produits qui en contiennent dans l’un
+                  cilities or on the land on which those plants    des établissements ci-après ou sur le terrain
+                  or facilities are located and within 100 m       d’un tel établissement, à 100 m ou moins
+                  of them:                                         de celui-ci :
+                     (a) a drinking water treatment plant or a         a) une usine de traitement d’eau potable
+                     food or feed processing plant; or                 ou de transformation des aliments desti-
+                     (b) a child care facility, preschool, pri-        nés aux humains ou aux animaux;
+                     mary school, secondary school, hospital,          b) une garderie, une école — de niveau
+                     or senior citizens’ care facility.                préscolaire, primaire ou secondaire —,
+                                                                       un hôpital ou une résidence pour per-
+                                                                       sonnes âgées.
+Light ballasts       (2) Subsection (1) does not apply to            (2) Le paragraphe (1) ne s’applique pas        Ballasts de
+                                                                                                                    lampes
+                  light ballasts.                                  aux ballasts de lampes.
+                  SOR/2010-57, s. 8.                               DORS/2010-57, art. 8.
+
+Maximum              21. (1) Despite any other provision in           21. (1) Malgré toute autre disposition        Périodes
+storage periods                                                                                                     maximales de
+                  these Regulations and subject to section         du présent règlement mais sous réserve de        stockage
+                  22, no person shall store PCBs or products       l’article 22, il est interdit de stocker des
+
+
+
+                                                                  15
+                                                SOR/2008-273 — October 6, 2010
+
+
+
+                  containing PCBs, other than those referred        BPC et des produits qui en contiennent,
+                  to in section 23, beyond the following time       autres que ceux visés à l’article 23, au-delà
+                  limits:                                           de la période applicable suivante :
+                    (a) one year, beginning on the day on               a) un an à compter du jour où le présent
+                    which their use is no longer permitted              règlement ne permet plus l’utilisation
+                    under these Regulations or the day on               des BPC et des produits ou de celui, s’il
+                    which they are no longer processed daily            est antérieur, où ils ont cessé d’être
+                    or used, whichever is sooner, if the                transformés quotidiennement ou utilisés,
+                    PCBs or products are stored at a facility           s’ils sont stockés à une installation qui
+                    that is not referred to in paragraph (1)(b)         n’est pas visée aux alinéas (1)b) ou c);
+                    or (c);                                             b) un an, s’ils sont stockés dans une ins-
+                    (b) one year, if the PCBs or products are           tallation agréée qui est un centre de
+                    stored at an authorized facility that is a          transfert;
+                    transfer site; and                                  c) deux ans, s’ils sont stockés dans une
+                    (c) two years, if the PCBs or products              installation agréée qui est autorisée à les
+                    are stored at an authorized facility that is        détruire.
+                    authorized to destroy them.
+Transfer sites       (2) If the PCBs or products containing            (2) Si les BPC et les produits qui en          Centres de
+                                                                                                                      transfert
+                  PCBs are sent from one transfer site to an-       contiennent sont expédiés d’un centre de
+                  other, the period referred to in paragraph        transfert à un autre, la période prévue à
+                  (1)(b) begins when they are received at the       l’alinéa (1)b) commence à courir le jour de
+                  first transfer site.                              leur réception au premier centre de trans-
+                                                                    fert.
+Destruction          (3) The owner or operator of the facility         (3) Le propriétaire ou l’exploitant de         Destruction
+
+                  referred to in paragraph (1)(a) or (b) shall      l’installation visée aux alinéas (1)a) ou b)
+                  send the PCBs or products containing              est tenu d’expédier, dans le délai prévu à
+                  PCBs for destruction to an authorized facil-      ces alinéas, les BPC ou les produits qui en
+                  ity that is authorized for that purpose with-     contiennent pour qu’ils soient détruits dans
+                  in the time limit set out in those para-          une installation agréée à cette fin.
+                  graphs.
+Exceptions to        22. (1) Section 21 does not apply to the         22. (1) L’article 21 ne s’applique pas          Périodes
+maximum                                                                                                               maximales de
+storage periods   storage of                                        au stockage :                                     stockage —
+                                                                                                                      exceptions
+                    (a) liquids referred to in subsection               a) des liquides visés au para-
+                    15(2) or for which an extension has been            graphe 15(2) ou pour lesquels une pro-
+                    granted under subsection 17; or                     longation a été accordée en vertu de l’ar-
+                    (b) solids and liquids containing PCBs              ticle 17;
+                    in a concentration of 50 mg/kg or more              b) des solides et des liquides qui
+                    resulting from environmental restoration            contiennent des BPC en une concentra-
+                    work and stored on site for the duration            tion égale ou supérieure à 50 mg/kg et
+                    of the work, if the requirements set out            qui sont issus de travaux de restauration
+
+
+
+
+                                                                   16
+                                                DORS/2008-273 — 6 octobre 2010
+
+
+
+                     in subsections (2) and (3) are complied            de l’environnement et stockés sur place
+                     with.                                              pendant la durée des travaux, si les exi-
+                                                                        gences prévues aux paragraphes (2) et
+                                                                        (3) sont respectées.
+Information to       (2) The owner of the land where the               (2) Le propriétaire du terrain où se          Renseignements
+be provided                                                                                                          à fournir
+                  solids and liquids referred to in paragraph       trouvent les solides ou les liquides visés à
+                  (1)(b) are located shall submit to the Min-       l’alinéa (1)b) fournit au ministre, au plus
+                  ister at least 30 days before the storage of      tard trente jours avant la date de leur sto-
+                  the solids or liquids or within 30 days after     ckage ou trente jours après le 5 septembre
+                  September 5, 2008, whichever is later, the        2008, selon la plus tardive de ces dates, les
+                  following information:                            renseignements suivants :
+                     (a) the civic address of the restoration           a) l’adresse municipale de l’endroit où
+                     work site or if there is no civic address,         sont effectués les travaux de restauration
+                     the location using the Global Positioning          ou, à défaut, sa localisation d’après le
+                     System;                                            système mondial de localisation;
+                     (b) the date of commencement of the                b) la date de début des travaux de res-
+                     restoration work;                                  tauration;
+                     (c) the anticipated date of completion of          c) la date prévue pour la fin des travaux
+                     the restoration work; and                          de restauration;
+                     (d) the anticipated date of the end of             d) la date prévue pour la cessation du
+                     storage of the solids or liquids.                  stockage des solides ou des liquides.
+Changes to           (3) The person referred to in subsection         (3) Il avise également le ministre par         Modification des
+information                                                                                                          renseignements
+                  (2) shall notify the Minister in writing of       écrit, au moins trente jours à l’avance, de
+                  the changes to be made at least 30 days be-       toute modification apportée aux renseigne-
+                  fore making any changes to the informa-           ments fournis.
+                  tion provided under that subsection.              DORS/2010-57, art. 9.
+                  SOR/2010-57, s. 9.
+
+PCBs or              23. A person who owns, controls or                23. Le propriétaire ou la personne qui a      BPC et produits
+products                                                                                                             qui en
+containing PCBs   possesses PCBs or products containing             la possession ou le contrôle de BPC ou de        contiennent
+stored on                                                                                                            stockés le 5
+September 5,      PCBs, other than liquids for which an ex-         produits qui en contiennent, autres que des      septembre 2008
+2008              tension has been granted under section 17,        liquides visés par une prolongation au titre
+                  that are stored on September 5, 2008 may          de l’article 17, qui sont stockés en date du
+                  store them                                        5 septembre 2008 est autorisé à les
+                     (a) until December 31, 2009 if they are        stocker :
+                     sent by that date for destruction to an au-        a) jusqu’au 31 décembre 2009, s’ils
+                     thorized facility that is authorized for           sont expédiés, au plus tard à cette date,
+                     that purpose; or                                   pour être détruits dans une installation
+                     (b) until December 31, 2011 if the per-            agréée à cette fin;
+                     son destroys them by that date, at the lo-         b) jusqu’au 31 décembre 2011, s’ils
+                     cation where they are stored, in an au-            sont détruits, au plus tard à cette date,
+
+
+
+                                                                   17
+                                                 SOR/2008-273 — October 6, 2010
+
+
+
+                      thorized facility that is authorized for           dans une installation agréée à cette fin se
+                      that purpose.                                      trouvant à l’emplacement de stockage.
+                   SOR/2010-57, s. 10.                               DORS/2010-57, art. 10.
+
+PCB storage site     24. PCBs or products containing PCBs              24. Les BPC et les produits qui en              Dépôt de BPC
+
+                   shall be stored at a site that is                 contiennent doivent être stockés dans un
+                      (a) a building, room, shipping container       dépôt qui est :
+                      or other enclosed structure; or                    a) soit un bâtiment, une pièce, un conte-
+                      (b) an area that is enclosed by a woven            neur ou tout autre ouvrage fermé;
+                      mesh wire fence or any other fence or              b) soit un endroit entouré d’une clôture
+                      wall with similar security characteristics,        grillagée ou d’un autre genre de clôture
+                      and the fence or wall shall be at least            ou d’un mur présentant des caractéris-
+                      1.83 m high.                                       tiques similaires sur le plan de la sécuri-
+                                                                         té, la clôture ou le mur ayant au moins
+                                                                         1,83 m de haut.
+Storage               25. The owner or operator of a PCB               25. Le propriétaire ou l’exploitant d’un        Exigences
+requirements                                                                                                           relatives au
+                   storage site shall                                dépôt de BPC :                                    stockage
+
+                      (a) store all PCBs or products contain-            a) stocke les BPC et les produits en
+                      ing PCBs that are in liquid form in                contenant qui sont des liquides dans :
+                         (i) sealed containers, other than                 (i) soit des contenants étanches,
+                         drums, that are made of steel or other            autres que des fûts, faits d’acier ou
+                         metals that provide sufficient durabili-          d’autres métaux offrant une durabilité
+                         ty and strength to prevent those PCBs             et une solidité suffisantes pour que ces
+                         or products from being affected by the            BPC et ces produits ne soient pas af-
+                         weather or released, or                           fectés par les conditions climatiques
+                         (ii) drums that are                               ni rejetés,
+
+                            (A) of a capacity not greater than             (ii) soit des fûts qui, à la fois :
+                            205 L,                                            (A) ont une capacité d’au plus 205
+                            (B) a closed-head double-bung                     L,
+                            drum made of steel having a gauge                 (B) sont faits d’acier d’épaisseur
+                            of 16 or heavier, and                             minimale 16, ont un dessus non
+                            (C) painted or treated to prevent                 amovible et sont munis de deux
+                            rusting;                                          bondes,
+
+                      (b) store all PCBs or products contain-                 (C) sont enduits d’une peinture ou
+                      ing PCBs that are in solid form in                      d’un revêtement antirouille;
+
+                         (i) containers, other than drums, that          b) stocke les BPC et les produits en
+                         are made of steel or other materials            contenant qui sont des solides dans :
+                         that provide sufficient durability and            (i) soit des contenants, autres que des
+                         strength to prevent those PCBs or                 fûts, faits d’acier ou d’autres maté-
+                                                                           riaux offrant une durabilité et une so-
+
+
+
+                                                                    18
+                          DORS/2008-273 — 6 octobre 2010
+
+
+
+  products from being affected by the              lidité suffisantes pour que ces BPC et
+  weather or released, or                          ces produits ne soient pas affectés par
+  (ii) drums that are                              les conditions climatiques ni rejetés,
+
+    (A) of a capacity not greater than             (ii) soit des fûts qui, à la fois :
+    205 L,                                            (A) ont une capacité d’au plus 205
+    (B) made of steel having a gauge                  L,
+    of 18 or heavier,                                 (B) sont faits d’acier d’épaisseur
+    (C) equipped with a securely at-                  minimale 18,
+    tached, removable steel lid and a                 (C) sont dotés d’un couvercle
+    gasket made of material that is re-               d’acier amovible solidement fixé et
+    sistant to the PCBs or the products               d’un joint fait d’un matériau résis-
+    containing PCBs that are stored in                tant aux BPC et aux produits en
+    the drums, and                                    contenant qui y sont stockés,
+    (D) painted or treated to prevent                 (D) sont enduits d’une peinture ou
+    rusting;                                          d’un revêtement antirouille;
+(c) store equipment containing PCB liq-          c) stocke les pièces d’équipement qui
+uids in                                          renferment des liquides contenant des
+  (i) containers, other than drums, that         BPC dans :
+  are made of steel or other materials             (i) soit des contenants, autres que des
+  that provide sufficient durability and           fûts, faits d’acier ou d’autres maté-
+  strength to prevent the equipment                riaux offrant une durabilité et une so-
+  from being affected by the weather               lidité suffisantes pour que les pièces
+  and to prevent any PCB liquid that               d’équipement ne soient pas affectées
+  leaks from the equipment from being              par les conditions climatiques et que
+  released, or                                     les liquides, s’ils fuient des pièces, ne
+  (ii) drums described in subparagraph             soient pas rejetés,
+  (b)(ii);                                         (ii) soit des fûts visés au sous-alinéa
+(d) store all equipment that is not in a           b)(ii);
+container, other than drained equipment,         d) stocke les pièces d’équipement —
+if that equipment contains PCB liquid,           autres que celles contenant des BPC qui
+and all containers of PCB liquid, on a           ont été vidangées — qui ne sont pas
+floor or surface that is made of steel,          dans un contenant et qui renferment des
+concrete or any other similar durable            liquides contenant des BPC, ainsi que
+material and that is constructed with            tout contenant qui renferme de tels li-
+curbing or sides that are capable of con-        quides, sur un plancher ou une surface
+taining                                          fait d’acier, de béton ou d’un autre maté-
+  (i) if one piece of equipment or one           riau durable semblable et entouré d’un
+  container is being stored, 125% of the         rebord ou de côtés capables de retenir :
+
+
+
+
+                                            19
+                           SOR/2008-273 — October 6, 2010
+
+
+
+  volume of the PCB liquid in the                    (i) si une seule pièce d’équipement
+  equipment or container, and                        ou un seul contenant est stocké,
+  (ii) if more than one piece of equip-              125 % du volume des liquides conte-
+  ment or more than one container is                 nant des BPC que renferme cette
+  being stored, the greater of twice the             pièce d’équipement ou le contenant,
+  volume of the PCB liquid in the                    (ii) si plus d’une pièce d’équipement
+  largest piece of equipment or the                  ou plus d’un contenant est stocké, le
+  largest container and 25% of the vol-              plus élevé des volumes suivants : le
+  ume of all the PCB liquid stored on                double du volume des liquides conte-
+  the floor or surface;                              nant des BPC que renferme la plus
+(e) if the material of the floor or surface          grosse pièce d’équipement ou le plus
+or the curbing or sides referred to in               grand contenant ou 25 % du volume
+paragraph (d) are capable of absorbing               de l’ensemble des liquides contenant
+any PCB liquid or other product contain-             des BPC qui sont stockés sur le plan-
+ing PCBs, seal the floor, surface, curb-             cher ou la surface;
+ing or sides with an impervious, durable,          e) scelle, au moyen d’un revêtement
+PCB-resistant coating;                             étanche, durable et résistant aux BPC, le
+(f) ensure that all floor drains, sumps or         plancher, la surface, le rebord ou les cô-
+other openings in the floor or surface re-         tés visés à l’alinéa d), lorsqu’ils peuvent
+ferred to in paragraph (d) are                     absorber des liquides ou d’autres pro-
+                                                   duits qui contiennent des BPC;
+  (i) closed and sealed to prevent the
+  release of liquids, or                           f) veille à ce que les drains de sol, pui-
+                                                   sards et autres ouvertures dans le plan-
+  (ii) connected to a drainage system              cher ou la surface visés à l’alinéa d)
+  suitable for liquid dangerous goods              soient, selon le cas :
+  that terminates at a location where any
+  spilled liquids will be contained and              (i) obturés et scellés pour empêcher
+  recovered and where the spilled liq-               le rejet de liquides,
+  uids will not create a fire hazard or a            (ii) reliés à un réseau de drainage
+  risk to public health or safety;                   convenant aux marchandises dange-
+(g) place on skids or pallets all equip-             reuses liquides, qui se jette dans un
+ment containing PCBs and containers of               lieu où les liquides déversés seront
+PCBs or products containing PCBs that                confinés et récupérés et où ils ne
+are not permanently secured to the floor             constitueront pas un risque d’incendie
+or a surface;                                        ni un risque pour la santé et la sécurité
+                                                     publiques;
+(h) stack containers of PCBs and prod-
+ucts containing PCBs, other than drums,            g) place sur des patins ou des palettes
+only if the containers are designed for            les pièces d’équipement contenant des
+stacking, and stack containers of PCB              BPC et les contenants renfermant des
+liquid not more than two containers                BPC ou des produits en contenant qui ne
+high;                                              sont pas fixés de façon permanente à un
+                                                   plancher ou à une surface;
+
+
+
+                                              20
+                          DORS/2008-273 — 6 octobre 2010
+
+
+
+(i) if drums containing PCBs or prod-             h) empile les contenants de BPC et de
+ucts containing PCBs are stacked, sepa-           produits qui en contiennent, autres que
+rate the drums from each other with pal-          les fûts, seulement s’ils sont conçus à
+lets and, in the case of drums of PCB             cette fin et, dans le cas des contenants
+liquid, stack the drums not more than             renfermant des liquides qui contiennent
+two drums high;                                   des BPC, ne les empile pas à plus de
+(j) store equipment containing PCBs,              deux contenants de haut;
+and containers of PCBs or products con-           i) s’ils sont empilés, sépare les fûts de
+taining PCBs, in a manner that makes              BPC et de produits qui en contiennent
+them accessible for inspection;                   les uns des autres avec des palettes et,
+(k) store PCBs or products containing             dans le cas des fûts renfermant des li-
+PCBs in a manner that prevents them               quides qui contiennent des BPC, ne les
+from catching fire or being released;             empile pas à plus de deux fûts de haut;
+
+(l) store PCBs or products containing             j) stocke les pièces d’équipement qui
+PCBs together, and separate them from             contiennent des BPC et les contenants
+other stored materials;                           renfermant des BPC ou des produits qui
+                                                  en contiennent de manière à ce qu’ils
+(m) if reasonably practicable, equip any          soient accessibles à des fins d’inspec-
+indoor PCB storage site having a me-              tion;
+chanical exhaust system with heat or
+                                                  k) stocke les BPC et les produits qui en
+smoke sensory controls that stop the fan
+and close the intake and exhaust                  contiennent de façon à empêcher leur in-
+dampers in the event of a fire;                   flammation ou leur rejet;
+
+(n) if equipment or containers of PCB             l) stocke les BPC et les produits qui en
+liquid are stored outdoors, cover all PCB         contiennent ensemble, à l’écart des
+equipment that is not in a container, oth-        autres matériaux stockés;
+er than drained equipment, if that equip-         m) dans la mesure du possible, munit
+ment contains PCB liquid, and all con-            tout dépôt de BPC intérieur ayant un dis-
+tainers of PCB liquid, with a                     positif mécanique de ventilation de com-
+weatherproof roof or barrier that protects        mandes sensibles à la chaleur ou à la fu-
+the equipment and containers and pre-             mée qui, en cas d’incendie, arrêtent le
+vents rain or snow from entering the              ventilateur et ferment les registres d’ad-
+curbing and the sides of the floor and the        mission et d’évacuation d’air;
+surface under them; and                           n) s’ils sont stockés dehors, couvre les
+(o) ensure that all drained PCB equip-            pièces d’équipement — autres que celles
+ment and all containers of any PCB solid          contenant des BPC qui ont été vidangées
+or PCB equipment are structurally sound           — qui ne sont pas dans un contenant et
+and weatherproof if stored outdoors.              qui renferment des liquides contenant
+                                                  des BPC, ainsi que tout contenant qui
+                                                  renferme de tels liquides, d’une toiture
+                                                  ou d’un écran à l’épreuve des intempé-
+                                                  ries qui les protège et empêche la pluie
+
+
+
+
+                                             21
+                                                SOR/2008-273 — October 6, 2010
+
+
+
+                                                                        et la neige de pénétrer à l’intérieur du re-
+                                                                        bord et des côtés du plancher et de la
+                                                                        surface sur lesquels ils sont posés;
+                                                                        o) s’ils sont stockés dehors, veille à ce
+                                                                        que les pièces d’équipement contenant
+                                                                        des BPC qui ont été vidangées et tout
+                                                                        contenant qui renferme des solides ou
+                                                                        des pièces d’équipement contenant des
+                                                                        BPC aient une structure en bon état et
+                                                                        soient à l’épreuve des intempéries.
+Access to PCB         26. The owner or operator of a PCB              26. Le propriétaire ou l’exploitant d’un         Accès au dépôt
+storage site                                                                                                           de BPC
+                   storage site shall keep all points of access     dépôt de BPC tient chaque point d’accès au
+                   to the PCB storage site locked or guarded.       dépôt verrouillé ou veille à ce qu’il soit
+                                                                    gardé.
+Inspection and        27. The owner or operator of a PCB              27. Le propriétaire ou l’exploitant d’un         Inspection et
+maintenance of a                                                                                                       entretien des
+PCB storage site   storage site shall                               dépôt de BPC :                                     dépôts de BPC
+
+                     (a) inspect all floors, curbing, sides,            a) en inspecte les planchers, les rebords,
+                     drains, drainage systems, weatherproof             les côtés, les drains, les réseaux de drai-
+                     roofs and barriers, fences and walls of            nage, les toitures et écrans à l’épreuve
+                     the PCB storage site, any fire alarm sys-          des intempéries, les clôtures, les murs, le
+                     tem, fire extinguishers and fire suppres-          système d’alarme-incendie, les extinc-
+                     sion system and all equipment contain-             teurs et le réseau d’extinction automa-
+                     ing PCBs, containers used for the                  tique, ainsi que les pièces d’équipement
+                     storage of PCBs or products containing             qui contiennent des BPC, les contenants
+                     PCBs and materials for clean-up at the             servant au stockage des BPC ou des pro-
+                     PCB storage site                                   duits qui en contiennent et les agents de
+                        (i) each month,                                 nettoyage qui s’y trouvent :
+
+                        (ii) at intervals of more than one                (i) tous les mois,
+                        month, if the Minister, on the written            (ii) à des intervalles de plus d’un
+                        request of the owner or operator, de-             mois, si le ministre, à la demande
+                        termines that it is not reasonably prac-          écrite du propriétaire ou de l’exploi-
+                        ticable to inspect the site each month,           tant, détermine qu’il est en pratique
+                        due to its remote location, or                    impossible d’inspecter le dépôt tous
+                        (iii) at intervals of less than one               les mois en raison de son isolement,
+                        month, if more frequent inspections               (iii) à des intervalles de moins d’un
+                        are necessary for the safe operation of           mois, si l’exploitation du dépôt en
+                        the site; and                                     toute sécurité exige des inspections
+                     (b) keep in good condition and, if dam-              plus fréquentes;
+                     aged, immediately repair or replace the            b) les garde en bon état et, en cas de
+                     floors, curbing, sides, drains, drainage           dommage, les répare ou les remplace
+
+
+
+
+                                                                   22
+                                              DORS/2008-273 — 6 octobre 2010
+
+
+
+                    systems, weatherproof roofs or barriers,          immédiatement et nettoie sur-le-champ
+                    fences, walls, fire alarm system, fire ex-        les aires contaminées.
+                    tinguishers, fire suppression system,
+                    equipment containing PCBs and contain-
+                    ers and immediately clean up any con-
+                    taminated area.
+Fire protection      28. (1) The owner or operator of a PCB         28. (1) Le propriétaire ou l’exploitant         Protection
+and emergency                                                                                                       contre les
+procedures        storage site shall                              d’un dépôt de BPC :                               incendies et
+                                                                                                                    mesures
+                    (a) develop and implement at the PCB              a) élabore et met en œuvre un plan d’in-      d’urgence
+
+                    storage site a fire protection and emer-          tervention d’urgence et de lutte contre
+                    gency procedures plan and shall                   les incendies et :
+                      (i) update and test the plan once per             (i) le met à jour et le vérifie annuelle-
+                      year,                                             ment,
+                      (ii) keep a written copy of the latest            (ii) en conserve une copie écrite à
+                      plan at the PCB storage site and an-              jour au dépôt et à son établissement
+                      other at their principal place of busi-           principal,
+                      ness, and
+                                                                        (iii) en rend une copie à jour facile-
+                      (iii) make the latest plan readily                ment accessible à toute personne qui
+                      available to persons who implement                participe à sa mise en œuvre et au ser-
+                      the plan and to the local fire depart-            vice d’incendie local ou, à défaut, au
+                      ment or to the local officer appointed            fonctionnaire local nommé par le
+                      by the provincial Fire Marshall if                commissaire provincial aux incendies
+                      there is no local fire department or to           ou à toute autre autorité locale char-
+                      any other local authority responsible             gée de la protection contre les incen-
+                      for fire protection;                              dies;
+                    (b) ensure that all employees who are             b) veille à ce que tous les employés au-
+                    authorized to enter the PCB storage site          torisés à entrer dans le dépôt connaissent
+                    are familiar with the contents of the lat-        bien le contenu du plan à jour;
+                    est plan;
+                                                                      c) s’agissant d’un dépôt intérieur, le
+                    (c) equip the indoor PCB storage site             munit d’un système d’alarme-incendie
+                    with a fully operative fire alarm system          en état de fonctionnement qui est entre-
+                    that is maintained, inspected and tested          tenu, inspecté et mis à l’essai conformé-
+                    in accordance with articles 6.3.1.1 and           ment aux exigences des articles 6.3.1.1
+                    6.3.1.2 of the National Fire Code and             et 6.3.1.2 du Code national de préven-
+                    with                                              tion des incendies, ainsi que :
+                      (i) portable fire extinguishers that are          (i) soit d’extincteurs portatifs qui sont
+                      selected and installed in accordance              choisis et installés conformément à
+                      with article 2.1.5.1 of the National              l’article 2.1.5.1 de ce code et qui sont
+                      Fire Code and maintained, inspected               entretenus, inspectés et mis à l’essai
+
+
+
+
+                                                                 23
+                                           SOR/2008-273 — October 6, 2010
+
+
+
+                   and tested in accordance with article             conformément aux exigences de l’ar-
+                   6.2.1.1 of that Code, or                          ticle 6.2.1.1 de ce code,
+                   (ii) an automatic fire suppression sys-           (ii) soit d’un réseau d’extinction auto-
+                   tem that meets the requirements of ar-            matique conforme aux exigences de
+                   ticle 3.2.7.9 of the National Fire Code,          l’article 3.2.7.9 du même code, si
+                   if required;                                      celles-ci s’appliquent;
+                (d) keep a copy of the records referred            d) conserve au dépôt une copie des do-
+                to in sections 43 and 44 at the PCB stor-          cuments et registres visés aux articles 43
+                age site and make a copy readily avail-            et 44 respectivement et en rend une faci-
+                able to the local fire department and, if          lement accessible au service d’incendie
+                there is no local fire department, to the          local ou, à défaut, au fonctionnaire local
+                local officer appointed by the provincial          nommé par le commissaire provincial
+                Fire Marshall or to any other local au-            aux incendies ou à toute autre autorité
+                thority responsible for fire protection;           locale chargée de la protection contre les
+                (e) ensure that all employees who are              incendies;
+                authorized to enter the PCB storage site           e) veille à ce que tous les employés au-
+                are made aware of the hazards of PCBs              torisés à entrer dans le dépôt soient in-
+                and are familiar with the use of protec-           formés des dangers que présentent les
+                tive equipment and clothing and the                BPC et connaissent bien l’utilisation du
+                clean-up procedures referred to in the             matériel et des vêtements de protection
+                Guidelines for the Management of                   et les méthodes de nettoyage mention-
+                Wastes Containing Polychlorinated                  nées dans le Guide pour la gestion des
+                Biphenyls (PCBs), CCME-TS/WM-                      déchets contenant des biphényles poly-
+                TRE008, September 1989, as amended                 chlorés (BPC) CCME-TS/WM-TRE008,
+                from time to time, issued by the Canadi-           septembre 1989, avec ses modifications
+                an Council of Ministers of the Environ-            successives, publié par le Conseil cana-
+                ment; and                                          dien des ministres de l’environnement;
+                (f) store absorbent materials for clean-           f) garde les matériaux absorbants ser-
+                up near the PCB storage site.                      vant au nettoyage près du dépôt.
+Shipping        (2) Despite paragraph (1)(c), if the in-         (2) Malgré l’alinéa (1)c), le propriétaire     Conteneur
+containers
+             door PCB storage site is a shipping con-          ou l’exploitant d’un dépôt de BPC intérieur
+             tainer, the owner or operator of the site         qui est un conteneur n’est pas tenu de le
+             does not have to equip that site with a fire      munir d’un système d’alarme-incendie.
+             alarm system.                                     DORS/2010-57, art. 11(F).
+             SOR/2010-57, s. 11(F).
+
+
+
+
+                                                              24
+                                                 DORS/2008-273 — 6 octobre 2010
+
+
+
+                                     PART 4                                            PARTIE 4
+
+                        LABELLING, REPORTS AND                             ÉTIQUETAGE, RAPPORTS ET
+                               RECORDS                                            DOSSIERS
+
+                                    LABELLING                                          ÉTIQUETAGE
+Equipment and         29. (1) The owner of equipment re-                29. (1) Le propriétaire d’une pièce          Pièces
+liquids used for                                                                                                     d’équipement et
+their servicing    ferred to in section 16, other than equip-        d’équipement visée à l’article 16, autre        liquides pour
+                                                                                                                     leur entretien
+                   ment for which an extension has been ap-          qu’une pièce d’équipement qui fait l’objet
+                   plied for under section 17, or of a liquid        d’une demande de prolongation en vertu de
+                   used in its servicing referred to in subsec-      l’article 17, ou de tout liquide utilisé pour
+                   tion 15(2) shall affix a label in a readily       l’entretien visé au paragraphe 15(2) est te-
+                   visible location on the equipment or on the       nu d’apposer une étiquette, à un endroit
+                   container of the liquid, no later than 30         bien en vue sur la pièce d’équipement ou le
+                   days after the day on which it ceases to be       contenant du liquide, au plus tard trente
+                   used.                                             jours après que la pièce ou le contenant
+                                                                     cesse d’être utilisé.
+Equipment for         (2) The owner of equipment for which              (2) Le propriétaire d’une pièce d’équi-      Équipement
+which extension                                                                                                      faisant l’objet
+applied for        an extension has been applied under sec-          pement qui fait l’objet d’une demande de        d’une demande
+                                                                                                                     de prolongation
+                   tion 17 shall affix a label in a readily visi-    prolongation en vertu de l’article 17 est te-
+                   ble location on the equipment.                    nu d’y apposer une étiquette à un endroit
+                                                                     bien en vue.
+Exceptions           (3) Subsection (1) does not apply to                (3) Le paragraphe (1) ne s’applique pas :   Exceptions
+
+                     (a) equipment or containers of liquids              a) aux pièces d’équipement et aux
+                     that bear a label on September 5, 2008              contenants de liquide qui portent, le
+                     that indicates the presence of PCBs; and            5 septembre 2008, une étiquette qui in-
+                     (b) equipment that is too small, includ-            dique la présence de BPC;
+                     ing light ballasts, to bear the label re-           b) aux pièces d’équipement qui sont
+                     ferred to in subsection (4).                        trop petites, y compris les ballasts de
+                                                                         lampes, pour que l’étiquette visée au pa-
+                                                                         ragraphe (4) y soit apposée.
+Containers for        (3.1) The owner of the equipment re-             (3.1) Le propriétaire des pièces d’équi-      Contenants de
+small equipment                                                                                                      pièces
+                   ferred to in paragraph (3)(b) that is stored      pement visées à l’alinéa (3)b) qui sont sto-    d’équipement
+                                                                                                                     trop petites
+                   shall affix the label referred to in subsec-      ckées appose l’étiquette visée au para-
+                   tion (4) in a readily visible location on the     graphe (4) à un endroit bien en vue sur leur
+                   container in which the equipment is stored.       contenant de stockage.
+Description          (4) The label must                                  (4) L’étiquette doit :                      Description
+
+                     (a) state “ATTENTION — contains 50                  a) porter la mention « ATTENTION —
+                     mg/kg or more of PCBs / contient 50                 contains 50 mg/kg or more of PCBs /
+                     mg/kg ou plus de BPC” in black letter-              contient 50 mg/kg ou plus de BPC »,
+
+
+
+
+                                                                    25
+                                                   SOR/2008-273 — October 6, 2010
+
+
+
+                        ing on a white background, in a font size          inscrite en caractères d’au moins
+                        of no less than 36 points;                         36 points, en noir sur fond blanc;
+                        (b) measure at least 150 mm by 150 mm              b) être d’une dimension minimale de
+                        or at least 76 mm by 76 mm in the case             150 mm sur 150 mm ou, dans le cas
+                        of capacitors; and                                 d’un condensateur, 76 mm sur 76 mm;
+                        (c) in the case of equipment for which             c) dans le cas d’une pièce d’équipement
+                        an extension is applied for under section          qui fait l’objet d’une demande de pro-
+                        17, state a unique identification number.          longation en vertu de l’article 17, porter
+                     SOR/2010-57, ss. 12, 19.                              un numéro d’identification unique.
+                                                                       DORS/2010-57, art. 12 et 19.
+
+Cables and              30. (1) The owner of a cable, a pipeline          30. (1) Le propriétaire de câbles, de pi-     Câbles et
+pipelines                                                                                                               pipelines
+                     or equipment associated with a pipeline,          pelines ou d’équipement connexe visés aux
+                     referred to in paragraphs 14(1)(a) and (b),       alinéas 14(1)(a) et (b) qui contiennent des
+                     containing PCBs in a concentration of 50          BPC en une concentration égale ou supé-
+                     mg/kg or more that is in a room, a tunnel         rieure à 50 mg/kg et se trouvent dans une
+                     or a facility shall either                        pièce, un tunnel ou une installation est
+                        (a) affix the label in the form set out in     tenu :
+                        subsection 29(4) in a readily visible lo-          a) soit d’apposer une étiquette conforme
+                        cation on a part of the cable, pipeline or         au paragraphe 29(4) à un endroit bien en
+                        associated equipment that is accessible;           vue sur toute partie accessible du câble,
+                        or                                                 pipeline ou équipement connexe;
+                        (b) place a notice in a readily visible lo-        b) soit de placer à l’entrée de la pièce,
+                        cation at the entrance of the room, tunnel         du tunnel ou de l’installation à un en-
+                        or facility that states the information set        droit bien en vue une affiche d’une di-
+                        out in paragraph 29(4)(a) and measures             mension minimale de 150 mm sur 150
+                        at least 150 mm by 150 mm.                         mm portant la mention prévue à l’alinéa
+                                                                           29(4)a).
+If dismantled           (2) If a part of the cable, pipeline or as-       (2) En cas de désassemblage d’une par-        Désassemblage
+
+                     sociated equipment is dismantled, the own-        tie du câble, du pipeline ou de l’équipe-
+                     er of the cable, pipeline or associated           ment connexe, le propriétaire de ceux-ci
+                     equipment shall affix on each dismantled          est tenu, dans les trente jours suivant le
+                     part the label in the form set out in subsec-     désassemblage, d’apposer une étiquette
+                     tion 29(4), no later than 30 days after the       conforme au paragraphe 29(4) sur chaque
+                     day on which it is dismantled.                    partie désassemblée du câble, du pipeline
+                                                                       ou de l’équipement connexe.
+A facility other        31. (1) The owner or operator of a PCB           31. (1) Le propriétaire ou l’exploitant        Installation autre
+than transfer site                                                                                                      qu’un centre de
+or destruction       storage site, other than the PCB storage site     d’un dépôt de BPC d’une installation autre       transfert ou de
+facility                                                                                                                destruction
+                     of an authorized facility that is a transfer      qu’une installation agréée qui est un centre
+                     site or that is authorized to destroy PCBs,       de transfert ou qui est autorisée à détruire
+                     shall affix a label in a readily visible loca-    des BPC est tenu d’apposer une étiquette à
+                     tion on any product containing PCBs in a          un endroit bien en vue sur tout produit en
+
+
+
+                                                                      26
+                                                 DORS/2008-273 — 6 octobre 2010
+
+
+
+                   concentration of 50 mg/kg or more and that        contenant qui y sont stockés et qui
+                   are stored at the PCB storage site, which         contiennent des BPC en une concentration
+                      (a) is in the form referred to in subsec-      égale ou supérieure à 50 mg/kg; l’étiquette
+                      tion 29(4); and                                    a) est conforme au paragraphe 29(4);
+                      (b) states “Date of Commencement of                b) porte la mention « Date de début de
+                      Storage / Date de début de stockage”               stockage / Date of Commencement of
+                      and the date on which the storage be-              Storage » et la date de début de sto-
+                      gins.                                              ckage.
+Transfer site or      (2) The owner or operator of the PCB              (2) Le propriétaire ou l’exploitant d’un     Centre de
+destruction                                                                                                          transfert ou de
+facility           storage site of an authorized facility that is    dépôt de BPC d’une installation agréée qui      destruction
+                   a transfer site or that is authorized to de-      est un centre de transfert ou qui est autori-
+                   stroy PCBs shall affix a label in the form        sée à détruire des BPC est tenu d’apposer
+                   set out in subsection 29(4) in a readily visi-    une étiquette conforme au paragraphe
+                   ble location on any container that is a fixed     29(4) à un endroit bien en vue sur tout
+                   tank and that is used at the facility for the     contenant qui est un réservoir fixe utilisé
+                   storage of PCBs or products containing            pour stocker des BPC à l’installation ou
+                   PCBs in a concentration of 50 mg/kg or            des produits qui en contiennent en une
+                   more.                                             concentration égale ou supérieure à 50 mg/
+                                                                     kg.
+Notice                (3) The owner or operator of a PCB               (3) Le propriétaire ou l’exploitant d’un      Affiche
+
+                   storage site shall place a notice in a readily    dépôt de BPC place à l’entrée du dépôt à
+                   visible location at the entrance of the site      un endroit bien en vue une affiche d’une
+                   that states the information set out in para-      dimension minimale de 150 mm sur 150
+                   graph 29(4)(a) and that measures at least         mm portant la mention prévue à l’alinéa
+                   150 mm by 150 mm.                                 29(4)a).
+Non-application       (4) Subsections (1) and (2) do not apply          (4) Les paragraphes (1) et (2) ne s’ap-      Non application
+
+                   in respect of a product or container stored       pliquent pas au produit ou au contenant
+                   on September 5, 2008, if the product or the       stocké en date du 5 septembre 2008, s’il
+                   container                                         respecte les conditions suivantes :
+                      (a) bore a label on September 5, 2008              a) en date du 5 septembre 2008, il por-
+                      that indicated the presence of PCBs and            tait une étiquette indiquant la présence
+                      that stated “Date of Commencement of               de BPC, la mention « Date de début de
+                      Storage” and the date on which the stor-           stockage » et la date de début de sto-
+                      age began; and                                     ckage;
+                      (b) bears a label that states “Date of             b) il porte une étiquette portant la men-
+                      Commencement of Storage / Date de                  tion « Date de début de stockage / Date
+                      début de stockage” and the date on                 of Commencement of Storage » et la
+                      which the storage began.                           date de début de stockage.
+                   SOR/2010-57, s. 13.                               DORS/2010-57, art. 13.
+
+
+
+
+                                                                    27
+                                               SOR/2008-273 — October 6, 2010
+
+
+
+Retention of        32. The person who is required to affix           32. La personne qui a l’obligation d’ap-      Conservation
+labels                                                                                                              des étiquettes
+                 a label on a product or container in accor-       poser une étiquette sur un produit ou un
+                 dance with sections 29 to 31 shall ensure         contenant en application des articles 29 à
+                 that it bears that label for the duration that    31 veille à ce que le produit ou le conte-
+                 the person possesses the product or con-          nant la porte en tout temps pendant qu’il
+                 tainer.                                           est en sa possession.
+
+                                   REPORTS                                           RAPPORTS
+End of use of       33. (1) The owner of the equipment re-           33. (1) Le propriétaire des pièces             Date de fin
+equipment and                                                                                                       d’utilisation des
+liquids — 2009   ferred to in paragraph 16(1)(a) and sub-          d’équipement visées à l’alinéa 16(1)a) ou        pièces
+                                                                                                                    d’équipement et
+                 paragraph 16(1)(b)(i), other than the equip-      au sous-alinéa 16(1)b)(i), autres que celles     des liquides —
+                 ment for which an extension is granted by         pour lesquelles une prolongation a été ac-       2009
+
+                 the Minister in accordance with section 17,       cordée par le ministre en vertu de l’article
+                 or the liquids referred to in subsection          17, ou des liquides visés au paragraphe
+                 15(2) shall prepare a report that is current      15(2) est tenu de préparer un rapport, au 31
+                 to December 31 of each calendar year in           décembre de chaque année civile durant la-
+                 which the person owns the equipment or            quelle il en est propriétaire, comportant les
+                 the liquids and that contains the following       renseignements suivants :
+                 information:                                          a) ses nom, adresses municipale et pos-
+                   (a) the name, civic and mailing address-            tale, numéro de téléphone et, le cas
+                   es, telephone number, fax number, if                échéant, numéro de télécopieur et
+                   any, and e-mail address, if any, of the             adresse électronique, ainsi que ceux de
+                   owner and any person authorized to act              toute personne autorisée à agir en son
+                   on the owner’s behalf;                              nom;
+                   (b) the civic addresses of the facilities           b) l’adresse municipale des installations
+                   where the equipment and liquids are lo-             où se trouvent les pièces d’équipement
+                   cated or, if there is no civic address,             et les liquides ou, à défaut, l’endroit où
+                   their location using the owner’s site               ils se trouvent d’après le système d’iden-
+                   identification system;                              tification de site du propriétaire;
+                   (c) the quantity of liquids containing              c) la quantité, exprimée en litres, de li-
+                   PCBs in the equipment and of liquids,               quides qui contiennent des BPC dans les
+                   expressed in litres, the quantity of solids         pièces d’équipement et de liquides, la
+                   containing PCBs in the equipment, ex-               quantité de solides qui contiennent des
+                   pressed in kilograms, and the concentra-            BPC dans les pièces d’équipement, ex-
+                   tion of PCBs in the liquids and solids,             primée en kilogrammes, et la concentra-
+                   expressed in mg/kg,                                 tion de BPC dans les liquides ou les so-
+                      (i) that are in use on December 31,              lides, exprimée en mg/kg :
+
+                      (ii) that are stored on December 31 at             (i) en usage le 31 décembre,
+                      the person’s PCB storage site,                     (ii) stockés à son dépôt le 31 dé-
+                                                                         cembre,
+
+
+
+
+                                                                  28
+                                                  DORS/2008-273 — 6 octobre 2010
+
+
+
+                         (iii) that are sent, in that calendar              (iii) expédiés, au cours de l’année ci-
+                         year, to an authorized facility that is a          vile, à une installation agréée qui est
+                         transfer site,                                     un centre de transfert,
+                         (iv) that are sent, in that calendar               (iv) expédiés, au cours de l’année ci-
+                         year, to an authorized facility that is            vile, à une installation agréée qui est
+                         authorized to destroy them, or                     autorisée à les détruire,
+                         (v) that are destroyed in that calendar            (v) détruits au cours de l’année civile;
+                         year; and                                        d) une attestation, datée et signée par lui
+                      (d) a certification that the information is         ou par toute personne autorisée à agir en
+                      accurate and complete and that is dated             son nom, portant que les renseignements
+                      and signed by the owner or by a person              sont complets et exacts.
+                      authorized to act on the owner’s behalf.
+Equipment and          (2) The owner of the equipment referred           (2) Le propriétaire des pièces d’équipe-       Pièces
+liquids for which                                                                                                       d’équipement et
+extension           to in paragraph 16(1)(a) and subparagraph         ment visées à l’alinéa 16(1)a) ou au sous-        liquides pour
+granted                                                                                                                 lesquels une
+                    16(1)(b)(i) or the liquids referred to in sub-    alinéa 16(1)b)(i) ou des liquides visés au        prolongation a
+                    section 15(2) for which an extension is           paragraphe 15(2) pour lesquels une prolon-        été accordée
+
+                    granted by the Minister in accordance with        gation a été accordée par le ministre en
+                    section 17 shall prepare a report that is cur-    vertu de l’article 17 est tenu de préparer un
+                    rent to December 31 of each calendar year         rapport, au 31 décembre de chaque année
+                    in which the person owns the equipment or         civile durant laquelle il en est propriétaire,
+                    the liquids and that contains the following       comportant les renseignements suivants
+                    information for each piece of equipment or        pour chaque pièce d’équipement et conte-
+                    container of liquid:                              nant de liquides :
+                      (a) the information required under para-            a) les renseignements prévus aux ali-
+                      graphs (1)(a) and (d);                              néas (1)a) et d);
+                      (b) the unique identification number                b) le numéro d’identification unique fi-
+                      that is on the label referred to in para-           gurant sur l’étiquette conformément à
+                      graph 29(4)(c);                                     l’alinéa 29(4)c);
+                      (c) the civic address, function and tech-           c) l’adresse municipale, la fonction et
+                      nical description of the facility where the         les caractéristiques techniques de l’ins-
+                      equipment or container of liquid is locat-          tallation où se trouvent la pièce d’équi-
+                      ed or, if there is no civic address, its lo-        pement ou le contenant des liquides ou,
+                      cation using the owner’s site identifica-           à défaut, l’endroit où ils se trouvent
+                      tion system;                                        d’après le système d’identification de
+                      (d) the progress on the plan’s imple-               site du propriétaire;
+                      mentation and the timelines for ending              d) le progrès accompli dans la mise en
+                      the use of the equipment;                           œuvre du plan et de l’échéancier dressé
+                      (e) the measures taken to minimize or               en vue de la cessation de l’utilisation de
+                      eliminate any harmful effect of the PCBs            la pièce d’équipement;
+
+
+
+
+                                                                     29
+                                                SOR/2008-273 — October 6, 2010
+
+
+
+                   in the equipment on the environment and              e) les mesures prises pour éliminer ou
+                   on human health; and                                 atténuer tout effet nocif des BPC conte-
+                   (f) the findings of the inspections of the           nus dans la pièce d’équipement sur l’en-
+                   equipment.                                           vironnement et la santé humaine;
+                                                                        f) les résultats des inspections de la
+                                                                        pièce d’équipement.
+End of use of      (3) The owner of the equipment referred             (3) Le propriétaire des pièces d’équipe-      Date de fin
+equipment —                                                                                                          d’utilisation des
+2025            to in subparagraph 16(1)(b)(ii) and subsec-         ment visées au sous-alinéa 16(1)b)(ii) ou        pièces
+                                                                                                                     d’équipement —
+                tion 16(2) shall prepare a report that is cur-      au paragraphe 16(2) est tenu de préparer un      2025
+                rent to December 31 of each calendar year           rapport, au 31 décembre de chaque année
+                in which the person owns the equipment              civile durant laquelle il en est propriétaire,
+                and that contains the following informa-            comportant les renseignements suivants :
+                tion:                                                   a) les renseignements prévus aux ali-
+                   (a) the information required under para-             néas (1)a), b) et d);
+                   graphs (1)(a), (b) and (d); and                      b) la quantité de liquides qui
+                   (b) the quantity of liquids containing               contiennent des BPC dans les pièces
+                   PCBs in the equipment, expressed in                  d’équipement, exprimée en litres, la
+                   litres, the quantity of solids containing            quantité de solides qui contiennent des
+                   PCBs in the equipment, expressed in                  BPC dans les pièces d’équipement, ex-
+                   kilograms, and the concentration of                  primée en kilogrammes, et la concentra-
+                   PCBs in the liquids and the solids, ex-              tion de BPC dans les liquides ou les so-
+                   pressed in mg/kg,                                    lides, exprimée en mg/kg  :
+                      (i) that are stored on December 31 at               (i) stockés à son dépôt de BPC le 31
+                      the person’s PCB storage site,                      décembre,
+                      (ii) that are sent, in that calendar year,          (ii) expédiés, au cours de l’année ci-
+                      to an authorized facility that is a trans-          vile, à une installation agréée qui est
+                      fer site,                                           un centre de transfert,
+                      (iii) that are sent, in that calendar               (iii) expédiés, au cours de l’année ci-
+                      year, to an authorized facility that is             vile, à une installation agréée qui est
+                      authorized to destroy them, or                      autorisée à les détruire,
+                      (iv) that are destroyed in that calen-              (iv) détruits au cours de l’année ci-
+                      dar year.                                           vile.
+                SOR/2010-57, s. 14.                                 DORS/2010-57, art. 14.
+
+Research           34. The person who offers for sale,                 34. La personne qui met en vente, vend,       Recherches
+
+                sells, processes or uses PCBs or products           transforme ou utilise des BPC ou des pro-
+                containing PCBs for the purpose of re-              duits qui en contiennent en vue d’effectuer
+                search in accordance with section 8 shall           des recherches conformément à l’article 8
+                prepare a report that is current to Decem-          est tenue de préparer un rapport, au 31 dé-
+                ber 31 in each calendar year in which the           cembre de chaque année civile durant la-
+                person offers for sale, sells, processes or         quelle elle les a mis en vente, vendus, utili-
+
+
+
+                                                                   30
+                                         DORS/2008-273 — 6 octobre 2010
+
+
+
+            uses those PCBs or products and that con-        sés ou transformés, comportant             les
+            tains the following information:                 renseignements suivants :
+              (a) the name, civic and mailing address-           a) ses nom, adresses municipale et pos-
+              es, telephone number, fax number, if               tale, numéro de téléphone et, le cas
+              any, and e-mail address, if any, of the            échéant, numéro de télécopieur et
+              person and of any person authorized to             adresse électronique, ainsi que ceux de
+              act on that person’s behalf;                       toute personne autorisée à agir en son
+              (b) an indication of whether the person            nom;
+              offers for sale, sells, processes or uses          b) une mention indiquant si elle les a
+              the PCBs or products;                              mis en vente, vendus, transformés ou
+              (c) the quantity of the PCBs or of the             utilisés;
+              products containing PCBs that are of-              c) la quantité de BPC ou de produits qui
+              fered for sale, sold, processed or used in         ont été mis en vente, vendus, transfor-
+              that calendar year; and                            més ou utilisés durant l’année civile;
+              (d) a certification that the information is        d) une attestation, datée et signée par
+              accurate and complete and that is dated            elle ou par toute personne autorisée à
+              and signed by the person or by a person            agir en son nom, portant que les rensei-
+              authorized to act on their behalf.                 gnements sont complets et exacts.
+Colouring      35. The person who manufactures, ex-             35. La personne qui fabrique, exporte         Pigments pour la
+pigment                                                                                                       coloration
+            ports or imports colouring pigment in ac-        ou importe, conformément à l’article 11,
+            cordance with section 11 shall prepare a re-     des pigments pour la coloration est tenue
+            port that is current to December 31 in each      de préparer un rapport, au 31 décembre de
+            calendar year in which the person manu-          chaque année civile durant laquelle elle les
+            factures, imports or exports the colouring       fabrique, exporte ou importe, comportant
+            pigment and that contains the following in-      les renseignements suivants :
+            formation:                                           a) ses nom, adresses municipale et pos-
+              (a) the name, civic and mailing address-           tale, numéro de téléphone et, le cas
+              es, telephone number, fax number, if               échéant, numéro de télécopieur et
+              any, and e-mail address, if any, of the            adresse électronique, ainsi que ceux de
+              person and of any person authorized to             toute personne autorisée à agir en son
+              act on that person’s behalf;                       nom;
+              (b) an indication of whether the person            b) une mention indiquant si elle les a fa-
+              manufactures, exports or imports colour-           briqués, exportés ou importés;
+              ing pigment;                                       c) la quantité, exprimée en kilo-
+              (c) the quantity of colouring pigment,             grammes, de pigments qui ont été fabri-
+              expressed in kilograms, the maximum                qués, exportés ou importés durant l’an-
+              concentration of PCBs in the colouring             née civile ainsi que la concentration
+              pigment, expressed in mg/kg, and the               moyenne annuelle et la concentration
+              average annual concentration of PCBs in            maximale en BPC de ces pigments, ex-
+              the colouring pigment, expressed in mg/            primée en mg/kg;
+
+
+
+
+                                                            31
+                                               SOR/2008-273 — October 6, 2010
+
+
+
+                    kg, that is manufactured, imported or ex-          d) les nom, adresses municipale et pos-
+                    ported in that calendar year;                      tal et numéro de téléphone de la per-
+                    (d) in the case of importing, the name,            sonne de qui proviennent les pigments,
+                    telephone number and civic and mailing             dans le cas où ils sont importés, ou à qui
+                    addresses of the person from whom the              ils sont expédiés, dans le cas où ils sont
+                    colouring pigment is imported and, in              exportés;
+                    the case of exporting, the name, tele-             e) une attestation, datée et signée par
+                    phone number and civic and mailing ad-             elle ou par toute personne autorisée à
+                    dresses of the person to whom the                  agir en son nom, portant que les rensei-
+                    colouring pigment is exported; and                 gnements sont complets et exacts.
+                    (e) a certification that the information is
+                    accurate and complete and that is dated
+                    and signed by the person or by a person
+                    authorized to act on their behalf.
+Solid products       36. The person who manufactures solid           36. La personne qui fabrique, conformé-        Produits solides
+containing PCBs                                                                                                     qui contiennent
+                  products containing PCBs in accordance           ment à l’article 13, des produits solides qui    des BPC
+                  with section 13 shall prepare a report that      contiennent des BPC est tenue de préparer
+                  is current to December 31 in each calendar       un rapport, au 31 décembre de chaque an-
+                  year in which the person manufactures the        née civile durant laquelle elle les fabrique,
+                  products and that contains the following in-     comportant les renseignements suivants :
+                  formation:                                           a) ses nom, adresses municipale et pos-
+                    (a) the name, civic and mailing address-           tale, numéro de téléphone et, le cas
+                    es, telephone number, fax number, if               échéant, numéro de télécopieur et
+                    any, and e-mail address, if any, of the            adresse électronique, ainsi que ceux de
+                    person and of any person authorized to             toute personne autorisée à agir en son
+                    act on that person’s behalf;                       nom;
+                    (b) the quantity of solid products manu-           b) la quantité, exprimée en kilo-
+                    factured in that calendar year, expressed          grammes, de produits qui ont été fabri-
+                    in kilograms, and the maximum concen-              qués durant l’année civile ainsi que la
+                    tration and average concentration of               concentration moyenne et la concentra-
+                    PCBs in the solid products, expressed in           tion maximale en BPC de ces produits,
+                    mg/kg, for that calendar year;                     exprimée en mg/kg, pour cette année ci-
+                    (c) the name, telephone number and                 vile;
+                    civic and mailing addresses of the per-            c) les nom, adresse municipale et pos-
+                    son to whom the manufacturer sells the             tale et numéro de téléphone de la per-
+                    products; and                                      sonne à qui elle a vendu les produits;
+                    (d) a certification that the information is        d) une attestation, datée et signée par
+                    accurate and complete and that is dated            elle ou par toute personne autorisée à
+                    and signed by the person or by a person            agir en son nom, portant que les rensei-
+                    authorized to act on their behalf.                 gnements sont complets et exacts.
+
+
+
+
+                                                                  32
+                                                 DORS/2008-273 — 6 octobre 2010
+
+
+
+Stored PCBs or        37. The person who owns and stores                 37. Le propriétaire de BPC ou de pro-         BPC ou produits
+products — PCB                                                                                                         stockés —
+concentration of   PCBs or products containing PCBs in a              duits qui en contiennent en une concentra-       concentration de
+50 mg/kg or                                                                                                            BPC de 50 mg/
+more               concentration of 50 mg/kg or more, other           tion égale ou supérieure à 50 mg/kg, autres      kg ou plus
+                   than the equipment and liquids referred to         que les pièces d’équipement ou les liquides
+                   in section 33, and the owner of a facility         visés à l’article 33, et le propriétaire d’une
+                   who stores PCBs or products containing             installation, autre que celui visé à l’ar-
+                   PCBs in a concentration of 50 mg/kg or             ticle 38, qui stockent à leur dépôt de BPC
+                   more, other than the person referred to in         des BPC ou des produits qui en
+                   section 38, shall each prepare a report that       contiennent en cette concentration sont
+                   is current to December 31 in each calendar         chacun tenus de préparer un rapport, au
+                   year in which the person stores the PCBs           31 décembre de chaque année civile durant
+                   or products at their PCB storage site and          laquelle ils les stockent ainsi, comportant
+                   that contains the following information:           les renseignements suivants :
+                     (a) the name, civic and mailing address-             a) ses nom, adresses municipale et pos-
+                     es, telephone number, fax number, if                 tale, numéro de téléphone et, le cas
+                     any, and e-mail address, if any, of the              échéant, numéro de télécopieur et
+                     owner and of any person authorized to                adresse électronique, ainsi que ceux de
+                     act on the owner’s behalf;                           toute personne autorisée à agir en son
+                     (b) the civic addresses of the PCB stor-             nom;
+                     age sites where the PCBs or products are             b) l’adresse municipale des dépôts où
+                     located, or if there is no civic address,            sont stockés les BPC et les produits ou, à
+                     their location using the owner’s site                défaut, l’endroit où ils se trouvent
+                     identification system;                               d’après le système d’identification de
+                     (c) the quantity of liquids containing               site du propriétaire;
+                     PCBs in the products, expressed in litres,           c) la quantité de liquides qui
+                     and the quantity of solids containing                contiennent des BPC dans les produits,
+                     PCBs in the products, expressed in kilo-             exprimée en litres, la quantité de solides
+                     grams, and the concentration of PCBs in              qui contiennent des BPC dans les pro-
+                     the liquids and the solids, expressed in             duits, exprimée en kilogrammes, et la
+                     mg/kg                                                concentration de BPC dans les liquides
+                        (i) that are stored on December 31 at             ou les solides, exprimée en mg/kg :
+                        the person’s PCB storage site,                      (i) stockés à son dépôt de BPC le 31
+                        (ii) that are sent, in that calendar year,          décembre,
+                        to an authorized facility that is a trans-          (ii) expédiés, au cours de l’année ci-
+                        fer site,                                           vile, à une installation agréée qui est
+                        (iii) that are sent, in that calendar               un centre de transfert,
+                        year, to an authorized facility that is             (iii) expédiés, au cours de l’année ci-
+                        authorized to destroy them, or                      vile, à une installation agréée qui est
+                        (iv) that are destroyed in that calen-              autorisée à les détruire,
+                        dar year; and                                       (iv) détruits au cours de l’année ci-
+                                                                            vile,
+
+
+
+                                                                     33
+                                                   SOR/2008-273 — October 6, 2010
+
+
+
+                      (d) a certification that the information is          d) une attestation, datée et signée par lui
+                      accurate and complete and that is dated              ou par toute personne autorisée à agir en
+                      and signed by the owner of the PCBs or               son nom, portant que les renseignements
+                      products containing PCBs or by a person              sont complets et exacts.
+                      authorized to act on the owner’s behalf.         DORS/2010-57, art. 15.
+                   SOR/2010-57, s. 15.
+
+Stored PCBs or        38. The owner of an authorized facility             38. Le propriétaire d’une installation          BPC ou produits
+products —                                                                                                                stockés —
+transfer site or   that is a transfer site or that is authorized to    agréée qui est un centre de transfert ou qui       Centre de
+destruction                                                                                                               transfert ou de
+facility           destroy PCBs or products containing PCBs            est autorisée à détruire des BPC et des pro-       destruction
+                   and who stores them at their PCB storage            duits qui en contiennent, autre que le pro-
+                   site, other than the owner referred to in           priétaire visé à l’article 37, et qui les stocke
+                   section 37, shall prepare a report that is          à son dépôt de BPC est tenu de préparer un
+                   current to December 31 in each calendar             rapport, au 31 décembre de chaque année
+                   year and that contains the following infor-         civile durant laquelle il les transforme ou
+                   mation:                                             les détruit, comportant les renseignements
+                      (a) the name, civic and mailing address-         suivants :
+                      es, telephone number, fax number, if                 a) ses nom, adresses municipale et pos-
+                      any, and e-mail address, if any, of the              tale, numéro de téléphone et, le cas
+                      owner and of any person authorized to                échéant, numéro de télécopieur et
+                      act on the owner’s behalf;                           adresse électronique, ainsi que ceux de
+                      (b) the civic addresses of the sites where           toute personne autorisée à agir en son
+                      the PCBs or products containing PCBs                 nom;
+                      are stored, or if there is no civic address,         b) l’adresse municipale des dépôts où
+                      the location of the sites using the own-             sont stockés les BPC et les produits ou, à
+                      er’s site identification system;                     défaut, l’endroit où ils se trouvent
+                      (c) the quantity of liquids containing               d’après le système d’identification de
+                      PCBs in the products, expressed in litres,           site du propriétaire;
+                      or the quantity of solids containing                 c) la quantité de liquides qui
+                      PCBs in the products, expressed in kilo-             contiennent des BPC dans les produits,
+                      grams, and the concentration of the                  exprimée en litres, la quantité de solides
+                      PCBs in the liquids and the solids, ex-              qui contiennent des BPC dans les pro-
+                      pressed in mg/kg                                     duits, exprimée en kilogrammes, et la
+                         (i) that are stored on December 31 at             concentration de BPC dans les liquides
+                         the owner’s PCB storage site,                     ou les solides, exprimée en mg/kg :
+
+                         (ii) that are sent, in that calendar year,          (i) stockés à son dépôt de BPC le 31
+                         to an authorized facility that is a trans-          décembre,
+                         fer site,                                           (ii) expédiés, au cours de l’année ci-
+                         (iii) that are sent, in that calendar               vile, à une installation agréée qui est
+                         year, to an authorized facility that is             un centre de transfert,
+                         authorized to destroy them, or
+
+
+
+
+                                                                      34
+                                                DORS/2008-273 — 6 octobre 2010
+
+
+
+                       (iv) that are destroyed in that calen-             (iii) expédiés, au cours de l’année ci-
+                       dar year; and                                      vile, à une installation agréée qui est
+                     (d) a certification that the information is          autorisée à les détruire,
+                     accurate and complete and that is dated              (iv) détruits au cours de l’année ci-
+                     and signed by the owner of the autho-                vile,
+                     rized facility or by a person authorized           d) une attestation, datée et signée par lui
+                     to act on the owner’s behalf.                      ou par toute personne autorisée à agir en
+                                                                        son nom, portant que les renseignements
+                                                                        sont complets et exacts.
+Date of               39. (1) The person who is required to            39. (1) La personne qui est tenue de           Date de
+submission of                                                                                                         présentation des
+report             prepare a report in accordance with subsec-      préparer tout rapport visé aux paragraphes        rapports
+                   tion 33(1) or (2) and with any of sections       33(1) ou (2) ou à l’un des articles 34 à 38
+                   34 to 38 shall submit it to the Minister on      le présente au ministre au plus tard le 31
+                   or before March 31 of the year following         mars de l’année civile qui suit celle pour
+                   the calendar year for which the report is        laquelle il est établi.
+                   made.
+Report made          (2) The person who is required to pre-           (2) Celle qui est tenue de préparer le          Rapport visé au
+under subsection                                                                                                      paragraphe 33(3)
+33(3)              pare a report in accordance with subsection      rapport visé au paragraphe 33(3) le pré-
+                   33(3) shall submit it to the Minister            sente au ministre :
+                     (a) on or before March 31, 2010 for re-            a) au plus tard le 31 mars 2010, s’il
+                     ports that are current to December 31 of           porte sur toute année civile suivant l’en-
+                     the year that these Regulations come in-           trée en vigueur du présent règlement jus-
+                     to force up to the year 2009;                      qu’à l’année 2009;
+                     (b) on or before March 31, 2014 for re-            b) au plus tard le 31 mars 2014, s’il
+                     ports that are current to December 31 of           porte sur l’une ou l’autre des années
+                     each of the years 2010 to 2013;                    2010 à 2013;
+                     (c) on or before March 31, 2018 for re-            c) au plus tard le 31 mars 2018, s’il
+                     ports that are current to December 31 of           porte sur l’une ou l’autre des années
+                     each of the years 2014 to 2017;                    2014 à 2017;
+                     (d) on or before March 31, 2022 for re-            d) au plus tard le 31 mars 2022, s’il
+                     ports that are current to December 31 of           porte sur l’une ou l’autre des années
+                     each of the years 2018 to 2021;                    2018 à 2021;
+                     (e) on or before March 31, 2026 for re-            e) au plus tard le 31 mars 2026, s’il
+                     ports that are current to December 31 of           porte sur l’une ou l’autre des années
+                     each of the years 2022 to 2025;                    2022 à 2025;
+                     (f) on or before March 31, 2027 for re-            f) au plus tard le 31 mars 2027, s’il
+                     ports that are current to December 31 of           porte sur l’année 2026;
+                     the year 2026; and
+
+
+
+
+                                                                   35
+                                                 SOR/2008-273 — October 6, 2010
+
+
+
+                      (g) on or before March 31, 2030 for re-            g) au plus tard le 31 mars 2030, s’il
+                      ports that are current to December 31 of           porte sur l’une ou l’autre des années
+                      each of the years 2027 to 2029.                    2027 à 2029.
+                   SOR/2010-57, s. 16(F).                            DORS/2010-57, art. 16(F).
+
+Release into the      40. (1) For the purposes of paragraph             40. (1) Pour l’application de l’alinéa       Rejets dans
+environment                                                                                                          l’environnement
+                   95(1)(a) of the Act, where there occurs or        95(1)a) de la Loi, en cas de rejet dans l’en-
+                   is a likelihood of a release into the environ-    vironnement — effectif ou probable — de
+                   ment of PCBs in contravention of section          BPC en violation de l’article 5, la personne
+                   5, the person who is designated to be pro-        désignée pour recevoir le rapport écrit est
+                   vided with a written report is the Regional       le directeur régional, Division de l’applica-
+                   Director, Environmental Enforcement Di-           tion de la loi en environnement, Direction
+                   vision, Enforcement Branch of the Depart-         générale de l’application de la loi du minis-
+                   ment of the Environment in the region             tère de l’Environnement, dans la région où
+                   where the release occurs or is likely to oc-      a lieu le rejet — effectif ou probable.
+                   cur.
+Contents             (2) The report shall include the follow-         (2) Le rapport comporte les renseigne-         Contenu
+
+                   ing information:                                  ments suivants :
+                      (a) the name, civic and mailing address-           a) les nom, adresses municipale et pos-
+                      es and telephone number of the person              tale et numéro de téléphone de la per-
+                      who owns or has the charge, manage-                sonne qui a toute autorité sur les BPC
+                      ment or control of the PCBs that are re-           qui ont été rejetés dans l’environnement
+                      leased into the environment;                       ou qui en est propriétaire;
+                      (b) the date, time and location of the re-         b) les date, heure et lieu du rejet;
+                      lease;                                             c) une description de la source du rejet;
+                      (c) a description of the source of the re-
+                                                                         d) la quantité de liquides qui
+                      lease; and
+                                                                         contiennent des BPC rejetés, exprimée
+                      (d) the quantity of liquids containing             en litres, la quantité de solides qui
+                      PCBs released, expressed in litres, the            contiennent des BPC rejetés, exprimée
+                      quantity of solids containing PCBs re-             kilogrammes, et la concentration de BPC
+                      leased, expressed in kilograms, and the            dans les liquides ou les solides rejetés,
+                      concentration of PCBs in the liquids and           exprimée en mg/kg.
+                      the solids that are released, expressed in     DORS/2010-57, art. 17.
+                      mg/kg.
+                   SOR/2010-57, s. 17.
+
+Retention             41. Any person who is required to sub-            41. Toute personne qui est tenue de pré-     Conservation
+
+                   mit a report under these Regulations shall        senter un rapport en application du présent
+                   keep a copy of the report at their principal      règlement en conserve une copie à son éta-
+                   place of business in Canada for at least five     blissement principal au Canada pendant au
+                   years after the day on which the report is        moins cinq ans après la date de sa présenta-
+                   submitted.                                        tion.
+
+
+
+
+                                                                    36
+                                            DORS/2008-273 — 6 octobre 2010
+
+
+
+Method of        42. Each report referred to in sections         42. Les rapports visés aux articles 33 à     Méthode de
+submission                                                                                                    présentation
+              33 to 38 shall be submitted electronically      38 sont présentés sous forme électronique
+              in the format provided by the Department        selon le modèle établi par le ministère de
+              of the Environment, but the report shall be     l’Environnement. Ils sont toutefois présen-
+              submitted in writing if                         tés par écrit dans les cas suivants :
+                (a) no such format is provided; or                a) aucun modèle n’a été établi par le
+                (b) it is, owing to circumstances beyond          ministère;
+                the control of the person required to sub-        b) il est pratiquement impossible, pour
+                mit the report, impracticable to submit           des raisons indépendantes de la volonté
+                the report electronically in the format           de la personne tenue de les présenter, de
+                provided.                                         le faire sous forme électronique selon le
+                                                                  modèle établi.
+
+                                RECORDS                                  DOCUMENTS ET REGISTRES
+Records for      43. The following persons shall main-           43. Les personnes ci-après conservent        Documents
+permitted                                                                                                     concernant les
+activities    tain records that demonstrate that they         les documents établissant que des BPC ou        activités
+                                                                                                              permises
+              manufacture, process, use, sell, offer for      des produits qui en contiennent ont été fa-
+              sale, store, import or export PCBs or prod-     briqués, transformés, utilisés, mis en vente,
+              ucts containing PCBs in accordance with         vendus, stockés, importés ou exportés
+              the Act and these Regulations:                  conformément à la Loi et au présent règle-
+                (a) the owner of PCBs or products con-        ment :
+                taining PCBs;                                     a) le propriétaire des BPC ou des pro-
+                (b) the person who is engaged in any of           duits;
+                these activities; and                             b) la personne qui exerce l’activité;
+                (c) the owner or operator of a PCB stor-          c) le propriétaire ou l’exploitant du dé-
+                age site.                                         pôt de BPC.
+Inspection       44. (1) The owner or operator of a PCB         44. (1) Le propriétaire ou l’exploitant       Registres
+record                                                                                                        d’inspections
+              storage site shall maintain a record of all     d’un dépôt de BPC tient un registre de
+              inspections conducted at the PCB storage        toutes les inspections effectuées au dépôt
+              site under paragraph 27(a)                      de BPC en application de l’alinéa 27a), le-
+                (a) listing all items that are inspected;     quel fait état :
+
+                (b) describing any deficiency found;              a) de tous les points inspectés;
+
+                (c) setting out the measures taken to             b) de toutes les lacunes relevées;
+                remedy the deficiency; and                        c) des mesures prises pour y remédier;
+                (d) specifying the dates of the inspec-           d) de la date de l’inspection et du nom
+                tions and the names of the inspectors.            de l’inspecteur.
+Owner of         (2) The owner of equipment for which           (2) Le propriétaire d’une pièce d’équi-       Propriétaire
+equipment —                                                                                                   d’une pièce
+extension     an extension of the end-of-use date is ap-      pement dont l’utilisation fait l’objet d’une    d’équipement —
+                                                                                                              prolongation
+              plied under section 17 shall maintain a         prolongation en vertu de l’article 17 tient
+
+
+
+                                                             37
+                                                  SOR/2008-273 — October 6, 2010
+
+
+
+               record of all inspections conducted on the        un registre de toutes les inspections de la
+               equipment that contains the information set       pièce d’équipement qui ont été effectuées,
+               out in paragraphs (1)(a) to (d).                  lequel fait état des renseignements prévus
+               SOR/2010-57, s. 18(F).                            aux alinéas (1)a) à d).
+                                                                 DORS/2010-57, art. 18(F).
+
+Retention of      45. The person who is required to main-           45. Toute personne qui est tenue de           Conservation
+records                                                                                                           des dossiers
+               tain a record under sections 43 and 44 shall      conserver des documents ou de tenir un re-
+               retain it at their principal place of business    gistre en application des articles 43 et 44
+               in Canada or at the place where they con-         respectivement les conserve à son établis-
+               duct the activity for at least five years         sement principal au Canada ou à l’établis-
+                  (a) after the destruction of the PCBs or       sement où l’activité est exercée pendant au
+                  the products containing PCBs that are          moins cinq ans après :
+                  the subject of the record, in the case of          a) dans le cas du propriétaire de BPC ou
+                  the owner of PCBs or products contain-             de produits qui en contiennent ou du
+                  ing PCBs or the owner or operator of the           propriétaire ou de l’exploitant d’un dé-
+                  PCB storage site where the PCBs or                 pôt de BPC où sont stockés des BPC ou
+                  products containing PCBs are stored; or            des produits qui en contiennent, la date
+                  (b) after the completion of an activity            de destruction des BPC ou des produits
+                  referred to in section 43, in the case of          qui en contiennent visés par le document
+                  the person who is engaged in that activi-          ou le registre;
+                  ty.                                                b) dans le cas de la personne qui exerce
+                                                                     une activité visée à l’article 43, la date
+                                                                     de la fin de l’activité.
+
+                                        PART 5                                        PARTIE 5
+
+               REPEALS AND COMING INTO FORCE                          ABROGATIONS ET ENTRÉE EN
+                                                                             VIGUEUR
+
+                                        REPEALS                                     ABROGATION
+                  46. [Repeal]                                       46. [Abrogation]
+                  47. [Repeal]                                       47. [Abrogation]
+
+                             COMING INTO FORCE                                  ENTRÉE EN VIGUEUR
+Coming into      48. These Regulations come into force             48. Le présent règlement entre en vi-          Entrée en
+force                                                                                                             vigueur
+               on the day on which they are registered.          gueur à la date de son enregistrement.
+
+
+
+
+                                                                38
+

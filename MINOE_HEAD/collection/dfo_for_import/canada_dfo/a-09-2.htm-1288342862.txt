@@ -1,0 +1,854 @@
+
+
+
+
+
+_[_F_r_a_n_ç_a_i_s_]
+_R_e_t_u_r_n_ _t_o_ _L_i_s_t_ _o_f_ _A_c_t_s
+===============================================================================
+CHAPTER A-9.2
+Aquaculture Act
+Assented to December 8, 1988
+Chapter Outline
+Definitions
+1(1)
+aquacultural produce - produit aquacole
+aquaculture - aquaculture
+aquaculture lease - bail aquacole
+aquaculture licence - permis dâ€™aquaculture
+aquaculture occupation permit - autorisation dâ€™occupation aquacole
+aquaculture site - site aquacole
+aquatic plants and animals - plantes et animaux aquatiques
+designated aquaculture land - terre aquacole dÃ©signÃ©e
+fallow period - mise en jachÃ¨re
+inspector - inspecteur
+land - terre
+lessee - preneur Ã  bail
+licensee - titulaire de permis
+Minister - Ministre
+permittee - titulaire dâ€™autorisation
+person - personne
+prescribed - prescrit
+Registrar - registraire
+water - eau
+Strain of aquatic plants or animals
+1(2)
+Interference with navigation
+2
+Application of Act and regulations
+3
+Aquaculture bay management area
+3.1
+Prohibition against carrying on aquaculture without aquaculture licence
+4
+Application for aquaculture licence
+5
+Issuance of aquaculture licence
+6
+Application for renewal of aquaculture licence
+7
+Renewal of aquaculture licence
+8
+Application for amendment of aquaculture licence
+9
+Amendment of aquaculture licence
+10
+Additional terms and conditions the Registrar may impose
+11
+Additional terms and conditions the Minister may impose
+11.1
+Terms and conditions to which aquaculture licence is subject
+12
+Assignment or transfer of aquaculture licence
+13
+Restriction on issue of aquaculture licence
+14(1)
+Restriction of aquaculture licence to an aquaculture site
+14(2), (3)
+Display of aquaculture licence number
+14(4)
+Duration of aquaculture licence
+15
+Restriction of aquaculture licence to specified species and strains
+16(1)-(4)
+Ownership of aquacultural produce
+16(5)
+Books, records, accounts and documents
+17
+Health, genetic and grade standards
+18
+Reporting of disease, disease agents, parasites, toxins and contaminants
+19
+Direction to prevent the spread of disease, disease agents, parasites, toxins
+and contaminants
+19.1
+Designation of a controlled aquaculture area
+19.2, 19.3
+Harvesting of aquacultural produce
+20
+Suspension or revocation of aquaculture licence
+21
+Inspection
+22
+Sale, destruction, disposal, transfer, transport, introduction and possession
+of aquatic plants and animals
+23
+Designation of land as aquaculture land
+24
+Lease of designated aquaculture land
+25
+Aquaculture occupation permit
+26
+Alteration of boundaries of land under aquaculture lease or aquaculture
+occupation permit
+26.1
+Cancellation of aquaculture lease or aquaculture occupation permit
+27
+Appeals
+28
+Confidentiality
+29
+Offences and penalties
+30
+Repealed
+31
+Continuing offence
+32
+Repealed
+33
+Minister responsible for administration
+34
+Public consultation
+35
+Agreements
+36
+Advisory committees
+37
+Appointment of Registrar
+38
+Maintenance of records by Registrar
+39
+Appointment of inspectors
+40
+Protection from suit
+41
+Regulations
+42
+Consequential amendment
+43
+Commencement
+44
+SCHEDULE A
+Her Majesty, by and with the advice and consent of the Legislative Assembly of
+New Brunswick, enacts as follows:
+
+1(1)In this Act
+``aquacultural produce'' means aquatic plants and animals raised or being
+raised by aquaculture;
+``aquaculture'' means the cultivation of aquatic plants and animals, but does
+not include the cultivation of aquatic plants and animals in a laboratory for
+experimental purposes or in an aquarium;
+``aquaculture lease'' means a lease issued under sectionÂ 25;
+``aquaculture licence'' means an aquaculture licence issued under sectionÂ 6,
+and includes a renewal or an amendment of such a licence;
+``aquaculture occupation permit'' means an aquaculture occupation permit issued
+under sectionÂ 26;
+``aquaculture site'' means a site, specified in an aquaculture licence, at
+which aquaculture is to be carried on, is carried on or was carried on;
+``aquatic plants and animals'' means plants and animals that have water as
+their natural habitats at all stages of their life cycles;
+``designated aquaculture land'' means land under the administration and control
+of the Minister that has been designated by the Minister under sectionÂ 24 as
+aquaculture land;
+``fallow period'' means a period of time during which aquacultural produce
+shall not be present and aquaculture shall not be carried on at an aquaculture
+site;
+``inspector'' means a person appointed as an inspector under sectionÂ 40;
+``land'' includes land covered by water and the water column superjacent to
+land;
+``lessee'' means the holder of an aquaculture lease;
+``licensee'' means the holder of an aquaculture licence;
+``Minister'' means the Minister of Agriculture and Aquaculture and includes
+persons designated by the Minister to act on the Ministerâ€™s behalf;
+``permittee'' means the holder of an aquaculture occupation permit;
+``person'' includes a co-operative association incorporated under or to which
+the Co-operative Associations Act applies;
+``prescribed'' means prescribed by the regulations;
+``Registrar'' means the person appointed as Registrar under sectionÂ 38;
+``water'' includes fresh, brackish and marine water, both tidal and non-tidal.
+1(2)For the purposes of this Act a reference to a strain of aquatic plants or
+animals is a reference to aquatic plants or animals that possess or have been
+bred to possess special genetically determined characteristics that distinguish
+them from other members of the same species.
+2000, c.26, s.22; 2005, c.24, s.1; 2007, c.10, s.15.
+
+2Nothing in this Act or the regulations authorizes any interference with the
+navigation of navigable waters.
+
+3(1)Subject to subsectionÂ (2), this Act and the regulations apply to all
+aquaculture whether begun before or after the commencement of this Act.
+3(2)This Act and the regulations do not apply to, and a provision of this Act
+or the regulations does not apply to,
+(a)a person or class of persons,
+(b)land or a class of lands,
+(c)an aquaculture site or class of aquaculture sites,
+(d)an activity or class of activities, or
+(e)aquatic plants or animals or strains of aquatic plants or animals
+exempted by the regulations from the application of this Act and the
+regulations, or from the application of the provision of this Act or the
+regulations.
+
+3.1(1)The Minister may designate an area in a body of water as an aquaculture
+bay management area.
+3.1(2)The Minister may designate the following for an aquaculture bay
+management area:
+(a)the year class of the aquacultural produce that may be cultivated in the
+area; and
+(b)the length of a fallow period for the area.
+3.1(3)Subject to subsectionÂ (6), if the Minister makes a designation under
+subsectionÂ (2), upon issuing, renewing or amending an aquaculture licence
+respecting an aquaculture site located in an aquaculture bay management area,
+the Registrar shall, in addition to any terms and conditions established by or
+in accordance with the regulations, impose terms and conditions on the
+aquaculture licence requiring the licensee to comply with a designation under
+subsectionÂ (2).
+3.1(4)Subject to subsectionÂ (6), if the Minister makes a designation under
+subsectionÂ (2), the Registrar shall amend the aquaculture licence respecting
+an aquaculture site located in an aquaculture bay management area.
+3.1(5)In an amendment under subsectionÂ (4), the Registrar shall, in addition
+to any terms or conditions established by or in accordance with the
+regulations, impose terms and conditions on an aquaculture licence requiring
+the licensee to comply with a designation under subsectionÂ (2).
+3.1(6)The Minister may exempt a licensee from complying with a designation made
+under paragraphÂ (2)(a).
+3.1(7)The Minister may amend, cancel or reinstate at any time a designation
+made under this section.
+3.1(8)The Regulations Act does not apply to a designation made under this
+section.
+2005, c.24, s.2.
+
+4A person who does not hold an aquaculture licence shall not carry on
+aquaculture.
+
+5(1)A person who wishes to carry on aquaculture may apply to the Registrar for
+an aquaculture licence.
+5(2)A person who is applying for an aquaculture licence shall pay the
+prescribed application fee to the Registrar at the time the application is
+made.
+5(3)A person who is applying for an aquaculture licence shall provide to the
+Registrar the information required by or in accordance with the regulations.
+5(4)A person who is applying for an aquaculture licence shall comply with the
+terms and conditions established by or in accordance with the regulations.
+5(5) Repealed: 1991, c.47, s.1.
+1991, c.47, s.1.
+
+6(1)The Registrar, on being satisfied that the applicant has fulfilled all of
+the requirements of this Act and the regulations in relation to an application
+for an aquaculture licence, may issue to the applicant an aquaculture licence.
+6(2)The Registrar may, in accordance with the regulations, refuse to issue an
+aquaculture licence.
+
+7(1)A licensee may apply to the Registrar for a renewal of the licenseeâ€™s
+aquaculture licence.
+7(2)A licensee who is applying for a renewal of the licenseeâ€™s aquaculture
+licence shall pay the prescribed application fee to the Registrar at the time
+the application is made.
+7(3)A licensee who is applying for a renewal of the licenseeâ€™s aquaculture
+licence shall provide to the Registrar the information required by or in
+accordance with the regulations.
+7(4)A licensee who is applying for a renewal of the licenseeâ€™s aquaculture
+licence shall comply with the terms and conditions established by or in
+accordance with the regulations.
+
+8(1)The Registrar, on being satisfied that the licensee has fulfilled all of
+the requirements of this Act and the regulations in relation to an application
+for a renewal of the licenseeâ€™s aquaculture licence, may renew the
+aquaculture licence.
+8(2)The Registrar may, in accordance with the regulations, refuse to renew an
+aquaculture licence.
+
+9(1)A licensee may apply to the Registrar to have the licenseeâ€™s aquaculture
+licence amended.
+9(2)A licensee who is applying to have the licenseeâ€™s aquaculture licence
+amended shall pay the prescribed application fee to the Registrar at the time
+the application is made.
+9(3)A licensee who is applying to have the licenseeâ€™s aquaculture licence
+amended shall provide to the Registrar the information required by or in
+accordance with the regulations.
+9(4)A licensee who is applying to have the licenseeâ€™s aquaculture licence
+amended shall comply with the terms and conditions established by or in
+accordance with the regulations.
+9(5) Repealed: 1991, c.47, s.2.
+1991, c.47, s.2.
+
+10(1)The Registrar, on being satisfied that the licensee has fulfilled all of
+the requirements of this Act and the regulations in relation to an application
+to have an aquaculture licence amended, may amend the aquaculture licence.
+10(2)The Registrar may, in accordance with the regulations, refuse to amend an
+aquaculture licence.
+
+11(1)Upon issuing, renewing or amending an aquaculture licence, the Registrar
+may, in addition to any terms and conditions established by or in accordance
+with the regulations, make the licence subject to terms and conditions in
+relation to
+(a)adherence to an aquaculture site development plan approved by the Registrar,
+(b)standards relating to site utilization, stocking densities and production at
+aquaculture sites,
+(b.1)the year class of the aquacultural produce that may be cultivated;
+(b.2)the length of a fallow period for an aquaculture site;
+(c)measures to be taken to minimize the risk of environmental degradation,
+(d)measures to be taken to prevent the escape of aquacultural produce,
+(e)measures to be taken to minimize the risk of disease, disease agents,
+parasites, toxins or contaminants spreading to other aquaculture sites,
+(f)measures to be taken to ensure the maintenance of applicable health, grade
+and genetic standards, and
+(g)any other matter the Registrar considers necessary for the purposes of this
+Act and the regulations.
+11(2)The Registrar may, under subsectionÂ (1), make different aquaculture
+licences subject to different terms and conditions that reflect the particular
+characteristics of the sites specified under subsectionÂ 14(2) in the licences.
+2005, c.24, s.3.
+
+11.1The Minister may, at any time, in addition to any terms and conditions
+established by or in accordance with the regulations, make an aquaculture
+licence subject to terms and conditions in relation to
+(a)the year class of the aquacultural produce that may be cultivated, and
+(b)the length of a fallow period for the aquaculture site.
+2005, c.24, s.4.
+
+12An aquaculture licence is subject to the following terms and conditions:
+(a)those established by or in accordance with the regulations, whenever
+established;
+(b)those imposed by the Registrar under sectionÂ 3.1;
+(c)those imposed by the Registrar under sectionÂ 11; and
+(d)those imposed by the Minister under sectionÂ 11.1, whenever imposed.
+2005, c.24, s.5.
+
+13An aquaculture licence may be assigned or transferred with the prior written
+consent of the Registrar.
+
+14(1)The Registrar shall not issue, renew or amend an aquaculture licence in
+relation to an aquaculture site on other than designated aquaculture land
+unless the applicant is the owner or lessee of the aquaculture site and has a
+right to occupy the site.
+14(2)The Registrar shall specify in an aquaculture licence the site at which
+aquaculture is to be carried on under the licence.
+14(3)A licensee shall not carry on aquaculture at a site other than the one
+specified under subsectionÂ (2) in the licenseeâ€™s aquaculture licence.
+14(4)The Registrar may require that a licensee display the licenseeâ€™s
+aquaculture licence number at all times at the site specified under
+subsectionÂ (2) in the licenseeâ€™s aquaculture licence in accordance with the
+regulations.
+1991, c.47, s.3.
+
+15(1)An aquaculture licence is valid for twenty years or for such shorter
+period as is specified by the Registrar in the licence.
+15(2)The term of an aquaculture licence shall not extend beyond the period of
+time during which the licensee has a right to occupy the site specified under
+subsectionÂ 14(2) in the licence.
+
+16(1)The Registrar shall specify in an aquaculture licence the species and
+strains of aquatic plants and animals that are to be cultivated under the
+licence.
+16(2)A licensee shall not cultivate species or strains of aquatic plants and
+animals other than those specified under subsectionÂ (1) in the licenseeâ€™s
+aquaculture licence.
+16(3)The Minister may direct a licensee to destroy or otherwise dispose of, in
+accordance with the direction of the Minister, aquatic plants and animals in
+the possession of a licensee that are not of the species or strains specified
+under subsectionÂ (1) in the licenseeâ€™s aquaculture licence.
+16(4)A licensee shall immediately comply with directions of the Minister under
+this section.
+16(5)All aquacultural produce of the species and strains specified in an
+aquaculture licence, while contained within the boundaries of the aquaculture
+site, are the exclusive personal property of the licensee until sold, traded,
+transferred or otherwise disposed of by the licensee.
+
+17(1)A licensee shall prepare and maintain the books, records, accounts and
+other documents required by or in accordance with the regulations.
+17(2)A licensee shall forward to the Registrar the information, books, records,
+accounts and other documents required by or in accordance with the regulations,
+at the times and in the forms required by the regulations.
+
+18A licensee shall maintain the health, genetic and grade standards for
+aquacultural produce established by or in accordance with the regulations.
+
+19A licensee shall immediately report to the Minister or to an inspector the
+presence of disease, disease agents, parasites, toxins or contaminants at the
+licenseeâ€™s aquaculture site.
+2005, c.24, s.6.
+
+19.1(1)If satisfied on reasonable grounds that disease, disease agents,
+parasites, toxins or contaminants are present at a licenseeâ€™s aquaculture
+site, the Minister may direct the licensee to take such measures as the
+Minister considers necessary to prevent the spread of the disease, disease
+agents, parasites, toxins or contaminants.
+19.1(2)Under subsectionÂ (1), the Minister may direct a licensee to quarantine,
+destroy or otherwise dispose of aquacultural produce in accordance with the
+direction of the Minister.
+19.1(3)A licensee shall immediately comply with directions of the Minister
+under this section.
+2005, c.24, s.7.
+
+19.2(1)The Minister may designate an area in a body of water as a controlled
+aquaculture area for the purpose of sectionÂ 19.3.
+19.2(2)The Minister may amend, cancel or reinstate at any time a designation
+made under subsectionÂ (1).
+19.2(3)The Regulations Act does not apply to a designation made under
+subsectionÂ (1).
+2005, c.24, s.7.
+
+19.3(1)If the Minister has reason to believe that disease, disease agents,
+parasites, toxins or contaminants are present at an aquaculture site, the
+Minister may designate the aquaculture site and the area surrounding the
+aquaculture site as a controlled aquaculture area under subsectionÂ 19.2(1).
+19.3(2)The Minister may direct a licensee whose aquaculture site is located in
+a controlled aquaculture area to take such measures as the Minister considers
+necessary to prevent the spread of the disease, disease agents, parasites,
+toxins or contaminants.
+19.3(3)Under subsectionÂ (2), the Minister may direct a licensee whose
+aquaculture site is located in a controlled aquaculture area to quarantine,
+destroy or otherwise dispose of aquacultural produce in accordance with the
+direction of the Minister.
+19.3(4)A licensee whose aquaculture site is located in a controlled aquaculture
+area shall immediately comply with directions of the Minister under this
+section.
+2005, c.24, s.7.
+
+20A licensee shall harvest the aquacultural produce cultivated under the
+licenseeâ€™s aquaculture licence in accordance with the regulations.
+
+21(1)The Registrar may suspend or revoke an aquaculture licence if the
+Registrar is satisfied that
+(a)the licensee has made a false statement in applying for the licence or for a
+renewal or amendment of the licence, or in any information, book, record,
+account or other document furnished by the licensee under this Act or the
+regulations,
+(b)the licensee violates, or fails or refuses to comply with, a term or
+condition to which the licence is subject,
+(c)the licensee violates, or fails or refuses to comply with, a provision of
+this Act or the regulations,
+(d)the licensee does not, to the satisfaction of the Registrar, show due
+diligence in fulfilling the terms and conditions to which the licence is
+subject and in complying with the provisions of this Act and the regulations,
+or
+(e)the licensee ceases to have a right to occupy the site specified under
+subsectionÂ 14(2) in the licence.
+21(2)The Registrar may revoke an aquaculture licence on surrender of the
+licence by the licensee.
+
+22(1)An inspector may at any reasonable time enter and inspect any vehicle,
+trailer or boat and any place or premises, except a private dwelling, that the
+inspector has reason to believe are being used for or in connection with
+aquaculture.
+22(2)For the purposes of inspection, an inspector may open and inspect any
+container that the inspector has reason to believe contains aquatic plants or
+animals.
+22(3)Before or after attempting to effect entry under this section, an
+inspector may apply for an entry warrant in accordance with the Entry Warrants
+Act.
+22(4)An inspector may at any time require a licensee to produce for inspection,
+or for the purpose of obtaining copies or extracts, any records, books,
+accounts or other documents, other than financial records, books, accounts or
+documents, relating to aquaculture or to the aquaculture site.
+22(5)A licensee shall immediately on demand by an inspector produce the
+records, books, accounts and other documents relating to aquaculture and to the
+aquaculture site required by an inspector under this section.
+22(6)An inspector may require a licensee to provide such samples and to carry
+out such tests as the inspector specifies.
+22(7)A licensee shall provide the samples and carry out the tests required by
+an inspector under this section.
+22(8)An inspector may
+(a)during an inspection under this section,
+(b)during a search authorized under the Provincial Offences Procedure Act, or
+(c)otherwise in accordance with the Provincial Offences Procedure Act,
+seize any book, record, account, document, container or aquatic plant or animal
+that the inspector believes on reasonable grounds may afford evidence of the
+commission of an offence.
+2008, c.11, s.2.
+
+23(1)No person shall sell, destroy or otherwise dispose of aquacultural
+produce, including parts or portions of aquacultural produce, in which disease,
+disease agents, parasites, toxins or contaminants are present except in
+accordance with the direction of the Minister.
+23(2)No person shall transfer or transport live aquacultural produce from one
+body of water or aquaculture site in the Province to another in the Province
+except in accordance with the regulations or in accordance with a prior written
+approval of the Minister.
+23(3)No person shall introduce live aquacultural produce to a body of water or
+aquaculture site in the Province except in accordance with the regulations or
+in accordance with a prior written approval of the Minister.
+23(4)No person shall have possession of live aquatic plants or animals directly
+or indirectly for the purposes of aquaculture other than in accordance with the
+regulations or in accordance with a prior written approval of the Minister.
+23(5)The Minister may give directions and approvals for the purposes of this
+section and may make the directions and approvals subject to such terms and
+conditions as the Minister considers advisable for the maintenance of health,
+genetic and grade standards.
+23(6)A person to whom the Minister gives a direction or an approval under this
+section shall comply with the terms and conditions to which the direction or
+approval is subject.
+2005, c.24, s.8.
+
+24(1)The Minister may designate land that is under the Ministerâ€™s
+administration and control as aquaculture land.
+24(2) Repealed: 1991, c.47, s.4.
+1991, c.47, s.4.
+
+25(1)Upon application the Minister may, in accordance with the regulations,
+lease designated aquaculture land for the purposes of aquaculture.
+25(2)The Minister may, in addition to any terms, covenants and conditions
+established by or in accordance with the regulations, make an aquaculture lease
+subject to such terms, covenants and conditions as the Minister considers
+appropriate.
+25(3)An aquaculture lease
+(a)shall be for a period not exceeding twenty years,
+(b)shall be at a rent fixed by or in accordance with the regulations, whether
+before or after the issuance of the lease, or, where there is no applicable
+regulation, at a rent fixed by the Minister having regard to the rental value
+of similar land on the open market,
+(c)shall be subject to the terms, covenants and conditions established by or in
+accordance with the regulations, whether before or after the issuance of the
+lease, and to the terms, covenants and conditions imposed by the Minister under
+subsectionÂ (2), and
+(d)may be assigned or transferred with the prior written consent of the
+Minister.
+25(3.1)The Minister shall not issue an aquaculture lease unless the applicant
+for the lease has given public notice of the application in accordance with the
+regulations.
+25(4)The Minister shall not issue an aquaculture lease unless the applicant for
+the lease has provided, to the satisfaction of the Minister, a certificate of
+survey of the land to be covered by the lease.
+25(5)Subject to subsections (6) and (7), an aquaculture lease conveys the right
+to the exclusive use of the land covered by the lease.
+25(6)An aquaculture lease does not convey a right to any mines or minerals in,
+on or under the land.
+25(7)An aquaculture lease may make provision for access through and over the
+land by adjacent landowners.
+1991, c.47, s.5.
+
+26(1)Upon application the Minister may, in accordance with the regulations,
+issue an aquaculture occupation permit authorizing a person to occupy and use
+specified designated aquaculture land.
+26(2)The Minister may, in addition to any terms, covenants and conditions
+established by or in accordance with the regulations, make an aquaculture
+occupation permit subject to such terms, covenants and conditions as the
+Minister considers appropriate.
+26(3)An aquaculture occupation permit
+(a)shall be for a period not exceeding three years,
+(b)shall be at a rent fixed by or in accordance with the regulations, whether
+before or after the issuance of the permit, or, where there is no applicable
+regulation, at a rent fixed by the Minister having regard to the occupational
+and use value of similar land on the open market, and
+(c)shall be subject to terms, covenants and conditions established by or in
+accordance with the regulations, whether before or after the issuance of the
+permit, and to the terms, covenants and conditions imposed by the Minister
+under subsectionÂ (2), and
+(d)is not assignable or transferable.
+26(4)The Minister shall not issue an aquaculture occupation permit unless the
+applicant for the permit has given public notice of the application in
+accordance with the regulations.
+1991, c.47, s.6.
+
+26.1(1)A lessee or permittee may apply to the Minister to have the boundaries
+of land altered under the lesseeâ€™s aquaculture lease or the permitteeâ€™s
+aquaculture occupation permit.
+26.1(2)A lessee or permittee who is applying to have the boundaries of land
+altered under an aquaculture lease or an aquaculture occupation permit shall
+provide to the Minister the information required by or in accordance with the
+regulations.
+26.1(3)A lessee or permittee who is applying to have the boundaries of land
+altered under an aquaculture lease or an aquaculture occupation permit shall
+comply with the terms and conditions established by or in accordance with the
+regulations.
+26.1(4)The Minister shall not grant an application to alter the boundaries of
+land under an aquaculture lease or an aquaculture occupation permit unless
+public notice of the application has been given by the lessee or permittee in
+accordance with the regulations.
+26.1(5)The Minister, on being satisfied that the lessee or permittee has
+fulfilled all of the requirements of this Act and the regulations in relation
+to an application to have the boundaries of land altered under an aquaculture
+lease or an aquaculture occupation permit, may alter the boundaries of land
+under the lease or permit.
+26.1(6)The Minister may, in accordance with the regulations, refuse to alter
+the boundaries of land under an aquaculture lease or aquaculture occupation
+permit.
+1991, c.47, s.7.
+
+27(1)The Minister may cancel an aquaculture lease or an aquaculture occupation
+permit if
+(a)the lessee or the permittee has made a false statement in applying for the
+lease or permit,
+(b)the lessee or the permittee violates or fails or refuses to comply with a
+term, covenant or condition to which the lease or permit is subject,
+(c)the lessee or permittee violates or fails or refuses to comply with a
+provision of this Act or the regulations,
+(d)the lessee or the permittee does not, to the satisfaction of the Minister,
+show due diligence in fulfilling a term, covenant or condition to which the
+lease or permit is subject, or
+(e)the lessee or the permittee ceases to hold an aquaculture licence in
+relation to the land covered by the lease or permit.
+27(2)The Minister may cancel an aquaculture lease or an aquaculture occupation
+permit on surrender of the lease or permit by the lessee or permittee.
+
+28(1)An applicant for an aquaculture licence or a licensee who is dissatisfied
+with a decision of the Registrar under this Act or the regulations may appeal
+the decision to the Minister in accordance with the regulations.
+28(2)A decision or direction of the Minister under this Act or the regulations
+is final and conclusive and, except on the grounds of an excess of jurisdiction
+or denial of natural justice, shall not be questioned or reviewed in any court,
+and no order shall be made or proceedings taken in any court, whether by way of
+injunction, declaratory judgment, order on judicial review or otherwise to
+question, review, prohibit or restrain the Minister.
+
+29(1)Subject to subsections (3) and (4), all information, books, records,
+accounts and documents obtained under sectionÂ 5, 7, 9, 17, or 22 are
+confidential.
+29(2)Subject to subsections (3) and (4), no person shall disclose or allow to
+be disclosed any information, book, record, account or document obtained under
+sectionÂ 5, 7, 9, 17 or 22.
+29(3)A person may disclose or allow to be disclosed any information, book,
+record, account or document obtained under sectionÂ 5, 7, 9, 17 or 22 generally
+for the purposes of the administration and enforcement of this Act, and may
+disclose or allow to be disclosed any information, book, record, account or
+document obtained under sectionÂ 5, 7, 9, 17 or 22
+(a)on a confidential basis to a person employed by the Government of Canada or
+by a province or territory of Canada,
+(b)in publications and programs in relation to aquaculture if the disclosure
+does not identify the person to whom the information, book, record, account or
+document relates,
+(c)to any person when necessary to prevent or combat disease or to maintain
+genetic standards,
+(d)to members of advisory committees established by the Minister under
+sectionÂ 37,
+(e)to any person in the course of consultation, public or otherwise, undertaken
+in relation to any application under this Act, and
+(f)to any person in accordance with the regulations.
+29(4)A person may, with the consent of the person to whom it relates, disclose
+or allow to be disclosed any information, book, record, account or document
+obtained under sectionÂ 5, 7, 9, 17 or 22.
+
+30(1)A person who violates or fails to comply with any provision of the
+regulations commits an offence.
+30(2)A person who violates or fails to comply with a term or condition of an
+aquaculture licence commits an offence.
+30(3)A person who violates or fails to comply with a provision of this Act that
+is listed in Column I of Schedule A commits an offence.
+30(4)For the purposes of Part II of the Provincial Offences Procedure Act, each
+offence listed in Column I of Schedule A is punishable as an offence of the
+category listed beside it in Column II of Schedule A.
+1990, c.61, s.9.
+
+31 Repealed: 1990, c.22, s.3.
+1990, c.22, s.3.
+
+32Where an offence under this Act continues for more than one day,
+(a)the minimum fine that may be imposed is the minimum fine set by the
+Provincial Offences Procedure Act multiplied by the number of days during which
+the offence continues, and
+(b)the maximum fine that may be imposed is the maximum fine set by the
+Provincial Offences Procedure Act multiplied by the number of days during which
+the offence continues.
+1990, c.61, s.9.
+
+33 Repealed: 1990, c.22, s.3.
+1990, c.22, s.3.
+
+34The Minister is responsible for the administration of this Act and the
+regulations and may designate persons to act on the Ministerâ€™s behalf.
+
+35The Minister shall undertake such public consultation in relation to
+aquaculture as the Minister considers appropriate or as is required by or in
+accordance with the regulations.
+
+36The Minister, with the approval of the Lieutenant-Governor in Council, may
+enter into agreements with Canada, a provincial government or a person for any
+purpose related to this Act and the regulations.
+
+37(1)The Minister may establish advisory committees to advise the Minister
+generally in relation to aquaculture and in relation to the issuance of
+aquaculture leases and aquaculture occupation permits, and to advise the
+Registrar in relation to the issuance, renewal and amendment of aquaculture
+licences.
+37(2)Notwithstanding subsectionÂ (1) the Minister shall establish advisory
+committees to advise the Minister in relation to health standards for
+aquacultural produce and in relation to site selection criteria for designated
+aquaculture land.
+37(3)The Minister may pay such allowances and expenses as may be authorized by
+the regulations to persons who serve on advisory committees established under
+this section.
+
+38The Minister shall appoint a person employed in the Department of Agriculture
+and Aquaculture as the Registrar for the purposes of this Act and the
+regulations.
+2000, c.26, s.22; 2007, c.10, s.15.
+
+39The Registrar shall maintain copies and records of aquaculture licences,
+aquaculture leases and aquaculture occupation permits, and such other documents
+as the Minister may require.
+
+40(1)The Minister may appoint persons as inspectors for the purposes of this
+Act and the regulations.
+40(2)An inspector in carrying out the duties of an inspector under this Act and
+the regulations has and may exercise all the powers and duties of a peace
+officer.
+
+41No action for damages lies against the Province, the Minister, a person
+designated to act on behalf of the Minister, the Registrar, an inspector, an
+advisory committee or a member of an advisory committee with respect to
+anything done or purported to be done, or with respect to anything omitted,
+under this Act or the regulations.
+
+42(1)The Lieutenant-Governor in Council may make regulations
+(a)prescribing fees payable under this Act and the regulations;
+(b)respecting forms for use under this Act and the regulations;
+(c)exempting persons, classes of persons, land, classes of lands, aquaculture
+sites, classes of aquaculture sites, activities, classes of activities, aquatic
+plants and animals and strains of aquatic plants and animals from the
+application of this Act and the regulations or from the application of any
+provision of this Act or the regulations;
+(d)establishing classes of aquaculture licences aquaculture leases and
+aquaculture occupation permits;
+(e)respecting the method of allocating aquaculture licences;
+(f)respecting the preparation of, modification of and adherence to site
+development plans in relation to aquaculture sites;
+(g) Repealed: 1991, c.47, s.8.
+(h)respecting the information that is to be provided to the Registrar by a
+person who is applying for an aquaculture licence;
+(i)respecting the terms and conditions to be complied with by a person who is
+applying for an aquaculture licence;
+(j)respecting the grounds on which the Registrar may refuse to issue an
+aquaculture licence;
+(k)respecting the information that is to be provided to the Registrar by a
+licensee who is applying for a renewal of the licenseeâ€™s aquaculture licence;
+(l)respecting the terms and conditions to be complied with by a licensee who is
+applying for a renewal of the licenseeâ€™s aquaculture licence;
+(m)respecting the grounds on which the Registrar may refuse to renew an
+aquaculture licence;
+(n)respecting the information to be provided to the Registrar by a licensee who
+is applying to have the licenseeâ€™s aquaculture licence amended;
+(o)respecting the terms and conditions to be complied with by a licensee who is
+applying to have the licenseeâ€™s aquaculture licence amended;
+(p)respecting the grounds on which the Registrar may refuse to amend an
+aquaculture licence;
+(q)respecting the terms and conditions to which an aquaculture licence is
+subject;
+(r)respecting the books, records, accounts and other documents to be prepared
+and maintained by a licensee and respecting the information, books, records,
+accounts and other documents to be forwarded by a licensee to the Registrar,
+and the times at which and the forms in which they are to be forwarded;
+(s)respecting the display of an aquaculture licence number at an aquaculture
+site;
+(t)respecting health standards for aquacultural produce;
+(u)respecting genetic standards for aquacultural produce;
+(v)respecting grade standards for aquacultural produce;
+(w)respecting the quarantine of aquacultural produce;
+(x)respecting the harvesting of aquacultural produce;
+(y)respecting the destruction or disposal of aquatic plants and animals and
+aquacultural produce, including parts or portions;
+(z)respecting the transport, transfer and introduction of aquatic plants and
+animals and aquacultural produce;
+(aa)respecting the possession of live aquatic plants and animals for the
+purposes of aquaculture;
+(bb)respecting the method of allocating designated aquaculture land for the
+purposes of aquaculture;
+(cc)respecting the surveying of designated aquaculture land;
+(dd)respecting the conduct of aquaculture on designated aquaculture land;
+(ee)respecting the leasing of designated aquaculture land, including the
+grounds on which the Minister may refuse to issue an aquaculture lease;
+(ee.1)respecting the public notice to be given in relation to an application
+for an aquaculture lease or an aquaculture occupation permit;
+(ff)respecting rent payable in relation to an aquaculture lease;
+(gg)respecting the terms, covenants and conditions to which an aquaculture
+lease is subject;
+(hh)respecting the issuance of aquaculture occupation permits in relation to
+designated aquaculture land, including the grounds on which the Minister may
+refuse to issue an aquaculture occupation permit;
+(ii)respecting the rent payable in relation to an aquaculture occupation
+permit;
+(jj)respecting the terms, covenants and conditions to which an aquaculture
+occupation permit is subject;
+(jj.1)respecting the information to be provided to the Minister by the lessee
+or permittee who is applying to have the boundaries of land under an
+aquaculture lease or aquaculture occupation permit altered;
+(jj.2)respecting the terms and conditions to be complied with by the lessee or
+permittee who is applying to have the boundaries of land under an aquaculture
+lease or aquaculture occupation permit altered;
+(jj.3)respecting the public notice to be given in relation to an application to
+alter the boundaries of land under an aquaculture lease or aquaculture
+occupation permit;
+(jj.4)respecting the grounds on which the Minister may refuse to alter the
+boundaries of land under an aquaculture lease or aquaculture occupation permit;
+(kk)respecting appeals from decisions of the Registrar under this Act and the
+regulations including the grounds for appeal, the procedures on appeal, the
+effect of a decision of the Registrar pending the outcome of an appeal and the
+powers and authority of the Minister in relation to the appeal;
+(ll)respecting public consultation to be undertaken by the Minister;
+(mm)respecting the disclosure of confidential information;
+(nn)respecting allowances and expenses payable to persons who serve on advisory
+committees;
+(oo)defining words and phrases used in this Act but not defined in this Act.
+42(2)Regulations under this Act may contain different provisions for different
+classes of aquaculture licences, aquaculture leases and aquaculture occupation
+permits and for different persons, classes of persons, land, classes of lands,
+aquaculture sites, classes of aquaculture sites, activities, classes of
+activities, aquatic plants and animals and strains of aquatic plants and
+animals.
+42(3)Regulations exempting persons, classes of persons, land or classes of
+lands, aquaculture sites, classes of aquaculture sites, activities, classes of
+activities, aquatic plants and animals and strains of aquatic plants and
+animals from the application of this Act and the regulations or from the
+application of any provision of this Act or the regulations
+(a)may be limited to their duration,
+(b)may provide that this Act and the regulations or that a provision of this
+Act or the regulations will apply, notwithstanding a previous exemption, at
+some future time fixed in the regulations, and
+(c)may include terms and conditions to which any exemption is subject.
+1991, c.47, s.8.
+
+43SectionÂ 68.4 of the Summary Convictions Act, chapter S-15 of the Revised
+Statutes, 1973, is repealed and the following is substituted:
+68.4Notwithstanding sectionÂ 68.3, subsections 68.1(1) to (4) and sections 69
+to 72 apply in relation to a search of or seizure from any land, building,
+premises or other place, container or conveyance in respect of an offence under
+(a)the Aquaculture Act,
+(b)the Fish Inspection Act,
+(c)the Fish Processing Act,
+(d)the Gasoline and Motive Fuel Tax Act,
+(e)the Parks Act,
+(f)the Revenue Administration Act, and
+(g)the Salvage Dealers Licensing Act.
+
+44This Act or any provision of it comes into force on a day or days to be fixed
+by proclamation.
+
+SCHEDULE A
+Column I   Column II
+Section    Category of Offence
+
+                
+  Â Â 
+  Â Â 4      E  
+  14(3)      E  
+  14(4)      B  
+  16(2)      E  
+  16(4)      E  
+  17(1)      C  
+  17(2)      C  
+  18         E  
+  19         F  
+  19.1(3)    F  
+  19.3(4)    F  
+  20         E  
+  22(5)      E  
+  22(7)      E  
+  23(1)      F  
+  23(2)      F  
+  23(3)      F  
+  23(4)      F  
+  29(2)      F  
+  30(1)      B  
+  30(2)      C  
+1990, c.61, s.9; 2005, c.24, s.9; 2005, c.32, s.1.
+N.B. This Act was proclaimed and came into force SeptemberÂ 3, 1991.
+N.B. This Act is consolidated to April 30, 2008.

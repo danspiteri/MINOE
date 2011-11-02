@@ -1,0 +1,862 @@
+Manure
+Management
+Guidelines
+
+
+
+
+2006
+                               Table of Contents
+
+Foreword . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+1. Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2. Statement of Intent. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3. Regulatory Considerations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+4. Siting of Manure Storage Facilities . . . . . . . . . . . . . . . . . . . . . . . . . 5
+5. Manure Storage Design Considerations . . . . . . . . . . . . . . . . . . . . . 6
+    – System and Site Evaluation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+    – Storage Volume . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+    – Type of Storage. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+    – Safety Factors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+6. Land Application of Manure . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+7. Manure Odour Management . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+8. Manure Transportation Guidelines . . . . . . . . . . . . . . . . . . . . . . . 18
+9. References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+10. Glossary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+
+
+
+                                           List of Tables
+
+Table 1 Recommended Minimum Separation Distances for New
+        Livestock Facilities
+Table 2 Manure Production (total per finishing period)
+Table 3 Manure Production per animal per day
+Table 4 Minimum Separation Distances for Spreading Manure
+Table 5 Animals Required to Equal One Livestock Unit Requiring 1 ha
+        (2.5 acres) of Land for Manure Application
+
+
+
+
+                                                     1
+2
+                                      Foreword
+The purpose of the Manure Management Guidelines is to promote the effective use of
+animal manure as a valuable fertilizer source and soil amendment, while providing
+instruction in environmental protection. Improperly handled manure can leach through
+soil and contaminate ground water supplies or run into water courses, possibly
+contaminating drinking water or irrigation supplies, or adversely affecting fish and fish
+habitat. Livestock producers who follow these guidelines will gain the best advantage from
+their manure resource, while reducing the potential for soil and water contamination and
+nuisance odours.
+
+These Manure Management Guidelines apply to all livestock operations of beef, dairy,
+sheep, goat, turkey, layer, broiler, hogs, horses and mink where the storage, handling and
+use of animal manure constitutes a significant component of the farm operation. All new,
+renovated or existing farming operations are encouraged to follow the recommendations
+provided in the guidelines.
+
+This document describes the components of manure storage and establishes guidelines for
+developing a sound manure management plan, and for putting the plan into action. It is
+the successor to the “Guidelines For The Management and Use of Animal Manure in Nova
+Scotia (1991).” This updated document provides more current information on relevant
+legislation, nutrient management planning, safety factors, and hauling of manure.
+
+These guidelines do not apply to biosolids, nor should they be used for the purpose of
+managing other biological or industrial wastes.
+
+For additional information on hog farms, refer to the publication “Guidelines For Siting and
+Management of Hog Farms in Nova Scotia (Revised September 2000).”
+
+
+
+
+                                             3
+                                   1. INTRODUCTION
+
+Proper management of manure storage and manure spreading can decrease the potential
+for odour generation and environmental pollution. Nova Scotia farmers face increased
+numbers of non-farm residents moving to traditional farming communities. Changes in
+agriculture have led to fewer farms, but larger farming operations with concentrated
+production, increased livestock numbers per farm, imported feed and larger livestock
+facilities located on less land. Livestock producers are challenged to enhance some farm
+practices, including manure management.
+
+Livestock are inefficient in extracting nutrients from feedstuffs; 75 to 90 per cent of the
+major nutrients fed to livestock pass directly through the animal into the manure. Manure
+storage is a necessary part of livestock production, since incorporation of manure into the
+soil or spreading on fields should only be done at certain times of the year. The extent to
+which these nutrients can be returned to the soil and made available to crops depends on
+how the manure is stored and handled. It is important to maximize the efficient use of
+manure since it is a valuable soil resource.
+
+
+                              2. STATEMENT OF INTENT
+
+The objectives of these guidelines are:
+1.   To recommend management practices that minimize the risk of surface and groundwater
+     contamination from livestock manure.
+2.   To recommend management practices that minimize complaints of nuisance concerning
+     livestock manure.
+3.   To promote the effective use of livestock manure as a nutrient source and provide information
+     on the limitations of manure as a soil amendment.
+
+
+                       3. REGULATORY CONSIDERATIONS
+
+Improper storage and handling of livestock manure may be cause for legal action. The
+three most relevant statutes to be aware of, summarized below, are the Farm Practices Act,
+the Environment Act, and the federal Fisheries Act.
+
+The provincial Farm Practices Act (2001) provides a mechanism for the establishment of
+normal farm practices, and protects farmers who follow normal farm practices from civil
+action in nuisance or negligence. The act provides a fair process to resolve farm practice
+complaints between farmers and their neighbours; and enables municipal governments to
+apply municipal planning strategies or land-use by-laws to farm land. A “normal farm
+practice” is defined in the act. When the Farm Practices Board determines that a farm
+practice is not a normal farm practice, the Board may issue an order to modify or cease the
+farm practice. Failure to comply with an order would be a violation of this act, and subject
+to a fine, imprisonment, or both.
+
+
+                                                4
+The provincial Environment Act (1995) supports and promotes the protection,
+enhancement, and prudent use of the environment. Nova Scotians have a responsibility
+for stewardship and making efficient use of resources. The act, and regulations, promote
+environmental management and encourage due diligence of individuals to prevent
+pollution of land, air, and water. Violations may result in a fine, imprisonment, or both.
+Actions that result in release of a substance, such as manure, that results in impairment of
+water quality, may invoke an order by the Minister of Environment and Labour against an
+individual to control or eliminate the release.
+
+Release of a substance into a water course, that is deleterious to fish in any stage of their
+life cycle, or that causes harmful damage or destruction to fish habitat may result in
+charges being laid by the Department of Fisheries and Oceans (DFO) under the federal
+Fisheries Act. In addition to a fine, anyone found guilty under this act may be required to
+restore fish habitat, at their own expense.
+
+
+3.1 Permit Approvals
+
+Prior to construction, any approvals necessary must be obtained from the appropriate
+regulatory agencies. Under the National Farm Building Code, a manure storage is defined
+as a farm building requiring a design by an engineer to account for such concerns as
+loading, reinforced concrete, etc.
+
+
+                 4. SITING OF MANURE STORAGE FACILITIES
+
+The best site selection for a new manure storage is determined by several factors. As a
+measure of due diligence on the part of a landowner, storage facilities should be located to
+minimize the risk of surface or groundwater contamination and complaints about
+nuisance. Traditionally farms were located close to water courses and over the years these
+farms have expanded. In this case proximity to a water course impacts on the design
+options available for manure storages . One way to minimize these risks is to establish
+minimum separation distances.
+
+Separation distances provide an adequate buffer from water courses, wells and property
+lines so that the location of barns or manure storages minimizes the risk of pollution or
+nuisance.
+
+Separation distances provided in Table 1 apply to additions or upgrades made to existing
+buildings and storages as well as the construction of new facilities. If it is not possible to
+meet the recommended separation distances, the distances may vary, if determined by a
+qualified engineer, based on a careful site assessment, that the risks of pollution and odour
+will not increase.
+
+
+
+
+                                              5
+Table 1 - Recommended Minimum Separation Distances for New Livestock Facilities
+(excluding hog production units and facilities*)
+
+Public Building                                                                200 m       (660 ft)
+Property Line                                                                   50 m       (165 ft)
+Existing Off-Farm Dwelling                                                     100 m       (330 ft)
+Provincial Highway                                                              50 m       (165 ft)
+Off-Farm Well                                                                  100 m       (330 ft)
+Lake, River, Brook
+    A. Non-contained storage (solid manure)                                    100 m (330 ft)
+    B. Fully contained storage (liquid, semi-solid manure)                      50 m (165 ft)
+Ditch/Intermittent Stream or Wetland                                            20 m (66 ft)
+
+Note: *   Anaerobic hog lagoons do not seal on the surface like other manure storage types. Therefore, guidelines
+          concerning separation distances have been developed specifically for hog facilities. Refer to the publication
+          “Guidelines For Siting and Management of Hog Farms in Nova Scotia (Revised September 2000).”
+
+
+Table 1 serves adjacent landowners as well as the owners of manure storage facilities. That
+is, facilities constructed in compliance with the recommended separation distances would
+not be expected to relocate in the event that future development may be planning to occur
+on adjacent non-agricultural land within the recommended separation distances.
+
+Note that the recommended separation distances may be superseded in regulated areas,
+such as a Protected Water Area designated under the Environment Act. This should be
+determined beforehand by contacting the municipal office in which the facility is, or will
+be, located.
+
+
+                  5. MANURE STORAGE DESIGN CONSIDERATIONS
+
+Design of livestock manure storages is subject to the latest edition of the Canadian Farm
+Building Code. Manure storage construction may require a Building Permit under the Nova
+Scotia Building Code Regulation, 1995. Consult a municipal building inspector for
+information concerning these codes, and a qualified engineer concerning the design of a
+manure storage.
+
+The following four steps should be considered before constructing a manure storage
+facility:
+•     A system and site evaluation
+•     Establishing the size of the storage required
+•     Determining the type of storage
+•     Getting necessary permits and approvals
+
+
+
+
+                                                              6
+5.1 System and Site Evaluation
+
+The design and location of a manure storage facility is influenced by the following
+parameters:
+
+5.1.1 Type and Characteristics of Manure
+
+Manure consistency is the primary factor that determines the methods used to collect,
+transfer and store manure. Manure is generally classified under the following three
+categories: liquid, semi-solid, and solid.
+
+Liquid manure generally has a moisture content of over 95 per cent and has little bedding
+material in it. Semi-solid manure has a moisture content between 84 to 95 per cent. Solid
+manure has a moisture content less than 84 per cent and has varying amounts of bedding
+material in it. It is important to select the proper manure storage system for the type of
+manure being produced.
+
+5.1.2 Collection, Transfer and Loading Systems
+
+Several collection, transfer and loading methods are possible. System considerations
+include facility type, labour requirements, and overall management system. There is no
+single best system; each has advantages and disadvantages. A manure management system
+should meet the needs of each individual livestock operation. Consult with an engineer,
+manure equipment dealer and other experts early in the project planning to determine the
+best system.
+
+Collection options include: barn cleaners, pumps, tractors, mechanical alley scrapers,
+slatted floor, gravity flow channels and alley flush. Each of these have specific design
+criteria and should be explored. Manure is transferred to a storage by tractor scraping,
+gravity flow or pumping. Loading options are usually limited to pumping, tractor loading
+and ramp loading. System selection depends on the characteristics of the manure, bedding
+practices, type of available labour, elevation of the barn above the storage and storage
+system.
+
+5.1.3 Site Conditions
+
+5.1.3.1 Soil Type
+Soil type may limit the options available for selecting certain manure storages. Soils that
+are well drained affect the design criteria for several types of storage (earthen, open pads,
+etc.). The percentage of clay and hydraulic conductivity of the soil will help determine the
+type of storage suited for the farm. The underlying geology must also be considered; avoid
+gypsum deposits, for example.
+
+5.1.3.2 Topography and Drainage
+A manure storage facility should be located on a level site for ease of agitating and loading.
+Preventing surface and groundwater from entering a storage is essential. This reduces the
+volume of unwanted water and increases the capacity of the storage.
+
+                                              7
+5.1.3.3 Wind Direction
+When manure is agitated and being loaded, an odour is unavoidable. By considering the
+prevailing wind direction, attempts can be made to reduce inconvenience on neighbouring
+properties.
+
+5.1.3.4 Aesthetics
+Roofs or covers will improve the appearance of manure storages. Consider selecting areas
+which keep the storage out of view.
+
+
+5.2 Storage Volume
+
+Manure production volumes for common livestock can be obtained from standard tables
+developed by the American Society of Agricultural and Biological Engineers. An example is
+provided in Table 2. which shows volumes of manure produced by animals which are on
+farm for less than one year, as well as, Table 3., which shows daily volumes of manure
+produced by some common livestock types. During design, engineers should use all
+available resources, which include, but are not limited to the following; Canadian Farm
+Building Code, Canadian Farm Buildings Handbook and the ASAE Standards for manure
+storage design and volume calculations. Note that the volumes for manure storage may
+vary depending on the actual management practices used, e.g. wash water added to the
+storage, type and amount of bedding, feeding program, and whether livestock are housed
+indoors at all times.
+
+
+
+Table 2. Comparison of Manure Production per Animal (Total per finishing period):
+Meat producing livestock and poultry.
+Animal Type and                        kg/             lb/          liters/          ft3/     Assumed
+Production Grouping                 finished        finished       finished       finished    Finishing
+                                     animal          animal         animal         animal    Time Period
+                                                                                                (days)
+Beef – Finishing cattle              4,500           9,800           4,500          160         153
+Poultry – Broiler                       4.9             11            4.9          0.17          48
+Poultry – Turkey (males)                36              78             36           1.3         133
+Poultry – Turkey (females)              17              38             17          0.61         105
+Swine – Nursery pig (12.5 kg)           48              87             48           1.4          36
+Swine – Grow-finish (70 kg)            560           1200             560            20         120
+
+Data adapted from ASAE D384.2 March 2005, Manure Production and Characteristics
+
+
+
+
+                                                      8
+Table 3. Comparison of Manure Production per Animal per Day: Other livestock and
+poultry.
+Animal Type and                             kg/day/          lb/day/         liters/day/    ft3/day/
+Production Grouping                          animal           animal            animal       animal
+Beef – Cow (confinement)                        55             121                55          1.94
+Beef – Calf (confinement)                       22              50                22          0.81
+Dairy – Lactating Cow                           68             150                68          2.40
+Dairy – Dry Cow                                 38              83                38          1.30
+Dairy – Calf 150 kg                            8.5              19               8.5          0.30
+Dairy – Heifer 440 kg                          22               48                22          0.78
+Dairy – Veal – 118 kg                         3.5              7.8               3.5          0.12
+Layer                                       0.088             0.19            0.088        0.0031
+Swine – Gestating Sow – 200 kg                   5              11                 5         0.18
+Swine – Lactating Sow – 192 kg                 12               25               12          0.41
+Swine – Boar – 200 kg                         3.8              8.4              3.8          0.13
+
+Data adapted from ASAE D384.2 March 2005, Manure Production and Characteristics
+
+
+Example (A): Liquid manure could be managed using a three-month storage capacity in the
+primary facility before transporting it to a satellite storage which has an additional four-
+month capacity.
+
+Example (B): A farm operation is considered to be a high-risk situation if its solid manure
+storage has less than one month capacity, the manure is spread on frozen ground, and
+there is no run-off control provided. The farm can achieve reduced risk of pollution and
+odour by utilizing a combined seven-month storage through a manure management plan
+incorporating the following options:
+a.   controlling run-off from the operation;
+b.   constructing a storage pad for the handling and storage of the solid manure for land
+     application at a more optimum time of year; and
+c.   stockpiling manure in fields where the manure can eventually be spread.
+
+
+5.3 Types of Storage
+
+Once the site has been selected with all considerations analyzed and the storage volume
+determined, the proper manure storage system should be selected. In some circumstances
+manure can provide an ideal environment for the production of flies. Various types of
+manure storages are described in the following sections.
+
+
+
+
+                                                      9
+5.3.1 Liquid Manure Storages
+Within Nova Scotia, there are two common methods
+of storing liquid manure. These are fully contained
+facilities which prevent manure runoff.
+     Non-Earthen Liquid Manure Storages (including
+     concrete, metal or wooden): must be designed
+     and constructed in accordance with the latest
+     editions of the National Building Code of Canada
+     and the National Farm Building Code of Canada.
+                                                        Non-earthen Liquid Manure Storage
+
+                                          Earthen Manure Storages: A qualified engineer
+                                          should do the preliminary soil investigation and
+                                          design of the storage before any construction
+                                          begins.
+
+
+
+
+Earthen Manure Storage
+
+
+5.3.2 Solid Manure Storages
+Solid manure storages are non-contained facilities, so measures are needed to divert roof
+water from nearby buildings and surface water drainage away from the manure storage
+area. A solid manure storage should be built on a concrete pad or on soil with sufficient
+low permeability specified by the design engineer to prevent leaching. Collect run-off
+from a solid manure storage or livestock yard in a separate holding structure or a flow-
+through treatment system such as a vegetative strip or
+constructed wetland. A covered facility would help in
+decreasing the amount of run-off from the manure
+storage itself.
+
+There are six common methods of storing solid
+manure. The method used depends on the facility
+design and the type of livestock being raised.
+
+5.3.2.1 Manure Pack
+                                                        Concrete Solid Storage
+Manure is stored with bedding materials in close
+proximity to where it is produced (e.g., when cattle or dairy heifers are raised in a
+confined, manure pack housing system or poultry are raised in a solid manure poultry
+housing system). This manure is later collected and removed to a separate storage facility,
+or stockpiled, or may be applied to land.
+
+
+
+
+                                             10
+5.3.2.2 Roofed Storage
+Manure is removed from where it is produced to a
+covered storage (e.g., in a dairy cow tie-stall barn
+where large amounts of bedding materials are used, or
+broiler or turkey barns where manure is removed
+between batches of birds).
+
+
+5.3.2.3 Open Manure Storage
+                                                                                 Roofed Storage
+Manure is removed from where it is
+produced (e.g., a tie-stall barn
+where manure is removed by a
+barn cleaner) to a non-contained
+storage such as an open concrete
+storage pad.
+
+                                       Solid Storage Concrete Pad
+
+                                       5.3.2.4 Livestock Yard
+                                       A livestock yard is classified as a manure storage when
+                                       the stocking density exceeds 10 livestock units (see
+                                       Section 6) per hectare for a period of one month or
+                                       more. As a result, these yards should follow
+                                       separation distances recommended in preceding
+                                       sections.
+
+Livestock Yard
+
+5.3.2.5 Stockpiling
+Stockpiling involves removing the solid manure from
+a storage facility and storing it in piles along the edge
+of a field where the manure is to be eventually spread
+within the current or next growing season. The
+storage area requires year-round accessibility. The
+separation distances in Section 4 must be followed.
+This manure should not be placed over subsurface
+drains, very permeable soils, or in flood risk areas.
+                                                            Stockpiling
+5.3.2.6 Composting
+Composting is a manure treatment which can be used to produce a stabilized product that
+is free from odour, harmful coliforms, and fly problems. Permits are not required for
+manure composting if the manure used in the composting originated on-farm. Otherwise,
+an approval is required from the Nova Scotia Department of Environment and Labour for
+any composting of materials, which exceeds 60 m3 annually. An approval is also required
+if the compost is sold as a commercial activity. The site chosen for a compost pile should
+conform to the separation distances described in Section 4. Leachate from the compost
+
+
+                                               11
+should be contained. This can be done if the pile is located near a slight slope with a
+receptor pit to catch the run-off. Otherwise, use level land and do not use the same spot
+each year. Heavy soil is the best choice as it prevents any leachate from reaching the water
+table.
+
+There are a number of composting techniques available including turning a pile, windrow,
+and in-cell. Composted manure slowly releases nutrients into the soil and can improve
+the biological, chemical, and physical properties of the soil. Frequent turning and
+addition of a carbon source (such as wood shavings, straw or sawdust) is essential to
+composting. A common source of carbon in Nova Scotia is sawdust and shavings. If
+frequent mixing does not occur, the process will become anaerobic.
+                                     This condition is usually not reversible and results in
+                                     the production of manure gases. The moisture
+                                     content of the compost determines if turning is
+                                     necessary. Generally, the optimal moisture content
+                                     for composting is 50 - 60 per cent, however if the
+                                     compost is turned frequently, manure will compost
+                                     with a moisture content of up to 75 per cent. The
+                                     carbon to nitrogen ratio is very important and should
+                                     be in the range of 20:1 to 30:1.
+Composting
+
+5.3.3 Satellite Storage
+A satellite storage is a liquid manure storage located away from the primary storage facility
+and near fields where the manure is to be spread. Satellite storages are for temporary
+storage and the manure should be spread within the year.
+
+Advantages:
+• Manure can be transported with a truck instead of a tractor.
+• The fields closer to the barn do not receive excessive manure application.
+• Fields further away will get the nutrients required for crop development.
+• The storage provides extra capacity and an option of using smaller spreaders, resulting
+   in less soil compaction on fields.
+
+Disadvantages:
+• Requires the management of two storage facilities.
+• The cost of construction.
+
+The separation distances shown in Table 1, design
+considerations described in preceding sections, and
+safety factors described in Section 5.4 apply to
+satellite storages. Storages should be located on sites
+where there is no risk of flooding and where all
+surface water drainage can be diverted away from the
+storage.
+                                                          Satellite storages are for temporary storage
+                                                          of manure.
+
+
+                                              12
+5.4 Safety Factors
+
+Precautions must be taken with liquid manure storage to ensure the safety of people and
+livestock. A concrete manure storage should be designed in accordance with the latest
+editions of the National Building Code of Canada and the National Farm Building Code of
+Canada. Safety precautions must be taken to prevent accidental entry into the liquid
+manure storage. Some of the most important requirements and information from these
+codes and other sources are noted below:
+•   A permanent safety fence or wall at least 1.5m (5ft) high should be constructed
+    around open liquid storages without fixed covers. Often some liquid storage forms a
+    crust at the surface, providing a solid appearance which is dangerously unstable.
+•   In the case of covered concrete storages, access opening covers should be locked and
+    secured with a safety chain. Steel plates may be used, provided they weigh more than
+    23kgs (50 lbs) and require a hook to open. Covers should also have a chain attached
+    to prevent the cover from falling into the storage.
+•   Ladders shall not be installed in closed liquid manure tanks.
+•   Dangerous manure gases can be produced during the breakdown of solids in liquid
+    manure. This includes such toxic gases as:
+    – Hydrogen Sulfide (H2S) smells like rotten eggs, and is easy to detect at low
+      concentrations. However, at high concentrations, it paralyzes the sense of smell
+      and gives a person a false sense of security. It is heavier than air and it will
+      accumulate at the bottom of the manure tank.
+    – Ammonia (NH6) has a sharp pungent odour and irritates the eyes. As a rule, if eye
+      irritation occurs, the ventilation in the barn needs to be improved.
+    – Methane is the principal gas produced by manure. It is considerably lighter than
+      air so it will not accumulate in open tanks.
+    – Carbon Dioxide (C02) is colorless and odourless. It is heavier than air and like H2S
+      it will accumulate at the bottom of the manure tank. A victim will be affected by
+      H2S long before C02.
+
+These gases replace oxygen and cause suffocation. A gas trap between the barn and any
+connected long-term manure storage reduces risk of injury. For more information, consult
+The Canada Plan Service Fact Sheet M-8710, Manure Gas.
+•   Farm owners are required to have a written safety
+    procedure for entering a manure storage. Refer to the
+    Nova Scotia Occupational Health and Safety Act,
+    Occupational Safety General Regulation, Part 12 -
+    Confined Space Entry.
+•   All access points must have proper safety signs warning
+    of the noxious gas hazard.
+
+
+
+                                                              Safety Signs are Essential
+
+
+                                           13
+                      6. LAND APPLICATION OF MANURE
+
+Land application of manure on farmland should not be considered in isolation of a plan
+for managing all nutrients on the farm. Manure is a valuable source of organic matter as
+well as macro soil nutrients such as nitrogen (N), phosphorous (P), potassium (K), calcium
+(Ca), sulphur (S), and magnesium (Mg). It is also a source of micronutrients such as boron
+(B), copper (Cu), chlorine (Cl), nickel (Ni), cobalt (Co), iron (Fe), manganese (Mn), zinc
+(Zn), and molybdenum (Mo). The nutrient value of manure varies depending on the type
+of animal and its diet. To obtain maximum benefits for the soil and crop, manure
+application rates should be based on a manure analysis, on soil characteristics, and
+nutrient requirements of the crop to be grown.
+
+Nutrient management involves the balancing of available soil nutrients, nutrient inputs
+from manure, fertilizer, and crops to the amount of nutrients removed by the crop to be
+grown. Proper manure management requires the development of a written nutrient
+management plan based on soil analyses, manure analysis, spreader calibration and
+knowledge of crop inputs and requirements.
+
+Nutrient management planners will recommend changes in cropping practices, types and
+amounts of manure to be spread, and figure out a blend and amount of chemical fertilizer
+required. Substantial cost savings can occur if a farmer no longer needs phosphorous or
+potassium in his chemical fertilizer mix or gives a nutrient value to his manure. Nutrient
+management planners can also recommend the time of year when manure should be
+spread, so that it is of most benefit to the crop to be grown. A reduction in environmental
+risk can occur if manure is spread during the growing season and not in the fall. This is
+easier to accomplish if the farmer has a manure storage time in excess of seven months.
+
+The following management practices should be considered in consultation with a nutrient
+management plan specialist when using manure as a nutrient source or soil amendment.
+
+
+6.1 Regular Soil and Manure Testing
+
+The actual amount of manure applied to agricultural land should be determined by testing
+both soil and manure for nutrients available in each. For every new crop, it is advisable to
+perform a soil test. Soils should be tested every two to three years.
+
+Soil testing is the only reliable way to determine the available nutrient status of a field and
+specific fertilizer requirements of a crop. Manure spreading should be avoided on soils that
+have excessive phosphorous and potassium readings.
+
+Manure should be tested for nutrient value at least once every three years. Liquid manure
+should be sampled after the manure in the storage has been agitated, which creates a more
+homogeneous mixture.
+
+Loamy or clay soils have higher nutrient retention capacity and are less permeable.
+Therefore, higher rates of manure can be applied to these types of soil. Sandy or gravelly
+
+                                              14
+soils tend to have lower nutrient holding capacity and are more prone to leaching. Low
+rates of manure (20 per cent) should be applied to these soils to avoid groundwater
+contamination. However, these soils can support more frequent applications as long as
+maximum rates recommended by a nutrient management planner are not exceeded.
+
+6.2 Manure Application Practices
+
+•    Avoid spreading manure between December 1 and April 1.
+•    Avoid applying manure on frozen or snow covered ground. Manure applied under
+     these conditions provides little nutrient value and may contribute to surface water
+     contamination.
+•    Avoid application of manure on excessively wet
+     soils.
+•    Avoid spreading manure on areas of exposed
+     bedrock.
+•    Manure should only be applied on land with less
+     than 10 per cent slope. A greater degree of due
+     diligence is required to prevent run-off losses
+     when manure is spread on steeper slopes.
+•    All manure spreaders should be calibrated and the
+                                                          Manure spreaders should be calibrated and
+     spread pattern should be as uniform as possible.     the spread pattern should be as uniform
+•    Adhere to the minimum separation distances           as possible.
+     shown in Table 4.
+
+Table 4. Minimum Separation Distances for Spreading Manure
+        Water Sources                             Separation Distance1
+                          2
+      Dug or drilled wells                     Clay loam soil       30 m
+                                               Sand and gravel      60 m
+      Ditches                                                        3m
+      Brooks, rivers & lakes                                         5m
+1
+    These separation distances may be superseded in regulated areas, such as Protected Water Areas
+    designated under the Environment Act, or in municipal districts with applicable zoning by-laws.
+2
+    Surface water flow is to be directed away from wells by a berm located upslope of the well. All
+    wells in a pasture shall be fenced with a minimum 3m buffer surrounding the well.
+
+
+
+6.3 Land Base Required
+
+A Nutrient Management Plan (NMP) is the only accurate method of determining the
+minimum land base requirements for manure utilization. If a farm has a NMP then the
+conditions set out in Table 5 do not apply. If the field has excessive nutrients then new
+sites may have to be evaluated in the NMP so that manure can be utilized elsewhere.
+
+
+
+
+                                                   15
+A Livestock Unit is the number of animals or poultry whose manure production requires
+1 hectare (2.5 acres) of available farmland for manure application to ensure minimal risk of
+surface or groundwater pollution. An example calculation follows.
+
+Land Base Requirement Calculation
+Take the number of animals or poultry of each type on the farm.
+Divide by the livestock unit (LU) number in Table 5.
+Multiply by 1 (for hectares) or 2.5 (for acres).
+
+EXAMPLE:
+Dairy: 60 dairy cows and 50 heifers                   Poultry: 60,000 broiler barn capacity
+60 cows ÷ 1.5 dairy cows/LU = 40 LU                   60,000 chickens ÷ 1000 chickens/LU = 60 LU
+50 dairy heifers ÷ 2 dairy heifers/LU = 25 LU
+60 dairy cows will require:
+40 LU x 1 ha = 40 ha or (100 acres)                   60,000 chickens will require:
+50 dairy heifers require:                             60 LU x 1 ha = 60 ha or (150 acres)
+25 LU x 1 ha = 25 ha (62.5 acres)
+
+This calculation indicates that in total, a minimum of 125 ha (312.5 acres) of available
+farmland would be required to effectively use the dairy and poultry manure.
+
+A NMP will accurately determine the minimum land base requirements for this particular
+farm or alternatives for manure disposal, taking into account the soil analysis and other
+factors outlined above, as well as separation distances shown in Table 4 and other
+considerations listed in section 5.3.
+
+Table 5 Animals Required to Equal One Livestock Unit Requiring 1 ha (2.5 acres) of
+        Land for Manure Application
+         Livestock Type                                          Number of Animals Equivalent to
+                                                                      one Livestock Unit
+         Dairy Cow                                                            1.5
+         Dairy Heifers                                                          2
+         Beef Cow                                                               2
+         Beef Feeders 150-500 kgs.                                              4
+         Sheep                                                                 10
+         Sows Breeding/Gestation                                                5
+         Sows (Farrow to Finish includes all feeder pigs belonging to sow)      1
+         Sows (Farrow to Wean)                                                  4
+         Weaners                                                               50
+         Hogs (Feeders)                                                        10
+         Laying Hens                                                          500
+         Broiler Chickens - barn capacity                                    1000
+         Turkey Broilers (5 kg) - barn capacity                               300
+         Mink                                                                 200
+         Veal Calves                                                           25
+
+
+                                                     16
+                       7. MANURE ODOUR MANAGEMENT
+In Nova Scotia, manure odours account for 50 per cent of all environmental complaints
+related to agriculture. There are three common sources of odours: barn, storage and field
+application. Sensitivity to odour varies from person to person. As a consequence, it is
+extremely difficult to establish acceptable thresholds for odours.
+
+Odours originate from livestock manure as a result of a broad range of odour-producing
+compounds. Complaints most often occur because of hydrogen sulphide odours (a rotten
+egg smell) and ammonia (a sharp pungent odour). Most offensive odors are created by the
+anaerobic decay of manure.
+
+Periodic release of manure odours does happen, but measures can be taken to minimize
+the occurrence.
+
+7.1 Ventilation Systems
+
+Proper indoor air quality in the barn is a necessity to maintain the health and productivity
+of both the farm workers and the animals. Ventilation is required in livestock buildings to
+remove moisture, gasses, dust and excess heat produced by animals. Fresh air inlets are the
+most important part of the ventilation system since they control most of the distribution
+and mixing of air. If the inlet is not working properly, poor air distribution with uneven
+temperatures and drafts will occur. Cold, damp, foul smelling buildings are usually caused
+by: lack of insulation in walls and ceilings, absence of or incorrectly installed inlets, lack of
+a vapor barrier, fans that are not working properly, the barn is not filled to capacity or is
+too full, or lack of artificial heat. It is recommended that ventilation systems be designed
+by a qualified engineer.
+
+
+7.2 Roofs or Covers
+
+Some liquid manures do not develop a crust which will seal the surface and prevent
+anaerobic gases from escaping. These gasses produce odour. Roofs or covers can reduce
+odours by 90 per cent.
+
+
+7.3 Manure Handling and Spreading
+
+Spreading manure on land should be done when the crop condition is suitable for nutrient
+use and soil conditions are suitable to avoid run-off to surface waters. The best time to
+spread, to minimize odour problems, is on a sunny, windy day. However, the best time to
+spread to limit ammonia loss is on a humid day. It is preferable to have manure spread in
+the early fall instead of late fall as the manure is more valuable to a crop and there is less
+chance of compaction of the soil and run-off. Wherever feasible incorporate manure
+within 48 hours of land application. Manure that is incorporated can decrease ammonia
+losses by 50 per cent. Direct incorporation is not practical on untilled land. Toolbars on
+the back of spreaders decrease losses by 25 per cent.
+
+                                               17
+                  8. MANURE TRANSPORTATION GUIDELINES
+
+Farm vehicles, when operating on highways, are regulated by the Nova Scotia Motor
+Vehicle Act. While operating on a highway, the Act states, “every commercial motor vehicle
+or combination of motor vehicle and trailer shall have a body so constructed as to be securely
+attached to the vehicle and be strong enough to assure that the load will not shift or fall from the
+vehicle.” All vehicles transporting loosely packed bulk materials or liquid or semi-liquid
+materials shall be constructed in such a manner so as to prevent the contents from
+dropping, shifting, leaking or otherwise escaping from the vehicle. Avoid overloading
+manure spreaders.
+
+All farm tractors must display a slow moving emblem. A trailer or manure spreader being
+hauled by a farm tractor must display a slow moving triangle as well.
+
+Further information and recommendations regarding the hauling of manure is available in
+the pamphlet published by Agriculture and Agri-Food Canada referenced in Section 9.
+
+
+                                       9. REFERENCES
+     Canada Plan Service, Manure Gas, Fact Sheet M-8710, 1985
+     Nova Scotia Department of Agriculture and Marketing, Siting and Management of Hog
+     Farms in Nova Scotia, 2000
+     Nova Scotia Farm and Health and Safety Committee, Standards of Practice for Farms in
+     Nova Scotia, 2000
+     Nova Scotia Farm Practices Act, 2000
+     Agriculture and Agri-Food Canada, Transportation Guidelines for Nova Scotia Farmers,
+     1998
+     ASAE (American Society of Agricultural Engineers) Standards Guidelines, 2005
+     Nova Scotia Department of Agriculture and Fisheries, Integrated Fly Management Fact
+     Sheet for Livestock Farms, 2005
+     Nova Scotia Department of Agriculture and Marketing, Constructed Wetlands for the
+     Treatment of Agricultural Wastewater in Atlantic Canada, 1998
+
+
+
+
+                                                 18
+                                       10. Glossary
+
+anaerobic - biological breakdown of manure           permeable soils - sands and gravels
+without the presence of oxygen
+                                                     pollution - in relation to surface water or
+composting - a designed and managed                  groundwater, means the presence in the
+system to facilitate the process of aerobic          water of substances or contaminants that
+decomposition of organic matter by                   are foreign to or in excess of the natural
+biological action                                    constituents of the water, or that
+                                                     adversely affects the uses of the water
+ditch - an excavated channel for the
+purpose of draining water                            public building - a church, hospital,
+                                                     school, government or municipal
+earthen manure storage - a structure built
+                                                     building or a place such as a museum or
+primarily from soil, constructed by
+                                                     park, which is open daily for public
+excavating a hole in the ground with spoil
+                                                     access
+used to form dikes, and used to retain liquid
+and semi-solid livestock manure                      qualified engineer - a person who has all
+                                                     of the following qualifications:
+facility - barns and manure storage,
+including additions                                  (a) has education, training, knowledge
+                                                         and experience in agricultural systems
+highway -
+                                                     (b) is registered by the Association of
+(a) a public highway, street, lane, road, alley,
+                                                         Professional Engineers of Nova Scotia
+    park, beach, or place including bridges
+                                                         (APENS)
+    thereon, and
+                                                     (c) has insurance to cover liability
+(b) private property that is designed to be
+    and is accessible to the general public for      run-off - water which flows over the
+    operation of a motor vehicle                     surface of the land after a rainfall event or
+                                                     snow melt
+intermittent stream - a stream which is
+normally dry at least four months of the year        satellite storage - a liquid manure storage
+                                                     which is located away from the main
+lake, river, brook - a body of water that
+                                                     farm and close to fields where the liquid
+continuously has a flow of water and aquatic
+                                                     manure is to be spread
+life
+                                                     semi-solid manure - livestock manure
+liquid manure - livestock manure that
+                                                     that generally has a moisture content
+generally has a moisture content of over 95
+                                                     between 84 to 95 per cent
+per cent
+                                                     solid manure - livestock manure that has
+livestock - animals or poultry not kept
+                                                     a moisture content less than 84 per cent
+exclusively as pets, excluding bees
+                                                     and has varying amounts of bedding
+livestock facility - a combination of                material incorporated in it
+building housing livestock and required
+                                                     stockpiling - storing manure from a solid
+manure storages
+                                                     storage along the edge of a field where
+livestock units - the number of animals              the manure will eventually be spread
+whose manure production requires 1 ha (2.5
+                                                     well - a hole, drilled or dug into the
+acres) of available land for spreading to
+                                                     ground for the purpose of obtaining
+ensure minimal risk of surface or
+                                                     groundwater for consumption
+groundwater pollution
+
+
+
+                                                19
+

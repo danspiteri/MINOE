@@ -1,0 +1,1205 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+    Environmental                                                         Règlement sur les
+ Emergency Regulations                                                         urgences
+                                                                          environnementales
+
+                     SOR/2003-307                                                      DORS/2003-307
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published            31. (1) Every copy of a consolidated statute or             31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies       (3) In the event of an inconsistency between a             (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                                Enregistrement
+SOR/2003-307 August 20, 2003                                DORS/2003-307 Le 20 août 2003
+CANADIAN ENVIRONMENTAL PROTECTION ACT,                      LOI CANADIENNE SUR LA PROTECTION DE
+1999                                                        L’ENVIRONNEMENT (1999)
+
+Environmental Emergency Regulations                         Règlement sur les urgences environnementales
+
+P.C. 2003-1293  August 20, 2003                             C.P. 2003-1293  Le 20 août 2003
+
+   Whereas, pursuant to subsection 332(1) of the Cana-         Attendu que, conformément au paragraphe 332(1) de
+dian Environmental Protection Act, 1999a, the Minister      la Loi canadienne sur la protection de l’environnement
+of the Environment published in the Canada Gazette,         (1999)a, le ministre de l’Environnement a fait publier
+Part I, on August 10, 2002, a copy of the proposed Envi-    dans la Gazette du Canada Partie I, le 10 août 2002, le
+ronmental Emergency Regulations, substantially in the       projet de règlement intitulé Règlement sur les urgences
+form set out in the annexed Regulations, and persons        environnementales, conforme en substance au texte ci-
+were given an opportunity to file comments with respect     après, et que les intéressés ont ainsi eu la possibilité de
+to the proposed Regulations or to file a notice of objec-   présenter leurs observations à cet égard ou un avis d’op-
+tion requesting that a board of review be established and   position motivé demandant la constitution d’une com-
+stating the reasons for the objection;                      mission de révision;
+   And whereas, pursuant to subsection 200(1) of that          Attendu que, conformément au paragraphe 200(1) de
+Act, the National Advisory Committee has been given         cette loi, le Comité consultatif national s’est vu accorder
+an opportunity to provide its advice under section 6 of     la possibilité de formuler ses conseils dans le cadre de
+that Act;                                                   l’article 6 de celle-ci,
+  Therefore, Her Excellency the Governor General in            À ces causes, sur recommandation du ministre de
+Council, on the recommendation of the Minister of the       l’Environnement et en vertu du paragraphe 200(1) de la
+Environment, pursuant to subsection 200(1) of the Cana-     Loi canadienne sur la protection de l’environnement
+dian Environmental Protection Act, 1999a, hereby makes      (1999)a, Son Excellence la Gouverneure générale en
+the annexed Environmental Emergency Regulations.            conseil prend le Règlement sur les urgences environne-
+                                                            mentales, ci-après.
+
+
+
+
+a                                                            a 
+     S.C. 1999, c. 33                                             L.C. 1999, ch. 33
+ENVIRONMENTAL EMERGENCY REGULATIONS                              RÈGLEMENT    SUR     LES                    URGENCES
+                                                                    ENVIRONNEMENTALES
+
+                  INTERPRETATION                                                      DÉFINITIONS
+   1. The following definitions apply in these Regula-             1. Les définitions qui suivent s’appliquent au présent
+tions.                                                           règlement.
+“Act” means the Canadian Environmental Protection                « Loi » La Loi canadienne sur la protection de l’environ-
+Act, 1999. (Loi)                                                 nement (1999). (Act)
+“CAS registry number” means the identification number            « numéro d’enregistrement CAS » Le numéro d’identifi-
+assigned to a substance by the Chemical Abstracts Ser-           cation qui est attribué à une substance par la Chemical
+vice Division of the American Chemical Society. (numé-           Abstract Service Division de l’American Chemical So-
+ro d’enregistrement CAS)                                         ciety. (CAS registry number)
+“environmental emergency plan” means a plan respect-             « plan d’urgence environnementale » Plan concernant la
+ing the prevention of, preparedness for, response to and         prévention des urgences environnementales à l’égard
+recovery from an environmental emergency in respect of           d’une substance, les dispositifs d’alerte et de réparation
+a substance. (plan d’urgence environnementale)                   ainsi que les mesures à prendre pour remédier à ces ur-
+                                                                 gences et réparer les dommages en découlant. (environ-
+                                                                 mental emergency plan)
+
+               LIST OF SUBSTANCES                                              LISTE DES SUBSTANCES
+  2. For the purposes of the definition “substance” in              2. La liste des substances figurant à la colonne 1 de
+section 193 of the Act, the list of substances consists of       l’annexe 1 dont la concentration est égale ou supérieure
+the substances set out in column 1 of Schedule 1, having         à celle prévue à la colonne 2 est établie pour l’applica-
+a concentration equal to or greater than the applicable          tion de la définition de « substance » l’article 193 de la
+concentration set out in column 2.                               Loi.
+
+           IDENTIFICATION OF PLACES                                             REPÉRAGE DES LIEUX
+   3. (1) Any person who owns or has the charge, man-               3. (1) La personne qui est propriétaire d’une sub-
+agement or control of a substance set out in column 1 of         stance figurant à la colonne 1 de l’annexe 1 — ou a toute
+Schedule 1 that is located at a place in Canada, must            autorité sur elle — présente au ministre un avis compor-
+submit to the Minister a notice containing the informa-          tant les renseignements prévus à l’annexe 2, pour chaque
+tion requested in Schedule 2 for each such place in either       lieu au Canada où cette substance se trouve, dans l’un ou
+of the following circumstances:                                  l’autre des cas suivants :
+  (a) the substance is in a quantity that at any time is           a) à un moment quelconque, la quantité de la sub-
+  equal to or exceeds the quantity set out in column 3 of          stance atteint ou dépasse la quantité prévue à la co-
+  Schedule 1 for that substance; or                                lonne 3 de l’annexe 1 pour cette substance;
+  (b) the substance is stored in a container that has a            b) la substance est stockée dans un réservoir ayant
+  maximum capacity equal to or exceeding the quantity              une capacité maximale égale ou supérieure à la quan-
+  set out in column 3 of Schedule 1 for that substance.            tité prévue à la colonne 3 de l’annexe 1 pour cette sub-
+                                                                   stance.
+  (2) In determining quantity for the purposes of sub-             (2) La quantité visée au paragraphe (1) est déterminée
+section (1), the person must include all quantities of the       compte tenu de la quantité totale de la substance qui se
+
+
+
+                                                             1
+                                          SOR/2003-307 — October 6, 2010
+
+
+
+substance that are located at the place, whether in stor-         trouve dans le lieu en cause, que celle-ci y soit stockée
+age or in use, except the following:                              ou qu’elle y soit utilisée, mais abstraction faite de ce qui
+  (a) quantities of the substance that are temporarily            suit :
+  stored for 72 hours or less in a container not normally           a) la quantité de la substance qui est stockée tempo-
+  located at the place, if the person keeps evidence dur-           rairement pour une période d’au plus soixante-douze
+  ing the temporary storage period of the date the sub-             heures dans un réservoir qui n’est pas installé en per-
+  stance was received;                                              manence dans le lieu pourvu qu’une preuve de la date
+  (b) quantities of the substance in a container that has           de réception de la substance soit conservée durant
+  a maximum capacity of 30 kg or less;                              cette période;
+
+  (c) quantities of the substance when it is a component            b) la quantité de la substance qui est entreposée dans
+  of another substance set out in column 1 of Schedule              un réservoir ayant une capacité maximale d’au plus 30
+  1;                                                                kg;
+
+  (d) quantities of the substance when it is a component            c) la quantité de la substance qui est l’un des consti-
+  of natural gas, except if the natural gas is in liquefied         tuants d’une autre substance prévue à la colonne 1 de
+  form;                                                             l’annexe 1;
+
+  (e) quantities of the substance in a fuel tank that sup-          d) la quantité de la substance qui est l’un des consti-
+  plies the engine of a conveyance that is used for trans-          tuants du gaz naturel, sauf le gaz naturel liquéfié;
+  portation;                                                        e) la quantité de la substance qui est dans le réservoir
+  (f) quantities of a substance that are the object of an           qui sert à alimenter le moteur d’un moyen de trans-
+  activity that is subject to the Transportation of Dan-            port;
+  gerous Goods Act, during the performance of that ac-              f) la quantité de la substance qui fait l’objet d’une ac-
+  tivity;                                                           tivité assujettie à la Loi sur le transport des marchan-
+  (g) quantities of a substance set out in column 1 of              dises dangereuses, durant l’accomplissement de cette
+  Part 1 of Schedule 1 that is a component in a mixture,            activité;
+  other than a mixture that is a substance set out in col-          g) la quantité de la substance qui figure à la colonne 1
+  umn 1 of Schedule 1, and the mixture has a flash point            de la partie 1 de l’annexe 1 et qui fait partie d’un mé-
+  equal to or greater than 23°C or a boiling point equal            lange ne figurant pas à cette annexe dont le point
+  to or greater than 35°C; and                                      d’éclair est égal ou supérieur à 23 °C ou dont le point
+  (h) quantities of a substance set out in column 1 of              d’ébullition est égal ou supérieur à 35 °C;
+  Part 2 of Schedule 1 when the substance is a gas or a             h) la quantité de la substance qui figure à la colonne 1
+  liquid and in a mixture and the partial pressure of the           de la partie 2 de l’annexe 1, si la substance, à l’état li-
+  substance is equal to or less than 10 millimetres of              quide ou gazeux, fait partie d’un mélange et si elle a
+  mercury.                                                          une pression partielle égale ou inférieure à 10 milli-
+                                                                    mètres de mercure.
+   (3) The person must submit the notice within 90 days              (3) La personne présente l’avis dans les quatre-vingt-
+after the later of                                                dix jours suivant celle des dates ci-après qui est posté-
+  (a) the day on which these Regulations come into                rieure à l’autre :
+  force, and                                                        a) la date de l’entrée en vigueur du présent règlement;
+
+
+
+
+                                                              2
+                                          DORS/2003-307 — 6 octobre 2010
+
+
+
+  (b) the day on which either of the circumstances un-              b) la date de la survenance de l’un ou l’autre des cas
+  der paragraph (1)(a) or (b) first occurs.                         visés aux alinéas (1)a) et b).
+   (4) The person must resubmit the notice referred to in           (4) La personne présente à nouveau l’avis visé au pa-
+subsection (1) within 60 days after the occurrence of any         ragraphe (1) dans les soixante jours suivant la surve-
+of the following changes:                                         nance des changements suivants :
+  (a) any change to the information provided to the                 a) tout changement dans les renseignements fournis
+  Minister under section 1 or 2 of Schedule 2; or                   au ministre aux termes des articles 1 ou 2 de l’annexe
+  (b) any increase of 10% or more in the maximum ex-                2;
+  pected quantity of a substance reported under para-               b) toute augmentation de 10 % ou plus de la quantité
+  graph 3(d) of Schedule 2.                                         maximale prévue qui est déclarée au titre de l’alinéa
+                                                                    3d) de l’annexe 2.
+   (5) The person must notify the Minister within 90                 (5) Lorsque, pendant douze mois consécutifs, la
+days after the quantity of the substance located at the           quantité de la substance se trouvant dans le lieu en cause
+place or the maximum capacity of the largest container            reste inférieure à la quantité prévue à la colonne 3 de
+in which the substance is stored, has for 12 consecutive          l’annexe 1 ou le plus grand réservoir dans lequel la sub-
+months been less than the quantity set out for the sub-           stance est stockée a une capacité maximale inférieure à
+stance in column 3 of Schedule 1.                                 cette quantité, la personne en avise le ministre dans les
+                                                                  quatre-vingt-dix jours suivant la fin de cette période.
+   (6) At the same time as a person submits information             (6) La personne qui est tenue de présenter des rensei-
+required under subsection (1), (4) or (5), the person shall       gnements aux termes des paragraphes (1), (4) ou (5) doit,
+submit to the Minister, in the form set out in Schedule 3,        au même moment, présenter au ministre une attestation,
+a certification that the information contained in the no-         en la forme prévue à l’annexe 3, signée par elle ou par
+tice is accurate and complete, signed by the person or a          son représentant, portant que les renseignements figurant
+duly authorized representative.                                   dans l’avis sont complets et exacts.
+
+      ENVIRONMENTAL EMERGENCY PLAN                                    PLAN D’URGENCE ENVIRONNEMENTALE
+   4. (1) Subject to section 7, a person required to sub-            4. (1) Sous réserve de l’article 7, la personne qui est
+mit a notice to the Minister under subsection 3(1) must           tenue de présenter au ministre un avis aux termes du pa-
+prepare an environmental emergency plan with respect              ragraphe 3(1) doit élaborer, à l’égard de la substance vi-
+to the substance referred to in that subsection in the fol-       sée à ce paragraphe, un plan d’urgence environnemen-
+lowing circumstances:                                             tale dans les situations suivantes :
+  (a) if the substance is set out in column 1 of Part 1 of          a) la substance à la fois figure à la colonne 1 de la
+  Schedule 1 and is not part of a mixture, and                      partie 1 de l’annexe 1 et ne fait pas partie d’un mé-
+     (i) the maximum expected quantity of the sub-                  lange, si les conditions suivantes sont réunies :
+     stance that was reported under paragraph 3(d) of                  (i) la quantité maximale prévue qui est déclarée
+     Schedule 2 is equal to or exceeds the quantity set                pour cette substance au titre de l’alinéa 3d) de l’an-
+     out in column 3 of Schedule 1 for that substance,                 nexe 2 est égale ou supérieure à la quantité prévue à
+     and                                                               la colonne 3 de l’annexe 1 pour cette substance,
+                                                                       (ii) la substance est stockée dans un réservoir ayant
+                                                                       une capacité maximale égale ou supérieure à la
+
+
+
+
+                                                              3
+                                          SOR/2003-307 — October 6, 2010
+
+
+
+    (ii) the substance is in a storage container that has a           quantité prévue à la colonne 3 de l’annexe 1 pour
+    maximum capacity equal to or exceeding the quan-                  cette substance;
+    tity set out in column 3 of Schedule 1;                         b) la substance à la fois figure à la colonne 1 de la
+  (b) if the substance is set out in column 1 of Part 1 of          partie 1 de l’annexe 1 et fait partie d’un mélange qui
+  Schedule 1 and is a component in a mixture, other                 ne figure pas à l’annexe 1, si les conditions suivantes
+  than a mixture that is a substance set out in column 1            sont réunies :
+  of Schedule 1, and                                                  (i) la quantité du mélange est égale ou supérieure à
+    (i) the mixture is in a quantity that is equal to or              4,5 tonnes métriques,
+    exceeds 4.5 tonnes, and                                           (ii) le mélange est stocké dans un réservoir ayant
+    (ii) the mixture is in a storage container that has a             une capacité maximale égale ou supérieure à 4,5
+    maximum capacity equal to or exceeding 4.5                        tonnes métriques;
+    tonnes; and                                                     c) la substance figure à la colonne 1 de la partie 2 de
+  (c) if the substance is set out in column 1 of Part 2 of          l’annexe 1, si les conditions suivantes sont réunies :
+  Schedule 1, and                                                     (i) la quantité maximale prévue qui est déclarée
+    (i) the maximum expected quantity of the sub-                     pour cette substance au titre de l’alinéa 3d) de l’an-
+    stance that was reported under paragraph 3(d) of                  nexe 2 est égale ou supérieure à la quantité prévue à
+    Schedule 2 is equal to or exceeds the quantity set                la colonne 3 de l’annexe 1 pour cette substance,
+    out in column 3 of Schedule 1 for that substance,                 (ii) la substance est stockée dans un réservoir ayant
+    and                                                               une capacité maximale égale ou supérieure à la
+    (ii) the substance is in a storage container that has a           quantité prévue à la colonne 3 de l’annexe 1 pour
+    maximum capacity equal to or exceeding the quan-                  cette substance.
+    tity set out in column 3 of Schedule 1 for that sub-
+    stance.
+   (2) In preparing an environmental emergency plan                  (2) La personne qui élabore un plan d’urgence envi-
+with respect to a substance, the person must consider the         ronnementale à l’égard d’une substance tient compte des
+following factors:                                                facteurs suivants :
+  (a) the properties and characteristics of the substance           a) les propriétés et particularités de la substance ainsi
+  and the maximum expected quantity of the substance                que la quantité maximale prévue dans le lieu en cause
+  at the place at any time during a calendar year;                  à un moment quelconque au cours de l’année civile;
+  (b) the commercial, manufacturing, processing or oth-             b) les activités commerciales, de fabrication, de trans-
+  er activity in relation to which the plan is to be pre-           formation ou autres visées par le plan;
+  pared;                                                            c) les particularités du lieu où se trouve la substance
+  (c) the characteristics of the place where the sub-               et de ses environs qui sont susceptibles d’accroître les
+  stance is located and of the surrounding area that may            risques d’effets nuisibles sur l’environnement ou les
+  increase the risk of harm to the environment or of dan-           dangers pour la vie ou la santé humaines;
+  ger to human life or health; and                                  d) les conséquences possibles d’une urgence environ-
+  (d) the potential consequences from an environmental              nementale sur l’environnement ou la vie ou la santé
+  emergency on the environment and on human life or                 humaines.
+  health.
+
+
+
+
+                                                              4
+                                         DORS/2003-307 — 6 octobre 2010
+
+
+
+  (3) The environmental emergency plan must include:               (3) Le plan d’urgence environnementale comporte les
+  (a) a description of the factors considered under sub-         renseignements suivants :
+  section (2);                                                     a) le détail des facteurs pris en compte au titre du pa-
+  (b) the identification of any environmental emergency            ragraphe (2);
+  that can reasonably be expected to occur at the place            b) la mention des types d’urgences environnemen-
+  and that would likely cause harm to the environment              tales qui sont susceptibles de se produire dans le lieu
+  or constitute a danger to human life or health, and              et d’avoir des effets nuisibles sur l’environnement ou
+  identification of the harm or danger;                            de constituer un danger pour la vie ou la santé hu-
+  (c) a description of the measures to be used to pre-             maines, ainsi que la mention de ces effets et des dan-
+  vent, prepare for, respond to and recover from any en-           gers;
+  vironmental emergency identified under paragraph                 c) le détail des mesures à prendre pour prévenir les
+  (b);                                                             urgences environnementales déclarées au titre de l’ali-
+  (d) a list of the individuals who are to carry into ef-          néa b), les dispositifs d’alerte et de réparation ainsi
+  fect the plan in the event of an environmental emer-             que les mesures pour remédier à ces urgences et répa-
+  gency and a description of their roles and responsibili-         rer les dommages qui en découlent;
+  ties;                                                            d) la liste des personnes tenues d’exécuter le plan en
+  (e) the identification of the training required for each         cas d’urgence environnementale ainsi qu’une descrip-
+  of the individuals listed under paragraph (d);                   tion de leurs rôles et de leurs responsabilités;
+
+  (f) a list of the emergency response equipment includ-           e) l’indication de la formation à donner aux personnes
+  ed as part of the environmental emergency plan, and              visées à l’alinéa d);
+  the equipment’s location; and                                    f) la liste de l’équipement pour intervention d’urgence
+  (g) the measures to be taken to notify members of the            prévu dans le plan et l’emplacement de cet équipe-
+  public who may be adversely affected by an environ-              ment;
+  mental emergency.                                                g) les mesures prévues pour avertir les membres du
+                                                                   public auxquels une urgence environnementale pour-
+                                                                   rait causer un préjudice.
+  (4) For each place, the person must submit to the                 (4) La personne présente au ministre, pour chaque
+Minister a report containing the information requested in        lieu en cause, un rapport qui comporte les renseigne-
+Schedule 4 within six months after the later of                  ments prévus à l’annexe 4 dans les six mois suivant celle
+  (a) the day on which these Regulations come into               des dates suivantes qui est postérieure à l’autre :
+  force, and                                                       a) la date de l’entrée en vigueur du présent règlement;
+  (b) the day on which the person is first required to             b) la date où la personne est tenue d’élaborer un plan
+  prepare an environmental emergency plan under sub-               d’urgence environnementale en application du para-
+  section (1).                                                     graphe (1).
+   (5) At the same time as a person submits the report              (5) La personne qui est tenue de présenter un rapport
+under subsection (4), the person shall submit to the Min-        aux termes du paragraphe (4) doit, au même moment,
+ister, in the form set out in Schedule 3, a certification        présenter au ministre une attestation, en la forme prévue
+that the information contained in the report is accurate         à l’annexe 3, signée par elle ou par son représentant, por-
+
+
+
+
+                                                             5
+                                         SOR/2003-307 — October 6, 2010
+
+
+
+and complete, signed by the person or a duly authorized          tant que les renseignements figurant dans le rapport sont
+representative.                                                  complets et exacts.
+   5. (1) A person referred to in subsection 4(1) must              5. (1) La personne visée au paragraphe 4(1) est tenue
+implement and test the environmental emergency plan              d’exécuter et de mettre à l’essai le plan d’urgence envi-
+referred to in section 4 or 7 and submit a notice to the         ronnementale visé aux articles 4 ou 7 et de présenter au
+Minister with the information requested in Schedule 5            ministre un avis comportant les renseignements prévus à
+within one year after the later of                               l’annexe 5 dans l’année suivant celle des dates ci-après
+  (a) the day on which these Regulations come into               qui est postérieure à l’autre :
+  force, and                                                       a) la date de l’entrée en vigueur du présent règlement;
+  (b) the day on which the person is first required to             b) la date où la personne est tenue d’élaborer un plan
+  prepare an environmental emergency plan under sub-               d’urgence environnementale en application du para-
+  section 4(1).                                                    graphe 4(1).
+   (2) At the same time as the person submits the notice            (2) La personne qui est tenue de présenter un avis aux
+under subsection (1), the person shall submit to the Min-        termes du paragraphe (1), doit, au même moment, pré-
+ister, in the form set out in Schedule 3, a certification        senter au ministre une attestation, en la forme prévue à
+that the information contained in the report is accurate         l’annexe 3, signée par elle ou par son représentant, por-
+and complete, signed by the person or a duly authorized          tant que les renseignements figurant dans l’avis sont
+representative.                                                  complets et exacts.
+   6. (1) The person referred to in subsection 5(1) must            6. (1) La personne visée au paragraphe 5(1) tient à
+update and test the environmental emergency plan at              jour et met à l’essai le plan d’urgence environnementale
+least once a year to ensure that the plan continues to           au moins une fois par année afin de veiller à ce qu’il sa-
+meet the requirements of subsections 4(2) and (3).               tisfasse aux exigences des paragraphes 4(2) et (3).
+  (2) The person must keep a copy of the plan readily               (2) Elle conserve une copie du plan à un endroit faci-
+available for the individuals who are to carry into effect       lement accessible aux personnes tenues d’exécuter le
+the plan in the event of an environmental emergency              plan en cas d’urgence environnementale et au lieu où
+and, if the place where one or more substances are locat-        une ou plusieurs substances sont situées si ce lieu est un
+ed is a place of work, a copy must be available at that          lieu de travail.
+place.
+   (3) The person must keep with the plan, a record of              (3) Elle conserve, avec le plan, un registre des résul-
+the results from the annual updates and tests for a period       tats des révisions et mises à l’essai annuelles pendant au
+of not less than five years beginning on the day the             moins cinq ans à compter de la date de leur établisse-
+record is made.                                                  ment.
+   7. (1) If a person, required to prepare a plan under             7. (1) La personne tenue d’élaborer un plan d’ur-
+subsection 4(1), has prepared an environmental emer-             gence environnementale en application du paragraphe
+gency plan with respect to one or more of the substances         4(1) qui, à l’égard d’une ou de plusieurs substances vi-
+set out in column 1 of Schedule 1 on a voluntary basis or        sées à la colonne 1 de l’annexe 1, a déjà élaboré un tel
+for another government or under another Act of Parlia-           plan à titre volontaire, à la demande d’un autre gouver-
+ment and the plan meets the requirements of subsections          nement ou sous le régime d’une autre loi fédérale, peut
+4(2) and (3), the person may use that plan for the purpos-       utiliser ce plan, s’il répond aux exigences des para-
+es of meeting those requirements.
+
+
+
+
+                                                             6
+                                          DORS/2003-307 — 6 octobre 2010
+
+
+
+                                                                  graphes 4(2) et (3), pour s’acquitter des obligations pré-
+                                                                  vues à ces paragraphes.
+   (2) If a person has a plan that is described in subsec-           (2) Si le plan décrit au paragraphe (1) ne satisfait pas
+tion (1) except that the plan does not meet all of the re-        à toutes les exigences des paragraphes 4(2) et (3), la per-
+quirements of subsections 4(2) and (3), the person may            sonne peut l’utiliser mais elle est tenue de le modifier de
+use the plan if they amend the plan so that it meets all of       façon qu’il y satisfasse.
+those requirements.
+  8. The notices and reports referred to in subsections              8. Les avis et rapports visés aux paragraphes 3(1), (4)
+3(1), (4) and (5), 4(4) and 5(1) must be submitted in             et (5), 4(4) et 5(1) sont présentés par écrit ou sous forme
+writing, or in electronic format, if any, that is provided        électronique selon le modèle fourni par le ministère de
+by the Department of the Environment.                             l’Environnement, le cas échéant.
+
+         ENVIRONMENTAL EMERGENCIES                                        URGENCES ENVIRONNEMENTALES
+   9. When an environmental emergency occurs in re-                  9. En cas d’urgence environnementale mettant en
+spect of a substance set out in column 1 of Schedule 1,           cause une substance figurant à la colonne 1 de l’annexe
+for the purpose of paragraph 201(1)(a) of the Act, the            1, pour l’application de l’alinéa 201(1)a) de la Loi, l’ur-
+persons designated to be notified are the persons provid-         gence est signalée au personnel du service téléphonique
+ing 24-hour emergency telephone service provided by               d’urgence de vingt-quatre heures fourni par les secteurs
+the office set out in column 2 of Schedule 6, and the per-        énumérés à la colonne 2 de l’annexe 6 et le rapport écrit
+sons designated to be sent the written report are the per-        sur l’urgence est fourni aux titulaires des postes énumé-
+sons occupying the positions set out in column 3 of               rés à la colonne 3 de cette annexe, selon la province
+Schedule 6, for the province, set out in column 1 of              mentionnée à la colonne 1 où a lieu l’urgence environne-
+Schedule 6, where the environmental emergency occurs.             mentale.
+
+                COMING INTO FORCE                                                 ENTRÉE EN VIGUEUR
+  10. These Regulations come into force 90 days after               10. Le présent règlement entre en vigueur quatre-
+the day on which they are registered.                             vingt-dix jours suivant la date de son enregistrement.
+
+
+
+
+                                                              7
+                                                SOR/2003-307 — October 6, 2010
+
+
+
+                                                             SCHEDULE 1
+(Section 2, subsection 3(1), paragraph 3(3)(b), subsections 3(5) and 4(1), paragraphs 4(4)(b) and 5(1)(b), subsection 7(1) and section 9)
+
+                                                          LIST OF SUBSTANCES
+                                                                  PART 1
+
+                                                                                                                Column
+                            Column 1                                                             Column 2       3
+                                                                                                              Minimu
+                                                                                                              m
+            CAS Registry                                                                         Concentratio Quantity
+            Number       Name of Substance                                     UN Number         n            (tonnes)
+            60-29-7         ethyl ether (diethyl ether)                        1155              1%             4.50
+            71-43-2         benzene                                            1114              1%             10.00
+            74-82-8         methane                                            1971 and 1972     1%             4.50
+            74-84-0         ethane                                             1035 and 1961     1%             4.50
+            74-85-1         ethylene                                           1038 and 1962     1%             4.50
+            74-86-2         acetylene                                          1001              1%             4.50
+            74-89-5         methylamine                                        1061              1%             4.50
+            74-98-6         propane                                            1978              1%             4.50
+            74-99-7         methylacetylene (propyne)                          1060              1%             4.50
+            75-00-3         ethyl chloride                                     1037              1%             4.50
+            75-01-4         vinyl chloride                                     1086              1%             4.50
+            75-02-5         vinyl fluoride                                     1860              1%             4.50
+            75-04-7         ethylamine                                         1036 and 2270     1%             4.50
+            75-07-0         acetaldehyde                                       1089              1%             4.50
+            75-08-1         ethyl mercaptan                                    2363              1%             4.50
+            75-18-3         dimethyl sulphide                                  1164              1%             150.00
+            75-19-4         cyclopropane                                       1027              1%             4.50
+            75-28-5         isobutane                                          1969              1%             4.50
+            75-29-6         2-chloropropane (isopropyl chloride)               2356              1%             4.50
+            75-31-0         isopropylamine                                     1221              1%             4.50
+            75-35-4         vinylidene chloride                                1303              1%             4.50
+            75-37-6         difluoroethane (1,1-difluoroethane)                1030              1%             4.50
+            75-38-7         1,1-difluoroethylene (vinylidene fluoride)         1959              1%             4.50
+            75-50-3         trimethylamine                                     1083 and 1297     1%             4.50
+            75-64-9         tert-butylamine (2-amino-2-methylpropane)          1125              1%             150.00
+            75-76-3         tetramethylsilane                                  2749              1%             4.50
+            78-78-4         isopentane (2-methylbutane)                        1265              1%             4.50
+            78-79-5         isoprene                                           1218              1%             4.50
+            79-38-9         trifluorochloroethylene (chlorotrifluoroethylene) 1082               1%             4.50
+            100-41-4        ethylbenzene                                       1175              1%             7000.00
+            106-97-8        butane                                             1011              1%             4.50
+            106-98-9        1-butene (alpha-butylene)                          1012              1%             4.50
+            106-99-0        1,3-butadiene                                      1010              1%             4.50
+
+
+
+
+                                                                    8
+                                  DORS/2003-307 — 6 octobre 2010
+
+
+
+                                                                                      Column
+             Column 1                                                    Column 2     3
+                                                                                      Minimu
+                                                                                      m
+CAS Registry                                                             Concentratio Quantity
+Number       Name of Substance                           UN Number       n            (tonnes)
+107-00-6     ethylacetylene                              2452            1%           4.50
+107-01-7     2-butene                                    1055            1%           4.50
+107-25-5     vinyl methyl ether                          1087            1%           4.50
+107-31-3     methyl formate                              1243            1%           4.50
+108-88-3     toluene                                     1294            1%           2500.00
+109-66-0     n-pentane (pentane)                         1265            1%           4.50
+109-67-1     1-pentene                                   1108            1%           4.50
+109-92-2     vinyl ethyl ether (ethyl vinyl ether)       1302            1%           4.50
+109-95-5     ethyl nitrite                               1194            1%           4.50
+110-82-7     cyclohexane                                 1145            1%           550.00
+115-07-1     propylene                                   1077            1%           4.50
+115-10-6     dimethyl ether (methyl ether)               1033            1%           4.50
+115-11-7     isobutylene (2-methylpropene)               1055            1%           4.50
+116-14-3     tetrafluoroethylene                         1081            1%           4.50
+124-40-3     dimethylamine                               1032 and 1160   1%           4.50
+460-19-5     cyanogen                                    1026            1%           4.50
+463-49-0     propadiene                                  2200            1%           4.50
+463-58-1     carbonyl sulphide (carbon oxysulfide)       2204            1%           4.50
+463-82-1     2,2-dimethylpropane                         2044            1%           4.50
+504-60-9     1,3-pentadiene                              NA              1%           4.50
+557-98-2     2-chloropropene (2-chloropropylene)         2456            1%           4.50
+563-45-1     3-methyl-1-butene                           2561            1%           4.50
+563-46-2     2-methyl-1-butene                           2459            1%           4.50
+590-18-1     cis-2-butene (2-butene-cis)                 1055            1%           4.50
+590-21-6     1-chloropropene (1-chloropropylene)         NA              1%           4.50
+598-73-2     bromotrifluoroethylene                      2419            1%           4.50
+624-64-6     trans-2-butene (2-butene-trans)             1055            1%           4.50
+627-20-3     cis-2-pentene (beta-cis-amylene)            NA              1%           4.50
+646-04-8     trans-2-pentene (trans-beta-amylene)        NA              1%           4.50
+689-97-4     1-buten-3-yne (vinyl acetylene)             NA              1%           4.50
+1330-20-7    xylenes                                     1307            1%           8000.00
+1333-74-0    hydrogen                                    1049            1%           4.50
+4109-96-0    dichlorosilane                              2189            1%           4.50
+7722-84-1    hydrogen peroxide                           2015            52%          3.40
+7775-09-9    sodium chlorate                             1495            10%          10.00
+7790-98-9    ammonium perchlorate                        1442            1%           3.40
+7791-21-1    chlorine monoxide (dichlorine oxide)        NA              1%           4.50
+7803-62-5    silane                                      2203            1%           4.50
+
+
+
+
+                                                     9
+                                 SOR/2003-307 — October 6, 2010
+
+
+
+                                                                                           Column
+             Column 1                                                         Column 2     3
+                                                                                           Minimu
+                                                                                           m
+CAS Registry                                                                  Concentratio Quantity
+Number       Name of Substance                               UN Number        n            (tonnes)
+8006-14-2    liquefied natural gas                           1972             1%           4.50
+8030-30-6    naphtha                                         1268             1%           50.00
+10025-78-2   trichlorosilane                                 1295             1%           4.50
+25167-67-3   butylene (butene)                               1012             1%           4.50
+86290-81-5   gasoline (motor fuel)                           1203             1%           150.00
+
+                                                  PART 2
+
+                                                                                           Column
+             Column 1                                                         Column 2     3
+                                                                                           Minimu
+                                                                                           m
+CAS Registry                                                                  Concentratio Quantity
+Number       Name of Substance                               UN Number        n            (tonnes)
+50-00-0      formaldehyde, solution                          1198 and 2209    10%          6.80
+57-14-7      1,1-dimethylhydrazine                           1163             10%          6.80
+60-34-4      methylhydrazine (monomethyl hydrazine)          1244             10%          6.80
+67-66-3      chloroform (trichloromethane)                   1888             10%          9.10
+74-83-9      methyl bromide                                  1062             10%          2.27
+74-87-3      methyl chloride                                 1063             10%          4.50
+74-88-4      methyl iodide                                   2644             10%          4.50
+74-90-8      hydrogen cyanide (hydrocyanic acid)             1051, 1613 and   10%          1.13
+                                                             1614
+74-93-1      methyl mercaptan                                1064             10%          4.50
+75-15-0      carbon disulphide                               1131             10%          9.10
+75-21-8      ethylene oxide                                  1040             10%          4.50
+75-44-5      phosgene                                        1076             1%           0.22
+75-55-8      propyleneimine                                  1921             10%          4.50
+75-56-9      propylene oxide                                 1280             10%          4.50
+75-74-1      tetramethyl lead                                NA               10%          4.50
+75-77-4      trimethylchlorosilane (chlorotrimethylsilane)   1298             10%          4.50
+75-78-5      dimethyldichlorosilane (dichlorodimethylsilane) 1162             10%          2.27
+75-79-6      methyltrichlorosilane                           1250             10%          2.27
+76-06-2      chloropicrin (trichloronitromethane)            1580             10%          2.27
+78-00-2      tetraethyl lead                                 1649             10%          2.27
+78-82-0      isobutyronitrile                                2284             10%          9.10
+79-21-0      peroxyacetic acid (peracetic acid)              3107             10%          4.50
+79-22-1      methyl chloroformate                            1238             10%          2.27
+91-08-7      toluene-2,6-diisocyanate                        2078             10%          4.50
+106-89-8     epichlorohydrin                                 2023             10%          9.10
+
+
+
+
+                                                    10
+                                 DORS/2003-307 — 6 octobre 2010
+
+
+
+                                                                                           Column
+             Column 1                                                         Column 2     3
+                                                                                           Minimu
+                                                                                           m
+CAS Registry                                                                  Concentratio Quantity
+Number       Name of Substance                               UN Number        n            (tonnes)
+107-02-8     acrolein                                        1092             10%          2.27
+107-05-1     allyl chloride                                  1100             10%          9.10
+107-06-2     1,2-dichloroethane (ethylene dichloride)        1184             10%          6.80
+107-07-3     ethylene chlorohydrin (2-chloroethanol)         1135             10%          4.50
+107-11-9     allylamine                                      2334             10%          4.50
+107-12-0     propionitrile                                   2404             10%          4.50
+107-13-1     acrylonitrile                                   1093             10%          9.10
+107-15-3     ethylenediamine                                 1604             10%          9.10
+107-18-6     allyl alcohol                                   1098             10%          6.80
+107-30-2     chloromethyl methyl ether (methyl chloromethyl 1239              10%          2.27
+             ether)
+108-05-4     vinyl acetate                                   1301             10%          6.80
+108-23-6     isopropyl chloroformate                         2407             10%          6.80
+108-91-8     cyclohexylamine                                 2357             10%          6.80
+108-95-2     phenol                                          1671, 2312 and   10%          9.10
+                                                             2821
+109-61-5     n-propyl chloroformate (propyl chloroformate)   2740             10%          6.80
+110-00-9     furan                                           2389             10%          2.27
+110-89-4     piperidine                                      2401             10%          6.80
+123-73-9     trans-crotonaldehyde                            1143             10%          9.10
+126-98-7     methylacrylonitrile                             3079             10%          4.50
+151-56-4     ethyleneimine                                   1185             10%          4.50
+302-01-2     hydrazine                                       2029             10%          6.80
+353-42-4     boron trifluoride dimethyl etherate             2965             10%          6.80
+463-51-4     ketene                                          NA               1%           0.22
+506-68-3     cyanogen bromide                                1889             10%          4.50
+506-77-4     cyanogen chloride                               1589             10%          4.50
+509-14-8     tetranitromethane                               1510             10%          4.50
+542-88-1     bis(chloromethyl) ether [dichlorodimethyl ether] 2249            1%           0.45
+556-64-9     methyl thiocyanate                              NA               10%          9.10
+584-84-9     toluene-2,4-diisocyanate                        2078             10%          4.50
+594-42-3     perchloromethyl mercaptan                       1670             10%          4.50
+624-83-9     methyl isocyanate                               2480             10%          4.50
+630-08-0     carbon monoxide                                 1016             10%          6.80
+814-68-6     acryloyl chloride (acrylyl chloride)            NA               10%          2.27
+4170-30-3    crotonaldehyde                                  1143             10%          9.10
+7439-97-6    mercury                                         2809             NA           1.00
+7446-09-5    sulphur dioxide                                 1079             10%          2.27
+
+
+
+
+                                                    11
+                                  SOR/2003-307 — October 6, 2010
+
+
+
+                                                                                       Column
+             Column 1                                                     Column 2     3
+                                                                                       Minimu
+                                                                                       m
+CAS Registry                                                              Concentratio Quantity
+Number       Name of Substance                            UN Number       n            (tonnes)
+7446-11-9    sulphur trioxide                             1829            10%          4.50
+7550-45-0    titanium tetrachloride                       1838            10%          1.13
+7616-94-6    perchloryl fluoride (trioxychlorofluoride)   3083            10%          6.80
+7637-07-2    boron trifluoride                            1008            10%          2.27
+7647-01-0    hydrochloric acid                            1789            30%          6.80
+7647-01-0    hydrogen chloride, anhydrous                 2186 and 1050   10%          2.27
+7664-39-3    hydrofluoric acid                            1790            50%          0.45
+7664-39-3    hydrogen fluoride, anhydrous                 1052            1%           0.45
+7664-41-7    ammonia, anhydrous                           1005            10%          4.50
+7664-41-7    ammonia solution                             2073 and 2672   20%          9.10
+7697-37-2    nitric acid                                  2031 and 2032   80%          6.80
+7719-09-7    thionyl chloride                             1836            10%          6.80
+7719-12-2    phosphorus trichloride                       1809            10%          6.80
+7723-14-0    phosphorus, white                            2447            NA           1.00
+7726-95-6    bromine                                      1744            10%          4.50
+7782-41-4    fluorine                                     1045            1%           0.45
+7782-50-5    chlorine                                     1017            10%          1.13
+7783-06-4    hydrogen sulphide                            1053            10%          4.50
+7783-07-5    hydrogen selenide                            2202            1%           0.22
+7783-60-0    sulphur tetrafluoride                        2418            10%          1.13
+7784-34-1    arsenic trichloride (arsenous trichloride)   1560            10%          6.80
+7784-42-1    arsine                                       2188            1%           0.45
+7790-94-5    chlorosulphonic acid                         1754            10%          2.27
+7803-51-2    phosphine                                    2199            10%          2.27
+7803-52-3    stibine                                      2676            10%          2.27
+8014-95-7    sulphuric acid, fuming (oleum)               1831            NA           4.50
+10025-87-3   phosphorus oxychloride                       1810            10%          2.27
+10035-10-6   hydrogen bromide (hydrobromic acid)          1048 and 1788   10%          1.13
+10049-04-4   chlorine dioxide                             NA              1%           0.45
+10102-43-9   nitric oxide (nitrogen monoxide)             1660            10%          4.50
+10102-44-0   nitrogen dioxide                             1067            10%          1.13
+10294-34-5   boron trichloride                            1741            10%          2.27
+13463-39-3   nickel carbonyl                              1259            1%           0.45
+13463-40-6   iron pentacarbonyl                           1994            10%          1.13
+19287-45-7   diborane                                     1911            10%          1.13
+20816-12-0   osmium tetroxide                             2471            1%           0.22
+26471-62-5   toluene diisocyanate                         2078            10%          4.50
+
+
+
+
+                                                     12
+                                                DORS/2003-307 — 6 octobre 2010
+
+
+
+NOTE:  percentage concentration in column 2, is the percentage concentration based on the proportion of the weight of the substance to the
+    The
+    weight of the mixture.
+
+
+
+
+                                                                   13
+                                          SOR/2003-307 — October 6, 2010
+
+
+
+                                                       ANNEXE 1
+(article 2, paragraphe 3(1), alinéa 3(3)b), paragraphes 3(5) et 4(1), alinéas 4(4)b) et 5(1)b), paragraphe 7(1) et article 9)
+
+                                               LISTE DES SUBSTANCES
+                                                           PARTIE 1
+
+                                                                                                           Colonne
+                     Colonne 1                                                              Colonne 2      3
+                                                                                                         Quantité
+                                                                                                         minimale
+     Numéro                                                                                              (tonnes
+     d’enregistreme                                                                         Concentratio métrique
+     nt CAS         Nom de la substance                                 Numéro ONU          n            s)
+     60-29-7         éther éthylique (éther diéthylique)                1155                1%             4,50
+     71-43-2         benzène                                            1114                1%             10,00
+     74-82-8         méthane                                            1971 et 1972        1%             4,50
+     74-84-0         éthane                                             1035 et 1961        1%             4,50
+     74-85-1         éthylène                                           1038 et 1962        1%             4,50
+     74-86-2         acétylène                                          1001                1%             4,50
+     74-89-5         méthylamine                                        1061                1%             4,50
+     74-98-6         propane                                            1978                1%             4,50
+     74-99-7         méthylacétylène                                    1060                1%             4,50
+     75-00-3         chlorure d’éthyle                                  1037                1%             4,50
+     75-01-4         chlorure de vinyle                                 1086                1%             4,50
+     75-02-5         fluorure de vinyle                                 1860                1%             4,50
+     75-04-7         éthylamine                                         1036 et 2270        1%             4,50
+     75-07-0         acétaldéhyde                                       1089                1%             4,50
+     75-08-1         mercaptan éthylique                                2363                1%             4,50
+     75-18-3         sulfure de diméthyle                               1164                1%             150,00
+     75-19-4         cyclopropane                                       1027                1%             4,50
+     75-28-5         isobutane                                          1969                1%             4,50
+     75-29-6         chloro-2 propane                                   2356                1%             4,50
+     75-31-0         isopropylamine                                     1221                1%             4,50
+     75-35-4         chlorure de vinylidène                             1303                1%             4,50
+     75-37-6         difluoréthane (difluoro-1,1 éthane)                1030                1%             4,50
+     75-38-7         difluoro-1,1 éthylène                              1959                1%             4,50
+     75-50-3         triméthylamine                                     1083 et 1297        1%             4,50
+     75-64-9         butylamine tertiaire (butylamine tert)             1125                1%             150,00
+     75-76-3         tétraméthylsilane                                  2749                1%             4,50
+     78-78-4         isopentane                                         1265                1%             4,50
+     78-79-5         isoprène                                           1218                1%             4,50
+     79-38-9         trifluorochloréthylène                             1082                1%             4,50
+     100-41-4        éthylbenzène                                       1175                1%             7 000,00
+     106-97-8        butane                                             1011                1%             4,50
+     106-98-9        butène-1 (butylène)                                1012                1%             4,50
+     106-99-0        butadiène-1,3                                      1010                1%             4,50
+
+
+
+
+                                                              14
+                                   DORS/2003-307 — 6 octobre 2010
+
+
+
+                                                                                    Colonne
+              Colonne 1                                                 Colonne 2   3
+                                                                                     Quantité
+                                                                                     minimale
+Numéro                                                                               (tonnes
+d’enregistreme                                                          Concentratio métrique
+nt CAS         Nom de la substance                       Numéro ONU     n            s)
+107-00-6      éthylacétylène                             2452           1%          4,50
+107-01-7      butène-2                                   1055           1%          4,50
+107-25-5      éther méthylvinylique                      1087           1%          4,50
+107-31-3      formiate de méthyle                        1243           1%          4,50
+108-88-3      toluène                                    1294           1%          2 500,00
+109-66-0      n-pentane (pentane)                        1265           1%          4,50
+109-67-1      pentène-1                                  1108           1%          4,50
+109-92-2      éther éthylvinylique                       1302           1%          4,50
+109-95-5      nitrite d’éthyle                           1194           1%          4,50
+110-82-7      cyclohexane                                1145           1%          550,00
+115-07-1      propylène                                  1077           1%          4,50
+115-10-6      éther méthylique (oxyde de diméthyle)      1033           1%          4,50
+115-11-7      isobutylène                                1055           1%          4,50
+116-14-3      tétrafluoréthylène                         1081           1%          4,50
+124-40-3      diméthylamine                              1032 et 1160   1%          4,50
+460-19-5      cyanogène                                  1026           1%          4,50
+463-49-0      propadiène                                 2200           1%          4,50
+463-58-1      sulfure de carbonyle                       2204           1%          4,50
+463-82-1      diméthyl-2,2 propane                       2044           1%          4,50
+504-60-9      pentadiène-1,3                             S/O            1%          4,50
+557-98-2      chloro-2 propène                           2456           1%          4,50
+563-45-1      méthyl-3 butène-1                          2561           1%          4,50
+563-46-2      méthyl-2 butène-1                          2459           1%          4,50
+590-18-1      butène-2 cis                               1055           1%          4,50
+590-21-6      chloro-1 propène                           S/O            1%          4,50
+598-73-2      bromotrifluoréthylène                      2419           1%          4,50
+624-64-6      butène-2 trans                             1055           1%          4,50
+627-20-3      pentène-2 cis                              S/O            1%          4,50
+646-04-8      pentène-2 trans                            S/O            1%          4,50
+689-97-4      acétylène de vinyle (butényne)             S/O            1%          4,50
+1330-20-7     xylènes                                    1307           1%          8 000,00
+1333-74-0     hydrogène                                  1049           1%          4,50
+4109-96-0     dichlorosilane                             2189           1%          4,50
+7722-84-1     peroxyde d’hydrogène                       2015           52 %        3,40
+7775-09-9     chlorate de sodium                         1495           10 %        10,00
+7790-98-9     perchlorate d’ammonium                     1442           1%          3,40
+7791-21-1     oxyde de dichlore                          S/O            1%          4,50
+7803-62-5     silane                                     2203           1%          4,50
+
+
+
+
+                                                  15
+                                  SOR/2003-307 — October 6, 2010
+
+
+
+                                                                                          Colonne
+              Colonne 1                                                       Colonne 2   3
+                                                                                           Quantité
+                                                                                           minimale
+Numéro                                                                                     (tonnes
+d’enregistreme                                                                Concentratio métrique
+nt CAS         Nom de la substance                            Numéro ONU      n            s)
+8006-14-2     gaz naturel liquéfié                            1972            1%          4,50
+8030-30-6     naphtha                                         1268            1%          50,00
+10025-78-2    trichlorosilane                                 1295            1%          4,50
+25167-67-3    butylène (butène)                               1012            1%          4,50
+86290-81-5    essence (carburants pour moteur d’automobile)   1203            1%          150,00
+
+                                                PARTIE 2
+
+                                                                                          Colonne
+              Colonne 1                                                       Colonne 2   3
+                                                                                           Quantité
+                                                                                           minimale
+Numéro                                                                                     (tonnes
+d’enregistreme                                                                Concentratio métrique
+nt CAS         Nom de la substance                            Numéro ONU      n            s
+50-00-0       formaldéhyde en solution                        1198 et 2209    10 %        6,80
+57-14-7       diméthyl-1,1 hydrazine                          1163            10 %        6,80
+60-34-4       méthylhydrazine                                 1244            10 %        6,80
+67-66-3       chloroforme (trichlorométhane)                  1888            10 %        9,10
+74-83-9       bromure de méthyle                              1062            10 %        2,27
+74-87-3       chlorure de méthyle                             1063            10 %        4,50
+74-88-4       iodure de méthyle                               2644            10 %        4,50
+74-90-8       cyanure d’hydrogène (acide cyanhydrique)        1051, 1613 et   10 %        1,13
+                                                              1614
+74-93-1       mercaptan méthylique (méthylmercaptan)          1064            10 %        4,50
+75-15-0       disulfure de carbone                            1131            10 %        9,10
+75-21-8       oxyde d’éthylène                                1040            10 %        4,50
+75-44-5       phosgène                                        1076            1%          0,22
+75-55-8       propylèneimine                                  1921            10 %        4,50
+75-56-9       oxyde de propylène                              1280            10 %        4,50
+75-74-1       plomb tétraméthyle                              S/O             10 %        4,50
+75-77-4       triméthylchlorosilane                           1298            10 %        4,50
+75-78-5       diméthyldichlorosilane                          1162            10 %        2,27
+75-79-6       méthyltrichlorosilane (trichlorométhylsilane)   1250            10 %        2,27
+76-06-2       chloropicrine (trichloronitrométhane)           1580            10 %        2,27
+78-00-2       plomb tétraéthyle                               1649            10 %        2,27
+78-82-0       isobutyronitrile                                2284            10 %        9,10
+79-21-0       acide peroxyacétique                            3107            10 %        4,50
+79-22-1       chloroformiate de méthyle                       1238            10 %        2,27
+91-08-7       toluène-2,6 diisocyanate                        2078            10 %        4,50
+
+
+
+
+                                                      16
+                                  DORS/2003-307 — 6 octobre 2010
+
+
+
+                                                                                         Colonne
+              Colonne 1                                                      Colonne 2   3
+                                                                                          Quantité
+                                                                                          minimale
+Numéro                                                                                    (tonnes
+d’enregistreme                                                               Concentratio métrique
+nt CAS         Nom de la substance                           Numéro ONU      n            s
+106-89-8      épichlorhydrine                                2023            10 %        9,10
+107-02-8      acroléine                                      1092            10 %        2,27
+107-05-1      chlorure d’allyle                              1100            10 %        9,10
+107-06-2      dichlorure d’éthylène                          1184            10 %        6,80
+107-07-3      monochlorhydrine du glycol(chloro-2 éthanol)   1135            10 %        4,50
+107-11-9      allylamine                                     2334            10 %        4,50
+107-12-0      propionitrile                                  2404            10 %        4,50
+107-13-1      acrylonitrile                                  1093            10 %        9,10
+107-15-3      éthylènediamine                                1604            10 %        9,10
+107-18-6      alcool allylique                               1098            10 %        6,80
+107-30-2      éther méthylique monochloré                    1239            10 %        2,27
+108-05-4      acétate de vinyle                              1301            10 %        6,80
+108-23-6      chloroformiate d’isopropyle                    2407            10 %        6,80
+108-91-8      cyclohexylamine                                2357            10 %        6,80
+108-95-2      phénol                                         1671, 2312 et   10 %        9,10
+                                                             2821
+109-61-5      chloroformiate de n-propyle                    2740            10 %        6,80
+110-00-9      furanne                                        2389            10 %        2,27
+110-89-4      pipéridine                                     2401            10 %        6,80
+123-73-9      crotonaldéhyde trans                           1143            10 %        9,10
+126-98-7      méthacrylonitrile                              3079            10 %        4,50
+151-56-4      éthylèneimine                                  1185            10 %        4,50
+302-01-2      hydrazine                                      2029            10 %        6,80
+353-42-4      éthérate diméthylique de trifluorure de bore   2965            10 %        6,80
+463-51-4      cétène                                         S/O             1%          0,22
+506-68-3      bromure de cyanogène                           1889            10 %        4,50
+506-77-4      chlorure de cyanogène                          1589            10 %        4,50
+509-14-8      tétranitrométhane                              1510            10 %        4,50
+542-88-1      éther dichlorodiméthylique                     2249            1%          0,45
+556-64-9      thiocyanate de méthyle                         S/O             10 %        9,10
+584-84-9      toluène-2,4 diisocyanate                       2078            10 %        4,50
+594-42-3      mercaptan méthylique perchloré                 1670            10 %        4,50
+624-83-9      isocyanate de méthyle                          2480            10 %        4,50
+630-08-0      monoxyde de carbone                            1016            10 %        6,80
+814-68-6      chlorure d’acryloyle                           S/O             10 %        2,27
+4170-30-3     crotonaldéhyde                                 1143            10 %        9,10
+7439-97-6     mercure                                        2809            10 %        1,00
+7446-09-5     dioxyde de soufre                              1079            10 %        2,27
+
+
+
+
+                                                    17
+                                    SOR/2003-307 — October 6, 2010
+
+
+
+                                                                                          Colonne
+              Colonne 1                                                       Colonne 2   3
+                                                                                           Quantité
+                                                                                           minimale
+Numéro                                                                                     (tonnes
+d’enregistreme                                                                Concentratio métrique
+nt CAS         Nom de la substance                             Numéro ONU     n            s
+7446-11-9     trioxyde de soufre                               1829           10 %        4,50
+7550-45-0     tétrachlorure de titane                          1838           10 %        1,13
+7616-94-6     fluorure de perchloryle (trioxychlorofluorure)   3083           10 %        6,80
+7637-07-2     trifluorure de bore                              1008           10 %        2,27
+7647-01-0     acide chlorhydrique                              1789           30 %        6,80
+7647-01-0     chlorure d’hydrogène (anhydre)                   2186 et 1050   10 %        2,27
+7664-39-3     acide fluorhydrique                              1790           50 %        0,45
+7664-39-3     fluorure d’hydrogène (anhydre)                   1052           1%          0,45
+7664-41-7     ammoniac (anhydre)                               1005           10 %        4,50
+7664-41-7     ammoniaque solution                              2073 et 2672   20 %        9,10
+7697-37-2     acide nitrique                                   2031 et 2032   80 %        6,80
+7719-09-7     chlorure de thionyle                             1836           10 %        6,80
+7719-12-2     trichlorure de phosphore                         1809           10 %        6,80
+7723-14-0     phosphore blanc                                  2447           10 %        1,00
+7726-95-6     brome                                            1744           10 %        4,50
+7782-41-4     fluor                                            1045           1%          0,45
+7782-50-5     chlore                                           1017           10 %        1,13
+7783-06-4     sulfure d’hydrogène                              1053           10 %        4,50
+7783-07-5     séléniure d’hydrogène                            2202           1%          0,22
+7783-60-0     tétrafluorure de soufre                          2418           10 %        1,13
+7784-34-1     trichlorure d’arsenic (chlorure d’arsenic)       1560           10 %        6,80
+7784-42-1     arsine                                           2188           1%          0,45
+7790-94-5     acide chlorosulfonique                           1754           10 %        2,27
+7803-51-2     phosphine                                        2199           10 %        2,27
+7803-52-3     stibine                                          2676           10 %        2,27
+8014-95-7     acide sulfurique, fumant (oléum)                 1831           10 %        4,50
+10025-87-3    oxychlorure de phosphore                         1810           10 %        2,27
+10035-10-6    bromure d’hydrogène (acide bromhydrique)         1048 et 1788   10 %        1,13
+10049-04-4    dioxyde de chlore                                S/O            1%          0,45
+10102-43-9    oxyde nitrique (monoxyde d’azote)                1660           10 %        4,50
+10102-44-0    dioxyde d’azote                                  1067           10 %        1,13
+10294-34-5    trichlorure de bore                              1741           10 %        2,27
+13463-39-3    nickel-tétracarbonyle                            1259           1%          0,45
+13463-40-6    fer pentacarbonyle                               1994           10 %        1,13
+19287-45-7    diborane                                         1911           10 %        1,13
+20816-12-0    tétroxyde d’osmium                               2471           1%          0,22
+26471-62-5    diisocyanate de toluène                          2078           10 %        4,50
+
+
+
+
+                                                     18
+                                                DORS/2003-307 — 6 octobre 2010
+
+
+
+Note :  concentrations figurant à la colonne 2 de la présente annexe indiquent la proportion, en pourcentage, du poids de la substance par
+      Les
+      rapport à celui du mélange dont elle fait partie
+
+
+
+
+                                                                   19
+                                                 SOR/2003-307 — October 6, 2010
+
+
+
+                          SCHEDULE 2                                                                    ANNEXE 2
+(Subsections 3(1) and (4) and subparagraphs 4(1)(a)(i) and (c)(i))                (paragraphes 3(1) et (4) et sous-alinéas 4(1)a)(i) et c(i))
+
+  INFORMATION TO BE SUBMITTED IN THE NOTICE                                   RENSEIGNEMENTS À INCLURE DANS L’AVIS SUR LES
+REGARDING THE IDENTIFICATION OF SUBSTANCE AND                                 SUBSTANCES ET LES LIEUX OÙ ELLES SE TROUVENT
+                    PLACE
+1. Place where one or more substances are located:                            1. Lieu où se trouvent une ou plusieurs substances
+(a) the facility name (or description), civic address and location by         a) Nom ou description de l’installation, adresse municipale et lati-
+latitude and longitude; and                                                   tude et longitude;
+(b) for a contact person and alternate contact person, their name or          b) personne-ressource et son suppléant; nom ou titre, numéro de
+the title of their position, e-mail (if any), telephone number and fax        téléphone et, le cas échéant, numéro de télécopieur et adresse de
+number (if any).                                                              courrier électronique.
+2. Head office (if different from above):                                     2. Siège social (si différent des renseignements ci-dessus)
+(a) name and address; and                                                     a) Nom ou dénomination sociale et adresse;
+(b) for the contact person and alternate contact person, their name           b) personne-ressource et son suppléant; nom ou titre, numéro de
+or the title of their position, e-mail (if any), telephone number and         téléphone et, le cas échéant, numéro de télécopieur et adresse de
+fax number (if any).                                                          courrier électronique.
+3. For each substance located at the place:                                   3. Pour chaque substance qui se trouve dans le lieu :
+(a) the name of the substance;                                                a) nom de la substance;
+(b) the CAS registry number;                                                  b) numéro d’enregistrement CAS;
+(c) the UN number (if applicable);                                            c) numéro ONU, le cas échéant;
+(d) the maximum expected quantity at any time during the calen-               d) quantité maximale prévue à un moment quelconque au cours de
+dar year; and                                                                 l’année civile;
+(e) the maximum capacity of the largest container in which the                e) capacité maximale du plus grand réservoir où est stockée la
+substance is stored.                                                          substance.
+
+
+
+
+                                                                         20
+                                                 DORS/2003-307 — 6 octobre 2010
+
+
+
+                           SCHEDULE 3                                                                 ANNEXE 3
+                  (Subsections 3(6), 4(5) and 5(2))                                          (paragraphes 3(6), 4(5) et 5(2))
+
+                         CERTIFICATION                                                               ATTESTATION
+
+I hereby certify that the information provided with respect to             J’atteste que les renseignements présentés en application de l’annexe
+Schedule              to the Environmental Emergency Regulations is                   du Règlement sur les urgences environnementales sont
+accurate and complete.                                                     complets et exacts.
+
+
+(Signature of the person or duly authorized representative)                (signature de la personne ou de son représentant)
+Name (please print):                                                       Nom (en lettres moulées) :
+Title:                                                                     Titre :
+Date:                                                                      Date :
+
+
+
+
+                                                                      21
+                                                   SOR/2003-307 — October 6, 2010
+
+
+
+                            SCHEDULE 4                                                                       ANNEXE 4
+                           (Subsection 4(4))                                                              (paragraphe 4(4))
+
+   INFORMATION TO BE SUBMITTED IN THE REPORT                                         RENSEIGNEMENTS À INCLURE DANS LE RAPPORT
+REGARDING THE PREPARATION OF AN ENVIRONMENTAL                                           D’ÉLABORATION D’UN PLAN D’URGENCE
+               EMERGENCY PLAN                                                                  ENVIRONNEMENTALE
+  1. Place where one or more substances are located:                              1. Lieu où se trouvent une ou plusieurs substances
+  (a) the facility name (or description) and civic address; and                   a) Nom ou description de l’installation et adresse municipale;
+  (b) the name of each substance.                                                 b) nom de chacune des substances.
+  2. Use of prior plans:                                                          2. Utilisation de plans existants
+  (a) indicate whether the environmental emergency plan was based                 a) Indiquer si le plan d’urgence environnementale a été élaboré à
+  on a plan prepared on a voluntary basis;                                        partir d’un plan déjà élaboré à titre volontaire;
+  (b) indicate whether the environmental emergency plan was based                 b) indiquer si le plan d’urgence environnementale a été élaboré à
+  on a plan prepared for another government and provide particulars,              partir d’un plan d’urgence environnementale déjà élaboré à la de-
+  if applicable; and                                                              mande d’un autre gouvernement et fournir des précisions le cas
+                                                                                  échéant;
+  (c) indicate whether the environmental emergency plan was based
+  on a plan prepared under another Act of Parliament and provide                  c) indiquer si le plan d’urgence environnementale a été élaboré à
+  particulars, if applicable.                                                     partir d’un plan déjà élaboré au titre d’une autre loi fédérale et
+                                                                                  fournir des précisions le cas échéant.
+  3. Local-level involvement:                                                     3. Participation à l’échelon local
+  (a) give the name of the local authorities, community or interest               a) Indiquer si les autorités locales, la collectivité ou des groupes
+  groups that have been involved in the plan’s development, if any;               d’intérêt ont participé à l’élaboration du plan, et préciser leur nom,
+  and                                                                             le cas échéant;
+  (b) identify whether the plan or its relevant parts were made avail-            b) indiquer si le plan ou ses parties pertinentes ont été mises à la
+  able to the appropriate local authorities (such as police and fire de-          disposition des autorités locales compétentes susceptibles de
+  partments) that may be involved in an emergency response.                       prendre part à une intervention d’urgence, telles que la police et les
+                                                                                  pompiers.
+  4. Information for each substance covered by an environmental                   4. Pour chaque substance visée par le plan d’urgence environne-
+emergency plan:                                                                 mentale, les renseignements suivants :
+  (a) the name, CAS registry number and UN number (if applicable)                 a) Indiquer le nom de la substance, son numéro d’enregistrement
+  of the substance; and                                                           CAS et son numéro ONU, le cas échéant;
+  (b) the nature of activities at the place where the substance is lo-            b) préciser la nature des activités au lieu où se trouve la substance.
+  cated.
+  5. The date on which the preparation of the environmental emer-                5. Préciser la date où l’élaboration du plan d’urgence environne-
+gency plan was completed.                                                       mentale a été terminée.
+  6. The location of the environmental emergency plan if it is differ-             6. Le lieu où se trouve le plan d’urgence environnementale si ce-
+ent from the place where one or more substances are located.                    lui-ci est différent de celui où une ou plusieurs substances se
+                                                                                trouvent.
+
+
+
+
+                                                                           22
+                                                    DORS/2003-307 — 6 octobre 2010
+
+
+
+                            SCHEDULE 5                                                                       ANNEXE 5
+                           (Subsection 5(1))                                                              (paragraphe 5(1))
+
+ INFORMATION TO BE SUBMITTED IN THE NOTICE OF THE                                     RENSEIGNEMENTS À INCLURE DANS L’AVIS SUR
+IMPLEMENTATION AND TESTING OF AN ENVIRONMENTAL                                        L’EXÉCUTION ET LA MISE À L’ESSAI D’UN PLAN
+                EMERGENCY PLAN                                                             D’URGENCE ENVIRONNEMENTALE
+  1. Place where one or more substances are located:                               1. Lieu où se trouvent une ou plusieurs substances
+  (a) the facility name and civic address; and                                     a) Nom de l’installation et adresse municipale;
+  (b) the name of each substance.                                                  b) nom de chacune des substances.
+  2. The implementation and testing of the environmental emergen-                   2. Exécution et mise à l’essai du plan d’urgence environnementale
+cy plan for the substances mentioned in section 1:                               à l’égard des substances mentionnées à l’article 1
+  (a) the date of testing; and                                                     a) Date de mise à l’essai du plan;
+  (b) the list of all local authorities, community or interest groups, if          b) nom des autorités locales, des collectivités et des groupes d’in-
+  any, that have been involved in the testing of the plan.                         térêt ayant participé à la mise à l’essai du plan, le cas échéant.
+
+
+
+
+                                                                            23
+                                                      SOR/2003-307 — October 6, 2010
+
+
+
+                           SCHEDULE 6                                                                           ANNEXE 6
+                            (Section 9)                                                                          (article 9)
+
+       DESIGNATED PERSONS FOR NOTIFICATION AND                                          PERSONNES À CONTACTER EN CAS D’URGENCE
+       REPORTING OF ENVIRONMENTAL EMERGENCIES                                                     ENVIRONNEMENTALE
+
+        Column 1      Column 2                      Column 3                             Colonne 1        Colonne 2                     Colonne 3
+                                 *                                                                                    *
+Item    Province      Notification                  Written Report                Article Province        Signalement                   Rapport écrit
+1.      Ontario       Ontario Regional Office       Director Environmental        1.     Ontario          Bureau régional de            Directeur, Protection de
+                      Environmental Protection      Protection Ontario                                    l’Ontario Protection de       l’environnement
+                      Environment Canada            Region Environment                                    l’environnement               Région de l’Ontario
+                                                    Canada                                                Environnement Canada          Environnement Canada
+2.      Quebec        Quebec Regional Office        Director Environmental        2.     Québec           Bureau régional du Québec     Directeur, Protection de
+                      Environmental Protection      Protection Quebec                                     Protection de                 l’environnement
+                      Environment Canada            Region Environment                                    l’environnement               Région du Québec
+                                                    Canada                                                Environnement Canada          Environnement Canada
+3.      Nova Scotia   Maritimes Regional Office     Director Environmental        3.     Nouvelle-        Bureau régional des           Directeur, Protection de
+                      Canadian Coast Guard          Protection Atlantic                  Écosse           Maritimes Garde côtière       l’environnement
+                      Fisheries and Oceans          Region Environment                                    canadienne Pêches et          Région de l’Atlantique
+                      Canada                        Canada                                                Océans Canada                 Environnement Canada
+4.      New           Maritimes Regional Office     Director Environmental        4.     Nouveau-         Bureau régional des           Directeur, Protection de
+        Brunswick     Canadian Coast Guard          Protection Atlantic                  Brunswick        Maritimes Garde côtière       l’environnement
+                      Fisheries and Oceans          Region Environment                                    canadienne Pêches et          Région de l’Atlantique
+                      Canada                        Canada                                                Océans Canada                 Environnement Canada
+5.      Manitoba      Operations Branch             Director Environmental        5.     Manitoba         Operations Branch             Directeur, Protection de
+                      Manitoba Conservation         Protection Prairie and                                Manitoba Conservation         l’environnement
+                                                    Northern Region                                                                     Région des Prairies et
+                                                    Environment Canada                                                                  du Nord
+6.      British       British Columbia              Director Environmental                                                              Environnement Canada
+        Columbia      Provincial Emergency          Protection Pacific and        6.     Colombie-        British Columbia              Directeur, Protection de
+                      Program Ministry of Public    Yukon Region                         Britannique      Provincial Emergency          l’environnement
+                      Safety and Solicitor          Environment Canada                                    Program Ministry of           Bureau régional du
+                      General                                                                             Public Safety and Solicitor   Pacifique et Yukon
+7.      Prince Edward Maritimes Regional Office     Director Environmental                                General                       Environnement Canada
+        Island        Canadian Coast Guard          Protection Atlantic           7.     Île-du-Prince- Bureau régional des             Directeur, Protection de
+                      Fisheries and Oceans          Region Environment                   Édouard        Maritimes Garde côtière         l’environnement
+                      Canada                        Canada                                              canadienne Pêches et            Région de l’Atlantique
+8.      Saskatchewan Enforcement and                Director Enforcement                                Océans Canada                   Environnement Canada
+                     Compliance Branch              and Compliance Branch         8.     Saskatchewan Enforcement and                   Director, Enforcement
+                     Saskatchewan                   Saskatchewan                                      Compliance Branch                 and Compliance
+                     Environment                    Environment                                       Saskatchewan                      Branch Saskatchewan
+                                                                                                      Environment                       Environment
+9.      Alberta       Enforcement and           Director Enforcement
+                      Monitoring Branch Alberta and Monitoring Branch             9.     Alberta          Enforcement and           Director, Enforcement
+                      Environment               Alberta Environment                                       Monitoring Branch Alberta and Compliance
+                                                                                                          Environment               Branch Saskatchewan
+10.     Newfoundland Newfoundland and               Director Environmental
+                                                                                                                                    Environment
+        and Labrador Labrador Regional Office       Protection Atlantic
+                     Canadian Coast Guard           Region Environment            10.    Terre-Neuve-     Bureau régional de Terre-     Directeur, Protection de
+                     Fisheries and Oceans           Canada                               et-Labrador      Neuve-et-Labrador Garde       l’environnement
+                     Canada                                                                               côtière canadienne Pêches     Région de l’Atlantique
+                                                                                                          et Océans Canada              Environnement Canada
+11.     Yukon         Yukon Office Pacific and      Director Environmental
+        Territory     Yukon Region                  Protection Pacific and        11.    Territoire du    Bureau du Yukon Bureau        Directeur, Protection de
+                      Environmental Protection      Yukon Region                         Yukon            régional du Pacifique et      l’environnement
+                      Environment Canada            Environment Canada                                    Yukon Protection de           Bureau régional du
+                                                                                                          l’environnement               Pacifique et Yukon
+12.     Northwest     Northern Office Prairie and   Director Environmental
+                                                                                                          Environnement Canada          Environnement Canada
+        Territories   Northern Region               Protection Prairie and
+                      Environmental Protection      Northern Region               12.    Territoires du   Bureau de la région du        Directeur, Protection de
+                      Environment Canada            Environment Canada                   Nord-Ouest       Nord Bureau régional des      l’environnement
+                                                                                                          Prairies et du Nord           Région des Prairies et
+                                                                                                          Protection de                 du Nord
+                                                                                                          l’environnement               Environnement Canada
+                                                                                                          Environnement Canada
+
+
+
+
+                                                                             24
+                                                       DORS/2003-307 — 6 octobre 2010
+
+
+
+        Column 1       Column 2                      Column 3                               Colonne 1       Colonne 2                  Colonne 3
+                                  *                                                                                     *
+Item    Province       Notification                  Written Report                Article Province         Signalement                Rapport écrit
+13.     Nunavut        Northern Office Prairie and   Director Environmental        13.      Nunavut         Bureau de la région du     Directeur, Protection de
+                       Northern Region               Protection Prairie and                                 Nord Bureau régional des   l’environnement
+                       Environmental Protection      Northern Region                                        Prairies et du Nord        Région des Prairies et
+                       Environment Canada            Environment Canada                                     Protection de              du Nord
+                                                                                                            l’environnement            Environnement Canada
+                                                                                                            Environnement Canada
+*
+   NOTE: The specific 24-hour environmental emergency notification tele-           *
+                                                                                      NOTE : Le numéro du service téléphonique de vingt-quatre heures pour le
+phone numbers for each province are available in Appendix 6 to the “Imple-         signalement des urgences environnementales figure, pour chaque province, à
+mentation Guidelines for Part 8 of the Canadian Environmental Protection           l’annexe 6 du document intitulé « Lignes directrices pour la mise en applica-
+Act, 1999 — Environmental Emergency Plans”                                         tion de la partie 8 de la Loi canadienne sur la protection de l’environnement
+                                                                                   (1999) — Plans d’urgence environnementale »
+
+
+
+
+                                                                              25
+

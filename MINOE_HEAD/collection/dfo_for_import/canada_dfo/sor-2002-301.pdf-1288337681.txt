@@ -1,0 +1,221 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+   Interprovincial                                                       Règlement sur les
+Movement of Hazardous                                                       mouvements
+  Waste Regulations                                                     interprovinciaux des
+                                                                         déchets dangereux
+
+                     SOR/2002-301                                                      DORS/2002-301
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published            31. (1) Every copy of a consolidated statute or             31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies       (3) In the event of an inconsistency between a             (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                                Enregistrement
+SOR/2002-301 August 8, 2002                                 DORS/2002-301 Le 8 août 2002
+CANADIAN ENVIRONMENTAL PROTECTION ACT,                      LOI CANADIENNE SUR LA PROTECTION DE
+1999                                                        L’ENVIRONNEMENT (1999)
+
+Interprovincial Movement of Hazardous Waste                 Règlement sur les mouvements interprovinciaux des
+Regulations                                                 déchets dangereux
+
+P.C. 2002-1394 August 8, 2002                               C.P. 2002-1394 Le 8 août 2002
+
+   Whereas, pursuant to subsection 332(1) of the Cana-         Attendu que, conformément au paragraphe 332(1) de
+dian Environmental Protection Act, 1999a, the Minister      la Loi canadienne sur la protection de l’environnement
+of the Environment published in the Canada Gazette,         (1999)a, le ministre de l’Environnement a fait publier
+Part I, on April 20, 2002, a copy of the proposed Inter-    dans la Gazette du Canada Partie I, le 20 avril 2002, le
+provincial Movement of Hazardous Waste Regulations,         projet de règlement intitulé Règlement sur les mouve-
+substantially in the form set out in the annexed Regula-    ments interprovinciaux des déchets dangereux, conforme
+tions, and persons were given an opportunity to file com-   en substance au texte ci-après, et que les intéressés ont
+ments with respect to the Regulations or a notice of ob-    ainsi eu la possibilité de présenter leurs observations à
+jection requesting that a board of review be established    cet égard ou de déposer un avis d’opposition motivé de-
+and stating the reasons for the objection;                  mandant la constitution d’une commission de révision,
+  Therefore, Her Excellency the Governor General in            À ces causes, sur recommandation du ministre de
+Council, on the recommendation of the Minister of the       l’Environnement et en vertu de l’article 191 de la Loi ca-
+Environment, pursuant to section 191 of the Canadian        nadienne sur la protection de l’environnement (1999)a,
+Environmental Protection Act, 1999a, hereby makes the       Son Excellence la Gouverneure générale en conseil
+annexed Interprovincial Movement of Hazardous Waste         prend le Règlement sur les mouvements interprovinciaux
+Regulations.                                                des déchets dangereux, ci-après.
+
+
+
+
+a                                                            a 
+     S.C. 1999, c. 33                                             L.C. 1999, ch. 33
+INTERPROVINCIAL     MOVEMENT                              OF         RÈGLEMENT    SUR    LES    MOUVEMENTS
+    HAZARDOUS WASTE REGULATIONS                                         INTERPROVINCIAUX     DES   DÉCHETS
+                                                                        DANGEREUX
+
+                   INTERPRETATION                                                         DÉFINITIONS
+   1. The definitions in this section apply in these Regu-             1. Les définitions qui suivent s’appliquent au présent
+lations.                                                             règlement.
+“authorized carrier” means a carrier that is authorized              « déchets dangereux » Produits, substances ou orga-
+under the laws of Canada or of a province to transport               nismes qui :
+hazardous waste. (transporteur agréé)
+                                                                       a) sont inclus dans l’une ou l’autre des classes 2 à 6
+“consignee” means the person to whom hazardous waste                   et 8 prévues par le Règlement sur le transport des
+is being or is intended to be transported. (destinataire)              marchandises dangereuses ou dans la classe 9 prévue
+“consignor” means a person who has possession of haz-                  par ce règlement, la mention de l’élimination aux
+ardous waste immediately before it is transported. (expé-              sous-alinéas 2.43b)(iv) et (v) de celui-ci, s’entendant
+diteur)                                                                également du recyclage;
+
+“hazardous waste” means a product, substance or organ-                 b) sont destinés au recyclage ou à l’élimination, qu’ils
+ism that is                                                            soient ou non entreposés en attendant;
+
+  (a) included in any of Classes 2 to 6 and 8 of the                   c) ne sont ni d’origine domestique, ni retournés direc-
+  Transportation of Dangerous Goods Regulations, or                    tement au fabricant ou au fournisseur pour retraite-
+  in Class 9 of those Regulations as if a reference to                 ment, réemballage ou revente, notamment ceux qui
+  “disposal” in subparagraphs 2.43(b)(iv) and (v) means                sont, selon le cas :
+  “disposal or recycling”;                                                (i) défectueux ou autrement inutilisables aux fins
+  (b) intended for disposal or recycling, including stor-                 prévues initialement,
+  age prior to disposal or recycling; and                                 (ii) excédentaires tout en étant encore utilisables
+  (c) is neither household in origin, nor returned direct-                aux fins prévues initialement. (hazardous waste)
+  ly to a manufacturer or supplier of the product, sub-              « destinataire » Personne à qui s’adresse un envoi de dé-
+  stance or organism for reprocessing, repackaging or                chets dangereux ou de matières recyclables dangereuses.
+  resale for any reason, including that the product, sub-            (consignee)
+  stance or organism is
+                                                                     « expéditeur » Personne qui a la possession de déchets
+     (i) defective or otherwise not usable for its original          dangereux ou de matières recyclables dangereuses im-
+     purpose, or                                                     médiatement avant leur transport. (consignor)
+     (ii) in surplus quantities but still usable for its orig-       « manifeste » Manifeste conforme à la formule 3 de l’an-
+     inal purpose. (déchets dangereux)                               nexe II du Règlement sur l’exportation et l’importation
+“manifest” means the manifest set out in Form 3 of                   des déchets dangereux. (manifest)
+Schedule II to the Export and Import of Hazardous                    « recyclage » S’agissant de déchets dangereux, opération
+Wastes Regulations. (manifeste)                                      mentionnée à la colonne I de la partie II de l’annexe I du
+“recycling” means an operation listed in Part II of                  Règlement sur l’exportation et l’importation des déchets
+Schedule I to the Export and Import of Hazardous                     dangereux. (recycling)
+Wastes Regulations. (recyclage)
+
+
+
+
+                                                                 1
+                                           SOR/2002-301 — October 6, 2010
+
+
+
+                                                                   « transporteur agréé » Transporteur qui est autorisé à
+                                                                   transporter des déchets dangereux par les lois fédérales
+                                                                   ou provinciales. (authorized carrier)
+
+                     APPLICATION                                                 CHAMP D’APPLICATION
+  2. These Regulations apply with respect to all trans-              2. Le présent règlement s’applique aux mouvements
+port within Canada of hazardous waste that is                      au Canada :
+  (a) a solid in a quantity of 5 kg or more;                         a) d’une quantité d’au moins 5 kg de déchets dange-
+  (b) liquid in a quantity of 5 L or more; or                        reux solides;
+
+  (c) a liquid or a solid, or a mixture of liquids and               b) d’une quantité d’au moins 5 l de déchets dange-
+  solids, in a quantity of 500 grams or more that con-               reux liquides;
+  tains PCBs described in item 1 of the List of Toxic                c) d’une quantité égale ou supérieure à 500 g de dé-
+  Substances in Schedule 1 to the Canadian Environ-                  chets dangereux liquides ou solides, ou une combinai-
+  mental Protection Act, 1999 in a concentration greater             son des deux, qui contiennent des BPC visés à l’article
+  than 50 mg/kg.                                                     1 de la liste des substances toxiques de l’annexe 1 de
+                                                                     la Loi canadienne sur la protection de l’environne-
+                                                                     ment (1999) en une concentration supérieure à 50 mg/
+                                                                     kg.
+
+             MANIFEST REQUIREMENTS                                                       MANIFESTE
+  3. (1) No person shall transport hazardous waste                   3. (1) Il est interdit de transporter entre provinces des
+within Canada unless the waste is accompanied by a                 déchets dangereux sauf si un manifeste, conforme au
+manifest in accordance with these Regulations.                     présent règlement, accompagne l’envoi.
+  (2) A manifest shall have a unique manifest reference              (2) Le manifeste porte, pour chaque envoi de déchets
+number for each shipment of hazardous waste, provided              dangereux un numéro de référence distinct qui est attri-
+by the Minister or the province of origin or destination.          bué par le ministre ou les autorités de la province d’ori-
+                                                                   gine ou de destination.
+   4. (1) The consignor shall complete and sign Part A              4. (1) L’expéditeur remplit et signe la partie A du
+of the manifest                                                    manifeste et :
+  (a) indicating the applicable shipping name, UN                    a) y inscrit l’appellation réglementaire des déchets
+  number, classification and packing group set out in                dangereux, leur numéro UN, leur classification et leur
+  the Transportation of Dangerous Goods Regulations;                 groupe d’emballage selon le Règlement sur le trans-
+  and                                                                port des marchandises dangereuses;
+  (b) adding the word “waste” or “recyclable”, as appli-             b) ajoute la mention « déchet » ou « recyclable », se-
+  cable, to the shipping name, unless that word is al-               lon le cas, à l’appellation réglementaire, à moins que
+  ready part of, or implied in, the shipping name.                   cette mention ne fasse déjà partie de l’appellation, ex-
+                                                                     plicitement ou implicitement.
+   (2) The consignor shall provide a copy of the mani-               (2) L’expéditeur remet, avant le début du transport,
+fest, with Part A completed, to the first authorized carrier       une copie du manifeste ainsi rempli au transporteur
+                                                                   agréé initial chargé de transporter les déchets dangereux.
+
+
+
+
+                                                               2
+                                          DORS/2002-301 — 6 octobre 2010
+
+
+
+of the hazardous waste, before the authorized carrier
+transports the waste.
+  (3) Every authorized carrier that transports the haz-             (3) Tout transporteur agréé qui transporte les déchets
+ardous waste shall fill out, sign and date Part B of the          dangereux au Canada remplit, signe et date la partie B du
+manifest and provide it on delivery to the next carrier, if       manifeste et le remet au transporteur subséquent.
+any.
+   (4) During transport, the manifest shall be kept in the           (4) Durant le transport des déchets dangereux, le ma-
+location required for shipping documents under the                nifeste est conservé aux mêmes endroits que s’il s’agis-
+Transportation of Dangerous Goods Regulations.                    sait d’un document d’expédition dans le cadre du Règle-
+                                                                  ment sur le transport des marchandises dangereuses.
+   (5) The consignor shall send a copy of the manifest,             (5) Dans les trois jours ouvrables suivant la remise du
+with Parts A and B completed, within three days after             manifeste au transporteur agréé initial, l’expéditeur en
+providing the manifest to the first authorized carrier, to        envoie une copie dont les parties A et B ont été remplies
+the authorities of the province where the hazardous               aux autorités de la province d’origine des déchets dange-
+waste originated and of the province of destination.              reux et de celle de destination.
+   (6) The consignee shall complete Part C of the mani-             (6) Le destinataire remplit la partie C du manifeste et
+fest and shall ensure that copies of the completed mani-          veille à ce qu’une copie du manifeste ainsi rempli soit
+fest are sent, within three days after receiving the haz-         envoyée à l’expéditeur, au dernier transporteur agréé et
+ardous waste, to the consignor, the last authorized carrier       aux autorités de la province d’origine des déchets dange-
+and the authorities of the province where the waste origi-        reux et de celle de destination dans les trois jours ou-
+nated and of the province of destination.                         vrables suivant la réception des déchets.
+   (7) The consignor, each authorized carrier and the               (7) L’expéditeur, les transporteurs agréés et le desti-
+consignee shall keep at their principal place of business         nataire conservent une copie du manifeste à leur princi-
+in Canada a copy of the manifest for a period of two              pal établissement au Canada pour une période de deux
+years after the hazardous waste is received by the con-           ans suivant la date de la réception des déchets dangereux
+signee.                                                           par le destinataire.
+
+               COMING INTO FORCE                                                 ENTRÉE EN VIGUEUR
+  5. These Regulations come into force on August                    5. Le présent règlement entre en vigueur le 15
+15, 2002.                                                         août 2002.
+
+
+
+
+                                                              3
+

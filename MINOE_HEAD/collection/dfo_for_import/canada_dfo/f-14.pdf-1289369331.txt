@@ -1,0 +1,645 @@
+                         PLEASE NOTE
+This document, prepared by the Legislative Counsel Office, is an office
+consolidation of this Act, current to March 13, 2010. It is intended for
+information and reference purposes only.
+
+This document is not the official version of the Act. The Act and the
+amendments as printed under the authority of the Queen’s Printer for the
+province should be consulted to determine the authoritative statement of the
+law.
+
+For more information concerning the history of this Act, please see the
+Table of Public Acts.
+
+If you find any errors or omissions in this consolidation, please contact:
+
+                         Legislative Counsel Office
+                            Tel: (902) 368-4291
+                        Email: legislation@gov.pe.ca
+                            CHAPTER F-14
+
+                  FOREST MANAGEMENT ACT
+
+
+1. In this Act                                                               Definitions
+
+    (a) “best end use” means the utilization of trees or the management      best end use
+    of forest stands to favour the production of trees of sufficient
+    dimensions and quality to produce either peeler logs for veneer or
+    logs for saw timber or otherwise to procure the highest value to the
+    province;
+    (a.1) not proclaimed;                                                    certified
+                                                                             representative
+    (b) “Crown” means Her Majesty in the right of the Province of            Crown
+    Prince Edward Island;
+    (c) “Crown forest lands” means all or any part of the forest lands       Crown forest lands
+    vested in the Crown through the Public Works Act R.S.P.E.I. 1988,
+    Cap. P-34 or forest lands on which forest management rights have
+    been transferred to a Government Department or Division by a
+    Crown agency;
+    (d) “Crown forest product sales permit” or “permit” where used in        Crown forest
+    sections 11 and 12, means a permit authorizing a person to cut,          product sales permit
+
+    harvest or remove timber or other forest products;
+    (e) “Department” means the Department of Environment, Energy             Department
+    and Forestry;
+    (f) “District Manager” means a person employed by the Department         District Manager
+    to fill the position so designated;
+    (g) “forest fire” means a fire burning on forest land or threatening     forest fire
+    forest land;
+    (h) “forest land” means                                                  forest land
+       (i) any land, excluding the cleared land immediately adjacent to
+       an occupied building, on which living or dead trees are the tallest
+       type of vegetation,
+       (ii) any land on which tree seedlings exist or have been planted
+       and are retained for the purposes of producing forest products, or
+       (iii) any land which is being manipulated by tree harvesting, site
+       preparation, tree planting, and or other techniques that promote
+       the establishment of tree seedlings;
+    (i) “forest management” means the manipulation of forest land at         forest management
+    any stage of the life cycle of the trees occupying it in such a manner
+
+
+
+                                    1
+2                       Cap. F-14                    Forest Management Act
+
+
+
+                             that the stand of trees on an area of forest land is replaced by a stand
+                             of trees of equivalent or higher quality;
+forest product               (j) “forest product” means a type of product harvested from a tree
+                             and includes but is not limited to logs, pulp, fuelwood (either round
+                             or chips), maple sap and its derivatives, Christmas trees, fence posts,
+                             stakes, rails, and box wood;
+forest protection            (j.1) not proclaimed;
+officer
+forest road                  (k) “forest road” means a road on Crown forest lands to the fullest
+                             extent of the right-of-way of such road and includes the bridges
+                             thereon but does not include a highway as defined in the Highway
+                             Traffic Act R.S.P.E.I. 1988, Cap. H-5;
+forest service               (l) “forest service officer” means
+officer                         (i) a person employed as a forest technician or forester by the
+                                Department, or
+                                (ii) a conservation officer appointed under the Wildlife
+                                Conservation Act R.S.P.E.I. 1988, Cap. W-4.1.
+
+
+forested natural area        (m) “forested natural area” means an area of forest land selected
+                             because it is representative of a rare or uncommon forest ecosystem
+                             and which is designated as such by regulation;
+harvest                      (m.1) not proclaimed;
+integrated                   (n) “integrated management” with respect to a parcel of forest land,
+management                   means the application of silvicultural techniques and forest access
+                             construction techniques in a manner which
+                                (i) ensures that the forest land on an individual property produces
+                                forest products,
+                                (ii) makes a positive contribution to the conservation of the soil,
+                                water and wildlife resources both on that parcel and on adjacent
+                                lands, and
+                                (iii) meets other objectives set for the property that are consistent
+                                with the provincial Forest Policy;
+Minister                     (o) “Minister” means the Minister of Environment, Energy and
+                             Forestry;
+multiple use                 (p) “multiple use” with respect to forest lands, means the application
+                             of forest management in such a manner as to meet two or more
+                             specified objectives;
+private land                 (q) “private land” means land owned by someone other than the
+                             Crown;
+
+
+
+                                                              2
+                            Forest Management Act                  Cap. F-14                         3
+
+
+
+    (r) “Provincial Forest” means an area of Crown forest land                 Provincial Forest
+    designated as such under the regulations;
+    (r.1) not proclaimed;                                                      registered forest
+                                                                               harvester
+    (s) “scaling” means the determination of the gross and net volumes         scaling
+    of round wood in cords, cubic feet, cubic metres, board feet or
+    assumed standards;
+    (t) “silvics” means the life history, characteristics and ecology of       silvics
+    stands of forest trees;
+    (u) “silviculture” means the application of the knowledge of silvics       silviculture
+    in the treatment of forest land for the sustained or enhanced
+    production of tree growth;
+    (v) “site preparation” means the preparation of an area of land for        site preparation
+    the planting of trees or to facilitate increased natural regeneration of
+    tree species;
+    (w) “sustain” in relation to forest management, means the use of           sustain
+    silvicultural treatments which
+       (i) provide for a consistent flow of forest products and other
+       benefits from a defined forest land base,
+       (ii) retain the capability of that forest land base to produce
+       equivalent or higher quality forest products, and
+       (iii) retain the long term capability of the soil on that forest land
+       base to produce forest products;
+    (x) “wildlife” means any vertebrate animal that is wild by nature in       wildlife
+    the province. 1988,c.27,s.1; 1993,c.29,s.4; 1997,c.20,s.3;
+    1998,c.88,s.1; 2004,c.36,s.3; 2009,c.73,s.2; 2006,c.16,s.63(4.1).
+2. The Minister has the general supervision and management of this Act         Administration
+and may designate persons to act on his behalf. 1988,c.27,s.2.
+3. The Minister is responsible for the conservation, management and            Responsibilities of
+protection of forest lands in accordance with this Act and the regulations.    Minister
+
+1988,c.27,s.3.
+4. (1) The Minister shall prepare and cause to be publicly reviewed a          Forest Policy
+Forest Policy which shall include
+     (a) information on the growth, yield and utilization of the forest,
+     with and without management;
+     (b) policy objectives and principles of management for forest lands;
+     (c) assessment strategy and actions to be employed to achieve those
+     objectives and principles of forest management; and
+     (d) such other information relating to the forest as is prescribed by
+     regulation.
+
+
+                                     3
+4                    Cap. F-14                  Forest Management Act
+
+
+
+Revision               (2) The Minister shall cause the Forest Policy to be reviewed by the
+                     Department and, if revisions are considered necessary based on this
+                     review, he may cause the revisions or the entire Forest Policy to be
+                     reviewed publicly in such manner as may be prescribed by regulation.
+Availability           (3) The Minister shall make the Forest Policy readily available to any
+                     individual requesting it. 1988,c.27,s.4.
+Forest Improvement   5. The Minister may establish a Forest Improvement Advisory Council to
+Advisory Council     provide advice on
+                         (a) the effectiveness of forest management activities;
+                         (b) forest research;
+                         (c) the training of workers for the forest industry;
+                         (d) forest wildlife conservation;
+                         (e) forest multiple use;
+                         (f) forest education programs; and
+                         (g) other matters relating to the conservation and use of forest land.
+                         1988,c.27,s.5.
+Forest inventory     6. (1) The Minister shall monitor forest growth and, in 1992 and every
+and report           ten years thereafter, shall provide to the Lieutenant Governor in Council
+                     a State of the Forest Report which includes
+                          (a) an inventory of the forest in the province identifying the area of
+                          the forest by cover type, the volume of forest products available in
+                          the forest, the age distribution of the forest, and an estimate of the
+                          growth by product type that the forest can sustain with and without
+                          management;
+                          (b) a summary of the forest management activities for both Crown
+                          forest lands and private land implemented during each year of the
+                          ten year reporting period;
+                          (c) an estimate of the wood supply shortfalls or surpluses based on
+                          projections of forest growth and demand for forest products;
+                          (d) an outline of programs proposed to manage the forest in the next
+                          reporting period; and
+                          (e) such other information as may be prescribed by regulation.
+Release of             (2) The Minister may compile and release the information gathered in
+information          the development of a forest inventory but shall not release information
+                     specific to any individual landowner without the permission of that
+                     landowner. 1988,c.27,s.6.
+Trespass rights      7. (1) A forest service officer or any person assisting him in the
+                     performance of his duties may, under the direction of the Minister, enter
+                     upon private lands whenever necessary for the proper performance of his
+                     duties under this Act.
+
+
+
+                                                         4
+                            Forest Management Act                   Cap. F-14                         5
+
+
+
+  (2) No action for trespass or nuisance may be brought against the             Idem
+Crown or its agents for the doing of any act or the carrying out of any
+operation necessarily incidental to the exercise of any duty or power
+pursuant to this Act or the regulations. 1988,c.27,s.7.
+8. (1) The Minister shall encourage the management of private forest            Management of
+lands for the sustained production of forest products in a manner               private forest land
+
+consistent with the Forest Policy and the Provincial Conservation
+Strategy.
+  (2) The Minister may initiate programs or enter into agreements to            Programs
+implement subsection (1).
+  (3) The Minister may prepare or promote the preparation of forest             Management plans
+management plans for private forest landowners, in such form and
+containing such information as may be prescribed by the regulations.
+  (4) Private forest management plans shall                                     Preparation of plans
+    (a) comply with the Forest Policy and Provincial Conservation
+    Strategy;
+    (b) be consistent with the silvics of the species; and
+    (c) be prepared by
+       (i) a forester or forest technician, or
+       (ii) a landowner or his representative.
+  (5) Private forest management plans prepared under subsection (4)             Review and
+must be reviewed by the District Manager and the District Manager shall         approval
+
+have the right to approve a private land forest management plan if it
+complies with subsections (3) and (4) or order its alteration if it does not.
+  (6) The Minister, in the manner prescribed by regulations, may                Certified forest
+designate certified forest producers.                                           producers
+
+
+   (7) The Minister may, in accordance with the regulations, grant              Grants to producers
+financial aid to a certified forest producer. 1988,c.27,s.8.
+Sections 8.1 to 8.6 not proclaimed.
+9. (1) The Minister is responsible for the conservation, utilization,           Crown forest land
+protection and integrated management of Crown forest lands including            management
+
+     (a) harvesting, regeneration and improvement of the timber resource;
+     (b) utilization of Crown timber resources for the best end use;
+     (c) protection of timber resources from fire, insect and disease, and
+     unlawful harvesting, damage or removal;
+     (d) access to and travel on Crown forest lands;
+     (e) conservation and or enhancement of wildlife resources utilizing
+     Crown forest lands;
+
+
+                                     5
+6                 Cap. F-14                   Forest Management Act
+
+
+
+                       (f) protection of representative areas of the forest as forested natural
+                       areas;
+                       (g) provision of forest recreation opportunities on Crown forest
+                       lands.
+Districts          (2) The Minister may divide Crown forest lands into forest
+                  management districts.
+Management plan     (3) The Minister shall cause to be prepared a Crown Forest Land
+for district      Management Plan for each forest management district in accordance with
+                  subsection (4).
+Content of          (4) A Crown Forest Land Management Plan shall
+management plan       (a) define the lands to which it applies and the purpose and scope of
+                      the plan for a twenty year period;
+                      (b) provide a general description of the forest land and its ownership
+                      for the area under consideration;
+                      (c) provide an inventory of the forest for that forest management
+                      district;
+                      (d) identify the protection needs of the forest;
+                      (e) describe the silvics of the major species groupings which will be
+                      managed;
+                      (f) identify biological, physical and legal constraints on the
+                      development of the forest;
+                      (g) specify the twenty year planning objectives for the forest
+                      management plan;
+                      (h) state the management policy for Crown forest land;
+                      (i) specify management priorities for the Crown forest land;
+                      (j) set out the management strategy and programs for the Crown
+                      forest land;
+                      (k) set out five year and twenty year operational projections on
+                      silvicultural activities and estimates of their impact on supply of
+                      forest products and other values for a hundred year period;
+                      (l) include such other items as may be prescribed by the regulations.
+Operations plan    (5) The Minister shall cause to be prepared a Crown Forest Land
+                  Operations Plan for each forest management district.
+Content of          (6) Each Crown Forest Land Operations Plan shall
+operations plan       (a) cover a five year period;
+                      (b) identify the Crown properties on which management and
+                      silvicultural work are to be implemented in the first year of the plan;
+                      (c) describe the amount and type of work to be undertaken in the
+                      following areas:
+                         (i) silviculture,
+                         (ii) timber harvesting,
+
+
+                                                        6
+                           Forest Management Act                  Cap. F-14                     7
+
+
+
+       (iii) road construction and maintenance,
+       (iv) forest protection,
+       (v) forest extension;
+    (d) identify provisions made for multiple use of the forest; and
+    (e) include such other items as may be prescribed by the regulations.
+  (7) The Minister shall make available to the public copies of the           Publication
+District Crown Forest Land Management Plans and the District Crown
+Forest Land Operations Plans. 1988,c.27,s.9.
+10. (1) The Minister may acquire Crown lands for the following                Acquisition of
+purposes:                                                                     Crown lands for
+                                                                              forestry
+     (a) establishing or increasing the land in a Provincial Forest;
+     (b) establishing tree seedling production facilities;
+     (c) establishing seed orchards and testing tree seed sources;
+     (d) establishing or testing silvicultural enhancement techniques;
+     (e) conserving representative forested natural areas and rustic roads;
+     (f) monitoring forest growth;
+     (g) gaining access to Crown forest land;
+     (h) managing surface water levels and runoff on Crown land;
+     (i) establishing demonstration woodlots;
+     (j) establishing parks or acquiring lands for wildlife conservation;
+     (k) producing forest products.
+  (2) The Minister may dispose of Crown forest lands not considered           Disposal
+essential for the implementation of subsection (1) if
+    (a) the sale agreement ensures the proper management and
+    conservation of that Crown forest land;
+    (b) the sale agreement ensures the retention of free public access
+    rights by foot up to all lakes and streams on a corridor ten metres
+    wide measured horizontally from the edge of the lake or stream.
+  (3) The Minister may lease Crown forest land.                               Lease
+
+  (4) A lease of Crown forest land shall                                      Terms of lease
+    (a) be for a period not exceeding ten years except where a longer
+    period is provided for the protection of forested natural areas;
+    (b) designate the terms and conditions for the management of the
+    forest and multiple use resources on the forest lands;
+    (c) be assignable only if
+       (i) the area to be assigned is not a forested natural area, and
+       (ii) the assignee is a bank, trust company or other financial
+       institution approved by the Minister;
+    (d) be made on such other terms and conditions as may be
+    prescribed by regulation;
+
+
+
+                                    7
+8                  Cap. F-14                   Forest Management Act
+
+
+
+                        (e) include a termination clause effective upon failure of the lessee
+                        to fulfill the terms and conditions of the lease. 1988,c.27,s.10.
+Sales permit       11. (1) The Minister may grant a Crown forest product sales permit to
+                   cut, harvest or remove such quantities of timber and other forest products
+                   as he considers to be sustainable based on the District Crown Forest
+                   Land Management Plan.
+Conditions of        (2) A permit shall
+permit                 (a) be provided only for publicly tendered timber or other forest
+                       products;
+                       (b) identify the type and location of forest products to be sold;
+                       (c) specify the utilization standards on trees that are to be harvested;
+                       (d) specify the price for which the forest product is being sold;
+                       (e) specify the condition in which Crown forest roads are to be left
+                       at the completion of harvesting, extraction and removal of forest
+                       products from the property;
+                       (f) not be issued to an individual with outstanding commitments to
+                       the Crown for a previously issued Crown forest product sales permit
+                       which has expired;
+                       (g) indemnify the Crown from any and all legal actions brought as a
+                       result of work carried out under the permit;
+                       (h) not be valid until signed by the applicant for the permit;
+                       (i) give the right to the Crown to inspect the property subject to the
+                       permit at any time;
+                       (j) specify such other conditions and terms as may be specified by
+                       the regulations.
+Lien for payment     (3) The timber or other forest products cut, harvested or removed
+                   under a permit shall remain the property of the Crown until payment in
+                   full is received and the Crown shall have a first lien and charge upon all
+                   property subject to the permit until all conditions of the permit are
+                   satisfied.
+Errors               (4) If in consequence of an incorrect survey or other error or cause
+                   whatsoever, a permit is found to cover lands not owned by the Crown,
+                   the permit shall be void in so far as it interferes with the lands not owned
+                   by the Crown.
+Refund of fee        (5) Where a permit is, pursuant to subsection (4), rendered void in
+                   whole or in part, the permit holder shall have no claim for compensation
+                   except for a refund of the permit fee calculated on a prorated basis on the
+                   area of land for which the permit was issued.
+Cease and desist     (6) A forest service officer may order a permit holder or his agents to
+orders             cease and desist harvesting or removing forest products from all or part
+
+
+                                                        8
+                           Forest Management Act                  Cap. F-14                     9
+
+
+
+of the land subject to the permit if in the officer's opinion the permit
+holder is in violation of the permit.
+   (7) The holder of a permit in respect of which a cease and desist order    No claim for
+is issued pursuant to subsection (6) shall have no claim upon the Crown       compensation
+
+for indemnity or compensation by reason of the order. 1988,c.27,s.11.
+12. (1) Except as authorized by a valid permit, no person shall               Unlawful cutting or
+     (a) cut down or damage timber or other forest products on Crown          removal of timber
+
+     lands; or
+     (b) remove from Crown forest land timber or any other property
+     belonging to the Crown.
+   (2) Any person who violates subsection (1) commits an offence and is       Penalty
+liable on summary conviction to a fine of not less than $100 and not
+more than $5000.
+  (3) A person who is convicted of an offence under clause (1)(a), in         Reforestation costs
+addition to any penalty imposed under subsection (2), is liable for the
+costs of site preparation and reforestation of the area illegally cut or
+damaged and the maintenance of the area until it is free to grow.
+  (4) Where, in contravention of subsection (1)                               Seizure
+    (a) timber or other forest products are cut down or damaged on
+    Crown land;
+    (b) timber, forest products or other property belonging to the Crown
+    is removed from Crown forest lands,
+a forest service officer may seize such timber, forest products or other
+property, together with any equipment or vehicle used in cutting down,
+damaging or removing of such timber, forest products or other property.
+  (5) Where timber or other forest products on Crown forest land have         Idem
+been cut down or removed without authority and found mixed with other
+timber or other forest products
+    (a) other than from Crown forest lands; or
+    (b) authorized to be harvested on Crown forest lands,
+a forest service officer may seize any such other timber or other forest
+products.
+  (6) Where a forest service officer has seized timber or other property in   Notice
+accordance with this section, that officer shall
+    (a) without delay, report the particulars of the seizure to the
+    Minister; and
+    (b) where he has knowledge of the person who is in actual or
+    apparent possession of the timber or other forest products at the time
+    of the seizure, give notice to that person of the seizure, either by
+    personal service or by registered mail.
+
+
+                                    9
+10                   Cap. F-14                   Forest Management Act
+
+
+
+Possession of          (7) Any timber, forest products or equipment seized pursuant to
+seized timber        subsection (4) or (5) shall remain in the possession of the Department,
+                     pending the outcome of a prosecution under this section.
+Return                 (8) In the event that a prosecution has not been initiated within six
+                     months of the offence, the property seized shall be returned, within a
+                     reasonable time, to the owner or the person who was in actual or
+                     apparent possession at the time of the seizure.
+Exception              (9) Notwithstanding subsection (8), property which cannot be
+                     distinguished or separated from Crown timber or Crown forest products,
+                     shall remain in the possession of the Department.
+Property of Crown      (10) Timber or forest products seized under this section, become the
+on conviction        property of the Crown in the event that a guilty plea or verdict is entered
+                     on a prosecution under subsection (2).
+Return to owner of     (11) Subject to subsection (12), equipment seized under this section
+equipment seized     shall be returned to the owner or person from whom it was seized, within
+                     sixty days of the final disposition of a prosecution under this section or at
+                     the expiry of six and a half months from the date of the offence, if no
+                     prosecution is instituted.
+Forfeiture             (12) The judge may order, in addition to any penalty imposed under
+                     this section, that any or all equipment seized in connection with the
+                     offence is forfeited to the Crown. 1988,c.27,s.12; 1994,c.58,s.6.
+Obstruction of       13. (1) No person shall
+forest service            (a) obstruct;
+officer
+                          (b) cause to be obstructed; or
+                          (c) incite others to obstruct,
+                     a forest service officer in the exercise of his authority under the Act, or
+                     any person assisting him in the exercise of that authority.
+Penalty                 (2) Any person who violates subsection (1) commits an offence and is
+                     liable on summary conviction to a fine of not less than $100 and not
+                     more than $2000. 1988,c.27,s.13; 1994,c.58,s.6.
+Crown forest land    14. (1) The Minister may construct and maintain a forest road on Crown
+roads                forest land.
+Standards              (2) The construction or maintenance of a forest road shall be in
+                     accordance with standards prescribed by regulation.
+Closure                (3) The Minister may by order close a forest road to travel by any class
+                     of vehicle or by any person as specified in the order.
+
+
+
+
+                                                          10
+                           Forest Management Act                 Cap. F-14                    11
+
+
+
+  (4) Where the Minister issues an order under subsection (3) he shall       Signs
+post or erect signs to indicate the closure.
+  (5) No person other than a forest service officer or other person          Violation of order
+authorized by the Minister shall violate an order made under subsection
+(3).
+  (6) No person other than a forest service officer or a person authorized   Defacement, etc. of
+by him shall remove or deface a sign posted or erected by the Minister       signs
+
+pursuant to subsection (4).
+  (7) No person may operate on a forest road bridge a vehicle having a       Vehicle weight
+total loaded weight in excess of that determined by the Minister and
+posted at the site.
+  (8) A person who violates subsection (5), (6) or (7) commits an            Penalty
+offence and is liable on summary conviction to a fine of not less than
+$100 and not more than $1000.
+  (9) No claim for damages may be made by any person using a forest          Claims
+road by reason of damage or personal injury resulting from a defect in
+construction, improvement or maintenance of a forest road.
+1988,c.27,s.14; 1994,c.58,s.6.
+15. The Minister may build and operate facilities to                         Facilities
+    (a) produce seedlings for reforestation, conservation of land,
+    wildlife, and water, or for beautification;
+    (b) produce genetically improved tree seed for use in seedling
+    production programs;
+    (c) deliver forest education programs;
+    (d) deliver private land forest management plans;
+    (e) deliver forest management on Crown land;
+    (f) deliver technology transfer programs;
+    (g) deliver forest fire detection, prevention and control programs;
+    (h) implement forest management programs. 1988,c.27,s.15.
+16. The Minister may, by regulation, designate classes of fuelwood.          Fuelwood
+1988,c.27,s.16.                                                              categories
+
+
+17. (1) The Minister may issue scaling and grading licenses in               Scaling and grading
+accordance with the regulations.
+  (2) Where a dispute arises regarding a scaled volume of wood, the          Disputes
+Minister may designate an individual holding a valid scaling license
+under subsection (1) for that type of wood to arbitrate the volume of
+wood under dispute.
+
+
+
+
+                                    11
+12                     Cap. F-14                  Forest Management Act
+
+
+
+Remuneration             (3) An arbitrator appointed under subsection (2) shall receive such
+                       compensation and shall report on the arbitration decision in such manner
+                       as may be prescribed by the regulations. 1988,c.27,s.17.
+Disease control        18. The Minister may, by regulation, establish forest insect and disease
+                       control measures pertaining to the importation, destruction, seizure,
+                       movement and inspection of plants or plant materials which may harbour
+                       insects or cryptogamic disease. 1988,c.27,s.18.
+Forest conservation    19. The Minister may place such restrictions on the harvesting or
+                       extraction of trees within twenty metres of a body of water or within
+                       forty metres on either side of the midline of a designated scenic heritage
+                       road, as may be prescribed by regulation. 1988,c.27,s.19.
+Market                 20. The Minister may initiate programs to support and encourage
+development                (a) the further development of markets for forest products if growth,
+                           yield and availability studies show the forest resource can produce
+                           the forest products for those markets on a sustainable basis;
+                           (b) the further development of the forest industry to produce graded
+                           lumber or other forest products;
+                           (c) the further development of the abilities of landowners to
+                           conserve, protect and utilize the forest in a manner consistent with
+                           the Forest Policy and Provincial Conservation Strategy.
+                           1988,c.27,s.20.
+Information            21. The Minister may request any person engaged in the forest industry
+                       to provide such information as the Minister may request for the better
+                       administration of this Act. 1988,c.27,s.21.
+Forest fire recovery   22. The Minister may enter into agreements with private landowners to
+program                reclaim or regenerate forest land devastated by fire. 1988,c.27,s.22.
+Liability              23. An official or employee of the Department is not personally liable for
+                       any damages occasioned by the performance in good faith of his duty or
+                       by his carrying out orders or instructions received by him from a
+                       supervisor. 1988,c.27,s.23.
+Idem, Crown land       24. The Crown shall not be liable for any injury or damage occurring on
+                       Crown land howsoever caused. 1988,c.27,s.24.
+Regulations            25. The Lieutenant Governor in Council may make regulations
+                           (a) prescribing the contents of a Forest Policy and the manner in
+                           which it is to be reviewed;
+                           (b) respecting the composition, appointment of members, term of
+                           appointment of members, remuneration of members, and operating
+                           procedures for the Forest Improvement Advisory Council;
+                           (c) regarding the training of forest workers;
+
+
+                                                           12
+                       Forest Management Act                   Cap. F-14   13
+
+
+
+(d) respecting forest inventories;
+(e) prescribing the contents of a forest inventory and report;
+(f) establishing methods of calculating sustained yield;
+(g) establishing a site index designation system;
+(h) respecting Crown forest land boundaries;
+(i) establishing programs for the management of private forest land;
+(j) establishing the format, information content, and term of forest
+management plans for private lands;
+(k) establishing the criteria for the certification of forest producers,
+the items for which a certified forest producer shall be eligible, the
+manner of application and the amount of any fees payable, and the
+criteria for payment for eligible claims;
+(l) establishing Provincial Forests;
+(m) establishing forest management districts;
+(n) respecting Crown Forest Land Management Plans, Crown forest
+land operations plans and the management of Crown forest land;
+(o) respecting the leasing or sale of Crown forest lands;
+(p) specifying the terms and conditions of a Crown forest product
+sales permit;
+(q) respecting utilization standards for the harvesting, extraction and
+sale of forest products from Crown forest lands;
+(r) prescribing classes, construction and maintenance standards and
+restriction of access on forest roads;
+(s) designating fuelwood classes and advertising standards for
+fuelwood;
+(t) respecting the scaling of wood, the measurement or estimation of
+wood chip volume, the grading of forest products, and the issuing of
+scaling licenses and grading licenses;
+(u) respecting the appointment, terms of payment, and reports
+applicable to scaling arbitrators;
+(v) respecting the importation, destruction, seizure, movement and
+identification of plants or plant materials which harbour insects or
+cryptogamic disease;
+(w) respecting the conservation and harvesting or the extraction of
+forest products from forests along streams, lakes and scenic heritage
+roads;
+(x) regarding the collection, use and confidentiality of forest product
+sales information;
+(y) prescribing penalties for failure to comply with this Act or the
+regulations;
+(z) prescribing any fees or other charges to be payable pursuant to
+this Act or the regulations. 1988,s.25,c.27; 1998,c.88,s. 25.
+
+
+
+
+                                13
+

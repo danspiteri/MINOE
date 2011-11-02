@@ -1,0 +1,249 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+   Fish Health Protection                                            Règlement sur la
+        Regulations                                              protection de la santé des
+                                                                          poissons
+
+                      C.R.C., c. 812                                                    C.R.C., ch. 812
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published             31. (1) Every copy of a consolidated statute or            31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies      (3) In the event of an inconsistency between a              (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+CHAPTER 812                                                       CHAPITRE 812
+
+FISHERIES ACT                                                     LOI SUR LES PÊCHES
+
+Fish Health Protection Regulations                                Règlement sur la protection de la santé des poissons
+REGULATIONS RESPECTING THE PROTECTION                             RÈGLEMENT CONCERNANT LA PROTECTION DE
+   OF HEALTH OF FISH                                                 LA SANTÉ DES POISSONS
+
+                     SHORT TITLE                                                       TITRE ABRÉGÉ
+  1. These Regulations may be cited as the Fish Health              1. Le présent règlement peut être cité sous le titre :
+Protection Regulations.                                           Règlement sur la protection de la santé des poissons.
+
+                  INTERPRETATION                                                     INTERPRÉTATION
+  2. In these Regulations,                                          2. Dans le présent règlement,
+“approved” means approved by the Minister; (approuvé)             « agent local de protection de la santé du poisson » dé-
+“certificate” means a certificate issued in accordance            signe une personne approuvée comme agent local de
+with section 6; (certificat)                                      protection de la santé du poisson et chargée de l’admi-
+                                                                  nistration et de l’application du présent règlement; (local
+“cultured fish” means a fish listed in Schedule I that is         fish health officer)
+propagated by man in a fish culture facility and includes
+the eggs of such fish; (poisson d’élevage)                        « approuvé » signifie approuvé par le ministre; (ap-
+                                                                  proved)
+“fish health official” means a person approved to inspect
+fish and fish sources for the purposes of these Regula-           « certificat » désigne un certificat visé à l’article 6; (cer-
+tions; (inspecteur sanitaire des poissons)                        tificate)
+
+“import” means to bring into any province of Canada               « importer » signifie introduire dans toute province du
+from any other country or any other province of Canada;           Canada des produits en provenance de l’étranger ou
+(importer)                                                        d’une autre province du Canada; (import)
+
+“import permit” means a permit issued pursuant to sec-            « inspecteur sanitaire des poissons » désigne une per-
+tion 4; (licence d’importation)                                   sonne approuvée pour inspecter le poisson et les sources
+                                                                  de poissons aux fins du présent règlement; (fish health
+“local fish health officer” means a person approved as a          official)
+local fish health officer in charge of the administration
+and enforcement of these Regulations; (agent local de             « licence d’importation » désigne une licence visée à l’ar-
+protection de la santé du poisson)                                ticle 4; (import permit)
+
+“Minister” means the Minister of Fisheries and Oceans;            « ministre » désigne le ministre des Pêches et des
+(ministre)                                                        Océans; (Minister)
+
+“wild fish” means a fish listed in Schedule I, other than a       « poisson d’élevage » désigne un poisson visé à l’annexe
+fish propagated by man in a fish culture facility. (poisson       I, introduit par l’homme dans une piscifacture, et com-
+sauvage)                                                          prend les œufs de ce poisson; (cultured fish)
+                                                                  « poisson sauvage » désigne un poisson visé à l’annexe I,
+                                                                  autre que le poisson introduit par l’homme dans une pis-
+                                                                  cifacture. (wild fish)
+
+
+
+
+                                                              1
+                                            C.R.C., c. 812 — October 6, 2010
+
+
+
+
+                       PROHIBITION                                                            INTERDICTION
+  3. (1) Subject to subsection (2), no person shall im-                3. (1) Sous réserve du paragraphe (2), il est interdit
+port cultured fish or eggs of wild fish without an import           d’importer du poisson d’élevage ou des œufs de poisson
+permit.                                                             sauvage sans une licence d’importation.
+   (2) Subsection (1) does not apply to eviscerated cul-              (2) Le paragraphe (1) ne s’applique pas au poisson
+tured fish.                                                         d’élevage éviscéré.
+SOR/92-196, s. 1.                                                   DORS/92-196, art. 1.
+
+                         PERMITS                                                               LICENCES
+   4. Subject to section 5, a local fish health officer for a          4. Sous réserve de l’article 5, un agent local de pro-
+province may issue, to a person who applies for one, an             tection de la santé du poisson d’une province peut déli-
+import permit that authorizes the person to import cul-             vrer une licence d’importation à quiconque en fait la de-
+tured fish or the eggs of wild fish into that province.             mande, l’autorisant ainsi à importer du poisson
+SOR/97-392, s. 1(E).                                                d’élevage ou des œufs de poisson sauvage dans cette
+                                                                    province.
+                                                                    DORS/97-392, art. 1(A).
+
+  5. No import permit shall be issued unless the person                5. Une licence d’importation n’est délivrée que si la
+who applies for the permit has obtained a certificate and           personne qui en fait la demande a obtenu un certificat et
+   (a) the certificate indicates that no disease or disease         si, selon le cas :
+   agent listed in Schedules II to IV was detected; or                 a) le certificat précise qu’aucune maladie ni aucun
+   (b) the local fish health officer is satisfied that none            agent pathogène visés aux annexes II à IV n’ont été
+   of the detected diseases or disease agents indicated on             dépistés;
+   the certificate will be harmful to the conservation and             b) l’agent local de protection de la santé du poisson
+   protection of fish in the province of importation.                  est convaincu qu’aucune maladie ni aucun agent pa-
+SOR/97-392, s. 2.                                                      thogène indiqués sur le certificat ne nuiront à la
+                                                                       conservation et à la protection du poisson dans la pro-
+                                                                       vince d’importation.
+                                                                    DORS/97-392, art. 2.
+
+                       CERTIFICATES                                                           CERTIFICATS
+  6. A certificate required pursuant to section 5 is is-              6. Le certificat visé à l’article 5 est délivré par un ins-
+sued by a fish health official and                                  pecteur sanitaire des poissons et :
+   (a) certifies that the source of the fish was inspected             a) précise que la source d’où provient le poisson a été
+   in the approved manner; and                                         inspectée de la manière approuvée;
+   (b) indicates which, if any, of the diseases or disease             b) indique, le cas échéant, quelles maladies ou quels
+   agents listed in Schedules II to IV were detected dur-              agents pathogènes visés aux annexes II à IV ont été
+   ing the inspection or inspections, as the case may be.              dépistés au cours de l’inspection ou des inspections.
+SOR/97-392, s. 2.                                                   DORS/97-392, art. 2.
+
+
+
+
+                                                                2
+                                                 C.R.C., ch. 812 — 6 octobre 2010
+
+
+
+
+                          SCHEDULE I                                                                  ANNEXE I
+                             (s. 2)                                                                    (art. 2)
+
+                               FISH                                                                   POISSONS
+   All species and hybrids derived from species of fish belonging to         Toutes les espèces ou hybrides provenant des espèces de poisson
+the family Salmonidae, including the following genera:                     de la famille des Salmonidés, y compris les genres suivants :
+Pacific salmon                     Oncorhynchus spp                        Saumon du Pacifique               Oncorhynchus spp
+Danube salmon and Taimens          Hucho spp                               Saumon du Danube et taimen        Hucho spp
+Atlantic salmon                    Salmo spp                               Saumon de l’Atlantique            Salmo spp
+Trout                              Salmo spp                               Truite                            Salmo spp
+Char                               Salvelinus spp                          Omble                             Salvelinus spp
+Grayling                           Thymallus spp                           Ombre                             Thymallus spp
+Lenok                              Brachymystax spp                        Lenok                             Brachymystax spp
+Inconnus                           Stenodus spp                            Inconnu                           Stenodus spp
+Whitefish                          Coregonus spp                           Corégone                          Coregonus spp
+Whitefish                          Prosopium spp                           Ménomini                          Prosopium spp
+Ayu                                Plecoglossus spp                        Ayu                               Plecoglossus spp
+
+
+
+
+                                                                       3
+                                                        C.R.C., c. 812 — October 6, 2010
+
+
+
+
+                            SCHEDULE II                                                                       ANNEXE II
+                               (s. 6)                                                                           (art. 6)
+
+  DISEASES OR DISEASE AGENTS FOUND IN LIVE FISH OR                               MALADIES OU AGENTS PATHOGÈNES TROUVÉS CHEZ LES
+                   THEIR SOURCE                                                      POISSONS VIVANTS OU DANS LEUR SOURCE
+   1. Any filterable replicating agent capable of causing cytopathic                1. Tout agent de réplication filtrable susceptible de causer des ef-
+effects in the cell lines of fish specified by the Minister, including but       fets cytopathologiques dans les cultures cellulaires du poisson indi-
+not limited to                                                                   quées par le ministre et comprenant, entre autres, les affections
+                                                                                 suivantes :
+  (a) Viral Hemorrhagic Septicemia (Egtved) (Egtved virus, VHSV)
+                                                                                   a) Septicémie hémorragique virale (Egtved) (virus Egtved, SHV)
+  (b) Infectious Hematopoietic Necrosis (IHNV)
+                                                                                   b) Nécrose hématopoïétique infectieuse (NHI)
+  (c) Infectious Pancreatic Necrosis (IPNV)
+                                                                                   c) Nécrose pancréatique infectieuse (NPI)
+  2. Whirling Disease (Myxobolus cerebralis)                                       2. Tournis (Myxobolus cerebralis)
+  3. Ceratomyxosis (Ceratomyxa shasta)                                             3. Cératomyxose (Ceratomyxa shasta)
+  4. Furunculosis (Aeromonas salmonicida)                                          4. Furonculose (Aeromonas salmonicida)
+  5. [Revoked, SOR/87-645, s. 1]                                                   5. [Abrogé, DORS/87-645, art. 1]
+  6. Enteric Redmouth Disease (Yersinia ruckeri)                                   6. Maladie bactérienne de la bouche rouge (Yersinia ruckeri)
+SOR/87-645, s. 1; SOR/92-196, s. 2; SOR/97-392, s. 3.                            DORS/87-645, art. 1; DORS/92-196, art. 2; DORS/97-392, art. 3.
+
+
+
+
+                                                                             4
+                                               C.R.C., ch. 812 — 6 octobre 2010
+
+
+
+
+                         SCHEDULE III                                                           ANNEXE III
+                            (s. 6)                                                                (art. 6)
+
+DISEASES OR DISEASE AGENTS FOUND IN DEAD FISH OR                      MALADIES OU AGENTS PATHOGÈNES TROUVÉS CHEZ LES
+                  THEIR SOURCE                                             POISSONS MORTS OU DANS LEUR SOURCE
+  1. Viral Hemorrhagic Septicemia (Egtved) (Egtved virus, VHSV)         1. Septicémie hémorragique virale (Egtved) (virus Egtved SHV)
+  2. Whirling Disease (Myxobolus cerebralis)                            2. Tournis (Myxobolus cerebralis)
+SOR/92-196, s. 3.                                                     DORS/92-196, art. 3.
+
+
+
+
+                                                                  5
+                                              C.R.C., c. 812 — October 6, 2010
+
+
+
+
+                          SCHEDULE IV                                                         ANNEXE IV
+                           (ss. 5 and 6)                                                       (art. 5 et 6)
+
+ DISEASES OR DISEASE AGENTS FOUND IN LIVE FISH OR                MALADIES OU AGENTS PATHOGÈNES TROUVÉS CHEZ LES
+                  THEIR SOURCE                                       POISSONS VIVANTS OU DANS LEUR SOURCE
+  1. Myxobacterial infections                                      1. Infections myxobactériennes
+  2. Motile Aeromonad Septicemia (Motile Aeromonas sp)             2. Septicémie à aéromonades motiles (Aeromonas sp motile)
+  3. Pseudomonad Septicemia (Pseudomonas spp)                      3. Septicémie à pseudomonades (Pseudomonas spp)
+  4. Vibriosis (Vibrio spp)                                        4. Vibriose (Vibrio spp)
+  5. Bacterial Kidney Disease (Renibacterium salmoninarum)         5. Maladie bactérienne du rein (Renibacterium salmoninarum)
+SOR/87-645, s. 2.                                                DORS/87-645, art. 2.
+
+
+
+
+                                                             6
+

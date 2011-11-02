@@ -1,0 +1,1287 @@
+                             PLEASE NOTE
+This document, prepared by the Legislative Counsel Office, is an office
+consolidation of this regulation, current to January 1, 2006. It is intended for
+information and reference purposes only.
+
+This document is not the official version of these regulations. The regulations and
+the amendments printed in the Royal Gazette should be consulted to determine the
+authoritative text of these regulations.
+
+For more information concerning the history of these regulations, please see the
+Table of Regulations.
+
+If you find any errors or omissions in this consolidation, please contact:
+
+                             Legislative Counsel Office
+                                Tel: (902) 368-4291
+                            Email: legislation@gov.pe.ca
+                              CHAPTER E-9
+
+              ENVIRONMENTAL PROTECTION ACT
+
+            DRINKING WATER AND WASTEWATER
+            FACILITY OPERATING REGULATIONS
+
+Pursuant to section 25 of the Environmental Protection Act R.S.P.E.I.
+1988, Cap. E-9, Council made the following regulations:
+
+1. (1) In these regulations                                                    Definitions
+
+    (a) “Act” means the Environmental Protection Act R.S.P.E.I. 1988,          Act
+    Cap. E-9;
+    (b) “Atlantic Canada Water and Wastewater Voluntary Certification          Atlantic Canada
+    Board” means the Board established by the Atlantic Canada Water            Water &
+                                                                               Wastewater
+    and Wastewater Association to classify a public drinking water             Voluntary
+    supply facility, small public drinking water supply facility, water        Certification Board
+    treatment facility, water distribution facility, wastewater treatment
+    facility or wastewater collection facility, and to certify the operators
+    of these facilities;
+    (c) “Chief Health Officer” means the chief health officer appointed        Chief Health
+    under section 2 of the Public Health Act R.S.P.E.I. 1988, Cap. P-30;       Officer
+
+    (d) “contact hour” means a fifty-minute classroom instruction              contact hour
+    session or its equivalent as determined by the Department;
+    (e) “continuing education unit” means 10 hours of participation in a       continuing
+    continuing education program recognized by the Department;                 education unit
+
+    (f) “Department” means the Department of Environment and                   Department
+    Energy;
+    (g) “detailed chemical analysis” means a detailed chemical analysis        detailed chemical
+    of a water quality sample for the chemicals listed in section 2 of         analysis
+
+    Schedule C;
+    (h) “direct responsible charge” or “DRC” means the direct charge of        direct responsible
+    the operations at a public drinking water supply facility, small public    charge, DRC
+
+    drinking water supply facility, water treatment facility, water
+    distribution facility, wastewater treatment facility, or wastewater
+    collection facility;
+    (i) “facility” means a public drinking water supply facility, small        facility
+    public drinking water supply facility, water treatment facility, water
+    distribution facility, wastewater treatment facility or wastewater
+2                   Cap. E-9                   Environmental Protection Act                  Updated 2006
+                                Drinking Water and Wastewater Facility Operating Regulations
+
+
+                         collection facility, but does not include a semi-public drinking water
+                         supply system;
+facility                 (j) “facility classification certificate” means a certificate issued
+classification           under subsection 2(3) or (6) that classifies a public drinking water
+certificate
+                         supply facility, small public drinking water supply facility, water
+                         treatment facility, water distribution facility, wastewater treatment
+                         facility, wastewater collection facility, or a combination of these
+                         facilities;
+general chemical         (k) “general chemical analysis” means a general chemical analysis
+analysis                 of a water quality sample for the chemicals listed in section 1 of
+                         Schedule C;
+Guidelines for           (l) “Guidelines for Canadian Drinking Water Quality” means the
+Canadian Drinking        recommendations for drinking water quality published by Health
+Water Quality
+                         Canada;
+modification             (m) “modification” means an alteration to a facility whereby a new
+                         structure or equipment is added or an existing structure or equipment
+                         is eliminated and the alterations do not change the purpose or
+                         function of the facility;
+operator                 (n) “operator” means the person in direct responsible charge of the
+                         operation of a public drinking water supply facility, small public
+                         drinking water supply facility, water treatment facility, water
+                         distribution facility, wastewater treatment facility or wastewater
+                         collection facility;
+operator’s               (o) “operator’s certificate” means a certificate of qualification issued
+certificate              by the Minister under Part II;
+owner                    (p) “owner” means a person who owns, operates or maintains a
+                         public drinking water supply facility, small public drinking water
+                         supply facility, water treatment facility, water distribution facility,
+                         wastewater treatment facility, wastewater collection facility or semi-
+                         public drinking water supply system;
+public drinking          (q) “public drinking water supply facility” means a drinking water
+water supply             supply facility serving five or more households;
+facility
+semi-public              (r) “semi-public drinking water supply system” means a drinking
+drinking water           water supply system with a minimal or no distribution system that
+supply system
+                         provides drinking water to the public from a system not connected to
+                         a public drinking water supply facility;
+small public             (s) “small public drinking water supply facility” means a drinking
+drinking water           water supply facility that serves 100 or fewer customers;
+supply facility
+Updated 2006                  Environmental Protection Act                    Cap. E-9                         3
+               Drinking Water and Wastewater Facility Operating Regulations
+
+
+    (t) “small wastewater collection facility” means a publicly or
+                                                                                         small wastewater
+    privately owned facility for the collection or transmission of                       collection facility
+    wastewater that serves 100 or fewer customers;
+    (u) “Standards Council of Canada” means the corporation                              Standards Council
+    established by the Standards Council of Canada Act (Canada);                         of Canada
+
+    (v) “wastewater” means sewage or industrial process water;                           wastewater
+
+    (w) “wastewater collection facility” means a publicly or privately                   wastewater
+    owned facility for the collection or transmission of wastewater;                     collection facility
+
+    (x) “wastewater treatment facility” means a publicly or privately                    wastewater
+    owned facility for the treatment and disposal of wastewater, but does                treatment facility
+
+    not include an on-site sewage disposal system;
+    (y) “water distribution facility” means a publicly or privately owned                water distribution
+    facility for the production, collection, storage and transmission of                 facility
+
+    drinking water;
+    (z) “water treatment facility” means a publicly or privately owned                   water treatment
+    facility for the treatment of drinking water, but does not include                   facility
+
+    water treatment equipment used in private residences or a bottled
+    water treatment facility.
+  (2) Repealed by EC710/04.                                                              Application
+
+  (3) Repealed by EC710/04. (EC710/04)                                                   Repeal
+
+
+                                        PART I
+
+                         FACILITY CLASSIFICATION
+2. (1) No owner of a facility shall operate the facility, or permit it to be             Facility
+                                                                                         classification
+operated, unless                                                                         certificate
+    (a) a facility classification certificate has been issued for the facility
+    under this section; or
+    (b) a facility classification certificate is deemed to have been issued
+    for the facility under subsection 3(2).
+                                                                                         Application for a
+  (2) An application for a facility classification certificate shall be made             facility
+on a form approved by the Minister.                                                      classification
+                                                                                         certificate
+
+  (3) After reviewing an application for a facility classification                       Issuance of facility
+certificate, the Department shall                                                        classification
+                                                                                         certificate
+     (a) classify the facility in accordance with section 3; and
+     (b) issue a facility classification certificate to the owner of the
+     facility that specifies the class level of the facility.
+4                      Cap. E-9                  Environmental Protection Act                  Updated 2006
+                                  Drinking Water and Wastewater Facility Operating Regulations
+
+
+                         (4) Where a facility classification certificate has been issued, or is
+Notification of
+modification to
+                       deemed to have been issued, for a facility, the owner of the facility shall
+facility               ensure the facility is not subsequently modified unless a written notice
+                       that providing details of the modifications is given to the Department.
+Decision of              (5) Within 30 days of receipt of the notice provided under subsection
+reclassification       (4), the Department shall advise the owner of the facility in writing
+                       whether the original classification for the facility needs to be changed.
+New classification        (6) Where the Department determines that the original classification if
+facility certificate   a facility needs to be changed under subsection (5), the Department shall
+                       issue a new facility classification certificate to the owner of the facility.
+                       (EC710/04)
+Criteria for           3. (1) The Department shall classify a facility using
+classification             (a) the classification system for water treatment facilities and water
+                           distribution facilities, wastewater treatment facilities and wastewater
+                           collection facilities, as prescribed in Table 1 of Schedule A to these
+                           regulations; and
+                           (b) the point system classification and guidelines for water
+                           treatment facilities or wastewater treatment facilities as prescribed in
+                           Tables 2 and 3 of Schedule A to these regulations.
+Deemed                   (2) Where, before the date this section comes into force, a facility was
+classification and     classified by the Atlantic Canada Water and Wastewater Voluntary
+certification
+                       Certification Board, a facility classification certificate is deemed to have
+                       been issued for the facility under these regulations, and the facility is
+                       deemed to have been classified under these regulations at the class level
+                       equivalent to that assigned by the Atlantic Canada Water and
+                       Wastewater Voluntary Certification Board. (EC710/04)
+
+                                                          PART II
+
+                                            OPERATOR CERTIFICATION
+Operator’s             4. (1) Every owner of a facility for which a facility classification
+certification
+requirement
+                       certificate has been issued, or is deemed to have been issued, shall place
+                       the responsibility for the operation, repair and maintenance of the facility
+                       under the direct responsible charge of an operator who holds, or is
+                       deemed to hold, a valid operator’s certificate of a classification that is
+                       equivalent to or greater than the classification assigned to the facility.
+Level of                 (2) No person shall act as the operator of a facility unless
+classification             (a) the person holds, or is deemed to hold, a valid operator’s
+required
+                           certificate of a classification that is equivalent to or greater than the
+                           classification assigned to the facility; or
+Updated 2006                  Environmental Protection Act                    Cap. E-9                      5
+               Drinking Water and Wastewater Facility Operating Regulations
+
+
+    (b) the person holds a valid temporary permit issued under
+    subsection (3).
+  (3) Where the classification of a facility has been upgraded above the                 Temporary permit
+classification of the operator of the facility, the Department may issue a
+temporary permit to the operator that authorizes the operator to operate
+the facility for the period specified in the permit.
+  (4) Where, before the date this section comes into force, an operator                  Deemed
+was certified by the Atlantic Canada Water and Wastewater Voluntary                      certification
+
+Certification Board, the operator is deemed, until the expiry of the
+certification, to hold an operator’s certificate under these regulations
+with a classification level equivalent to that assigned by the Atlantic
+Canada Water and Waste Water Voluntary Certification Board.
+  (5) An operator who has been certified outside the province by an                      Certification
+equivalent certifying agency, and who produces information requested                     outside the province
+
+by the Department, may be issued an operator’s certificate, under these
+regulations. (EC710/04)
+5. (1) The Minister shall, on application made on a form approved by                     Operator’s
+                                                                                         certificate
+the Minister, issue an operator’s certificate to an applicant, or renew the
+operator’s certificate of an applicant, who satisfies the requirements of
+these regulations.
+  (2) An operator’s certificate that is issued or renewed under subsection               Duration of
+(1) is valid for four years from the date of issuance.                                   operator’s
+                                                                                         certificate
+
+ (3) A person who holds an operator’s certificate may apply to the                       Renewal of
+Minister to have it renewed on its expiry.                                               operator’s
+                                                                                         certificate
+
+  (4) A person who applies to renew an operator’s certificate shall                      Proof of continuing
+provide proof, satisfactory to the Minister,                                             education units
+
+    (a) if the application is to renew a Class I or Class II operator’s
+    certificate, that the person has successfully completed at least 2.4
+    continuing education units since the date the operator’s certificate
+    was last issued to or renewed for the person; or
+    (b) if the application is to renew a Class III or Class IV operator’s
+    certificate, that the person has successfully completed at least 4.8
+    continuing education units since the date the operator’s certificate
+    was last issued to or renewed for the person.
+  (5) An applicant for a particular type or class of operator’s certificate              Requirements for
+shall satisfy the educational and operating experience requirements for                  operator’s
+                                                                                         certification
+that type or class of operator’s certificate that are prescribed in Schedule
+B of these regulations.
+6                    Cap. E-9                  Environmental Protection Act                  Updated 2006
+                                Drinking Water and Wastewater Facility Operating Regulations
+
+
+                       (6) Notwithstanding subsection (5), where an applicant fails to meet
+Substitutions for
+education or
+                     the educational or operating requirements prescribed in Schedule B, the
+operating            Minister may accept substitutions for education or operating experience,
+experience           if they are within the limits prescribed in Schedule B regarding
+                     substitutions.
+Examination            (7) In order to be certified to operate a particular type of facility for
+                     which a facility classification certificate has been issued, or is deemed to
+                     have been issued, an applicant shall
+                         (a) write an examination approved by the Minister; and
+                         (b) achieve a pass mark established by the Minister.
+Maintenance of         (8) Every operator who terminates employment at a facility that is
+operator’s           subject to these regulations may maintain the operator’s certificate for up
+certificate
+                     to two years after the termination on payment of the renewal fee.
+Invalid operator’s     (9) Where an operator’s certificate has been maintained for two years
+certificate          after the termination under subsection (8), the operator’s certificate is
+                     deemed invalid at the end of the two-year period.
+Reinstatement of       (10) Where an operator’s certificate has been deemed invalid under
+operator’s           subsection (9), the former operator may have the operator’s certificate
+certificate
+                     reinstated where
+                          (a) proof, satisfactory to the Minister, of the former operator’s
+                          competency is presented to the Minister; and
+                          (b) the former operator successfully completes an examination
+                          approved by the Minister.
+Fee — application      (11) An applicant who applies for an examination under subsection (7)
+for examination      or (10) shall pay a fee of $50.
+Fee — renewal          (12) An applicant who applies for renewal of a operator’s certificate
+application          under subsection (1) shall pay a fee of $20. (EC710/04)
+
+                                                        PART III
+
+                                    DRINKING WATER SUPPLY FACILITY
+                                       MONITORING REQUIREMENTS
+Application          6. This Part applies to all public drinking water supply facilities and
+                     semi-public drinking water supply systems. (EC710/04)
+Registration of      7. (1) No person shall operate a public drinking water supply facility or
+public drinking
+water supply
+                     a semi-public drinking water supply system unless the public drinking
+facility             water supply facility or semi-public drinking water supply system is
+                     registered with the Department.
+Updated 2006                  Environmental Protection Act                    Cap. E-9                        7
+               Drinking Water and Wastewater Facility Operating Regulations
+
+
+  (2) A person may register with the Department a public drinking water
+supply facility or a semi-public drinking water supply system by                         Idem
+
+submitting to the Department a completed registration application in a
+form approved by the Department. (EC710/04)
+8. The assessment of water quality monitoring results under this Part                    Assessment of
+shall be based on the recommendations in the most recent version of the                  monitoring results
+
+Guidelines for Canadian Drinking Water Quality, or, where no such
+guidelines exist, on the advice of the Chief Health Officer. (EC710/04)
+9. The owner of a semi-public drinking water supply system shall ensure                  Monitoring
+that water quality samples are collected and analyzed for                                frequency — semi -
+                                                                                         public drinking
+     (a) the presence of coliform bacteria and E.coli on at least a                      water supply system
+     quarterly basis each year; and
+     (b) a general chemical analysis at least once each year. (EC710/04)
+10. The owner of a small public drinking water supply facility shall                     Monitoring
+                                                                                         frequency — small
+ensure that water quality samples shall be collected and analyzed for                    public drinking
+    (a) the presence of coliform bacteria and E.coli from each source of                 water supply
+    supply, and from at least two sites within the distribution system, on               facility
+    a quarterly basis each year;
+    (b) a general chemical analysis from each source of supply at least
+    once a year; and
+    (c) a detailed chemical analysis from each source of supply at least
+    once every five years. (EC710/04)
+11. (1) The owner of a public drinking water supply facility where a                     Monitoring
+                                                                                         frequency —
+free chlorine residue of 0.1 milligrams per litre or more is maintained in               chlorinated public
+the distribution system shall ensure that sampling is conducted such that                drinking water
+the interval between the collection of water quality samples from the
+distribution system does not exceed two weeks and that
+     (a) a minimum of four water quality samples per month or, where
+     the population served exceeds 5,000, one water quality sample per
+     month for every 1,000 persons served, is collected from the
+     distribution system and analyzed for the presence of coliform
+     bacteria and E.coli;
+     (b) a minimum of one water quality sample per month is collected
+     from each source of supply and analyzed for the presence of
+     coliform bacteria and E.coli;
+     (c) a minimum of one water quality sample per year is collected
+     from each source of supply and analyzed for a general chemical
+     analysis;
+     (d) a minimum of one water quality sample every three years is
+     collected from each source of supply and analyzed for a detailed
+     chemical analysis;
+8                    Cap. E-9                  Environmental Protection Act                  Updated 2006
+                                Drinking Water and Wastewater Facility Operating Regulations
+
+
+                          (e) a minimum of one measurement per week is made of the
+                          disinfection residue at representative points within the distribution
+                          system, and that the results are recorded and available for inspection
+                          by the Department; and
+                          (f) any other minimum water quality sampling requirements as
+                          directed by the Department.
+Monitoring             (2) The owner of a public drinking water supply facility where a free
+frequency — non-     chlorine residue of 0.1 milligrams per litre is not maintained within the
+chlorinated public
+drinking water       distribution system shall ensure that sampling is conducted such that the
+                     interval between the collection of water quality samples from the
+                     distribution system does not exceed one week and that
+                          (a) a minimum of four water quality samples per month or, where
+                          the population served exceeds 5,000, one water quality sample per
+                          month for every 1,000 persons served, is collected from the
+                          distribution system and analyzed for the presence of coliform
+                          bacteria and E.coli;
+                          (b) a minimum of one water quality sample per week is collected
+                          from each source of supply and analyzed for the presence of
+                          coliform bacteria and E.coli;
+                          (c) a minimum of one water quality sample per year is collected
+                          from each source of supply and analyzed for a general chemical
+                          analysis; and
+                          (d) a minimum of one water quality sample every three years is
+                          collected from each source of supply and analyzed for a detailed
+                          chemical analysis. (EC710/04)
+Seasonal operation   12. (1) The owner of a small public drinking water supply facility or
+                     semi-public drinking water supply system that is not operated year-round
+                     shall ensure, prior to start-up, that at least one water quality sample,
+                     collected as a requirement of these regulations, is analyzed for the
+                     presence of coliform bacteria and E.coli by a laboratory accredited by the
+                     Standards Council of Canada or by an equivalent accreditation body.
+Notification to
+Department of          (2) Where a water quality sample is analyzed by a laboratory other
+results              than the PEI Analytical Laboratories and where the results of the analysis
+                     indicate the presence of E.coli, the owner shall notify the Department
+                     immediately by telephone or facsimile of the results of the analysis.
+                     (EC710/04)
+Use of accredited    13. (1) The owner of a public drinking water supply facility or a semi-
+laboratory
+                     public drinking water supply system shall ensure that water quality
+                     samples collected as a requirement of these regulations are analyzed by a
+                     laboratory accredited by the Standards Council of Canada or by an
+                     equivalent accreditation body.
+Updated 2006                  Environmental Protection Act                    Cap. E-9                          9
+               Drinking Water and Wastewater Facility Operating Regulations
+
+
+  (2) Where a water quality sample is analyzed by a laboratory other
+                                                                                         Reporting of results
+than the PEI Analytical Laboratories, the owner shall submit the results                 from laboratories
+of the analysis to the Department within five working days of the receipt                other than PEI
+of the analysis.                                                                         Analytical
+                                                                                         Laboratories
+  (3) Where a water quality sample is analyzed by a laboratory other                     Notification to
+than the PEI Analytical Laboratories and where the results of the analysis               Department of
+                                                                                         results
+indicate the presence of E.coli, the owner shall notify the Department
+immediately by telephone or facsimile. (EC710/04)
+14. (1) The owner of a public drinking water supply facility shall report,               Reporting to
+in summary form, the results of water quality analyses required by these                 customers
+
+regulations to the customers of the public drinking water supply facility,
+at least once a year.
+  (2) The owner of a public drinking water supply facility or semi-                      Record retention
+public drinking water supply system shall ensure that a record of all
+water quality analyses required under these regulations is maintained for
+a period of at least five years. (EC710/04)
+
+                                       PART IV
+
+                  WASTEWATER TREATMENT FACILITY
+                    MONITORING REQUIREMENTS
+15. This Part applies to all wastewater treatment facilities. (EC710/04)                 Wastewater
+                                                                                         treatment facilities
+16. (1) No person shall operate a wastewater treatment facility unless the               Registration of
+                                                                                         wastewater
+wastewater treatment facility is registered with the Department.                         treatment facility
+
+  (2) A person may register with the Department a wastewater treatment                   Idem
+facility by submitting to the Department a completed registration
+application in a form approved by the Department. (EC710/04)
+17. (1) The owner of a Class I wastewater treatment facility shall ensure                Analysis of
+                                                                                         wastewater samples
+that samples of treated wastewater are collected and analyzed for
+     (a) biological oxygen demand, suspended solids and fecal coliform
+     bacteria on a quarterly basis per year;
+     (b) ammonia, total phosphorous and total nitrogen on a yearly basis;
+     and
+     (c) any other water quality sampling requirements directed by the
+     Department.
+  (2) The owner of Class II, Class III or Class IV wastewater treatment                  Class II or III
+facility shall ensure that samples of treated wastewater are collected and               wastewater
+                                                                                         treatment facilities
+analyzed for
+10                      Cap. E-9                  Environmental Protection Act                  Updated 2006
+                                   Drinking Water and Wastewater Facility Operating Regulations
+
+
+                             (a) biological oxygen demand, suspended solids and fecal coliform
+                             bacteria on a monthly basis;
+                             (b) ammonia, total phosphorous and total nitrogen on a yearly basis;
+                             and
+                             (c) any other water quality sampling requirements directed by the
+                             Department. (EC710/04)
+Use if accredited       18. (1) The owner of a wastewater treatment facility shall ensure that
+laboratory              wastewater quality samples collected as a requirement of these
+                        regulations are analyzed by a laboratory accredited by the Standards
+                        Council of Canada or by an equivalent accreditation body.
+Reporting of results      (2) Where a wastewater quality sample is analyzed by a laboratory
+from laboratories       other than the PEI Analytical Laboratories, the owner shall submit the
+other than PEI
+Analytical              results of the analysis to the Department within five working days of the
+Laboratories            receipt of the analysis. (EC710/04)
+Reporting to            19. (1) The owner of a wastewater treatment facility shall report, in
+customers
+                        summary form, the results of wastewater analyses required by these
+                        regulations to the customers of the wastewater treatment facility, at least
+                        once a year.
+Record retention          (2) The owner of a wastewater treatment facility shall ensure a record
+                        of all wastewater analyses required under these regulations is maintained
+                        for a period of at least five years. (EC710/04)
+
+                                                           PART V
+
+                                   WELL FIELD PROTECTION REQUIREMENTS
+Submission of well      20. (1) Where a municipality is the owner of a public drinking water
+field protection plan
+                        supply facility, the municipality shall, on or before January 1, 2006,
+                        develop and submit to the Department, for the approval of the Minister, a
+                        well field protection plan for the protection of the principal sources of
+                        drinking water supply of the municipality, including any well fields or
+                        wells that collectively provide two-thirds or more of the overall drinking
+                        water demand of the serviced area of the municipality.
+Capture zones             (2) For the purposes of subsection (3), the Department
+                            (a) may identify any areas of a municipality or the province as a
+                            250-day, 5-year or 25-year capture zone of the well field of a
+                            municipality;
+                            (b) shall advise the municipality of any capture zones the
+                            Department identifies pursuant to clause (a); and
+Updated 2006                  Environmental Protection Act                    Cap. E-9                      11
+               Drinking Water and Wastewater Facility Operating Regulations
+
+
+    (c) may direct the municipality to take into consideration in the
+    development of its well field protection plan such potential sources
+    of contamination as the Department considers appropriate.
+  (3) A well field protection plan shall include                                         Contents of plan
+    (a) a description of the proposed measures, including zoning bylaws,
+    legally binding agreements, or the purchase or lease of sensitive
+    lands, that the municipality intends to implement to prevent the
+    contamination of ground water within any capture zone that has
+    been identified by the Department for the well field;
+    (b) an emergency response plan or contingency plan to address
+    accidental releases of contaminants or other unplanned events that
+    may threaten the quality of ground water within any capture zone
+    that has been identified by the Department for the well field;
+    (c) a copy of a map describing the area that includes the capture
+    zones that have been identified by the Department and that shows
+    the boundaries of any land use control zones proposed for the
+    protection of ground water quality;
+    (d) an inventory of all non-conforming land uses or activities
+    identified within any capture zone that has been identified by the
+    Department for the well field;
+    (e) a description of measures and time frames proposed to address
+    existing non-conforming land uses or activities within any capture
+    zone that has been identified by the Department for the well field;
+    (f) a description of any present or future bylaws intended for the
+    control, restriction or elimination of future non-conforming land
+    uses or activities within any capture zone of the well field that has
+    been identified by the Department for the well field.
+  (4) After reviewing a well field protection plan submitted by a                        Approval
+municipality in accordance with this section, the Minister may provide a
+written approval of the plan to the municipality if, in the opinion of the
+Minister, the plan will, on implementation, provide adequate protection
+for the drinking water supply of the municipality.
+  (5) In a written approval provided under subsection (4), the Minister                  Implementation
+    (a) shall set out the date by which the implementation of all or a part              schedule
+
+    of a well field protection plan must be completed; and
+    (b) may attach such conditions to the approval as the Minister
+    considers appropriate.
+   (6) A municipality shall complete the implementation of an approved                   Duty to implement
+well field protection plan, or a part of such a plan, on or before the later
+of
+     (a) the completion date specified on the written approval; or
+12           Cap. E-9                  Environmental Protection Act                  Updated 2006
+                        Drinking Water and Wastewater Facility Operating Regulations
+
+
+                  (b) the completion date specified in the most recent written
+                  extension granted under subsection (7).
+Extensions      (7) On application, the Minister may, in writing grant an extension,
+             extend the date for the completion of all or a part of an approved well
+             field protection plan.
+Report         (8) A municipality shall, within 90 days of completing the
+             implementation of an approved well field protection plan, submit to the
+             Department a written report containing such information as the
+             Department may require respecting the implementation of the approved
+             plan.
+Completion     (9) For the purposes of this section, the implementation of an approved
+             well field protection plan is deemed to be completed where the bylaws,
+             agreements and other measures of the plan referred to in clauses (3)(a),
+             (e) and (f) have been enacted, entered into or otherwise completed, as the
+             case may be. (EC710/04)
+Updated 2006                  Environmental Protection Act                    Cap. E-9                       13
+               Drinking Water and Wastewater Facility Operating Regulations
+
+
+                                   SCHEDULE A
+
+                    CLASSIFICATION OF FACILITIES
+1. Facilities shall be divided into four operational categories:                         Categories
+     (a) Water Treatment (WT);
+     (b) Water Distribution (WD);
+     (c) Wastewater Treatment (WWT);
+     (d) Wastewater Collection (WWC).
+2. Facilities shall be classified as small facility, Class I, II, III, or IV,            Classification of
+according to complexity and capacity of operation, with Class IV being                   facilities
+
+the highest. Classification of water treatment facilities and wastewater
+treatment facilities is based on a point system in accordance with Tables
+1, 2, and 3. Classification of water distribution facilities and wastewater
+collection facilities shall be based on populations served.
+3. An owner who wants a facility classified shall file an application with               Application for
+                                                                                         facility
+the Department on an application form provided by the Department. The                    classification
+fee, if required, shall accompany the application.
+4. The Department shall review applications and supporting documents,                    Review
+determine the eligibility of the facility for the classification, and notify
+the applicant of the facility status in writing.
+5. Classification of any facility may be changed at the discretion of the                Classification
+                                                                                         changes
+Department by reason of changes in any condition or circumstance on
+which the original classification was predicated. Notice of any such
+change shall be given to the owner of the facility.
+6. On satisfactory fulfilment of the prescribed requirements and based                   Facility
+                                                                                         classification
+on the recommendation of the Department, the Department shall issue to                   certificate
+the applicant a certificate designating the facility classification.
+7. Facility classification certificates are permanent unless revoked for                 Certificate
+                                                                                         permanency
+cause or replaced by one of a higher class.
+(EC710/04)
+14   Cap. E-9                    Environmental Protection Act                  Updated 2006
+                  Drinking Water and Wastewater Facility Operating Regulations
+
+
+                                            TABLE 1
+
+                      FACILITY CLASSIFICATION SYSTEM
+
+      Facility       Units        Small        CLASS        CLASS        CLASS          CLASS
+                                 Facility         I            II          III            IV
+     WT            Range of     N/A           30 or less   31-55        56-75          76 &
+                   points                                                              greater
+     WD*           Population     0-100          100 to         1,501 -       15,001 - 50,001 &
+                   served                        1,500          15,000        50,000   greater
+     WWT           Range of       N/A            30 or less     31-55         56-75    76 &
+                   points                                                              greater
+     WWC*          Population     N/A            100 to         1,501 -       15,001 - 50,001 &
+                   served                        1,500          15,000        50,000   greater
+     * Simple “in-line” treatment (such as booster pumping or preventive chlorinating or odor
+     control) is considered an integral part of a distribution or collection system.
+     (EC710/04)
+Updated 2006                  Environmental Protection Act                      Cap. E-9    15
+               Drinking Water and Wastewater Facility Operating Regulations
+
+
+                                      TABLE 2
+
+                 POINT SYSTEM CLASSIFICATION OF
+                WATER TREATMENT FACILITIES (WT):
+
+A drinking water supply facility with only chlorination added is
+considered a distribution system, not a water treatment facility. The
+addition of any chemical, other than chlorine, to a public drinking water
+supply facility shall be considered water treatment and the person in
+direct responsible charge should use this rating worksheet to determine
+the classification of the facility. Each unit process shall have points
+assigned only once.
+
+Item                                                                          Points
+Size (2 points minimum to 20 points maximum)
+      Maximum population or parts served, peak day (1 point minimum     1 point per
+      to 10 points maximum)                                             10,000 persons
+                                                                        or fraction
+    Design flow average day or peak month’s part flow average day,      1 point per 4,546
+    whichever is larger (1 point minimum to 10 points maximum)          m3/d or fraction
+Water supply sources
+    Groundwater                                                                3
+    Groundwater under the influence of surface water                           5
+    Surface water                                                               5
+    Average raw water quality varies enough to require treatment              2-10
+    changes 10% of the time
+          •    Little or no variation                                          0
+          •    High variation. Raw water quality subject to periodic           10
+               serious industrial waste pollution
+    Raw water quality is subject to or has elevated:
+          •    Taste and/or odor levels                                         3
+          •    Color levels                                                     3
+          •    Iron and/or manganese levels                                     5
+          •    Turbidity levels                                                 5
+          •    Coliform and/or fecal counts                                     5
+          •    Algal growths                                                    5
+    Raw water quality is subject to periodic:
+          •    Industrial and commercial waste pollution                        5
+          •    Agricultural pollution                                           5
+          •    Urban runoff, erosion, and storm water pollution                 3
+          •    Recreational use (boating, fishing, etc.)                        2
+          •    Urban development and residential land use pollution             2
+Chemical treatment/addition process
+    Fluoridation                                                                5
+    Disinfection
+          •    Gaseous chlorine                                                 5
+          •    Liquid or powdered chlorine                                      5
+          •    Chlorine dioxide                                                 5
+16   Cap. E-9                     Environmental Protection Act                  Updated 2006
+                   Drinking Water and Wastewater Facility Operating Regulations
+
+
+                 •      Ozonization (on-site generation)                           10
+           pH adjustment* (Calcium carbonate, carbon dioxide, hydrochloric         5
+           acid, calcium oxide, calcium hydroxide, sodium hydroxide, sulfuric
+           acid, other)
+           Stability or corrosion control (Calcium oxide, calcium hydroxide,       10
+           sodium carbonate, sodium hexametaphosphate, other)
+     Coagulation and flocculation process
+           Chemical addition (1 point for each type of chemical coagulant           5
+           added, maximum 5 points) (Aluminium sulfate, bauxite, ferrous
+           sulfate, ferric sulfate, calcium oxide, bentonite, calcium carbonate,
+           carbon dioxide, sodium silicate, other)
+           Rapid mix units
+                 •      Mechanical mixers                                           3
+                 •      Injection mixers                                            2
+                 •      In-line blender mixers                                      2
+           Flocculation tanks
+                 •      Hydraulic flocculators                                      2
+                 •      Mechanical flocculators                                     3
+     Clarification/sedimentation process
+           Horizontal-flow (rectangular basins)                                    5
+           Horizontal-flow (round basins)                                          7
+           Up-flow solid-contact sedimentation                                     15
+           Inclined-plate sedimentation                                            10
+           Tube sedimentation                                                      10
+           Dissolved air flotation                                                 30
+     Filtration process
+           Single media filtration                                                 3
+           Dual or mixed media filtration                                          5
+           Microscreens                                                            5
+           Diatomaceous earth filters                                              5
+           Cartridge filters                                                       5
+           Slow sand filters                                                       5
+           Direct filtration                                                       5
+           Pressure or greens and filtration                                       20
+     Other treatment processes
+           Aeration                                                                 3
+           Packed tower aeration                                                    5
+           Ion-exchange/softening                                                   5
+           Lime-soda ash softening                                                 20
+           Copper sulfate treatment                                                5
+           Powdered activated carbon                                                5
+     Special processes (reverse osmosis, electrodialysis, other)                   15
+     Residuals disposal
+           Discharge to lagoons                                                    5
+           Discharge to lagoons and then to raw water source                       8
+           Discharge to raw water source                                           10
+           Disposal to sanitary sewer                                              3
+           Mechanical dewatering                                                   5
+           On-site disposal                                                        5
+           Land application                                                        5
+           Solids composting                                                       5
+Updated 2006                  Environmental Protection Act                    Cap. E-9   17
+               Drinking Water and Wastewater Facility Operating Regulations
+
+
+Facility characteristics
+      Instrumentation
+            •    The use of SCADA or similar instrumentation systems          0
+                 to provide data with no process operation
+            •    The use of SCADA or similar instrumentation systems          2
+                 to provide data with limited process operation
+            •    The use of SCADA or similar instrumentation systems          4
+                 to provide data with moderate process operation
+            •    The use of SCADA or similar instrumentation systems          6
+                 to provide data with extensive or total process operation
+      Clearwell size less than average day design flow                        5
+18   Cap. E-9                   Environmental Protection Act                  Updated 2006
+                 Drinking Water and Wastewater Facility Operating Regulations
+
+
+     Water Treatment Definitions
+
+     Aeration
+     The process of adding air to water. Air is added to water by passing air
+     through water or passing water through air.
+
+     Diatomaceous earth filters
+     A filter technology using a thin layer of diatomaceous earth (a fine,
+     siliceous material) that is deposited on a porous plate to serve as a filter.
+     A good technology for smaller systems because of its relative simplicity
+     of units and maintenance requirements.
+
+     Direct filtration
+     A filtration process where the sedimentation stage of conventional
+     filtration is omitted. Filtration is performed directly after the flocculation
+     stage of treatment. A filter aid is usually added before filtration.
+
+     Dissolved air flotation
+     The process of solids removal whereby dissolved air is added to the
+     clarifier from the bottom of the basin and the air raises suspended
+     particles to the top of the water where the particles are removed by
+     skimming.
+
+     Electrodialysis
+     The process where brackish water flows between alternating cation-
+     permeable and anion-permeable membranes. A direct electronic current
+     provides the motive force to cause ions to migrate through the
+     membranes and either react to create a gas or remain in a separate
+     solution as brine wastewater.
+
+     Horizontal-flow
+     A flow of water in a horizontal direction through a rectangular or round
+     sedimentation and clarification basin, as opposed to the vertical or
+     upward flow that is found in a solids-contact clarifier.
+
+     Injection mixers
+     The use of perforated tubes or nozzles to disperse the coagulant into the
+     water being treated. Provides uniform distribution of the coagulant over
+     the entire basin. Generally sensitive to flow changes and may require
+     frequent adjustments to produce the proper amount of mixing.
+
+     In-line blender mixers
+     Used for coagulant mixing where coagulant is added through a diffuser
+     in a pipe directly to water being treated. Provides rapid dispersion of the
+Updated 2006                  Environmental Protection Act                    Cap. E-9   19
+               Drinking Water and Wastewater Facility Operating Regulations
+
+
+coagulant without significant heat loss. Energy consumption is less than
+a comparable mechanical mixer.
+
+Mechanical dewatering
+The use of mechanical devices such as centrifuges and rotational
+mechanisms to force the separation of solids (sludge) from liquids
+(water).
+
+Mechanical mixers
+These are paddles, turbines, and propellers frequently used in
+coagulation facilities. Mechanical mixers use electrical energy for mixing
+the coagulant with the water being treated.
+
+pH adjustment
+The alteration of the pH of the raw water or pretreated water by
+mechanical or chemical procedures to enhance the performance of the
+treatment process.
+
+Reverse osmosis
+The passage of water from a concentrated solution through a
+semipermeable membrane to fresh water with the application of pressure.
+
+SCADA instrumentation
+The Supervisory Control And Data Acquisition system is a computer-
+based system that monitors and controls remote water facility sites. A
+SCADA master control is typically located in a dedicated control centre
+or treatment facility control room. Remote sites are equipped with remote
+terminal units to gather information and issue instructions from the
+master station.
+
+Solids composting
+The mixing of sludge with decaying organic material for eventual use as
+fertilizer.
+
+Stability or corrosion control
+The removal of dissolved gases, treatment of the finished water to make
+it noncorrosive, and the building of protective coating inside the pipe.
+
+Tube sedimentation
+Tube settlers or high rate settlers are placed in rectangular or circular
+basins. Water enters the inclined settler tubes and is directed upward
+through the tubes. Each tube functions as a shallow settling basin.
+Particles collect on the inside surfaces of the tubes or settle to the bottom
+of the basin.
+20   Cap. E-9                  Environmental Protection Act                  Updated 2006
+                Drinking Water and Wastewater Facility Operating Regulations
+
+
+
+     Up-flow solid-contact sedimentation
+     A unit that combines the coagulation, flocculation, and sedimentation
+     processes into a single basin, which is either rectangular or circular in
+     shape. Flow is an upward direction through a sludge blanket or slurry of
+     flocculated, suspended solids.
+
+     Urban runoff
+     During dry periods, oil, grease, gasoline, and other residues accumulate
+     on paved surfaces. During a storm, this material is washed into local
+     receiving water from roadway storm drainage systems. Urban runoff also
+     contains animal droppings from pets and fertilizers used for landscaping,
+     the residues of which contribute to taste and odor complaints in drinking
+     water.
+     (EC710/04)
+Updated 2006                  Environmental Protection Act                      Cap. E-9     21
+               Drinking Water and Wastewater Facility Operating Regulations
+
+
+                                      TABLE 3
+
+     POINT SYSTEM CLASSIFICATION OF WASTEWATER
+             TREATMENT FACILITIES (WWT)
+
+A wastewater facility with only collection, lift stations, and chlorination
+is considered a collection system and not a wastewater treatment facility.
+Each unit process shall have points assigned only once.
+
+Item                                                                          Points
+Size (2 points minimum to 20 points maximum)
+      Maximum population equivalent (PE) or part served, peak day (1     1 point per
+      point minimum to 10 points maximum)                                10,000 persons
+      Design flow average day or peak month’s part flow average day,     1 point per 4,546
+      whichever is larger (1 point minimum to 10 points maximum)         m3/d
+Variation in raw waste (0 points minimum to 6 points maximum)¹
+     Variations do not exceed those normally or typically expected              0
+     Recurring deviations or excessive variations of 100 to 200% in             2
+     strength and/or flow
+     Recurring deviations or excessive variations of more than 200% in          4
+     strength and/or flow
+     Raw wastes subject to toxic waste discharges                               6
+     Impact of septage or truck-hauled waste (0 points minimum to 4
+     points maximum)
+Preliminary treatment
+     Facility pumping of main flow                                              3
+     Screening, comminution                                                     3
+     Grit removal                                                               3
+     Equalization                                                               1
+Primary treatment
+     Clarifiers                                                                 5
+     Imhoff tanks or similar                                                    5
+Secondary treatment
+     Fixed-film reactor                                                         10
+     Activated sludge                                                           15
+     Stabilization ponds without aeration                                        5
+     Stabilization ponds with aeration                                           8
+Tertiary treatment
+     Polishing ponds for advanced waste treatment                                2
+     Chemical/physical advanced waste treatment without secondary               15
+     treatment
+     Chemical/physical advanced waste treatment following secondary             10
+     Biological or chemical/biological advanced waste treatment                 12
+     Nitrification by designed extended aeration only                            2
+     Ion exchange for advanced waste treatment                                  10
+     Reverse osmosis, electrodialysis and other membrane filtration             15
+     techniques
+     Advanced waste treatment chemical recovery, carbon regeneration            4
+     Media filtration                                                           5
+Additional treatment processes
+22   Cap. E-9                     Environmental Protection Act                  Updated 2006
+                   Drinking Water and Wastewater Facility Operating Regulations
+
+
+          Chemical additions (2 points each for a maximum of 6 points)              6
+          Dissolved air flotation (for other than sludge thickening)                8
+          Intermittent sand filter                                                  2
+          Recirculating intermittent sand filter                                    3
+          Microscreens                                                              5
+          Generation of oxygen                                                      5
+     Solids handling
+          Solids stabilization                                                      5
+          Gravity thickening                                                       2
+          Mechanical dewatering of solids                                           8
+          Anaerobic digestion of solids                                            10
+          Utilization of digester gas for heating or cogeneration                   5
+          Aerobic digestion of solids                                              6
+          Evaporative sludge drying                                                 2
+          Solids reduction (including incineration, wet oxidation)                 12
+          On-site landfill for solids                                              2
+          Solids composting                                                        10
+          Land application of biosolids by contractor                               2
+          Land application of biosolids under direction of facility operator in    10
+          direct responsible charge
+     Disinfection (0 points minimum to 10 points maximum)
+          Chlorination or ultraviolet irradiation                                  5
+          Ozonation                                                                10
+     Effluent discharge (0 points minimum to 10 points maximum)
+          Mechanical post aeration                                                  2
+                •     Direct recycle and reuse                                      6
+                •     Land treatment and disposal (surface or subsurface)           4
+     Instrumentation (0 points minimum to 6 points maximum)
+          The use of SCADA or similar instrumentation systems to provide            0
+          data with no process operation
+          The use of SCADA or similar instrumentation systems to provide            2
+          data with limited process operation
+          The use of SCADA or similar instrumentation systems to provide            4
+          data with moderate process operation
+          The use of SCADA or similar instrumentation systems to provide            6
+          data with extensive or total process operation
+     Laboratory control (0 points minimum to 15 points maximum)²
+         Bacteriological/biological (0 points minimum to 5 points maximum)
+              •     Lab work done outside the facility                              0
+              •     Membrane filter procedures                                      3
+              •     Use of fermentation tubes or any dilution method; fecal         5
+                    coliform determination
+         Chemical/physical (0 points minimum to 10 points maximum)
+              •     Lab work done outside the facility                              0
+              •     Push-button or visual methods for simple tests such as          3
+                    pH, settleable solids
+              •     Additional procedures such as DO, COD, BOD, gas                 5
+                    analysis, titrations, solids, volatile content
+              •     More advanced determinations such as specific                   7
+                    constituents; nutrients, total oils, phenols
+Updated 2006                  Environmental Protection Act                         Cap. E-9    23
+               Drinking Water and Wastewater Facility Operating Regulations
+
+
+           •     Instrumentation such as atomic absorption, gas                    10
+                 chromatography
+
+1.    The key concept is frequency and/or intensity of deviation or excessive variation from
+normal or typical fluctuations; such deviation can be in terms of strength, toxicity, shock
+loads, inflow/infiltration, with points from 0 to 6.
+2.    The key concept is to credit laboratory analyses done on-site by facility personnel,
+under the direction of the operator in direct responsible charge, with points from 0 to 15.
+24   Cap. E-9                  Environmental Protection Act                  Updated 2006
+                Drinking Water and Wastewater Facility Operating Regulations
+
+
+     Wastewater Treatment Definitions
+
+     The following definitions are provided for the interpretation of Table 3
+     of Schedule A.
+
+     Activated sludge
+     The wastewater treatment by aeration of suspended organisms followed
+     by clarification, including extended aeration, Intermittent Cycle
+     Extended Aeration System (ICEAS), and other similar processes. A
+     sequencing batch reactor with the purpose of providing this form of
+     treatment is rated under this category.
+
+     Biological or chemical and biological advanced waste treatment
+     The advanced treatment of wastewater for nutrient removal, including
+     nitrification, denitrification, or phosphorous removal using biological or
+     chemical processes or a combination. If the facility is designed to nitrify
+     based solely on detention time in an extended aeration system, only the
+     points for nitrification by designed extended aeration shall be given.
+
+     Chemical addition/Pretreatment
+     The addition of a chemical to wastewater at an application point for the
+     purposes of adjusting pH or alkalinity, improving solids removal,
+     dechlorinating, removing odors, providing nutrients, or otherwise
+     enhancing treatment, excluding chlorination for the disinfection of
+     effluent and the addition of enzymes or any process included in the
+     tertiary treatment chemical and physical processes. The capability to add
+     a chemical at different application points for the same purpose is rated as
+     one application; the capability to add a chemical or chemicals to dual
+     units is also rated as one application. The capability to add a chemical at
+     different application points for different purposes is rated as a separate
+     application.
+
+     Chemical or physical advanced treatment following secondary
+     treatment
+     The use of chemical or physical advanced treatment processes following,
+     or in conjunction with, a secondary treatment process. This includes
+     processes such as carbon adsorption, air stripping, chemical coagulation,
+     and precipitation.
+
+     Chemical or physical advanced treatment without secondary
+     treatment
+     The use of chemical or physical advanced treatment processes without
+     the use of a secondary treatment process. This includes processes such as
+     carbon adsorption, air stripping, chemical coagulation, and precipitation.
+Updated 2006                  Environmental Protection Act                    Cap. E-9   25
+               Drinking Water and Wastewater Facility Operating Regulations
+
+
+
+Fixed-film reactor
+Biofiltration by trickling filters or rotating biological contactors followed
+by secondary clarification.
+
+Imhoff tanks (or similar)
+Includes Imhoff tanks, septic tanks, spirogester, clarigester, or other
+single units for combined sedimentation and digestion.
+
+Land application of biosolids by contractor
+The land application or beneficial reuse of biosolids by a contractor
+outside of the control of the operator in direct responsible charge of the
+wastewater treatment facility.
+
+Land treatment and disposal (surface or subsurface)
+The ultimate treatment and disposal of the effluent onto the surface of the
+ground by rapid infiltration or rotary distributor or by spray irrigation.
+Subsurface treatment and disposal is accomplished by infiltration gallery,
+injection, or gravity or pressurized drain field.
+
+Mechanical dewatering of solids
+The removal of water from sludge by any of the following processes,
+including the addition of polymers in any of the following: vacuum
+filtration; frame; belt or plate filter presses; centrifuge; or dissolved air
+flotation.
+
+Mechanical post-aeration
+The introduction of air into the effluent by mechanical means such as
+diffused or mechanical aeration. Cascade aeration would not be assigned
+points.
+
+Media filtration
+The advanced treatment of wastewater for removal of solids by sand or
+other media or mixed media filtration.
+
+Solids composting
+The biological decomposition process producing carbon dioxide, water,
+and heat. Typical methods are windrow, forced air-static pile, and in-
+vessel.
+
+Solids stabilization
+The processes to oxidize or reduce the organic matter in sludge to a more
+stable form. These processes reduce pathogens or reduce the volatile
+organic chemicals and thereby reduce the potential for odor. These
+26   Cap. E-9                  Environmental Protection Act                  Updated 2006
+                Drinking Water and Wastewater Facility Operating Regulations
+
+
+     processes include lime (or similar) treatment and thermal conditioning.
+     Other stabilization processes such as aerobic or anaerobic digestion and
+     composting are listed individually.
+     (EC710/04)
+ Updated 2006                  Environmental Protection Act                             Cap. E-9               27
+                Drinking Water and Wastewater Facility Operating Regulations
+
+
+                                         SCHEDULE B
+
+                         OPERATOR CLASSIFICATION
+
+      Type of                       Small
+   Facility/System       OIT       Facility     CLASS I    CLASS II        CLASS III           CLASS IV
+
+
+                                Op     Op                 Op          Op DRC             Op    DRC
+                        ED   ED Exp ED Exp          ED    Exp   ED    Exp Exp     ED     Exp   Exp        ED
+
+
+  Water Treatment
+       (WT)             12   (a)   N/A N/A      1   12     3    12    4     (c)    14     4        (d)    16
+
+
+ Water Distribution
+       (WD)             12   (a)   0.5    (b)   1   12     3    12    4     (c)    14     4        (d)    16
+
+
+Wastewater Treatment
+      (WWT)             12   (a)   N/A N/A      1   12     3    12    4     (c)    14     4        (d)    16
+
+
+Wastewater Collection
+      (WWC)             12   (a)   0.5    (b)   1   12     3    12     4    (c)    14     4        (d)    16
+
+
+
+ (a) Three months of operating experience (Op Exp) or completion of an
+ approved basic training course. It is recognized that the position of
+ operator-in-training (OIT) is not a legally required position. It is included
+ here to illustrate a method of encouraging new entrants in the field to
+ enter into the certification program.
+
+ (b) Six hours of approved training for one or both of water and/or
+ wastewater categories.
+
+ (c) Two years of the operating experience requirement for Class III must
+ be experience in Class II or higher positions. One-half of the operating
+ experience must be in direct responsible charge (DRC).
+
+ (d) Two years of the operating experience requirement for Class IV
+ must be experience in Class III or higher positions. One-half of the
+ operating experience must be in DRC.
+
+ Note:
+ For Class I, the minimum operating experience requirement is one year,
+ without substitutions. For Classes II, III and IV, substitutions may be
+ made for required operating experience, but with the limitation that one-
+ half of all stated experience requirements (both operating and DRC) must
+ be met by actual on-site operating experience in a facility or system. This
+28   Cap. E-9                  Environmental Protection Act                  Updated 2006
+                Drinking Water and Wastewater Facility Operating Regulations
+
+
+     experience should be obtained under the supervision of a certified
+     operator or under an organized on-the-job training program.
+
+        Operator Educational and Operating Experience Requirements
+
+     The education and experience requirements for operators are:
+     Small Facility
+     1. Accumulate six months of acceptable operating experience in a small
+     facility.
+     2. Attend a minimum of six hours of approved training for water
+     facilities.
+     3. Successfully complete a small facilities certification exam.
+
+     Class I
+     1. A high school diploma, GED, or equivalent.
+     2. One year of acceptable operating experience of a Class I or higher
+     utility.
+     3. No substitution for experience shall be permitted.
+
+     Class II
+     1. A high school diploma, GED, or equivalent.
+     2. Three years of acceptable operating experience of a Class I or higher
+     utility.
+     3. A maximum of 675 contact hours, or 68 continuing education units,
+     or 68 quarter credits, or 45 semester credits of post-secondary education
+     in the environmental control field, in engineering or a related science
+     may be substituted for 1½ years of acceptable operating experience.
+
+     Class III
+     1. A high school diploma, GED, or equivalent.
+     2. Nine hundred contact hours, or 90 continuing education units, or 90
+     quarter credits, or 60 semester credits of post-secondary education in the
+     environmental control field, in engineering or a related science.
+     3. Four years of acceptable operating experience of a Class II or higher
+     utility, including two years of direct responsible charge.
+     4. A maximum of 900 contact hours, or 90 continuing education units,
+     or 90 quarter credits, or 60 semester credits of post-secondary education
+     in the environmental control field, in engineering or a related science.
+     Appropriate post-secondary education may be substituted for two years
+     of experience; however, the applicant must still have one year of direct
+     responsible charge experience.
+     5. A maximum of one year of direct responsible charge experience in a
+     Class II or higher position may be substituted for 450 contact hours, or
+     45 continuing education units or 45 quarter credits, or 30 semester
+Updated 2006                  Environmental Protection Act                    Cap. E-9   29
+               Drinking Water and Wastewater Facility Operating Regulations
+
+
+credits of post-secondary education in the environmental control field, in
+engineering or a related science.
+
+Class IV
+1. A high school diploma, GED, or equivalent.
+2. One thousand eight hundred contact hours, or 180 continuing
+education units, or 180 quarter credits, or 120 semester credits of post-
+secondary education in the environmental control field, in engineering or
+a related science; and
+3. A maximum of 900 contact hours, or 90 continuing education units,
+or 90 quarter credits, or 60 semester credits of post-secondary education
+in the environmental control field, in engineering or a related science.
+Appropriate post-secondary education may be substituted for two years
+of experience; however, the applicant must still have one year of direct
+responsible charge experience.
+4. A maximum of two years of direct responsible charge experience in a
+Class III or higher position may be substituted for 900 contact hours, or
+90 continuing education units, or 90 quarter credits, or 60 semester
+credits of post-secondary education in the environmental control field, in
+engineering or a related science.
+
+Substitutions
+1. Education applied to operating and direct responsible charge
+experience requirements shall not also be applied to educational
+requirements.
+2. Operating or direct responsible charge experience applied to the
+educational requirements shall not also be applied to the operating or
+direct responsible charge experience requirements.
+3. Where applicable, related experience in maintenance, laboratories,
+other environmental control facility positions and allied trades such as
+plumbing, or other certification categories, may be substituted for one-
+half of the operating or direct responsible charge experience
+requirements; however, the applicant for Class III and IV must still have
+one year of direct responsible charge experience.
+4. The maximum substitution of education and related experience for
+operating or direct responsible charge experience shall not exceed one-
+half of the stated operating or direct responsible charge experience
+requirement.
+(EC710/04)
+30   Cap. E-9                  Environmental Protection Act                  Updated 2006
+                Drinking Water and Wastewater Facility Operating Regulations
+
+
+                                    SCHEDULE C
+
+                 REQUIRED DRINKING WATER QUALITY
+                     MONITORING PARAMETERS
+
+     1. A general chemical analysis for the purpose of these regulations shall
+     include, as a minimum, the analysis of a water quality sample for the
+     following:
+
+
+     alkalinity          calcium               chloride              copper
+     hardness            iron                  lead                  magnesium
+     manganese           nitrate               pH                    potassium
+     phosphorous         sodium                sulphate              zinc
+
+
+     2. A detailed chemical analysis for the purpose of these regulations shall
+     include, as a minimum, the analysis of a water quality sample for the
+     following*:
+
+
+     Metals and other inorganic constituents:
+     aluminium          antimony           arsenic                   barium
+     boron              bromate            cadmium                   chromium
+     fluoride           selenium           silver                    strontium
+     uranium            vanadium
+
+
+     Organic constituents:
+     benzene                  benzo[a]pyrene                 bromodichloromethane
+     bromoform                carbon tetrachloride           chloramines
+     chloroform               chlorodibromomethane           chlorophenols
+     dichlorobenzenes         dichloroethane                 dichloroethylene
+     dichloromethane          ethylbenzene                   monochlorobenzene
+     tetrachloroethylene      toluene                        trichloroethylene
+     vinyl chloride           xylenes
+
+
+     * Note: a standard metals scan and volatile organic compounds (VOC)
+     scan offered by most commercial laboratories will normally include the
+     parameters required for a detailed chemical analysis.
+     (EC710/04)
+

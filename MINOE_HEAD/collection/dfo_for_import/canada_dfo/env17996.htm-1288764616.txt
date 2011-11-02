@@ -1,0 +1,237 @@
+
+     This consolidation is unofficial and if for reference only.  For the
+     official version of the regulations, consult the original documents
+     on file with the _R_e_g_i_s_t_r_y_ _o_f_ _R_e_g_u_l_a_t_i_o_n_s, or refer to the _R_o_y_a_l
+     _G_a_z_e_t_t_e_ _P_a_r_t_ _I_I.
+     Regulations are amended frequently.  Please check the list of
+     _R_e_g_u_l_a_t_i_o_n_s_ _b_y_ _A_c_t to see if there are any recent amendments to these
+     regulations filed with the Registry that are not yet included in this
+     consolidation.
+     Although every effort has been made to ensure the accuracy of this
+     electronic version, the Registry of Regulations assumes no
+     responsibility for any discrepancies that may have resulted from
+     reformatting.
+     This electronic version is copyright © 2009, _P_r_o_v_i_n_c_e_ _o_f_ _N_o_v_a_ _S_c_o_t_i_a,
+     all rights reserved.  It is for your personal use and may not be
+     copied for the purposes of resale in this or any other form.
+
+
+      _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+     |_UU_ss_ee_dd_ _OO_ii_ll_ _RR_ee_gg_uu_ll_aa_tt_ii_oo_nn_ss|
+
+                         mmaaddee uunnddeerr SSeeccttiioonn 8844 ooff tthhee
+                               EEnnvviirroonnmmeenntt AAcctt
+                             SS..NN..SS.. 11999944--9955,, cc.. 11
+               OO..II..CC.. 9955--229900 ((AApprriill 1111,, 11999955)),, NN..SS.. RReegg.. 5511//9955
+       aass aammeennddeedd bbyy OO..II..CC.. 9966--992277 ((DDeecceemmbbeerr 1177,, 11999966)),, NN..SS.. RReegg.. 117799//9966
+     CCiittaattiioonn
+     11These regulations may be cited as the "Used Oil Regulations".
+     DDeeffiinniittiioonnss
+     22In these regulations
+     ((aa))"Act" means the Environment Act;
+     ((bb))"Administrator" means a person appointed by the Minister, and
+     includes an acting Administrator;
+     ((cc))"contaminated used oil" means used oil that
+     (i) has a flash point less than 38oC, or
+     (ii) contains any of the substances listed in Column I of Schedule
+     "A" in a concentration in excess of the limit stated in Column II of
+     Schedule "A";
+     ((dd))"crankcase oil" means internal combustion engine crankcase oil;
+     ((ee))"Department" means the Department of Environment and Labour;
+     ((ff))"extension" means an increase in size, volume or production
+     capacity of a facility such that the increase may cause an adverse
+     effect if not properly mitigated;
+     ((gg))"inspector" means an inspector appointed pursuant to Section 21 of
+     the Act;
+     ((hh))"Minister" means the Minister of Environment and Labour;
+     ((ii))"modification" means an alteration to a facility whereby a new
+     structure or equipment is added or an existing structure or equipment
+     is eliminated and the alterations do not change the purpose or
+     function of the facility;
+     ((jj))"organic halogen compound" means an organic chemical compound in
+     which one or more halogen elements are incorporated;
+     ((kk))"point of display" means an area of a seller's premises where
+     containers of crankcase oil are displayed;
+     ((ll))"point of sale" means an area of a seller's premises where the
+     transaction of purchasing crankcase oil takes place;
+     ((mm))"polychlorinated biphenyls" or "PCBs" means chlorobiphenyls that
+     have the molecular formula C12H10-nCln in which "n" is greater than
+     2;
+     ((nn))"seller" means a person who sells or offers for sale crankcase oil
+     to the public as a wholesaler, distributor or retailer at a bulk oil
+     plant, service station, marine supply store, drug store, store or
+     other business where crankcase oil is sold or offered for sale to the
+     public;
+     ((oo))"used oil" means petroleum or synthetic lubrication oils,
+     hydraulic fluids, metal working fluids and insulating fluids which
+     have been used and are no longer suitable for their original purpose,
+     but are suitable for other uses, including re-refining or other uses
+     that are considered acceptable to the Minister;
+     ((pp))"used oil collector" means a person who holds a valid Used Oil
+     Collector's Approval;
+     ((qq))"Used Oil Collector's Approval" means an approval issued pursuant
+     to Section 6 of these regulations;
+     ((rr))"used oil furnace" means a furnace specifically designed for the
+     combustion of used oil;
+     ((ss))"used oil return facility" means a place for the return of used
+     crankcase oil in accordance with Section 12 of these regulations;
+     CCllaauussee 22((ss)) aammeennddeedd:: OO..II..CC.. 9966--992277,, NN..SS.. RReegg.. 117799//9966..
+((tt))"used oil storage facility" means a facility that is owned, occupied,
+operated, leased or used by a used oil collector and is approved by the
+Department for the storage of used oil and includes all storage tanks, loading
+and unloading areas, used oil transport vehicle parking areas and all used oil
+or waste processing and treatment equipment.
+AAddmmiinniissttrraattoorr
+33The Minister may appoint an Administrator to administer these regulations.
+DDeessiiggnnaattiioonn
+44For the purpose of the Act and these regulations, used oil is designated as
+dangerous goods.
+LLiimmiittaattiioonnss oonn ssaallee,, ttrraannssffeerr oorr uussee
+55 ((11))Except as provided in Sections 12 and 13, no person shall sell, offer for
+sale, transfer, use or otherwise dispose of used oil to any person who is not a
+used oil collector or to any facility that is not a used oil return facility
+unless
+((aa))that person has a representative sample of the used oil analyzed at a
+laboratory for the contaminants listed in Column I of Schedule "A";
+((bb))that person obtains a certificate respecting the analysis from the
+laboratory; and
+((cc))the certificate confirms that the used oil is not contaminated used oil.
+SSuubbsseeccttiioonn 55((11)) aammeennddeedd:: OO..II..CC.. 9966--992277,, NN..SS.. RReegg.. 117799//9966..
+((22))The certificate referred to in clause (1)(b) shall be kept by the person
+described in subsection (1) for a minimum period of 2 years from the date of
+the certificate.
+((33))No person shall fail to produce or provide a copy of a certificate referred
+to in clause (1)(b) when requested by an inspector or an Administrator.
+((44))A person described -[-t-o] in subsection (1) shall maintain a record of
+((aa))the volume of any used oil sold, transferred, used or disposed of;
+((bb))the date of sale, transfer or disposition;
+((cc))the person to whom the used oil was sold, transferred or disposed; and
+((dd))shall keep records referred to in clauses (a), (b) and (c) for a minimum
+period of 2 years from the date of the sale, transfer or disposition.
+((55))For the purpose of these regulations, when mixtures of used oil containing
+immiscible substances are subject to an analysis referred to in subsection (1),
+the analysis shall be conducted on the used oil fraction.
+AApppprroovvaallss
+66 ((11))No person shall
+((bb))carry on the business of used oil collection;
+((cc))hold themselves out as a used oil collector; or
+((dd))provide the services of a used oil collector,
+CCllaauussee 66((11))((aa)) rreeppeeaalleedd:: OO..II..CC.. 9966--992277,, NN..SS.. RReegg.. 117799//9966..
+unless that person is issued an approval under these regulations.
+((22))Subject to the Approvals Procedure Regulations, an Administrator may issue a
+Used Oil Collector's Approval to a person who applies to the Department.
+((33))A Used Oil Collector's Approval entitles the holder to acquire or otherwise
+collect used oil and contaminated used oil whether or not it has been analyzed.
+((44))Despite subsection (1), during an unauthorized release, an impending
+unauthorized release or an environmental emergency involving used oil, an
+inspector or an Administrator may authorize any person to collect, transport or
+store used oil for a period not to exceed 30 days.
+((55))Prior to January 31 of each year, a used oil collector shall
+((aa))provide a written report to an Administrator which documents the quantity
+and distribution of used oil collected during the previous calendar year; and
+((bb))provide an estimate of the quantity of used oil in storage at the used oil
+storage facility on the last day of the previous calendar year.
+UUsseedd ooiill ssttoorraaggee ffaacciilliittyy
+77 ((11))Approval to operate a used oil storage facility shall not be issued until
+the used oil storage facility has been inspected and approved in writing by an
+inspector or an Administrator.
+((22))No extension or modification shall be made to a used oil storage facility
+unless an amendment is obtained to the existing approval.
+AApppprroovvaall rreenneewwaall
+88 ((11))Unless otherwise agreed in writing by an Administrator, an approval or a
+renewal thereof shall expire on December 31 of the year of issuance.
+((22))An Administrator may renew an approval issued under these regulations
+provided a used oil collector has complied with the Act, the regulations and
+the terms and conditions contained in the approval.
+CCoonnttaammiinnaatteedd uusseedd ooiill
+99 ((11))No person shall sell, offer for sale, transfer, use or otherwise dispose
+of contaminated used oil to a person other than a used oil collector.
+((22))Except as provided in the Act, the regulations, a directive of the
+Department or the written approval of an Administrator, no person, including a
+used oil collector, shall use or dispose of contaminated used oil.
+((33))No person, including a used oil collector, shall possess contaminated used
+oil unless within 7 days of receipt of the certification of laboratory analysis
+that the oil is contaminated, that person completes a form prescribed by the
+Administrator and forwards it to an Administrator.
+DDiilluuttiioonn ooff ccoonnttaammiinnaatteedd uusseedd ooiill
+1100Without the prior written approval of an Administrator no person shall dilute
+contaminated used oil that contains PCBs or organic halogen compounds in excess
+of the maximum allowable concentrations prescribed in Column II of Schedule
+"A".
+PPrroohhiibbiittiioonn aaggaaiinnsstt aaddddiinngg ssuubbssttaanncceess
+1111Without the prior written approval of an Administrator, no person shall
+((aa))add any substance to used oil or contaminated used oil for the purpose of
+disposal of that substance; or
+((bb))suggest, encourage or advise other persons to add any substance to used oil
+or contaminated used oil for the purpose of disposal of that substance.
+UUsseedd ooiill rreettuurrnn ffaacciilliittyy
+1122 ((11))On and after April 1, 1996, every seller of crankcase oil shall
+((aa))provide a used oil return facility at the seller's premises; or
+((bb))contract with a person who operates a used oil return facility who agrees to
+accept used crankcase oil from the seller's customers.
+((22))A used oil return facility described in clause (1)(b) shall be located
+within a 5 km radius of the premises of the seller.
+((33))Notwithstanding subsection (2), an Administrator may waive in writing the 5
+km radius requirement provided geographic or other circumstances warrant such
+action.
+((44))A used oil return facility on the premises of the seller or on the premises
+contracted by the seller shall
+((aa))accept used crankcase oil from any person who wishes to return used
+crankcase oil;
+((bb))accept from any person on a daily basis used crankcase oil in a quantity of
+up to 10 or a quantity equivalent to the largest container of crankcase oil
+sold by the seller, whichever quantity is greater;
+((cc))operate during the normal business hours of the premises where the used oil
+return facility is located; and
+((dd))comply with all applicable regulations that apply to used oil return
+facilities, including the National Fire Code of Canada.
+((55))Every seller shall post at the entrance to the seller's premises, at the
+point of display or at the point of sale at least one sign that contains
+sufficient information to enable the customer to know the location of the used
+oil return facility that is available for the use of the customer.
+((66))On and after April 1, 1996, no wholesaler or distributor of crankcase oil
+shall provide crankcase oil to a seller without first having determined that
+the seller has a used oil return facility or has contracted with a third party
+to provide a used oil return facility.
+SSuubbsseeccttiioonn 1122((66)) aammeennddeedd:: OO..II..CC.. 9966--992277,, NN..SS.. RReegg.. 117799//9966..
+UUsseedd ooiill aass aa ffuueell ssoouurrccee
+1133 ((11))Except as authorized by these regulations, no person shall burn used oil.
+(2)
+Subject to subsection (3), used oil may be burned provided
+((aa))the used oil is not contaminated used oil and this is verified by a
+certificate respecting the analysis from a laboratory;
+((bb))an Administrator has been notified at least 30 days prior to the
+commencement of the burning;
+((cc))prior written approval is given by the Administrator; and
+((dd))prior to January 31st of each year, a person who burns used oil shall
+complete and submit a written report to the Administrator which includes
+information respecting the volume of used oil burned during the previous
+calendar year.
+SSuubbsseeccttiioonn 1133((22)) rreeppllaacceedd:: OO..II..CC.. 9966--992277,, NN..SS.. RReegg.. 117799//9966..
+(3)
+Subsection (2) does not apply to a person who burns used crankcase oil in a
+used oil furnace provided
+((aa))the person registers with an Administrator; and
+((bb))the used crankcase oil
+(i) is used crankcase oil produced as the result of vehicle oil changes, and
+(ii) does not originate from a used oil storage facility or a used oil return
+facility.
+SSuubbsseeccttiioonn 1133((33)) rreeppllaacceedd:: OO..II..CC.. 9966--992277,, NN..SS.. RReegg.. 117799//9966..
+
+SSuubbsseeccttiioonn 1133((44)) rreeppeeaalleedd:: OO..II..CC.. 9966--992277,, NN..SS.. RReegg.. 117799//9966..
+LLaanndd aapppplliiccaattiioonn ooff uusseedd ooiill//ccoonnttaammiinnaatteedd uusseedd ooiill
+1144No person shall apply used oil or contaminated used oil to a public or
+private highway, road, lane, trail, bridge, parking area or any land for any
+purpose including dust suppression.
+EEffffeeccttiivvee ddaattee
+1155These regulations shall come into effect on, from and after April 11, 1995.
+===============================================================================
+                  SScchheedduullee ""AA"" -- CCoonnttaammiinnaatteedd UUsseedd OOiill LLiimmiittss
+ CCoolluummnn II                  CCoolluummnn IIII
+ SSuubbssttaannccee MMaaxxiimmuumm AAlllloowwaabbllee CCoonncceennttrraattiioonn
+1. polychlorinated biphenyls             5 mg per kg
+2. total organic halogens as chlorine 1000 mg per kg
+3. cadmium                               2 mg per kg
+4. chromium                             10 mg per kg
+5. lead                                100 mg per kg
+===============================================================================

@@ -1,0 +1,555 @@
+
+
+     This consolidation is unofficial and is for reference only.  For the
+     official version of the regulations, consult the original documents
+     on file with the _R_e_g_i_s_t_r_y_ _o_f_ _R_e_g_u_l_a_t_i_o_n_s, or refer to the _R_o_y_a_l
+     _G_a_z_e_t_t_e_ _P_a_r_t_ _I_I.
+     Regulations are amended frequently.  Please check the list of
+     _R_e_g_u_l_a_t_i_o_n_s_ _b_y_ _A_c_t to see if there are any recent amendments to these
+     regulations filed with the Registry that are not yet included in this
+     consolidation.
+     Although every effort has been made to ensure the accuracy of this
+     electronic version, the Registry of Regulations assumes no
+     responsibility for any discrepancies that may have resulted from
+     reformatting.
+     This electronic version is copyright © 2009, _P_r_o_v_i_n_c_e_ _o_f_ _N_o_v_a_ _S_c_o_t_i_a,
+     all rights reserved.  It is for your personal use and may not be
+     copied for the purposes of resale in this or any other form.
+
+
+      _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+     |_PP_ee_tt_rr_oo_ll_ee_uu_mm_ _MM_aa_nn_aa_gg_ee_mm_ee_nn_tt_ _RR_ee_gg_uu_ll_aa_tt_ii_oo_nn_ss|
+
+                     made under Sections 25 and 84 of the
+                               EEnnvviirroonnmmeenntt AAcctt
+                             S.N.S. 1994-95, c. 1
+     O.I.C. 2002-139 (March 28, 2002, effective April 1, 2002), N.S. Reg.
+                                    44/2002
+CCiittaattiioonn
+11 These regulations may be cited as the PPeettrroolleeuumm MMaannaaggeemmeenntt RReegguullaattiioonnss.
+DDeeffiinniittiioonnss
+22 In these regulations
+((aa)) “aboveground storage tank” means a storage tank with more than 90% of its
+volume above surface grade and that operates at atmospheric pressure plus or
+minus 10 kPa;
+((bb)) “aboveground storage tank system” means one or more commonly connected
+aboveground storage tanks and all connecting piping, both aboveground and
+underground, including pumps and product transfer apparatus, diking, overfill
+protection equipment, and associated spill containment and collection
+apparatus;
+((cc)) “Act” means the EEnnvviirroonnmmeenntt AAcctt;
+((dd)) “Administrator” means a person appointed by the Minister pursuant to
+Section 3 and includes a person acting for an Administrator;
+((ee)) “alter” means to
+(i) enlarge, reduce, upgrade or remove a storage tank system,
+(ii) change the configuration of the piping, storage tanks or dyking of a
+storage tank system, or
+(iii) replace any storage tank in a storage tank system,
+but does not mean to carry out minor maintenance activities that do not affect
+the integrity of the system, and “alteration” has a corresponding meaning;
+((ff)) “bulk plant” means one or more aboveground storage tanks or underground
+storage tanks, including any appurtenances, where petroleum products are stored
+in bulk for subsequent transmission to other facilities, but does not include a
+service station or a facility storing petroleum products only for use at that
+facility;
+((gg)) “certified” when used in reference to a storage tank, component or
+accessory, means that the storage tank, component or accessory
+(i) has been investigated by the Underwriter's Laboratories of Canada (ULC),
+(ii) has been found to be in compliance with ULC established requirements,
+(iii) is being manufactured under the ULC follow-up service program, and
+(iv) is identified with ULC authorized marking;
+((hh)) “containment system” means a system designed and installed to retain and
+collect any leak or spill of a petroleum product from a storage tank system;
+((ii)) “contingency plan” means a planned procedure for reporting, containing,
+removing and cleaning up a spill or leak;
+((jj)) “conveying” means using a storage tank system for the movement of petroleum
+products;
+((kk)) “Department” means the Department of Environment and Labour;
+((ll)) “emptied” means, in relation to a storage tank system, that the liquid
+contents of the storage tank system have been removed, as far as is
+practicable, by any means including suction, pouring, draining or pumping;
+((mm)) “flow-through process tank” means any tank that forms an integral part of
+an industrial process and through which there is a steady or uninterrupted flow
+of a petroleum product during operation of the industrial process, and includes
+an oil/water separator;
+((nn)) “inspector” means an inspector appointed pursuant to Section 21 of the Act;
+((oo)) “installer” means a person to whom a Certificate of Qualification has been
+issued pursuant to Section 16;
+((pp)) “inventory” means the amount of petroleum product calculated to be in a
+storage tank after considering the initial volume of petroleum product in the
+storage tank and the amount of petroleum product added to and removed from the
+storage tank during a period of time;
+((qq)) “leak” means a gradual discharge or loss of petroleum product from a
+storage tank system, tank vehicle or vessel into the environment, other than
+through the usual function for which the storage tank system was designed, and
+"leakage" and "leaking" have corresponding meanings;
+((rr)) “marina” means premises at which a petroleum product is stored for use in a
+watercraft or aircraft equipped to float on water;
+((ss)) “Minister” means the Minister of Environment and Labour;
+((tt)) “oil/water separator” means a device used to separate petroleum products
+from mixtures of petroleum products and water;
+((uu)) “person responsible” means
+(i) a person who is responsible for the day-to-day maintenance and operation of
+a storage tank system or pipeline,
+(ii) the person who has possessory rights to or has care, management or control
+of a storage tank system, tank vehicle or vessel,
+(iii) the owner or occupier of land on which a storage tank system is located,
+(iv) a successor, assignee, executor, administrator, receiver, receiver-manager
+or trustee of a person referred to in subclauses (i) to (iii), or
+(v) a person who acts as the principal or agent of a person referred to in
+subclauses (i) to (iv);
+((vv)) “petroleum product” means a single product or mixture of at least 70%
+hydrocarbons refined from crude oil, natural gas, tar sands, coal or natural
+organic matter, with or without additives, that is used or could be used as a
+fuel, lubricant or power transmitter, and includes gasoline, diesel oil,
+aviation fuel, kerosene, naphtha, lubricating oil, fuel oil, engine oil
+including used oil and hydraulic fluid, but does not include liquified
+petroleum gas;
+((ww)) “release” means to spill, discharge, dispose of, spray, inject, inoculate,
+abandon, deposit, leak, seep, pour, emit, empty, throw, dump, place, drain,
+pump or exhaust;
+((xx)) “service station” means any premises where a petroleum product is sold and
+put into the fuel tank of a vehicle, tank vehicle, watercraft or aircraft, or
+into a portable container;
+((yy)) “spill” means a release of a substance
+(i) into the environment,
+(ii) from or out of a storage tank system, containment system, structure,
+aircraft, vehicle, tank vehicle, vessel, process tank, pipeline or other
+container,
+(iii) that is abnormal in quantity or quality in light of all the circumstances
+of the release, or
+(iv) in excess of an amount specified in the EEmmeerrggeennccyy SSppiillll RReegguullaattiioonnss or an
+approval;
+((zz)) “Standard” means the document produced by the Department entitled “Nova
+Scotia Construction, Installation and Operation Standards for Petroleum Storage
+Tank Systems”, as amended from time to time and available from the Department;
+((aaaa)) “storage tank system” means one or more aboveground storage tanks or
+underground storage tanks and all connecting piping whether aboveground or
+underground, including pumps and product transfer apparatus, dyking, overfill
+protection equipment and associated spill containment and collection apparatus;
+((bbbb)) “tank vehicle” means a tank truck, stake truck, trailer, semi-trailer,
+tractor or other conveyance and associated appurtenances designed for or
+capable of transporting a petroleum product, other than fuel carried for use in
+the operation of the vehicle;
+((cccc)) “transport” means to convey a petroleum product in or on a tank vehicle or
+vessel, other than the fuel carried for use in the operation of the vehicle or
+vessel;
+((dddd)) “underground storage tank” means a storage tank with 90% or more of its
+volume beneath the ground surface or covered or partially covered with material
+including, but not limited to, earth, backfill, or concrete;
+((eeee)) “underground storage tank system” means one or more underground storage
+tanks and all connecting piping whether aboveground or underground, including
+pumps and product transfer apparatus, dyking, overfill protection equipment and
+associated spill containment and collection apparatus;
+((ffff)) “vessel” means a tank vessel or other conveyance that is designed for or
+capable of transporting a petroleum product on the water, other than the fuel
+carried for use in the operation of the vessel.
+AAppppooiinnttmmeenntt ooff AAddmmiinniissttrraattoorr
+33 The Minister may appoint an Administrator to administer these regulations.
+DDeessiiggnnaattiioonn
+44 For the purpose of the Act and these regulations, petroleum products are
+designated as dangerous goods.
+AApppplliiccaattiioonn
+55 ((11)) These regulations do not apply to
+((aa)) an aboveground storage tank system having a nominal capacity of less than
+4000 L, except for a storage tank system at a marina;
+((bb)) a storage tank system at a marina having a nominal capacity of less than
+230 L;
+((cc)) a storage tank system in a petroleum refinery regulated under the Act;
+((dd)) a flow-through process tank.
+((22)) Sections 11, 13 and 14 and subsections 15(1), (2) and (3) do not apply to a
+storage tank system that is required to be registered pursuant to the
+RReeggiissttrraattiioonn ooff SSttoorraaggee TTaannkk SSyysstteemmss ffoorr PPeettrroolleeuumm PPrroodduuccttss aanndd AAlllliieedd
+PPeettrroolleeuumm PPrroodduuccttss oonn FFeeddeerraall LLaannddss RReegguullaattiioonnss, SOR/97-10, made pursuant to
+the CCaannaaddiiaann EEnnvviirroonnmmeennttaall PPrrootteeccttiioonn AAcctt, as amended from time to time.
+((33)) Where there is a conflict between these regulations and the National Fire
+Code of Canada, latest edition, these regulations prevail.
+GGeenneerraall rreeqquuiirreemmeennttss
+66 ((11)) A person responsible for or a person who constructs, installs or alters a
+new or relocated storage tank system shall meet the minimum requirements set
+forth in the Standard.
+((22)) On or after April 11, 1995, no person shall install or cause to be
+installed an underground storage tank system with a nominal capacity of less
+than 2000 L.
+((33)) An Administrator or an inspector may require the person responsible for a
+storage tank system to submit a contingency plan for a storage tank system.
+BBuullkk ppllaanntt
+77 ((11)) The area of land immediately surrounding the loading or unloading
+facilities at a bulk plant shall
+((aa)) be sloped so any petroleum product will drain to an oil/water separator, a
+tank or another containment device approved by an Administrator;
+((bb)) have concrete flooring or other impervious flooring that is compatible with
+the material being handled; and
+((cc)) have a collecting device of a type described in the Standard, of sufficient
+size to contain any release of petroleum product during loading or unloading.
+((22)) The area immediately surrounding a bulk plant shall be secured from public
+entry by fencing.
+((33)) When a bulk plant is not in use or not under supervision,
+((aa)) the gates and other access ways shall be closed and locked; and
+((bb)) the loading valves, filling pipes and gauging pipes shall be locked, except
+for those operated by electrical remote controls.
+((44)) An Administrator or an inspector may approve in writing alternative
+security measures to those required in subsections (2) and (3).
+((55)) No person shall operate a bulk plant without having in place a contingency
+plan approved by an Administrator or an inspector.
+((66)) No person shall operate a bulk plant using a tank vehicle as an aboveground
+storage tank without the prior written approval of an Administrator.
+RReelleeaassee ccaauussiinngg aaddvveerrssee eeffffeecctt
+88 No person shall drop, leave or otherwise cause or permit the release of a
+petroleum product that causes or may cause an adverse effect.
+SSuuppeerrvviissiioonn ooff ttrraannssffeerr
+99 ((11)) No person shall transfer a petroleum product from a storage tank system
+to a tank vehicle or vessel, or from a tank vehicle or vessel to a storage tank
+system, without supervising the transfer at all times in such a manner as to be
+able to immediately shut off the flow of petroleum products during the
+transfer.
+OOvveerrffllooww ccaauussiinngg aaddvveerrssee eeffffeecctt
+((22)) No person shall cause or permit the overflow of a petroleum product from a
+storage tank system, tank vehicle or vessel if the overflow of the petroleum
+product causes or may cause an adverse effect.
+SSppiillll rreeqquuiirreemmeennttss
+1100 In the event of a spill, the person responsible shall immediately, as soon
+as the person knows of the spill,
+((aa)) follow the reporting procedures prescribed in the EEmmeerrggeennccyy SSppiillll
+RReegguullaattiioonnss; and
+((bb)) take such steps as are necessary to end the spill, clean the area affected
+and rehabilitate the environment to a standard prescribed or adopted by the
+Minister.
+SSttoorraaggee ttaannkk rreeggiissttrraattiioonn
+1111 ((11)) A person responsible for a storage tank system shall register with the
+Administrator all underground storage tanks and aboveground storage tanks in a
+storage tank system that have a combined nominal capacity of
+((aa)) 2000 L or greater, in the case of underground storage tanks;
+((bb)) 4000 L or greater, in the case of aboveground storage tanks; or
+((cc)) 230 L or greater, in the case of an aboveground storage tank system at a
+marina.
+((22)) An application for registration of a storage tank system pursuant to
+subsection (1) shall be made on a form prescribed by the Minister or an
+Administrator and shall be submitted to an Administrator or an inspector.
+((33)) An Administrator or an inspector may accept or reject an application made
+pursuant to subsection (2) or may require additional information.
+((44)) Where an application is accepted pursuant to subsection (3), an
+Administrator or an inspector shall register the storage tank system and issue
+a tank registration number for each storage tank in the storage tank system.
+((55)) The Administrator may issue or cause to be issued a tag, label or similar
+device indicating the registration number for a storage tank.
+((66)) A person responsible for a storage tank system shall affix a tag, label or
+other similar device in a location and manner determined by the Minister or an
+Administrator.
+((77)) The issuance of a tag, label or other similar device shall be subject to
+terms and conditions prescribed by the Minister or an Administrator.
+((88)) An Administrator may charge an administrative fee for the issuance of a
+tag, label, or similar device pursuant to subsection (5).
+((99)) No person shall deliver or cause to be delivered a petroleum product to a
+storage tank system to which these regulations apply unless the system’s
+storage tanks have been registered pursuant to this Section.
+((1100)) Within 30 days of the transfer or sale of a storage tank system, a person
+responsible for the storage tank system shall notify the Department in writing
+of the transfer or sale.
+IInnssttaallllaattiioonnss pprriioorr ttoo AApprriill 1111,, 11999955
+1122 ((11)) Subject to subsection (2), a person responsible for a steel underground
+storage tank system or an underground steel pipeline that
+((aa)) was installed prior to April 11, 1995; and
+((bb)) was not constructed, shop-tested and installed in accordance with the
+National Standard of Canada CAN 4-S603-M, in effect on April 11, 1995, for an
+impressed current cathodic system or CAN 4-S603.1-M, in effect on April 11,
+1995, including Appendix “B”, for a sacrificial anode system,
+shall remove the steel underground storage tank system or the underground steel
+pipeline no later than 15 years from the date of installation unless a further
+time period is approved in writing by an Administrator or an inspector.
+((22)) Subsection (1) does not apply to a steel underground storage tank system or
+a steel underground pipeline that was abandoned prior to April 11, 1995, in
+accordance with regulations or policies adopted or established by the Minister,
+and was registered as abandoned with an Administrator prior to April 11, 1995.
+IInnssttaallllaattiioonnss ssuubbsseeqquueenntt ttoo AApprriill 1111,, 11999955
+1133 ((11)) This Section applies to an
+((aa)) underground storage tank system installed on or after April 11, 1995;
+((bb)) aboveground storage tank system installed on or after April 11, 1995,
+having a combined nonimal capacity greater than 4000 L.
+((22)) All installations of underground storage tank systems shall meet the
+requirements for a Class A site prescribed in the Standard.
+((33)) No person shall install or cause to be installed a storage tank system
+unless an Administrator or an inspector is notified of the proposed
+installation in writing on a form approved by the Minister or an Administrator
+at least 3 working days prior to the starting date of the installation.
+((44)) Within 30 days of the completion of the installation of a storage tank
+system, the installer who performed the installation shall complete and submit
+a storage tank system installation report, on a form approved by the Minister
+or an Administrator, to an Administrator or an inspector.
+AAlltteerraattiioonn ooff ssttoorraaggee ttaannkk ssyysstteemm
+1144 ((11)) No person shall alter or cause to be altered a storage tank system or a
+part thereof unless an Administrator or an inspector is notified of the
+proposed alteration in writing at least 3 working days prior to the starting
+date of the alteration.
+((22)) An Administrator or an inspector may request further information about an
+alteration or impose conditions respecting an alteration.
+((33)) Within 30 days of the completion of an alteration, the installer who
+performed the alteration shall complete and submit a storage tank system
+alteration report, on a form approved by the Minister or an Administrator, to
+an Administrator or an inspector.
+((44)) Despite subsection (1), prior notification is not required for an emergency
+alteration that is required to prevent a leak or spill of a petroleum product.
+((55)) Within 72 hours of initiating an emergency alteration, the installer shall
+submit a detailed description of the alteration in writing to an Administrator
+or an inspector.
+RReemmoovvaall ooff ssttoorraaggee ttaannkk ssyysstteemm
+1155 ((11)) No person shall remove or cause to be removed a storage tank system
+unless an Administrator or an inspector is notified of the proposed removal in
+writing at least 3 working days prior to the starting date of the removal.
+((22)) When a storage tank system is removed, all associated underground piping
+and related materials, including hold-down pads, anchors and protective liners,
+shall be removed unless otherwise authorized in writing by an Administrator or
+an inspector.
+((33)) Within 30 days of the completion of the removal, the installer who
+performed the removal shall complete and submit a storage tank system removal
+report, on a form approved by the Minister or an Administrator, to an
+Administrator or an inspector.
+((44)) A site that is contaminated as a result of the removal of a storage tank
+system or at which contamination is detected at the time of the removal of the
+storage tank system shall be rehabilitated by the person responsible for the
+storage tank system to standards prescribed or adopted by the Minister.
+IInnssttaalllleerr cceerrttiiffiiccaattee ooff qquuaalliiffiiccaattiioonn
+1166 ((11)) An Administrator may issue a certificate of qualification as an
+installer to a person who
+((aa)) provides the Administrator with information documenting the person’s
+training and experience;
+((bb)) demonstrates knowledge of the Standard, the Act and these regulations;
+((cc)) demonstrates their expertise in a manner and at a level of proficiency
+satisfactory to the Administrator; and
+((dd)) meets all other requirements prescribed by the Minister or an
+Administrator.
+((22)) A certificate of qualification issued pursuant to subsection (1) is valid
+for a period of 3 years from the date of issuance unless
+((aa)) it is voluntarily surrendered by the certificate holder; or
+((bb)) it is amended, suspended or cancelled by the Minister.
+((33)) No person shall install, alter or remove a storage tank system that is
+required to be registered pursuant to these regulations unless that person
+holds a certificate of qualification pursuant to this Section.
+1177 ((11)) An installer shall be present at all times while a storage tank system
+is being installed, altered or removed and the installer shall carry or have
+readily available the installer’s certificate of qualification.
+((22)) An installer shall produce the installer’s certificate of qualification for
+inspection if requested to do so by an Administrator or an inspector.
+SSttoorraaggee ttaannkk ssyysstteemm mmoonniittoorriinngg
+1188
+ ((11)) A person responsible for a storage tank system shall comply with the
+following monitoring requirements:
+((aa)) all maintenance checks on the proper operation of corrosion protection
+systems for an underground storage tank system shall be conducted in accordance
+with the National Standard of Canada Can 4-S603.1-M, latest edition, for a
+sacrificial anode system (SAS) and with the National Association of Corrosion
+Engineers (NACE) Standard RP-02, latest edition, for an impressed current
+system (ICS);
+((bb)) maintenance checks on a sacrificial anode system shall be conducted
+(i) immediately after installation,
+(ii) 6 months after installation, and
+(iii) every 2 years thereafter;
+((cc)) maintenance checks on an impressed current system shall be conducted
+(i) before energizing the system,
+(ii) immediately after energizing the system,
+(iii) 1 month after installation, and
+(iv) once yearly thereafter;
+((dd)) maintenance checks on all electrical and mechanical leak detection systems
+shall be conducted at least annually or more frequently if prescribed by the
+manufacturer of the leak detection system;
+((ee)) visual inspections of an aboveground storage tank system shall be made to
+ensure that there has been no leakage in the containment system and shall be
+conducted either
+(i) on each day the storage tank system is in operation, or
+(ii) at a frequency approved by an Administrator or an inspector;
+((ff)) all observation wells installed with a storage tank system shall be checked
+for liquid product or vapours
+(i) at least once a month,
+(ii) whenever there is an actual or suspected release, and
+(iii) whenever inventory reconciliation performed in accordance with Sections
+19 or 20 indicates an unexplained loss of petroleum products.
+((22)) Where there is an indication of a corrosion protection system failure or a
+mechanical problem, a person responsible shall ensure that the storage tank
+system is immediately repaired and shall notify the Administrator or an
+inspector of the repair within three 3 days of completion of the repair.
+UUnnddeerrggrroouunndd ssttoorraaggee ttaannkk ssyysstteemm iinnvveennttoorryy ccoonnttrrooll
+1199 ((11)) A person responsible for an underground storage tank system that is not
+directly connected to a heating appliance shall ensure that
+((aa)) the petroleum product level in an underground tank is measured, reconciled
+and recorded pursuant to subsections (2) and (3)
+(i) on each day that petroleum product is added to or removed from the
+underground tank, or
+(ii) where petroleum product is added to or removed from the underground tank
+less than once a week, at least weekly;
+((bb)) the water level in an underground tank shall be reconciled and shall be
+included in all reconciliation computations required pursuant to subsections
+(2) and (3).
+((22)) Inventory control measurements shall be reconciled by comparing petroleum
+product and water level measurements with measurements obtained from dispenser
+metre readings, shipments, deliveries, and internal transfers.
+((33)) Any gain or loss of petroleum product shall be recorded and included in a
+monthly summary of cumulative losses or gains of the petroleum product on a
+form approved by the Minister or an Administrator.
+((44)) A person responsible for an underground storage tank system shall
+immediately notify the Department in the manner prescribed in Section 69 of the
+Act or in the EEmmeerrggeennccyy SSppiillll RReegguullaattiioonnss when a leak is indicated in any one
+of the following circumstances:
+((aa)) an unexplained loss or gain of 0.5% or more of the inventory in any month;
+((bb)) inventory reconciliations showing 5 or more consecutive days of petroleum
+product losses or gains when the petroleum product level is measured every day;
+((cc)) inventory reconciliations showing 18 or more days per month of losses or
+gains when the petroleum product level is measured every day; or
+((dd)) the water level in the bottom of an underground tank exceeding 50 mm.
+AAbboovveeggrroouunndd ssttoorraaggee ttaannkk ssyysstteemm iinnvveennttoorryy ccoonnttrrooll
+2200 ((11)) Subject to subsection (3), a person responsible for an aboveground
+storage tank system that is not directly connected to a heating appliance shall
+ensure that the petroleum product level is measured, reconciled and recorded in
+accordance with subsections 19(2) and (3) at least weekly.
+((22)) A person responsible for an aboveground storage tank system shall
+immediately notify the Department in the manner prescribed in Section 69 of the
+Act and in the EEmmeerrggeennccyy SSppiillll RReegguullaattiioonnss when a leak is indicated in any one
+of the following circumstances:
+((aa)) an unexplained loss or gain of 1.0% or more of the inventory in any month;
+or
+((bb)) inventory reconciliations showing 4 or more consecutive weeks of
+unexplained petroleum product losses or gains in excess of 1.0% of the
+inventory for each week.
+((33)) Inventory control measures described in subsections (1) and (2) are not
+required for an aboveground storage tank system where the storage tank system
+is located such that all exterior surfaces are visible for inspection and are
+inspected in accordance with the requirements of subsection 18(1) or as
+approved in writing by an Administrator and
+((aa)) has secondary containment and leak monitoring devices that meet the
+requirements of the Standard; or
+((bb)) is equipped with a continuous leak detection device, system or method
+providing an equivalent level of safety and approved in writing by an
+Administrator.
+IInnvveennttoorryy ccoonnttrrooll ffoorr ssttoorraaggee ttaannkk ssyysstteemm ccoonnnneecctteedd ttoo hheeaattiinngg aapppplliiaannccee
+2211 A person responsible for a storage tank system that is connected to a
+heating appliance shall ensure that the storage tank system
+((aa)) has secondary containment and leak monitoring devices that meet the
+requirements of the Standard; or
+((bb)) is equipped with a continuous leak detection device, system or method
+providing an equivalent level of safety and approved in writing by an
+Administrator.
+RReeccoorrdd kkeeeeppiinngg
+2222 ((11)) All inventory control records and reconciliation data shall be
+maintained by a person responsible for a storage tank system at the location of
+the storage tank system for a period of 2 years.
+((22)) Where computerized inventory reconciliation is conducted, the records and
+data referred to in subsection (1) may be stored at a different location than
+that described in subsection (1), but must be made available within 48 hours of
+a request from an Administrator or inspector.
+((33)) The Minister or an Administrator may prescribe the format for records
+required under subsection (2).
+((44)) A person responsible for a newly acquired storage tank system shall obtain
+and maintain any required records from the person from whom the system was
+transferred.
+UUppggrraaddee pprrooggrraamm
+2233 ((11)) The Minister may require an upgrade program for storage tank systems
+where the upgrade program shows significant technological progress or potential
+for reduction or avoidance of adverse effects.
+((22)) Before an upgrade program is required, the Minister may
+((aa)) order a review of current storage tank system requirements and practices;
+or
+((bb)) consult with whomever the Minister determines appropriate.
+((33)) A person responsible for an storage tank system for which an upgrade
+program is required, shall comply with the upgrade requirements within the time
+frame specified in the upgrade program.
+LLeeaakkaaggee
+2244 ((11)) An Administrator or an inspector who believes on reasonable and probable
+grounds that there is leakage in a storage tank system may require a leak
+detection test to be conducted by, and at the expense of, a person responsible
+for the storage tank system.
+((22)) An Administrator or an inspector may require a person responsible for a
+storage tank system to replace, repair or remove all or any portion of the
+storage tank system that is shown by a leak detection test to have a leak, and
+the person shall comply with the requirement which the time frame prescribed.
+((33)) A leak detection test required pursuant to subsection (1) shall be
+conducted by a testing agent using
+((aa)) the Petrotite method;
+((bb)) the Vacutect method; or
+((cc)) a method approved in writing by an Administrator.
+((44)) A testing agent shall forward the written results of a leak detection test
+required pursuant to subsection (3) to an Administrator or an inspector within
+3 days of the test.
+((55)) If a leak is detected in a storage tank system, a person responsible for
+the storage tank system shall notify the Department in the manner prescribed in
+Section 69 of the Act and in the EEmmeerrggeennccyy SSppiillll RReegguullaattiioonnssimmediately upon
+learning that the storage tank system failed a leak detection test.
+RReeqquuiirreemmeennttss ffoorr oouutt ooff sseerrvviiccee ssttoorraaggee ttaannkk ssyysstteemmss
+2255 ((11)) A person responsible for an underground storage tank system that has
+been unused for 12 consecutive months or more and that does not require
+ballasting shall
+((aa)) empty all liquids and purge the storage tank system of all hydrocarbon
+vapours by a method acceptable to an Administrator or an inspector;
+((bb)) lock all fill and gauged pipe openings and block access to aboveground
+storage tank tops; and
+((cc)) ensure that if an impressed current cathodic protection system is used, the
+protection system is operated and maintained throughout the period the storage
+tank system is unused.
+((22)) A person responsible for an aboveground storage tank system that has been
+unused for 12 consecutive months or more shall ensure that
+((aa)) all fill and gauged pipe openings are locked and access to aboveground
+storage tank tops is blocked; and
+((bb)) if an impressed current cathodic protection system is used, the protection
+system is operated and maintained throughout the period the storage tank system
+is unused.
+((33)) Where an underground storage tank system that has been unused for a period
+of 6 consecutive months or more requires ballasting, a person responsible for
+the storage tank system shall gauge or dip each storage tank in the storage
+tank system on a monthly basis, including dips for the measurement of water in
+the storage tank system.
+((44)) Where an underground storage tank system that has been unused for 12
+consecutive months or more is to be reused, a person responsible for the
+storage tank system shall perform a leak detection test in accordance with
+subsection 24(3) and shall submit the results to an Administrator or an
+inspector prior to reuse of the system.
+((55)) Where the results of a test referred to in subsection (4) reveal leakage,
+an Administrator or inspector may require a person responsible for the storage
+tank system to replace, repair or remove all or any portion of the storage tank
+system shown to have a leak, and the person responsible shall comply with
+requirement within the time frame prescribed.
+AAbbaannddoonnmmeenntt ooff ssttoorraaggee ttaannkk ssyysstteemm
+2266 ((11)) Where a storage tank system has been unused for a period of 24
+consecutive months or more or is declared abandoned by a person responsible, an
+Administrator or an inspector, the person responsible shall comply with the
+provisions regarding removal and abandonment set forth in the Standard.
+((22)) A person responsible for an underground storage tank system may apply in
+writing to the Administrator for authorization to abandon the storage tank
+system in place.
+((33)) Where written authorization is issued by an Administrator pursuant to
+subsection (2), the abandonment shall be done in the manner set forth in the
+Standard.
+DDeeccoommmmiissssiioonniinngg oorr rree--uussee ooff ssttoorraaggee ttaannkkss
+2277 ((11)) An underground tank that has been removed from the ground
+((aa)) shall be decommissioned at a facility approved for that purpose by the
+Minister or an Administrator; or
+((bb)) may be reused if re-certified in accordance with one of the following ULC
+standards:
+(i) Underwriters Laboratories of Canada Technical Supplement ULC-S603(A),
+latest edition, for steel storage tanks, or
+(ii) National Standard of Canada Technical Supplement CAN 4-S615(A), latest
+edition, for “Refurbishing of Reinforced Plastic Underground Tanks for
+Petroleum Fuels”.
+((22)) Re-certification pursuant to clause (1)(b) shall be completed within 60
+days from the date of removal of the storage tank unless an extension is
+approved in writing by an Administrator.
+((33)) Where re-certification has not been successfully completed within the time
+frame prescribed in subsection (2), the storage tank shall be decommissioned in
+accordance with clause (1)(a).
+((44)) If acceptable to an Administrator or an inspector, an underground storage
+tank may be reused for the aboveground storage of petroleum products if it
+meets or exceeds the requirements for aboveground storage tanks as prescribed
+in the Standard.
+((55)) An aboveground storage tank that has been moved from its permanent
+foundation
+((aa)) shall be decommissioned at a facility approved for that purpose by the
+Minister or an Administrator; or
+((bb)) may be reused if re-certified in accordance with one of the following ULC
+standards:
+(i) CAN/ULC-S601(A), “Shop Refurbishing of Steel Aboveground Horizontal Tanks
+for Flammable and Combustible Liquids”, latest edition,
+(ii) CAN/ULC-630(A), “Shop Refurbishing of Steel Aboveground Vertical Tanks for
+Flammable and Combustible Liquids”, latest edition,
+(iii) API Standard 653, “Tank Inspection, Repair, Alteration and
+Reconstruction”, latest edition, as applicable.
+((66)) Decommissioning of an aboveground storage tank system may be undertaken at
+the installation site, subject to the written authorization of an Administrator
+or an inspector.
+===============================================================================

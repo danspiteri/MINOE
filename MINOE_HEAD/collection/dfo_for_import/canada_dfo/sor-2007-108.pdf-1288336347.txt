@@ -1,0 +1,1660 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+         Exclusion List                                          Règlement de 2007 sur la
+        Regulations, 2007                                            liste d’exclusion
+
+                     SOR/2007-108                                                      DORS/2007-108
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published            31. (1) Every copy of a consolidated statute or             31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies       (3) In the event of an inconsistency between a             (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                               Enregistrement
+SOR/2007-108 May 31, 2007                                  DORS/2007-108 Le 31 mai 2007
+CANADIAN ENVIRONMENTAL ASSESSMENT ACT                      LOI CANADIENNE SUR L’ÉVALUATION
+                                                           ENVIRONNEMENTALE
+
+Exclusion List Regulations, 2007                           Règlement de 2007 sur la liste d’exclusion
+
+P.C. 2007-835 May 31, 2007                                 C.P. 2007-835 Le 31 mai 2007
+
+  Whereas the Governor in Council is satisfied that the      Attendu que la gouverneure en conseil est convaincue
+environmental effects of certain projects in relation to   que les effets environnementaux de certains projets liés à
+physical works are insignificant;                          un ouvrage ne sont pas importants,
+   Therefore, Her Excellency the Governor General in          À ces causes, sur recommandation du ministre de
+Council, on the recommendation of the Minister of the      l’Environnement et en vertu du sous-alinéa 59c)(ii)a de la
+Environment, pursuant to subparagraph 59(c)(ii)a of the    Loi canadienne sur l’évaluation environnementaleb, Son
+Canadian Environmental Assessment Actb, hereby makes       Excellence la Gouverneure générale en conseil prend le
+the annexed Exclusion List Regulations, 2007.              Règlement de 2007 sur la liste d’exclusion, ci-après.
+
+
+
+
+a                                                           a 
+     S.C. 2003, c. 9, s. 29(2)                                   L.C. 2003, ch. 9, par. 29(2)
+b                                                           b 
+     S.C. 1992, c. 37                                            L.C. 1992, ch. 37
+EXCLUSION LIST REGULATIONS, 2007                                 RÈGLEMENT   DE             2007     SUR      LA      LISTE
+                                                                    D’EXCLUSION
+
+                  INTERPRETATION                                                      DÉFINITIONS
+   1. (1) The following definitions apply in these Regu-           1. (1) Les définitions qui suivent s’appliquent au pré-
+lations.                                                         sent règlement.
+“Act” means the Canadian Environmental Assessment                « agrandissement » Augmentation des dimensions exté-
+Act. (Loi)                                                       rieures ou de la capacité de production d’un ouvrage.
+“building” means a roofed physical work. (bâtiment)              (expansion)
+
+“Building Canada Plan” [Repealed, 2010, c. 12, s. 2164]          « assemblage nucléaire non divergent » Tout assemblage
+                                                                 de modérateurs, de réflecteurs et de matière fissile qui
+“dugout” means an excavation to hold water for con-              n’est pas conçu pour donner lieu à une réaction nucléaire
+sumption by livestock. (étang-réservoir)                         en chaîne auto-entretenue. (subcritical nuclear assem-
+“environmentally sensitive area” [Repealed, 2010, c. 12,         bly)
+s. 2164]                                                         « bâtiment » Ouvrage couvert d’un toit. (building)
+“essential systems” means the systems and equipment              « canal historique » S’entend au sens de l’article 2 du Rè-
+essential to the operation of a physical work including          glement sur les canaux historiques, y compris le terri-
+electrical, heating, fire-prevention, plumbing or security       toire domanial qui est contigu ou connexe au canal. (his-
+systems and equipment. It does not include systems or            toric canal)
+equipment that produce goods or energy primarily for
+any purpose other than the operation of the physical             « étang-réservoir » Excavation servant à stocker de l’eau
+work. (système essentiel)                                        pour abreuver le bétail. (dugout)
+
+“expansion” means an increase in the exterior dimen-             « installation nucléaire » S’entend au sens de l’article 2
+sions or the production capacity of a physical work.             de la Loi sur la sûreté et la réglementation nucléaires.
+(agrandissement)                                                 (nuclear facility)
+
+“footprint” means the area of land occupied by a build-          « lieu historique national » Endroit signalé, en vertu de
+ing or other structure at ground level. (superficie)             l’alinéa 3a) de la Loi sur les lieux et monuments histo-
+                                                                 riques, comme étant un lieu historique et administré par
+“heritage structure” means a building or other structure
+                                                                 l’Agence Parcs Canada. (national historic site)
+that is marked or otherwise commemorated under para-
+graph 3(a) of the Historic Sites and Monuments Act.              « ligne internationale de transport d’électricité » Ligne de
+(structure du patrimoine)                                        transport d’électricité construite ou exploitée pour trans-
+                                                                 porter de l’électricité d’un lieu situé au Canada à un lieu
+“historic canal” has the same meaning as in section 2 of
+                                                                 hors du pays, ou d’un lieu hors du pays à un lieu situé au
+the Historic Canals Regulations and includes any federal
+                                                                 Canada. (international electrical power line)
+lands appertaining or incident to a historic canal. (canal
+historique)                                                      « Loi » La Loi canadienne sur l’évaluation environne-
+                                                                 mentale. (Act)
+“hook-up” means a structure or line that is used to con-
+nect a physical work to a main gas, oil, sewer, water,           « modification » Transformation apportée à un ouvrage
+electrical power or telecommunication line. (raccorde-           qui n’en change pas la fonction ou la vocation. La pré-
+ment)                                                            sente définition ne comprend pas l’agrandissement ou le
+                                                                 déplacement de l’ouvrage. (modification)
+“intelligent transportation system” [Repealed, 2010, c.
+12, s. 2164]
+
+
+
+                                                             1
+                                          SOR/2007-108 — October 6, 2010
+
+
+
+“international electrical power line” means an electrical         « parc national » Parc dénommé et décrit à l’annexe 1 de
+power line constructed or operated for the purpose of             la Loi sur les parcs nationaux du Canada ou parc créé
+conveying electricity from a place in Canada to a place           conformément à un accord fédéral-provincial et placé
+outside Canada or to a place in Canada from a place out-          sous l’autorité du ministre de l’Environnement. (national
+side Canada. (ligne internationale de transport d’électri-        park)
+cité)                                                             « pipeline d’hydrocarbures » Pipeline utilisé ou destiné à
+“irrigation system” means any of the following that is            être utilisé pour le transport d’hydrocarbures, seuls ou
+used for irrigating agricultural land:                            avec tout autre produit. (oil and gas pipeline)
+  (a) a buried pipeline;                                          « plan Chantiers Canada » [Abrogée, 2010, ch. 12, art.
+  (b) a pipe;                                                     2164]
+
+  (c) a pump;                                                     « plan d’eau » S’entend notamment des lacs, des canaux,
+                                                                  des réservoirs, des océans, des rivières et leurs affluents
+  (d) a pump house;                                               ainsi que des terres humides — s’étendant jusqu’à la
+  (e) a reservoir;                                                laisse ou limite annuelle des hautes eaux —, à l’exclu-
+                                                                  sion des étangs de traitement des eaux usées ou des dé-
+  (f) a drain; or
+                                                                  chets, des étangs de résidus miniers ainsi que des réser-
+  (g) a canal lined with asphalt, wood, concrete or other         voirs d’irrigation artificiels, des étangs-réservoirs et des
+  material. (système d’irrigation)                                fossés qui ne contiennent pas d’habitat du poisson au
+“modification” means an alteration to a physical work             sens du paragraphe 34(1) de la Loi sur les pêches. (water
+that does not alter the purpose or function of the work. It       body)
+does not include an expansion or a relocation. (modifica-         « raccordement » Structure ou ligne utilisée pour relier un
+tion)                                                             ouvrage à une conduite principale de gaz, de mazout,
+“national historic site” means a place that is marked or          d’égout ou d’eau, ou à une ligne principale de transport
+otherwise commemorated under paragraph 3(a) of the                d’électricité ou de télécommunications. (hook-up)
+Historic Sites and Monuments Act and is under the ad-             « région écosensible » [Abrogée, 2010, ch. 12, art. 2164]
+ministration of the Parks Canada Agency. (lieu histo-
+                                                                  « réserve » Réserve à vocation de parc national du
+rique national)
+                                                                  Canada nommée et décrite à l’annexe 2 de la Loi sur les
+“national park” means a park named and described in               parcs nationaux du Canada ou réserve créée conformé-
+Schedule 1 to the Canada National Parks Act, or a park            ment à un accord fédéral-provincial et placée sous l’au-
+established under a federal-provincial agreement that is          torité du ministre de l’Environnement. (park reserve)
+under the responsibility of the Minister of the Environ-
+                                                                  « source scellée » S’entend au sens de l’article 1 du Rè-
+ment. (parc national)
+                                                                  glement sur les substances nucléaires et les appareils à
+“nuclear facility” has the same meaning as in section 2           rayonnement. (sealed source)
+of the Nuclear Safety and Control Act. (installation nu-
+cléaire)                                                          « structure du patrimoine » Bâtiment ou autre structure
+                                                                  lié à un lieu historique signalé en vertu de l’alinéa 3a) de
+“nuclear substance” has the same meaning as in section            la Loi sur les lieux et monuments historiques. (heritage
+2 of the Nuclear Safety and Control Act. (substance nu-           structure)
+cléaire)
+                                                                  « substance nucléaire » S’entend au sens de l’article 2 de
+“oil and gas pipeline” means a pipeline that is used, or is       la Loi sur la sûreté et la réglementation nucléaires. (nu-
+intended to be used, for the transmission of hydrocar-            clear substance)
+
+
+
+                                                              2
+                                          DORS/2007-108 — 6 octobre 2010
+
+
+
+bons alone or with any other commodity. (pipeline d’hy-           « substance polluante » Toute substance qui, introduite
+drocarbures)                                                      dans un plan d’eau, est susceptible d’en dégrader ou d’en
+“park reserve” means a national park reserve of Canada            altérer les propriétés physiques, chimiques ou biolo-
+named and described in Schedule 2 to the Canada Na-               giques ou de contribuer au processus de dégradation ou
+tional Parks Act or a reserve established under a federal-        d’altération de ces propriétés, au point de nuire à son uti-
+provincial agreement that is under the responsibility of          lisation par les végétaux ou les animaux, ainsi que par
+the Minister of the Environment. (réserve)                        les êtres humains. (polluting substance)
+
+“polluting substance” means a substance that, if added to         « superficie » La surface de terrain occupée, au niveau du
+a water body, is likely to degrade or alter or form part of       sol, par un bâtiment ou une autre structure. (footprint)
+a process of degradation or alteration of the physical,           « système de transport intelligent » [Abrogée, 2010, ch.
+chemical or biological conditions of the water body to an         12, art. 2164]
+extent that is detrimental to its use by plants, animals
+                                                                  « système d’irrigation » L’une des structures ci-après
+and human beings. (substance polluante)
+                                                                  lorsqu’elle sert à irriguer des terres agricoles :
+“sealed source” has the same meaning as in section 1 of
+                                                                    a) un pipeline enfoui;
+the Nuclear Substances and Radiation Devices Regula-
+tions. (source scellée)                                             b) une conduite;
+“serviced” in relation to a building lot, means equipped            c) une pompe;
+with hook-ups to water and sewage mains for water sup-              d) une station de pompage;
+ply and for sewage disposal by way of a centralized mu-
+                                                                    e) un réservoir;
+nicipal or community sewer and water system. (viabili-
+sé)                                                                 f) un drain;
+“subcritical nuclear assembly” means an assembly of fis-            g) un canal muni d’un revêtement intérieur en as-
+sile material, moderators and reflectors that is not de-            phalte, en bois, en béton ou en un autre matériau. (ir-
+signed to achieve a self-sustaining nuclear chain reac-             rigation system)
+tion. (assemblage nucléaire non divergent)                        « système essentiel » Tout système ou équipement indis-
+“water body” includes a lake, a canal, a reservoir, an            pensable à l’exploitation d’un ouvrage, notamment les
+ocean, a river and its tributaries and a wetland, up to the       systèmes et équipements d’électricité, de chauffage, de
+annual high-water mark, but does not include a sewage             prévention des incendies, de plomberie et de sécurité. La
+or waste treatment lagoon, a mine tailings pond, an arti-         présente définition ne vise pas les systèmes ni les équi-
+ficial irrigation pond, a dugout or a ditch that does not         pements destinés à la production de biens ou d’énergie
+contain fish habitat as defined in subsection 34(1) of the        principalement à des fins autres que l’exploitation de
+Fisheries Act. (plan d’eau)                                       l’ouvrage. (essential systems)
+“wetland” means a swamp, marsh, bog, fen or other land            « terres humides » Marécages, marais, tourbières ou
+that is covered by shallow water seasonally or perma-             autres terres, qui sont couverts d’eaux peu profondes de
+nently, including land where the water table is located at        façon saisonnière ou permanente, y compris les terres où
+or close to the surface. (terres humides)                         la nappe phréatique est située à la surface ou près de la
+                                                                  surface. (wetland)
+                                                                  « viabilisé » Se dit d’un terrain à construire où sont amé-
+                                                                  nagés des raccordements aux conduites principales d’ali-
+                                                                  mentation en eau et d’évacuation des eaux usées par
+
+
+
+
+                                                              3
+                                           SOR/2007-108 — October 6, 2010
+
+
+
+                                                                  l’entremise d’un réseau municipal ou collectif centralisé.
+                                                                  (serviced)
+  (2) For greater certainty, a reference to any physical             (2) Il est entendu que toute mention d’un ouvrage
+work includes a reference to its essential systems.               vise également ses systèmes essentiels.
+SOR/2009-88, s. 1; 2010, c. 12, s. 2164.                          DORS/2009-88, art. 1; 2010, ch. 12, art. 2164.
+
+                               GENERAL                                             DISPOSITIONS GÉNÉRALES
+   2. The projects and classes of projects that are set out          2. Les projets et les catégories de projets figurant à
+in Schedule 1 and to be carried out in places other than a        l’annexe 1 qui sont réalisés dans un lieu autre qu’un parc
+national park, park reserve, national historic site or his-       national, une réserve, un lieu historique national ou un
+toric canal are exempted from the requirement to con-             canal historique sont soustraits à l’évaluation exigée par
+duct an assessment under the Act.                                 la Loi.
+   3. The projects and classes of projects that are set out          3. Les projets et les catégories de projets figurant à
+in Schedule 2 and to be carried out in a national park,           l’annexe 2 qui sont réalisés dans un parc national, une
+park reserve or national historic site are exempted from          réserve ou un lieu historique national sont soustraits à
+the requirement to conduct an assessment under the Act.           l’évaluation exigée par la Loi.
+   4. The projects and classes of projects that are set out         4. Les projets et les catégories de projets figurant aux
+in Schedule 2 or 3 and to be carried out in a historic            annexes 2 ou 3 qui sont réalisés dans un canal historique
+canal are exempted from the requirement to conduct an             sont soustraits à l’évaluation exigée par la Loi.
+assessment under the Act.
+   5. [Repealed, 2010, c. 12, s. 2165]                               5. [Abrogé, 2010, ch. 12, art. 2165]
+
+                    COMING INTO FORCE                                                 ENTRÉE EN VIGUEUR
+ 6. These Regulations come into force on the day on                 6. Le présent règlement entre en vigueur à la date
+which they are registered.                                        de son enregistrement.
+
+
+
+
+                                                              4
+                                                    DORS/2007-108 — 6 octobre 2010
+
+
+
+                            SCHEDULE 1                                                                        ANNEXE 1
+                             (Section 2)                                                                       (article 2)
+
+ EXCLUSION LIST FOR PLACES OTHER THAN NATIONAL                                   LISTE D’EXCLUSION POUR LES LIEUX AUTRES QUE LES
+ PARKS, PARK RESERVES, NATIONAL HISTORIC SITES OR                                    PARCS NATIONAUX, LES RÉSERVES, LES LIEUX
+                 HISTORIC CANALS                                                HISTORIQUES NATIONAUX ET LES CANAUX HISTORIQUES
+
+                               PART 1                                                                          PARTIE 1
+
+                       GENERAL PROJECTS                                                         PROJETS DE NATURE GÉNÉRALE
+  1. The proposed maintenance or repair of a physical work.                       1. Projet d’entretien ou de réparation d’un ouvrage.
+   2. The proposed resumption or continuation of the operation of a               2. Projet de reprise ou de continuation de l’exploitation d’un ou-
+physical work, the operation of which is otherwise exempted under               vrage, si l’exploitation de l’ouvrage est soustraite à l’évaluation par le
+these Regulations.                                                              présent règlement.
+   3. The proposed resumption of the operation of a physical work,                3. Projet de reprise de l’exploitation d’un ouvrage, si l’exploitation
+the operation of which is not otherwise exempted under these Regula-            n’est pas soustraite à l’évaluation par le présent règlement et si les
+tions if                                                                        conditions suivantes sont réunies :
+  (a) the operation is the same as an operation of the physical work              a) l’exploitation projetée est identique à une exploitation de l’ou-
+  for which an environmental assessment has been conducted under                  vrage ayant fait l’objet d’une évaluation environnementale aux
+  either the Act or the Environmental Assessment Review Process                   termes de la Loi ou du Décret sur les lignes directrices visant le
+  Guidelines Order;                                                               processus d’évaluation et d’examen en matière d’environnement;
+  (b) as a result of the assessment, the operation was determined to              b) à la suite de cette évaluation, il a été établi que l’exploitation
+  be unlikely to cause significant adverse environmental effects, tak-            n’est pas susceptible d’entraîner d’effets environnementaux néga-
+  ing into account the implementation of mitigation measures, if any;             tifs importants, compte tenu des mesures d’atténuation mises en
+  and                                                                             application, le cas échéant;
+  (c) the mitigation measures and follow-up program, if any, have                 c) les mesures d’atténuation et le programme de suivi, le cas
+  been substantially implemented.                                                 échéant, ont été appliqués en grande partie.
+   4. (1) The proposed continued operation or continued decommis-                 4. (1) Projet d’exploitation continue ou de désaffectation continue
+sioning of a physical work, the operation or decommissioning of                 d’un ouvrage, si le projet n’est pas soustrait à l’évaluation par le pré-
+which is not otherwise exempted under these Regulations, if                     sent règlement et si les conditions suivantes sont réunies :
+  (a) the continued operation or decommissioning is the same as the               a) le projet ne prévoit aucun changement à l’exploitation ou à la
+  current operation or decommissioning and there is no interruption               désaffectation actuelles de l’ouvrage ni aucune interruption de
+  between the current and proposed operation or decommissioning;                  celles-ci;
+  (b) a federal authority or an entity referred to in sections 8 to 10 of         b) une autorité fédérale ou une entité visée aux articles 8 à 10 de la
+  the Act, in conjunction with its exercise of a power or performance             Loi a conclu, dans le cadre de l’exercice de ses attributions ayant
+  of a duty or function that enabled the current operation or decom-              permis l’exploitation ou la désaffectation actuelles, que celles-ci ne
+  missioning to be carried out, determined the current operation or               sont pas susceptibles d’entraîner d’effets environnementaux néga-
+  decommissioning to be unlikely to cause significant adverse envi-               tifs importants, compte tenu de l’application de mesures d’atténua-
+  ronmental effects, taking into account the implementation of any                tion, le cas échéant;
+  mitigation measures; and
+                                                                                  c) les mesures d’atténuation et le programme de suivi, le cas
+  (c) the mitigation measures and follow-up program, if any, have                 échéant, ont été appliqués en grande partie.
+  been substantially implemented.
+  (2) For the purpose of paragraph (1)(a), a change of operator does               (2) Pour l’application de l’alinéa (1)a), un changement d’exploi-
+not in itself mean that the proposed continued operation or decom-              tant ne constitue pas en soi un changement à l’exploitation ou à la
+missioning is different from the current operation or decommission-             désaffectation actuelles.
+ing.
+  5. The proposed construction, installation, operation, expansion,                5. Projet de construction, d’installation, d’exploitation, d’agrandis-
+modification or decommissioning of a physical work that is not other-           sement, de modification ou de désaffectation d’un ouvrage, si ce pro-
+wise referred to in this Schedule, if the project                               jet n’est pas mentionné ailleurs dans la présente annexe et si les
+                                                                                conditions suivantes sont réunies :
+  (a) in the case of a decommissioning, is not to be carried out on a
+  physical work with a footprint greater than 25 m2;                              a) dans le cas d’un projet de désaffectation, l’ouvrage a une super-
+                                                                                  ficie d’au plus 25 m2;
+  (b) does not result in a physical work with a footprint greater than
+  25 m2;
+
+
+
+
+                                                                            5
+                                                   SOR/2007-108 — October 6, 2010
+
+
+
+  (c) is not to be carried out within 30 m of a water body; and                 b) la superficie de l’ouvrage qui résulte du projet est d’au plus de
+                                                                                25 m2;
+  (d) does not involve the likely release of a polluting substance into
+  a water body.                                                                 c) le projet est réalisé à au moins 30 m de tout plan d’eau;
+                                                                                d) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+                                                                                stance polluante dans un plan d’eau.
+   6. (1) The proposed construction, installation, operation, expan-             6. (1) Projet de construction, d’installation, d’exploitation,
+sion or modification of a building that is only to be used in one or          d’agrandissement ou de modification d’un bâtiment destiné exclusi-
+more of the ways set out in subsection (2) if the project                     vement à un ou plusieurs des usages mentionnés au paragraphe (2), si
+                                                                              les conditions suivantes sont réunies :
+  (a) is to be carried out on
+                                                                                a) le projet est réalisé :
+    (i) a serviced building lot on which the building is to be con-
+    nected to the lot’s hook-ups to water and sewage mains, or                    (i) soit sur un terrain à construire viabilisé, le bâtiment devant
+                                                                                  être relié aux raccordements aux conduites principales d’eau et
+    (ii) unserviced land and the project does not result in a building
+                                                                                  d’égout de ce terrain,
+    with a footprint greater than
+                                                                                  (ii) soit sur un terrain non viabilisé, si la superficie du bâtiment
+       (A) in the case of construction or installation, 500 m2, and
+                                                                                  qui en résulte ne dépasse pas :
+       (B) in the case of an expansion, the greater of
+                                                                                     (A) dans le cas d’un projet de construction ou d’installation,
+          (I) 500 m2, and                                                            500 m2,
+          (II) an area that is 10% larger than its footprint on the day              (B) dans le cas d’un projet d’agrandissement, la plus grande
+          on which these Regulations come into force or, if the build-               des superficies suivantes :
+          ing does not exist on that day, on the day of completion of
+                                                                                        (I) 500 m2,
+          its original construction;
+                                                                                        (II) l’équivalent de 10 % de plus que la superficie du bâti-
+  (b) is not to be carried out within 30 m of a water body; and
+                                                                                        ment à la date d’entrée en vigueur du présent règlement ou,
+  (c) does not involve the likely release of a polluting substance into                 si le bâtiment n’existait pas à cette date, à la fin de sa
+  a water body.                                                                         construction originale;
+                                                                                b) le projet est réalisé à au moins 30 m de tout plan d’eau;
+                                                                                c) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+                                                                                stance polluante dans un plan d’eau.
+   (2) The following uses are set out for the purpose of subsection              (2) Les bâtiments visés par le projet sont destinés à un ou plu-
+(1):                                                                          sieurs des usages suivants :
+  (a) providing residential, hotel, institutional or other accommoda-           a) services d’hébergement en résidence, à l’hôtel, en établissement
+  tions;                                                                        spécialisé et autres types d’hébergement;
+  (b) providing offices, meeting rooms and related facilities;                  b) locaux à bureaux, salles de réunion et installations connexes;
+  (c) providing facilities and services to passengers of common car-            c) installations et services destinés aux passagers de transporteurs;
+  riers;
+                                                                                d) établissements de vente au détail;
+  (d) providing retail sales facilities;
+                                                                                e) établissements et services de santé;
+  (e) providing medical facilities and services;
+                                                                                f) établissements d’enseignement, centres d’information et ser-
+  (f) providing educational or informational facilities and services;           vices connexes;
+  (g) providing recreational facilities and services;                           g) installations récréatives et services connexes;
+  (h) providing restaurant and food take-out services;                          h) établissements de restauration et services de commandes à em-
+                                                                                porter;
+  (i) providing parking facilities;
+                                                                                i) aires de stationnement;
+  (j) presenting artistic, cultural, sporting and other community-re-
+  lated events;                                                                 j) établissements où se tiennent des activités artistiques, cultu-
+                                                                                relles, sportives ou autres activités communautaires;
+  (k) storing any article or substance that is not hazardous to human
+  beings or the environment; and                                                k) stockage d’articles ou de substances qui ne présentent pas de
+                                                                                danger pour les êtres humains ni l’environnement;
+  (l) providing facilities and services for the posting, receipt, sort-
+  ing, handling, transmission or delivery of mail.                              l) installations et services relatifs au dépôt, à la réception, au tri, à
+                                                                                la manutention, à la transmission ou à la distribution du courrier.
+
+
+
+
+                                                                          6
+                                                   DORS/2007-108 — 6 octobre 2010
+
+
+
+   7. The proposed construction, installation, operation or modifica-             7. Projet de construction, d’installation, d’exploitation ou de modi-
+tion of a building, other than a building to be used exclusively for one       fication d’un bâtiment, sauf celui destiné exclusivement aux usages
+or more of the purposes set out in subsection 6(2), if                         mentionnés au paragraphe 6(2), si les conditions suivantes sont
+                                                                               réunies :
+  (a) the project does not result in a building with a footprint greater
+  than 100 m2 or a height greater than 5 m;                                      a) la superficie du bâtiment qui en résulte est d’au plus 100 m2 et
+                                                                                 sa hauteur est d’au plus 5 m;
+  (b) the project is not to be carried out within 30 m of a water body;
+  and                                                                            b) le projet est réalisé à au moins 30 m de tout plan d’eau;
+  (c) the project does not involve the likely release of a polluting             c) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+  substance into a water body.                                                   stance polluante dans un plan d’eau.
+   8. The proposed expansion of a building, other than a building to              8. Projet d’agrandissement d’un bâtiment, sauf celui destiné exclu-
+be used exclusively for one or more of the purposes set out in subsec-         sivement aux usages mentionnés au paragraphe 6(2), si les conditions
+tion 6(2), if the project                                                      suivantes sont réunies :
+  (a) results in a building with a footprint no more than the greater            a) la superficie du bâtiment qui résulte du projet ne dépasse pas la
+  of 100 m2 and a footprint that is 10% larger than its footprint on the         plus grande des superficies suivantes :
+  day on which these Regulations come into force or, if the building
+                                                                                    (i) 100 m2,
+  does not exist on that day, on the day of completion of its original
+  construction;                                                                     (ii) l’équivalent de 10 % de plus que la superficie du bâtiment à
+  (b) results in a building with a height no more than the greater of 5             la date d’entrée en vigueur du présent règlement ou, si le bâti-
+  m and a height that is 10% more than its height on the day on                     ment n’existait pas à cette date, à la fin de sa construction origi-
+  which these Regulations come into force, or, if the building does                 nale;
+  not exist on that day, on the day of completion of its original con-           b) la hauteur du bâtiment qui résulte du projet ne dépasse pas la
+  struction;                                                                     plus élevée des hauteurs suivantes :
+  (c) is not to be carried out within 30 m of a water body; and                     (i) 5 m,
+  (d) does not involve the likely release of a polluting substance into             (ii) l’équivalent de 10 % de plus que la hauteur du bâtiment à la
+  a water body.                                                                     date d’entrée en vigueur du présent règlement ou, si le bâtiment
+                                                                                    n’existait pas à cette date, à la fin de sa construction originale;
+                                                                                 c) le projet est réalisé à au moins 30 m de tout plan d’eau;
+                                                                                 d) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+                                                                                 stance polluante dans un plan d’eau.
+  9. The proposed decommissioning of a building with a footprint                 9. Projet de désaffectation d’un bâtiment dont la superficie ne dé-
+no more than 1000 m2 if the project                                            passe pas 1 000 m2 et qui, à la fois :
+  (a) is not to be carried out within 30 m of a water body; and                  a) est réalisé à au moins 30 m de tout plan d’eau;
+  (b) does not involve the likely release of a polluting substance into          b) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+  a water body.                                                                  luante dans un plan d’eau.
+  10. The proposed demolition of a building with a floor area no                 10. Projet de démolition d’un bâtiment dont la surface de plancher
+greater than 1000 m2 if the project                                            ne dépasse pas 1 000 m2 et qui, à la fois :
+  (a) is not to be carried out within 30 m of another building;                  a) est réalisé à au moins 30 m d’un autre bâtiment;
+  (b) is not to be carried out within 30 m of a water body; and                  b) est réalisé à au moins 30 m de tout plan d’eau;
+  (c) does not involve the likely release of a polluting substance into          c) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+  a water body.                                                                  luante dans un plan d’eau.
+  11. The proposed operation of a nursing station or health centre               11. Projet d’exploitation d’un poste de soins infirmiers ou d’un
+having a floor area of no more than 1000 m2, or a treatment centre             centre de soins de santé dont la surface de plancher ne dépasse pas
+having a floor area of no more than 2000 m2, if the project                    1 000 m2 ou d’un centre de traitement dont la surface de plancher ne
+                                                                               dépasse pas 2 000 m2, si le projet, à la fois :
+  (a) is not to be carried out within 30 m of a water body; and
+                                                                                 a) est réalisé à au moins 30 m de tout plan d’eau;
+  (b) does not involve the likely release of a polluting substance into
+  a water body.                                                                  b) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+                                                                                 luante dans un plan d’eau.
+   12. The proposed construction, installation, operation, expansion              12. Projet de construction, d’installation, d’exploitation, d’agran-
+or modification of a sidewalk, a boardwalk, a path, a pedestrian ramp          dissement ou de modification d’un trottoir, d’une promenade de bois,
+or an access road if the project
+
+
+
+
+                                                                           7
+                                                   SOR/2007-108 — October 6, 2010
+
+
+
+  (a) is to be carried out                                                    d’un passage, d’une rampe pour piétons ou d’une voie d’accès, si le
+                                                                              projet, à la fois :
+    (i) on a serviced building lot,
+                                                                                a) est réalisé :
+    (ii) on unserviced land and the project does not affect per-
+    mafrost and results in a physical work with a length no more                   (i) soit sur un terrain à construire viabilisé,
+    than
+                                                                                   (ii) soit sur un terrain non viabilisé si le projet n’a pas d’effet
+       (A) in the case of construction or installation, 100 m, and                 sur le pergélisol et si la longueur de l’ouvrage qui en résulte ne
+                                                                                   dépasse pas :
+       (B) in the case of an expansion, the greater of 100 m and a
+       length that is 10% more than the length of the physical work                  (A) dans le cas d’un projet de construction ou d’installation,
+       on the day on which these Regulations come into force or, if                  100 m,
+       the physical work does not exist on that day, on the day of
+                                                                                     (B) dans le cas d’un projet d’agrandissement, la plus grande
+       completion of its original construction, or
+                                                                                     des longueurs suivantes :
+    (iii) for a sidewalk, boardwalk, path or pedestrian ramp, on un-
+                                                                                        (I) 100 m,
+    serviced land alongside a building or road and the project does
+    not affect permafrost;                                                              (II) l’équivalent de 10 % de plus que la longueur de l’ou-
+  (b) is not to be carried out within 30 m of a water body; and                         vrage à la date d’entrée en vigueur du présent règlement ou,
+                                                                                        si l’ouvrage n’existait pas à cette date, à la fin de sa
+  (c) does not involve the likely release of a polluting substance into                 construction originale,
+  a water body.
+                                                                                   (iii) soit, dans le cas d’un trottoir, d’une promenade de bois,
+                                                                                   d’un passage ou d’une rampe pour piétons, sur un terrain non
+                                                                                   viabilisé le long d’un édifice ou d’une route si le projet n’a pas
+                                                                                   d’effet sur le pergélisol;
+                                                                                b) est réalisé à au moins 30 m de tout plan d’eau;
+                                                                                c) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+                                                                                luante dans un plan d’eau.
+   13. The proposed construction, operation, expansion or modifica-            13. Projet de construction, d’exploitation, d’agrandissement ou de
+tion of a parking lot if the project                                          modification d’un terrain de stationnement, si le projet, à la fois :
+  (a) is to be carried out on                                                   a) est réalisé :
+    (i) a serviced building lot, or                                                (i) soit sur un terrain à construire viabilisé,
+    (ii) unserviced land and the project does not affect permafrost                (ii) soit sur un terrain non viabilisé si le projet n’a pas d’effet
+    and results in a parking lot having an area no more than                       sur le pergélisol et si la superficie du terrain de stationnement
+                                                                                   qui en résulte ne dépasse pas :
+       (A) in the case of construction, 500 m2, and
+                                                                                     (A) dans le cas d’un projet de construction, 500 m2,
+       (B) in the case of an expansion, the greater of 500 m2 and an
+       area that is 10% larger than the area of the parking lot on the               (B) dans le cas d’un projet d’agrandissement, la plus grande
+       day on which these Regulations come into force or, if the                     des superficies suivantes :
+       parking lot does not exist on that day, on the day of comple-
+       tion of its original construction;                                               (I) 500 m2,
+
+  (b) is not to be carried out within 30 m of a water body; and                         (II) l’équivalent de 10 % de plus que la superficie du ter-
+                                                                                        rain de stationnement à la date d’entrée en vigueur du pré-
+  (c) does not involve the likely release of a polluting substance into                 sent règlement ou, si le terrain de stationnement n’existait
+  a water body.                                                                         pas à cette date, à la fin de sa construction originale;
+                                                                                b) est réalisé à au moins 30 m de tout plan d’eau;
+                                                                                c) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+                                                                                luante dans un plan d’eau.
+   14. The proposed construction, installation, operation, expansion,            14. Projet de construction, d’installation, d’exploitation, d’agran-
+modification or removal of a fence that does not prevent the passage          dissement, de modification ou d’enlèvement d’une clôture qui n’em-
+of wild animals if the project                                                pêche pas le passage d’animaux sauvages, si le projet, à la fois :
+  (a) is not to be carried out within 3 m of a water body; and                  a) est réalisé à au moins 3 m de tout plan d’eau;
+  (b) does not involve the likely release of a polluting substance into         b) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+  a water body.                                                                 luante dans un plan d’eau.
+
+
+
+
+                                                                          8
+                                                    DORS/2007-108 — 6 octobre 2010
+
+
+
+  15. The proposed construction, installation, operation, expansion,               15. Projet de construction, d’installation, d’exploitation, d’agran-
+modification or removal of a fence that prevents the passage of wild            dissement, de modification ou d’enlèvement d’une clôture qui em-
+animals if the project                                                          pêche le passage d’animaux sauvages, si les conditions suivantes sont
+                                                                                réunies :
+  (a) in the case of a construction or installation, is to be carried out
+  entirely within 30 m of a non-linear physical work;                             a) dans le cas d’un projet de construction ou d’installation, celui-ci
+                                                                                  est entièrement réalisé à moins de 30 m d’un ouvrage autre qu’un
+  (b) in the case of an expansion, results in a fence with a length or
+                                                                                  ouvrage linéaire;
+  height that is no more than 35% greater than its length or height on
+  the day on which these Regulations come into force, or, if the                  b) dans le cas d’un projet d’agrandissement, la longueur ou la hau-
+  fence does not exist on that day, on the day of completion of its               teur de la clôture qui en résulte ne dépasse pas de plus de 35 % la
+  original construction;                                                          longueur ou la hauteur de la clôture à la date d’entrée en vigueur
+                                                                                  du présent règlement ou, si la clôture n’existait pas à cette date, à
+  (c) is not to be carried out within 30 m of a water body; and
+                                                                                  la fin de sa construction originale;
+  (d) does not involve the likely release of a polluting substance into
+                                                                                  c) le projet est réalisé à au moins 30 m de tout plan d’eau;
+  a water body.
+                                                                                  d) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+                                                                                  stance polluante dans un plan d’eau.
+  16. The proposed construction, installation, operation, expansion,               16. Projet de construction, d’installation, d’exploitation, d’agran-
+modification, decommissioning, abandonment or removal of a hy-                  dissement, de modification, de désaffectation, de fermeture ou d’en-
+drant or hook-up if                                                             lèvement d’une prise d’eau ou d’un raccordement, si les conditions
+                                                                                suivantes sont réunies :
+  (a) the hydrant or hook-up is part of a farm or municipal system of
+  distribution; and                                                               a) la prise d’eau ou le raccordement fait partie d’un réseau de dis-
+                                                                                  tribution agricole ou municipal;
+  (b) the project does not involve the crossing of a water body, other
+  than an aerial crossing by a telecommunication or electrical power              b) le projet n’entraîne pas le franchissement d’un plan d’eau autre
+  line.                                                                           que le franchissement aérien par une ligne de télécommunication
+                                                                                  ou une ligne de transport d’électricité.
+   17. The proposed construction, installation, operation, expansion,              17. Projet de construction, d’installation, d’exploitation, d’agran-
+modification or removal of a sign if the project does not involve the           dissement, de modification ou d’enlèvement d’un panneau, si le pro-
+likely release of a polluting substance into a water body.                      jet n’est pas susceptible d’entraîner le rejet d’une substance polluante
+                                                                                dans un plan d’eau.
+  18. The proposed construction, installation, operation, expansion,               18. Projet de construction, d’installation, d’exploitation, d’agran-
+modification or decommissioning of an environmental scientific data             dissement, de modification ou de désaffectation d’un instrument de
+collection instrument, including its housing and enclosure, if the              collecte de données scientifiques sur l’environnement, ainsi que de
+project                                                                         son boîtier et de son enceinte, si le projet, à la fois :
+  (a) is not to be carried out within 30 m of a water body; and                   a) est réalisé à au moins 30 m de tout plan d’eau;
+  (b) does not involve the likely release of a polluting substance into           b) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+  a water body.                                                                   luante dans un plan d’eau.
+   19. The proposed construction, installation, operation, expansion               19. Projet de construction, d’installation, d’exploitation, d’agran-
+or modification of a temporary exhibition structure inside, or affixed          dissement ou de modification d’une structure d’exposition temporaire
+to the exterior of, a building.                                                 située à l’intérieur d’un bâtiment ou fixée à l’extérieur de celui-ci.
+   20. (1) The proposed construction, installation, operation, expan-              20. (1) Projet de construction, d’installation, d’exploitation,
+sion or modification of a radiocommunication antenna and its sup-               d’agrandissement ou de modification d’une antenne de radiocommu-
+porting structure                                                               nication et de sa structure portante, si le projet, à la fois :
+  (a) if                                                                          a) comporte au moins une des caractéristiques suivantes :
+    (i) the antenna and supporting structure are either affixed to a                 (i) l’antenne et sa structure portante sont fixées à un bâtiment ou
+    building or located entirely within 15 m of a building, or                       sont situées à une distance de moins de 15 m d’un bâtiment,
+    (ii) the antenna, its supporting structure, or any of its supporting             (ii) l’antenne, sa structure portante et ses haubans ont chacun
+    lines has a footprint of no more than 25 m2;                                     une superficie d’au plus 25 m2;
+  (b) if the project is not to be carried out within 30 m of a water              b) est réalisé à au moins 30 m de tout plan d’eau;
+  body; and
+                                                                                  c) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+  (c) if the project does not involve the likely release of a polluting           luante dans un plan d’eau.
+  substance into a water body.
+
+
+
+
+                                                                            9
+                                                   SOR/2007-108 — October 6, 2010
+
+
+
+   (2) The proposed construction, installation, operation, expansion              (2) Projet de construction, d’installation, d’exploitation, d’agran-
+or modification of a radiocommunication antenna and its supporting             dissement ou de modification d’une antenne de radiocommunication
+structure within 30 m of a water body if                                       et de sa structure portante, qui est réalisé à moins de 30 m de tout
+                                                                               plan d’eau, si les conditions suivantes sont réunies :
+  (a) the antenna and its supporting structure are affixed to a build-
+  ing;                                                                           a) l’antenne et sa structure portante sont fixées à un bâtiment;
+  (b) the project results in an antenna with a height no more than the           b) la hauteur de l’antenne de radiocommunication qui résulte du
+  greater of 5 m and a height equal to 25% of the height of the build-           projet ne dépasse pas la plus élevée des hauteurs suivantes :
+  ing to which it is affixed; and
+                                                                                    (i) 5 m,
+  (c) the project does not involve the likely release of a polluting
+                                                                                    (ii) une hauteur équivalente à 25 % de la hauteur du bâtiment
+  substance into a water body.
+                                                                                    auquel l’antenne est fixée;
+                                                                                 c) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+                                                                                 stance polluante dans un plan d’eau.
+   (3) The proposed construction, installation, operation, expansion              (3) Projet de construction, d’installation, d’exploitation, d’agran-
+or modification of a radiocommunication antenna and its supporting             dissement ou de modification d’une antenne de radiocommunication
+structure that are affixed to a physical work other than a building if         et de sa structure portante qui sont fixées à un ouvrage autre qu’un
+the project                                                                    bâtiment, si les conditions suivantes sont réunies :
+  (a) results in an antenna with a height no more than the greater of            a) la hauteur de l’antenne de radiocommunication qui résulte du
+  5 m and a height equal to 25% of the height of the physical work to            projet ne dépasse pas la plus élevée des hauteurs suivantes :
+  which it is affixed; and
+                                                                                    (i) 5 m,
+  (b) does not involve the likely release of a polluting substance into
+                                                                                    (ii) une hauteur équivalente à 25 % de la hauteur de l’ouvrage
+  a water body.
+                                                                                    auquel l’antenne est fixée;
+                                                                                 b) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+                                                                                 stance polluante dans un plan d’eau.
+   21. The proposed construction, installation, operation, expansion,             21. Projet de construction, d’installation, d’exploitation, d’agran-
+modification or removal of a temporary field camp used for scientific          dissement, de modification ou d’enlèvement d’un campement tempo-
+or technical research, or for reforestation, if                                raire servant à la recherche scientifique ou technique ou encore au re-
+                                                                               boisement, si les conditions suivantes sont réunies :
+  (a) the temporary field camp will be in use for fewer than 200 per-
+  son-days;                                                                      a) le campement temporaire est utilisé pendant moins de deux
+                                                                                 cents jours-personnes;
+  (b) the project is not to be carried out within 30 m of a water body;
+  and                                                                            b) le projet est réalisé à au moins 30 m de tout plan d’eau;
+  (c) the project does not involve the likely release of a polluting             c) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+  substance into a water body.                                                   stance polluante dans un plan d’eau.
+   22. The proposed construction, installation, operation, modifica-              22. Projet de construction, d’installation, d’exploitation, de modi-
+tion or removal of a structure intended to house wild animals if               fication ou d’enlèvement d’une structure destinée à abriter des ani-
+                                                                               maux sauvages, si les conditions suivantes sont réunies :
+  (a) the structure has a footprint that is no more than 5 m2;
+                                                                                 a) la structure qui en résulte a une superficie d’au plus 5 m2;
+  (b) the structure does not house species raised for commercial pur-
+  poses;                                                                         b) la structure n’abrite pas d’espèces élevées à des fins commer-
+                                                                                 ciales;
+  (c) the project does not involve the use of vehicles or heavy ma-
+  chinery within 30 m of a water body; and                                       c) le projet ne nécessite pas l’utilisation de véhicules ou de machi-
+                                                                                 nerie lourde à moins de 30 m de tout plan d’eau;
+  (d) the project does not involve the likely release of a polluting
+  substance into a water body.                                                   d) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+                                                                                 stance polluante dans un plan d’eau.
+   23. The proposed installation, operation, expansion, modification,             23. Projet d’installation, d’exploitation, d’agrandissement, de mo-
+removal or decommissioning of an aboveground storage tank system               dification, d’enlèvement ou de désaffectation d’un système de réser-
+to be used for storing petroleum products or allied petroleum prod-            voirs de stockage hors sol pour produits pétroliers ou pour produits
+ucts if the project                                                            pétroliers apparentés, si les conditions suivantes sont réunies :
+  (a) results in a system with a total capacity of no more than 4000             a) la capacité globale du système qui résulte du projet est d’au
+  L;                                                                             plus 4 000 L;
+
+
+
+
+                                                                          10
+                                                    DORS/2007-108 — 6 octobre 2010
+
+
+
+  (b) is conducted in accordance with the Technical Guidelines for                 b) le projet est réalisé conformément aux Directives techniques
+  Aboveground Storage Tank Systems Containing Petroleum Prod-                      concernant les systèmes de stockage hors sol de produits pétroliers
+  ucts (P.C. 1996-1233) made under the Canadian Environmental                      (décret C.P. 1996-1233 du 7 août 1996) prises sous le régime de la
+  Protection Act and dated August 7, 1996, as amended from time to                 Loi canadienne sur la protection de l’environnement, avec leurs
+  time;                                                                            modifications successives;
+  (c) is not to be carried out within 30 m of a water body; and                    c) le projet est réalisé à au moins 30 m de tout plan d’eau;
+  (d) does not involve the likely release of a polluting substance into            d) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+  a water body.                                                                    stance polluante dans un plan d’eau.
+  24. The proposed construction, installation or modification of a                 24. Projet de construction, d’installation ou de modification de
+Canada-United States international boundary monument.                            bornes frontières entre le Canada et les États-Unis.
+   25. The proposed installation and operation of additional equip-                 25. Projet d’installation et d’exploitation d’équipement additionnel
+ment in a factory that produces sporting ammunition, or bulk explo-              servant, dans une manufacture, à la production de munitions desti-
+sives based on ammonium nitrate, sodium nitrate or calcium nitrate,              nées à des activités sportives ou d’explosifs en vrac faits à partir de
+or the proposed modification of any equipment in the factory, if the             nitrate d’ammonium, de nitrate de sodium ou de nitrate de calcium,
+project                                                                          ou projet de modification de tout équipement utilisé à ces fins, si les
+                                                                                 conditions suivantes sont réunies :
+  (a) results in the factory having a production capacity that is no
+  more than 20% greater than its production capacity on the day on                 a) la capacité de production de la manufacture qui en résulte ne
+  which these Regulations come into force or, if the factory does not              dépasse pas de plus de 20 % sa capacité de production à la date
+  exist on that day, on the day on which the operation of the factory              d’entrée en vigueur du présent règlement ou, si la manufacture
+  commences;                                                                       n’existait pas à cette date, à celle où son exploitation a commencé;
+  (b) is not to be carried out within 30 m of a water body; and                    b) le projet est réalisé à au moins 30 m de tout plan d’eau;
+  (c) does not involve the likely release of a polluting substance into            c) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+  a water body.                                                                    stance polluante dans un plan d’eau.
+   25.1 The proposed construction, installation, operation, expansion,              25.1 Projet de construction, d’installation, d’exploitation, d’agran-
+modification, decommissioning or removal of a receptacle and its                 dissement, de modification, de désaffectation ou d’enlèvement d’un
+base and enclosure, if any, that is to be used exclusively for the col-          récipient, et le cas échéant, de sa base et de son enceinte, destiné ex-
+lection, delivery or storage of mail, if the project                             clusivement à la levée, à la distribution ou à l’entreposage du cour-
+                                                                                 rier, si les conditions suivantes sont réunies :
+  (a) does not result in a physical work with a footprint greater than
+  25 m2;                                                                           a) la superficie de l’ouvrage qui résulte du projet est d’au plus 25
+                                                                                   m2;
+  (b) is carried out on land; and
+                                                                                   b) le projet est réalisé sur la terre ferme;
+  (c) does not involve the likely release of a polluting substance into
+  a water body.                                                                    c) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+                                                                                   stance polluante dans un plan d’eau.
+
+                                PART 2                                                                            PARTIE 2
+
+                            AGRICULTURE                                                                         AGRICULTURE
+   26. The proposed construction, installation, operation, expansion                26. Projet de construction, d’installation, d’exploitation, d’agran-
+or modification of a building located on agricultural land if                    dissement ou de modification d’un bâtiment sur un terrain agricole, si
+                                                                                 les conditions suivantes sont réunies :
+  (a) the building is essential to the practice of farming and is not to
+  be used to store a polluting substance;                                          a) le bâtiment est essentiel à la pratique de l’agriculture et il n’est
+                                                                                   pas utilisé pour l’entreposage d’une substance polluante;
+  (b) the project is to be carried out on
+                                                                                   b) le projet est réalisé :
+     (i) a serviced building lot, or
+                                                                                      (i) soit sur un terrain à construire viabilisé,
+     (ii) unserviced land if the project results in a building with a
+     footprint no more than                                                           (ii) soit sur un terrain non viabilisé, si la superficie du bâtiment
+                                                              2                       qui en résulte ne dépasse pas :
+       (A) in the case of construction or installation, 750 m , and
+                                                                                        (A) dans le cas d’un projet de construction ou d’installation,
+       (B) in the case of an expansion, the greater of
+                                                                                        750 m2,
+          (I) 750 m2, and
+                                                                                        (B) dans le cas d’un projet d’agrandissement, la plus grande
+          (II) a footprint that is 10% larger than the footprint that ex-               des superficies suivantes :
+          ists on the day on which these Regulations come into force
+                                                                                           (I) 750 m2,
+
+
+
+
+                                                                            11
+                                                   SOR/2007-108 — October 6, 2010
+
+
+
+          or, if the building does not exist on that day, on the day of                   (II) l’équivalent de 10 % de plus que la superficie du bâti-
+          completion of its original construction;                                        ment à la date d’entrée en vigueur du présent règlement ou,
+                                                                                          si le bâtiment n’existait pas à cette date, à la fin de sa
+  (c) the project is not to be carried out within 30 m of a water body;
+                                                                                          construction originale;
+  and
+                                                                                  c) le projet est réalisé à au moins 30 m de tout plan d’eau;
+  (d) the project does not involve the likely release of a polluting
+  substance into a water body.                                                    d) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+                                                                                  stance polluante dans un plan d’eau.
+  27. The proposed construction, installation, operation, expansion,               27. Projet de construction, d’installation, d’exploitation, d’agran-
+modification or decommissioning of a domestic or farm water supply              dissement, de modification ou de désaffectation d’un réseau de distri-
+system or dugout on agricultural land if the project                            bution d’eau à usage domestique ou agricole ou d’un étang-réservoir
+                                                                                sur un terrain agricole, si le projet, à la fois :
+  (a) is not to be carried out, except in respect of an intake pipe,
+  within 30 m of a water body; and                                                a) est, sauf pour la conduite de prise d’eau, réalisé à au moins 30
+                                                                                  m de tout plan d’eau;
+  (b) does not involve the likely release of a polluting substance into
+  a water body.                                                                   b) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+                                                                                  luante dans un plan d’eau.
+   28. The proposed construction, installation, operation, expansion               28. Projet de construction, d’installation, d’exploitation, d’agran-
+or decommissioning of a domestic or farm irrigation system on agri-             dissement ou de désaffectation d’un système d’irrigation à usage do-
+cultural land if the project                                                    mestique ou agricole sur un terrain agricole, si le projet, à la fois :
+  (a) is not to be carried out, except in respect of an intake pipe,              a) est, sauf pour la conduite de prise d’eau, réalisé à au moins 30
+  within 30 m of a water body; and                                                m de tout plan d’eau;
+  (b) does not involve the likely release of a polluting substance into           b) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+  a water body.                                                                   luante dans un plan d’eau.
+  29. The proposed modification of a domestic or farm irrigation                  29. Projet de modification d’un système d’irrigation à usage do-
+system if the project does not involve the likely release of a polluting        mestique ou agricole qui n’est pas susceptible d’entraîner le rejet
+substance into a water body.                                                    d’une substance polluante dans un plan d’eau.
+   30. The proposed construction, operation, modification, expansion              30. Projet de construction, d’exploitation, de modification,
+or decommissioning of a drainage structure on agricultural land, other          d’agrandissement ou de désaffectation d’une structure de drainage sur
+than a structure that drains into a water body, if the project                  un terrain agricole, sauf une structure se déversant dans un plan
+                                                                                d’eau, si le projet, à la fois :
+  (a) is not to be carried out within 30 m of a water body; and
+                                                                                  a) est réalisé à au moins 30 m de tout plan d’eau;
+  (b) does not involve the likely release of a polluting substance into
+  a water body.                                                                   b) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+                                                                                  luante dans un plan d’eau.
+
+                               PART 3                                                                         PARTIE 3
+
+                      ELECTRICAL ENERGY                                                               ÉNERGIE ÉLECTRIQUE
+   31. The proposed construction or installation of an electrical pow-             31. Projet de construction ou d’installation d’une ligne de trans-
+er line with a voltage of not more than 130 kV, other than an interna-          port d’électricité, sauf une ligne internationale de transport d’électri-
+tional electrical power line, if the project                                    cité, d’une tension d’au plus 130 kV, si le projet, à la fois :
+  (a) is to be carried out alongside a road, a railway line, an electri-          a) est réalisé le long d’une route, d’une ligne de chemin de fer,
+  cal power line, a telecommunication line or any other linear physi-             d’une ligne de transport d’électricité, d’une ligne de télécommuni-
+  cal work;                                                                       cation ou de tout autre ouvrage linéaire;
+  (b) does not involve the placement in a water body of the support-              b) ne nécessite pas la mise en place dans un plan d’eau des struc-
+  ing structures for the electrical power line; and                               tures portantes de la ligne de transport d’électricité;
+  (c) does not involve the likely release of a polluting substance into           c) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+  a water body.                                                                   luante dans un plan d’eau.
+   32. The proposed expansion or modification of a telecommunica-                  32. Projet d’agrandissement ou de modification d’une ligne de té-
+tion line or an electrical power line, other than an international elec-        lécommunication ou d’une ligne de transport d’électricité, sauf une
+trical power line, if the project                                               ligne internationale de transport d’électricité, si les conditions sui-
+                                                                                vantes sont réunies :
+  (a) results in a line that is no more than 10% longer than it is on
+  the day on which these Regulations come into force or, if the line
+
+
+
+
+                                                                           12
+                                                   DORS/2007-108 — 6 octobre 2010
+
+
+
+  did not exist on that day, on the day of completion of its original             a) la longueur de la ligne qui en résulte ne dépasse pas de plus de
+  construction;                                                                   10 % la longueur de la ligne de télécommunication ou de la ligne
+                                                                                  de transport d’électricité, selon le cas, à la date d’entrée en vigueur
+  (b) is to be carried out alongside a road, a railway line, an electri-
+                                                                                  du présent règlement ou, si une telle ligne n’existait pas à cette
+  cal power line, a telecommunication line or any other linear physi-
+                                                                                  date, à la fin de sa construction originale;
+  cal work;
+                                                                                  b) le projet est réalisé le long d’une route, d’une ligne de chemin
+  (c) does not involve the placement in a water body of the support-
+                                                                                  de fer, d’une ligne de transport d’électricité, d’une ligne de télé-
+  ing structures for the telecommunication line or electrical power
+                                                                                  communication ou de tout autre ouvrage linéaire;
+  line; and
+                                                                                  c) le projet ne nécessite pas la mise en place dans un plan d’eau
+  (d) does not involve the likely release of a polluting substance into
+                                                                                  des structures portantes de la ligne de télécommunication ou de la
+  a water body.
+                                                                                  ligne de transport d’électricité;
+                                                                                  d) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+                                                                                  stance polluante dans un plan d’eau.
+   33. The proposed construction, installation, operation, expansion               33. Projet de construction, d’installation, d’exploitation, d’agran-
+or modification of a substation that is associated with an electrical           dissement ou de modification d’une sous-station associée à une ligne
+power line, other than an international electrical power line, having a         de télécommunication ou à une ligne de transport d’électricité d’une
+voltage of not more than 130 kV or with a telecommunication line, if            tension d’au plus 130 kV, sauf une ligne internationale de transport
+the project                                                                     d’électricité, si le projet, à la fois :
+  (a) is to be carried out adjacent to the telecommunication or elec-             a) est réalisé à côté de la ligne de transport d’électricité ou de télé-
+  trical power line;                                                              communication;
+  (b) is not to be carried out within 30 m of a water body; and                   b) est réalisé à au moins 30 m de tout plan d’eau;
+  (c) does not involve the likely release of a polluting substance into           c) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+  a water body.                                                                   luante dans un plan d’eau.
+  34. The proposed construction, installation, operation, expansion                34. Projet de construction, d’installation, d’exploitation, d’agran-
+or modification of an international electrical power line with a volt-          dissement ou de modification d’une ligne internationale de transport
+age of not more than 50 kV if the project                                       d’électricité d’une tension d’au plus 50 kV, si les conditions sui-
+                                                                                vantes sont réunies :
+  (a) is to be carried out alongside a road, a railway line, an electri-
+  cal power line, a telecommunication line or any other linear physi-             a) le projet est réalisé le long d’une route, d’une ligne de chemin
+  cal work;                                                                       de fer, d’une ligne de transport d’électricité, d’une ligne de télé-
+                                                                                  communication ou de tout autre ouvrage linéaire;
+  (b) does not result in more than 4 km of the line extending outside
+  Canada;                                                                         b) la ligne qui en résulte ne se prolonge pas à plus de 4 km à l’ex-
+                                                                                  térieur du Canada;
+  (c) does not involve the placement of the supporting structures for
+  the line within 30 m of a water body; and                                       c) le projet ne nécessite pas la mise en place à moins de 30 m de
+                                                                                  tout plan d’eau des structures portantes de la ligne;
+  (d) does not involve the likely release of a polluting substance into
+  a water body.                                                                   d) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+                                                                                  stance polluante dans un plan d’eau.
+   35. The proposed expansion or modification of a wind turbine                    35. Projet d’agrandissement ou de modification d’un parc d’éo-
+farm if                                                                         liennes, si les conditions suivantes sont réunies :
+  (a) in the case of an expansion of a farm having no more than 15                a) dans le cas d’un projet d’agrandissement d’un parc dont le
+  wind turbines, the expansion results in no more than 3 additional               nombre d’éoliennes ne dépasse pas quinze, le nombre d’éoliennes
+  wind turbines on the farm and a production capacity that is no                  additionnelles est de trois au plus et la capacité de production du
+  more than 50% greater than its capacity on the day on which these               parc ne dépasse pas de plus de 50 % sa capacité de production à la
+  Regulations come into force or, if the farm does not exist on that              date d’entrée en vigueur du présent règlement ou, si le parc n’exis-
+  day, on the day of completion of its original construction;                     tait pas à cette date, à la fin de sa construction originale;
+  (b) in the case of an expansion of a farm having more than 15                   b) dans le cas d’un projet d’agrandissement d’un parc dont le
+  wind turbines, the expansion results in the farm having a produc-               nombre d’éoliennes dépasse quinze, la capacité de production du
+  tion capacity that is no more than 20% greater than its capacity on             parc ne dépasse pas de plus de 20 % sa capacité de production à la
+  the day on which these Regulations come into force or, if the farm              date d’entrée en vigueur du présent règlement ou, si le parc n’exis-
+  does not exist on that day, on the day of completion of its original            tait pas à cette date, à la fin de sa construction originale;
+  construction;
+                                                                                  c) la construction et l’exploitation du parc d’éoliennes ont déjà fait
+  (c) the construction and operation of the wind turbine farm were                l’objet d’une évaluation environnementale aux termes de la Loi ou
+  already subjected to an environmental assessment conducted under
+
+
+
+
+                                                                           13
+                                                    SOR/2007-108 — October 6, 2010
+
+
+
+  either the Act or the Environmental Assessment Review Process                  du Décret sur les lignes directrices visant le processus d’évalua-
+  Guidelines Order;                                                              tion et d’examen en matière d’environnement;
+  (d) as a result of the assessment, the construction and operation              d) à la suite de cette évaluation, il a été établi que la construction
+  were determined to be unlikely to cause significant adverse envi-              et l’exploitation ne sont pas susceptibles d’entraîner d’effets envi-
+  ronmental effects, taking into account the implementation of miti-             ronnementaux négatifs importants, compte tenu des mesures d’at-
+  gation measures, if any;                                                       ténuation mises en application, le cas échéant;
+  (e) the mitigation measures and follow-up program, if any, have                e) le mesures d’atténuations et le programme de suivi, le cas
+  been substantially implemented and any results of the follow-up                échéant, ont été appliqués en grande partie et les résultats obtenus
+  program do not contradict the determination made in paragraph                  du programme de suivi ne contredisent pas la conclusion visée à
+  (d);                                                                           l’alinéa d);
+  (f) the project is located entirely within the geographical parame-            f) le projet est entièrement réalisé à l’intérieur des paramètres géo-
+  ters of a project referred to in paragraph (c) and includes the same           graphiques du projet visé à l’alinéa c) et les mêmes mesures d’atté-
+  mitigation measures that were implemented as a result of the as-               nuation que celles découlant de l’évaluation s’y appliquent;
+  sessment;
+                                                                                 g) le projet est réalisé à l’extérieur des limites suivantes :
+  (g) the project is not to be carried out within
+                                                                                    (i) celles de l’habitat d’une espèce sauvage, au sens du para-
+    (i) the habitat of a species at risk, as defined in subsection 2(1)             graphe 2(1) de la Loi sur les espèces en péril;
+    of the Species at Risk Act,
+                                                                                    (ii) celles d’une réserve d’espèces sauvages, au sens de l’article
+    (ii) a wildlife area, as defined in section 2 of the Wildlife Area              2 du Règlement sur les réserves d’espèces sauvages;
+    Regulations, or
+                                                                                    (iii) celles d’un refuge d’oiseaux migrateurs, au sens du para-
+    (iii) a migratory bird sanctuary, as defined in subsection 2(1) of              graphe 2(1) du Règlement sur les refuges d’oiseaux migrateurs;
+    the Migratory Bird Sanctuary Regulations;
+                                                                                 h) le projet est réalisé à au moins 30 m de tout plan d’eau ;
+  (h) the project is not to be carried out within 30 m of a water body;
+                                                                                 i) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+  and
+                                                                                 stance polluante dans un plan d’eau.
+  (i) the project does not involve the likely release of a polluting
+  substance into a water body.
+
+                               PART 4                                                                         PARTIE 4
+
+                        NUCLEAR ENERGY                                                                ÉNERGIE NUCLÉAIRE
+ 36. The proposed construction, installation, operation, expansion,               36. Projet de construction, d’installation, d’exploitation, d’agran-
+modification, decommissioning or abandonment of                                dissement, de modification, de désaffectation ou de fermeture, selon
+                                                                               le cas :
+  (a) a subcritical nuclear assembly;
+                                                                                 a) d’un assemblage nucléaire non divergent;
+  (b) Class II prescribed equipment, as defined in section 1 of the
+  Class II Nuclear Facilities and Prescribed Equipment Regulations;              b) d’un équipement réglementé de catégorie II au sens de l’article
+                                                                                 1 du Règlement sur les installations nucléaires et l’équipement ré-
+  (c) a radiation device, as defined in section 1 of the Nuclear Sub-
+                                                                                 glementé de catégorie II;
+  stances and Radiation Devices Regulations, affixed to a nuclear fa-
+  cility; or                                                                     c) d’un appareil à rayonnement, au sens de l’article 1 du Règle-
+                                                                                 ment sur les substances nucléaires et les appareils à rayonnement,
+  (d) a Class II nuclear facility, as defined in section 1 of the Class
+                                                                                 fixé à une installation nucléaire;
+  II Nuclear Facilities and Prescribed Equipment Regulations, other
+  than a Class II nuclear facility that employs a pool-type irradiator           d) d’une installation nucléaire de catégorie II, au sens de l’article 1
+  in which the form and composition of the nuclear substance within              du Règlement sur les installations nucléaires et l’équipement ré-
+  the sealed source is such that the nuclear substance would be readi-           glementé de catégorie II, sauf si elle comporte un irradiateur de
+  ly dispersed in air or easily dissolved in water if the source encap-          type piscine dans lequel la forme et la composition de la substance
+  sulation were ruptured.                                                        nucléaire dans la source scellée sont telles que la substance nu-
+                                                                                 cléaire serait dispersée rapidement dans l’air ou dissoute facile-
+                                                                                 ment dans l’eau en cas de bris de la capsule de la source scellée.
+   37. The proposed construction, installation, operation, expansion,             37. Projet de construction, d’installation, d’exploitation, d’agran-
+modification, decommissioning or abandonment of a physical work                dissement, de modification, de désaffectation ou de fermeture d’un
+for the processing of nuclear substances or the manufacture of sealed          ouvrage destiné au traitement de substances nucléaires ou à la fabri-
+sources if the activity of the annual throughput of nuclear substances         cation de sources scellées, si l’activité de production annuelle des
+is no more than 1 PBq.                                                         substances nucléaires est d’au plus 1 PBq.
+
+
+
+
+                                                                          14
+                                                  DORS/2007-108 — 6 octobre 2010
+
+
+
+   38. The proposed construction, installation, operation, modifica-              38. Projet de construction, d’installation, d’exploitation, de modi-
+tion, decommissioning or abandonment of monitoring, safety or secu-            fication, de désaffectation ou d’abandon d’équipement de sur-
+rity equipment that is affixed or adjacent to a nuclear facility.              veillance ou de sécurité fixé à une installation nucléaire ou adjacent à
+                                                                               celle-ci.
+   39. The proposed modification of a nuclear facility that is the                39. Projet de modification d’une installation nucléaire, si la modi-
+same as a modification of that nuclear facility for which an environ-          fication projetée est identique à une modification de l’installation
+mental assessment has been conducted under either the Act or the En-           ayant fait l’objet d’une évaluation environnementale aux termes de la
+vironmental Assessment Review Process Guidelines Order if, as a re-            Loi ou du Décret sur les lignes directrices visant le processus d’éva-
+sult of the assessment,                                                        luation et d’examen en matière d’environnement et si, à la suite de
+                                                                               cette évaluation, les conditions suivantes sont réunies :
+  (a) the modification was determined to be unlikely to cause signif-
+  icant adverse environmental effects, taking into account the imple-            a) la modification projetée n’est pas susceptible d’entraîner d’ef-
+  mentation of mitigation measures, if any; and                                  fets environnementaux négatifs importants, compte tenu des me-
+                                                                                 sures d’atténuation mises en application, le cas échéant;
+  (b) the mitigation measures and follow-up program, if any, have
+  been substantially implemented.                                                b) les mesures d’atténuation et le programme de suivi, le cas
+                                                                                 échéant, ont été appliqués en grande partie.
+  40. The proposed expansion or modification of an essential system               40. Projet d’agrandissement ou de modification de tout système
+within a nuclear facility if the project                                       essentiel à l’intérieur d’une installation nucléaire, si le projet, à la
+                                                                               fois :
+  (a) is not to be carried out within 30 m of a water body; and
+                                                                                 a) est réalisé à au moins 30 m de tout plan d’eau;
+  (b) does not involve the likely release of a polluting substance into
+  a water body.                                                                  b) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+                                                                                 luante dans un plan d’eau.
+
+                               PART 5                                                                        PARTIE 5
+
+                             PIPELINES                                                                      PIPELINES
+  41. (1) In relation to an onshore oil and gas pipeline or other on-             41. (1) S’agissant d’un pipeline terrestre d’hydrocarbures ou d’un
+shore commodity pipeline, the proposed installation, operation or              pipeline terrestre destiné au transport de tout autre produit, projet
+modification of any of the following components:                               d’installation, d’exploitation ou de modification d’un ou de plusieurs
+                                                                               des composants suivants :
+  (a) connections;
+                                                                                 a) les raccords;
+  (b) piping;
+                                                                                 b) la tuyauterie;
+  (c) cathodic protection systems, including rectifiers;
+                                                                                 c) les systèmes de protection cathodique, y compris les redres-
+  (d) valves, including valve vaults and pressure transmitters;
+                                                                                 seurs;
+  (e) compressor and pump station components, including compres-
+                                                                                 d) les vannes, y compris les chambres de vannes et transducteurs
+  sors, pumps, motors, silencers, scrubbers, gas seals, system boilers,
+                                                                                 de pression;
+  scraper traps, switch gear, transformers and uninterruptible power
+  supply;                                                                        e) les composants de stations de compression et de pompage, y
+                                                                                 compris les compresseurs, pompes, moteurs, silencieux, épura-
+  (f) a storage tank located within a tank farm if the project is con-
+                                                                                 teurs, garnitures d’étanchéité au gaz, chaudières, gares de piston
+  ducted in accordance with the Technical Guidelines for Above-
+                                                                                 racleur, dispositifs de commutation, transformateurs et alimenta-
+  ground Storage Tank Systems Containing Petroleum Products
+                                                                                 tions sans coupure;
+  (P.C. 1996-1233) made under the Canadian Environmental Pro-
+  tection Act and dated August 7, 1996, as amended from time to                  f) les réservoirs de stockage mis en place dans les parcs de sto-
+  time;                                                                          ckage, si le projet est réalisé conformément aux Directives tech-
+                                                                                 niques concernant les systèmes de stockage hors sol de produits
+  (g) storage tank components, including mixers and ladders;
+                                                                                 pétroliers (décret C.P. 1996-1233 du 7 août 1996) prises sous le ré-
+  (h) metering and regulating facilities;                                        gime de la Loi canadienne sur la protection de l’environnement,
+                                                                                 avec leurs modifications successives;
+  (i) quality measurement systems, including analysers for water or
+  basic sediment, densitometers, calorimeters, in-line viscometers,              g) les composants des réservoirs de stockage, y compris les mélan-
+  gas chromatographs and automatic/composite samplers;                           geurs et échelles;
+  (j) mechanical and electrical systems of a facility building, includ-          h) les dispositifs de mesure et de régulation;
+  ing plumbing, air conditioning, heating and ventilation systems,
+                                                                                 i) les systèmes d’évaluation de la qualité, y compris les analyseurs
+  not involving the use or disposal of chlorofluorocarbons;
+                                                                                 d’eau ou de sédiments de base, densitomètres, calorimètres, visco-
+  (k) detection and monitoring systems; or
+
+
+
+
+                                                                          15
+                                                   SOR/2007-108 — October 6, 2010
+
+
+
+  (l) pollution reduction systems if those systems are to be added to            simètres en ligne, chromatographes en phase gazeuse et échan-
+  a compressor station, a pump station, a tank farm or a gas plant for           tillonneurs mixtes ou automatiques;
+  the purpose of reducing the release of pollutants produced in the
+                                                                                 j) les systèmes mécaniques et électriques des bâtiments des instal-
+  operation of the facility.
+                                                                                 lations, y compris la plomberie et les systèmes de climatisation, de
+                                                                                 chauffage et de ventilation ne donnant lieu ni à l’utilisation ni à
+                                                                                 l’élimination de chlorofluorocarbures;
+                                                                                 k) les systèmes de surveillance et de détection;
+                                                                                 l) les systèmes de réduction de la pollution qui sont ajoutés aux
+                                                                                 stations de compression ou de pompage, aux usines à gaz ou aux
+                                                                                 parcs de réservoirs pour réduire les rejets de toute substance pol-
+                                                                                 luante liés à l’exploitation des installations.
+   (2) Subsection (1) does not apply in respect of the proposed instal-          (2) N’est pas visé par le paragraphe (1) le projet d’installation de
+lation of a pipeline component that                                            composants d’un pipeline qui, selon le cas :
+  (a) extends the pipeline beyond the limits of the property that was            a) entraîne le prolongement du pipeline au-delà des limites du ter-
+  acquired for the construction of the present pipeline;                         rain acquis pour la construction du pipeline actuel;
+  (b) is to be carried out within 30 m of a water body; or                       b) est réalisé à moins de 30 m de tout plan d’eau;
+  (c) involves the likely release of a polluting substance into a water          c) est susceptible d’entraîner le rejet d’une substance polluante
+  body, or results in an increase in airborne emissions or noise dur-            dans un plan d’eau ou provoque une augmentation des émissions
+  ing the operation of the facility.                                             dans l’atmosphère ou du niveau sonore pendant l’exploitation des
+                                                                                 installations.
+  42. The proposed relocation and subsequent operation of a section               42. Projet de déplacement et d’exploitation ultérieure d’une sec-
+of an onshore oil and gas pipeline or other onshore commodity                  tion d’un pipeline terrestre d’hydrocarbures ou d’un pipeline terrestre
+pipeline if the project                                                        destiné au transport de tout autre produit, si le projet, à la fois :
+  (a) does not extend the pipeline beyond the limits of the property             a) n’entraîne pas le prolongement du pipeline au-delà des limites
+  that was acquired for the construction of the present pipeline;                du terrain acquis pour la construction du pipeline actuel;
+  (b) is not to be carried out within 30 m of a water body; and                  b) est réalisé à au moins 30 m de tout plan d’eau;
+  (c) does not involve the likely release of a polluting substance into          c) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+  a water body, or result in an increase in airborne emissions or noise          luante dans un plan d’eau ni ne provoque une augmentation des
+  during the operation of the pipeline.                                          émissions dans l’atmosphère ou du niveau sonore pendant l’exploi-
+                                                                                 tation du pipeline.
+  43. (1) In relation to an onshore oil and gas pipeline or other on-            43. (1) S’agissant d’un pipeline terrestre d’hydrocarbures ou d’un
+shore commodity pipeline, the proposed construction, installation,             pipeline terrestre destiné au transport de tout autre produit, projet de
+operation, expansion or modification of                                        construction, d’installation, d’exploitation, d’agrandissement ou de
+                                                                               modification de l’un ou de plusieurs des éléments suivants :
+  (a) a security fence;
+                                                                                 a) une clôture de sécurité;
+  (b) a component needed for an in-line mechanical device used for
+  inspecting or cleaning the pipeline;                                           b) un composant requis pour un dispositif mécanique en ligne ser-
+                                                                                 vant à l’inspection ou à la cure du pipeline;
+  (c) a salt cavern for natural gas storage;
+                                                                                 c) une caverne de sel pour le stockage du gaz naturel;
+  (d) a brine pond or brine pond cover;
+                                                                                 d) un bassin de saumure ou un toit de bassin de saumure;
+  (e) an emergency power gas tank;
+                                                                                 e) un réservoir de gaz pour énergie de secours;
+  (f) a microwave dish and associated cables;
+                                                                                 f) un réflecteur d’antenne hyperfréquence et les câbles connexes;
+  (g) a containment alarm;
+                                                                                 g) une alarme de confinement;
+  (h) a corrosion inhibitor tank; or
+                                                                                 h) un réservoir d’inhibiteur de corrosion;
+  (i) a pump and associated tubing.
+                                                                                 i) une pompe et les tubes connexes.
+  (2) Subsection (1) does not apply in respect of a project that                 (2) N’est pas visé par le paragraphe (1) le projet qui, selon le cas :
+  (a) extends any component of the pipeline beyond the limits of the             a) entraîne le prolongement d’un composant du pipeline au-delà
+  property that was acquired for the construction of the present                 des limites du terrain acquis pour la construction du pipeline ac-
+  pipeline;                                                                      tuel;
+
+
+
+
+                                                                          16
+                                                    DORS/2007-108 — 6 octobre 2010
+
+
+
+  (b) is to be carried out within 30 m of a water body; or                         b) est réalisé à moins de 30 m de tout plan d’eau;
+  (c) involves the likely release of a polluting substance into a water            c) est susceptible d’entraîner le rejet d’une substance polluante
+  body.                                                                            dans un plan d’eau.
+
+                                PART 6                                                                          PARTIE 6
+
+                             FORESTRY                                                                            FORÊTS
+   44. The proposed expansion or modification of a drainage struc-                 44. Projet d’agrandissement ou de modification d’une structure de
+ture on forested land, other than a structure that drains into a water           drainage sur un terrain forestier, sauf une structure de drainage se dé-
+body, if the project                                                             versant dans un plan d’eau, si les conditions suivantes sont réunies :
+  (a) results in the structure being no more than 10% longer than it               a) la longueur de la structure qui résulte du projet ne dépasse pas
+  is on the day on which these Regulations come into force or, if the              de plus de 10 % sa longueur à la date d’entrée en vigueur du pré-
+  structure does not exist on that day, on the day of completion of its            sent règlement ou, si la structure n’existait pas à cette date, à la fin
+  original construction; and                                                       de sa construction originale;
+  (b) is not to be carried out in Yukon, the Northwest Territories or              b) le projet n’est pas réalisé au Yukon, ni dans les Territoires du
+  Nunavut.                                                                         Nord-Ouest ou au Nunavut.
+
+                                PART 7                                                                          PARTIE 7
+
+                  WATER-RELATED PROJECTS                                                                PROJETS HYDRIQUES
+   45. The proposed construction, operation, expansion, modification                45. Projet de construction, d’exploitation, d’agrandissement, de
+or demolition of a bait storage depot, net repair area or patrol cabin or        modification ou de démolition d’un dépôt d’appâts, d’une aire de ré-
+other structure associated primarily with fishing or the use of small            paration de filets ou d’un poste de patrouille, ou de toute structure
+pleasure craft if the project                                                    utilisée principalement pour des activités relatives à la pêche ou à la
+                                                                                 navigation de plaisance, si les conditions suivantes sont réunies :
+  (a) results in a structure with a footprint no more than 100 m2 and
+  a height no more than 5 m;                                                       a) la superficie de la structure qui résulte du projet est d’au plus
+                                                                                   100 m2 et sa hauteur d’au plus 5 m;
+  (b) is to be carried out on land; and
+                                                                                   b) le projet est réalisé sur la terre ferme;
+  (c) does not involve the likely release of a polluting substance into
+  a water body.                                                                    c) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+                                                                                   stance polluante dans un plan d’eau.
+   46. The proposed construction, installation, operation, expansion                46. Projet de construction, d’installation, d’exploitation, d’agran-
+or modification of a fish habitat improvement structure if the project           dissement ou de modification d’une structure visant à améliorer l’ha-
+does not involve the use of heavy machinery.                                     bitat du poisson, qui ne nécessite pas l’utilisation de machinerie
+                                                                                 lourde.
+   47. (1) The proposed construction, installation or operation of a                47. (1) Projet de construction, d’installation ou d’exploitation
+floating wharf or dock or a wharf or dock that has legs or piles that            d’un quai ou d’un embarcadère flottant ou d’un quai ou d’un embar-
+are not inserted into the substrate if                                           cadère dont les pieux ou les poteaux ne pénètrent pas le substrat, si
+                                                                                 les conditions suivantes sont réunies :
+  (a) the wharf or dock is not attached to the shore below the annual
+  high-water mark; and                                                             a) le quai ou l’embarcadère n’est pas relié à la terre au-dessous de
+                                                                                   la laisse ou de la limite annuelle des hautes eaux;
+  (b) the project does not involve the likely release of a polluting
+  substance into a water body.                                                     b) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+                                                                                   stance polluante dans un plan d’eau.
+   (2) The proposed re-installation, expansion or modification of a                 (2) Projet de réinstallation, d’agrandissement ou de modification
+floating wharf or dock or a wharf or dock that has legs or piles that            d’un quai ou d’un embarcadère flottant ou d’un quai ou d’un embar-
+are not inserted into the substrate if                                           cadère dont les pieux ou les poteaux ne pénètrent pas le substrat, si
+                                                                                 les conditions suivantes sont réunies :
+  (a) in the case of an expansion, the project results in a wharf or
+  dock that has an area no more than 10% larger than its area on the               a) dans le cas d’un projet d’agrandissement, la surface du quai ou
+  day on which these Regulations come into force or, if the wharf or               de l’embarcadère qui en résulte ne dépasse pas de plus de 10 % la
+  dock does not exist on that day, on the day of completion of its                 surface du quai ou de l’embarcadère, selon le cas, à la date d’entrée
+  original construction; and                                                       en vigueur du présent règlement ou, si le quai ou l’embarcadère
+                                                                                   n’existait pas à cette date, à la fin de leur construction originale;
+  (b) the project does not involve the likely release of a polluting
+  substance into a water body.                                                     b) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+                                                                                   stance polluante dans un plan d’eau.
+
+
+
+
+                                                                            17
+                                                      SOR/2007-108 — October 6, 2010
+
+
+
+   48. The proposed modification of a wharf or dock that has legs or                48. Projet de modification d’un quai ou d’un embarcadère dont les
+piles that are inserted into the substrate, or of a breakwater that is ac-        pieux ou les poteaux pénètrent le substrat ou projet similaire visant
+cessible by land, if the project                                                  un brise-lames accessible par voie terrestre, si le projet, à la fois :
+  (a) is not to be carried out below the annual high-water mark; and                a) n’est pas réalisé au-dessous de la laisse ou de la limite annuelle
+                                                                                    des hautes eaux;
+  (b) does not involve the likely release of a polluting substance into
+  a water body.                                                                     b) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+                                                                                    luante dans un plan d’eau.
+  49. The proposed demolition of all or part of a wharf or dock if the              49. Projet de démolition de tout ou partie d’un quai ou d’un em-
+project                                                                           barcadère, si le projet, à la fois :
+  (a) does not involve the use of explosives;                                       a) ne nécessite pas l’utilisation d’explosifs;
+  (b) involves the removal from the water of all demolished portions                b) prévoit l’enlèvement de l’eau de toutes les parties démolies du
+  of the wharf or dock;                                                             quai ou de l’embarcadère;
+  (c) does not involve the use of vehicles or heavy machinery on the                c) ne nécessite pas l’utilisation de véhicules ou de machinerie
+  substrate; and                                                                    lourde sur le substrat;
+  (d) does not involve the likely release of a polluting substance into             d) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+  a water body.                                                                     luante dans un plan d’eau.
+  50. The proposed construction, installation, operation, expansion,                 50. Projet de construction, d’installation, d’exploitation, d’agran-
+modification, decommissioning, removal or abandonment of a single-                dissement, de modification, de désaffectation, d’enlèvement ou de
+span bridge and any supporting structures if the project                          fermeture d’un pont à travée unique ainsi que de sa structure portante,
+                                                                                  si les conditions suivantes sont réunies :
+  (a) results in a bridge that is no more than 30 m long and 20 m
+  wide;                                                                             a) le pont qui résulte du projet a au plus 30 m de long et 20 m de
+                                                                                    large;
+  (b) does not involve the installation of any supporting structures in
+  a water body;                                                                     b) le projet ne nécessite pas l’installation de structures portantes
+                                                                                    dans un plan d’eau;
+  (c) is not to be carried out in a water body; and
+                                                                                    c) le projet n’est pas réalisé dans un plan d’eau;
+  (d) does not involve the likely release of a polluting substance into
+  a water body.                                                                     d) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+                                                                                    stance polluante dans un plan d’eau.
+  51. The proposed construction, installation, operation, expansion,                 51. Projet de construction, d’installation, d’exploitation, d’agran-
+modification, decommissioning or abandonment of a single-span                     dissement, de modification, de désaffectation ou d’abandon d’un
+aerial cable and any supporting structures if the project                         câble aérien à travée unique ainsi que de sa structure portante, si le
+                                                                                  projet, à la fois :
+  (a) does not involve the installation of any supporting structures in
+  a water body;                                                                     a) ne nécessite pas l’installation dans un plan d’eau de structures
+                                                                                    portantes;
+  (b) is not to be carried out in a water body; and
+                                                                                    b) n’est pas réalisé dans un plan d’eau;
+  (c) does not involve the likely release of a polluting substance into
+  a water body.                                                                     c) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+                                                                                    luante dans un plan d’eau.
+   52. The proposed construction, installation, operation, modifica-                 52. Projet de construction, d’installation, d’exploitation, de modi-
+tion, decommissioning or removal of a device used for the capture or              fication, de désaffectation ou d’enlèvement d’un instrument servant à
+enumeration of fish for resource management purposes if the project               la capture et au dénombrement des poissons dans le but de gérer la
+does not involve                                                                  ressource, si le projet, à la fois :
+  (a) the use of heavy machinery; and                                               a) ne nécessite pas l’utilisation de machinerie lourde;
+  (b) the likely release of a polluting substance into a water body.                b) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+                                                                                    luante dans un plan d’eau.
+  53. The proposed operation of a bridge, a culvert, a dock, a wharf,                53. Projet d’exploitation d’un pont, d’un ponceau, d’un embarca-
+an aerial cable or a run-of-the-river dam for which approval under                dère, d’un quai, d’un câble aérien ou d’un barrage au fil de l’eau pour
+subsection 6(4) of the Navigable Waters Protection Act is required if             lequel une approbation doit être obtenue au titre du paragraphe 6(4)
+                                                                                  de la Loi sur la protection des eaux navigables et dont, à la fois :
+  (a) the construction of the bridge, culvert, dock, wharf, aerial ca-
+  ble or run-of-the-river dam is completed before the day on which                  a) la construction est terminée avant l’entrée en vigueur du présent
+  these Regulations come into force; and                                            règlement;
+
+
+
+
+                                                                             18
+                                                     DORS/2007-108 — 6 octobre 2010
+
+
+
+  (b) the project does not involve the likely release of a polluting             b) l’exploitation n’est pas susceptible d’entraîner le rejet d’une
+  substance into a water body.                                                   substance polluante dans un plan d’eau.
+
+                               PART 8                                                                          PARTIE 8
+
+                          TRANSPORTATION                                                                    TRANSPORTS
+  54. The proposed expansion or modification of a runway, taxiway,                54. Projet d’agrandissement ou de modification d’une piste, d’une
+parking area or other paved or gravel area used for the operation or           piste de déroulement, d’une aire de stationnement ou de toute autre
+servicing of aircraft within the boundary of an airport, as defined in         chaussée pavée ou en gravier utilisée pour l’exploitation ou l’entre-
+subsection 3(1) of the Aeronautics Act, if the project                         tien d’aéronefs dans les limites d’un aéroport au sens du paragraphe
+                                                                               3(1) de la Loi sur l’aéronautique, si les conditions suivantes sont
+  (a) results in the paved or gravel area having an area that is no
+                                                                               réunies :
+  more than 10% larger than its area on the day on which these Reg-
+  ulations come into force or, if the area does not exist on that day,           a) la superficie de la chaussée qui résulte du projet ne dépasse pas
+  on the day of completion of its original construction;                         de plus de 10 % sa superficie à la date d’entrée en vigueur du pré-
+                                                                                 sent règlement ou, si la chaussée n’existait pas à cette date, à la fin
+  (b) is not to be carried out within 30 m of a water body; and
+                                                                                 de sa construction originale;
+  (c) does not involve the likely release of a polluting substance into
+                                                                                 b) le projet est réalisé à au moins 30 m de tout plan d’eau;
+  a water body.
+                                                                                 c) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+                                                                                 stance polluante dans un plan d’eau.
+  55. The proposed modification of aircraft manoeuvring lights or                55. Projet de modification de balises de manœuvre d’aéronefs ou
+navigational aids.                                                             d’aides à la navigation.
+  56. The proposed construction, installation, operation, expansion               56. Projet de construction, d’installation, d’exploitation, d’agran-
+or modification of an automatic warning structure at a railway level           dissement ou de modification d’une structure automatique d’avertis-
+crossing.                                                                      sement à un passage à niveau.
+  57. The proposed construction, installation, operation, expansion               57. Projet de construction, d’installation, d’exploitation, d’agran-
+or modification of a railway traffic control signal structure if the           dissement ou de modification d’une structure de signalisation ferro-
+project is to be carried out next to a railway line.                           viaire, si le projet est réalisé à côté d’une ligne de chemin de fer.
+   58. (1) The proposed construction, installation, operation, modifi-           58. (1) Projet de construction, d’installation, d’exploitation, de
+cation, abandonment or replacement of a portion of the following               modification, d’abandon ou de remplacement d’une partie de l’un des
+physical works if that portion is located alongside or underneath a            ouvrages ci-après, si cette partie est située le long d’un chemin de fer
+railway or road:                                                               ou d’une route ou sous l’un de ceux-ci :
+  (a) an oil and gas pipeline or other commodity pipeline;                       a) un pipeline d’hydrocarbures ou un pipeline destiné au transport
+                                                                                 de tout autre produit;
+  (b) a water pipe;
+                                                                                 b) une conduite d’eau;
+  (c) a sewer or drain;
+                                                                                 c) un égout ou un drain;
+  (d) a steam line or tunnel; or
+                                                                                 d) un tunnel ou une conduite de vapeur;
+  (e) a buried telecommunication or electrical power line.
+                                                                                 e) une ligne de transport d’électricité ou une ligne de télécommu-
+                                                                                 nication enfouies.
+  (2) Subsection (1) does not apply if the project                               (2) N’est pas visé par le paragraphe (1) le projet qui, selon le cas :
+  (a) is to be carried out within 30 m of a water body; or                       a) est réalisé à moins de 30 m de tout plan d’eau;
+  (b) involves the likely release of a polluting substance into a water          b) est susceptible d’entraîner le rejet d’une substance polluante
+  body, or results in an increase in airborne emissions or noise dur-            dans un plan d’eau, ou provoque une augmentation des émissions
+  ing the operation of the physical work.                                        dans l’atmosphère ou du niveau sonore pendant l’exploitation de
+                                                                                 l’ouvrage.
+   59. The proposed expansion or modification of a railway line, and              59. Projet d’agrandissement ou de modification d’une ligne de
+the proposed construction, expansion, modification or replacement of           chemin de fer et projet de construction, d’agrandissement, de modifi-
+a culvert that crosses under the railway line, if the project                  cation ou de remplacement de tout ponceau qui passe sous la ligne, si
+                                                                               les conditions suivantes sont réunies :
+  (a) is to be carried out within
+                                                                                 a) le projet est réalisé à l’intérieur :
+    (i) the property that was acquired for the construction of the ex-
+    isting railway line, or                                                         (i) soit des limites du terrain acquis pour la construction de la
+                                                                                    ligne de chemin de fer actuelle,
+
+
+
+
+                                                                          19
+                                                    SOR/2007-108 — October 6, 2010
+
+
+
+     (ii) 100 m of the centre line of the existing railway line for a               (ii) soit des 100 m de l’axe de la ligne de chemin de fer actuelle
+     distance of no more than 3 km;                                                 sur une distance d’au plus 3 km;
+  (b) does not result in a culvert that extends more than 10 m be-               b) le ponceau qui résulte du projet ne se prolonge pas à plus de 10
+  yond the railway roadbed;                                                      m de la plate-forme de la voie ferrée;
+  (c) is not to be carried out within 30 m of a water body; and                  c) le projet est réalisé à au moins 30 m de tout plan d’eau;
+  (d) does not involve the likely release of a polluting substance into          d) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+  a water body.                                                                  stance polluante dans un plan d’eau.
+  60. The proposed modification or closure of a road crossing, as                 60. Projet de modification ou de fermeture d’un franchissement
+defined in subsection 4(1) of the Railway Safety Act, if the project           routier, au sens du paragraphe 4(1) de la Loi sur la sécurité ferro-
+                                                                               viaire, si le projet, à la fois :
+  (a) is to be carried out within the property that was acquired for
+  the construction of the existing railway or road;                              a) est réalisé à l’intérieur des limites du terrain acquis pour la
+                                                                                 construction de la voie ferrée ou de la route actuelle;
+  (b) does not require an authorization under subsection 101(3) of
+  the Canada Transportation Act;                                                 b) ne fait pas l’objet de l’autorisation prévue au paragraphe 101(3)
+                                                                                 de la Loi sur les transports au Canada;
+  (c) is not to be carried out within 30 m of a water body; and
+                                                                                 c) est réalisé à au moins 30 m de tout plan d’eau;
+  (d) does not involve the likely release of a polluting substance into
+  a water body.                                                                  d) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+                                                                                 luante dans un plan d’eau.
+  61. The proposed construction or operation of a railway spur line               61. Projet de construction ou d’exploitation d’une voie d’embran-
+no more than 500 m in length, and the proposed construction of any             chement ferroviaire qui ne dépasse pas 500 m de longueur et projet
+culvert that crosses under the spur line, if the project                       de construction de tout ponceau qui passe sous la voie, si les condi-
+                                                                               tions suivantes sont réunies :
+  (a) does not result in a culvert that extends more than 10 m be-
+  yond the railway roadbed;                                                      a) le ponceau qui résulte du projet ne se prolonge pas à plus de 10
+                                                                                 m de la plate-forme de la voie d’embranchement ferroviaire;
+  (b) is not to be carried out within 30 m of a water body; and
+                                                                                 b) le projet est réalisé à au moins 30 m de tout plan d’eau;
+  (c) does not involve the likely release of a polluting substance into
+  a water body.                                                                  c) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+                                                                                 stance polluante dans un plan d’eau.
+  62. The proposed expansion or modification of a road, and the                   62. Projet d’agrandissement ou de modification d’une route et pro-
+proposed expansion, modification or replacement of a culvert that              jet d’agrandissement, de modification ou de remplacement de tout
+crosses under the road, if the project                                         ponceau qui passe sous la route, si les conditions suivantes sont
+                                                                               réunies :
+  (a) does not lengthen the road;
+                                                                                 a) le projet n’entraîne pas le prolongement de la route;
+  (b) does not widen the road by more than one lane beyond the
+  number of lanes contained within the road on the day on which                  b) le projet n’entraîne pas l’ajout de plus d’une voie au nombre de
+  these Regulations come into force or, if the road does not exist on            voies existant à la date d’entrée en vigueur du présent règlement
+  that day, on the day of completion of its original construction;               ou, si la route n’existait pas à cette date, à la fin de sa construction
+                                                                                 originale;
+  (c) does not result in a culvert that extends more than 10 m beyond
+  the roadbed;                                                                   c) le ponceau qui résulte du projet ne se prolonge pas à plus de 10
+                                                                                 m de la plate-forme de la route;
+  (d) is not to be carried out within 30 m of a water body; and
+                                                                                 d) le projet est réalisé à au moins 30 m de tout plan d’eau;
+  (e) does not involve the likely release of a polluting substance into
+  a water body.                                                                  e) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+SOR/2008-259, ss. 1(F), 2 to 4, 5 to 8(F), 11(F).                                stance polluante dans un plan d’eau.
+                                                                               DORS/2008-259, art. 1(F), 2 à 4, 5 à 8(F) et 11(F).
+
+
+
+
+                                                                          20
+                                                   DORS/2007-108 — 6 octobre 2010
+
+
+
+                            SCHEDULE 2                                                                        ANNEXE 2
+                          (Sections 3 and 4)                                                                (articles 3 et 4)
+
+EXCLUSION LIST FOR NATIONAL PARKS, PARK RESERVES,                                LISTE D’EXCLUSION POUR LES PARCS NATIONAUX, LES
+  NATIONAL HISTORIC SITES AND HISTORIC CANALS                                    RÉSERVES, LES LIEUX HISTORIQUES NATIONAUX ET LES
+                                                                                                CANAUX HISTORIQUES
+   1. The proposed maintenance, repair or modification of a struc-                 1. Projet d’entretien, de réparation ou de modification d’une struc-
+ture, other than a heritage structure, if the project does not                  ture, sauf une structure du patrimoine, si le projet, à la fois :
+  (a) involve a change in the method of sewage disposal, or an in-                a) n’entraîne pas de changement dans le mode d’élimination des
+  crease in the amount of sewage, waste or emissions;                             eaux usées ni d’augmentation de la quantité d’eaux usées, de dé-
+                                                                                  chets ou d’autres rejets;
+  (b) involve an excavation beyond the footprint of the structure;
+                                                                                  b) ne nécessite pas de travaux d’excavation au-delà de la superfi-
+  (c) create a need for related facilities such as parking spaces;
+                                                                                  cie de la structure;
+  (d) affect permafrost; and
+                                                                                  c) ne nécessite pas l’aménagement d’installations connexes telles
+  (e) involve the likely release of a polluting substance into the envi-          que des espaces de stationnement;
+  ronment.
+                                                                                  d) n’a pas d’effet sur le pergélisol;
+                                                                                  e) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+                                                                                  luante dans l’environnement.
+   2. The proposed operation, maintenance, repair, expansion or                    2. Projet d’exploitation, d’entretien, de réparation, d’agrandisse-
+modification of a structure, other than a heritage structure, located in        ment ou de modification d’une structure, sauf une structure du patri-
+the Town of Banff or the Town of Jasper as they are described in                moine, dans le périmètre urbain de Banff ou dans la ville de Jasper,
+Schedule I to the National Parks of Canada Lease and Licence of Oc-             selon les descriptions figurant à l’annexe I du Règlement sur les baux
+cupation Regulations, in a resort subdivision described in Schedule II          et les permis d’occupation dans les parcs nationaux du Canada, ou
+to those Regulations or in a visitor centre described in Schedule III to        dans les centres de villégiature ou les centres d’accueil, selon la des-
+those Regulations, if the project                                               cription figurant respectivement aux annexes II et III de ce règlement,
+                                                                                si les conditions suivantes sont réunies :
+  (a) when it is to be carried out on land subject to a lease, does not
+  extend beyond the limits of that land;                                          a) le projet est réalisé à l’intérieur des limites de terres assujetties
+                                                                                  à un bail, dans le cas où il est réalisé sur de telles terres;
+  (b) results in a structure with a footprint or height that is no more
+  than 10% greater than its footprint or height on the day on which               b) la superficie ou la hauteur de la structure qui résulte du projet
+  these Regulations come into force or, if the structure does not exist           ne dépasse pas de plus de 10 % celle qu’elle avait à la date d’entrée
+  on that day, on the day of completion of its original construction;             en vigueur du présent règlement ou, si la structure n’existait pas à
+                                                                                  cette date, à la fin de sa construction originale;
+  (c) does not involve the cutting of indigenous trees;
+                                                                                  c) le projet n’entraîne pas la coupe d’arbres indigènes;
+  (d) is not to be carried out in, on or above a water body; and
+                                                                                  d) le projet n’est pas réalisé dans ou sur un plan d’eau ou au-des-
+  (e) does not involve the likely release of a polluting substance into
+                                                                                  sus de celui-ci;
+  the environment.
+                                                                                  e) le projet n’est pas susceptible d’entraîner le rejet d’une sub-
+                                                                                  stance polluante dans l’environnement.
+  3. The proposed routine and non-destructive actions necessary to                 3. S’agissant d’une structure du patrimoine, projet visant les me-
+prevent or slow the deterioration of a heritage structure if the project        sures routinières et non destructives nécessaires pour ralentir sa dété-
+                                                                                rioration, si le projet, à la fois :
+  (a) does not involve an excavation beyond the footprint of the
+  structure;                                                                      a) ne nécessite pas de travaux d’excavation au-delà de la superfi-
+                                                                                  cie de la structure;
+  (b) does not affect permafrost;
+                                                                                  b) n’a pas d’effet sur le pergélisol;
+  (c) does not involve the cutting of indigenous trees;
+                                                                                  c) n’entraîne pas la coupe d’arbres indigènes;
+  (d) is not to be carried out in, on or above a water body; and
+                                                                                  d) n’est pas réalisé dans ou sur un plan d’eau ou au-dessus de ce-
+  (e) does not involve the likely release of a polluting substance into
+                                                                                  lui-ci;
+  the environment.
+                                                                                  e) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+                                                                                  luante dans l’environnement.
+   4. The proposed maintenance or repair of a sidewalk, boardwalk                 4. Projet d’entretien ou de réparation d’un trottoir, d’une prome-
+or parking lot if the project does not                                          nade en bois ou d’un terrain de stationnement, si le projet, à la fois :
+
+
+
+
+                                                                           21
+                                                   SOR/2007-108 — October 6, 2010
+
+
+
+  (a) involve the use of heavy machinery; and                                     a) ne nécessite pas l’utilisation de machinerie lourde;
+  (b) affect permafrost.                                                          b) n’a pas d’effet sur le pergélisol.
+  5. The proposed maintenance or repair of a fence.                               5. Projet d’entretien ou de réparation d’une clôture.
+  6. The proposed construction, installation, operation, maintenance,             6. Projet de construction, d’installation, d’exploitation, d’entretien,
+repair or removal of a sign, flagpole, bench, lightpole or firewood             de réparation ou d’enlèvement d’un panneau, d’un mât de drapeau,
+container if the project                                                        d’un banc, d’un lampadaire ou d’un contenant pour bois de chauf-
+                                                                                fage, si le projet, à la fois :
+  (a) is to be carried out
+                                                                                  a) est réalisé :
+     (i) within an area already cleared alongside a road, a railway
+     line, an electrical power line, a telecommunication line or any                 (i) soit dans une zone déjà dégagée le long d’une route, d’une
+     other linear physical work,                                                     ligne de chemin de fer, d’une ligne de transport d’électricité,
+                                                                                     d’une ligne de télécommunication ou de tout autre ouvrage li-
+     (ii) within a public campground, as defined in section 2 of the
+                                                                                     néaire,
+     National Parks Camping Regulations, or
+                                                                                     (ii) soit sur un terrain de camping public au sens de l’article 2
+     (iii) within 15 m of a building;
+                                                                                     du Règlement sur le camping dans les parcs nationaux,
+  (b) does not involve the use of heavy machinery; and
+                                                                                     (iii) soit à moins de 15 m d’un bâtiment;
+  (c) does not affect permafrost.
+                                                                                  b) ne nécessite pas l’utilisation de machinerie lourde;
+                                                                                  c) n’a pas d’effet sur le pergélisol.
+  7. The proposed maintenance or repair of a road, including the                   7. Projet d’entretien ou de réparation d’une route, y compris la
+roadbed and pull-off areas, if the project does not                             plate-forme de la route et les voies d’arrêt, si le projet, à la fois :
+  (a) involve the application of a dust control product or salt or the            a) ne nécessite pas l’application d’un abat-poussière ou de sel sur
+  application of a pest control product as defined in subsection 2(1)             la route, ou d’un produit antiparasitaire au sens du paragraphe 2(1)
+  of the Pest Control Products Act; and                                           de la Loi sur les produits antiparasitaires;
+  (b) result in the likely release of a polluting substance into a water          b) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+  body.                                                                           luante dans un plan d’eau.
+   8. The proposed maintenance or repair of an environmental scien-                8. Projet d’entretien ou de réparation d’un instrument de collecte
+tific data collection instrument and its housing and enclosure.                 de données scientifiques sur l’environnement ainsi que de son boîtier
+                                                                                et de son enceinte.
+  9. The proposed construction, installation or operation of an inter-            9. Projet de construction, d’installation ou d’exploitation de pré-
+pretive display or exhibit associated with another physical work if the         sentoirs ou d’objets d’interprétation associés à un autre ouvrage, si le
+project                                                                         projet, à la fois :
+  (a) does not require an expansion of the other physical work;                   a) ne nécessite pas l’agrandissement de cet autre ouvrage;
+  (b) is not located in a special preservation area or a wilderness               b) n’est pas réalisé dans une zone de préservation spéciale ou une
+  area set out in a management plan referred to in section 11 of the              réserve intégrale désignée dans un plan directeur établi en vertu de
+  Canada National Parks Act; and                                                  l’article 11 de la Loi sur les parcs nationaux du Canada;
+  (c) does not affect permafrost.                                                 c) n’a pas d’effet sur le pergélisol.
+  10. The proposed construction, installation, modification, mainte-               10. Projet de construction, d’installation, de modification, d’entre-
+nance, repair or removal of a handrail or guardrail fastened to another         tien, de réparation ou d’enlèvement d’une main courante ou d’un
+physical work.                                                                  garde-fou fixé à un autre ouvrage.
+  11. The proposed maintenance or repair of a fire tower.                         11. Projet d’entretien ou de réparation d’une tour de guet.
+  12. The proposed operation of a physical work that is the same as                12. Projet d’exploitation d’un ouvrage, si l’exploitation projetée
+an operation for which an environmental assessment has been previ-              est identique à une exploitation de l’ouvrage ayant fait l’objet d’une
+ously conducted under the Act or the Environmental Assessment and               évaluation environnementale aux termes de la Loi ou du Décret sur
+Review Process Guidelines Order if, as a result of the assessment,              les lignes directrices visant le processus d’évaluation et d’examen en
+                                                                                matière d’environnement et si, à la suite de cette évaluation, les
+  (a) the operation was determined to be unlikely to cause signifi-
+                                                                                conditions suivantes sont réunies :
+  cant adverse environmental effects, taking into account the imple-
+  mentation of mitigation measures, if any; and                                   a) il a été établi que l’exploitation n’est pas susceptible d’entraîner
+                                                                                  d’effets environnementaux négatifs importants, compte tenu des
+  (b) the mitigation measures and follow-up program, if any, have
+                                                                                  mesures d’atténuation mises en application, le cas échéant;
+  been implemented as required in accordance with any timetable es-
+  tablished by the responsible authority.
+
+
+
+
+                                                                           22
+                                                   DORS/2007-108 — 6 octobre 2010
+
+
+
+                                                                                 b) les mesures d’atténuation et le programme de suivi, le cas
+                                                                                 échéant, ont été appliqués conformément au calendrier établi par
+                                                                                 l’autorité responsable.
+   13. The proposed modification, maintenance or repair of a buried               13. Projet de modification, d’entretien ou de réparation d’une
+water, sewer, gas, electricity or telephone service line, other than a         conduite de branchement souterraine servant à la collecte des eaux
+line crossing a water body, in the Town of Banff or the Town of                usées, à la distribution d’eau, de gaz, d’électricité ou de service télé-
+Jasper as they are described in Schedule I to the National Parks of            phonique, autre qu’une conduite franchissant un plan d’eau, dans le
+Canada Lease and Licence of Occupation Regulations, in a resort                périmètre urbain de Banff ou dans la ville de Jasper, selon les des-
+subdivision described in Schedule II to those Regulations or in a visi-        criptions figurant à l’annexe I du Règlement sur les baux et les permis
+tor centre described in Schedule III to those Regulations, if the              d’occupation dans les parcs nationaux du Canada, ou dans les
+project                                                                        centres de villégiature ou les centres d’accueil, selon la description fi-
+                                                                               gurant respectivement aux annexes II et III de ce règlement, si le pro-
+  (a) is to be carried out in a built-up area;
+                                                                               jet, à la fois :
+  (b) does not involve the cutting of indigenous trees;
+                                                                                 a) est réalisé dans une zone bâtie;
+  (c) does not increase the operating capacity of the service line;
+                                                                                 b) n’entraîne pas la coupe d’arbres indigènes;
+  (d) does not involve a risk of physical harm to mammals;
+                                                                                 c) n’entraîne pas d’augmentation de la capacité de la conduite de
+  (e) is not to be carried out within 30 m of a water body; and                  branchement ou de service;
+  (f) does not involve the likely release of a polluting substance into          d) ne comporte aucun risque de blessures pour les mammifères;
+  the environment.
+                                                                                 e) est réalisé à au moins 30 m de tout plan d’eau;
+SOR/2008-259, ss. 9, 10(F), 11(F).
+                                                                                 f) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+                                                                                 luante dans l’environnement.
+                                                                               DORS/2008-259, art. 9, 10(F) et 11(F).
+
+
+
+
+                                                                          23
+                                                    SOR/2007-108 — October 6, 2010
+
+
+
+                            SCHEDULE 3                                                                         ANNEXE 3
+                             (Section 4)                                                                        (article 4)
+
+           EXCLUSION LIST FOR HISTORIC CANALS                                      LISTE D’EXCLUSION POUR LES CANAUX HISTORIQUES
+  1. The proposed maintenance or repair of a historic canal, includ-                1. Projet d’entretien ou de réparation d’un canal historique, y com-
+ing its lock chambers and adjacent gains, dams and retaining walls, if           pris les sas d’écluses, les rainures à batardeau adjacentes, les barrages
+the project does not involve                                                     et les murs de soutènement, si le projet, à la fois :
+  (a) the removal or the lowering of the level of the water in any                 a) ne nécessite ni l’assèchement ni l’abaissement du niveau de
+  part of the canal outside a lock chamber or series of lock chambers              l’eau dans l’une ou l’autre partie du canal située à l’extérieur d’un
+  and adjacent gains at the same lock station;                                     sas d’écluse ou d’une série de sas d’écluse et des rainures à batar-
+                                                                                   deau adjacentes dans la même écluse;
+  (b) dredging, blasting or filling; and
+                                                                                   b) ne nécessite pas de travaux de dragage, de dynamitage ou de
+  (c) the likely release of a polluting substance into the canal.
+                                                                                   remblayage;
+                                                                                   c) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+                                                                                   luante dans le canal.
+   2. The proposed maintenance or repair of a base for navigational                 2. Projet d’entretien ou de réparation d’une base pour les aides à la
+aids or a physical work used to control the flow of water in the main            navigation, d’un ouvrage utilisé comme moyen de régulariser le débit
+channel of a historic canal or as a breakwater if the project does not           du chenal principal du canal historique ou comme brise-lames, si le
+result in the likely release of a polluting substance into the environ-          projet n’est pas susceptible d’entraîner le rejet d’une substance pol-
+ment.                                                                            luante dans l’environnement.
+   3. The proposed construction, installation, operation, maintenance               3. Projet de construction, d’installation, d’exploitation, d’entretien
+or repair of an in-water structure that does not have a solid foundation         ou de réparation d’une structure mise en place dans l’eau qui n’a pas
+or does not penetrate the bed of a historic canal if the project does not        de fondations solides ou ne pénètre pas le lit d’un canal historique, si
+involve                                                                          le projet, à la fois :
+  (a) the use of heavy machinery on the bed of the canal to install or             a) ne nécessite pas l’utilisation de machinerie lourde sur le lit du
+  maintain the structure;                                                          canal pour l’installation ou l’entretien de la structure;
+  (b) dredging; and                                                                b) ne nécessite pas de travaux de dragage;
+  (c) the likely release of a polluting substance into the canal.                  c) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+                                                                                   luante dans le canal.
+   4. The proposed construction, installation, maintenance or repair                4. Projet de construction, d’installation, d’entretien ou de répara-
+of shore stabilization works if the project does not involve                     tion d’ouvrages de stabilisation des berges, si le projet, à la fois :
+  (a) dredging or excavation;                                                      a) ne nécessite pas de travaux de dragage ni d’excavation;
+  (b) the use of heavy machinery on the bed of a historic canal;                   b) ne nécessite pas l’utilisation de machinerie lourde sur le lit du
+                                                                                   canal;
+  (c) an encroachment on the bed of the canal; and
+                                                                                   c) n’empiète pas sur le lit du canal;
+  (d) the likely release of a polluting substance into the canal.
+                                                                                   d) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+                                                                                   luante dans le canal.
+  5. The proposed construction, installation, operation, maintenance                5. Projet de construction, d’installation, d’exploitation, d’entretien
+or repair of a non-commercial marine railway or boat lift if the                 ou de réparation d’un ber roulant de carénage ou d’un ascenseur à ba-
+project does not involve                                                         teaux utilisé à des fins non commerciales, si le projet, à la fois :
+  (a) dredging or excavation;                                                      a) ne nécessite pas de travaux de dragage ni d’excavation;
+  (b) the use of heavy machinery on the bed of a historic canal; and               b) ne nécessite pas l’utilisation de machinerie lourde sur le lit du
+                                                                                   canal;
+  (c) the likely release of a polluting substance into the canal.
+                                                                                   c) n’est pas susceptible d’entraîner le rejet d’une substance pol-
+                                                                                   luante dans le canal.
+   6. The proposed construction, installation, operation, maintenance               6. Projet de construction, d’installation, d’exploitation, d’entretien
+or repair of an aerial telecommunication or electrical power line that           ou de réparation d’une ligne de télécommunication aérienne ou d’une
+crosses a historic canal and is supported solely by a single pole on ei-         ligne de transport d’électricité aérienne qui franchit un canal histo-
+ther side of the canal.                                                          rique et qui est portée seulement par un poteau de chaque côté du ca-
+                                                                                 nal.
+
+
+
+
+                                                                            24
+                                                      DORS/2007-108 — 6 octobre 2010
+
+
+
+  7. The proposed construction, installation, operation, maintenance           7. Projet de construction, d’installation, d’exploitation, d’entretien
+or repair of a submarine cable or submarine utility pipeline, other         ou de réparation d’un câble sous-marin ou d’une canalisation de pro-
+than an oil and gas pipeline, if the project does not involve               duits sous-marine sauf un pipeline d’hydrocarbures, si le projet, à la
+                                                                            fois :
+  (a) the crossing of a wetland; and
+                                                                              a) n’entraîne pas le franchissement de terres humides;
+  (b) an alteration to the bed of a historic canal.
+                                                                              b) n’entraîne pas de perturbation dans le lit d’un canal historique.
+
+
+
+
+                                                                       25
+                               SOR/2007-108 — October 6, 2010
+
+
+
+        SCHEDULE 4                                                   ANNEXE 4
+[Repealed, 2010, c. 12, s. 2166]                           [Abrogée, 2010, ch. 12, art. 2166]
+
+
+
+
+                                            26
+

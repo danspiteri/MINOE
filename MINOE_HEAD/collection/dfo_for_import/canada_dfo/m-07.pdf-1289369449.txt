@@ -1,0 +1,1346 @@
+                         PLEASE NOTE
+This document, prepared by the Legislative Counsel Office, is an office
+consolidation of this Act, current to May 15, 2009. It is intended for
+information and reference purposes only.
+
+This document is not the official version of the Act. The Act and the
+amendments as printed under the authority of the Queen’s Printer for the
+province should be consulted to determine the authoritative statement of the
+law.
+
+For more information concerning the history of this Act, please see the
+Table of Public Acts.
+
+If you find any errors or omissions in this consolidation, please contact:
+
+                         Legislative Counsel Office
+                            Tel: (902) 368-4291
+                        Email: legislation@gov.pe.ca
+                          CHAPTER M-7
+
+                   MINERAL RESOURCES ACT
+
+
+                         INTERPRETATION
+1. In this Act                                                               Definitions
+
+    (a) “claim” means mineral claim;                                         claim
+
+    (b) “day's work” means eight hours work; but in a case of drilling or    day's work
+    surveying or geological, geophysical or geochemical or other special
+    work, the Minister may allow another unit as a day's work;
+    (c) “Department” means the Department of Environment, Energy             Department
+    and Forestry;
+    (d) “development license” means a license by which the holder            development
+    thereof is granted the right to hold a mineral deposit on a designated   license
+
+    area for a period of one year;
+    (e) “exploration license” means a license by which the holder            exploration license
+    thereof is granted the right to search and prospect for minerals on a
+    designated area for a period of one year;
+    (f) “holder” means a person shown in the records of the Registrar as     holder
+    having an interest in a mineral right;
+    (g) “land” includes land covered by water;                               land
+
+    (h) “lease” means a mining lease by which the holder thereof is          lease
+    granted the right to mine on a designated area for a period of twenty
+    years;
+    (i) the noun “mine” includes any opening or excavation in, or            mine
+    working of, the ground for the purpose of winning, opening up or
+    proving any mineral or mineral-bearing substance, and any ore
+    body, mineral deposit, stratum, soil, rock, bed of earth, clay, sand,
+    gravel or place where mining is or may be carried on, and all ways,
+    works, machinery, plant, bunk-houses, cookhouses, latrines, wash-
+    houses, and other buildings and premises below or above ground
+    belonging to or used in connection with the mine; and also any
+    quarry, excavation or opening in the ground made for the purpose of
+    searching for or removal of any mineral or mineral-bearing
+    substance;
+    (j) the verb “mine” and the word “mining” includes any mode or           mine
+    method of working whereby the soil or earth or any rock, stone or
+
+
+                                    1
+2               Cap. M-7                   Mineral Resources Act
+
+
+
+                    material may be disturbed or removed, washed, sifted, roasted,
+                    smelted, refined, crushed, dissolved, precipitated, separated, or dealt
+                    with for the purpose of obtaining any mineral or substance
+                    therefrom, whether the same may have been previously disturbed or
+                    not;
+mineral             (k) “mineral” means any natural solid inorganic or fossilized organic
+                    substance and such other substance as is declared to be a mineral
+                    under section 3, but does not include
+                       (i) ordinary stone, building or construction stone,
+                       (ii) sand, gravel, peat, peat moss or ordinary soil,
+                       (iii) gypsum or limestone,
+                       (iv) oil or natural gas, or
+                       (v) bituminous shale, oil shale or intimately associated products
+                       or substances derived therefrom;
+mineral right       (l) “mineral right” means a license, lease or special license issued
+                    under this Act, or right granted under section 18;
+Minister            (m) “Minister” means the Minister of Environment, Energy and
+                    Forestry;
+officer             (n) “officer” includes any inspector, engineer or geologist on the
+                    staff of the Department and any other person designated by the
+                    Minister to carry out an inspection or investigation relating to the
+                    mineral industry;
+person              (o) “person” includes a body corporate, partnership, or any
+                    individual;
+prospect            (p) “prospect” means to search for valuable mineral and includes
+                    any mode of working whereby soil or rock is disturbed, removed,
+                    washed or otherwise tested for the purpose of finding, identifying or
+                    determining the extent of any mineral therein;
+Registrar           (q) “Registrar” means the person appointed as Registrar under
+                    section 5;
+tract               (r) “tract” means mining tract;
+work                (s) “work” means work accepted by the Minister and being of bona
+                    fide nature in an attempt to prove the existence, extent and value of a
+                    mineral deposit. 1978, c.15, s.1; 1980, c.2, s.3; 1983, c.1, s.6; 1993,
+                    c.29, s.4; 2000,c.5,s.3; 2004,c.36,s.3; 2009,c.73,s.2.
+
+
+
+
+                                                      2
+                           Mineral Resources Act                 Cap. M-7                        3
+
+
+
+             MINERALS - PROPERTY OF THE CROWN
+2. All minerals existing or which may be found within, upon or under        Minerals vested in
+lands in the province are vested in the Crown in right of the province.     Crown
+
+1978, c.15, s.2.
+                                                                            Alienation to
+2.1 (1) Notwithstanding section 2, the Lieutenant Governor in Council       Crown Federal
+may alienate its mineral rights to Her Majesty the Queen in right of
+Canada and in any transfers of use and possession of provincial lands to
+Her Majesty the Queen in right of Canada under this Act, or outside this
+Act, the Lieutenant Governor in Council may transfer the mineral rights
+of Her Majesty the Queen in right of the province and the administration,
+benefit and control of such provincial lands to Her Majesty the Queen in
+right of Canada for the establishment or development of National Parks,
+National Historic Parks and National Historic Sites.
+  (2) The provincial lands upon and after a transfer referred to in         Application of Act
+subsection (1) cease to be subject to this Act unless such transfer         after alienation
+
+otherwise provides.
+  (3) A transfer referred to in subsection (1) may be made subject to       Terms and
+such terms, conditions and reservations as the Lieutenant Governor in       conditions of
+                                                                            transfer
+Council may consider advisable. 1994, c.40, s.1.
+3. (1) The Lieutenant Governor in Council may by order published in the     Declaration of
+Gazette declare any substance formed by the processes of nature that        substance to be a
+                                                                            mineral
+occurs on or under the surface of the earth to be a mineral.
+  (2) Where a declaration is made under subsection (1) in respect of any    Effect of
+substance, the substance shall, for the purposes of this Act, be and be     declaration
+
+deemed always to have been a mineral notwithstanding the terms of any
+grant from the Crown or any other conveyance, instrument, or
+enactment.
+  (3) Where any person claims to be injuriously affected by a declaration   Compensation
+under subsection (1), the Lieutenant Governor in Council may agree with
+that person as to the compensation to be made therefor and, if no
+agreement is made, shall appoint a commissioner under the Public
+Inquiries Act R.S.P.E.I. 1988, Cap. P-31 to inquire into and report as to
+what compensation if any, should be made and the Lieutenant Governor
+in Council shall make such compensation accordingly.
+  (4) No compensation shall be made in respect of any claim therefor        Limitation
+made more than one year after the date of a declaration under subsection
+(1). 1978, c.15, s.3.
+
+
+
+
+                                    3
+4                      Cap. M-7                    Mineral Resources Act
+
+
+
+                                                  ADMINISTRATION
+Minister to            4. (1) The Minister is responsible for the administration of this Act.
+administer Act
+Appointment of           (2) The Lieutenant Governor in Council may appoint such officers and
+officers               agents as he considers necessary for the administration of this Act. 1978,
+                       c.15, s.4.
+Registrar
+                       5. (1) There shall be appointed a Registrar who shall keep records of all
+                       mineral rights and matters pertaining to mineral rights.
+Office                   (2) The Registrar shall have an office in the City of Charlottetown;
+Records open to          (3) The Registrar shall keep at the office such books and plans for the
+public                 recording therein of mineral rights and documents affecting such rights
+                       as may be directed by the Minister, and the books and plans shall be
+                       open for inspection by any interested person during office hours on
+                       payment of the prescribed fee.
+Office hours, office     (4) The office of the Registrar shall be open every day not a holiday or
+of Registrar           a Saturday or Sunday from ten o'clock in the forenoon until four o'clock
+                       in the afternoon.
+Saving provisions        (5) When the time limited for the filing or registration of any document
+                       or for the doing of any other act or thing at the office of the Registrar
+                       under the provisions of any Act expires or falls on a day on which the
+                       office is closed, the time so limited shall extend to, and such filing or
+                       registration or other act may be done on, the day next following on
+                       which the office is open. 1978, c.15, s.5.
+Conflict of interest   6. (1) No Minister of the Crown in right of the province or employee of
+                       the Department shall while holding such office or employment, directly
+                       or indirectly, by himself or by any other person, purchase or become
+                       interested in any mining right in the province, and any such purchase or
+                       interest is void.
+Forfeiture of            (2) Any person contravening subsection (1) is guilty of an offence and
+employment             shall forfeit his office or employment. 1978, c.15, s.6.
+Entry on land by       7. (1) Every officer or person designated by the Minister when engaged
+authorized persons     in duties under this Act may with his assistants enter upon and pass over
+                       the land of any person doing as little damage as possible and no action
+                       shall lie against that officer or person or his assistants or the Minister or
+                       the province except in respect of actual damage resulting from an act
+                       done pursuant to the powers conferred by this section.
+
+
+
+
+                                                            4
+                            Mineral Resources Act                   Cap. M-7                         5
+
+
+
+  (2) The power to enter under subsection (1) includes power to inspect
+                                                                               Inspections
+equipment, plant and machinery and mining operations and to take
+samples and carry out tests.
+   (3) A person authorized to enter any land under subsection (1) shall, on    Production of
+demand by any person having an interest in the land or in any mining           identification card
+
+right thereon produce his identification card signed by the Minister.
+1978, c.15, s.7.
+                                                                               Information
+8. Where it appears to the Minister that any document in the possession        certified privileged
+of any officer under this Act or any information obtained by any officer
+in an official capacity is of a confidential character or ought not in the
+public interest to be divulged, or cannot without prejudice to interests of
+persons not concerned in a litigation be divulged, the Minister in his
+discretion shall certify that information to be privileged, and the officer
+shall not be required to disclose that information to any court. 1978, c.15,
+s.8.
+9. (1) The Lieutenant Governor in Council may make regulations                 Regulations
+     (a) respecting the disposal of tailings, slimes, waste products, or any
+     noxious or deleterious substances upon any lands or into any waters;
+     (b) respecting the restoration, reclamation and rehabilitation of a
+     mine or mining lands;
+     (c) governing the operation of any mine or metallurgical works and
+     may include any pit, quarry, or place where sand, gravel, rocks and
+     other materials are being removed;
+     (d) providing for the carrying out of the operations referred to in
+     clause (c) in a safe and efficient manner;
+     (e) requiring, from the holder of a mineral right or the operator of a
+     mine, statements and plans respecting work and operations;
+     (f) defining the kind and quantities of work acceptable and the
+     manner and form in which work shall be submitted;
+     (g) establishing the boundaries of mineral lands;
+     (h) regulating mining in proximity to the boundaries of mineral
+     lands;
+     (i) prescribing conditions for the closure of mines;
+     (j) prescribing forms and providing for their use;
+     (k) prescribing fees and rentals;
+     (l) prescribing interest rates; and
+     (m) for the better carrying out of the provisions of the Act.
+  (2) At the discretion of the Minister and upon application and any           Authority of
+good cause shown, the Minister may                                             Minister
+
+    (a) enlarge the time fixed or allowed for the doing of anything or the
+    taking of any proceedings under this Act, and an enlargement may
+    be ordered although the application therefor is not made until after
+
+
+                                     5
+6                   Cap. M-7                    Mineral Resources Act
+
+
+
+                        the expiration of the time fixed or allowed, and may provide for
+                        payment to a person aggrieved thereby; or
+                        (b) cancel, revoke or rescind a mineral right where money is due and
+                        owing to the province by the holder of the mineral right. 1978, c.15,
+                        s.9.
+
+                                               SURVEY SYSTEM
+Grid area           10. (1) A grid area shall be bounded on the east and west sides by
+                    successive meridians of longitude of the series 62°00'00”, 62°15'00”,
+                    62°30'00” which series may be extended as required, and on the north
+                    and south sides by straight lines joining the points of intersection of the
+                    east and west boundaries with successive parallels of latitude of the
+                    series 46°00'00”, 46°10'00”, 46°,20',00” which series may be extended
+                    as required.
+Reference to grid     (2) Every grid area shall be referred to by the latitude and longitude of
+area                the northeast corner of that grid area.
+Sections              (3) Every grid area shall be divided into sections.
+Section defined       (4) A section shall be bounded on the east and west sides by meridians
+                    spaced at intervals of one-tenth of the interval between the east and west
+                    boundaries of the grid area.
+Idem                   (5) A section shall be bounded on the north and south sides by straight
+                    lines drawn parallel to the north and south boundaries of the grid area
+                    and spaced at intervals of one-tenth of the interval between the north and
+                    south boundaries of the grid area.
+Mineral claim         (6) Every mineral claim shall be bounded on the east and west sides by
+defined             meridians spaced at intervals of one-quarter of the interval between the
+                    east and west boundaries of the section.
+Idem                  (7) Every mineral claim shall be bounded on the north and south sides
+                    by straight lines drawn parallel to the north and south boundaries of the
+                    section and spaced at intervals of one-quarter or the interval between the
+                    north and south boundaries of the section; and the sections and mineral
+                    claims shall be numbered as shown in the following diagrams:
+                                         Graph to be inserted. Page 2034
+                    A grid area is divided into 100 sections as illustrated above.
+                                       Graph to be inserted. See Page 2035
+                    A section is divided into 16 mineral claims as illustrated above.
+
+
+
+
+                                                         6
+                            Mineral Resources Act                    Cap. M-7                    7
+
+
+
+                           DOCUMENTATION
+11. Every person shall within fifteen days of application for a mineral         Filing of
+right file in the office of the Registrar a memorandum setting forth the        memorandum
+
+following information:
+     (a) if an individual
+        (i) his name,
+        (ii) his address in the province, and
+        (iii) his address outside of the province, if any;
+     (b) if a partnership
+        (i) the name of partnership,
+        (ii) the names of all partners,
+        (iii) the addresses of all partners in the province,
+        (iv) the addresses of all partners outside the province, if any, and
+        (v) the name and address of the recognized agent of the
+        partnership; and
+     (c) if a body corporate
+        (i) the name of the corporation,
+        (ii) the name and address of the president, secretary, other
+        officers, and directors of the corporation,
+        (iii) the mode of incorporation,
+        (iv) the date of incorporation,
+        (v) the location of the head office,
+        (vi) the name and address of the recognized agent of the
+        corporation, and
+        (vii) the principal office of the corporation in the province. 1978,
+        c.15, s.11.
+12. Every person shall within fifteen days of application for a lease,          Filing of documents
+where applicable, file in the office of the Registrar a certified copy of its
+memoranda, articles of association or articles of partnership, letters
+patent, bylaws and certificate of registration.
+13. (1) On or before June 1 in each year, without notice or demand,             Annual sworn
+every person holding or working mines in the province, shall deliver to         statement
+
+the Registrar a detailed statement duly verified by the affidavit of a
+partner or an officer of the company of the following information and
+particulars:
+     (a) the name of the partnership or company;
+     (b) the names, residences and post office addresses of the partners,
+     officers, directors and managers;
+     (c) the name and post office address of the registered agent and
+     manager in the province;
+     (d) the address of the head office;
+
+
+
+
+                                     7
+8                     Cap. M-7                    Mineral Resources Act
+
+
+
+                          (e) the address of the principal office in the province when the head
+                          office is situated outside of the province; and
+                          (f) the date upon which the last annual meeting was held.
+Additional              (2) The Registrar may require information to be provided in addition to
+information           or in amplification of that provided under subsection (1).
+Offence and penalty      (3) A person making default in complying with this section is guilty of
+                      an offence and is liable to a penalty of $20 for every day during which
+                      the default continues, and every partner or director, manager or secretary
+                      of a company who authorizes or permits such default shall incur the like
+                      penalty to be recovered in any court of competent jurisdiction by action
+                      at the suit of the Crown. 1978, c.15, s.13.
+Work report by        14. A licensee shall supply the Minister with a written notification of the
+licensee              name and address of the person responsible for the performance of the
+                      work for or on behalf of the licensee. 1978, c.15, s.14.
+Contractors           15. A licensee shall notify the Minister in writing of the name and
+performing work       address of all contractors performing work for or on behalf of the
+                      licensee and the notification shall include the location of work, license
+                      number, reference number and map. 1978, c.15, s.15.
+Contents of           16. (1) Every application for a mineral right and every other application
+application           and every transfer or assignment of a claim or of any right or interest
+                      acquired under this Act shall contain, or have endorsed thereon, the place
+                      of residence and post office address of the applicant, transferee or
+                      assignee, and also, when not a resident of the province, the name,
+                      residence and post office address of some person resident in the province
+                      upon whom service may be made.
+Mode of service         (2) Service may be effected by forwarding by prepaid registered mail
+                      to the address given under subsection (1).
+Restriction on          (3) No application, transfer or assignment shall be filed or recorded
+application           unless it conforms with subsection (1).
+Substitute for          (4) Another person resident in the province may at any time be
+service               substituted as the person upon whom service may be made by filing in
+                      the office of the Registrar a memorandum setting forth the name,
+                      residence, and post office address of such other person.
+Effect                  (5) Service upon the person named as the person upon whom service
+                      may be made, unless another person has been substituted for him under
+                      subsection (4), and in case of such substitution upon the person
+                      substituted, has the same effect as service upon the person named under
+                      subsection (1).
+
+
+                                                           8
+                            Mineral Resources Act                  Cap. M-7                         9
+
+
+
+  (6) Subsection (5) applies to every notice, demand or proceeding in
+                                                                              Application of ss.
+any way relating to a mineral right or to any other right or interest which   (5)
+may be acquired under this Act. 1978, c.15, s.16.
+
+                 LANDS OPEN FOR PROSPECTING
+17. A license shall entitle the holder thereof to search and prospect for     Rights granted by
+minerals within the claim or tract to which the license applies, except as    license
+
+herein provided, and subject to the rights of the owner of the land
+covered by the license. 1978, c.15, s.17.
+18. (1) The Minister may by order published in the Gazette                    Power of Minister
+     (a) restrict mineral rights in any area of the province to claims in     to restrict mineral
+                                                                              rights
+     respect of particular minerals; and
+     (b) withdraw lands in any area of the province from application for a
+     license in respect of all or particular minerals.
+  (2) Where an order is made under subsection (1) the Minister may,           Agreement
+notwithstanding such order, enter into an arrangement or agreement with       conferring mineral
+                                                                              rights
+any person authorizing that person to enjoy mineral rights in respect of
+any minerals or land the subject of the order on such terms and
+conditions as the Lieutenant Governor in Council may determine.
+   (3) Where existing mineral rights are held in respect of any land which    Existing mineral
+is the subject of an arrangement or agreement under subsection (2), the       rights protected
+
+Minister shall investigate the matter and give such notice as he considers
+necessary to the person affected thereby so that the arrangement or
+agreement may be carried out with as little detriment as possible to the
+holder of the existing mineral rights.
+  (4) The Minister may by order published in the Gazette reopen for           Reopening of lands
+application for a license any lands withdrawn under clause (1)(b) for all     withdrawn
+
+or particular minerals. 1978, c.15, s.18.
+
+                      EXPLORATION LICENSES
+19. (1) Any natural person over eighteen years of age or any                  Eligibility
+incorporated company, or partnership, may on payment of the prescribed
+fee apply for an exploration license.
+  (2) An application for a license shall be in writing in the prescribed      Form of application
+form.
+  (3) An application for a license shall specify the claims or tracts         Application to
+applied for as designated in accordance with section 10 on the official       specify claims or
+                                                                              tracts
+maps of the Department.
+
+
+
+                                     9
+10                      Cap. M-7                    Mineral Resources Act
+
+
+
+                          (4) An application shall be endorsed with the precise time and date at
+Time of application
+                        which the same was received at the office of the Registrar and if received
+                        by mail prior to twelve o'clock in the forenoon shall bear the time of ten
+                        o'clock on the day received.
+Work statement to         (5) An applicant for a license shall, within thirty days of making the
+be submitted            application, file with the Registrar a statement setting out the work
+                        proposed to be undertaken if the license is issued. 1978, c.15, s.19.
+Restriction on
+application             20. (1) No application shall be accepted for a claim or tract already
+                        applied for or under license or lease.
+Idem                       (2) No application shall be accepted for a license of any claim or tract,
+                        the right to a license of which is at the time of the application in dispute
+                        before the Minister or person designated by him, or before any court, or
+                        until the time allowed for appeal from any decision in respect to such
+                        right has expired. 1978, c.15, s.20.
+Protection for          21. Where a license which is subject to renewal has been issued in
+holder of mineral       respect of any lands, no application for a license in respect of the same
+right
+                        lands shall, without the direction or request of the Minister, be formally
+                        accepted until fifteen days after the date of expiry of the existing license
+                        and the direction or request shall be endorsed on the application. 1978,
+                        c.15, s.21.
+Application by          22. Where a license covering a claim or tract has expired because of
+associate of licensee   nonperformance of work, no application for a license shall be accepted
+of expired license
+                        from a licensee who had previously held the license, or from any person
+                        associated with, or acting on behalf of, or having a community of interest
+                        with, the licensee whose license expired for a period of ninety days
+                        following the expiry of the license. 1978, c.15, s.22.
+Refusal of              23. (1) The Minister may refuse an application for a license, or defer the
+application             acceptance of an application, if in the discretion of the Minister the
+                        acceptance of the application is not in the best interests of the province or
+                        would hinder mineral development of any area.
+Investigation on          (2) A person who had made application for a license which the
+deferral                Minister has deferred shall, upon request made in writing to the Minister
+                        within fifteen days of the deferral, be entitled to have an investigation
+                        held before the Minister or person designated by the Minister to
+                        determine the right to have the application accepted.
+Report of refusal         (3) If upon investigation the Minister refuses to accept the application
+                        for a license, the Minister shall report any such refusal to the Lieutenant
+                        Governor in Council and the Lieutenant Governor in Council may
+                        confirm such refusal, or may direct that the application be accepted in
+
+
+                                                             10
+                            Mineral Resources Act                   Cap. M-7                     11
+
+
+
+whole or in part and on such terms and conditions as the Lieutenant
+Governor in Council determines. 1978, c.15, s.23.
+24. (1) Where two or more applications for a license in whole or in part       Conflicting
+cover the same claim or tract, and the Minister is unable to decide who        applications
+
+made the first of the applications, the Minister may, after notice to be
+given in such manner and for such length of time as seems proper, cause
+the right to a license of the claim or tract in respect of which there are
+conflicting applications to be offered to the conflicting applicants by
+tender or at auction, and shall grant the license to the applicant who
+undertakes to perform on the claim or tract the greatest amount of work
+in excess of the amount of work required by this Act and, within a time
+fixed by the Minister, deposits with him such security as the Minister
+considers necessary for the proper performance of the work that the
+bidder has undertaken to perform.
+  (2) If, after an offer made by the Minister pursuant to subsection (1),      No bid
+no person undertakes to perform on the claim or tract an amount of work
+that is greater than the amount of work required by this Act, and within
+the time fixed by the Minister, deposits security for the performance of
+that work, the claim or tract shall be deemed vacant after the close of
+office hours on the last day fixed for the deposit of the security, and
+applications therefor may be received at ten o'clock on the next
+succeeding day. 1978, c.15, s.24.
+25. (1) A license shall be in the prescribed form, and shall be subject to     Form of license
+the rights of the owner of the land covered by the license.
+  (2) A license shall specify the area, claims or tracts as designated in      License to specify
+accordance with section 10 on the official maps of the Department.             area, etc.
+
+
+  (3) A license may include any number of contiguous claims not                License to include
+exceeding eighty but no license shall be granted for less than a full claim.   not more than
+                                                                               eighty claims
+
+  (4) For the purpose of subsection (3) “contiguous” means having at           Contiguous
+least one common boundary between adjoining claims. 1978, c.15, s.25.
+26. A license shall constitute authority to search, prospect and mine all or   Rights granted by
+specified minerals found in the area, claim, or tract for purposes of          license
+
+investigation, examination or test only. 1978, c.15, s.26.
+27. A license shall be for a term of one year from the date thereof and        Term
+may be renewed each year for four consecutive years if the holder
+thereof carries on mineral investigation and work as prescribed by this
+Act. 1978, c.15, s.27.
+28. (1) No license shall be renewed unless                                     Renewal
+
+
+
+
+                                     11
+12                    Cap. M-7                    Mineral Resources Act
+
+
+
+                          (a) an application for renewal is made to the Registrar prior to the
+                          expiration of the license to be renewed;
+                          (b) the applicant pays the prescribed fee;
+                          (c) the applicant proves that from the time the license was issued to
+                          the time of the application work has been performed on the license
+                          to the extent prescribed by the regulations; and
+                          (d) a statement is provided setting out the work proposed to be
+                          undertaken if the license is renewed.
+Work in excess of
+statutory               (2) Notwithstanding clause (1)(c), if more work is performed by or on
+requirements          behalf of the recorded holder than is herein required during the first year
+                      or in any subsequent year, the excess upon proof of performance of the
+                      work shall be credited by the Registrar in respect of the work required to
+                      be done during any subsequent year.
+Report of work          (3) The recorded holder of a license shall prior to the expiration of or
+done                  not later than fifteen days after each of the periods specified, make a
+                      report as to the work done or caused to be done by him during that
+                      period.
+Form to be used         (4) Work shall be reported under subsection (3) on the prescribed
+                      form.
+Certificate of work     (5) The Registrar, if satisfied that the prescribed work has been duly
+                      performed, shall grant a certificate of work, and the certificate in the
+                      absence of fraud or mistake shall be final and conclusive evidence of the
+                      due performance of the work therein certified.
+License deemed not      (6) If evidence of work performed is submitted to the Registrar within
+lapsed                the required period, the license shall be deemed not to have lapsed
+                      because of any delay that may occur in the consideration of the evidence,
+                      or in making any investigation on the ground which may be considered
+                      necessary, and such an extension of time as may be appropriate shall be
+                      granted by the Registrar.
+Required amount of      (7) Where the holder of the license has two or more contiguous claims
+work                  the required amount of work for all of the claims may be performed on
+                      one or more of the claims and reports of work and certificates to be filed
+                      in respect of the work shall indicate the claims on which the work was
+                      performed and the claims upon which it is to be applied.
+                        (8) On application, a license shall be renewed notwithstanding that all
+                      required work is not performed if the holder, during the ensuing year,
+                      agrees to perform the requisite work and in addition performs the amount
+                      of work that should have been performed during the previous year.
+
+
+
+
+                                                           12
+                            Mineral Resources Act                    Cap. M-7                        13
+
+
+
+  (9) Notwithstanding subsections (1), (3) and (8), where the required
+                                                                                First renewal
+work has not been performed on a claim, the first renewal only shall be
+granted for the performance of the work. 1978, c.15, s.28.
+29. Every license or renewal thereof shall be executed on the part of the       Execution of license
+Crown in the name of the Minister under the seal of office or by such
+person as is designated by the Minister and shall bear the date of the day
+on which the application therefor was accepted. 1978, c.15, s.29.
+
+          INSPECTION OF MINERAL RIGHTS AND WORK
+30. (1) The Registrar may order an inspection of, and any officer               Inspection
+appointed by the Minister may inspect, a mineral right at any time with
+or without notice to the holder for the purpose of ascertaining whether
+this Act has been complied with, and such investigation may include
+work.
+  (2) A report of each inspection, except when made for the purpose of a        Report in writing
+dispute, appeal or other proceeding, shall be made in writing by an
+officer and shall be filed in the office of the Registrar who shall forthwith
+enter upon the record of the mineral right a note stating the effect of the
+report and the date of entry. 1978, c.15, s.30.
+31. (1) If the Registrar considers that upon the report the claim should be     Notification of
+cancelled he shall mark the record of the claim “Cancelled” and affix his       claim cancelled
+
+signature or initials and shall forthwith by registered letter notify the
+holder of the mineral right of the receipt and effect of the report, and
+where the claim is cancelled in consequence of the report the notice shall
+so state and give the reasons.
+  (2) An appeal from the cancellation of the claim may be taken by the          Appeal from
+holder of the mineral right to the Minister for adjudication, but no appeal     cancellation
+
+shall be made more than twenty days after notification by the Registrar to
+the holder of the mineral right.
+   (3) Upon the cancellation of a claim under this section the Registrar        Posting of notice of
+shall forthwith post up in the office a notice of the cancellation, and the     cancellation
+
+land or mineral rights comprised in the claim shall thereupon, subject to
+section 17, be again open to prospecting at a time set by the Registrar,
+but any new claim shall be subject to the result of any appeal by a
+licensee whose claim has been cancelled. 1978, c.15, s.31.
+32. The holder of a mineral right shall be entitled on payment of the           Right to report of
+prescribed fee to receive from the Registrar a certified copy of any report     inspection
+
+of inspection of the mineral right filed with him. 1978, c.15, s.32.
+
+
+
+
+                                     13
+14                    Cap. M-7                     Mineral Resources Act
+
+
+
+                                             DEVELOPMENT LICENSE
+Holder of             33. (1) Upon application and payment of the prescribed fee the Minister
+exploration license   may issue a development license to the holder of an exploration license
+                      including such areas as are contained within one or more claims, not to
+                      exceed eighty claims, if the Minister considers that sufficient work has
+                      been performed to prove the existence, extent, content and value of a
+                      mineral deposit.
+Validity and            (2) A development license is valid for one year from the date of issue
+renewal               and on application to the Minister may be renewed on the anniversary
+                      date thereof for further twelve month periods upon payment of the
+                      prescribed fee and under such terms and conditions as the Minister may
+                      determine. 1978, c.15, s.33.
+
+                                                   MINING LEASE
+Lease                 34. No person shall open, work or operate a mine to extract minerals
+                      without having first obtained a lease for that purpose. 1978, c.15, s.34.
+Application for       35. Subject to section 36, a holder of any license may apply for and
+lease                 obtain a lease, including such areas as are contained within one or more
+                      claim not exceeding eighty in number according to the terms and subject
+                      to the conditions, as therein contained, upon proof that
+                           (a) each of the claims is in full force and effect;
+                           (b) the licensee has paid the prescribed rental; and
+                           (c) the licensee has deposited with the Registrar a return of survey of
+                           the lands to be taken under lease, duly executed by a land surveyor,
+                           and that the said return has been accepted by the Registrar. 1978,
+                           c.15, s.35.
+Submission of         36. (1) Before an application for a lease is accepted, the applicant shall
+reports, plans        submit to the Minister for approval reports and plans of the claim or tract
+                      proposed to be operated on which shall be shown
+                           (a) the known location and boundaries of the mineral deposit;
+                           (b) the place at which it is proposed to sink or drive any shaft or
+                           slope, or make any opening or surface pit;
+                           (c) the location of all surface buildings and installations, tailings and
+                           waste disposal areas;
+                           (d) the number of openings proposed to be made and the size of
+                           each;
+                           (e) the method by which work is to be carried on, and the method of
+                           roof support;
+                           (f) the method of ventilation;
+                           (g) the proposed method of restoration, reclamation and
+                           rehabilitation of the surface lands; and
+
+
+                                                            14
+                            Mineral Resources Act                   Cap. M-7                       15
+
+
+
+    (h) any other engineering plans as the Minister determines.
+  (2) The plan shall be accompanied by a report stating                        Additional report
+    (a) the quantity of mineral proven and possible;
+    (b) the quality and grade of the mineral deposit;
+    (c) the shape and size of the mineral deposit;
+    (d) the system of working proposed to be followed; and
+    (e) the percentage of mineral proposed to be extracted.
+ (3) If such report or plan is not approved by the Minister, it shall be       Approval by
+modified or altered until it is so approved. 1978, c.15, s.36.                 Minister
+
+                                                                               Form of lease
+37. (1) A mining lease in the prescribed form shall be made in duplicate;
+one duplicate, to be known as the counterpart, shall be issued to the
+lessee, and the other shall be filed and registered in the office of the
+Registrar.
+  (2) A certificate of registry, with the day and year thereof, shall be       Certificate of
+endorsed on the counterpart delivered to the lessee.                           registry
+
+
+  (3) A lease shall be executed by the lessee under seal, and on the part      Execution of lease
+of the Crown by the Minister and under seal.
+ (4) A lease shall give authority to mine, quarry or extract all or specific   Right to extract
+minerals for commercial or industrial purposes. 1978, c.15, s.37.              minerals
+
+
+38. (1) A lease shall be for a term of twenty years.                           Term
+
+   (2) A lessee, upon application to the Minister made within six months       Renewal
+immediately preceding the expiration of any lease period, shall be
+entitled to a renewal thereof for a further period of twenty years from
+such expiration, if the lessee is in good faith working the lease and has
+complied with the terms and conditions contained in the lease, within the
+true intent and meaning of this Act.
+  (3) If at any time during the term of the lease the lessee or operator       Cessation of
+ceases to operate the mine for a period of twelve months, the lease shall      operations
+
+be surrendered and a development license issued under section 33 shall
+be substituted therefor.
+  (4) At any time during the term of a development license issued              Application for
+pursuant to subsection (3), the holder thereof may apply for a lease to        lease
+
+carry on mining operations. 1978, c.15, s.38.
+39. (1) A lessee shall, in each lease year, perform or cause to be             Proof of work
+performed on the demised premises development work or mining, or               performed
+
+both, and shall, annually, not later than thirty days after the anniversary
+
+
+
+                                     15
+16                     Cap. M-7                     Mineral Resources Act
+
+
+
+                       date of the lease, furnish proof of all work performed during the twelve-
+                       month period prior to the anniversary date.
+Annual rental            (2) Rental at the prescribed rate shall be paid annually on or before the
+                       anniversary date of the lease for the ensuing year. 1978, c.15, s.39.
+Application of         40. Subject to this Act, the Minister may accept upon application a
+surrender of leases    surrender of two or more leases and issue one lease for the whole or any
+                       smaller portion of the claims or tracts covered by the surrendered leases
+                       and may include in any such lease an additional claim. 1978, c.15, s.40.
+
+                                               FORFEITURE OF LEASE
+Forfeiture of lease    41. A lease may be forfeited for failure to comply with any terms,
+                       conditions, stipulations, covenants or provisions. 1978, c.15, s.41.
+For non-payment of     42. (1) If rent under a lease is not paid on or before the anniversary date
+rent                   of the lease in any year, and it continues unpaid for a period of thirty
+                       days thereafter, the lease shall be forfeited and the claim or tract covered
+                       by the lease shall be open for application for license or lease at such time
+                       as the Minister determines.
+For non-payment of       (2) If the royalty is not paid in full within thirty days after it is due and
+royalty                payable the lease, whether the said royalty has been demanded or not,
+                       shall be forfeited and, subject to section 71, void and the claim or tract
+                       covered by the lease shall be open for application for license or lease at
+                       such time as the Minister determines.
+Forfeiture for           (3) If the work required to be performed on a lease is not reported in
+failure to work        writing in the form and containing the information required by this Act
+                       and is not filed with the Minister within thirty days after the date on
+                       which the report is so required to be filed, the lease shall be forfeited
+                       and, subject to section 71, void. 1978, c.15, s.42.
+Notice of forfeiture   43. (1) Whenever it is represented to or comes to the knowledge of the
+investigation          Minister that the lessee has failed to comply with any one or more of the
+                       conditions, stipulations, covenants or provisions of the lease, the
+                       Minister shall cause a notice to be served by prepaid registered mail upon
+                       the lessee thereof, informing the lessee of the failure or alleged failure to
+                       comply and appointing a place and time, not less than thirty days after
+                       the service of such notice, for an investigation thereof.
+Hearing                  (2) At the time and place appointed, the Minister shall proceed to
+                       investigate the case and decide thereon, and may either cancel the lease
+                       and declare the area, claim or tract so leased forfeited or extend the time
+                       during which it shall be necessary to comply with any one or more of the
+                       conditions set forth in the lease, or make such other order or decision as
+
+
+                                                             16
+                            Mineral Resources Act                    Cap. M-7                     17
+
+
+
+may seem just and equitable; and shall thereupon give notice of the
+decision to the lessee.
+  (3) If further time is given to the lessee by the Minister, and if within     Forfeiture for non-
+that time the lessee does not comply with the conditions contained in the       compliance
+
+lease to the satisfaction of the Minister, the claim or tract so leased shall
+be forfeited and the lease of the same shall, subject to section 71, be
+void. 1978, c.15, s.43.
+                                                                                Declaration of
+44. The Minister may make a declaration of forfeiture and the declaration       forfeiture
+shall set forth clearly the conditions that resulted in the forfeiture. 1978,
+c.15, s.44.
+45. (1) When a declaration of forfeiture is made the lessee and all             Effect
+lienholders shall cease to have any interest in the lease forfeited and in
+the claim or tract.
+  (2) Immediately upon a copy of the declaration of forfeiture being            Mining to cease
+served upon him, the lessee shall cease all mining operations on the
+claim or tract covered by the lease.
+   (3) The lessee shall not, without the written authorization of the           Removal of
+Minister, remove any buildings, machinery, plant, minerals extracted,           buildings and plant
+
+slimes or tailings in or upon the area, claim or tract, before the end of six
+months after service of a copy of the declaration.
+  (4) When the Minister authorizes a lessee to remove any buildings,            Removal within six
+machinery, plant, minerals extracted, slimes or tailings, the same shall be     months or deemed
+                                                                                Crown property
+removed by the lessee within six months from the date of the written
+authorization of the Minister and any buildings, machinery, plant,
+minerals extracted, slimes or tailings, remaining after the six months
+have expired shall be deemed the property of the Crown and may be
+disposed of as the Minister in his discretion determines and the lessee
+shall not be entitled to compensation for the same. 1978, c.15, s.45.
+46. If the Minister considers it expedient, the right to lease the area,        Auction
+claim or tract which is the subject of a forfeited lease may be offered for
+tender or sale at public auction, or otherwise disposed of, upon such
+terms and conditions as the Minister may determine. 1978, c.15, s.46.
+
+                               TRANSFERS
+47. (1) No licensee or lessee shall at any time during the term of the          Consent of Minister
+license or lease, assign, sublet, transfer or otherwise part with the license
+or lease or any rights thereunder without first obtaining the consent of
+the Minister in writing.
+
+
+
+                                     17
+18                     Cap. M-7                    Mineral Resources Act
+
+
+
+                         (2) Where the Minister refuses to consent to or ratify a transfer for
+Hearing on refusal
+of consent or
+                       which application has been made in proper form and with the
+ratification           information required to be furnished, the Minister, if the applicant so
+                       requests in writing, shall hear representations to determine the right of
+                       the applicant to receive the consent or ratification. 1978, c.15, s.47.
+Transfers of           48. No transfer shall be registered unless it conveys one or more
+fractional interests   complete claims. 1978, c.15, s.48.
+Form of transfer
+                       49. A transfer of mineral right or of any interest therein may be in the
+                       prescribed form and shall be signed by the transferor or by his agent
+                       authorized in writing. 1978, c.15, s.49.
+Requirements for       50. (1) Except as in this Act otherwise expressly provided no transfer or
+recording              assignment of, or agreement or other document affecting a mineral right
+documents
+                       or any recorded right or interest acquired under this Act, shall be
+                       received by the Registrar and entered on the record unless it is signed by
+                       the recorded holder of the mineral right or interest affected, or by the
+                       duly authorized agent, and there shall be attached to the document or
+                       endorsed thereon the affidavit of a subscribing witness verifying the
+                       signature.
+Execution of             (2) If the document is signed by an agent there shall also be filed a
+document               written document so authorizing the agent to sign, and the execution of
+                       the document shall be certified by affidavit attached thereto or endorsed
+                       thereon. 1978, c.15, s.50.
+
+                                       SURRENDER AND ABANDONMENT
+Surrender              51. (1) The holder of a license or lease may surrender it by notice in
+                       writing lodged in the office, together with the duplicate of the license or
+                       lease.
+Affidavit of loss        (2) If the duplicate is lost the Minister may accept an affidavit,
+                       verifying the fact of the loss in place of the duplicate. 1978, c.15, s.51.
+Lessee remains         52. Notwithstanding the surrender of any lease, the lessee shall remain
+liable                 liable at the date of surrender for any terms and conditions of the lease or
+                       terms and conditions of this Act. 1978, c.15, s.52.
+Removal of             53. (1) Where the holder of a mineral right abandons or surrenders a
+buildings and plant    mineral right, or where the mineral right is cancelled or forfeited under
+                       this Act or the regulations, the licensee or the lessee shall not remove
+                       from the claim, lands or rights any buildings, machinery, plant, minerals
+                       extracted, slimes or tailings therefrom without the written authorization
+                       of the Minister.
+
+
+
+                                                            18
+                            Mineral Resources Act                  Cap. M-7                       19
+
+
+
+  (2) Subsection 45(4) applies with the necessary changes to any
+                                                                              Application of s. 45
+buildings, machinery, plant, minerals extracted, slimes or tailings coming
+within subsection (1).
+  (3) The recording of a claim by a subsequent licensee does not confer       Recording of claim
+upon that licensee any right respecting buildings, machinery, plant,          by subsequent
+                                                                              licensee
+minerals extracted, slimes or tailings acquired by the Crown pursuant to
+subsection (2). 1978, c.15, s.53.
+
+                  ENTRY UPON MINERAL LANDS
+54. No licensee shall enter upon or prospect any private lands included in    Consent of owner
+his license except with the consent of the owner or tenant or occupant or
+under special license from the Minister. 1978, c.15, s.54.
+55. Crown lands may be entered upon and prospected only with the              Crown lands
+consent of the Minister and upon such terms and conditions as may be
+prescribed. 1978, c.15, s.55.
+56. (1) A licensee who is unable to make an agreement with the owner,         Application to
+tenant or occupant of private lands for the right to enter and prospect the   Minister
+
+lands covered by his license or any part thereof may apply to the
+Minister, after notice to the owner, tenant or occupant, for a special
+license to enter and prospect upon the lands.
+  (2) The Minister after hearing the parties may grant a special license      Special license;
+upon such terms and conditions as the Minister may think proper, and          compensation
+
+may determine the amount of any compensation to be paid to the owner,
+tenant or occupant and the manner and time of payment of the same.
+  (3) The Minister may order the giving of security for payment of the        Order for security
+compensation and may prohibit, pending the determination of the
+proceeding or until the compensation is paid or secured, further
+prospecting or working by such licensee or any person claiming under
+him.
+  (4) Where there are several owners, tenants or occupants of the lands       Difficulties
+sought to be entered and there are in the opinion of the Minister special     effecting service
+
+difficulties in effecting service of any notice under this section, the
+Minister may order substituted service in such manner as he may
+determine.
+  (5) There shall be no appeal from the granting by the Minister of a         No appeal
+special license nor from his determination as to the amount of
+compensation nor from any order for security nor from any order or
+decision or ruling in respect thereto.
+
+
+
+                                     19
+20                     Cap. M-7                     Mineral Resources Act
+
+
+
+                          (6) Where a licensee is delayed in the performance of work on the land
+Delay caused by
+surface owner
+                       covered by his license by the refusal of the owner of the land to permit
+                       the licensee to enter and prospect the lands and the Minister has granted
+                       him a special license under this section, the time within which the
+                       licensee is required to perform work under his license shall be extended
+                       by a period equal to the delay resulting from the owner's refusal to permit
+                       him to enter and prospect the land. 1978, c.15, s.56.
+
+                                              ACQUISITION OF LANDS
+Right to enter         57. No lessee shall enter upon or use for mining purposes any private
+private lands          lands until the lessee has obtained the right to enter upon and use the
+                       same for mining purposes by agreement with the owner or under this
+                       Act. 1978, c.15, s.57.
+Application to         58. (1) Whenever a lessee requires any land, or any right of interest in
+Minister re:           any land, for any of the following purposes: commencing any mining or
+auxiliary operations
+                       quarrying operation, the working of any mine, ore dump, mine waste
+                       dump, or tailings deposit in existence, or the protection of any mine or
+                       the workings thereof, supplying water to any quarry, mine, quarrying or
+                       mining operation in existence or projected, or to any operation carried on
+                       for the purpose of treating ore dumps, mine waste dumps, or tailings
+                       deposit, draining water therefrom, building dwellings, or supplying such
+                       dwellings with water, constructing or grading any roadway, constructing
+                       an electric light or power line or conduit or for any other purpose
+                       connected with opening or operating any quarry, mine or number of
+                       quarries or mines with the treating of ore dumps, mine waste dumps, or
+                       tailings deposits, or constructing or adding to any railway, building,
+                       machinery, plant, wharf, or work connected with or incidental to the
+                       operation of any mine, quarry, ore dump, mine waste dump, or tailings
+                       deposit, or shipping the products therefrom, or for a site for a power
+                       house, or for the erecting or maintaining of a pole line, or for the
+                       conveyance of power, and no agreement can be made for the acquisition
+                       thereof, or a right-of-way or easement in respect to any lands, the lessee
+                       may present an application to the Minister stating
+                            (a) that he is the lessee under a certain lease;
+                            (b) that the lessee requires certain property or some right or interest
+                            therein, of which a plan and description is attached, for some one or
+                            more of the above purposes in connection with the area covered by
+                            the said lease;
+                            (c) that a person named is the owner of the property, and that the
+                            lessee is willing to make an agreement with such owner for the
+                            acquisition of the property, right or interest, stating the nature of the
+                            proposed agreement, and the price that the lessee is willing to pay,
+                            but the owner is unwilling to accept; and
+
+
+                                                             20
+                             Mineral Resources Act                   Cap. M-7                        21
+
+
+
+    (d) that the applicant requests that proceedings may be taken under
+    this Act to enable the lessee to acquire the property, right or interest.
+  (2) Upon receipt of the application, the Minister may in his discretion        Hearing by Minister
+appoint a time and place for hearing the matter of the application, and the
+lessee shall serve upon the owner, and any other person that the Minister
+directs, not less than ten days before the date appointed for the hearing, a
+notice in writing of the time and place so appointed and a copy of the
+application, plan and description.
+  (3) The Minister may, if considered expedient, direct that a copy of the       Notice of hearing
+notice and of the application be published by advertisement in such
+newspapers as he may determine.
+  (4) If the lessee states in the application that the owner of the property     Idem
+is unknown, giving any information as to the ownership that has been
+obtained, the Minister may give directions as to the service of the notice
+and application or may dispense therewith.
+  (5) An application shall be accompanied by the deposit with the                Deposit
+Minister of such sum as directed for any costs or expenses that may be
+ordered to be paid by the lessee to the owner.
+  (6) Where a lessee is delayed in the performance of work on the land           Delay caused by
+covered by the lease by the refusal of the owner of the land to make an          surface owner
+
+agreement for the granting to the lessee of the land or an interest in it that
+would enable the lessee to perform the work and a right or interest in the
+land is vested in the lessee under section 60 the time within which the
+lessee is required to perform work under the lease shall be extended by a
+period equal to the delay resulting from the owners refusal to grant the
+land or interest in it to the lessee. 1978, c.15, s.58.
+59. (1) At the time and place appointed the Minister shall hear the matter       Proceedings
+of the application.
+  (2) Any person claiming to have a right, title, mortgage, judgment or
+other lien upon the property sought to be acquired or affected may
+appear and be heard in person or by counsel.
+  (3) The Minister may adjourn the hearing from time to time as he
+considers fit and may direct such inquiries and reports to be made by
+such persons as he considers fit, and witnesses may be called and
+examined upon oath, and the provisions respecting compelling witnesses
+to attend and proceedings for contempt at investigations hereinafter
+contained shall apply to any such hearing. 1978, c.15, s.59.
+
+
+
+
+                                      21
+22                   Cap. M-7                    Mineral Resources Act
+
+
+
+                     60. (1) After the conclusion of the hearing, the Minister shall make an
+Order by Minister
+                     order by which he may
+                          (a) dismiss the application;
+                          (b) allow the application in whole or in part and direct that the
+                          property sought to be acquired whether in fee simple or otherwise or
+                          any part thereof or the right or interest therein sought or any lesser
+                          right or interest shall be vested in the applicant;
+                          (c) make such further order for the disposal of the case as appears to
+                          him to be just.
+Appeal                 (2) There shall be no appeal from an order made by the Minister under
+                     subsection (1).
+Compensation           (3) The Minister may fix and determine the amount of compensation to
+                     be paid the owner by the lessee or declare that the compensation to be
+                     paid the owner by the lessee shall be determined by arbitration as
+                     hereinafter specified.
+Service                (4) A copy of the order shall be served by the lessee on the owner, by
+                     personal service or advertisement, or in such other manner as the
+                     Minister may direct.
+Costs and expenses     (5) In the order the Minister may order that an amount for costs and
+                     expenses shall be paid by the lessee to the owner or to any other person
+                     appearing on the said hearing, and any amount so ordered to be paid may
+                     be paid out of any money deposited with the Minister under subsection
+                     58(5), and any excess above the sum so deposited may be recovered by
+                     action by the person entitled to receive the same, and in any such action
+                     the order of the Minister shall be conclusive evidence of the right to
+                     receive the same.
+Arbitration            (6) If the Minister directs that any compensation shall be determined
+                     by arbitration, the lessee may, within ten days from the making of the
+                     order, serve the owner or such person as the Minister directs with a
+                     notice stating the name of the person selected as arbitrator by the lessee
+                     and requiring the person served to appoint an arbitrator on his behalf
+                     within ten days from service of the notice, and thereupon the amount of
+                     compensation shall be determined in the manner provided in this Act.
+                     1978, c.15, s.60.
+Arbitration          61. (1) In any case in which it is provided by this Act or by order of the
+proceedings          Minister that any compensation is to be paid by a lessee and that the
+                     amount thereof is to be determined by arbitration, any person
+                          (a) who is entitled to receive any compensation; or
+                          (b) who is required to pay compensation as the condition of
+                          acquiring any property or right,
+
+
+                                                          22
+                             Mineral Resources Act                   Cap. M-7                       23
+
+
+
+may serve the person who is required to pay the compensation or to
+receive the same, as the case may be, with a notice that he requires the
+amount of compensation to be determined by arbitration, and either in
+the same notice or a separate notice name a person to be his arbitrator
+and notifying the party served to name an arbitrator to act for him, and
+that if he fails to appoint an arbitrator within ten days after service of the
+notice an arbitrator to act for him may be appointed by the Minister.
+                                                                                 Arbitrator named
+  (2) If the person so notified fails to name an arbitrator within the ten
+days, the Minister shall, on the application of the lessee, name an
+arbitrator for the person so notified.
+  (3) The two arbitrators so appointed shall forthwith name and appoint          Third arbitrator
+a third arbitrator, and if they cannot agree he shall be appointed by the
+Minister on the application of either party.
+  (4) If the compensation is payable to two or more persons, jointly or          More than one
+severally, the Minister may by notice addressed to each of them require          claimant
+
+them to agree upon an arbitrator to represent them collectively and, if
+they fail to agree, an arbitrator to represent them collectively may be
+appointed by the Minister.
+  (5) The arbitrators, after having taken an oath before a justice of the        Determination of
+peace to fulfil the duties of their offices faithfully and impartially, shall    compensation by
+                                                                                 arbitrators
+immediately proceed to determine the compensation to be paid.
+  (6) No award shall be given, and no official act done by the majority of       Notice to all
+the arbitrators, unless at a meeting of which the other arbitrator has           arbitrators
+
+received notice, at least two clear days before, stating the time and place
+of such meeting.
+  (7) The arbitrators may swear the parties and their witnesses and, in          Witnesses
+their discretion, interrogate them under oath, and may view the premises.
+  (8) If there are several owners, and all of them are known, the                Apportioning
+arbitrators shall determine the share of the compensation awarded to             compensation
+
+which each owner is entitled.
+  (9) In deciding upon the compensation to be paid, the arbitrators are          Valuation
+authorized and required to take into consideration the inconveniences,
+loss, or damage arising from the land being taken, but shall not take into
+consideration the existence of minerals or metals in, upon, or under the
+land.
+  (10) If an award fixes the amount of compensation with sufficient              Informality in
+certainty the same shall not be set aside because the persons entitled to        award
+
+the compensation awarded are not designated by name or sufficiently
+
+
+                                      23
+24                   Cap. M-7                    Mineral Resources Act
+
+
+
+                     designated, or by reason of any irregularity as to the persons entitled, or
+                     for any matter of form; but the Supreme Court, or a judge thereof, may
+                     rectify any error or informality, and adopt such proceedings as are
+                     necessary for determining to whom the compensation shall be paid, or
+                     for otherwise carrying into effect the provisions and intent of this Act.
+Single arbitrator      (11) By consent of parties the compensation may be determined by a
+                     single arbitrator.
+Recovery of
+compensation           (12) The amount of compensation determined by the Minister to be
+                     paid to any person, or the amount of compensation awarded to any
+                     person by an arbitrator, or arbitrators, may be sued for and recovered by
+                     such person as a debt in any court of competent jurisdiction, and the
+                     judgment of the court may be enforced by execution.
+Payment of             (13) Subject to section 62, when the award of the arbitrator or
+compensation by      arbitrators is given, or when the amount of compensation is determined
+licensee or lessee
+                     by the Minister, the amount of compensation awarded shall be paid by
+                     any licensee or lessee to the person entitled to receive the same. 1978,
+                     c.15, s.61.
+Payment of           62. (1) If
+compensation into         (a) the person entitled to receive the compensation refuses to accept
+court
+                          payment thereof;
+                          (b) such person is unknown, or is an infant or person of unsound
+                          mind, or is absent from the province or cannot be found or has no
+                          agent within the province known or notified to the Minister and
+                          authorized to receive the same;
+                          (c) the title to the property affected is uncertain or disputed or the
+                          lessee or licensee has reason to fear any claim or encumbrance
+                          affecting the same; or
+                          (d) the Minister considers it advisable and so directs,
+                     the licensee or lessee may pay the amount of compensation awarded into
+                     the Supreme Court to the Prothonotary.
+Discharge from          (2) The payment by a licensee or lessee of compensation for damage,
+further claims       or to acquire title to any land, either to the owner, tenant or occupant of
+                     the land or to the Prothonotary, as the case may be, shall discharge the
+                     licensee or lessee from any further claim in respect thereto by the owner,
+                     tenant or occupant of the land.
+Investigation by       (3) If the compensation awarded has been paid into the Supreme Court,
+judge                the court or any judge thereof may upon application of any person
+                     claiming to be entitled to the compensation, or any part thereof,
+                     investigate his right to the same and, upon being satisfied by affidavit or
+                     oral testimony that notice of the hearing of the application has been
+
+
+                                                          24
+                             Mineral Resources Act                    Cap. M-7                      25
+
+
+
+served upon all persons interested therein, and that the person claiming is
+entitled to the compensation or any part thereof, may direct the
+Prothonotary to pay to that person the amount of the compensation to
+which he is entitled.
+  (4) Any person who claims to be entitled to any damages or                      Recovery of money
+compensation which has been paid to any other person by a licensee or
+lessee or by the Prothonotary under an order of the court or a judge, and
+who has not received notice of the application for the order, may recover
+the money so paid by action on showing that he was the person rightfully
+entitled thereto. 1978, c.15, s.62; 2008,c.20,s.72(62).
+63. (1) A copy of an order made by the Minister vesting any land or right         Registration of
+or interest therein in any lessee duly certified under his hand and the seal      order
+
+of his office, together with
+     (a) a copy of any plan or description referred to therein;
+     (b) a copy of any award of any compensation ordered to be paid by
+     the order; and
+     (c) a copy of the receipt for the payment of compensation from the
+     person entitled to receive the same or from the Prothonotary of the
+     Supreme Court, as the case may be, or a copy of affidavit of
+     payment of the compensation to that person or the Prothonotary,
+shall be lodged in the Registry of Deeds for the registration district in
+which the land in respect to which the order is made lies.
+  (2) At the time of filing the copies there shall be filed with the registrar    Proof of documents
+an affidavit of the due execution of the originals of the said award and
+receipt and the affidavit shall state that all the copies filed are true copies
+of the originals.
+  (3) If the person entitled to receive the compensation has received the         Failure to give
+same, but has refused to give a receipt therefor, the affidavit relating          receipt
+
+thereto shall state the fact of payment and of such refusal.
+  (4) The registrar shall be entitled to charge for the registration the fees     Registrar's fee
+provided for the registration of instruments under the Registry Act
+R.S.P.E.I. 1988, Cap. R-10.
+  (5) Upon payment of the amount of compensation awarded and the                  Vesting
+lodging in the registry of the documents required by this section to be so
+lodged, the lessee shall have, hold and enjoy the property or right or
+interest specified in the order for the term and upon the estate and for the
+purpose specified in the order, and until payment has been made and the
+documents lodged for registry the lessee shall not enter upon the property
+or possess any right or interest therein. 1978, c.15, s.63.
+
+
+
+
+                                      25
+26                Cap. M-7                     Mineral Resources Act
+
+
+
+                  64. Nothing in the foregoing provisions respecting the acquisition of
+Saving clause
+                  property or any right or interest therein shall be construed to abridge any
+                  right to acquire any property, right or interest, conferred upon any person
+                  or company by any enactment. 1978, c.15, s.64.
+Protection of     65. Every lessee who has acquired any property, right or interest under
+property          this Act shall, if the property, right or interest is less than fee simple, use
+                  the same for some purpose connected with mining and for no other
+                  purpose and shall use the same in such manner as is least injurious to the
+                  owner of the land. 1978, c.15, s.65.
+
+                                              INVESTIGATIONS
+Powers of         66. The Minister or a person appointed by the Minister may make an
+investigator      investigation into any matter to which this Act applies for the purpose of
+                  the investigation the person making it has all the powers of a
+                  commissioner under the Public Inquiries Act. 1978, c.15, s.66.
+Specific powers   67. The Minister or person designated by the Minister upon any
+                  investigation shall have power
+                      (a) to accept either in whole or in part any application previously
+                      refused;
+                      (b) to amend any license or lease which covers a claim or tract
+                      covered by a previous license or lease;
+                      (c) to adjust the rights of various persons in dispute; and
+                      (d) to make such further order for the disposal of the matter as
+                      appears to be just. 1978, c.15, s.67.
+
+                                                    BONDS
+Bonds             68. (1) Any bond or security given under this Act shall be
+                       (a) money or bonds acceptable to the Minister;
+                       (b) a bond from a bonding company licensed to do business in the
+                       province; or
+                       (c) a promissory note payable on demand that a chartered bank has
+                       agreed to honour on presentation for payment.
+Order assigning     (2) The Minister, on application made to him by any person, and on
+bond              being satisfied that the condition of any bond given to him has been
+                  broken, may make an order assigning the bond to some person to be
+                  named in the order, and such person, his executors or administrators,
+                  shall thereupon be entitled to sue on the bond in his own name as if the
+                  bond had been originally given to him and to recover thereon as trustee
+                  for all persons interested the full amount recoverable in respect of any
+                  breach of the conditions of the bond.
+
+
+
+                                                        26
+                            Mineral Resources Act                  Cap. M-7                    27
+
+
+
+  (3) There shall be no appeal from an order of the Minister assigning
+                                                                              Appeal
+the bond under subsection (2). 1978, c.15, s.68.
+
+                              ROYALTIES
+69. All ores and minerals mined, wrought or won under authority of a          Royalties
+license, lease or any recorded right or interest acquired under this or any
+Act heretofore passed by the Legislature are subject to such royalties to
+the Crown in right of the province as shall from time to time be imposed
+by order of the Lieutenant Governor in Council. 1978, c.15, s.69.
+70. All royalties shall be payable to the Crown in right of the province      Payable to Crown
+and shall bear interest at the prescribed rate from the time when due until
+paid. 1978, c.15, s.70.
+71. The claim of the Crown for royalties shall have priority over every       Priority of Crown
+other charge or claim against the area, claim or tract covered by the lease
+under which such royalties are payable, and against all fixtures,
+machinery, goods and chattels used in working and operating the mine
+situated thereon, and shall continue against all such fixtures, machinery,
+goods and chattels notwithstanding the forfeiture of the lease under this
+Act. 1978, c.15, s.71.
+
+                    OFFENCES AND PENALTIES
+72. (1) Any person who fails to comply with or otherwise contravenes          Offences, fine and
+any of the provisions of this Act or any order made thereunder or who         imprisonment
+
+interferes with any officer in carrying out any duties under this Act or
+any order made thereunder is guilty of an offence and is, where no
+penalty is specifically provided in this Act, liable on summary conviction
+to a fine not exceeding $1,000.
+  (2) The conviction of any person under this Act for failure to comply       Further prosecution
+with any requirement or obligation referred to in subsection (1) does not
+operate as a bar to further prosecution for the continued failure of that
+person so to comply. 1978, c.15, s.72; 1994, c.58, s.6.
+
+
+
+
+                                     27
+

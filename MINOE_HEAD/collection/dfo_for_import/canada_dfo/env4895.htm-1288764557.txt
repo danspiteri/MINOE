@@ -1,0 +1,468 @@
+
+     This consolidation is unofficial and is for reference only.  For the
+     official version of the regulations, consult the original documents
+     on file with the _R_e_g_i_s_t_r_y_ _o_f_ _R_e_g_u_l_a_t_i_o_n_s, or refer to the _R_o_y_a_l
+     _G_a_z_e_t_t_e_ _P_a_r_t_ _I_I.
+     Regulations are amended frequently.  Please check the list of
+     _R_e_g_u_l_a_t_i_o_n_s_ _b_y_ _A_c_t to see if there are any recent amendments to these
+     regulations filed with the Registry that are not yet included in this
+     consolidation.
+     Although every effort has been made to ensure the accuracy of this
+     electronic version, the Registry of Regulations assumes no
+     responsibility for any discrepancies that may have resulted from
+     reformatting.
+     This electronic version is copyright © 2009, _P_r_o_v_i_n_c_e_ _o_f_ _N_o_v_a_ _S_c_o_t_i_a,
+     all rights reserved.  It is for your personal use and may not be
+     copied for the purposes of resale in this or any other form.
+
+
+      _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+     |_AA_pp_pp_rr_oo_vv_aa_ll_ss_ _PP_rr_oo_cc_ee_dd_uu_rr_ee_ _RR_ee_gg_uu_ll_aa_tt_ii_oo_nn_ss|
+
+                         mmaaddee uunnddeerr SSeeccttiioonn 6666 ooff tthhee
+                               EEnnvviirroonnmmeenntt AAcctt
+                             SS..NN..SS.. 11999944--9955,, cc.. 11
+           OOrrddeerr iinn CCoouunncciill 9955--228877 ((AApprriill 1111,, 11999955)),, NN..SS.. RReegg.. 4488//9955
+     CCiittaattiioonn
+     11These regulations may be cited as the "Approvals Procedure
+     Regulations".
+     DDeeffiinniittiioonnss
+     22In these regulations
+     ((aa))"Act" means the Environment Act;
+     ((bb))"activity" means an activity listed in the Activities Designation
+     Regulations;
+     ((cc))"Administrator", in respect of an application, means a person who
+     has been designated by the Minister as the person responsible for the
+     activity to which the application relates, and includes an acting
+     Administrator;
+     ((dd))"application" means an application
+     (i) for an approval,
+     (ii) to change the activity that is the subject of an approval,
+     (iii) to amend a term or condition of, add a term or condition to or
+     delete a term or condition from an approval,
+     (iv) to renew an approval;
+     ((ee))"completed application" means an application, including additional
+     information submitted under subsection 53(2) of the Act, which
+     enables the Minister or an Administrator to commence a detailed
+     review of the application;
+     ((ff))"confidential business information" includes a trade secret and
+     know-how, but does not include information about the environmental
+     effects or associated mitigation measures of a proposed activity;
+     ((gg))"Department" means the Department of Environment and Labour;
+     ((hh))"Minister" means the Minister of Environment and Labour;
+     ((ii))"site" means the lands where an activity or proposed activity will
+     take place identified in the manner described in clause 5(1)(e);
+     ((jj))"trade secret" means information, including a formula, pattern,
+     compilation, program, device, product, method, technique or process,
+     that
+     (i) is used, or may be used, in business or for any commercial
+     advantage,
+     (ii) derives independent economic value, actual or potential, from
+     not being generally known to the public or to other persons who can
+     obtain economic value from its disclosure or use,
+     (iii) is the subject of reasonable efforts to prevent it from
+     becoming generally known, and
+     (iv) the disclosure of which would result in harm or improper
+     benefit.
+     AApppplliiccaattiioonn ffoorrmm
+     33 ((11))An application for an approval shall be made on a form
+     prescribed by the Minister.
+     ((22))The application shall be made and signed by
+     ((aa))a person who is an authorized signatory of the applicant, in the
+     case of an application referred to in subclause 2(d)(i);
+     ((bb))the approval holder, in the case of an application referred to in
+     subclauses 2(d)(ii), (iii) or (iv); or
+     ((cc))by an agent of persons identified in clauses (a) or (b) who
+     produces proof of authorization to make the application.
+     CCoonnffiiddeennttiiaall bbuussiinneessss iinnffoorrmmaattiioonn
+     44 ((11))This Section is subject to the Freedom of Information and
+     Protection of Privacy Act and regulations made thereto.
+     ((22))Subject to subsection (1), all information which is filed with the
+     Department, including information filed under Part V of the Act,
+     shall be public information.
+     ((33))Information which the applicant claims to be protected under the
+     Freedom of Information and Protection of Privacy Act, including
+     confidential business information, shall be clearly identified to an
+     Administrator.
+     ((44))Where an applicant claims information to be confidential business
+     information, an Administrator shall review the claim and, until a
+     decision is made pursuant to subsection (6), shall take adequate
+     precautions to prevent disclosure of the information.
+     ((55))When reviewing a claim pursuant to subsection (4), an
+     Administrator may request additional information to support the
+     claim, including what steps the applicant has taken to maintain the
+     confidentiality of the information.
+     ((66))Within 14 days following the date of receipt of the claim filed
+     pursuant to subsection (4) or within such further time as may be
+     agreed upon by the applicant and the Administrator, an Administrator
+     shall advise the applicant in writing whether the claim is accepted
+     or rejected in whole or in part.
+     ((77))An appeal from a decision under subsection (6) shall be to the
+     Minister or a person designated by the Minister.
+     ((88))Information accepted to be confidential business information
+     pursuant to subsection (6) shall not be disclosed to the public and
+     an Administrator shall take adequate precautions to prevent the
+     disclosure of the information.
+     ((99))Where an Administrator rejects a claim under subsection (6), an
+     applicant shall notify the Administrator in writing that
+     ((aa))the claim is waived and the applicant wishes to continue to
+     proceed with the application under the Act and regulations; or
+     ((bb))the application is to be withdrawn, in which case an Administrator
+     shall forthwith return to the applicant all of the information
+     submitted with the application.
+     AApppprroovvaall aapppplliiccaattiioonn iinnffoorrmmaattiioonn
+     55 ((11))Unless specified otherwise in an application form or by the
+     Minister or an Administrator under subsection (2), an application
+     shall be accompanied by the following information:
+     ((aa))the name, address, telephone and fax number of the applicant and,
+     where applicable, proof of current registration with the Registrar of
+     Joint Stock Companies;
+     ((bb))the location, capacity and size of the activity to which the
+     application relates;
+     ((cc))the nature of the activity, the change to the activity or the
+     amendment, addition or deletion, as the case may be;
+     ((dd))proof that the applicant either owns the site or has a lease or
+     other written agreement or option with the landowner or occupier to
+     enable the applicant to conduct the activity on the site or has the
+     legal right or ability to conduct the activity without the consent of
+     the landowner or occupier;
+     ((ee))a plan or sketch of the site, or, if the Minister or an
+     Administrator deems necessary, a survey plan prepared by a licensed
+     Nova Scotia land surveyor;
+     ((ff))if requested by the Minister or an Administrator, any municipal
+     approval, permit or other authorization required pursuant to
+     subsection 53(4) of the Act;
+     ((gg))detailed plans and specifications which, if required by the
+     Minister or an Administrator, are stamped by a professional engineer
+     licensed to practice in Nova Scotia;
+     ((hh))detailed description of the activity to which the application
+     relates;
+     ((ii))details of site suitability and sensitivity, including proximity
+     to watercourses, residences and institutions, geology and
+     hydrogeology;
+     ((jj))copies of existing approvals that have been issued to the
+     applicant relating to the activity under this Act or a predecessor to
+     this Act;
+     ((kk))copies of any environmental assessment study reports which may
+     pertain to the activity;
+     ((ll))the proposed or actual dates of construction commencement,
+     construction completion, commencement of operation and project
+     completion;
+     ((mm))a description of any substances, their environmental impact, the
+     sources of the substances and the amount of each substance that will
+     or might be released into the environment as a result of the
+     activity, the method by which the substances will be released and the
+     steps to be taken to reduce the amount of the substances released or
+     to mitigate their impacts;
+     ((nn))a summary of required environmental monitoring information
+     gathered during any previous approval period which has not already
+     been submitted to the Department;
+     ((oo))a summary of the performance of substance release control systems
+     used for the activity, including performance during any previous
+     approval period which has not already been submitted to the
+     Department;
+     ((pp))an explanation for the release of substances into the environment
+     as a result of the activity;
+     ((qq))proof that financial or other security, if required, will be
+     provided;
+     ((rr))a description of any adverse effect, including surface
+     disturbance, that may or will result from the activity and how it
+     will be controlled;
+     ((ss))contingency plans to deal with any reasonably foreseeable sudden
+     or gradual release of a substance which is likely to have a
+     significant adverse effect;
+     ((tt))a preliminary abandonment or rehabilitation plan, and, if
+     required, a final abandonment or rehabilitation plan;
+     ((uu))a description of any public consultation undertaken or proposed by
+     the applicant;
+     ((vv))information required to be submitted as part of or in support of
+     the application pursuant to any other regulation made under the Act;
+     and
+     ((ww))any other information prescribed by the Minister in a directive,
+     standard, policy, or guideline.
+     ((22))The Minister or an Administrator may waive in writing any of the
+     requirements of subsection (1) if the Minister or the Administrator
+     is satisfied that a requirement is not relevant to a particular
+     application or that the application is an application for a renewal.
+     CCoommpplleetteedd aapppplliiccaattiioonn
+     66 ((11))Where the application is not complete, the Minister or an
+     Administrator shall notify the applicant in writing within 14 days of
+     receipt of the application and request the information necessary to
+     make the application complete.
+     ((22))An appeal shall be to the Minister on a decision whether an
+     application is complete.
+     ((33))Where the information is not supplied by the applicant within 3
+     months of a request under subsection (1), an Administrator may reject
+     the application and shall immediately advise the applicant in writing
+     that the application has been rejected.
+     ((44))An applicant may request from an Administrator an extension of the
+     3-month time limit prescribed in subsection (3).
+     ((55))When the application is considered by the Minister or an
+     Administrator to be a completed application, the Minister or an
+     Administrator shall notify the applicant in writing and advise when a
+     decision will be made as provided in subsection 54(2) of the Act.
+     RReevviieeww ooff aapppplliiccaattiioonn
+     77 ((11))During the review of an application, an Administrator may
+     request oral information or additional written information from
+     ((aa))an applicant or an agent of the applicant;
+     ((bb))a person who is directly affected by the application;
+     ((cc))a local authority, the Government, a Government agency or the
+     Government of Canada or any agency or department of [the] Government
+     of Canada; and
+     ((dd))any other source that an Administrator considers appropriate.
+     ((22))An applicant shall be given an opportunity to respond to
+     information received under clauses 1(b), (c) or (d).
+     ((33))Before approving an application, the Minister or an Administrator
+     may require that the applicant provide a consultative process in the
+     area where the activity or the proposed activity is or will be
+     located.
+     ((44))Subsection (3) does not apply where an application has been
+     processed under Part IV of the Act.
+     PPuurrppoossee aanndd ssccooppee ooff rreevviieeww
+     88 ((11))The review of an application shall determine whether the impact
+     on the environment of the activity conforms with regulations made
+     pursuant to the Act, or with policies, standards or guidelines
+     prescribed or adopted by the Minister.
+     ((22))A review may include, but is not limited to, the following
+     matters:
+     ((aa))proposed methods of reducing the generation, use and release of
+     substances;
+     ((bb))available alternative technologies;
+     ((cc))design plans and specifications for the activity;
+     ((dd))site suitability, including soils, air and water quality,
+     groundwater conditions, site drainage, water supply quantity and
+     wastewater disposal alternatives;
+     ((ee))the proposed monitoring programs to measure emissions and their
+     effect on the environment;
+     ((ff))proposed methods of management of the storage, treatment and
+     disposal of substances;
+     ((gg))proposed plans to complete the rehabilitation required in
+     connection with the activity and available information about the
+     success or failure of similar plans elsewhere;
+     ((hh))the past performance of the applicant to provide for environmental
+     protection with respect to the activity.
+     IIssssuuaannccee ooff aapppprroovvaall
+     99 ((11))The Minister or an Administrator may issue an approval pursuant
+     to these regulations upon the payment of an administrative fee and a
+     user fee which are approved by the Minister.
+     ((22))Where there is a change in the name of the holder of an approval
+     issued pursuant to these regulations, the holder of the approval
+     shall advise the Minister or an Administrator in writing within 30
+     days of the change.
+     ((33))If the Minister or an Administrator refuses to issue an approval,
+     an Administrator shall advise the applicant in writing of the
+     decision and inform the applicant about what appeal processes are
+     available.
+     SSaammpplliinngg
+     1100The costs of any sampling, analysis or other service required in an
+     approval shall be paid by the approval holder.
+     DDuurraattiioonn ooff aapppprroovvaall//rreenneewwaall
+     1111 ((11))Unless provided otherwise in the Act or regulations and subject
+     to subsection (2), where the Minister or an Administrator issues an
+     approval, the Minister or the Administrator shall provide as a term
+     and condition that the duration of the approval shall not exceed 10
+     years.
+     ((22))The applicant may request an approval for a shorter duration than
+     the 10 years prescribed in subsection (1).
+     ((33))An approval may be renewed by the Minister or an Administrator
+     with or without changes upon the payment of an administrative fee and
+     a user fee which are approved by the Minister.
+     TTrraannssffeerrss
+     1122 ((11))The sale of a controlling interest of a business or a transfer
+     of an approval from a parent company to a subsidiary or an affiliate
+     is deemed to be a transfer requiring consent under subsection 59(1)
+     of the Act.
+     ((22))Where financial or other security is required in respect of an
+     activity, the Minister or an Administrator shall not approve a
+     transfer, sale, lease, assignment or other disposition of the
+     approval until the Minister or an Administrator is satisfied that
+     financial or other security has been provided by the new owner or
+     operator.
+     SSeeccuurriittyy
+     1133 ((11))Where financial or other security is required by the Minister
+     under Section 57 of the Act, the requirements shall be established by
+     regulations made under the Act or by policies or guidelines
+     established by the Minister under subsection 8(2) of the Act.
+     ((22))Where financial or other security is required under the Act or by
+     the regulations, the Minister or an Administrator shall not issue an
+     approval until the Minister or the Administrator is satisfied that
+     good and valuable security has been provided.
+     ((33))The approval holder shall ensure that any security provided is
+     kept valid
+     ((aa))for the term of the approval;
+     ((bb))for the term provided in subsection 21(4) where a site is to be
+     abandoned; or
+     ((cc))for such other term as provided in a regulation made under the Act
+     or prescribed by the Minister or an Administrator.
+     ((44))If the security required under subsection (1) is provided on an
+     annual basis, the approval holder shall no later than 60 days prior
+     to the expiry of the security present evidence to the Minister or an
+     Administrator that the security has been renewed.
+     AAmmoouunntt ooff sseeccuurriittyy
+     1144 ((11))If required, financial or other security shall be in an amount
+     determined by the Minister or an Administrator to be sufficient to
+     ensure completion of rehabilitation of a site based on
+     ((aa))the estimated costs of rehabilitation submitted by the approval
+     holder;
+     ((bb))the nature, complexity and extent of the activity;
+     ((cc))the probable difficulty of rehabilitation, considering factors
+     such as topography, soils, geology, hydrology and revegetation; and
+     ((dd))any other factors [that] the Minister or an Administrator
+     considers to be relevant.
+     ((22))The approval holder shall prepare and provide detailed information
+     in support of the estimated cost of rehabilitation.
+     AAppppoorrttiioonnmmeenntt ooff sseeccuurriittyy
+     1155The Minister or an Administrator may designate portions of a site
+     on which the activity is or will be taking place and determine the
+     amount of security to be provided by the approval holder for each
+     portion so designated.
+     AAddjjuussttmmeenntt ooff sseeccuurriittyy
+     1166 ((11))The Minister or an Administrator may periodically review and
+     either increase or decrease the amount of security required by the
+     Minister or by the regulations where
+     ((aa))the estimated cost of future rehabilitation changes;
+     ((bb))the activity on the site is increased or reduced;
+     ((cc))the site or any portion of it is rehabilitated;
+     ((dd))the rehabilitation plan in an approval is changed;
+     ((ee))the approval holder is conducting on the site more than one
+     activity for which security is required; or
+     ((ff))any other circumstances exist that may increase or decrease the
+     estimated cost of rehabilitation.
+     ((22))To complete a review under subsection (1), the Minister or an
+     Administrator may require the approval holder to supply updated
+     engineering drawings which show such matters as the extent of
+     progressive rehabilitation and the areas of disturbance.
+     ((33))The Minister or an Administrator may specify times or prescribe a
+     schedule for re-evaluating and adjusting security provided by an
+     approval holder.
+     ((44))The Minister or an Administrator shall, within 7 days of a
+     decision made under subsection (1), notify the approval holder in
+     writing of any proposed adjustment to the amount of the security and,
+     where the amount of the security required has been increased, the
+     approval holder shall immediately post any additional security with
+     the Department.
+     FFoorrmm ooff sseeccuurriittyy
+     1177 ((11))Security may be in one or more of the following forms:
+     ((aa))cash;
+     ((bb))cheques and other similar negotiable instruments made payable to
+     the Nova Scotia Department of Finance;
+     ((cc))Government guaranteed bonds, debentures, term deposits,
+     certificates of deposit, trust certificates or investment
+     certificates assigned to the Nova Scotia Department of Finance;
+     ((dd))irrevocable letters of credit, irrevocable letters of guarantee,
+     performance bonds or surety bonds in a form acceptable to the
+     Minister or an Administrator; or
+     ((ee))any other form of security which provides good and valuable
+     consideration and that is approved in writing by the Minister or an
+     Administrator.
+     ((22))Any interest which may accrue on any security deposited with the
+     Department shall be paid to the approval holder.
+     RReettuurrnn ooff sseeccuurriittyy
+     1188 ((11))Subject to subsection 21(4), where the Minister or an
+     Administrator certifies that rehabilitation has been performed
+     satisfactorily on all or part of the site, the Minister or an
+     Administrator may return or direct the return of all or part of the
+     security provided.
+     ((22))If the rehabilitation of the site has been partially completed,
+     the Minister or an Administrator may, on application by the approval
+     holder, return or direct the return of a part of the security in an
+     amount determined by the Minister or the Administrator.
+     ((33))Where the Minister or an Administrator decreases the amount of
+     security under Section 16, the Minister or the Administrator shall
+     within 7 days of the decision return or direct the return of part of
+     the security provided together with any interest that may have
+     accrued on the security.
+     ((44))Where an application for an approval is submitted but no approval
+     is issued, the Minister or an Administrator shall within 7 days of
+     the decision return or direct the return of any security deposited
+     with the Department.
+     ((55))Upon the sale, transfer or other disposition of a site covered by
+     security and upon consent being granted under Section 59 of the Act,
+     the Minister or an Administrator shall, upon application by the
+     approval holder, return the security to the approval holder if an
+     approval is granted to the new owner or operator and security
+     approved by the Minister or an Administrator is provided by the new
+     owner or operator.
+     FFoorrffeeiittuurree ooff sseeccuurriittyy
+     1199 ((11))Where
+     ((aa))a person fails to comply with an approved abandonment plan, a
+     rehabilitation plan or an order from the Minister or an Administrator
+     regarding rehabilitation of the site and the failure to comply may,
+     in the opinion of the Minister or the Administrator, prevent or
+     otherwise interfere with rehabilitation of the site; or
+     ((bb))security required by the Minister or by the regulations is not
+     renewed at least 60 days before its expiry date and rehabilitation is
+     not complete,
+     the Minister or an Administrator may order that all or part of the
+     security provided by the approval holder be forfeited.
+     ((22))Where the Minister or an Administrator orders security to be
+     forfeited under subsection (1), the Minister or an Administrator
+     shall give written notice of the decision to the approval holder by
+     fax or mail sent to the last known address of the approval holder.
+     ((33))The Minister or an Administrator may spend as much of the security
+     as is reasonably necessary to carry out the rehabilitation of the
+     site and other lands on which the activity has an impact and keep
+     records of any money spent.
+     ((44))Where the amount of the forfeited security exceeds the amount
+     required for rehabilitation, the Minister or an Administrator shall
+     pay the excess amount to the approval holder.
+     ((55))Where the amount of the forfeited security is insufficient to pay
+     for the cost of rehabilitation, the approval holder remains liable
+     for the balance of the cost.
+     CCoommpplliiaannccee mmoonniittoorriinngg
+     2200 ((11))Unless a waiver is provided in writing by the Minister or an
+     Administrator, an approval holder responsible for an activity shall
+     undertake compliance monitoring as prescribed in an approval, or as
+     prescribed in the Act or regulations made pursuant to the Act.
+     ((22))An approval holder shall submit the results of the compliance
+     monitoring to the Department at any times specified by the Minister
+     or an Administrator.
+     ((33))A person responsible for compliance monitoring shall report a
+     release of a substance into the environment which exceeds those
+     authorized in the approval in such manner as prescribed either in the
+     approval, or as directed in the Act or regulations made pursuant to
+     the Act.
+     ((44))The approval holder shall be responsible for the costs of any
+     compliance monitoring required.
+     AAbbaannddoonnmmeenntt
+     2211 ((11))An approval holder may abandon all or part of a site covered by
+     an approval by notifying the Minister or an Administrator in writing
+     at least 60 days prior to the date of the proposed abandonment.
+     ((22))Unless the Minister or an Administrator approves otherwise in
+     writing, an abandonment pursuant to subsection (1) does not relieve
+     the approval holder or other persons responsible of any obligation
+     contained in the Act, regulations, an approval or an order, or
+     otherwise directed by the Minister or an Administrator to be
+     performed by the approval holder.
+     ((33))Unless exempted in writing by the Minister or an Administrator, an
+     approval holder shall comply with obligations identified in
+     subsection (2) for a period of 2 years from the date of abandonment
+     or for a such longer or shorter time period [as] specified in writing
+     by the Minister or an Administrator.
+     ((44))Unless exempted in writing by the Minister or an Administrator, an
+     approval holder shall ensure any security provided in respect of the
+     activity on the site is kept in effect for the time period provided
+     in subsection (3).
+     RReehhaabbiilliittaattiioonn
+     2222 ((11))An approval holder shall, to the satisfaction of the Minister
+     or an Administrator, perform rehabilitation on the site in accordance
+     with the Act and regulations, as specified in an approval or in
+     accordance with an approved rehabilitation plan.
+     ((22))An approval holder shall, upon request by the Minister or an
+     Administrator, submit a final rehabilitation plan to the Minister or
+     the Administrator to replace any initial or conceptual rehabilitation
+     plan which may have been submitted.
+     ((33))A rehabilitation plan shall be submitted to the Minister or an
+     Administrator for approval 60 days prior to abandonment unless a
+     method of rehabilitation has been approved by a regulation,
+     guideline, standard or policy prescribed or adopted by the Minister.
+     ((44))The Minister or an Administrator shall notify the approval holder
+     within 14 days of submission of the rehabilitation plan whether the
+     plan is approved or not.
+     ((55))The Minister or an Administrator may issue a rehabilitation
+     certificate if the Minister or the Administrator is of the opinion
+     that rehabilitation of the site has been satisfactorily completed.
+     EEffffeeccttiivvee ddaattee
+     2233These regulations shall come into force on, from and after April
+     11, 1995.
+     =====================================================================

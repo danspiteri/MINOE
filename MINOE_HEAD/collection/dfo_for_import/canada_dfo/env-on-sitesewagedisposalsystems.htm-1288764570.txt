@@ -1,0 +1,1243 @@
+﻿
+
+
+
+     This consolidation is unofficial and is for reference only.  For the
+     official version of the regulations, consult the original documents
+     on file with the _R_e_g_i_s_t_r_y_ _o_f_ _R_e_g_u_l_a_t_i_o_n_s, or refer to the _R_o_y_a_l
+     _G_a_z_e_t_t_e_ _P_a_r_t_ _I_I.
+     Regulations are amended frequently.  Please check the list of
+     _R_e_g_u_l_a_t_i_o_n_s_ _b_y_ _A_c_t to see if there are any recent amendments to these
+     regulations filed with the Registry that are not yet included in this
+     consolidation.
+     Although every effort has been made to ensure the accuracy of this
+     electronic version, the Registry of Regulations assumes no
+     responsibility for any discrepancies that may have resulted from
+     reformatting.
+     This electronic version is copyright � 2009, _P_r_o_v_i_n_c_e_ _o_f_ _N_o_v_a_ _S_c_o_t_i_a,
+     all rights reserved.  It is for your personal use and may not be
+     copied for the purposes of resale in this or any other form.
+
+     =====================================================================
+     On-site Sewage Disposal Systems Regulations
+     made under Sections 66 and 110 of the
+     Environment Act
+     S.N.S. 1994-95, c. 1
+     O.I.C. 2007-173 (March 27, 2007), N.S. Reg. 194/2007
+
+
+     Interpretation
+
+     Citation
+     1     These regulations may be cited as the On-site Sewage Disposal
+     Systems Regulations.
+
+     Definitions
+     2     In these regulations, the following definitions apply:
+      
+                     (a)    “Act” mean the Environment Act;
+      
+                     (b)    “approved central sewage collection and
+     treatment system” means a system for central sewage collection and
+     treatment that has been approved in writing by the Minister, and
+     includes an approved extension or modification of a system;
+      
+                     (c)    “cluster system” means a system intended
+     to service more than 1 building, structure or dwelling;
+      
+                     (d)    “development officer” means a development
+     officer as defined in the Municipal Government Act and appointed by a
+     municipality to approve subdivisions;
+      
+                     (e)    “disposal field” means the part of a
+     system that distributes treated sewage into the soil;
+      
+                     (f)    “drilled well” means a drilled well as
+     defined in theWell Construction Regulations made under the Act;
+      
+                     (g)    “dug well” means a dug well as defined in
+     the Well Construction Regulations made under the Act, and includes a
+     drilled well with less than 6.1 m of well casing;
+      
+                     (h)    “effluent pipe” means a non-perforated
+     pipe used in a system to transfer effluent from a septic tank, pump
+     or siphon chamber to a disposal field;
+      
+                     (i)     “foundation drainage system” means the
+     perforated piping and crushed rock or gravel laid around the exterior
+     of the foundation of a dwelling or a structure and includes any part
+     of the piping that extends to a point of discharge;
+      
+                     (j)     “holding tank” means a system that
+     consists of a closed watertight receptacle that does not discharge
+     effluent, but is designed and used to receive and store sewage before
+     it is collected by a septic- tank cleaner;
+      
+                     (k)    “innovative sewage disposal system” means
+     an experimental system or other type of system that has not been
+     approved for use in the Province and that is being installed or
+     constructed for evaluation purposes;
+      
+                     (l)     “installer” means a person who holds a
+     valid certificate of qualification issued in accordance with Section
+     31 to install or construct systems;
+      
+                     (m)   “instrument of subdivision” means an
+     instrument of subdivision under the Municipal Government Act;
+      
+                     (n)    “level 1 qualified person” means a person
+     who meets the requirements of Section 25;
+      
+                     (o)    “level 2 qualified person” means a person
+     who has a valid certificate of qualification in accordance with
+     Section 26;
+      
+                     (p)    “lot width” means the minimum width of a
+     lot measured from the centre of the proposed or existing system to
+     the boundaries of the lot;
+      
+                     (q)    “malfunctioning system” means a system
+     that the Department considers causes or may cause an adverse effect;
+      
+                     (r)    “minor alteration” means a small
+     modification or repair to a system that is required to reduce any
+     possible impact or adverse effect on public health and the
+     environment and includes any of the following:
+      
+                              (i)     replacing a septic tank, pump or
+     siphon chamber of the same size at the same location on the lot,
+      
+                              (ii)    diverting sewage away from
+     groundwater and a dwelling structure,
+      
+                              (iii)   repairing any portion of a pipe
+     between the septic tank and the pump or siphon chamber,
+      
+                              (iv)   repairing any portion of an effluent
+     pipe,
+      
+                              (v)    replacing imported sand fill or final
+     cover material in an eroded system;
+      
+                     (s)    “municipal system” means a sewage
+     collection system owned and operated by or on behalf of a
+     municipality;
+      
+                     (t)     “on-site sewage disposal system” means a
+     system for disposing of sewage that is not directly connected to a
+     central sewage collection and treatment system or a municipal system
+     and includes all of the following:
+      
+                              (i)     a septic tank, a disposal field and
+     inter-connecting pipes,
+      
+                              (ii)    a holding tank,
+      
+                              (iii)   a pit privy,
+      
+                              (iv)   a vault privy,
+      
+                              (v)    a sewage disposal system, other than
+     one described in subclauses (i) to (iv) or a wastewater treatment
+     facility, that is approved or adopted by the Department as an on-site
+     sewage disposal system and meets any specifications established by
+     the Department;
+      
+                     (u)    “On-site Sewage Disposal Systems Technical
+     Guidelines” means the guidelines published by the Department that
+     set specifications and standards for selecting, designing, installing
+     and constructing on-site sewage disposal systems;
+      
+                     (v)    “permeable soil” means a soil that is
+     determined to be permeable in accordance with the On-site Sewage
+     Disposal Systems Technical Guidelines;
+      
+                     (w)   “pit privy” means a structure and the pit
+     over which the structure sits, in which human waste is emitted from
+     the pit into the soil;
+      
+                     (x)    “portable rest room” means a mobile
+     receptacle used for the temporary storage of sewage;
+      
+                     (y)    “qualified person” means a level 1
+     qualified person or a level 2 qualified person;
+      
+                     (z)    “septic tank” means a watertight, covered
+     receptacle designed and constructed to treat sewage before it is
+     discharged to a disposal field or discharged for further treatment;
+      
+                     (aa)  “septic-tank cleaner” means a person who
+     holds a valid certificate of qualification in accordance with Section
+     36 to empty and dispose of the contents of a septic tank, a pump or
+     siphon chamber, a holding tank, a vault privy or a portable rest
+     room;
+      
+                     (ab)  “sewage” means any human waste or
+     wastewater emitted from a building, dwelling or structure and
+     includes wastewater from ablutions, culinary activities or
+     laundering;
+      
+                     (ac)  “sewage management program” means a program
+     for an on-site sewage disposal system that is acceptable to the
+     Department for maintaining and controlling the storage and disposal
+     of sewage from a holding tank or septic tank;
+      
+                     (ad)  “soil assessment” means a procedure that
+     uses a test pit to evaluate any factors that affect the subsurface
+     attenuation of sewage, including all of the following:
+      
+                              (i)     the rate of movement or flow of
+     water through soil in its natural state,
+      
+                              (ii)    the depth of bedrock,
+      
+                              (iii)   groundwater conditions;
+      
+                     (ae)  “subdivider” means the registered owner of
+     an area of land proposed to be subdivided and includes anyone acting
+     with the owner’s consent;
+      
+                     (af)   “subdivision” means a subdivision as
+     defined in the Municipal Government Act;
+      
+                     (ag)  “surface watercourse” means a watercourse,
+     excluding groundwater;
+      
+                     (ah)  “system” means, except where the context
+     requires otherwise, an on-site sewage disposal system, or any part of
+     an on-site sewage disposal system;
+      
+                     (ai)   “vault privy” means a structure and the
+     closed watertight receptacle over which the structure sits, the
+     receptacle of which stores human waste and is required to be pumped
+     out regularly;
+      
+                     (aj)   “wastewater treatment facility” means a
+     wastewater treatment facility as defined in the Water and Wastewater
+     Facilities and Public Drinking Water Supplies Regulations made under
+     the Act;
+      
+                     (ak)  “waterfront lot” means a lot that contains
+     or is proposed to contain a system in which a portion of the system
+     is or will be located within 60 m of a surface watercourse or marine
+     water body.
+
+     Departmental services in place of qualified person
+     3     The Minister may establish policies or criteria that set out
+     when the Department may provide services in place of a qualified
+     person.
+
+     Activities designated as requiring approval
+     4     Any of the following activities on or for a system, including a
+     cluster system or an innovative sewage disposal system is designated
+     as an activity under the Act that requires an approval in accordance
+     with Section 50 of the Act:
+      
+                     (a)    selecting;
+      
+                     (b)    designing;
+      
+                     (c)    installing;
+      
+                     (d)    constructing;
+      
+               [(e)](f)     repairing;
+      
+               [(f)](g)    modifiying [modifying];
+      
+               [(g)](h)    altering, other than a minor alteration;
+      
+               [(h)](i)     upgrading;
+      
+               [(i)](j)     replacing.
+
+     Systems on Lots Being Subdivided
+
+     Application of these regulations to lots being subdivided
+     5     These regulations apply to any lot shown on a plan or
+     instrument of subdivision that must be submitted to a development
+     officer for approval by a municipality and is proposed to be serviced
+     by a system except for a lot that is larger than 9000 m2 in area and
+     75 m or more in lot width and is identified on an application for
+     subdivision as not intended for development purposes.
+
+     Subdivision review process
+     6     (1)    A subdivider who proposes to put a system on their lot
+     must prepare and submit documentation that includes all the following
+     information to the Department and to a development officer as part of
+     the application process under the Municipal Government Act:
+      
+                     (a)    the name, address, including civic number, and
+     telephone number of the owner of the lot to be subdivided;
+      
+                     (b)    the name, address, including civic number, and
+     telephone number of the subdivider;
+      
+                     (c)    the name and address, including civic number,
+     of all owners of land abutting the lot to be subdivided;
+      
+                     (d)    for a subdivider who is not the owner of the
+     lot, proof from the owner that the subdivider is appointed as the
+     agent of the owner to make the application;
+      
+                     (e)    a plan or sketch of the lot to be subdivided
+     showing all of the following:
+      
+                              (i)     the dimensions and area of the lot,
+      
+                              (ii)    the lot layout, including all of the
+     following, whether proposed or existing:
+      
+                                       (A)   buildings,
+      
+                                       (B)   systems,
+      
+                                       (C)   driveways,
+      
+                                       (D)   water wells,
+      
+                              (iii)   the location on the lot and
+     adjoining lots of all the following:
+      
+                                       (A)   surface watercourses,
+      
+                                       (B)   wetlands,
+      
+                                       (C)   marine water bodies,
+      
+                                       (D)   any features that may
+     influence the selection or design of the system including any
+     ditches, roads or easements,
+      
+                              (iv)   the surface slopes and directions,
+      
+                              (v)    the location of any test pits;
+      
+                     (f)    an explanation of all of the following:
+      
+                              (i)     the extent to which the system will
+     be used,
+      
+                              (ii)    the expected volume for the system,
+      
+                              (iii)   what uses the system will be
+     subjected to.
+      
+            (2)    In addition to the information provided under
+     subsection (1), a subdivider must provide the Department with an
+     assessment report prepared by a level 1 qualified person or a level 2
+     qualified person that assesses the lot’s suitability to support a
+     system and includes all of the following:
+      
+                     (a)    an evaluation of the results of a soil
+     assessment;
+      
+                     (b)    the proposed system selected or designed for
+     the lot;
+      
+                     (c)    any information required by the Department.
+      
+            (3)    The Department may review and audit the information
+     provided under subsections (1) and (2) and may conduct any
+     inspections considered necessary to verify the information, including
+     inspecting any test pit on the proposed lot, and may request
+     additional test pits.
+      
+            (4)    If requested by a development officer, the Department
+     must send a written response to the development officer, and copy it
+     to the subdivider, respecting the assessment report on the
+     suitability of the lot being subdivided to support a system that
+     indicates one of the following:
+      
+                     (a)    that the information provided by the
+     subdivider is insufficient to allow the Department to determine
+     whether the lot is suitable for the proposed system and that the
+     subdivider must provide additional information;
+      
+                     (b)    that the lot is suitable for the proposed
+     system and specifying any terms and conditions that must be met;
+      
+                     (c)    that the lot is not suitable for the proposed
+     system and specifying the reasons for this determination.
+      
+            (5)    A written response made by the Department under
+     subsection (4) is deemed to be based on the physical conditions of
+     the lot being subdivided and the abutting properties at the time of
+     the assessment report, and any change in the conditions since the
+     time of the assessment report may nullify any determination by the
+     Department that the lot is suitable.
+
+     Minimum lot requirements for lots being subdivided
+     7     (1)    Except as provided for in subsections (3) and (5), a lot
+     being that is [being] subdivided on which a subdivider proposes to
+     install or construct a system that has a maximum daily flow of up to
+     1500 L per day must meet the minimum lot size requirements set out in
+     the following table:
+
+     Minimum Lot Size Requirements
+     Depth of Permeable Soil (mm) Lot Area Lot Width
+                                   (m2)    (m)
+     0 - 149                      9000     76
+     150 - 299                    6800     60
+     300 - 600                    4500     53
+     601 - 899                    3150     37
+     900 and deeper               2700     37
+      
+            (2)    Except as provided for in subsections (3) and (5), a
+     lot that is being subdivided that is a waterfront lot with permeable
+     soil deeper than 600 mm and on which a subdivider proposes to install
+     or construct a system that has a maximum daily flow of up to 1500 L
+     per day must be a minimum of 3700 m2 in area and have a lot width of
+     a minimum of 45 m.
+      
+            (3)    To prevent an adverse effect, the Department may
+     require a lot that is being subdivided on which a subdivider proposes
+     to install or construct a system that has a maximum daily flow of
+     greater than 1500 L per day to meet lot areas and widths larger than
+     the minimum size requirements set in this Section.
+      
+            (4)    For a lot that is being subdivided on which a
+     subdivider proposes to install or construct a system, the following
+     minimum requirements must be met:
+      
+                     (a)    the lot must have enough soils of the type,
+     permeability, depth and area to support the proposed system on the
+     lot;
+      
+                     (b)    the system must meet the clearance distances
+     required by Section 13.
+      
+            (5)    The minimum lot size requirements in subsections (1)
+     and (2) do not apply to a lot that a subdivider plans to create by
+     consolidating 2 or more parcels of land in accordance with
+     theMunicipal Government Act, if a system can be selected or designed
+     for the proposed lot that complies with the clearance distances in
+     Section 13.
+
+     System Application and Approval
+
+     System approval requirements
+     8     (1)    A person responsible for releasing sewage into the
+     environment, other than through a system for which an approval has
+     been issued, must apply to the Minister for an approval to install or
+     construct a system or to replace an existing system no later than 15
+     days after the date they become aware of the discharge.
+      
+            (2)    A person who installs or constructs a system or causes
+     a system to be installed or constructed without first obtaining an
+     approval as required by Section 50 of the Act may be required by the
+     Department to do any of the following at the person’s expense:
+      
+                     (a)    uncover the system for inspection;
+      
+                     (b)    remove the system;
+      
+                     (c)    modify the system.
+      
+            (3)    A person must not construct, install, use or operate a
+     system or cause a system to be constructed, installed, used or
+     operated if an adverse effect may result.
+
+     Selection and design of system
+     9     (1)    A level 2 qualified person or inspector who selects a
+     system or a level 1 qualified person or departmental engineer who
+     selects or designs a system for a lot must include all of the
+     following in their selection or design:
+      
+                     (a)    the location of any well or other source of
+     water supply on the lot and adjoining lots;
+      
+                     (b)    the topography of the lot;
+      
+                     (c)    the maximum elevation of the groundwater table
+     of the lot;
+      
+                     (d)    the elevation of bedrock on the lot;
+      
+                     (e)    the soil characteristics of the lot;
+      
+                     (f)    the area available for the system on the lot;
+      
+                     (g)    the expected occupancy and intended use of any
+     existing or proposed dwelling, building or structure to be serviced
+     by the system;
+      
+                     (h)    the capacity of the system.
+      
+            (2)    A system must be suitable for the lot it is located on
+     and must be selected or designed from the options and in accordance
+     with the specifications in the On-site Sewage Disposal Systems
+     Technical Guidelines.
+      
+            (3)    Except for a cluster system, a system must be located
+     on the lot on which the building or dwelling the system serves is
+     located.
+      
+            (4)    If there is a change in the selection or design of a
+     system, a person must obtain an amendment to the approval issued for
+     the system before installing or constructing the system or causing
+     the system to be installed or constructed.
+      
+            (5)    A person must not select or design more than 1 system
+     on a lot unless all of the following conditions are met:
+      
+                     (a)    the minimum lot size requirements in Section 7
+     are met for each system proposed on the lot;
+      
+                     (b)    the total of the minimum lot size requirements
+     in Section 7 for each system do not exceed the actual size of the
+     lot;
+      
+                     (c)    each system meets the clearance distances
+     prescribed in Section 13; and
+      
+                     (d)    a separate lot may be created containing the
+     dwelling, building or structure and the system.
+
+     Persons who may select or design systems
+     10   (1)    A system for a single unit detached dwelling or structure
+     must be selected by one of the following:
+      
+                     (a)    a level 1 qualified person;
+      
+                     (b)    a level 2 qualified person;
+      
+                     (c)    an inspector;
+      
+                     (d)    a departmental engineer.
+      
+            (2)    A system for a single unit detached dwelling or
+     structure must be designed by one of the following:
+      
+                     (a)    a level 1 qualified person;
+      
+                     (b)    a departmental engineer.
+      
+            (3)    A system for a commercial, institutional, industrial or
+     residential structure, other than one described in subsection (1)
+     must be designed by one of the following:
+      
+                     (a)    a level 1 qualified person;
+      
+                     (b)    a departmental engineer.
+
+     Review of application for approval
+     11   (1)    During a review of an application for approval, the
+     Minister may require additional test pits to be dug to obtain
+     additional information in accordance with subsection 53(2) of the
+     Act.
+      
+            (2)    During a review of an application for approval, the
+     Minister may require a change in the selection or design of the
+     system, if the selection or design is not as required by these
+     regulations.
+
+     Reason for refusal of approval
+     12   Without restricting the generality of subsection 56(1) of the
+     Act, an approval of a system may be refused by the Minister under
+     subsection 56(1) of the Act for any of the following reasons:
+      
+                     (a)    the selection or design of the system is not
+     as required by these regulations;
+      
+                     (b)    an adverse effect may result from the
+     selection, design, installation or construction of the system;
+      
+                     (c)    an existing municipal system or an approved
+     central sewage collection and treatment system is located within 30 m
+     from the boundary of the lot for the system.
+
+     Clearance distances
+     13   (1)    A person must not install or construct a system or cause
+     a system to be installed or constructed unless the minimum clearance
+     distances are as follows:
+      
+                     (a)    from any part of the system other than a part
+     specified in clause (b), the minimum clearance distances must be
+     greater than or equal to all of the following:
+      
+                              (i)     3 m from all boundaries,
+      
+                              (ii)    9 m from any downslope boundary,
+      
+                              (iii)   15.2 m from any drilled well, if the
+     casing of the well extends 6.1 m or deeper below the surface,
+      
+                              (iv)   30.5 m from any dug well or other
+     domestic water supply,
+      
+                              (v)    8 m from any cistern or contained
+     water system,
+      
+                              (vi)   30.5 m from any surface watercourse,
+     wetland or marine water body,
+      
+                              (vii)  15 m from any down slope drain or
+     ditch that flows intermittently or any artificially created water
+     body, other than an interceptor ditch,
+      
+                              (viii) 6 m from any municipal or private
+     water distribution system,
+      
+                              (ix)   6 m from any foundation drainage
+     system;
+      
+                     (b)    from the septic tank, pump or siphon chamber
+     and the effluent pipe, the minimum clearance distances must be
+     greater than or equal to all of the following:
+      
+                              (i)     3 m from all boundaries,
+      
+                              (ii)    9 m from any downslope boundary,
+      
+                              (iii)   15.2 m from any drilled well, if the
+     casing of the well extends 6.1 m or deeper below the surface,
+      
+                              (iv)   30.5 m from a dug well or other
+     domestic water supply,
+      
+                              (v)    5 m from a cistern or contained water
+     system,
+      
+     (vi) 15.2 m from any surface watercourse or marine water body,
+      
+                              (vii)  30.5 m from any wetland,
+      
+                              (viii) 3 m from any municipal or private
+     water distribution system,
+      
+     (ix)1.5 m from any foundation drainage system.
+      
+            (2)    A person must not install or construct a system or
+     cause a system to be installed or constructed if there is not a
+     minimum vertical separation distance of 1 m between the bottom of the
+     distribution trench of the disposal field and any of the following:
+      
+                     (a)    the bedrock;
+      
+                     (b)    the maximum groundwater table;
+      
+                     (c)    soil with permeability greater than 500 x 10-
+     6 metres per second.
+      
+            (3)    If the Minister considers that a system that conforms
+     with the minimum clearance distances in this Section may cause an
+     adverse effect, the Minister may require greater clearance distances
+     and must provide the reasons in writing to the applicant.
+
+     Installing a system
+     14   (1)    A person who installs or constructs a system or causes a
+     system to be installed or constructed must ensure that the system is
+     installed or constructed in accordance with all of the following:
+      
+                     (a)    the Act;
+      
+                     (b)    these regulations;
+      
+                     (c)    the On-site Sewage Disposal Systems Technical
+     Guidelines;
+      
+                     (d)    any approval issued for the system.
+      
+            (2)    Before a system is constructed or installed, the
+     installer must notify the qualified person, inspector or departmental
+     engineer who selected or designed the system of the proposed date of
+     the installation or construction.
+      
+            (3)    A qualified person must notify the Department before a
+     system is installed or constructed no later than as required by the
+     Department.
+      
+            (4)    Immediately after a system is installed or constructed,
+     the installer must notify the qualified person, inspector or
+     departmental engineer who selected or designed the system that the
+     installation or construction is completed.
+      
+            (5)    If a change in conditions occurs before or during the
+     installation or construction of a system that may have an impact on
+     the suitability of the selection or design that is approved for the
+     system, the installer must immediately
+      
+                     (a)    notify the qualified person, inspector or
+     departmental engineer who selected or designed the system of the
+     change; and
+      
+                     (b)    cease the installation or construction of the
+     system until an amendment of the approval is obtained.
+      
+            (6)    A qualified person, inspector or departmental engineer
+     who is notified of a change in conditions must review the changed
+     conditions and submit a revised application for an approval of the
+     selection or design of the system to the Minister.
+
+     Covering a system
+     15   (1)    Before covering a system or causing a system to be
+     covered, an installer must obtain permission to cover the system from
+     the qualified person, inspector or departmental engineer who selected
+     or designed the system.
+      
+            (2)    An inspector, departmental engineer or qualified person
+     must give an installer permission to cover a system only if the
+     system has an approval issued for it and has been installed as
+     required by these regulations.
+
+     Completion of work form
+     16   (1)    An installer must complete a completion of work form for
+     each system they install or construct immediately after completing
+     the installation or construction of the system.
+      
+            (2)    An installer must send a copy of the completion of work
+     form for a system to the qualified person, inspector or departmental
+     engineer who is required to issue the certificate of installation for
+     the system under subsection 17(1).
+      
+            (3)    A qualified person who receives a completion of work
+     form from an installer must, no later than as required by the
+     Department, send a copy of the completion of work form to the
+     Department.
+
+     Certificate of installation
+     17   (1)    After the installation of a system is complete and the
+     installer has covered the system, the qualified person, inspector or
+     departmental engineer who selected or designed the system must
+     complete a certificate of installation certifying that the system has
+     been installed or constructed as required by these regulations.
+      
+            (2)    Except as provided in subsection (3), only the
+     qualified person, inspector or departmental engineer who selected or
+     designed a system may issue a certificate of installation for the
+     system.
+      
+            (3)    If the qualified person who selected or designed a
+     system has not maintained their qualifications or is dead, ill or
+     otherwise unavailable to issue a certificate of installation for the
+     system, another qualified person may issue the certificate of
+     installation if they make a written request to the Department and
+     written permission is granted.
+      
+            (4)    A qualified person who issues a certificate of
+     installation must, no later than as required by the Department, send
+     a copy of the certificate of installation to all of the following:
+      
+                     (a)    the Department;
+      
+                     (b)    the building inspector;
+      
+                     (c)    the approval holder;
+      
+                     (d)    the installer.
+
+     Refusal to issue certificate of installation
+     18   (1)    A qualified person, inspector or departmental engineer
+     may refuse to issue a certificate of installation for a system that
+     is not installed or constructed as required by these regulations.
+      
+            (2)    A qualified person, inspector or departmental engineer
+     who refuses to issue a certificate of installation must send a
+     written report explaining why the system is not as required by these
+     regulations to the owner of the lot and the Department no later than
+     15 days after the date they are notified that the system is installed
+     or constructed.
+      
+            (3)    A written report prepared by the qualified person must
+     be reviewed by the Department to assess whether the system is as
+     required by these regulations.
+      
+            (4)    An installer, an owner or a qualified person may be
+     required by the Department, at their own expense, to uncover a system
+     that is not as required by these regulations for inspection and to
+     repair or replace the system within a set period of time.
+
+     Auditing and inspecting systems
+     19   (1)    The Department may review any assessment report, plan,
+     certificate of installation or any other information or document
+     prepared by a qualified person.
+      
+            (2)    The Department may audit and inspect any test pits for,
+     or the installation of, a system selected or designed by a qualified
+     person.
+      
+            (3)    When the Department becomes aware of deficiencies in
+     the selection, design, installation or construction of a system, that
+     reveal that it has not been done as required by these regulations,
+     the Department
+      
+                     (a)    must notify all of the following in writing of
+     the deficiencies:
+      
+                              (i)     the qualified person who selected or
+     designed the system,
+      
+                              (ii)    the installer who installed or
+     constructed the system,
+      
+                              (iii)   the owner of the lot for the system;
+     and
+      
+                     (b)    may require any of the persons notified to
+     remedy the deficiencies at their own expense within a set period of
+     time.
+
+     Maintaining a system
+     20   (1)    The owner of a lot must maintain a system installed or
+     constructed on their lot.
+      
+            (2)    The Department may request that a municipality,
+     community or town adopt a sewage maintenance program.
+
+     Malfunctioning system
+     21   (1)    The owner of a lot must ensure proper functioning of a
+     system on their lot and must replace, alter, or repair a
+     malfunctioning system.
+      
+            (2)    An approval may be issued for a selection or design of
+     a replacement system for a malfunctioning system or to alter or
+     repair a malfunctioning system that is not as required by these
+     regulations if the Minister considers that the replacement,
+     alteration or repair will immediately reduce any adverse effects.
+
+     Minor alterations to system
+     22   (1)    In an emergency situation, an installer may make a minor
+     alteration to a system to reduce the potential for an adverse effect,
+     if the alteration is in accordance with the Act, these regulations
+     and the On-site Sewage Disposal Systems Technical Guidelines.
+      
+            (2)    No later than 3 working days after the date that a
+     minor alteration to a system is made, the installer must notify the
+     Department of what was done to the system and must send the
+     Department a written report in a form acceptable to the Department.
+      
+            (3)    The Department may audit and inspect any minor
+     alteration made to a system.
+      
+            (4)    The Department may require an installer to uncover,
+     remove or modify a minor alteration made to a system in an emergency
+     situation within a set period of time if the Department considers
+     that the minor alteration
+      
+                     (a)    is not as required by these regulations; or
+      
+                     (b)    may create an adverse effect.
+
+     Holding tanks
+     23   (1)    Only an installer may install or construct a holding tank
+     or cause a holding tank to be installed or constructed.
+      
+            (2)    A person may install or construct a holding tank
+     pursuant to an approval under any of the following conditions:
+      
+                     (a)    there is an existing malfunctioning system
+     that cannot be corrected by installing another system, other than a
+     pit or vault privy, or by upgrading the existing system;
+      
+                     (b)    the lot does not have a system and all of the
+     following criteria are met:
+      
+                              (i)     the lot was created before August 6,
+     1984,
+      
+                              (ii)    the lot is unsuitable for installing
+     another system, other than a pit or vault privy,
+      
+                              (iii)   the owner has prepared a sewage
+     management program;
+      
+                     (c)    the holding tank is for commercial, industrial
+     or institutional use and meets one of the following conditions:
+      
+                              (i)     it will be used for no longer than 1
+     year,
+      
+                              (ii)    it will be used for no more than 3
+     consecutive months of a year,
+      
+                              (iii)   it will be receiving sewage at a
+     volume of less than 500 L per week.
+      
+            (3)    An owner of a lot must immediately discontinue using a
+     holding tank and connect the dwelling, building or structure to a
+     municipal system or approved central sewage collection and treatment
+     system if one becomes available within 30 m from the boundary of the
+     lot.
+
+     Cluster systems
+     24   (1)    A cluster system must be designed by a level 1 qualified
+     person.
+      
+            (2)    An approval to install or construct a cluster system
+     may be issued if clearance distances and design requirements set out
+     in policies and guidelines adopted by the Department are met.
+
+     Certificates of Qualification
+
+     Level 1 qualified person
+     25   (1)    When requested by a person, the Department must include
+     the name of the person on the list of level 1 qualified persons kept
+     by the department if the person
+      
+                     (a)    provides the Department with proof that they
+     are a professional engineer who is registered to practise in the
+     Province;
+      
+                     (b)    has either
+      
+                              (i)     taken a course of instruction
+     recognized by the Department, or
+      
+                              (ii)    obtained an approval for the design
+     of at least 1 system.
+      
+            (2)    A level 1 qualified person must comply with the
+     requirements of all of the following:
+      
+                     (a)    the Act;
+      
+                     (b)    these regulations;
+      
+                     (c)    any guidelines, standards, and policies
+     established or adopted by the Department.
+      
+            (3)    The Department must keep a list of level 1 qualified
+     persons and make the list available to the public.
+
+     Level 2 qualified person
+     26   (1)    A person must hold a certificate of qualification for a
+     level 2 qualified person to do any of the following:
+      
+                     (a)    hold themself out to be a level 2 qualified
+     person;
+      
+                     (b)    perform any service required by these
+     regulations to be performed by a level 2 qualified person.
+      
+            (2)    A level 2 qualified person may perform any of the
+     following services:
+      
+                     (a)    select a system;
+      
+                     (b)    inspect a system;
+      
+                     (c)    submit an application for an approval of a
+     system and supporting documentation;
+      
+                     (d)    issue a certificate of installation;
+      
+                     (e)    submit a completion of work form;
+      
+                     (f)    conduct lot evaluation and soil assessment.
+      
+            (3)    A certificate of qualification is not required for a
+     person who is assisting a level 2 qualified person.
+      
+            (4)    A person must meet all of the following qualifications
+     to be issued a certificate of qualification as a level 2 qualified
+     person:
+      
+                     (a)    they must demonstrate the minimum academic,
+     practical and technical criteria as adopted by the Department;
+      
+                     (b)    they must successfully complete a written and
+     verbal test of competence in system selection and inspection and
+     demonstrate a working knowledge of the Act, these regulations and the
+     On-site Sewage Disposal Systems Technical Guidelines;
+      
+                     (c)    they must successfully complete a relevant
+     course of instruction established or adopted by the Department;
+      
+                     (d)    they must successfully complete any field test
+     required by the Department to demonstrate practical knowledge of
+     system selection and inspection.
+      
+            (5)    An application for a certificate of qualification for a
+     level 2 qualified person must be
+      
+                     (a)    on a form prescribed by the Department; and
+      
+                     (b)    accompanied by proof of valid professional
+     liability insurance.
+      
+            (6)    A level 2 qualified person must comply with the
+     requirements of all of the following:
+      
+                     (a)    the Act;
+      
+                     (b)    these regulations;
+      
+                     (c)    any guidelines, standards, and policies
+     established or adopted by the Department;
+      
+                     (d)    any certificate of qualification issued to
+     them.
+
+     List of level 2 qualified persons
+     27   The Department must keep a list of level 2 qualified persons and
+     make the list available to the public.
+
+     Written notice of changes to level 2 qualified person’s identifying
+     information
+     28   A level 2 qualified person must notify the Department in writing
+     of any change to their address or to any other identifying
+     information provided with their application no later than 14 days
+     after the date of the change.
+
+     Level 2 qualified person certificate of qualification in possession
+     29   (1)    A level 2 qualified person must carry their valid
+     certificate of qualification at all times while performing the
+     services of a level 2 qualified person.
+      
+            (2)    When requested by an inspector, a level 2 qualified
+     person must present their valid certificate of qualification while
+     performing the services of a level 2 qualified person.
+
+     Level 2 qualified person certificate of qualification expiry and
+     renewal
+     30   (1)    A certificate of qualification issued for a level 2
+     qualified person expires on May 31 of the calendar year immediately
+     after the year it is issued unless a shorter period is specified on
+     the certificate of qualification.
+      
+            (2)    An application for renewal of a certificate of
+     qualification for a level 2 qualified person must be
+      
+                     (a)    on a form established by the Department; and
+      
+                     (b)    accompanied by proof of valid professional
+     liability insurance.
+      
+            (3)    A certificate of qualification issued to a level 2
+     qualified person may be renewed if the level 2 qualified person
+     provides proof that they meet one of the following qualifications:
+      
+                     (a)    they have participated and successfully
+     completed a continuing education program established or approved by
+     the Department;
+      
+                     (b)    they have successfully completed, on a
+     frequency established by the Department, a course of instruction
+     established or adopted by the Department.
+
+     Installers
+     31   (1)    A person must hold a certificate of qualification for an
+     installer to do any of the following:
+      
+                     (a)    hold themself out to be an installer;
+      
+                     (b)    perform any of the following services, other
+     than as listed for a septic-tank cleaner in clause 36(1)(a) or a
+     service excluded in [clause] (2)(b):
+      
+                              (i)     install, construct, repair, modify
+     or alter a system,
+      
+                              (ii)    cause a system to be installed,
+     constructed, repaired, modified or altered.
+      
+            (2)    A certificate of qualification is not required for any
+     of the following persons:
+      
+                     (a)    a person who is assisting an installer while
+     the person is under the direct supervision of the installer during
+     any installation, construction, repair or modification of a system
+     that they assist with;
+      
+                     (b)    a person who installs or constructs a pit
+     privy.
+      
+            (3)    A person must meet all of the following qualifications
+     to be issued a certificate of qualification as an installer:
+      
+                     (a)    they must demonstrate the minimum entry
+     criteria as adopted by the Department;
+      
+                     (b)    they must successfully complete a written and
+     verbal test of competence in system installation and construction and
+     demonstrate a working knowledge of the Act, these regulations and the
+     On-site Sewage Disposal Systems Technical Guidelines;
+      
+                     (c)    they must successfully complete a relevant
+     course of instruction established or adopted by the Department;
+      
+                     (d)    they must successfully complete any field test
+     required by the Department to demonstrate practical knowledge of
+     system installation and construction.
+      
+            (4)    An application for a certificate of qualification for
+     an installer must be
+      
+                     (a)    on a form prescribed by the Department; and
+      
+                     (b)    accompanied by proof of valid general
+     contractors liability insurance.
+      
+            (5)    An installer must comply with the requirements of all
+     of the following:
+      
+                     (a)    the Act;
+      
+                     (b)    these regulations;
+      
+                     (c)    any guidelines, standards, and policies
+     established or adopted by the Department;
+      
+                     (d)    CSA Standard CSA C22.1SB-06, Canadian
+     Electrical Code, as adopted for use in the Province;
+      
+                     (e)    the National Plumbing Code, 2005, issued by
+     the Canadian Commission of Building and Fire Codes of the National
+     Research Council, as adopted for use in the Province;
+      
+                     (f)    any certificate of qualification issued to
+     them.
+
+     List of installers
+     32   The Department must keep a list of installers and make the list
+     available to the public.
+
+     Written notice of changes to installer’s identifying information
+     33   An installer must notify the Department in writing of any change
+     to their address or to any other identifying information provided
+     with their application no later than 14 days after the date of the
+     change.
+
+     Installer certificate of qualification in possession
+     34   (1)    An installer must carry their valid certificate of
+     qualification at all times while performing the services of an
+     installer.
+      
+            (2)    When requested by an inspector, an installer must
+     present their valid certificate of qualification while performing the
+     services of an installer.
+
+     Installer certificate of qualification expiry and renewal
+     35   (1)    A certificate of qualification issued for an installer
+     expires on May 31 of the calendar year after the year it is issued
+     unless a shorter period is specified on the certificate of
+     qualification.
+      
+            (2)    An application for renewal of a certificate of
+     qualification for an installer must be
+      
+                     (a)    on a form established by the Department; and
+      
+                     (b)    accompanied by proof of valid general
+     contractors liability insurance.
+      
+     (3)   A certificate of qualification issued to an installer may be
+     renewed if the installer provides proof that they meet one of the
+     following qualifications:
+      
+                     (a)    they have participated and successfully
+     completed a continuing education program established or approved by
+     the Department;
+      
+                     (b)    they have successfully completed, on a
+     frequency established by the Department, a course of instruction
+     established or adopted by the Department.
+
+     Septic-tank cleaners
+     36   (1)    A person must hold a certificate of qualification for a
+     septic-tank cleaner to do any of the following:
+      
+                     (a)    hold themself out to be a septic-tank cleaner;
+      
+                     (b)    pump, repair or modify a septic tank, holding
+     tank or vault privy or cause a septic tank, holding tank or vault
+     privy to be pumped, repaired or modified;
+      
+                     (c)    pump portable rest rooms or causes portable
+     rest rooms to be pumped;
+      
+                     (d)    clean a system using pressurized water or air.
+      
+            (2)    A certificate of qualification is not required for a
+     person who is assisting a septic-tank cleaner.
+      
+            (3)    A person must meet all of the following qualifications
+     to be issued a certificate of qualification as a septic-tank cleaner:
+      
+                     (a)    they must demonstrate the minimum entry
+     criteria as adopted by the Department;
+      
+                     (b)    they must successfully complete a written and
+     verbal test of competence in pumping, repairing or modifying septic
+     tanks or holding tanks or portable rest rooms and demonstrate a
+     working knowledge of the Act, these regulations and the On-site
+     Sewage Disposal Systems Technical Guidelines;
+      
+                     (c)    they must successfully complete a relevant
+     course of instruction established or adopted by the Department;
+      
+                     (d)    they must successfully complete any field test
+     required by the Department to demonstrate practical knowledge of
+     pumping, repairing or modifying septic tanks or holding tanks or
+     portable rest rooms.
+      
+            (4)    An application for a certificate of qualification for a
+     septic-tank cleaner must be
+      
+                     (a)    on a form prescribed by the Department; and
+      
+                     (b)    accompanied by proof of valid general
+     contractors liability insurance.
+      
+            (5)    A septic-tank cleaner must comply with the requirements
+     of all of the following:
+      
+                     (a)    the Act;
+      
+                     (b)    these regulations;
+      
+                     (c)    any guidelines, standards, and policies
+     established or adopted by the Department;
+      
+                     (d)    any certificate of qualification issued to
+     them.                                                
+
+     List of septic-tank cleaners
+     37   The Department must keep a list of septic-tank cleaners and make
+     the list available to the public.
+
+     Written notice of changes to septic-tank cleaner’s identifying
+     information
+     38   A septic-tank cleaner must notify the Department in writing of
+     any change to their address or to any other identifying information
+     provided with their application no later than 14 days after the date
+     of the change.
+
+     Septic-tank cleaner certificate of qualification in possession
+     39   (1)    A septic-tank cleaner must carry their valid certificate
+     of qualification at all times while performing the services of a
+     septic-tank cleaner.
+      
+            (2)    When requested by an inspector, a septic-tank cleaner
+     must present their valid certificate of qualification while
+     performing the services of a septic-tank cleaner.
+
+     Septic-tank cleaner certificate of qualification expiry and renewal
+     40   (1)    A certificate of qualification issued for a septic-tank
+     cleaner expires on May 31 of the calendar year after the year it is
+     issued unless a shorter period is specified on the certificate of
+     qualification.
+      
+            (2)    An application for renewal of a certificate of
+     qualification for a septic-tank cleaner must be
+      
+                     (a)    on a form established by the Department; and
+      
+                     (b)    accompanied by proof of valid general
+     contractors liability insurance.
+      
+            (3)    A certificate of qualification issued to a septic-tank
+     cleaner may be renewed if the septic-tank cleaner provides proof that
+     they meet one of the following qualifications:
+      
+                     (a)    they have participated and successfully
+     completed a continuing education program established or approved by
+     the Department;
+      
+                     (b)    they have successfully completed, on a
+     frequency established by the Department, a course of instruction
+     established or adopted by the Department.
+
+
+     =====================================================================

@@ -1,0 +1,1503 @@
+
+
+
+     This consolidation is unofficial and is for reference only.  For the
+     official version of the regulations, consult the original documents
+     on file with the _R_e_g_i_s_t_r_y_ _o_f_ _R_e_g_u_l_a_t_i_o_n_s, or refer to the _R_o_y_a_l
+     _G_a_z_e_t_t_e_ _P_a_r_t_ _I_I.
+     Regulations are amended frequently.  Please check the list of
+     _R_e_g_u_l_a_t_i_o_n_s_ _b_y_ _A_c_t to see if there are any recent amendments to these
+     regulations filed with the Registry that are not yet included in this
+     consolidation.
+     Although every effort has been made to ensure the accuracy of this
+     electronic version, the Registry of Regulations assumes no
+     responsibility for any discrepancies that may have resulted from
+     reformatting.
+     This electronic version is copyright © 2009, _P_r_o_v_i_n_c_e_ _o_f_ _N_o_v_a_ _S_c_o_t_i_a,
+     all rights reserved.  It is for your personal use and may not be
+     copied for the purposes of resale in this or any other form.
+
+     =====================================================================
+     Well Construction Regulations
+     made under Sections 66 and 110 of the
+     Environment Act
+     S.N.S. 1994-95, c. 1
+     O.I.C. 2007-483 (September 7, 2007), N.S. Reg. 382/2007
+
+     Interpretation
+
+     Citation
+     1     These regulations may be cited as the Well Construction
+     Regulations.
+
+     Definitions
+     2     In these regulations, the following definitions apply:
+      
+     (a)``Act'' means the Environment Act;
+      
+                     (b)    ``ANSI'' means the American National Standards
+     Institute;
+      
+                     (c)    ``annular space'' means the space between
+      
+                              (i)     the outside of a well casing and in-
+     situ geologic materials, or
+      
+                              (ii)    2 well casings of different
+     diameter;
+      
+                     (d)    ``apron'' means the impermeable seal made of
+     either concrete or bentonite that surrounds a dug well casing;
+      
+                     (e)    ``aquifer'' means a saturated, permeable
+     geologic unit capable of transmitting useful quantities of water to
+     wells and springs;
+      
+                     (f)    ``ASTM'' means the American Society for
+     Testing Materials;
+      
+                     (g)    ``AWWA'' means the American Water Works
+     Association;
+      
+                     (h)    ``certificate holder'' means a person who
+     holds a valid certificate of qualification under these regulations;
+      
+                     (i)     ``Class I well pump installer'' means a
+     person who holds a valid certificate of qualification to install,
+     repair or modify pumps and pumping equipment issued in accordance
+     with Section 8;
+      
+                     (j)     ``Class II well pump installer'' means a
+     person who holds a valid certificate of qualification to install,
+     repair or modify pumps and pumping equipment issued in accordance
+     with Section 7;
+      
+                     (k)    ``clay'' means an extremely fine grained,
+     cohesive soil material that meets the classification for clays as
+     determined under ASTM standard ASTM D2487, Standard Classification of
+     Soils for Engineering Purposes (Unified Soil Classification System),
+     and has a relatively low permeability capable of meeting a
+     laboratory-tested value for hydraulic conductivity of no greater than
+     10-6 cm/s;
+      
+                     (l)     ``contamination'' means an alteration or
+     variation of the physical, chemical, biological or aesthetic
+     properties of water that causes or may cause an adverse effect;
+      
+                     (m)   ``decommission'' means to permanently fill in
+     and seal a well to eliminate the well as a source of water, or as a
+     potential physical hazard and to prevent vertical movement of water
+     within the well;
+      
+                     (n)    ``debris'' means material that is abandoned at
+     a well construction or pumping equipment installation site without
+     the registered owner of the sites permission, but does not include
+     drill cuttings and drilling wastewater;
+      
+                     (o)    ``drilled well'' means a well that is
+     constructed by drilling a hole in the aquifer using a drill, such as
+     a rotary drill, cable tool or jet drill;
+      
+                     (p)    ``drive shoe'' means a commercially
+     manufactured forged or tempered steel sleeve with a cutting edge that
+     is attached to the bottom of a drive pipe or well casing to act as a
+     cutting edge or protector for the lower edge of the drive pipe or
+     well casing as it advances and to make a good seal with the rock
+     formation in the well;
+      
+                     (q)    ``dug well'' means a well that is constructed
+     by digging a hole into the aquifer either manually or mechanically;
+      
+                     (r)    ``flowing well'' means a well from which water
+     overflows periodically or year round without the use of pumping
+     equipment;
+      
+                     (s)    ``grout'' means a stable and impervious
+     bonding material that is capable of preventing the vertical movement
+     of water
+      
+                              (i)     along the outside of a well casing,
+      
+                              (ii)    between well casings and well
+     liners, and
+      
+                              (iii)   in decommissioned wells;
+      
+                     (t)     ``high solids bentonite grout'' means a type
+     of grout consisting of a mixture of powdered or granular bentonite
+     clays and water, that contains at least 20% bentonite solids by
+     weight;
+      
+                     (u)    ``innovative well'' means an alternative type
+     of well that has not been approved for use in the Province and is
+     being installed or constructed for evaluation purposes;
+      
+                     (v)    ``innovative pumping equipment'' means an
+     alternative type of pump or pumping equipment designed for water
+     wells that has not been approved for use in the Province and is being
+     installed or constructed for evaluation purposes;
+      
+                     (w)   ``NSF'' means the National Sanitation
+     Foundation;
+      
+                     (x)    ``on-site sewage disposal system'' means an
+     on-site sewage disposal system as defined in the On-site Sewage
+     Disposal Systems Regulations made under the Act;
+      
+                     (y)    ``pitless adaptor'' means a device that is
+     designed to attach to a well casing below the frost line to
+      
+                              (i)     provide a watertight connection
+     where the waterline passes through the well casing,
+      
+                              (ii)    prevent contaminants from entering
+     the well casing through the water line connection, and
+      
+                              (iii)   provide access to pumping equipment
+     in the well and in the well casing;
+      
+                     (z)    ``pumping equipment'' means pumps and
+     materials used or intended to be used to help withdraw or obtain
+     groundwater from a well and includes all of the following:
+      
+                              (i)     seals and other safeguards for
+     protecting groundwater from contamination,
+      
+                              (ii)    fittings, piping, electrical cables
+     and controls for providing facilities for a potable water supply, and
+      
+                              (iii)   equipment, other than equipment for
+     treating the water supply, in the well and connected accessories as
+     far as the shut-off valve at the outlet to the pressure tank;
+      
+                     (aa)  ``well'' means an artificial opening in the
+     ground made for the purpose of obtaining groundwater supply and
+     includes the well casing and any attached parts, but does not include
+     constructed ponds or dugouts;
+      
+     (ab)``well cap'' means the secure cover of a well;
+      
+                     (ac)  ``well casing'' means a water-tight length of
+     pipe that is used to line and support the upper portion of a well and
+     to prevent surface or subsurface contaminants from entering the well;
+      
+                     (ad)  ``well digger'' means a person who holds a
+     valid certificate of qualification to dig, repair, modify or
+     decommission a dug well issued in accordance with Section 5;
+      
+                     (ae)  ``well driller'' means a person who holds a
+     valid certificate of qualification to drill, repair, modify or
+     decommission drilled wells issued in accordance with Section 4;
+      
+                     (af)   ``well liner'' means a water-tight length of
+     pipe installed inside a well casing that is used to line the well,
+     prevent the collapse of geological material in the well and seal off
+     the well from any contamination sources or for repair or modification
+     purposes;
+      
+                     (ag)  ``well pump installer'' means a Class I well
+     pump installer or a Class II well pump installer who holds a valid
+     certificate of qualification to install, repair or modify pumps and
+     pumping equipment issued in accordance with Sections 7 and 8;
+      
+                     (ah)  ``well screen'' means a tubular, porous device
+     attached at the end of a well casing and designed to allow water into
+     the well and keep sediment out.
+
+     References to codes and standards as amended
+     3     A reference to a code or standard in these regulations is a
+     reference to the latest edition of the code or standard as amended,
+     and as adopted by the Province.
+
+     Certificates of Qualification
+
+     Well drillers
+     4     (1)    Except as provided in subsections (2) and (3), a person
+     must hold a certificate of qualification for a well driller to do any
+     of the following:
+      
+                     (a)    hold themself out as a well driller;
+      
+                     (b)    drill or operate a machine for the purpose of
+     drilling a well;
+      
+                     (c)    construct a drilled well;
+      
+                     (d)    repair a drilled well;
+      
+                     (e)    modify a drilled well;
+      
+                     (f)    decommission a drilled well.
+      
+            (2)    A certificate of qualification is not required for an
+     individual to perform any of the tasks listed in clauses (1)(b) to
+     (f) on lands that they own or lease.
+      
+            (3)    A certificate of qualification is not required for a
+     person assisting a well driller if the person is under the
+     supervision of the well driller while performing any of the tasks
+     listed in clauses (1)(b) to (f).
+      
+            (4)    A person must be at least 18 years old and must meet
+     all of the following qualifications to be issued a certificate of
+     qualification as a well driller:
+      
+                     (a)    they must have at least 4000 hours of work
+     experience in operating a well drilling machine while under the
+     supervision of a well driller;
+      
+                     (b)    they must successfully complete an exam in
+     well drilling and demonstrate knowledge of the Act, these regulations
+     and any guidelines issued or adopted by the Department that relate to
+     well drilling, all to the satisfaction of the Department;
+      
+                     (c)    they must successfully complete a field test
+     that demonstrates their practical knowledge of drilled well
+     construction to the satisfaction of the Department.
+      
+            (5)    A well driller constructing a drilled well or an
+     individual constructing a drilled well on lands that they own or
+     lease must ensure that the drilled well is constructed, and the well
+     casing, well liner or well screen is installed in the drilled well in
+     accordance with the Act, these regulations and any guidelines issued
+     or adopted by the Department that relate to well drilling.
+
+     Well diggers
+     5     (1)    Except as provided in subsections (2) and (3), a person
+     must hold a certificate of qualification for a well digger to do any
+     of the following:
+      
+                     (a)    hold themself out as a well digger;
+      
+                     (b)    manually dig or operate machinery to dig a
+     well;
+      
+                     (c)    construct a dug well;
+      
+                     (d)    repair a dug well;
+      
+                     (e)    modify a dug well;
+      
+                     (f)    decommission a dug well.
+      
+            (2)    A certificate of qualification is not required for an
+     individual to perform any of the tasks listed in clauses (1)(b) to
+     (f) on lands that they own or lease.
+      
+            (3)    A certificate of qualification is not required for a
+     person who is assisting a well digger if the person is under the
+     supervision of the well digger while performing any of the tasks
+     listed in clauses (1)(b) to (f).
+      
+            (4)    A person must be at least 18 years old and must meet
+     all of the following qualifications to be issued a certificate of
+     qualification as a well digger:
+      
+                     (a)    they must have at least 2000 hours of work
+     experience in operating excavation equipment;
+      
+                     (b)    they must provide proof of on-site work
+     experience in constructing at least 3 dug wells while under the
+     supervision of a well digger;
+      
+                     (c)    they must successfully complete an exam in
+     well digging and demonstrate a knowledge of the Act, these
+     regulations and any guidelines issued or adopted by the Department
+     that relate to well digging, all to the satisfaction of the
+     Department;
+      
+                     (d)    they must successfully complete a field test
+     to demonstrate practical knowledge of dug well construction to the
+     satisfaction of the Department.
+      
+            (5)    A well digger constructing a dug well or an individual
+     constructing a dug well on lands that they own or lease must ensure
+     that the dug well is constructed and the well casing is installed in
+     the dug well in accordance with the Act, these regulations and any
+     guidelines issued or adopted by the Department that relate to well
+     digging.
+
+     Well digger and well driller machinery identification
+     6     (1)    A well driller and a well digger must mark all of the
+     following in a conspicuous place on each piece of machinery they use
+     for well drilling or well digging:
+      
+                     (a)    their name;
+      
+                     (b)    their address;
+      
+                     (c)    the number issued to them on their certificate
+     of qualification.
+      
+            (2)    A figure or letter required to be marked on machinery
+     must be at least 50 mm in height.
+
+     Class II well pump installers
+     7     (1)    Except as provided in subsection (2), a person must hold
+     a certificate of qualification for a Class II well pump installer, or
+     a Class I well pump installer, to do any of the following:
+      
+                     (a)    hold themself out as a Class II well pump
+     installer;
+      
+                     (b)    install a pump with a single-phase motor drive
+     of up to and including 1½ HP in a well;
+      
+                     (c)    repair a pump with a single-phase motor drive
+     of up to and including 1½ HP in a well;
+      
+                     (d)    modify pumping equipment for a pump with a
+     single-phase motor drive of up to and including 1½ HP in a well;
+      
+                     (e)    modify a well during the installation of
+     pumping equipment for a pump with a single-phase motor drive of up to
+     and including 1½ HP.
+      
+            (2)    A certificate of qualification is not required for an
+     individual to perform any of the tasks listed in clauses (1)(b) to
+     (e) on lands that they own or lease.
+      
+            (3)    A certificate of qualification is not required for a
+     person who is assisting a Class II well pump installer if the person
+     is under the supervision of a Class I well pump installer or a Class
+     II well pump installer while performing any of the tasks in clauses
+     (1)(b) to (e).
+      
+            (4)    Except as provided in subsection (5) for a person who
+     holds a journeymans certificate of qualification, a person must meet
+     all the following qualifications to be issued a certificate of
+     qualification as a Class II well pump installer:
+      
+                     (a)    they must have at least 3000 hours of general
+     work experience while under the supervision of Class I well pump
+     installer or a Class II well pump installer;
+      
+                     (b)    they must have specific experience in
+     installing at least 20 well pumps while under the supervision of a
+     Class I well pump installer or a Class II well pump installer within
+     the 5 years immediately before they apply for the certificate;
+      
+                     (c)    they must successfully complete an exam in
+     Class II well pump installation and demonstrate knowledge of the Act,
+     these regulations and any guidelines issued or adopted by the
+     Department that relate to pumping equipment installation, all to the
+     satisfaction of the Department.
+      
+            (5)    A person who holds a journeymans certificate of
+     qualification under the Plumber Trade Regulations made under the
+     Apprenticeship and Trades Qualifications Act and who meets the
+     qualifications in clause -(-1-)-(-c-) [(4)(c)] may be issued a certificate
+     of qualification as a Class II well pump installer.
+      
+            (6)    Any tasks performed by a Class II well pump installer
+     under their certificate of qualification must be in accordance with
+     the Act, these regulations and any guidelines issued or adopted by
+     the Department that relate to pumping equipment installation.
+
+     Class I well pump installers
+     8     (1)    Except as provided in subsection (2), a person must hold
+     a certificate of qualification for a Class I well pump installer to
+     do any of the following:
+      
+                     (a)    hold themself out as a Class I well pump
+     installer;
+      
+                     (b)    install a pump of over 1½ HP single-phase
+     motor drive, or multi-phase motor drive of any size, in a well;
+      
+                     (c)    repair a pump of over 1½ HP single-phase motor
+     drive, or multi-phase motor drive of any size, in a well;
+      
+                     (d)    modify pumping equipment for a pump of over 1½
+     HP single-phase motor drive, or multi-phase motor drive of any size,
+     in a well;
+      
+                     (e)    modify a well during the installation of
+     pumping equipment for a pump of over 1½ HP single-phase motor drive,
+     or multi-phase motor drive of any size.
+      
+            (2)    A certificate of qualification is not required for a
+     person who is assisting a Class I well pump installer if the person
+     is under the supervision of a Class I well pump installer while
+     performing any of the tasks in clauses (1)(b) to (e).
+      
+            (3)    A person must meet all the following qualifications to
+     be issued a certificate of classification [qualification] as a Class
+     I well pump installer:
+      
+                     (a)    they must hold a certificate of qualification
+     for a Class II well pump installer;
+      
+                     (b)    they must have at least 1000 hours of general
+     work experience installing single- or multi-phase motor drive water
+     pumps greater than 1½ HP while under the supervision of a Class I
+     well pump installer;
+      
+                     (c)    they must successfully complete an exam in
+     theoretical aspects of Class I well pump installation to the
+     satisfaction of the Department.
+      
+            (4)    Any tasks performed by a Class I well pump installer
+     under their certificate of qualification must be in accordance with
+     the Act, these regulations and any guidelines issued or adopted by
+     the Department that relate to pumping equipment installation.
+
+     Application for certificate of qualification
+     9     (1)    An application for a certificate of qualification under
+     these regulations must be
+      
+                     (a)    on a form approved by the Department; and
+      
+                     (b)    accompanied by proof of commercial general
+     liability insurance.
+      
+            (2)    A certificate of qualification issued under these
+     regulations expires on December 31 of the calendar year for which it
+     is issued unless a shorter period is specified on the certificate of
+     qualification.
+      
+            (3)    An applicant who fails to meet the qualifications for a
+     certificate of qualification under these regulations cannot reapply
+     for a certificate of qualification for at least 90 days after the
+     date of the initial application.
+
+     Renewing certificate of qualification
+     10   A certificate holder may apply to renew their certificate of
+     qualification by following the application requirements of Section 9
+     and providing proof that they have participated in and successfully
+     completed a continuing education program established or adopted by
+     the Department.
+
+     Refusal to issue or renew certificate of qualification
+     11   (1)    An application for a certificate of qualification or for
+     renewal of a certificate of qualification under these regulations may
+     be refused by the Minister if the applicant or certificate holder
+     fails to comply with the Act, these regulations, or any term or
+     condition imposed by their certificate of qualification.
+      
+            (2)    The Minister must notify an applicant or certificate
+     holder in writing of a refusal to issue or renew a certificate of
+     qualification together with reasons for the decision.
+
+     Financial security for certificate holder
+     12   (1)    When deciding whether an applicant must provide financial
+     security, the Minister must consider the past performance of the
+     applicant and any indication that the applicant poses a risk for
+     causing an adverse effect when drilling, digging, constructing,
+     repairing, modifying or decommissioning a well or installing,
+     repairing or modifying pumping equipment.
+      
+            (2)    When deciding whether an applicant must provide
+     financial security, the Minister may consider recommendations from
+     the On-site Services Advisory Board established under the On-site
+     Services Advisory Board Regulations made under the Act.
+
+     Certificate of qualification in possession
+     13   (1)    A certificate holder must carry their valid certificate
+     of qualification while performing any task that requires the
+     certificate of qualification under these regulations.
+      
+            (2)    A certificate holder must present their valid
+     certificates of qualification to an inspector or an owner of a
+     property where the certificate holder is working when requested.
+      
+            (3)    A certificate holder must notify the Department in
+     writing of any change to their address or to any other identifying
+     information provided with their application no later than 14 days
+     after the date of the change.
+
+     Location of Wells
+
+     Surface water must not enter well
+     14   (1)    A person must not construct a well in a manner or
+     location that could allow surface water to enter the well or aquifer.
+      
+            (2)    The owner of a well that is constructed in a location
+     where surface water run-off passes over or near the opening of the
+     well must ensure that all of the following are done:
+      
+                     (a)    the area immediately surrounding the well is
+     filled with clay or clean earth for a distance of at least 4.5 m in
+     all directions from the well;
+      
+                     (b)    the area immediately surrounding the well is
+     graded to an elevation of at least 610 mm above the highest known
+     surface water level.
+
+     Well must be accessible
+     15   A well must be located and maintained so that it can be accessed
+     to clean, repair or inspect the well or test or treat the water
+     supply in the well.
+
+     Distances from sources of potential contamination
+     16   (1)    A person must construct a well so that it is located far
+     enough away from a source of potential contamination to prevent
+     contamination of the well.
+      
+            (2)    Except as provided in Section 18, a person must not
+     construct a well closer than the minimum distances from sources of
+     potential contamination as set out in the following table:
+
+        Source of Potential       Type of Well   Minimum Distance from
+           Contamination                                 Well
+     cesspool (receiving raw drilled well or dug             61 m
+     sewage)                 well
+     on-site sewage disposal drilled well                   15.2 m
+     system                  dug well                       30.5 m
+     sewer of tightly        drilled well                   15.2 m
+     jointed pipe or         dug well                       30.5 m
+     equivalent material,
+     sewer-connected
+     foundation or floor
+     drain, or water
+     treatment discharge
+     point
+     sewer with secondary    drilled well or dug              3 m
+     containment, roof       well
+     drainage discharge
+     point, non-sewer-
+     connected foundation or
+     floor drain, or cistern
+     pumphouse floor drain   drilled well or dug            610 mm
+                             well
+     above-ground petroleum  drilled well                     5 m
+     storage tank system     dug well                       15.2 m
+     with a capacity of 1200
+     L or less
+     above-ground petroleum  drilled well or dug            15.2 m
+     tank storage system     well
+     with a capacity of
+     greater than 1200 L
+     underground petroleum   drilled well or dug            15.2 m
+     storage tank system     well
+     outer boundary of any   drilled well or dug             6.1 m
+     public road or public   well
+     highway
+     solid waste management  drilled well or dug             61 m
+     facility, landfill,     well
+     former dump site or
+     other significant
+     source of potential
+     contamination
+
+     No wells constructed in basements
+     17   Except as provided in Section 18, a person must not construct a
+     well in the basement of a building.
+
+     Exemptions for alternative well locations
+     18   (1)    An owner, or a certificate holder or registered
+     professional hydrogeologist on behalf of an owner, may submit an
+     application in writing to the Minister to request acceptance of a
+     well location that is
+      
+                     (a)    in a basement; or
+      
+                     (b)    closer to a source of potential contamination
+     than set out in subsection 16(2).
+      
+            (2)    An applicant under subsection (1) must provide details
+     in writing for all of the following:
+      
+                     (a)    reason or reasons an alternative well location
+     is requested or is necessary;
+      
+                     (b)    how the alternative well location will still
+     ensure that no adverse effects occur to groundwater or surface water;
+      
+                     (c)    for a well that a person proposes to construct
+     in a basement, how proper drainage, accessibility in accordance with
+     Section 15, and protection from contamination sources can be
+     achieved.
+      
+            (3)    The Minister may accept an alternative well location
+     under this Section in writing if, in the opinion of the Minister, the
+     information provided shows that it is not likely to create an adverse
+     effect.
+      
+            (4)    The Minister may place terms and conditions on an
+     acceptance of an alternative well location.
+      
+            (5)    The Minister may refuse to accept an alternative well
+     location in writing if any of the following apply:
+      
+                     (a)    allowing the alternative well location would
+     violate the intent of the Act or these regulations;
+      
+                     (b)    the reasons for the alternative well location
+     result from willful or intentional disregard of the Act or these
+     regulations;
+      
+                     (c)    the minimum clearance distances set out in
+     subsection 16(2) can be met.
+      
+            (6)    The Minister must give the applicant the reasons, in
+     writing, for refusing to accept an alternative well location.
+
+     Well Construction and Materials
+
+     Requested notification of Department before constructing, repairing
+     or modifying well
+     19   (1)    If requested by an inspector or the Department, a well
+     driller or well digger must notify the Department of their intent to
+     drill, dig, construct, repair or modify a well no later than 24 hours
+     before they begin the work.
+      
+            (2)    A notice to the Department under subsection (1) must
+     include all of the following:
+      
+                     (a)    the name and the number issued to the well
+     driller or well digger on their certificate of qualification;
+      
+                     (b)    the nature and location of the work to be
+     conducted;
+      
+                     (c)    the site owners name, address and phone
+     number;
+      
+                     (d)    the anticipated work schedule;
+      
+                     (e)    a phone number for the well driller or well
+     digger while on site.
+      
+            (3)    An individual who intends to drill, dig or construct a
+     well on lands they own or lease must notify the Department no later
+     than 24 hours before they begin the work.
+      
+            (4)    A notice to the Department under subsection (3) must
+     include all of the following:
+      
+                     (a)    the name, address and on-site phone number of
+     the individual conducting the work;
+      
+                     (b)    the nature and location of the work to be
+     conducted;
+      
+                     (c)    the site owners name, address and phone
+     number;
+      
+                     (d)    the anticipated work schedule.
+
+     Wells constructed to prevent adverse effects
+     20   A person must not construct a well so that it causes or may
+     cause an adverse effect.
+
+     Drilling, constructing, repairing and modifying drilled wells
+     21   (1)    A well casing must be installed in each drilled well.
+      
+            (2)    A well casing, well liner or well screen installed in a
+     drilled well must be installed so that all of the following
+     requirements are met:
+      
+                     (a)    the well casing is at least 6.1 m long;
+      
+                     (b)    the well casing extends at least 152 mm above
+     the ground surface when the well is completed;
+      
+                     (c)    there is a minimum annular space of 25 mm
+     outside the well casing and in between well casings and well liners
+     of different diameters;
+      
+                     (d)    the well casing is adequately sealed and
+     prevents water or any other substance from leaking into the well from
+     an annular space, the drive shoe or the well casing interface with
+     subsurface geologic materials;
+      
+                     (e)    for a steel well casing, a drive shoe is
+     attached to the bottom of the well casing and is firmly sealed with
+     the bedrock or consolidated geologic formations;
+      
+                     (f)    except when remediating a well under clause
+     (g), a seal of high solids bentonite grout or other grout extends
+     upward in the annular space for at least 1 m from the base of the
+     well casing and seals the annular space;
+      
+                     (g)    for a well liner that is installed to repair
+     or modify a well to remediate well water contamination, a seal of
+     high solids bentonite grout or other grout extends upward in the
+     annular space from the base of the well liner to as near surface as
+     is practical;
+      
+                     (h)    any remaining volume of the outer borehole
+     annulus is filled in with grout, drill cuttings or impermeable soil
+     to the ground surface and prevents surface water from entering the
+     annular space;
+      
+                     (i)     well casing is welded or otherwise connected
+     to any well screen used;
+      
+                     (j)     any natural or manufactured filter pack
+     materials used in conjunction with a well screen are developed after
+     installation and are made of material suitable for potable water
+     applications;
+      
+                     (k)    any additives, such as water, stabilization
+     muds or foams used do not contain toxic substances.
+      
+            (3)    Any water used for constructing a drilled well must be
+     from one of the following:
+      
+                     (a)    a municipal water supply that holds a valid
+     approval;
+      
+                     (b)    a public drinking water supply that is
+     registered with the Department and is monitored and tested in
+     accordance with the Water and Wastewater Facilities and Public
+     Drinking Water Supplies Regulations made under the Act;
+      
+                     (c)    a non-registered drinking water supply that is
+     monitored and tested in the same manner as [a] registered public
+     drinking water supply under the Water and Wastewater Facilities and
+     Public Drinking Water Supplies Regulations made under the Act and
+     that meets the health-related concentration limits for substances
+     listed in the current edition of the Guidelines for Canadian Drinking
+     Water Quality, published by the federal Department of Health.
+      
+            (4)    Test records for a non-registered drinking water supply
+     referred to in clause (3)(c) must be kept at the registered address
+     of the well driller for at least 2 years.
+
+     Well casings in drilled wells
+     22   A well casing used in a drilled well must meet all the following
+     material requirements:
+      
+                     (a)    it must be made of made of new material that
+     is free of contamination;
+      
+                     (b)    it must be made of either steel or
+     thermoplastic;
+      
+                     (c)    it must have an inside diameter of at least
+     152 mm;
+      
+                     (d)    all steel well casings must conform to one of
+     the following standards:
+      
+                              (i)     for carbon steel well casings, ASTM
+     standard ASTM A589, Standard Specification for Seamless and Welded
+     Carbon Steel Water-Well Pipe, for Type IV Water-Well Casing Pipe,
+     Grade B, or
+      
+                              (ii)    for steel pipes, ASTM standard ASTM
+     A53/A53M, Standard Specification for Pipe, Steel, Black and Hot-
+     Dipped, Zinc-Coated, Welded and Seamless, for Type E, Grade B pipes;
+      
+                     (e)    a steel well casing with an inside diameter of
+     152 mm must have a wall thickness of at least 4.7 mm;
+      
+                     (f)    a thermoplastic well casing with an inside
+     diameter of 152 mm must have a wall thickness of at least 7.1 mm, and
+     must conform to ASTM standard ASTM F480, Standard Specification for
+     Thermoplastic Well Casing Pipe and Couplings Made in Standard
+     Dimension Ratios (SDR), SCH 40 and SCH 80;
+      
+                     (g)    a thermoplastic well casing with an inside
+     diameter of greater than 152 mm must have a wall thickness that meets
+     or exceeds the specifications set out for standard dimension ratio
+     (SDR) 17, or Schedule 80 of ASTM standard ASTM F480, Standard
+     Specification for Thermoplastic Well Casing Pipe and Couplings Made
+     in Standard Dimension Ratios (SDR), SCH 40 and SCH 80.
+
+     Well liners in drilled wells
+     23   A well liner used in a drilled well must meet all of the
+     following requirements:
+      
+                     (a)    it must be made of new material and free of
+     contamination;
+      
+                     (b)    it must be made of steel or thermoplastic;
+      
+                     (c)    it must have an inside diameter of at least
+     102 mm;
+      
+                     (d)    all steel well liners must conform to one of
+     the following standards:
+      
+                              (i)     for carbon steel well casings, ASTM
+     standard ASTM A589, Standard Specification for Seamless and Welded
+     Carbon Steel Water-Well Pipe, for Type IV Water-Well Casing Pipe,
+     Grade B, or
+      
+                              (ii)    for steel pipes, ASTM standard ASTM
+     A53/A53M, Standard Specification for Pipe, Steel, Black and Hot-
+     Dipped, Zinc-Coated, Welded and Seamless, for Type E, Grade B pipes;
+      
+                     (e)    a steel well liner with an inside diameter of
+     102 mm must have a wall thickness of at least 3.6 mm;
+      
+                     (f)    a thermoplastic well liner with an inside
+     diameter of 102 mm must have a wall thickness of at least 6.0 mm and
+     must conform to ASTM standard ASTM F480, Standard Specification for
+     Thermoplastic Well Casing Pipe and Couplings Made in Standard
+     Dimension Ratios (SDR), SCH 40 and SCH 80;
+      
+                     (g)    a thermoplastic well liner with an inside
+     diameter of greater than 102 mm must have a wall thickness that meets
+     or exceeds the specifications set out in the standard dimension ratio
+     (SDR) 17, or Schedule 80 in ASTM standard ASTM F480, Standard
+     Specification for Thermoplastic Well Casing Pipe and Couplings Made
+     in Standard Dimension Ratios (SDR), SCH 40 and SCH 80.
+
+     Well screens in drilled wells
+     24   A well screen used in a drilled well in unconsolidated or
+     unstable geologic formations must be
+      
+                     (a)    properly designed to meet supply requirements
+     for the well; and
+      
+                     (b)    manufactured from materials designed to be
+     used for potable water supplies.
+
+     Well caps in drilled wells
+     25   (1)    Except as provided in subsection (2) for a flowing well,
+     a well cap that is used in a drilled well must meet all of the
+     following requirements:
+      
+                     (a)    it must be made of suitable durable materials
+     and not deteriorate in sunlight;
+      
+                     (b)    it must be fitted with a gasket for sealing
+     and attaching it to the top of a well casing that prevents anything
+     from entering the well through the gasket;
+      
+                     (c)    it must be vermin-proof;
+      
+                     (d)    it must contain a vent that is
+      
+                              (i)     at least 12 mm in diameter, and
+      
+                              (ii)    shielded and screened in a manner
+     that prevents any solid or liquid substance from entering into the
+     well;
+      
+                     (e)    it must incorporate a sealing device to
+     accommodate power cables into the well.
+      
+            (2)    A well cap for a flowing drilled well must meet all of
+     the following requirements:
+      
+                     (a)    it must be made of suitable durable materials
+     and not deteriorate in sunlight;
+      
+                     (b)    it must be fitted with a gasket for sealing
+     and attaching it to the top of a well casing that prevents anything
+     from entering the well through the gasket;
+      
+                     (c)    it must be vermin-proof.
+
+     Digging, constructing, repairing and modifying dug wells
+     26   (1)    A well casing must be installed in each dug well.
+      
+            (2)    A dug well must be constructed so that all the
+     following requirements are met:
+      
+                     (a)    the well casing is at least 1.8 m long;
+      
+                     (b)    the well casing extends at least 152 mm above
+     the ground surface at the well;
+      
+                     (c)    drainage of surface water at the well head is
+     away from the well;
+      
+                     (d)    there is a concrete or hydrated bentonite
+     apron at least 152 mm thick around the well that
+      
+                              (i)     is placed below the frost line but
+     above the water table, and
+      
+                              (ii)    extends a minimum distance of 914 mm
+     from the perimeter of the well and has a minimum slope of 21 mm/m;
+      
+                     (e)    the annular space from the bottom of the well
+     up to the apron is filled with natural or manufactured filter pack
+     materials suitable for potable water applications;
+      
+                     (f)    all joints in the well casing above the apron
+     are water-tight and sealed with a non-toxic sealer suitable for
+     potable water applications;
+      
+                     (g)    the annular space above the apron is filled to
+     the ground surface with one of the following, preventing surface
+     water from entering the well:
+      
+                              (i)     cement grout,
+      
+                              (ii)    concrete,
+      
+                              (iii)   bentonite or other clays,
+      
+                              (iv)   a commercial grout;
+      
+                     (h)    piping connections to the well casing below
+     ground are water-tight and sealed with a durable non-toxic sealer
+     suitable for potable water applications;
+      
+                     (i)     piping connection excavations are filled with
+     one of the following, preventing surface water from entering the
+     well:
+      
+                              (i)     cement grout,
+      
+                              (ii)    concrete,
+      
+                              (iii)   bentonite or other clays,
+      
+                              (iv)   a commercial grout;
+      
+                     (j)     any additives used, such as water,
+     stabilization muds or foams, do not contain toxic substances.
+      
+            (3)    Any water used for constructing a dug well must be from
+     one of the following:
+      
+                     (a)    a municipal water supply that holds a valid
+     approval;
+      
+                     (b)    a public drinking water supply that is
+     registered with the Department and is monitored and tested in
+     accordance with the Water and Wastewater Facilities and Public
+     Drinking Water Supplies Regulations made under the Act;
+      
+                     (c)    a non-registered drinking water supply that it
+     is monitored and tested in the same manner as registered public
+     drinking water supplies under the Water and Wastewater Facilities and
+     Public Drinking Water Supplies Regulations made under the Act and
+     meets the health-related concentration limits for substances listed
+     in the current edition of the Guidelines for Canadian Drinking Water
+     Quality published by the federal Department of Health.
+      
+            (4)    Test records for a non-registered drinking water supply
+     referred to in clause (3)(c) must be kept at the registered address
+     of the well digger for at least 2 years.
+
+     Well casings in dug wells
+     27   A well casing used in a dug well must meet one of the following
+     material requirements:
+      
+                     (a)    a well casing made of precast concrete rings
+     with grooved joints must be made of materials suitable for potable
+     water applications;
+      
+                     (b)    steel or thermoplastic well casings must meet
+     the material requirements for well casings in drilled wells in
+     Section 22.
+
+     Filter pack materials in dug wells
+     28   Any natural or manufactured filter pack materials used in a dug
+     well must consist of one of the following types of materials, all of
+     which must be clean, relatively uniformly graded and free of
+     substances that may cause contamination:
+      
+                     (a)    sand;
+      
+                     (b)    washed gravel consisting of granule-size,
+     pebble-size or cobble-size stone;
+      
+                     (c)    crushed and washed rock consisting of granule-
+     size, pebble-size or cobble-size stone.
+
+     Sealing materials in dug wells
+     29   Sealing material for joints in concrete ring seals used to
+     construct a dug well must be made from one of the following:
+      
+     (a)a sand and cement mortar mix;
+      
+                     (b)    a flexible sealing compound that is certified
+     non-toxic by the manufacturer.
+
+     Aprons in dug wells
+     30   An apron used in a dug well must be made of one of the
+     following:
+      
+                     (a)    concrete poured in place;
+      
+                     (b)    bentonite chips or pellets that have been
+     hydrated after they are put in place by wetting with water.
+
+     Well caps in dug wells
+     31   (1)    Except as provided in subsection (2) for flowing dug
+     wells, a well cap used in a dug well must meet all of the following
+     requirements:
+      
+                     (a)    for a dug well with a concrete well casing, it
+     must be made of reinforced concrete and be at least 75 mm thick;
+      
+                     (b)    for a dug well with a steel or plastic well
+     casing, it must
+      
+                              (i)     be made of suitable durable
+     materials and not deteriorate in sunlight,
+      
+                              (ii)    be fitted with a gasket for sealing
+     and attaching it to the top of a well casing that prevents anything
+     from entering the well through the gasket,
+      
+                              (iii)   be vermin-proof,
+      
+                              (iv)   contain a screened vent of at least
+     12 mm in diameter, and
+      
+                              (v)    incorporate a sealing device to
+     accommodate power cables to the well.
+      
+            (2)    A well cap for a flowing dug well must meet all of the
+     following requirements:
+      
+                     (a)    it must be made of suitable durable materials
+     and not deteriorate in sunlight;
+      
+                     (b)    for a dug well with steel or plastic casing,
+     it must be fitted with a gasket for sealing and attaching it to the
+     top of a well casing that prevents anything from entering the well
+     through the gasket;
+      
+                     (c)    it must be vermin-proof.
+
+     Well completion
+     32   After a well driller, a well digger or an individual conducting
+     work on lands that they own or lease has finished drilling, digging,
+     constructing, repairing or modifying a well they must immediately do
+     all of the following:
+      
+                     (a)    remove and properly dispose [of] all debris
+     from in and around the well;
+      
+                     (b)    conduct a basic yield test if required under
+     Section 33;
+      
+     (c)disinfect the well;
+      
+                     (d)    seal the upper open end of the well casing
+     with a well cap or hand pump in a manner that prevents any substance
+     from entering the well that could impair the quality of the water in
+     the well;
+      
+                     (e)    create a slightly mounded ground surface
+     around the top of the well capable of draining away immediate surface
+     precipitation, in addition to meeting the requirements of Section 14,
+     when necessary;
+      
+                     (f)    complete a well construction record, as
+     required in Section 46.
+
+     Basic yield tests
+     33   (1)    A well driller, a well digger or an individual conducting
+     work on lands that they own or lease must conduct a basic yield test
+     under this Section before finishing construction on any of the
+     following wells:
+      
+                     (a)    a new well;
+      
+                     (b)    a well that has been modified or repaired by
+     methods that are expected to change the water yield of the well.
+      
+            (2)    A basic yield test to estimate the sustainable volume
+     of water a well may produce over time must be one of the following:
+      
+                     (a)    a bail or air lift test of at least 1 hours
+     duration;
+      
+                     (b)    a pumping test of at least 2 hours duration.
+      
+            (3)    A well driller, a well digger or an individual
+     conducting work on lands that they own or lease must monitor and
+     record all of the following for a basic yield test:
+      
+                     (a)    the static water level in the well immediately
+     before the test;
+      
+                     (b)    the subsequent yield rate of the basic yield
+     test;
+      
+                     (c)    water level recovery measurements after
+     pumping stops for
+      
+                              (i)     an equivalent duration to the basic
+     yield test, or
+      
+                              (ii)    the amount of time it takes for at
+     least 95% of the original water level to be recovered.
+      
+            (4)    An owner who anticipates a water withdrawal rate of
+     greater than 23 000 L per day must comply with any approval
+     requirements under the Activities Designation Regulations made under
+     the Act.
+
+     Modifications and repairs to well
+     34   If a well is being repaired or modified to prevent or stop an
+     adverse effect to groundwater, any materials or methods used must
+     meet these regulations.
+
+     Modifications to well required by inspector
+     35   (1)    If, in the opinion of an inspector, a well is not
+     constructed as required by these regulations and the well
+     construction may result in an adverse effect to groundwater, the
+     inspector may require the well to be modified as the inspector
+     considers necessary to bring the well construction into compliance.
+      
+            (2)    An inspector must notify either the certificate holder
+     who constructed the well or the owner in writing of any modification
+     required to a well and of the date by which the modification must be
+     completed.
+      
+            (3)    A certificate holder or owner must complete the
+     required modification to the satisfaction of the inspector by the
+     date specified in the written notice.
+
+     Pumping Equipment Installation and Materials
+
+     Requested notification of Department before constructing, repairing
+     or modifying pumping equipment
+     36   (1)    If requested by an inspector or the Department, a well
+     pump installer must notify the Department of their intent to install
+     pumping equipment no later than 24 hours before they begin the work.
+      
+            (2)    A notice to the Department under subsection (1) must
+     include all of the following:
+      
+                     (a)    the name and the number issued to the well
+     pump installer on their certificate of qualification;
+      
+                     (b)    the nature and location of the work to be
+     conducted;
+      
+                     (c)    the site owners name, address and phone
+     number;
+      
+                     (d)    the anticipated schedule of work;
+      
+                     (e)    a phone number for the well pump installer
+     while on site.
+
+     Installing, repairing and modifying pumps or pumping equipment
+     37   (1)    All installations, repairs or modifications of pumping
+     equipment within a well, or in-line as far as the shut off valve at
+     the outlet to the pressure tank, must be done in accordance with all
+     of the following:
+      
+                     (a)    the Act;
+      
+                     (b)    these regulations;
+      
+                     (c)    the National Plumbing Code of Canada, 2005
+     issued by the Canadian Commission of Building and Fire Codes of the
+     National Research Council;
+      
+                     (d)    CSA standard CSA C22.1-06, Canadian Electrical
+     Code, Part I (20th edition), Safety Standard for Electrical
+     Installations.
+      
+            (2)    Before any pumping equipment is installed in a well,
+     the well must first be assessed to determine the diameter of the
+     well, the depth of the well and the static water level.
+      
+            (3)    The diameter of pumping equipment installed in a well
+     must be at least 25 mm smaller than the diameter of the open
+     borehole, well casing and well screen.
+      
+            (4)    A hand pump installed in a well must be mounted to the
+     well casing or pump mounting sleeve in a manner that seals the top of
+     the well casing or sleeve and prevents any solid or liquid substance
+     from entering the well.
+      
+            (5)    A water sampling port or a tap must be installed in a
+     well at a point between the well pump and any water treatment device.
+
+     Pitless adaptors
+     38   (1)    Except for a well that contains a hand pump, a pitless
+     adaptor must be installed in any new drilled well.
+      
+            (2)    A pitless adaptor must not be installed so that
+     different metals contact each other.
+      
+            (3)    A hole cut into the well casing for a pitless adaptor
+     must be sufficiently smaller than the pitless adaptor sealing gasket
+     to create a completely water-tight seal and must be cut in the well
+     casing with equipment, such as a circular hole saw or a cutting or
+     welders torch used with a template.
+      
+            (4)    A pitless adaptor must meet all of the following:
+      
+                     (a)    it must incorporate a sealing gasket to form a
+     water-tight connection;
+      
+                     (b)    it must have a quick connection that allows
+     easy removal of pumping equipment within the well;
+      
+                     (c)    it must be made of durable materials suitable
+     for potable water application[s].
+
+     Plastic pipes and fittings used for installing pumps
+     39   Plastic pipes and any fittings used for installing pumping
+     equipment must conform to either NSF/ANSI standard NSF/ANSI 14,
+     Plastic Piping System Components and Related Materials, or ANSI/AWWA
+     standard ANSI/AWAA C901, Polyethylene (PE) Pressure Pipe and Tubing,
+     ½ In. (13 mm) Through 3 In. (76 mm), for Water Service.
+
+     Pumping equipment installation completion
+     40   After installing or repairing pumping equipment in a well, a
+     person must immediately do all of the following:
+      
+                     (a)    remove all debris from within and around the
+     well;
+      
+                     (b)    disinfect the well;
+      
+                     (c)    seal the upper open end of the well casing
+     with a well cap or hand pump in a manner that prevents any substance
+     from entering the well that could impair the quality of the water in
+     the well;
+      
+                     (d)    complete a pump installation record for each
+     pump installed, as required in Section 48.
+
+     Innovative Wells and Innovative Pumping Equipment
+
+     Exemptions for innovative wells and innovative pumping equipment
+     41   (1)    Despite any other requirement in these regulations, a
+     certificate holder or a registered professional hydrogeologist may,
+     on behalf of an owner, submit an application in writing to the
+     Minister to request acceptance for an innovative well or innovative
+     pumping equipment that does not meet the requirements of these
+     regulations.
+      
+            (2)    An applicant under subsection (1) must provide details
+     in writing for all of the following:
+      
+                     (a)    reasons why an innovative well or innovative
+     pumping equipment is requested or is necessary;
+      
+                     (b)    how an innovative well or innovative pumping
+     equipment will still ensure that no adverse effects occur to
+     groundwater or surface water.
+      
+            (3)    The Minister may accept an innovative well or
+     innovative pumping equipment under this Section in writing if, in the
+     opinion of the Minister, the information provided shows that it is
+     not likely to create an adverse effect.
+      
+            (4)    The Minister may place terms and conditions on an
+     acceptance of an innovative well or innovative pump, including
+     specifying which provisions of these regulations the installation of
+     the well or pumping equipment must meet.
+      
+            (5)    The Minister may refuse to accept an innovative well or
+     innovative pumping equipment if any of the following apply:
+      
+                     (a)    allowing the innovative well or innovative
+     pumping equipment would violate the intent of the Act or these
+     regulations;
+      
+                     (b)    the reason or reasons for the innovative well
+     or innovative pumping equipment result from willful or intentional
+     disregard of the Act or these regulations.
+      
+            (6)    The Minister must give the applicant the reasons, in
+     writing, for refusing to accept an innovative well or innovative
+     pumping equipment.
+
+     Maintaining and Decommissioning Wells
+
+     Maintaining well to prevent adverse effects
+     42   (1)    An owner of a well must maintain the well so that it does
+     not cause an adverse effect.
+      
+            (2)    A person must not allow lubricants, hydraulic fluids or
+     other materials derived from petroleum or other substances that may
+     cause an adverse effect to be placed in a well or to spill into a
+     well.
+
+     Controlling flow of water in flowing wells
+     43   An owner of a flowing well must ensure that an appropriate
+     certificate holder installs any well modifications, well grouting,
+     pumping systems, well packers or well caps necessary to stop and
+     control the flow of water and to ensure that water is not discharged
+     immediately around the well head.
+
+     Wells maintained for present or future use
+     44   An owner of a well that is maintained for present or future use
+     must ensure that the well is capped in accordance with requirements
+     for well caps in Sections 25 and 31 and as required by clause 32(1)
+     (d).
+
+     Decommissioning wells
+     45   (1)    The Minister may require a well to be decommissioned in
+     accordance with the Water Well Decommissioning Guidelines issued by
+     the Department if it is causing, or has the potential to cause, an
+     adverse effect.
+      
+            (2)    An owner of a well that is required to be
+     decommissioned by the Minister or an owner of a well that is not
+     being maintained for present or future use must ensure that the well
+     is immediately decommissioned by sealing it in a manner that prevents
+     the vertical movement of water into the well in accordance with the
+     Water Well Decommissioning Guidelines issued by the Department.
+      
+            (3)    A well driller, a well digger or an individual
+     conducting work on lands that they own or lease who decommissions a
+     well must complete a well decommissioning record, as required in
+     Section 47.
+
+     Records
+
+     Well construction record
+     46   (1)    A well construction record must be completed on a form
+     supplied by the Department and include all of the following
+     information:
+      
+                     (a)    the name of the well owner or client for whom
+     the work was done;
+      
+                     (b)    the name, phone number and civic address of
+     the well driller or well digger who conducted the work or, if the
+     work was conducted by an individual on lands that they own or lease,
+     the individual who conducted the work;
+      
+                     (c)    the community of the well location, as
+     indicated on the form;
+      
+                     (d)    the property identification number, civic
+     address and lot number for where the well is located, if available
+     ;
+                     (e)    the global positioning system coordinates for
+     the well location;
+      
+                     (f)    for a drilled well, a stratigraphic
+     description of geology encountered during drilling;
+      
+                     (g)    well construction information required by the
+     form, including well casing, well liner type and length, well screen
+     type and length and well depth;
+      
+                     (h)    the clearance distances from the well to
+     features listed on the form;
+      
+                     (i)     a description of any alternative location or
+     innovative well as accepted by the Minister;
+      
+                     (j)     the results of the basic water yield test
+     required by Section 33;
+      
+                     (k)    the final status of the well;
+      
+                     (l)     the water use anticipated for the well;
+      
+                     (m)   for a drilled well, the method of drilling used
+     to construct the well;
+      
+                     (n)    the date the well was completed.
+      
+            (2)    The well driller, well digger or individual who
+     conducted the work must sign the completed well construction record.
+
+     Well decommissioning record
+     47   (1)    A well decommissioning record must be completed on a form
+     supplied by the Department and include all of the following
+     information:
+      
+                     (a)    the name of the well owner or client for whom
+     the work was done;
+      
+                     (b)    the name, phone number and civic address of
+     the well driller or well digger who conducted the work or, if the
+     work was conducted by an individual on lands that they own or lease,
+     the individual who conducted the work;
+      
+                     (c)    the community of the well location, as
+     indicated on the form;
+      
+                     (d)    the property identification number, civic
+     address and lot number for where the well is located, if available;
+      
+                     (e)    the global positioning system coordinates for
+     the well location;
+      
+                     (f)    a description of any pumping equipment, well
+     cap and well casing removed;
+      
+                     (g)    well decommissioning information required by
+     the form, including all of the following:
+      
+                              (i)     the well depth and diameter before
+     decommissioning,
+      
+                              (ii)    the water level before
+     decommissioning,
+      
+                              (iii)   the depth of well casing cutoff or
+     removal,
+      
+                              (iv)   the depth of placement and volume of
+     grout and backfill material;
+      
+                     (h)    the type of grouting and backfill material
+     used;
+      
+                     (i)     the date the well decommissioning was
+     completed.
+      
+            (2)    The well driller, well digger or individual who
+     conducted the work must sign the completed well decommissioning
+     record.
+
+     Well pump installation record
+     48   (1)    A pump installation record must be completed on a form
+     supplied by the Department and include all of the following
+     information:
+      
+                     (a)    the name of the well owner or client for whom
+     the work was done;
+      
+                     (b)    the name, phone number and civic address of
+     the well pump installer who conducted the work or, if the work was
+     conducted by an individual on lands that they own or lease, the
+     individual who conducted the work;
+      
+                     (c)    the community of the well location, as
+     indicated on the form;
+      
+                     (d)    the property identification number, civic
+     address and lot number for where the well is located, if available;
+      
+                     (e)    the global positioning system coordinates for
+     the well location;
+      
+                     (f)    a description of the pumping equipment;
+      
+                     (g)    details of the pumping equipment installation;
+      
+                     (h)    a description of any innovative pumping
+     equipment as accepted by the Minister;
+      
+                     (i)     the water use anticipated and well record
+     number, if known;
+      
+                     (j)     the date the pumping equipment installation
+     was completed.
+      
+            (2)    The well pump installer or individual who conducted the
+     work must sign the completed pump installation record.
+
+     Copies of records
+     49   A certificate holder or individual who is responsible for
+     completing a well construction record under Section 46, a well
+     decommissioning record under Section 47 or a pump installation record
+     under Section 48 must do all of the following:
+      
+                     (a)    deliver a copy of the record to the owner
+     after the well construction, well decommissioning or pump
+     installation is completed;
+      
+                     (b)    deliver the record to the Department after the
+     well construction, well decommissioning or pump installation is
+     completed
+      
+     (i)immediately on request by the Department, or
+      
+                              (ii)    by January 31 of the calendar year
+     following installation; and
+      
+                     (c)    keep a copy of the record for at least 2 years
+     after the date the well construction, pump installation or well
+     decommissioning is completed.
+
+     =====================================================================

@@ -1,0 +1,2872 @@
+                             PLEASE NOTE
+This document, prepared by the Legislative Counsel Office, is an office
+consolidation of this regulation, current to July 31, 2010. It is intended for
+information and reference purposes only.
+
+This document is not the official version of these regulations. The regulations and
+the amendments printed in the Royal Gazette should be consulted to determine the
+authoritative text of these regulations.
+
+For more information concerning the history of these regulations, please see the
+Table of Regulations.
+
+If you find any errors or omissions in this consolidation, please contact:
+
+                             Legislative Counsel Office
+                                Tel: (902) 368-4291
+                            Email: legislation@gov.pe.ca
+                              CHAPTER P-4
+
+                    PESTICIDES CONTROL ACT
+
+                              REGULATIONS
+
+Pursuant to section 22 of the Pesticides Control Act R.S.P.E.I. 1988,
+Cap. P-4, Council made the following regulations:
+
+1. (1) In these regulations                                                  Definitions
+
+    (a) “Act” means the Pesticides Control Act R.S.P.E.I. 1988, Cap. P-      Act
+    4;
+    (a.1) “AG-1 Pesticide Use Certificate” means a pesticide use             AG-1 Pesticide
+                                                                             Use Certificate
+    certificate that
+       (i) was issued by the Director under subsection 21(1) of the prior
+       regulations,
+       (ii) was valid on December 31, 2005, and
+       (iii) was identified by the words “AG-1 Pesticide Use Certificate”
+       or “Level 1 Agricultural Pesticide Use Certificate” on the face of
+       the certificate;
+    (a.2) “AG-2 Pesticide Use Certificate” means a pesticide use             AG-2 Pesticide Use
+    certificate that                                                         Certificate
+
+       (i) was issued by the Director under subsection 21(1) of the prior
+       regulations,
+       (ii) was valid on December 31, 2005, and
+       (iii) was identified by the words “AG-2 Pesticide Use Certificate”
+       or “Level 2 Agricultural Pesticide Use Certificate” on the face of
+       the certificate;
+    (b) revoked by EC711/08;                                                 Agreement
+
+    (c) “agricultural operation” means an agricultural operation operated    agricultural
+    for the purpose of producing agricultural products or services in the    operation
+
+    expectation of gain or reward, including
+       (i) clearing, draining, irrigating and cultivating land,
+       (ii) raising or keeping livestock, including cattle, horses, sheep,
+       swine and poultry,
+       (iii) raising or keeping fur-bearing animals, game birds, game
+       animals and honey bees,
+       (iv) producing agricultural, horticultural, or silvicultural crops,
+       including non-food crops,
+       (v) operating agricultural machinery and equipment, including
+       noise-scare devices,
+
+
+                                    1
+2                       Cap. P-4                       Pesticides Control Act            Updated 2010
+                                                            Regulations
+
+
+                                   (vi) preparing a farm product for distribution from the farm gate,
+                                   including cleaning, grading and packaging,
+                                   (vii) on-farm processing of farm products for the purpose of
+                                   preparing farm products for wholesale or retail distribution and
+                                   consumption,
+                                   (viii) applying fertilizers, soil conditioners and pesticides,
+                                   including ground and aerial application,
+                                   (ix) storing, using or disposing of organic wastes for farm
+                                   purposes, and
+                                   (x) operating pick-your-own farms, road-side farm produce stands
+                                   and farm tourist operations as part of the farm operation;
+apply                        (d) “apply” means to release a pesticide into the environment;
+buffer zone                  (e) “buffer zone” means a buffer zone as defined in the Watercourse
+                             and Wetland Protection Regulations made pursuant to the
+                             Environmental Protection Act R.S.P.E.I. 1988, Cap.E-9;
+certified applicator         (f) “certified applicator” means a person who holds a Pesticide
+                             Applicator Certificate issued by the Minister under section 6;
+certified assistant          (f.1) revoked by EC71/07;
+concentrated                 (g) “concentrated pesticide” means any non-domestic pesticide
+pesticide                    product that requires mixing or dilution prior to application and
+                             which has not yet been mixed or diluted;
+continuing                   (h) “continuing education credits” or “CECs” means continuing
+education credits or         education credits that may be earned by an individual in accordance
+CECs
+                             with section 3;
+controlled purchase          (h.1) “controlled purchase domestic pesticide” means
+domestic pesticide              (i) any domestic pesticide that is not designated as a self-select
+                                domestic pesticide, or
+                                (ii) any fertilizer, within the meaning of the Fertilizers Act
+                                (Canada), that contains a pesticide;
+domestic pesticide           (i) “domestic pesticide” means a pesticide registered as domestic
+                             pursuant to the regulations made under the Pest Control Products
+                             Act (Canada);
+enclosed leak proof          (j) “enclosed leak proof container” means a container that is
+container                    impermeable to a liquid and has an obvious top and a bottom;
+ fertilizer-pesticide        (j.1) “fertilizer-pesticide blended product” means any fertilizer that
+ blended product             contains a combination of fertilizer and pesticide;
+ granular                    (j.2) “granular spreadable pesticide” means a pesticide that is
+ spreadable                  granular or pelletized and is designed to be applied at a calculated
+ pesticide
+                             rate by means of a user-adjustable spreading device;
+
+
+                                                                 2
+Updated 2010               Pesticides Control Act                 Cap. P-4                        3
+                                Regulations
+
+
+    (j.3) “hose-end pesticide” means a pesticide concentrate or solution
+                                                                             hose-end pesticide
+    that is designed to be applied using a garden hose;
+    (k) “label” has the same meaning as it does in the PCP Act               label
+    (Canada);
+                                                                             Loader/mixer
+    (l) “Loader/mixer Certificate” means a Loader/mixer Certificate          Certificate
+    issued by the Minister under section 10;
+    (m) “non-domestic pesticide” means a pesticide registered as             non-domestic
+    commercial, industrial, agricultural, or restricted by the regulations   pesticide
+
+    made under the PCP Act (Canada);
+    (n) “Non-domestic Pesticide Vendor Business Licence” means a             Non-domestic
+    licence issued by the Minister under section 13;                         Pesticide Vendor
+                                                                             Business Licence
+    (o) “Non-domestic Pesticide Vendor Certificate” means a certificate      Non-domestic
+    issued by the Minister under section 14;                                 Pesticide Vendor
+                                                                             Certificate
+    (p) “noxious weed” means a weed designated as a noxious weed             noxious weed
+    under the Weed Control Act R.S.P.E.I. 1988, Cap. W-2.1;
+    (q) “package” includes any container, wrapping, covering or holder       package
+    in which any pesticide is wholly or partly contained, placed or
+    packed;
+    (r) “PCP Act (Canada)” means the Pest Control Products Act               PCP Act (Canada)
+    (Canada);
+    (r.1) “PCP Act (Canada) Number” means the registration number of         PCP Act (Canada)
+    the pest control product, signified as follows: “REGISTRATION            Number
+
+    NO. (assigned registration number) PEST CONTROL PRODUCTS
+    ACT” or “REG. NO. (assigned registration number) PCP Act”;
+    (s) “Pesticide Application Business Licence” means a Pesticide           Pesticide
+    Application Business Licence issued by the Minister under section        Application
+                                                                             Business Licence
+    5;
+    (t) “pesticide application equipment” means equipment that is used       pesticide
+    to apply a pesticide and includes                                        application
+                                                                             equipment
+        (i) a tractor and a tow-behind unit,
+        (ii) a self-propelled unit, and
+        (iii) a truck with a spray tank and pump affixed within the cargo
+        compartment of the truck;
+    (u) “Pesticide Application Permit” means a Pesticide Application         Pesticide
+    Permit issued by the Minister under section 19                           Application Permit
+
+    (v) “Pesticide Applicator Certificate” means a Pesticide Applicator      Pesticide Applicator
+    Certificate issued by the Minister under section 6;                      Certificate
+
+
+
+
+                                     3
+4                      Cap. P-4                    Pesticides Control Act                Updated 2010
+                                                        Regulations
+
+
+                            (v.1) “pesticide concentrate” means a pesticide product or
+ pesticide
+ concentrate                formulation that requires mixing, dilution, or some other form of
+                            measuring or measurement-related handling by the user prior to
+                            application;
+Pesticide Purchase          (w) “Pesticide Purchase Permit” means a Pesticide Purchase Permit
+Permit                      issued by the Minister under section 16;
+ pesticide requiring        (w.1) “pesticide   requiring     preparation”    means   a     pesticide
+ preparation                concentrate;
+Phase III storage           (x) “Phase III storage facility” means a storage facility designed and
+facility                    maintained to store domestic and non-domestic pesticides, in
+                            accordance with the Canadian Warehousing Standards for the
+                            Storage of Agrichemical Products, Crop Life Canada, January 2002
+                            as amended;
+prior regulations           (y) “prior regulations” means the prior regulations (EC583/84) made
+                            under the Act and revoked by these regulations;
+ready-to-use                (y.01) “ready-to-use herbicide” means a herbicide that does not
+herbicide                   require dilution or mixing prior to application;
+self-select domestic        (y.1) “self-select domestic pesticide” means any domestic pesticide
+pesticide                   designated as a self-select pesticide under subsection (8);
+spot treatment              (y.2) “spot treatment” means the limited application of a pesticide to
+                            an area that is not more than 10% of the potential area for treatment;
+Steering Committee          (z) “revoked by EC711/08;
+training event              (aa) “training event” means a class or program that provides training
+                            in a subject within a pesticide training category listed in section 2;
+WHMIS                       (bb) “WHMIS” means         the       Workplace   Hazardous    Materials
+                            Information System.
+Application              (2) Revoked by EC71/07.
+Research not             (3) Nothing in these regulations shall be construed to prevent the use
+prevented              of a pesticide under the authority of a permit for the purposes of research
+                       or testing by officials or other qualified persons employed by a university
+                       or other institution of research and higher learning or by agencies of the
+                       federal or provincial Government.
+Pesticide standards      (4) The standards and requirements for registration, packaging and
+                       labelling, efficacy and safety, in respect of the sale, handling and use of
+                       any pesticide shall be the standards and requirements established by the
+                       PCP Act (Canada) and the regulations made under that Act together with
+                       the Act and these regulations.
+
+
+                                                             4
+Updated 2010               Pesticides Control Act                 Cap. P-4                        5
+                                Regulations
+
+
+  (5) These regulations apply to all pesticides except as follows:
+                                                                             Application
+    (a) sections 24 and 25 do not apply to exempted pesticides listed in
+    Schedule 7;
+    (b) subsection 1(8) and section 20.2 are the only provisions of these
+    regulations that apply to self-select pesticides listed in Schedule 8;
+    (c) these regulations do not apply to excluded pesticides listed in
+    Schedule 2.
+  (6) The pesticides listed in Schedule 2 are designated as excluded         Excluded pesticides
+pesticides.
+                                                                             Exempted domestic
+  (7) The pesticides listed in Schedule 7 are designated as exempted         pesticides
+pesticides.
+  (8) The pesticides listed in Schedule 8 are designated as self-select      Self-select domestic
+domestic pesticides. (EC761/05; 313/06; 71/07; 290/08; 711/08; 189/10;       pesticides
+
+189/10; 189/10)
+
+                   PESTICIDE TRAINING EVENTS
+2. For the purposes of these regulations, the following categories of        Categories of
+pesticide training events are prescribed:                                    pesticide training
+                                                                             events
+     (a) General Information Training, respecting the general application,
+     handling or storage of pesticides;
+     (b) Pesticide Law Training, respecting federal and provincial laws
+     relating to pesticides;
+     (c) Pesticide Label Training, identifying pesticides and using the
+     information on pesticide labels;
+     (d) Human Health Effects Training, respecting the effect of
+     pesticides on human health, including
+        (i) acute and chronic toxicity,
+        (ii) routes of exposure,
+        (iii) factors affecting exposure,
+        (iv) reducing exposure and risk, and
+        (v) recognition of pesticide poisoning;
+     (e) Pesticide Safety Training, including
+        (i) attitudes toward pesticide application and safety,
+        (ii) general precautions in the use of or exposure to pesticides,
+        (iii) selecting and purchasing pesticides,
+        (iv) protective clothing and equipment,
+        (v) transportation, storage and disposal,
+        (vi) mixing and loading,
+        (vii) safety during application,
+        (viii) re-entry of places where application has occurred, and
+        (ix) application records;
+     (f) Environmental Impact Training, including
+
+
+                                     5
+6                     Cap. P-4                     Pesticides Control Act              Updated 2010
+                                                        Regulations
+
+
+                               (i) residual impact of pesticides,
+                               (ii) aquatic impact, and
+                               (iii) land impact;
+                           (g) Pest Management Training, including
+                               (i) integrated pest management,
+                               (ii) pest identification and biology, and
+                               (iii) monitoring methods, action and injury levels;
+                           (h) Pesticide Application Technology Training, including
+                               (i) equipment selection,
+                               (ii) proper equipment set up, use and maintenance,
+                               (iii) equipment calibration and pesticide use calculations, and
+                               (iv) pesticide products, and factors affecting their use and
+                               performance;
+                           (i) Emergency Response Training, including
+                               (i) pesticide spills,
+                               (ii) fire and pesticides, and
+                               (iii) first aid,
+                           (j) Professional Conduct Training, including dealing effectively with
+                           clients and with the public regarding the use of pesticides;
+                           (k) other pesticide issues training, as may be approved by the
+                           Director. (EC761/05; 290/08)
+Earning CECs          3. A person who
+                           (a) holds an AG-1 Pesticide Use Certificate or a Class A Pesticide
+                           Applicator Certificate; and
+                           (b) attends a training event approved by the Minister,
+                      shall earn CECs on an hour-for-hour basis or in a manner otherwise
+                      approved by the Minister. (EC761/05; 313/06; 290/08; 711/08)
+
+                                      LICENCES, CERTIFICATES, PERMITS
+Fees                  4. (1) The fees for an application for, or renewal of, a licence, certificate
+                      or permit under these regulations shall be payable to the Minister of
+                      Finance and Municipal Affairs in the amount set out in Schedule 4 of
+                      these regulations.
+Forms                   (2) An application, and a licence, certificate or permit issued by the
+                      Minister under these regulations shall be in the appropriate form set out
+                      in Schedule 3 of these regulations.
+Applicants shall be     (3) All applicants for a licence, certificate or permit issued by the
+18                    Minister shall be at least 18 years of age and pay the required fee at the
+                      time of the application. (EC761/05; 189/10)
+
+
+
+
+                                                             6
+Updated 2010                Pesticides Control Act                  Cap. P-4                        7
+                                 Regulations
+
+
+5. (1) Subject to subsections (6) and (7), the Minister may, on
+                                                                               Licences
+application, issue one or more of the Pesticide Application Business
+Licences described in subsection (2) to a person who
+     (a) provides proof of a current policy of insurance with coverage of
+        (i) at least $500,000 for pollution liability, and
+        (ii) at least $1,000,000 for general public liability;
+     (b) provides proof of the ownership of, or access to, a pesticide
+     storage facility described in subsection 20(2); and
+     (c) provides proof that the business for which the licence is intended
+     employs at least one person who holds a Pesticide Applicator
+     Certificate appropriate to the Pesticide Application Business Licence
+     applied for.
+  (2) The following classes of Pesticide Application Business Licences         Classes of licence
+may be issued by the Minister under subsection (1) in respect of the
+activities herein described:
+     (a) a Class A Pesticide Application Business Licence authorizes the
+     holder of the licence to operate ground agricultural equipment, if
+        (i) the person uses the equipment to apply a pesticide for a fee,
+        charge or other valuable consideration, and
+        (ii) fifty per cent or more of the annual usage of the equipment is
+        a use described in subclause (i);
+     (b) a Class B Pesticide Application Business Licence authorizes the
+     holder of the licence to offer a service involving the application of a
+     pesticide for the control of mosquitoes or biting flies;
+     (c) a Class C-1 Pesticide Application Business Licence authorizes
+     the holder of the licence to offer a service involving the application
+     of a non-fumigant pesticide to stored feed, or to dwellings or other
+     structures;
+     (d) a Class C-2 Pesticide Application Business Licence authorizes
+     the holder of the licence to offer a service involving the application
+     of a fumigant pesticide to stored feed, or to dwellings or other
+     structures;
+     (e) a Class D Pesticide Application Business Licence authorizes the
+     holder of the licence to offer a service involving the application of a
+     seed or seed-piece treatment pesticide;
+     (f) a Class E Pesticide Application Business Licence authorizes the
+     holder of the licence to offer a service involving the application of a
+     pesticide to ornamental vegetation, golf course turf and other non-
+     crop areas not referred to in clause (c) or (d);
+     (g) a Class F-1 Pesticide Application Business Licence authorizes
+     the holder of the licence to offer a pesticide application service for
+     forestry herbicide application;
+
+
+
+
+                                      7
+8                     Cap. P-4                     Pesticides Control Act              Updated 2010
+                                                        Regulations
+
+
+                           (h) a Class F-2 Pesticide Application Business Licence authorizes
+                           the holder of the licence to supervise the application of a pesticide
+                           for the production of tree seedlings for reforestation purposes;
+                           (i) a Class G Pesticide Application Business Licence authorizes the
+                           holder of the licence to supervise the application of a pesticide in a
+                           greenhouse other than a person who holds a Class F-2 licence;
+                           (j) a Class H Pesticide Application Business Licence authorizes the
+                           holder of the licence to offer a service involving the application of a
+                           soil fumigant pesticide;
+                           (k) a Class I Pesticide Application Business Licence authorizes the
+                           holder of the licence to offer a service involving the application of a
+                           herbicide using a wiper, brush, roller or by a spot treatment;
+                           (l) a Class J Pesticide Application Business Licence authorizes the
+                           holder of the licence to offer a pesticide application service specified
+                           in the licence.
+Conditions on           (3) The Minister may impose any conditions on a Pesticide
+licence               Application Business Licence issued or renewed under this section that
+                      the Minister considers necessary for the protection of human health or
+                      the environment.
+Expiry
+                         (4) A Pesticide Application Business Licence shall be issued on Form
+                      4 of Schedule 3 and expires on December 31 of the year in which the
+                      licence is issued.
+Effective date of       (5) Clause (2)(e) comes into force on April 1, 2007.
+clause (2)(e)
+Insurance not           (6) A person who applies for a Class B Pesticide Application Business
+required, where       Licence is not required to hold the insurance coverage required by
+                      subclause (1)(a)(i) if the person provides to the Minister written
+                      confirmation that the person will not offer a service involving the
+                      application of a chemical-based pesticide during the term of the licence
+                      applied for.
+Insurance not           (7) A person who applies for a Class D Pesticide Application Business
+required for          Licence is not required to hold the insurance coverage required by
+pollution liability
+                      subclause (1)(a)(i). (EC761/05; 313/06; 71/07; 290/08)
+AG-1 Pesticide Use    5.1 (1) An AG-1 Pesticide Use Certificate issued under the prior
+Certificate           regulations is deemed to have been issued under these regulations.
+Expiry of AG-1         (2) An AG-1 Pesticide Use Certificate expires on
+Pesticide Use             (a) the date shown on the face of the certificate; or
+Certificate
+                          (b) the date on which a conditional Class A Pesticide Applicator
+                          Certificate is issued to the holder under clause 8(3)(a),
+                      whichever is earlier.
+
+
+
+                                                             8
+Updated 2010                Pesticides Control Act                 Cap. P-4                    9
+                                 Regulations
+
+
+  (3) Revoked by 71/07. (EC313/06; 71/07)
+                                                                              Expiry of AG-2
+                                                                              Pesticide Use
+                                                                              Certificate
+6. (1) The Minister may, on application, issue or renew one or more of        Applicator
+the Pesticide Applicator Certificates listed in subsection (2) to a person    certificates
+
+who has successfully completed a written examination approved by the
+Director and appropriate to the class of certificate applied for, with a
+mark in the examination of not less than 75%.
+  (2) The following classes of certificate may be issued by the Minister      Classes of
+under subsection (1) in respect of the activities herein described:           certificate
+
+    (a) a Class A Pesticide Applicator Certificate authorizes the holder
+    of the certificate to apply pesticides to control pests
+        (i) on an agricultural crop or a product that is not located in a
+        greenhouse, and
+        (ii) on agricultural land;
+    (b) a Class B Pesticide Applicator Certificate authorizes the holder
+    of the certificate to apply a pesticide to control mosquitoes or biting
+    flies;
+    (c) a Class C-1 Pesticide Applicator Certificate authorizes the holder
+    of the certificate to apply a non-fumigant pesticide to stored feed,
+    dwellings or other structures;
+    (d) a Class C-2 Pesticide Applicator Certificate authorizes the holder
+    of the certificate to apply a fumigant pesticide to stored feed,
+    dwellings or other structures;
+    (e) a Class D Pesticide Applicator Certificate authorizes the holder
+    of the certificate to apply a pesticide as a seed or seed-piece
+    treatment;
+    (f) a Class E Pesticide Applicator Certificate authorizes the holder of
+    the certificate to apply a pesticide to ornamental vegetation, golf
+    course turf and other non-crop areas not referred to in clause (c) or
+    (d);
+    (g) a Class F-1 Pesticide Applicator Certificate authorizes the holder
+    of the certificate to apply a forestry herbicide;
+    (h) a Class F-2 Pesticide Applicator Certificate authorizes the holder
+    of the certificate to apply a pesticide for the production of tree
+    seedlings for reforestation purposes;
+    (i) a Class G Pesticide Applicator Certificate authorizes the holder of
+    the certificate to apply a pesticide in a greenhouse, other than a
+    person who holds a Class F-2 certificate;
+    (j) a Class H Pesticide Applicator Certificate authorizes the holder of
+    the certificate to apply a soil fumigant pesticide;
+    (k) a Class I Pesticide Applicator Certificate authorizes the holder of
+    the certificate to apply a herbicide using a wiper, brush or roller, or
+    by a spot treatment;
+
+
+                                      9
+10                    Cap. P-4                    Pesticides Control Act              Updated 2010
+                                                       Regulations
+
+
+                           (l) a Class J Pesticide Applicator Certificate authorizes the holder of
+                           the certificate to apply a pesticide for a purpose specified in the
+                           certificate.
+Class D Certificate      (2.1) Notwithstanding subsection (1), the Minister may, on application,
+                      issue a Class D Pesticide Applicator Certificate to an applicant who
+                           (a) has successfully completed a seed and seed-piece treatment
+                           training program approved by the Director, with or without the
+                           completion of a written examination; and
+                           (b) holds a valid Class A Pesticide Applicator Certificate, a valid
+                           AG-1 Pesticide Use Certificate or a valid Loader/mixer Certificate.
+Class I Pesticide        (2.2) Notwithstanding subsection (1), the Minister may, on application,
+Applicator            issue a Class I Pesticide Applicator Certificate to an applicant who
+Certificate
+                           (a) has successfully completed a training program on the application
+                           of a herbicide using a wiper, brush or roller approved by the
+                           Director, with or without the completion of a written examination;
+                           and
+                           (b) holds a valid Class A Pesticide Applicator Certificate, a valid
+                           AG-1 Pesticide Use Certificate or a valid Loader/mixer Certificate.
+Conditions
+                        (3) The Minister may impose any conditions on a Pesticide Applicator
+                      Certificate issued under this section that the Minister considers necessary
+                      for the protection of human health or the environment.
+Expiry                  (4) A Pesticide Applicator Certificate shall be issued on Form 5 of
+                      Schedule 3 and expires on the expiry date shown on the certificate.
+Waiver of exam          (5) The Minister may, at the Minister’s discretion, waive the
+requirement           examination requirement in subsection (1) for any person who, between
+                      January 1, 2002 and January 1, 2006, has
+                          (a) successfully completed a written examination approved by the
+                          Minister appropriate to the class of certificate applied for; and
+                          (b) attained a mark in the examination of not less than 75%.
+Class A Pesticide       (5.1) Revoked by EC71/07. (EC313/06; 71/07)
+Use Certificate to
+holder of AG-2
+
+Expiry                  (5.2) Revoked by EC71/07. (EC313/06; 71/07)
+Effective date of       (6) Clause (2)(e) comes into force on April 1, 2007.
+clause (1)(e)
+Subsection (5)          (7) Subsection (5) is revoked on January 1, 2011. (EC761/05; 313/06;
+revoked               71/07; 290/08; 711/08)
+
+
+
+
+                                                           10
+Updated 2010                Pesticides Control Act                 Cap. P-4                    11
+                                 Regulations
+
+
+7. (1) Subject to subsection (3), the Minister shall, on application, renew
+                                                                              Renewal of Class A
+a Class A Pesticide Applicator Certificate issued under subsection 6(2)       Pesticide Applicator
+if, before the expiry of the certificate, the holder of the certificate       Certificate
+     (a) has earned a total of not less than 15 CECs in the pesticide
+     training categories listed in section 2 as follows:
+        (i) at least 8 CECs in the categories described as Pest
+        Management Training, Pesticide Application Technology
+        Training, Effects on Human Health Training, and Pesticide Safety
+        Training,
+        (ii) the remaining 7 CECs in any other category described in
+        section 2; or
+     (b) has
+        (i) successfully completed a written examination approved by the
+        Director, with a mark in the examination of not less than 75%,
+        and
+        (ii) demonstrated to the Director that he or she has the knowledge
+        and skills necessary to safely and effectively handle, store and
+        apply pesticides.
+  (2) The Minister may not accept, for the purposes of subsection (1),        Acceptable CECs
+    (a) more than 5 CECs in any one pesticide training category;
+    (b) more than 8 CECs earned in a calendar year.
+                                                                              Expiry
+  (3) A Class A Pesticide Applicator Certificate renewed under
+subsection (1) is valid until
+    (a) the date of expiry shown on the certificate; or
+    (b) five years from the date the certificate was issued,
+whichever is earlier. (EC761/05; 290/08; 711/08)
+8. (1) The Minister shall, on the application of an individual, issue a       Conditional Class A
+conditional Class A Pesticide Applicator Certificate to the individual if     Pesticide Applicator
+                                                                              Certificate
+the individual
+     (a) either
+        (i) held an AG-1 Pesticide Use Certificate, issued under the prior
+        regulations, that expired not earlier than May 1, 2002, or
+        (ii) holds an AG-1 Pesticide Use Certificate that will expire not
+        later than December 31, 2007; and
+     (b) has provided proof, satisfactory to the Director, of the number of
+     CECs earned within the time period required by Schedule 5.
+  (2) A conditional Class A Pesticide Applicator Certificate issued under     Expiry
+subsection (1) expires on the expiry date shown on the certificate.
+ (3) The Minister may issue a conditional Class A Pesticide Applicator        Conditional Class A
+Certificate to an individual if the individual holds an AG-1 Pesticide Use    Pesticide Applicator
+                                                                              Certificate
+Certificate.
+
+
+                                     11
+12                     Cap. P-4                     Pesticides Control Act              Updated 2010
+                                                         Regulations
+
+
+                         (4) A conditional Class A Pesticide Applicator Certificate issued to an
+Expiry
+                       individual under subsection (3) expires on the date shown on the AG-1
+                       Pesticide Use Certificate. (EC761/05; 313/06; 71/07; 290/08)
+Records of pesticide   9. (1) Every person who holds a Pesticide Applicator Certificate shall, in
+use or application     such manner as may be required by the Minister, keep records of each
+                       pesticide use or application, which shall include the following:
+                            (a) the name, address and telephone number, and Pesticide
+                            Applicator Certificate Number of the pesticide applicator;
+                            (b) the name, address, and telephone number of the person for whom
+                            the pesticide is being applied;
+                            (c) the location and dimensions of the area where the pesticide was
+                            applied;
+                            (d) the date and start time of the pesticide application;
+                            (e) the air temperature, wind speed, and wind direction measured at
+                            the point of application at the start time of the pesticide application;
+                            (f) the name of any pest to be controlled or the purpose of the
+                            pesticide application;
+                            (g) the trade name and PCP Act (Canada) number of the pesticide
+                            applied;
+                            (h) the rate of pesticide application.
+Record to be made
+within 72 hours          (2) Every person required to keep records under subsection (1) shall
+                       enter the use or application of a pesticide in the records not later than 72
+                       hours after a pesticide use or application.
+Records to be kept       (3) A person who made, or caused to be made, the records under this
+at least 3 years       section shall
+                            (a) keep the records for a period of at least three years from the date
+                            of the use or application of the pesticide; and
+                            (b) make the records available to any environment officer appointed
+                            under the Environmental Protection Act, environmental health
+                            officer appointed under the Public Health Act R.S.P.E.I. 1988, Cap.
+                            P-30, medical practitioner registered under the Medical Act
+                            R.S.P.E.I. 1988, Cap. M-5 or conservation officer appointed or
+                            designated under the Wildlife Conservation Act R.S.P.E.I. 1988,
+                            Cap. W-4.1. (EC761/05; 313/06; 71/07; 290/08)
+Loader/mixer           10. (1) The Minister may, on application, issue a Loader/mixer
+Certificate            Certificate to a person who has successfully completed a loader/mixer
+                       training program approved by the Director.
+Conditions               (2) The Minister may impose such conditions on a Loader/mixer
+                       Certificate issued under subsection (1) as the Minister considers
+                       necessary for the protection of human health or the environment.
+
+
+
+                                                             12
+Updated 2010                Pesticides Control Act                  Cap. P-4                       13
+                                 Regulations
+
+
+ (3) A Loader/mixer Certificate
+                                                                               Expiry
+    (a) shall be issued on Form 1 of Schedule 3; and
+    (b) expires
+       (i) five years from the date on which the certificate was issued, or
+       (ii) on the date printed on the certificate
+whichever is earlier. (EC761/05; 313/06; 71/07)
+11. The following certificates issued by the Minister under the prior          Certificates expired
+regulations expired on December 31, 2006:
+    (a) Level 2 Biting Fly Pesticide Use Certificate;
+    (b) AG-2 Pesticide Use Certificate. (EC761/05; 71/07)
+12. (1) Not later than January 31 of each year, every person who operates      Sales data
+a business involving the sale or supply of a domestic or non-domestic
+pesticide shall provide the Minister with sales data for all domestic and
+non-domestic pesticides sold to retail customers for the previous calendar
+year.
+  (2) For the purposes of this section, “sales data” means                     “sales data”,
+    (a) the trade or product name of the domestic or non-domestic              defined
+
+    pesticide;
+    (b) the PCP Act (Canada) number; and
+    (c) the quantity sold, including the unit measure. (EC761/05)
+  (3) Not later than January 31 of each year, every holder of a Class E        Information to be
+Pesticide Application Business Licence and every operator of a golf            provided to the
+                                                                               Minister
+course shall, for the previous calendar year, provide the following
+information, in writing, to the Minister:
+     (a) the trade name, PCP Act (Canada) Number, and quantity of any
+     herbicide, including the unit measure, applied on:
+        (i) residential properties,
+        (ii) commercial and industrial properties,
+        (iii) commercial golf courses;
+     (b) the trade name, PCP Act (Canada) Number, and quantity of any
+     insecticide, including the unit measure, applied on:
+        (i) residential properties,
+        (ii) commercial and industrial properties,
+        (iii) commercial golf courses;
+     (c) the trade name, PCP Act (Canada) Number, and quantity of
+     fungicide, including the unit measure, applied on:
+        (i) residential properties,
+        (ii) commercial and industrial properties,
+        (iii) commercial golf courses;
+     (d) the total area of turf under management, including the unit
+     measure, that is comprised of:
+        (i) residential properties,
+
+
+                                     13
+14                    Cap. P-4                       Pesticides Control Act            Updated 2010
+                                                          Regulations
+
+
+                                 (ii) commercial and industrial properties,
+                                 (iii) commercial golf courses. (EC189/10)
+
+
+Non-domestic          13. (1) The Minister may, on application, issue or renew a Non-domestic
+Pesticide Vendor      Pesticide Vendor Business Licence to a person who
+Business Licence
+                           (a) has provided proof that the person for which the licence is
+                           intended
+                              (i) owns, or has arrangements to use, a Phase III storage facility to
+                              store non-domestic pesticides, and
+                              (ii) employs at least one person who holds a Non-domestic
+                              Pesticide Vendor Certificate; and
+                           (b) has provided the sales data required by section 12 for the
+                           calendar year previous to the year the licence is requested.
+Licence must be         (1.1) A person who holds a Non-Domestic Pesticide Vendor Business
+displayed             Licence shall display the licence issued for each store or facility owned
+                      or operated by the person, at such store or facility.
+More than one           (1.2) Where a person owns more than one store or facility for which a
+store, facility       Non-domestic Pesticide Vendor Business Licence is issued or renewed
+                      under subsection (1), the Minister shall charge only one fee for all of the
+                      stores or locations, but the fee shall be calculated on the sales data
+                      provided in respect of such store or location as the Minister determines.
+Fee based on sales      (2) The fee payable for an application or a renewal of a Non-domestic
+data                  Pesticide Vendor Business Licence under subsection (1) shall be based
+                      on the sales data provided in clause (1)(c) as determined in Schedule 4.
+Where no historical     (3) Where there is no historical pesticides sales data available on
+sale data available   which to base the fee payable for a Non-domestic Pesticide Vendor
+                      Business Licence, the fee payable may be based on reasonable
+                      projections of sales data provided by the applicant and approved by the
+                      Minister, as determined in Schedule 4.
+Conditions on           (4) The Minister may impose any conditions on a Non-domestic
+licence               Pesticide Vendor Business Licence issued or renewed under this section
+                      that the Minister considers necessary for the protection of human health
+                      or the environment.
+Expiry                  (5) A Non-domestic Pesticide Vendor Business Licence shall be issued
+                      on Form 2 of Schedule 3 and expires
+                          (a) on the last day of February of the year following the date of issue
+                          of the licence; or
+
+
+
+
+                                                              14
+Updated 2010               Pesticides Control Act                 Cap. P-4                       15
+                                Regulations
+
+
+    (b) when the person for which the licence is issued no longer
+    employs at least one person who holds a Non-domestic Pesticide
+    Vendor Certificate,
+whichever occurs earlier.
+                                                                             Transitional
+  (6) A valid Pesticide Sales Licence issued in 2005 under the prior
+regulations is deemed to be a Non-domestic Pesticide Vendor Business
+Licence and expires on the date of expiry in the Pesticide Sales Licence.
+  (7) A valid Pesticide Sales Licence issued under the prior regulations     Licence under prior
+to a person who successfully completed an examination on or after            regulations
+
+January 1, 2002 for the purpose of obtaining a Pesticide Sales Licence,
+personally or on behalf of their employer,
+    (a) is deemed to be a Non-domestic Pesticide Vendor Certificate;
+    and
+    (b) expires five years from the date on which the person completed
+    the examination.
+  (8) Clause (5)(b) comes into force on March 1, 2006.                       Effective date of
+                                                                             clause (5)(b)
+  (9) Revoked by EC290/08. (EC761/05; 71/07; 290/08)                         Revocation
+
+13.1 (1) The Minister may, on application, issue or renew a Domestic         Domestic Pesticides
+Pesticide Vendor Business Licence to a person who                            Vendor Business
+                                                                             Licence
+    (a) owns or operates a store or location that sells or supplies a
+    controlled purchase domestic pesticide;
+    (b) holds, or employs at least one person who holds, a Domestic
+    Pesticide Vendor Certificate;
+    (c) provides to the Minister an estimate of the maximum size of all
+    indoor and outdoor display areas and storage facilities for controlled
+    purchase domestic pesticides required for the year for which the
+    application is made; and
+    (d) pays the application fee.
+  (2) The calculation of the fee payable for an application or a renewal     Calculation of fee
+of a Domestic Pesticide Vendor Business Licence under subsection (1)
+shall be based on the size of the display areas and storage facilities as
+provided to the Minister under clause (1)(b) and determined in
+accordance with Schedule 4.
+  (3) Where the licensee or the Minister determines that the actual size     Revised fee
+of the indoor and outdoor display areas and storage facilities to be used
+during the term of the licence is less than or greater than the estimate
+provided under clause (1)(b), the Minister may revise the fee and send
+the applicant a written notice of the revised fee.
+
+
+
+
+                                    15
+16                   Cap. P-4                    Pesticides Control Act              Updated 2010
+                                                      Regulations
+
+
+                       (4) Where a person owns more than one store or location for which a
+More than one
+store, location
+                     Domestic Pesticide Vendor Business Licence is issued or renewed under
+                     subsection (1), the Minister shall charge one fee only for all of the stores
+                     or locations, but the fee shall be calculated on the size of the display and
+                     storage facilities in respect of such store or location as the Minister
+                     determines.
+Display licence
+                      (5) A licensee shall display a licence at each store or location for
+                     which the Minister has issued or renewed a licence under subsection (1).
+Conditions             (6) The Minister may impose any conditions on a Domestic Pesticide
+                     Vendor Business Licence issued or renewed under this section that the
+                     Minister considers necessary for the protection of human health or the
+                     environment.
+Expiry                 (7) A Domestic Pesticide Vendor Business Licence shall be issued on
+                     Form 16 and expires
+                         (a) on the last day of February of the year following the date of issue
+                         of the licence; or
+                         (b) on the date on which the licensee no longer holds, or employs at
+                         least one person who holds, a Domestic Pesticide Vendor
+                         Certificate,
+                         whichever occurs earlier. (EC71/07)
+Non-domestic         14. (1) The Minister may, on application, issue a Non-domestic Pesticide
+Pesticide Vendor     Vendor Certificate to a person who has successfully completed a written
+Certificate
+                     examination, approved by the Director, with a mark in the examination
+                     of not less than 75%.
+Conditions             (2) The Minister may impose any conditions on a Non-domestic
+                     Pesticide Vendor Certificate issued under this section that the Minister
+                     considers necessary for the protection of human health or the
+                     environment.
+Expiry                 (3) A Non-domestic Pesticide Vendor Certificate shall be issued on
+                     Form 3 of Schedule 3 and expires five years from the date of
+                     examination. (EC761/05; 71/07)
+Domestic Pesticide   14.1 (1) The Minister may, on application, issue a Domestic Pesticide
+Vendor Certificate   Vendor Certificate to a person who has successfully completed a written
+                     examination, approved by the Director, with a mark in the examination
+                     of not less than 75%.
+Conditions             (2) The Minister may impose any conditions on a Domestic Pesticide
+                     Vendor Certificate issued under this section that the Minister considers
+                     necessary for the protection of human health or the environment.
+
+
+
+                                                          16
+Updated 2010                Pesticides Control Act                  Cap. P-4                     17
+                                 Regulations
+
+
+  (3) A Domestic Pesticide Vendor Certificate shall be issued on Form
+                                                                               Expiry
+17 and expires five years from the date of the examination referred to in
+subsection (1). (EC71/07)
+15. (1) Where, in the opinion of the Minister, a holder of a licence,          Revocation of
+certificate or permit has contravened a provision of the Act or these          licence, certificate
+                                                                               or permit
+regulations or a condition of the licence, certificate or permit, the
+Minister may revoke the licence, certificate or permit.
+                                                                               Notice of
+  (2) Notice of the revocation of a licence, certificate or permit pursuant    revocation
+to subsection (1) may be given by
+     (a) personal service; or
+     (b) by registered mail to the last known address of the holder of the
+     licence, certificate or permit as shown in the records of the Minister.
+  (3) A notice mailed pursuant to clause (2)(b) shall be deemed to be          Deemed service
+served on the holder of the licence or certificate
+    (a) on the date the holder of the licence or certificate actually
+    receives the notice; or
+    (b) 5 days after the date on which the notice was mailed,
+whichever is earlier. (EC761/05; 290/08)
+16. (1) The Minister may, on application, issue a Pesticide Purchase           Pesticide Purchase
+Permit to a holder of a Pesticide Application Business Licence or to the       Permit
+
+operator of an agricultural operation or golf course that employs at least
+one person who holds a Pesticide Applicator Certificate.
+ (2) A Pesticide Purchase Permit expires                                       Expiry
+    (a) on December 31 of the year in which the Permit was issued;
+    (b) on the expiry date of the Pesticide Applicator Certificate of the
+    individual listed as the certified applicator on the Pesticide Purchase
+    Permit application form submitted pursuant to subsection (1); or
+    (c) on the date when the operator of the agricultural operation or
+    golf course ceases to employ the individual listed as the certified
+    applicator on the Pesticide Purchase Permit application form
+    submitted pursuant to subsection (1),
+whichever is earlier. (EC761/05; 313/06; 71/07)
+17. (1) A person who sells a non-domestic pesticide shall prepare a            Record of sale
+written record of sale within 24 hours of the sale indicating the name,
+number and expiry date on the purchaser’s Pesticide Applicator
+Certificate or Pesticide Purchase Permit.
+  (2) A person who sells a Schedule 1 pesticide shall prepare a written        Idem
+record of sale within 24 hours of the sale indicating the
+    (a) name, number and expiry date on the purchaser’s Pesticide
+    Applicator Certificate or Pesticide Purchase Permit; and
+
+
+                                     17
+18                   Cap. P-4                    Pesticides Control Act             Updated 2010
+                                                      Regulations
+
+
+                          (b) number of the purchaser’s Pesticide Application Permit.
+                          (EC761/05)
+Authorize employee   18. (1) An operator of an agricultural operation or a golf course, or a
+to use permit        holder of a Pesticide Application Business Licence may, in writing,
+                     authorize an employee to use a Pesticide Purchase Permit issued under
+                     subsection 16(1) for the purpose of purchasing a non-domestic pesticide
+                     for the use of the operator of the agricultural operation or a golf course,
+                     or the holder of a Pesticide Application Business Licence.
+Expiry of              (2) An authorization under subsection (1) expires on the date that
+authorization            (a) is specified on the authorization;
+                         (b) the employee is no longer employed by the operator of the
+                         agricultural operation or a golf course, or the holder of a Pesticide
+                         Application Business Licence; or
+                         (c) the operator of the agricultural operation or a golf course, or the
+                         holder of a Pesticide Application Business Licence rescinds the
+                         authorization.
+Permit to be           (3) An employee who is no longer authorized to use a Pesticide
+returned             Purchase Permit shall return the Permit immediately to the operator of
+                     the agricultural operation or a golf course, or the holder of a Pesticide
+                     Application Business Licence. (EC761/05; 290/08)
+Pesticide            19. (1) Subject to subsection (2), the Minister may, on application, issue
+Application Permit   a Pesticide Application Permit to a person who
+                          (a) has submitted the application at least ten days prior to the
+                          planned date of pesticide application; and
+                          (b) has provided such information as the Minister may request.
+Use limited in         (2) A Pesticide Application Permit for use in a buffer zone may only
+buffer zone          be issued under subsection (1) for the purpose of controlling noxious
+                     weeds.
+Form, contents of      (3) A Pesticide Application Permit shall be in such form and contain
+permit               such particulars as the Minister may determine and expires on the date
+                     shown on the permit.
+Make copy of           (4) Every person who holds a Pesticide Application Permit shall,
+permit available     immediately upon the request of an environment officer, make available
+                     a copy of that Permit to that environment officer. (EC761/05)
+Separate storage     20. (1) Every person who
+from food                 (a) keeps or stores a pesticide; or
+                          (b) has kept or stored a pesticide,
+                     shall do so in a manner that ensures that the pesticide or any container
+                     that holds a pesticide is kept and stored separately from any foodstuffs,
+
+
+                                                          18
+Updated 2010                 Pesticides Control Act                  Cap. P-4                      19
+                                  Regulations
+
+
+feeds or any other material intended for consumption by humans or
+animals.
+   (2) Every operator of an agricultural operation, every operator of a golf    Storage facility
+course, and every holder of a Pesticide Application Business Licence
+who possess pesticides in amounts in excess of 100 kilograms or 100
+litres of formulated product shall ensure that the pesticide is stored in a
+storage facility that
+     (a) is maintained and used exclusively for the storage of a pesticides;
+     (b) is free of an accumulation of waste materials other than pesticide
+     containers;
+     (c) has a floor constructed
+         (i) of concrete or other water-impervious material that
+             (A) is recessed by at least 10 centimetres from the entrance, or
+             (B) has a liquid-tight sill that is raised by at least 10
+             centimetres from the floor, and
+         (ii) in a manner that will contain and control up to 150% of the
+         volume of any liquid pesticide stored in the facility; or
+     (d) has a separate containment unit that is constructed
+         (i) of concrete or other water-impervious material, and
+         (ii) in a manner that will contain and control up to 150% of the
+         volume of any liquid pesticide stored in the containment unit;
+     (e) provides adequate ventilation, either mechanical or natural;
+     (f) has conspicuously placed ‘NO SMOKING’ signs;
+     (g) has a sign that states ‘WARNING—PESTICIDE STORAGE
+     AREA’ on all doors;
+     (h) is not accessible to the public and is locked when the holder of
+     the licence or an employee of the that person is not present on the
+     premises on which the pesticide is stored;
+     (i) has properly maintained and approved safety equipment to be
+     used in emergency situations;
+     (j) includes secure shelving, raised flooring, or otherwise provide for
+     ‘off the floor’ product storage;
+     (k) has no floor drainage;
+     (l) is positioned not less than 8.0 metres from incompatible materials
+     (e.g., fuels, fertilizers);
+     (m) has posted, by the nearest phone, the following emergency
+     telephone numbers:
+         (i) 911 (fire, police, ambulance),
+         (ii) provincial pesticide enforcement office,
+         (iii) provincial or regional poison control centre,
+         (iv) provincial environmental emergency office;
+     (n) includes an up-to-date product storage inventory; and
+     (o) includes, on-site, reference Material Safety Data Sheets
+     (MSDSs) for all stored pesticides.
+
+
+                                      19
+20                     Cap. P-4                    Pesticides Control Act             Updated 2010
+                                                        Regulations
+
+
+                         (3) Revoked by EC189/10. (EC761/05; 71/07; 290/08; 189/10; 189/10)
+Effective date
+Duties of licensee     20.1 (1) Every person who holds a Domestic Pesticide Vendor Business
+                       Licence or a Non-domestic Pesticide Vendor Business Licence and sells
+                       controlled purchase domestic pesticides shall ensure that any display of
+                       such pesticides
+                           (a) is not accessible to any person other than the licensee or the
+                           licensee’s employees; and
+                           (b) is more than one metre away from any commodities that are
+                           intended to be used as
+                              (i) food for humans or animals,
+                              (ii) household furnishings, or
+                              (iii) toiletries, clothes, bedding or similar commodities.
+Storage of pesticide     (2) No person who holds a Domestic Pesticide Vendor Business
+                       Licence or a Non-domestic Pesticide Vendor Business Licence shall
+                       store a controlled purchase domestic pesticide unless
+                            (a) such pesticides are accessible only to a person who
+                               (i) is the licensee or an employee of the licensee, or
+                               (ii) has been given express permission by the licensee to enter the
+                               pesticide storage compartment, room or structure;
+                            (b) the compartment, room or structure in which such pesticides are
+                            stored is ventilated to the outside atmosphere;
+                            (c) a placard is affixed and maintained on the outside of each door
+                            leading into the compartment, room or structure in which the
+                            pesticide is stored bearing, in clearly visible block letters,
+                               (i) the words “Warning” and “Authorized Persons Only”, and
+                               (ii) the words “Chemical Storage” or “Pesticide Storage”; and
+                            (d) the compartment, room or structure in which the pesticide is
+                            stored,
+                               (i) does not have a drain that leads into or drains directly or
+                               indirectly into a storm sewer, sanitary sewer or watercourse,
+                               (ii) has, located nearby, adequate respiratory protection and
+                               adequate protective clothing to be used for emergency purposes,
+                               and
+                               (iii) is more than one metre away from any commodities that are
+                               intended to be used as
+                                   (A) food for humans or animals,
+                                   (B) household furnishings, or
+                                   (C) toiletries, clothes, bedding or similar commodities.
+                                   (EC71/07; 2010/89; 2010/89)
+Selling pesticide      20.2 Every person who sells self-select domestic pesticides
+                           (a) shall display or store such pesticides in a manner that ensures
+                           that the pesticides do not present a hazard to children; and
+
+
+
+                                                            20
+Updated 2010                Pesticides Control Act                  Cap. P-4                     21
+                                 Regulations
+
+
+    (b) shall not display or store self-select domestic pesticides less than
+    one metre away from any commodities that are intended to be used
+    as
+       (i) food for humans or animals,
+       (ii) household furnishings, or
+       (iii) toiletries, clothes, bedding or similar commodities. (EC71/07)
+21. (1) Every person who handles, loads, transports, mixes or applies a        Permit to be carried,
+Schedule 1 pesticide shall carry on their person a Pesticide Application       when
+
+Permit at all times when the person is handling, loading, transporting,
+mixing or applying the Schedule 1 pesticide.
+  (2) Revoked by EC290/08. (EC761/05; 290/08)                                  Labels
+
+22. Every person who applies, stores, handles, mixes, loads or transports      Package labels
+a pesticide shall do so in the manner specified on the pesticide package
+label. (EC761/05; 71/07)
+22.1 Every person who holds a licence, certificate or permit issued under      Comply with terms,
+these regulations shall comply with all terms or conditions placed on          conditions
+
+such licence, certificate or permit. (EC71/07)
+22.2 (1) Notwithstanding clause 28(2)(k), a person may apply a ready-          Ready-to-use
+to-use herbicide using a wiper, brush or roller if the person                  herbicide
+
+    (a) has completed training regarding the application of ready-to-use
+    herbicides that was
+       (i) approved by the Director,
+       (ii) conducted in a language appropriate to that person, and
+       (iii) provided or conducted by a person who holds a Class A or
+       Class I Pesticide Applicator Certificate; and
+    (b) is supervised, when applying the ready-to-use herbicide, by
+    another person who
+       (i) holds a Class A or Class I Pesticide Applicator Certificate,
+       and
+       (ii) is present at the site where the ready-to-use herbicide is being
+       applied and is within direct sight of the person applying the
+       ready-to-use herbicide.
+  (2) A person who trains another person in the application of a ready-        Record of training
+to-use herbicide using a wiper, brush or roller shall provide
+    (a) the person, on the completion of the training; and
+    (b) the employer, if any, of the person at the time the person
+    completes the training,
+with a written record of the training, which shall include
+    (c) a description of the training completed;
+    (d) the name of the person who was trained;
+
+
+                                     21
+22                   Cap. P-4                    Pesticides Control Act             Updated 2010
+                                                      Regulations
+
+
+                          (e) the date the training was completed; and
+                          (f) the name of the person that performed the training.
+Records retention      (3) An employer who, pursuant to subsection (2), receives a written
+availability         record of the training of a person shall
+                         (a) keep the written record for a period of at least three years from
+                         the date the training was completed; and
+                         (b) make the record available, on request, to any environment officer
+                         appointed under the Environmental Protection Act, any
+                         environmental health officer appointed under the Public Health Act
+                         R.S.P.E.I. 1988, Cap. P-30, any medical practitioner registered
+                         under the Medical Act R.S.P.E.I. 1988, Cap. M-5 or any
+                         conservation officer appointed or designated under the Wildlife
+                         Conservation Act R.S.P.E.I. 1988, Cap. W-4.1. (EC290/08)
+
+                                                    OFFENCES
+Disposal of          23. No person who disposes of
+pesticide, etc            (a) a pesticide;
+                          (b) a mixture containing a pesticide;
+                          (c) a material treated with a pesticide,
+                          (d) a container that held a pesticide,
+                     shall carry out the disposal other than in the manner and using the
+                     method recommended by the manufacturer or the Minister.
+                     (EC761/0571/07)
+Prior notice of      24. (1) No person shall apply a non-domestic pesticide for the control of
+application          a landscape, structural, greenhouse or soil-based pest unless the person
+                     has provided notice, in accordance with subsection (2), to all persons
+                     who own property that is located within 25 metres of the proposed
+                     pesticide application, measured from the edge of the area to which the
+                     pesticide is to be applied,
+                          (a) in writing, at least 24 hours but not more than 48 hours prior to
+                          the pesticide application; or
+                          (b) by phone, at least 24 hours but not more than 48 hours prior to
+                          the pesticide application and in writing immediately prior to the
+                          pesticide application.
+Contents of notice     (2) The notice required in subsection (1) shall include
+                         (a) the trade name and PCP Act (Canada) Number of the pesticide
+                         being applied;
+                         (b) the active ingredient or ingredients of the pesticide or pesticides
+                         being applied;
+                         (c) the pest or pests for which control is being undertaken;
+                         (d) the proposed date and time of the application;
+                         (e) the name and phone number of the pesticide applicator; and
+
+
+                                                          22
+Updated 2010                Pesticides Control Act                  Cap. P-4                       23
+                                 Regulations
+
+
+    (f) the recommended caution interval and re-entry time, if such is
+    available from the pesticide manufacturer, or as appears on the
+    pesticide label. (EC761/05; 71/07)
+25. (1) No person shall apply a non-domestic pesticide for the control of      Posting notices
+a landscape, structural, greenhouse or soil-based pest unless,
+immediately prior to the pesticide application, the person posts a notice,
+in accordance with subsection (2), on the area to which the pesticide is to
+be applied.
+  (2) The notice required in subsection (1) shall include                      Contents of notice
+    (a) the trade name and PCP Act (Canada) Number of the pesticide
+    being applied;
+    (b) the active ingredient or ingredients of the pesticide or pesticides
+    being applied;
+    (c) the pest or pests for which control is being undertaken;
+    (d) the date and time, or proposed date and time, of the application;
+    (e) the name and phone number of the pesticide applicator;
+    (f) the recommended caution interval and re-entry time, if such is
+    available from the pesticide manufacturer, or as appears on the
+    pesticide label
+and be posted on a sign or signs that
+    (g) measure not less than 22 cm by 28 cm;
+    (h) are constructed of weather-resistant materials;
+    (i) have all the required information printed, in weather-resistant ink,
+    on both sides of the sign; and
+    (j) are positioned in such a manner, and in such quantity, as to make
+    them clearly visible to the public.
+  (3) No person shall apply a pesticide to, or within, a structure, or         Signs at entrances
+engage in the fumigation of a structure, unless the person first ensures       and exits
+
+that signs, in accordance with subsection (2), are posted at all entrances
+and exits to the structure.
+  (4) Every owner of a property on which notice is posted under                Owner to ensure
+subsection (1) shall ensure that all posted signs remain in place and are      notices remain for
+                                                                               48 hours
+clearly visible to the general public for a period of at least 48 hours
+following the pesticide application, or for the label-recommended
+caution period, whichever is greater. (EC761/05; 71/07)
+26. No person who holds a Non-domestic Pesticide Vendor Business               Storage of
+Licence shall store pesticides in a facility other than a Phase III storage    pesticides
+
+facility. (EC761/05)
+27. (1) No person shall transport in, or on, a vehicle a pesticide together    Transportation of
+with commodities that are                                                      pesticide
+
+
+
+
+                                     23
+24                  Cap. P-4                     Pesticides Control Act              Updated 2010
+                                                      Regulations
+
+
+                         (a) foodstuffs, feeds or any other material intended for consumption
+                         by humans or animals;
+                         (b) household furnishings; or
+                         (c) toiletries, clothes, bedding or similar commodities,
+                    unless the pesticide being transported is separated from such
+                    commodities in a manner sufficient to prevent their contamination or
+                    likely contamination by the concentrated pesticide.
+Idem                  (2) Every person who transports a concentrated non-domestic pesticide
+                    in, or on, a vehicle shall ensure that
+                         (a) such pesticide is packaged in the original manufacturer’s sealed
+                         container in a manner that will ensure that the pesticide will not spill
+                         out of the container; and
+                         (b) the container referred to in clause (a) is
+                            (i) enclosed within a leak-proof compartment that is separate
+                            from, but securely affixed to the vehicle, or
+                            (ii) secured to the vehicle by straps or other appropriate means
+                            that render the pesticide safe for transport.
+Exception             (3) Clause 2(b) does not apply to a concentrated non-domestic
+                    pesticide packaged in a manufacturer’s drum, or to other bulk containers
+                    if they are secured to the transport vehicle in accordance with the
+                    Highway Traffic Act Commercial Vehicle (Cargo Securement)
+                    Regulations.
+Equipment to be       (4) Every person who owns, or has possession of, pesticide application
+locked              equipment shall ensure that the equipment is locked while unattended.
+Transports, sells     (5) Every person who
+treated seed             (a) transports seed treated with a pesticide; or
+                         (b) sells or supplies seed treated with a pesticide to any other person,
+                    shall label all containers of such seed with the words “Seed treated with -
+                    (name of pesticide). Do not use for food or feed”. (EC761/05; 313/06)
+Licence mandatory   28. (1) No person shall
+                         (a) operate ground agricultural equipment, if
+                            (i) the person uses the equipment to apply a pesticide for a fee,
+                            charge or other valuable consideration, and
+                            (ii) fifty per cent or more of the annual usage of the equipment is
+                            a use described in subclause (i),
+                         unless the person holds a Class A Pesticide Application Business
+                         Licence;
+                         (b) offer a service involving the application of a pesticide for the
+                         control of mosquitoes or biting flies unless the person holds a Class
+                         B Pesticide Application Business Licence;
+
+
+
+                                                          24
+Updated 2010                Pesticides Control Act                   Cap. P-4                 25
+                                 Regulations
+
+
+    (c) offer a service involving the application of a non-fumigant
+    pesticide to stored feed, or to dwellings or other structures unless the
+    person holds a Class C-1 Pesticide Application Business Licence;
+    (d) offer a service involving the application of a fumigant pesticide
+    to stored feed, or to dwellings or other structures unless the person
+    holds a Class C-2 Pesticide Application Business Licence;
+    (e) offer a service involving the application of a seed or seed-piece
+    treatment pesticide unless the person holds a Class D Pesticide
+    Application Business Licence;
+    (f) offer a service involving the application of a pesticide to
+    ornamental vegetation, golf course turf and other non-crop areas not
+    referred to in clause (c) or (d) unless the person holds a Class E
+    Pesticide Application Business Licence;
+    (g) offer a pesticide application service for forestry herbicide
+    application unless the person holds a Class F-1 Pesticide Application
+    Business Licence;
+    (h) offer a service involving the application of a pesticide for the
+    production of tree seedlings for reforestation purposes unless the
+    person holds a Class F-2 Pesticide Application Business Licence;
+    (i) offer a service involving the application of a pesticide in a
+    greenhouse unless the person offering such service holds a Class G
+    Pesticide Application Business Licence, or a Class F-2 Pesticide
+    Application Business Licence;
+    (j) offer a service involving the application of a soil fumigant
+    pesticide unless the person holds a Class H Pesticide Application
+    Business Licence; and
+    (k) offer a pesticide application service for the application of a
+    herbicide using a wiper, brush or roller, or by making a spot
+    treatment , unless the person holds a Class I Pesticide Application
+    Business Licence;
+    (l) offer a pesticide application service not specified in clauses (a) to
+    (k), unless the person holds a Class J Pesticide Application Business
+    Licence.
+  (2) No person shall                                                           Certificate
+    (a) apply a non-domestic pesticide to control pests                         mandatory
+
+       (i) on agricultural land, or
+       (ii) on an agricultural crop or product that is not located in a
+       greenhouse,
+    unless the person holds a Class A Pesticide Applicator Certificate;
+    (b) apply a non-domestic pesticide to control mosquitoes or biting
+    flies unless the person holds a Class B Pesticide Applicator
+    Certificate;
+
+
+
+
+                                     25
+26                     Cap. P-4                    Pesticides Control Act             Updated 2010
+                                                        Regulations
+
+
+                            (c) apply a non-domestic, non-fumigant pesticide to stored feed,
+                            dwellings or other structures unless the person holds a Class C-1
+                            Pesticide Applicator Certificate;
+                            (d) apply a fumigant pesticide to stored feed, dwellings or other
+                            structures unless the person holds a Class C-2 Pesticide Applicator
+                            Certificate;
+                            (e) apply a non-domestic pesticide as a seed or seed-piece treatment
+                            unless the person holds a Class D Pesticide Applicator Certificate;
+                            (f) apply a non-domestic pesticide to ornamental vegetation, golf
+                            course turf and other non-crop areas not referred to in clause (c) or
+                            (d) unless the person holds a Class E Pesticide Applicator
+                            Certificate;
+                            (g) apply a non-domestic forestry herbicide unless the person holds a
+                            Class F-1 Pesticide Applicator Certificate;
+                            (h) apply a non-domestic pesticide for the production of tree
+                            seedlings for reforestation purposes unless the person holds a Class
+                            F-2 Pesticide Applicator Certificate;
+                            (i) apply a non-domestic pesticide in a greenhouse, other than a
+                            person who holds a Class F-2 licence unless the person holds a Class
+                            G Pesticide Applicator Certificate;
+                            (j) apply a soil fumigant pesticide unless the person holds a Class H
+                            Pesticide Applicator Certificate; and
+                            (k) apply a herbicide using a wiper, brush or roller, or by making a
+                            spot treatment, unless the person holds a Class I Pesticide Applicator
+                            Certificate; and
+                            (l) apply a non-domestic pesticide for any purpose not specified in
+                            clauses (a) to (k) unless the person holds a Class J Pesticide
+                            Applicator Certificate. (EC761/05; 313/06; 71/07; 290/08)
+Licence mandatory      28.1 No person shall operate a business involving the sale or supply of a
+                       controlled purchase domestic pesticide unless the person holds a
+                       Domestic Pesticide Vendor Business Licence or a Non-domestic
+                       Pesticide Vendor Business Licence. (EC71/07)
+Mixing pesticide       29. No person shall mix a non-domestic pesticide unless the person
+                           (a) holds a Loader/mixer Certificate; or
+                           (b) holds a Pesticide Applicator Certificate. (EC761/05; 313/06;
+                           71/07; 290/08)
+Licence mandatory      30. No person shall operate a business involving the sale or supply of a
+                       non-domestic pesticide unless the person holds a Non-domestic Pesticide
+                       Vendor Business Licence.
+Certificate required   30.1 No person shall
+                           (a) sell, or offer to sell, a controlled purchase domestic pesticide to
+                           another person; or
+
+
+                                                            26
+Updated 2010                Pesticides Control Act                 Cap. P-4                      27
+                                 Regulations
+
+
+    (b) provide pesticide related information or recommendations
+    regarding controlled purchase domestic pesticides to another person,
+unless the person selling or offering to sell such pesticide, or providing
+such information holds a Domestic Pesticide Vendor Certificate or a
+Non-domestic Pesticide Vendor Certificate. (EC71/07)
+31. (1) No person shall sell a non-domestic pesticide or a Schedule 1         Certificate required
+pesticide to any person unless the person holds a Non-domestic Pesticide
+Vendor Certificate.
+                                                                              Information or
+   (2) No person, while acting as an employee of a business that is           recommendations
+licensed to sell non-domestic pesticides, shall provide pesticide related
+information or recommendations to another person unless the person
+holds a Non-domestic Pesticide Vendor Certificate. (EC761/05)
+32. (1) No person shall sell or offer to sell a non-domestic pesticide to a   Certificate, permit
+purchaser unless the purchaser                                                or licence
+                                                                              mandatory
+     (a) holds a Pesticide Applicator Certificate;
+     (b) holds or is authorized to use a Pesticide Purchase Permit; or
+     (c) holds a Pesticide Applicator Business Licence.
+  (2) No person shall purchase a non-domestic pesticide unless the            Certificate or permit
+person holds                                                                  mandatory
+
+    (a) a Pesticide Applicator Certificate; or
+    (b) is authorized to use a Pesticide Purchase Permit.
+  (3) No person shall purchase a Schedule 1 pesticide unless the person       Idem
+    (a) holds a Pesticide Applicator Certificate or is authorized to use a
+    Pesticide Purchase Permit; and
+    (b) holds a Pesticide Application Permit.
+  (4) No person shall sell or offer to sell a Schedule 1 pesticide to a       Idem
+purchaser unless the purchaser
+    (a) holds a Pesticide Applicator Certificate, is authorized to use a
+    Pesticide Purchase Permit or holds a Pesticide Applicator Business
+    Licence; and
+    (b) holds a Pesticide Application Permit. (EC761/05)
+33. No person authorized under section 18 to use a Pesticide Purchase         Permit not to be
+Permit shall use the Permit for any purpose other than to purchase a non-     used for another
+                                                                              purpose
+domestic pesticide for the use of the person authorizing the use of the
+permit. (EC761/05; 290/08)
+34. No person shall give, transfer, sell, lend or assign a Pesticide          Permit not
+Purchase Permit to any other person, except as authorized by the              transferable
+
+Director, in writing, or by an operator or a holder under section 18.
+(EC761/05; 313/06)
+
+
+                                     27
+28                  Cap. P-4                    Pesticides Control Act             Updated 2010
+                                                     Regulations
+
+
+                    35. No person shall apply
+”Prohibition
+                        (a) a pesticide to any open body of water;
+                        (b) a pesticide to control mosquitoes or biting flies;
+                        (c) a pesticide within a buffer zone; or
+                        (d) a pesticide listed in Schedule 1,
+                    unless the person holds a Pesticide Application Permit. (EC761/05;
+                    290/08)
+No application of
+Schedule 6          36. No person shall apply a pesticide that is listed in Schedule 6 of these
+pesticide           regulations. (EC761/05)
+No application by   37. No person shall use an aircraft to apply a pesticide or pesticide
+aircraft            mixture. (EC761/05)
+Filling, washing,   38. (1) No person shall permit or cause any sprayer or other equipment
+etc. sprayer        used to apply pesticides to be
+                         (a) filled, discharged, washed or flushed out within 25 metres of the
+                         water’s edge of any open body of water; or
+                         (b) discharged, washed or flushed out within 25 metres of a water
+                         well.
+Distance measured     (1.1) The distances referred to in subsection (1) shall be measured
+horizontally        horizontally.
+Idem                  (2) No person shall permit or cause any sprayer or other equipment
+                    used to apply pesticides to be filled from an open body of water or a
+                    water well.
+Idem                  (3) No person shall permit or cause any container in which any
+                    pesticide is, or has been stored, to be brought, used or abandoned within
+                    25 metres, measured horizontally, of the water’s edge of any open body
+                    of water. (EC761/05; 313/06)
+Wind speed          39. (1) Subject to subsection (2), no person shall apply a pesticide,
+                         (a) in a dry formulation; or
+                         (b) in a liquid formulation that is under pressure,
+                    when the wind speed, measured at the point of application, exceeds 20
+                    km/h.
+Exception             (2) Subsection (1) does not apply to the application of a herbicide
+                    using a wiper, brush or roller. (EC761/05; 71/07)
+Discharge in        40. No person shall allow any pesticide, pesticide mixture or solution
+accordance with     containing a pesticide to be discharged from any equipment used in the
+label
+                    transport, storage or application of pesticides except in a manner
+                    permitted by the manufacturer’s label. (EC761/05)
+
+
+
+
+                                                         28
+Updated 2010              Pesticides Control Act                Cap. P-4                 29
+                               Regulations
+
+
+40.1 (1) No person shall use pesticide products on a commercial golf
+                                                                           Prohibition
+course that contain any form of the chemical 2,4-Dichlorophenoxyacetic
+Acid for the control of lawn pests within 25 metres of
+    (a) a watercourse boundary or wetland boundary; or
+    (b) the boundary of an adjacent property used for commercial,
+    industrial, residential or institutional purposes.
+  (2) Where a person applies a pesticide product containing any form of    Restriction
+the chemical 2,4-Dichlorophenoxyacetic Acid on a commercial golf
+course for the control of lawn pests, the person shall only apply the
+product on,
+    (a) fairways;
+    (b) tee-off areas; and
+    (c) greens. (EC189/10)
+
+40.2 No person shall sell, supply or use any domestic pesticide for the    Prohibition
+
+control of lawn pests that
+    (a) is a fertilizer-pesticide blended product;
+    (b) is a granular spreadable pesticide;
+    (c) is a hose-end pesticide;
+    (d) is a pesticide concentrate; or
+    (e) contains the chemical 2,4-Dichlorophenoxyacetic Acid.
+    (EC189/10)
+41. The Pesticides Control Act Regulations (EC543/84) are revoked.         Revocation
+(EC761/05)
+
+
+
+
+                                   29
+30   Cap. P-4                  Pesticides Control Act          Updated 2010
+                                    Regulations
+
+
+
+                                SCHEDULE 1
+                  PESTICIDES FOR WHICH A PERMIT IS REQUIRED
+
+     1. Dinoseb 300 EC                                  PCP Act No. 15086
+     2. Vecto Bac 200 G                                 PCP Act No. 18158
+     3. Vecto Bac 600L                                  PCP Act No. 19455
+     4. Vecto Bac 1200L                                 PCP Act No. 8106
+     5. Guthion Spray Concentrate                       PCP Act No. 21062
+     6. Guthion Spray Concentrate Insecticide           PCP Act No. 9398
+     7. Guthion 50% WP Crop Insecticide                 PCP Act No. 10101
+     8. Azinphos Methyl 50W Wettable Powder 50%         PCP Act No. 15645
+     9. APM 50W Wettable Powder Insecticide             PCP Act No. 16412
+     10. Azinphos Methyl 240 EC                         PCP Act No. 17533
+     11. Guthion Solupak                                PCP Act No. 21374
+     12. Clean Crop Azinphos-M 50W                      PCP Act No. 22087
+     13. Azinphos Methyl 35W                            PCP Act No. 22265
+     14. Clean Crop Azinphos-M 240 EC                   PCP Act No. 22562
+     15. APM 50W Instapak                               PCP Act No. 22864
+     16. Sniper 50W                                     PCP Act No. 23287
+     17. Sniper 50W Clean Pak                           PCP Act No. 23323
+     18. Sniper 240 E                                   PCP Act No. 23337
+     19. Vapam Liquid Solution Soil Fumigant            PCP Act No. 6453
+     20. Terr-o-gas 67 Preplant Soil Fumigant           PCP Act No. 13477
+     21. BASF Basamid Granular (Soil Fumigant)          PCP Act No. 15032
+     22. Busan 1020                                     PCP Act No. 19421
+     23. TCC Methyl Bromide Fumigant                    PCP Act No. 19498
+     24. BASF Metam Fluid 380 G/L                       PCP Act No. 19556
+     25. Chloropicrin 100 Liquid Soil Fumigant          PCP Act No. 25863
+     (EC761/05)
+
+
+
+
+                                        30
+Updated 2010                       Pesticides Control Act                            Cap. P-4    31
+                                        Regulations
+
+
+
+                                   SCHEDULE 2
+                               EXCLUDED PESTICIDES
+
+Pesticides are designated as excluded pesticides, where the pesticide is used
+      (a) as a bactericide in cutting oils or aviation and marine fuels;
+      (b) in household or agricultural
+             (i) cleansers,
+             (ii) deodorizers,
+             (iii) disinfectants, or
+             (iv) soaps;
+      (c) as a dust control agent;
+      (d) as a fabric softener;
+      (e) as a bactericide or algaecide for use in swimming pools, domestic water supplies,
+      industrial cooling systems, home aquaria, aquaculture facilities, or ornamental pools;
+      (f) as a surfactant, preservative or adjuvant;
+      (g) as wood preservatives;
+      (h) as bait or attractant for flies or biting insects, powder or liquid formulations for
+      lice or barn spray;
+      (i) in pesticide analysis and research work in a laboratory or experimental research
+      plot;
+      (j) in an industrial process incorporating a pesticide into a manufactured product on
+      the premises where the product is manufactured;
+      (k) by medical practitioners, veterinarians or health officers for the purpose of
+      treatment, control, mitigation or prevention of pests in or on humans or animals; or
+      (l) as a mechanism to repel, attract or otherwise control or kill nuisance insects.
+      (EC761/05; 71/07; 290/08; 417/10)
+
+
+
+
+                                             31
+32     Cap. P-4                                                Pesticides Control Act                                          Updated 2010
+                                                                    Regulations
+
+
+                                                                     SCHEDULE 3
+
+                                                                               FORMS
+
+                                              FORM 1 – LOADER/MIXER CERTIFICATE
+
+
+                                                    LOADER/MIXER CERTIFICATE
+
+
+
+     Name: .........................................................................................
+     Address: .....................................................................................
+     .....................................................................................................           Photo here
+     Phone: ........................................................................................
+     Certificate Number: ...................................................................
+     Expiry Date: ...............................................................................
+     Authorized Signature: ................................................................
+
+
+       (EC761/05)
+
+                     FORM 2 –NON-DOMESTIC PESTICIDE VENDOR BUSINESS LICENSE
+
+
+                                               Province of Prince Edward Island
+                                        Department of Environment, Energy and Forestry
+
+                                                           Non-Domestic Pesticide
+                                                           Vendor Business Licence
+
+
+                                                            This certifies that
+                                                 a licence was issued by the Minister to
+
+                                                                  (Company Name)
+
+                                                    to sell pesticides in the Province of
+                                                            Prince Edward Island
+                                                        pursuant to section 13 of the
+                                                    Pesticides Control Act regulations.
+
+     Licence Number: .......................................................................................................................
+     Issue Date: .................................................................................................................................
+     Expiry Date: ..............................................................................................................................
+     Authorized Signature .................................................................................................................
+
+       (EC761/05)
+
+
+
+
+                                                                               32
+  Updated 2010                                            Pesticides Control Act                                                  Cap. P-4      33
+                                                               Regulations
+
+
+
+                                            FORM 3 – NON-DOMESTIC PESTICIDE
+                                                 VENDOR CERTIFICATE
+
+
+                           NON-DOMESTIC PESTICIDE VENDOR CERTIFICATE
+
+
+
+Name: .........................................................................................
+Address: .....................................................................................
+....................................................................................................           Photo here
+Phone: ........................................................................................
+Certificate Number: ...................................................................
+Expiry Date: ...............................................................................
+Authorized Signature: ................................................................
+
+
+  (EC761/05)
+
+                          FORM 4 - PESTICIDE APPLICATION BUSINESS LICENCE
+
+
+                                          Province of Prince Edward Island
+                                   Department of Environment, Energy and Forestry
+
+                                          Pesticide Application Business Licence
+
+
+                                                       This certifies that
+                                            a licence was issued by the Minister to
+
+                                                            (Company Name)
+
+                                           to operate a (Class of Licence) pesticide
+                                                   application service in the
+                                              Province of Prince Edward Island
+                                                 pursuant to section 5 of the
+                                              Pesticides Control Act regulations.
+
+Licence Number: .......................................................................................................................
+Issue Date: .................................................................................................................................
+Expiry Date: ...............................................................................................................................
+Authorized Signature: ................................................................................................................
+
+  (EC761/05)
+
+
+
+
+                                                                          33
+34     Cap. P-4                                                Pesticides Control Act                                                Updated 2010
+                                                                    Regulations
+
+
+
+                                      FORM 5 - PESTICIDE APPLICATOR CERTIFICATE
+
+
+                                            PESTICIDE APPLICATOR CERTIFICATE
+
+
+
+     Contact Name: ...........................................................................
+     Address: .....................................................................................
+     .....................................................................................................                Photo here
+     Phone: ........................................................................................
+     Applicator Class: ........................................................................
+     Certificate Number: ...................................................................
+     Expiry Date: ...............................................................................
+     Authorized Signature: ................................................................
+
+
+       (EC761/05)
+
+                                             FORM 6 – PESTICIDE PURCHASE PERMIT
+
+
+                                                   PESTICIDE PURCHASE PERMIT
+
+     Company Name: .......................................................................................................................
+     Contact Name: ..........................................................................................................................
+     Address: ....................................................................................................................................
+     ....................................................................................................................................................
+     Phone: .......................................................................................................................................
+     Certificate Number: ..................................................................................................................
+     Expiry Date: ..............................................................................................................................
+     Authorized Signature: ...............................................................................................................
+
+       (EC761/05)
+
+
+
+
+                                                                               34
+ Updated 2010                        Pesticides Control Act                           Cap. P-4     35
+                                          Regulations
+
+
+
+                                           FORM 7
+
+       APPLICATION FOR PESTICIDE APPLICATION BUSINESS LICENCE
+
+ Under section 28 of the Pesticide Control Act Regulations, a person who operates a
+ business or provides a service that involves the application of a domestic or non-domestic
+ pesticide for a fee must hold a Pesticide Application Business Licence.
+
+ Personal information on this form is collected under section 5 of the Pesticide Control Act
+ Regulations as it relates directly to and is necessary for an application for a Pesticide
+ Application Business Licence. If you have any questions about this collection of personal
+ information, you may contact the Manager of the Pesticide Regulatory Program, 11 Kent
+ Street, Jones Building, Charlottetown, PEI C1A 7N8, Phone: (902) 368-5474.
+
+Applicant Contact Information
+Company Name:
+Contact Name:
+Phone:                                         Fax:
+Mailing Address:
+
+Postal Code:                                    Email:
+
+ Applicant’s Signature: ________________________ Date: _______________________
+ (Where applicant is a partnership or a corporation, the signature of a partner, or an
+ authorized officer of the corporation is required.)
+
+Licence Class – check one
+o Class A, Agricultural – operating ground agricultural equipment for pesticide application
+o Class B, Mosquito & Biting Fly - application of a pesticide for the control of mosquitoes or
+     biting flies
+o Class C-1, Structural - application of a non-fumigant pesticide to stored feed, dwellings or
+     other structures
+o Class C-2, Structural Fumigation - application of a fumigant pesticide to stored feed,
+   dwellings or other structures
+o Class D, Seed/Seed-piece Treatment - application of a seed or seed-piece treatment
+   pesticide
+o Class E, Landscape - application of a pesticide to ornamental vegetation
+o Class F-1, Forestry Herbicides - forestry herbicide application
+o Class F-2, Reforestation - application of a pesticide for the production of tree seedlings for
+   reforestation purposes
+o Class G, Greenhouse - application of a pesticide in greenhouses
+o Class H, Soil Fumigation - application of a soil fumigant pesticide
+o Class I, Manual Herbicide Treatment - application of a herbicide using a wiper, brush, roller
+   or by spot treatment
+  Class J, Other - other pesticide applications
+
+o New Applicant              o Renewal of Licence
+                              Present Licence Number:
+Certified Applicator Information (Pesticide Applicator Certificate Holder)
+Name:
+Phone:                                      Fax:
+Mailing Address:
+
+
+
+
+                                               35
+36    Cap. P-4                           Pesticides Control Act                      Updated 2010
+                                              Regulations
+
+
+     Postal Code:                                   Email:
+     Certified Applicator Status:   o Owner of Company o Employee of Company
+     Certificate Class and No.:
+     Certificate Expiry Date:
+
+      Signature of Certified Applicator: ______________________ Date:__________________
+          (if not company owner)
+
+      iThe application fee for a Pesticide Application Business Licence is $200 per licence
+      iA separate application is required for each licence applied for
+      iA copy of the insurance policy required by clause 5(1)(a) of the regulations
+       (limited pollution liability and general public liability) must accompany all applications
+
+      Method of Payment                 Please forward application and payment to:
+      (Check appropriate box)           Department of Environment, Energy and Forestry
+      o Cheque                          Pollution Prevention Division
+      o Money Order                     Pesticide Regulatory Program
+      o Cash or Debit Card              PO Box 2000, 11 Kent Street
+      o Credit Card                     Charlottetown, PE C1A 7N8
+      Amount Enclosed: $_______         Tel: (902) 368-5474
+
+      Cheques or money orders should be made payable to the Minister of Finance and
+      Municipal Affairs. Pesticide Application Business Licences will be mailed to the
+      applicant’s address above. Please allow two weeks for delivery.
+      (EC761/05; 290/08; 189/10)
+
+
+
+
+                                                   36
+ Updated 2010                       Pesticides Control Act                           Cap. P-4   37
+                                         Regulations
+
+
+
+                                          FORM 8
+
+           APPLICATION FOR PESTICIDE APPLICATOR CERTIFICATE
+
+ Under subsection 28(2) of the Pesticide Control Act Regulations, a person who applies a
+ non-domestic pesticide must hold a Pesticide Applicator Certificate.
+
+ Personal information on this form is collected under section 6 of the Pesticide Control Act
+ Regulations as it relates directly to and is necessary for an application for a Pesticide
+ Applicator Certificate. If you have any questions about this collection of personal
+ information, you may contact the Manager of the Pesticide Regulatory Program, 11 Kent
+ Street, Jones Building, Charlottetown, PEI C1A 7N8, Phone: (902) 368-5474.
+
+Applicant Contact Information
+Name:
+Phone:                                        Fax:
+Mailing Address:
+
+Postal Code:                                   Email:
+Are you over the age of 18?     Yes o No o
+
+ Applicant’s Signature: ________________________         Date: _______________________
+
+Certificate Class – check one
+
+
+
+
+                                              37
+38    Cap. P-4                            Pesticides Control Act                      Updated 2010
+                                               Regulations
+
+
+
+     o Class A, Agricultural – operating ground agricultural equipment for pesticide application
+     o Class B, Mosquito & Biting Fly - application of a pesticide for the control of mosquitoes
+        or biting flies
+     o Class C-1, Structural - application of a non-fumigant pesticide to stored feed, dwellings
+        or other structures
+     o Class C-2, Structural Fumigation - application of a fumigant pesticide to stored feed,
+        dwellings or other structures
+     o Class D, Seed/Seed-piece Treatment -     application of a seed or seed-piece treatment
+        pesticide
+     o Class E, Landscape - application of a pesticide to ornamental vegetation
+     o Class F-1, Forestry Herbicides - forestry herbicide application
+     o Class F-2, Reforestation - application of a pesticide for the production of tree seedlings
+        for reforestation purposes
+     o Class G, Greenhouse - application of a pesticide in greenhouses
+     o Class H, Soil Fumigation - application of a soil fumigant pesticide
+     o Class I, Manual Herbicide Treatment - application of a herbicide using a wiper, brush,
+        roller or by spot treatment
+      Class J, Other - other pesticide applications
+     Office Use Only
+     Examination Date:
+     Examination Mark:
+     Certificate Status:
+                                o Approved             o Denied
+      iThe application fee for a Pesticide Applicator Certificate is $75
+      iA separate application is required for each certificate
+      iPrior to a certificate being issued , the applicant must successfully complete a written
+       examination appropriate to the class of certificate applied for, with a mark in the
+       examination of not less than 75%
+
+
+      Method of Payment                  Please forward application and payment to:
+      (Check appropriate box)            Department of Environment, Energy and Forestry
+      o Cheque                           Pollution Prevention Division
+      o Money Order                      Pesticide Regulatory Program
+      o Cash or Debit Card               PO Box 2000, 11 Kent Street
+      o Credit Card                      Charlottetown, PE C1A 7N8
+      Amount Enclosed: $_________        Tel: (902) 368-5474
+
+      Cheques or money orders should be made payable to the Minister of Finance and
+      Municipal Affairs. Pesticide Applicator Certificates will be mailed to applicant’s
+      address above. Please allow two weeks for delivery.
+      (EC761/05; 290/08; 189/10)
+
+
+
+
+                                                    38
+ Updated 2010                       Pesticides Control Act                           Cap. P-4   39
+                                         Regulations
+
+
+
+                                          FORM 9
+
+                APPLICATION FOR LOADER/MIXER CERTIFICATE
+
+ Under clauses 29(1)(a) and (2)(a) of the Pesticide Control Act Regulations, a person who
+ transports or mixes a non-domestic pesticide must hold a Loader/Mixer Certificate or other
+ certificate identified in section 29.
+
+ Personal information on this form is collected under section 10 of the Pesticide Control Act
+ Regulations as it relates directly to and is necessary for an application for a Loader/Mixer
+ Certificate. If you have any questions about this collection of personal information, you
+ may contact the Manager of the Pesticide Regulatory Program, 11 Kent Street, Jones
+ Building, Charlottetown, PEI C1A 7N8, Phone: (902) 368-5474.
+
+Applicant Contact Information
+Name:
+Phone:                                        Fax:
+Mailing Address:
+
+Postal Code:                                   Email:
+Are you over the age of 18?     Yes o         No o
+
+Applicant Experience
+Describe successful completion of a relevant loader/mixer training program (include dates):
+
+
+
+
+ Applicant’s Signature: ________________________         Date: _______________________
+
+                    The application fee for a Loader/Mixer Certificate is $50
+
+ Method of Payment                 Please forward application and payment to:
+ (Check appropriate box)           Department of Environment, Energy and Forestry
+ o Cheque                          Pollution Prevention Division
+ o Money Order                     Pesticide Regulatory Program
+ o Cash or Debit Card              PO Box 2000, 11 Kent Street
+ o Credit Card                     Charlottetown, PE C1A 7N8
+ Amount Enclosed: $_________       Tel: (902) 368-5474
+
+ Cheques or money orders should be made payable to the Minister of Finance and
+ Municipal Affairs. Loader/Mixer Certificates will be mailed to the applicant’s address
+ above. Please allow two weeks for delivery.
+ (EC761/05; 189/10)
+
+
+
+
+                                              39
+40    Cap. P-4                           Pesticides Control Act                     Updated 2010
+                                              Regulations
+
+
+
+                                               FORM 10
+
+           APPLICATION FOR NON-DOMESTIC PESTICIDE VENDOR BUSINESS
+                                  LICENCE
+
+      Under section 30 of the Pesticide Control Act Regulations, a person who operates a
+      business involving the sale or supply of non-domestic pesticides must hold a Non-Domestic
+      Pesticide Vendor Business Licence.
+
+      Personal information on this form is collected under section 13 of the Pesticide Control Act
+      Regulations as it relates directly to and is necessary for an application for a Non-Domestic
+      Pesticide Vendor Business Licence. If you have any questions about this collection of
+      personal information, you may contact the Manager of the Pesticide Regulatory Program,
+      11 Kent Street, Jones Building, Charlottetown, PEI C1A 7N8, Phone: (902) 368-5474.
+
+     Applicant Contact Information
+     Company Name:
+     Contact Name:
+     Phone:                                        Fax:
+     Mailing Address:
+
+     Postal Code:                                   Email:
+
+      Applicant’s Signature: ________________________ Date: _______________________
+      (Where applicant is a partnership or a corporation, the signature of a partner, or an
+      authorized officer of the corporation is required).
+
+     Licence Details
+
+     o New Applicant             o Renewal of Licence
+                                   Present Licence Number:
+     Type of Sales to be made (check all that apply) :   o Retail          o Wholesale
+     Storage Facility
+     CropLife Canada Phase III Compliance Number:
+     Status of Storage Facility: o Own o Lease o Other (specify):
+     Certified Vendor Information (Non-Domestic Pesticide Vendor Certificate Holder)
+     Name:
+     Phone:                                     Fax:
+     Mailing Address:
+
+     Postal Code:                                   Email:
+     Certified Vendor Status:   o Owner of Company o Employee of Company
+     Certificate Expiry Date:
+
+      Signature of Certified Vendor: ______________________ Date:_____________________
+          (if not company owner)
+
+
+
+
+                                                   40
+Updated 2010                     Pesticides Control Act                         Cap. P-4    41
+                                      Regulations
+
+
+The application fee for a Non-Domestic Pesticide Vendor Business Licence is as follows:
+       ° where up to 10,000 kg of active ingredients sold in the previous year - $100
+       ° where between 10,001 kg and 30,000 kg of active ingredients sold in the previous
+       ° year - $500
+       ° where between 30,001 kg and 50,000 kg of active ingredients sold in the previous
+       ° year - $1,000
+       ° where over 50,000 kg of active ingredients sold in the previous year - $2,500
+The sales data for all domestic and non-domestic pesticides sold to retail customers for
+the previous calendar year must be included with the application.
+
+Method of Payment           Please forward application and payment to:
+(Check appropriate box)     Department of Environment, Energy and Forestry
+o Cheque                    Pollution Prevention Division
+o Money Order               Pesticide Regulatory Program
+o Cash or Debit Card        PO Box 2000, 11 Kent Street
+o Credit Card               Charlottetown, PE C1A 7N8
+Amount Enclosed: $_________ Tel: (902) 368-5474
+
+Cheques or money orders should be made payable to the Minister of Finance and
+Municipal Affairs. Non-Domestic Pesticide Vendor Certificates will be mailed to the
+applicant’s address above. Please allow two weeks for delivery.
+(EC761/05; 189/10)
+
+
+
+
+                                           41
+42    Cap. P-4                           Pesticides Control Act                      Updated 2010
+                                              Regulations
+
+
+
+                                               FORM 11
+
+        APPLICATION FOR NON-DOMESTIC PESTICIDE VENDOR CERTIFICATE
+
+      Under section 31 of the Pesticide Control Act Regulations, a person who sells non-domestic
+      pesticides or Schedule 1 pesticides, to another person or while acting as an employee of a
+      business that is licensed to sell non-domestic pesticides or provide pesticide related
+      information or recommendations to another person, must hold a Non-Domestic Pesticide
+      Vendor Certificate.
+
+      Personal information on this form is collected under section 14 of the Pesticide Control Act
+      Regulations as it relates directly to and is necessary for an application for a Non-Domestic
+      Pesticide Vendor Certificate. If you have any questions about this collection of personal
+      information, you may contact the Manager of the Pesticide Regulatory Program, 11 Kent
+      Street, Jones Building, Charlottetown, PEI C1A 7N8, Phone: (902) 368-5474.
+
+     Applicant Contact Information
+     Name:
+     Phone:                                        Fax:
+     Mailing Address:
+
+     Postal Code:                                   Email:
+
+      Applicant’s Signature: ________________________          Date: _______________________
+
+     Office Use Only
+     Examination Date:
+     Examination Mark:
+     Certificate Status:
+                                      Approved o          Denied o
+
+      iThe application fee for a Non-Domestic Pesticide Vendor Certificate is $75 per certificate
+      iPrior to a certificate being issued , the applicant must successfully complete a written
+      examination appropriate to the class of certificate applied for, with a mark in the examination
+      of not less than 75%.
+
+      Method of Payment                 Please forward application and payment to:
+      (Check appropriate box)           Department of Environment, Energy and Forestry
+      o Cheque                          Pollution Prevention Division
+      o Money Order                     Pesticide Regulatory Program
+      o Cash or Debit Card              PO Box 2000, 11 Kent Street
+      o Credit Card                     Charlottetown, PE C1A 7N8
+      Amount Enclosed: $_________       Tel: (902) 368-5474
+
+      Cheques or money orders should be made payable to the Minister of Finance and
+      Municipal Affairs. Non-Domestic Pesticide Vendor Certificates will be mailed to
+      applicant’s address above. Please allow two weeks for delivery.
+      (EC761/05; 189/10)
+
+
+
+
+                                                   42
+ Updated 2010                       Pesticides Control Act                           Cap. P-4   43
+                                         Regulations
+
+
+
+                                          FORM 12
+
+                APPLICATION FOR PESTICIDE PURCHASE PERMIT
+
+ Under section 32 of the Pesticide Control Act Regulations, a person who buys non-
+ domestic pesticides must hold, or be authorized to use a Pesticide Purchase Permit or a
+ licence or certificate identified in the section.
+
+ Personal information on this form is collected under section 16 of the Pesticide Control Act
+ Regulations as it relates directly to and is necessary for an application for a Pesticide
+ Purchase Permit. If you have any questions about this collection of personal information,
+ you may contact the Manager of the Pesticide Regulatory Program, 11 Kent Street, Jones
+ Building, Charlottetown, PEI C1A 7N8, Phone: (902) 368-5474.
+
+Applicant Information
+Company Name:                                   Phone:
+Contact Name:                                   Fax:
+Mailing Address:
+
+Number of Permits Requested:                    Postal Code:
+
+Signature of Applicant ________________________________ Date _________________
+
+Certified Applicator Information
+Name:                                           Phone:
+Mailing Address:                                Postal Code:
+
+Pesticide Applicator Certificate No.:
+Pesticide Applicator Class:
+Pesticide Applicator Certificate Expiry Date:
+Are you currently employed by the Applicant?             Yes o    No o
+
+ Signature of Certified Applicator: __________________________ Date: ______________
+
+iThe application fee for one or more Pesticide Purchase Permit is $50.
+iPayment must be received by the Department before the application will be processed.
+
+ Method of Payment           Please forward application and payment to:
+ (Check appropriate box)     Department of Environment, Energy and Forestry
+ o Cheque                    Pollution Prevention Division
+ o Money Order               Pesticide Regulatory Program
+ o Cash or Debit Card        PO Box 2000, 11 Kent Street
+ o Credit Card               Charlottetown, PE C1A 7N8
+ Amount Enclosed: $_________ Tel: (902) 368-5474
+
+ Cheques or money orders should be made payable to the Minister of Finance and
+ Municipal Affairs. Pesticide Purchase Permits will be mailed to agricultural operation
+ address above.
+ Please allow two weeks for delivery.
+ (EC761/05; 290/08; 189/10)
+
+
+
+
+                                              43
+44       Cap. P-4                             Pesticides Control Act                   Updated 2010
+                                                   Regulations
+
+
+                                                   FORM 13
+
+                      APPLICATION FOR PESTICIDE APPLICATION PERMIT
+
+         Under section 35 of the Pesticide Control Act Regulations, a person who applies pesticides
+         to an open body of water, to control mosquitoes or biting flies within a designated protected
+         zone, or apply Schedule 1 pesticides must hold a Pesticide Application Permit.
+
+         Personal information on this form is collected under section 19 of the Pesticide Control Act
+         Regulations as it relates directly to and is necessary for an application for a Pesticide
+         Application Permit. If you have any questions about this collection of personal information,
+         you may contact the Manager of the Pesticide Regulatory Program, 11 Kent Street, Jones
+         Building, Charlottetown, PEI C1A 7N8, Phone: (902) 368-5474.
+
+     Section 1 - Applicant Contact Information
+     Name:
+     Phone:                                    Fax:
+     Mailing Address:
+
+     Postal Code:                                     Email:
+     Section 2 – Complete for Mosquito & Biting Fly Control
+     Type of Application:
+     o New Permit               o Modification of Permit
+                                   Existing Permit Number:
+     Treatment Type:
+     o Water Treatment                o Private Treatment
+     o Land Treatment                 o Commercial Treatment
+     Applicators/Certificates (list all applicators):
+
+             Applicator Names              Pesticide Applicator                   Class
+                                             Certificate No.
+
+
+
+
+     Treatment Details:
+     Treatment Pest to be         Pesticide      PCP No.      Proposed Proposed Total
+                controlled        Name                        Date of   Rate of     Amount of
+                                                              Treatment Application Pesticide
+                                                                                    Used
+
+     1
+     2
+     3
+     4
+     5
+
+
+     Describe the process and level of community support for the program:
+
+
+
+
+                                                       44
+ Updated 2010                       Pesticides Control Act                          Cap. P-4   45
+                                         Regulations
+
+
+Are “Permission to Enter Private Property” authorizations required? Yes o No o
+If “Yes”, include authorizations with application
+Requirements:
+A map (1:25,000 scale) must be attached and identify:
+(a) all property lines, fields, and treatment areas; and
+(b) all open bodies of water, as defined under the Prince Edward Island Pesticides Control
+Act; saltwater environments and perimeter coastline.
+Section 3 – Complete for Application to Open Body of Water
+Type of Application:
+ o New Permit                  o Modification of Permit
+                                  Existing Permit Number:
+Treatment Type:
+ o Private Treatment         o Commercial Treatment
+Pesticide Applicator Certificate
+   Name:
+   Number:
+   Class:
+   Expiry date:
+Treatment Details:
+Treat Total           Pest to be Pesticide PCP No.Proposed Proposed Total
+ment Treatment controlled Name                           Date of   Rate of      Amount of
+        Area                                             Treatment Application Pesticide
+        Acres                                                                   Used
+        Hectares
+1.
+2.
+3.
+4.
+5.
+
+Requirements:
+A map (1:10,000 scale) must be attached and identify:
+(a) all property lines, fields, and treatment areas; and
+(b) all open bodies of water, as defined under the Prince Edward Island Pesticides Control
+Act; saltwater environments and perimeter coastline.
+  Section 4 – Complete for Schedule 1 Pesticides (Soil Fumigant Formulations)
+  Type of Application:
+     o New Permit                     o Modification of Permit
+                                         Existing Permit Number:
+  Pesticide Applicator Certificate
+     Name:
+     Number:
+     Class:
+     Expiry date:
+  Treatment Details:
+   Property     Field     Crop        Pesticide    PCP * No.    Total Treatment Area
+   Identific    No.                   Name                      o  Acres
+   ation No.
+                                                                o  Hectares
+
+
+
+
+                                              45
+46   Cap. P-4                             Pesticides Control Act                        Updated 2010
+                                               Regulations
+
+
+
+
+     * Pest Control Product Registration Number
+
+     Time of Proposed Treatment:
+      o Spring proposed treatment date(s): ___________________________________
+      o Fall      proposed treatment date(s): ___________________________________
+
+     Distance to Wells/Residences:
+
+      Property             Field No.           Distance (m) to   Distance (m) to   Distance (m) to
+      Identification                           nearest well      nearest           nearest
+      No.                                      (indicate         occupied          property line
+                                               private or        habitation
+                                               municipal)
+
+
+
+
+     REQUIREMENTS:
+
+       1. An Environmental Farm Plan must be completed for all owned properties.
+       2. Product use must be in compliance with the product label, and with all additional
+          legal requirements, including the PEI Environmental Protection Act and the PEI
+          Agricultural Crop Rotation Act.
+       3. A map (1:10,000 scale) must be attached and identify:
+          a.    all property lines, fields, and treatment areas;
+          b.    all occupied habitations within 1,000 metres of the treatment area;
+          c.    all municipal and/or private drinking water wells within 1,000 metres of the
+                treatment area; and
+          d.    all open bodies of water, as defined under the PEI Pesticides Control Act;
+                saltwater environments; and/or perimeter coastline.
+       4. Application for a permit must be made at least 4 weeks in advance of anticipated or
+          planned product application.
+
+     Section 5 – Complete for Application to Designated Protected Zone
+     Type of Application:
+        o New Permit               o Modification of Permit
+                                      Existing Permit Number:
+     Pesticide Applicator Certificate
+       Name:
+       Number:
+       Class:
+       Expiry date:
+     Treatment Details:
+      Property     Total               Pest*       Pesticide     PCP ** No.   Rate of
+
+
+
+
+                                                      46
+Updated 2010                       Pesticides Control Act                            Cap. P-4   47
+                                        Regulations
+
+
+
+
+* A Pesticide Application Permit will only be issued for the control of a noxious weed, as
+designated under the Weed Control Act.
+** Pest Control Product Registration Number
+
+
+Requirements:
+A map (1:10 ,000 scale) must be attached and identify:
+(a) all property lines, fields, and treatment areas; and
+(b) all open bodies of water, as defined under the Prince Edward Island Pesticides
+Control Act; saltwater environments and perimeter coastline.
+By signing below, I acknowledge that all information that I have provided is, to my
+knowledge, true and accurate, and that I understand the above listed criteria for approval of
+a Pesticide Application Permit.
+
+Applicant Signature: ________________________                  Date: __________________
+
+ iThe application fee for a Pesticide Application Permit is $50 per permit.
+ iA separate application is required for each Pesticide Application Permit.
+
+Method of Payment                       Please forward application and payment to:
+(Check appropriate box)                 Department of Environment, Energy and Forestry
+o Cheque                                Pollution Prevention Division
+o Money Order                           Pesticide Regulatory Program
+o Cash or Debit Card                    PO Box 2000, 11 Kent Street
+o Credit Card                           Charlottetown, PE C1A 7N8
+Amount Enclosed: $_______               Tel: (902) 368-5474
+
+Cheques and money orders should be made payable to the Minister of Finance and
+Municipal Affairs. Pesticide Application Permit will be mailed to the applicant’s
+address above. Please allow two weeks for delivery.
+(EC189/10)
+
+
+
+
+                                             47
+48    Cap. P-4                           Pesticides Control Act                       Updated 2010
+                                              Regulations
+
+
+                                              FORM 14
+
+        APPLICATION FOR DOMESTIC PESTICIDE VENDOR BUSINESS LICENCE
+
+      Under subsection 28.1 of the Pesticide Control Act Regulations, a person who operates a
+      business involving the sale or supply of a controlled purchase domestic pesticide must hold
+      a Domestic Pesticide Vendor Business Licence or a Non-Domestic Pesticide Vendor
+      Business Licence.
+
+      Personal information on this form is collected under section 13.1 of the Pesticide Control
+      Act Regulations as it relates directly to and is necessary for an application for a Domestic
+      Pesticide Vendor Business Licence. If you have any questions about this collection of
+      personal information, you may contact the Manager of the Pesticide Regulatory Program,
+      11 Kent Street, Jones Building, Charlottetown, PEI C1A 7N8, Phone: (902) 368-5474.
+
+     Applicant Contact Information
+     Company Name:
+     Contact Name:
+     Phone:                                         Fax:
+     Mailing Address:
+
+     Postal Code:                                    Email:
+
+      Applicant’s Signature: ________________________ Date: _______________________
+      (Where applicant is a partnership or a corporation, the signature of a partner, or an
+      authorized officer of the corporation is required).
+
+     Licence Details
+
+     □ New Applicant             □oRenewal of Licence
+                                   Present Licence Number:
+
+     Certified Vendor Information (Domestic Pesticide Vendor Certificate Holder)
+     Name:
+     Phone:                                    Fax:
+     Mailing Address:
+
+     Postal Code:                              Email:
+     Certified Vendor Status: o□ Owner of Company o□ Employee of Company
+     Certificate Expiry Date:
+     Pesticide Vendor Certificate # _____________________
+
+      Signature of Certified Vendor: ______________________ Date:_____________________
+                                     (if not company owner)
+
+        Display Area and Storage Facility (check box to indicate size)
+        □ surface area       □ surface area                           □ surface area
+          up to 5 m2          between 5 m2 and 14 m2                     greater than 14 m2
+
+        Previous Years Display and Storage Facility Size
+        Please indicate the actual area (m2 ) used to display or store controlled purchase domestic
+        pesticides in the previous licence year:
+
+
+
+                                                    48
+Updated 2010                     Pesticides Control Act                        Cap. P-4     49
+                                      Regulations
+
+
+
+           ______________________ year             _____________________ m2
+
+
+The application fee for a Domestic Pesticide Vendor Business Licence is as follows:
+(a) where the maximum surface area for the calendar
+year of any shelf, or indoor or outdoor floor space used
+to display or store controlled purchase domestic pesticides
+is up to 5 m2                                                                        $100
+(b) where the maximum surface area for the calendar
+year of any shelf, or indoor or outdoor floor space used
+to display or store controlled purchase domestic pesticides
+is between 5 m2 and 14 m2                                                            $250
+(c) where the maximum surface area for the calendar
+year of any shelf, or indoor or outdoor floor space used
+to display or store controlled purchase domestic pesticides
+is greater than 14 m2                                                               $500
+The size of display areas and storage facilities for the previous calendar year must be
+included with the application.
+
+Method of Payment           Please forward application and payment to:
+(Check appropriate box)     Department of Environment, Energy and Forestry
+  Cheque                    Pollution Prevention Division
+  Money Order               Pesticide Regulatory Program
+  Cash or Debit Card        PO Box 2000, 11 Kent Street
+  Credit Card               Charlottetown, PE C1A 7N8
+Amount Enclosed: $_________ Tel: (902) 368-5474
+
+Cheques or money orders should be made payable to the Minister of Finance and
+Municipal Affairs. Domestic Pesticide Vendor Licences will be mailed to the
+applicant’s address above. Please allow two weeks for delivery.
+(EC71/07; 189/10)
+
+
+
+
+                                          49
+50    Cap. P-4                           Pesticides Control Act                       Updated 2010
+                                              Regulations
+
+
+                                              FORM 15
+
+            APPLICATION FOR DOMESTIC PESTICIDE VENDOR CERTIFICATE
+
+      Under section 30.1 of the Pesticide Control Act Regulations, a person who sells controlled
+      purchase domestic pesticides to another person or while acting as an employee of a business
+      that is licensed to sell controlled purchase domestic pesticides and who provides
+      information or recommendations regarding a controlled purchase domestic pesticide to
+      another person, must hold a Domestic Pesticide Vendor Certificate or a Non-domestic
+      Pesticide Vendor Certificate.
+
+      Personal information on this form is collected under section 14.1 of the Pesticide Control
+      Act Regulations as it relates directly to and is necessary for an application for a Domestic
+      Pesticide Vendor Certificate. If you have any questions about this collection of personal
+      information, you may contact the Manager of the Pesticide Regulatory Program, 11 Kent
+      Street, Jones Building, Charlottetown, PEI C1A 7N8, Phone: (902) 368-5474.
+
+     Applicant Contact Information
+     Name:
+     Phone:                                         Fax:
+     Mailing Address:
+
+     Postal Code:                                    Email:
+
+      Applicant’s Signature: ________________________           Date: _______________________
+
+     Office Use Only
+     Examination Date:
+     Examination Mark:
+     Certificate Status:
+                                     □ Approved o          □ Denied o
+
+      iThe application fee for a Domestic Pesticide Vendor Certificate is $75 per certificate
+      iPrior to a certificate being issued, the applicant must successfully complete a written
+       examination approved by the Director, with a mark in the examination of not less than
+       75%.
+
+      Method of Payment           Please forward application and payment to:
+      (Check appropriate box)     Department of Environment, Energy and Forestry
+        Cheque                    Pollution Prevention Division
+        Money Order               Pesticide Regulatory Program
+        Cash or Debit Card        PO Box 2000, 11 Kent Street
+        Credit Card               Charlottetown, PE C1A 7N8
+      Amount Enclosed: $_________ Tel: (902) 368-5474
+
+      Cheques or money orders should be made payable to the Minister of Finance and
+      Municipal Affairs. Domestic Pesticide Vendor Certificates will be mailed to
+      applicant’s address above. Please allow two weeks for delivery.
+      (EC71/07; 189/10)
+
+
+
+
+                                                    50
+Updated 2010                                         Pesticides Control Act                                                      Cap. P-4        51
+                                                          Regulations
+
+
+                                                              FORM 16
+
+                     DOMESTIC PESTICIDE VENDOR BUSINESS LICENCE
+
+
+                                         Province of Prince Edward Island
+                                  Department of Environment, Energy and Forestry
+
+                                    Domestic Pesticide Vendor Business Licence
+
+
+                                                     This certifies that
+                                          a licence was issued by the Minister to
+
+                                                           (Company Name)
+
+                                      to operate a business involving the sale
+                               or supply of a controlled purchase domestic pesticide
+                                     in the Province of Prince Edward Island
+                                          pursuant to section 13.1 of the
+                                        Pesticides Control Act Regulations.
+
+Licence Number: .......................................................................................................................
+Issue Date: .................................................................................................................................
+Expiry Date: ..............................................................................................................................
+Minister: ....................................................................................................................................
+
+(EC71/07)
+
+
+
+
+                                                                     51
+52   Cap. P-4                                               Pesticides Control Act                             Updated 2010
+                                                                 Regulations
+
+
+                                                                      FORM 17
+
+                                 DOMESTIC PESTICIDE VENDOR CERTIFICATE
+
+
+                                     DOMESTIC PESTICIDE VENDOR CERTIFICATE
+
+
+
+     Name: ......................................................................................
+     Address: ...................................................................................
+     ..................................................................................................   Photo here
+     Phone: ......................................................................................
+     Certificate Number: .................................................................
+     Expiry Date: ............................................................................
+     Minister: ..................................................................................
+
+
+     (EC71/07)
+
+
+
+
+                                                                            52
+Updated 2010                       Pesticides Control Act                           Cap. P-4     53
+                                        Regulations
+
+
+                                     SCHEDULE 4
+                                  APPLICATION FEES
+
+1 LICENCES
+Non-domestic Pesticide Vendor Business Licence
+(a) where up to 10,000 kg of active ingredients
+sold in the previous year                                                               $100
+(b) where between 10,001 kg and 30,000 kg of
+active ingredients sold in the previous year                                            $500
+(c) where between 30,001 kg and 50,000 kg of
+active ingredients sold in the previous year                                          $1,000
+(d) where over 50,000 kg of active ingredients
+sold in the previous year                                                             $2,500
+
+Pesticide Applicator Business
+Licence                                                             $200 per class of licence
+
+Domestic Pesticide Vendor Business License
+(a) where the maximum surface area for the calendar
+year of any shelf, or indoor or outdoor floor space used
+to display or store controlled purchase domestic
+pesticides is up to 5 m2 *                                                               $100
+(b) where the maximum surface area for the calendar
+year of any shelf, or indoor or outdoor floor space used
+to display or store controlled purchase domestic pesticides
+is between 5 m2 and 14 m2 **                                                             $250
+(c) where the maximum surface area for the calendar
+year of any shelf, or indoor or outdoor floor space used
+to display or store controlled purchase domestic pesticides
+ is greater than 14 m2                                                                   $500
+
+2 CERTIFICATES
+Non-Domestic Pesticide Vendor Certificate                                                 $75
+***Pesticide Applicator Certificate                               $75 per class of certificate
+Loader/Mixer Certificate                                                                  $50
+Domestic Pesticide Vendor Certificate                                                     $75
+
+3 PERMITS
+Pesticide Application Permit                                                              $50
+Pesticide Purchase Permit                                                                 $50
+
+
+NOTES:
+* 5m2 = 54 sq feet
+** 14m2 = 151 sq feet
+
+*** The fee for a Class D, Class G and Class I Pesticide Applicator Certificate may be
+waived if the applicant holds a valid Class A Pesticide Applicator Certificate, a valid AG-1
+Pesticide Use Certificate or a valid Loader/mixer Certificate.
+(EC761/05; 71/07; 290/08)
+
+
+
+
+                                             53
+54   Cap. P-4                              Pesticides Control Act                      Updated 2010
+                                                Regulations
+
+
+                                      SCHEDULE 5
+                       PHASE-IN OF CONTINUING EDUCATION CREDITS
+
+     Expiry Date                                 Number of CECs Required
+     of Existing                                    for Recertification
+      Pesticide
+         Use
+      Certificate
+                    By the expiry     Within      Within 24   Within 36    Within 48      Within 60
+                     date of the    12 months*    months*     months*      months*        months*
+                        PUC
+       May 01,                       3**            6             9            12           15
+        2002 to
+      December
+       31, 2002
+     January 01,                                    6             9            12           15
+        2003 to
+      December
+       31, 2003
+     January 01,                      6             9             12           15
+        2004 to
+      December
+       31, 2004
+     January 01,        6             9            12             15
+        2005 to
+      December
+       31, 2005
+     January 01,        9             12           15
+        2006 to
+      December
+       31, 2006
+     January 01,        12            15
+        2007 to
+      December
+       31, 2007
+     January 01,        15
+        2008 to
+      December
+       31, 2008
+     January 01,        15
+        2009 to
+      December
+       31, 2009
+     January 01,        15
+        2010 to
+      December
+       31, 2010
+     January 01,        15
+        2011 to
+      December
+       31, 2011
+      * Of the expiry date noted on the candidate’s pesticide use certificate.
+      ** For an individual whose Pesticide Applicator Certificate expired during the period
+      January 1 to December 31, 2002, the 3 credits required must be earned not later than 01
+      May 2004. (EC761/05)
+
+
+
+                                                     54
+ Updated 2010                     Pesticides Control Act                Cap. P-4   55
+                                       Regulations
+
+
+
+                                   SCHEDULE 6
+                              PROHIBITED PESTICIDES
+
+1. Telone II Liquid Soil Fumigant                          PCP Act No. 15893
+2. Telone C-17 Liquid Soil Fungicide and Nematicide        PCP Act No. 16324
+3. Vorlex Plus Liquid Soil Fumigant                        PCP Act No. 18353
+4. Vorlex Plus CP Liquid Soil Fumigant                     PCP Act No. 18354
+  (EC761/05)
+
+
+
+
+                                           55
+56   Cap. P-4                           Pesticides Control Act                         Updated 2010
+                                             Regulations
+
+
+                                          SCHEDULE 7
+                                        EXEMPTED PESTICIDES
+
+     The pesticides listed below are designated as exempted pesticides.
+
+     Insecticides
+
+     1.         Bacillus thuringiensis kurstaki (Btk) for control of caterpillars;
+     2.         boron compounds for control of ants;
+     3.         d-phenothrin for control of flying insects;
+     4.         d-trans-allethrin, also referred to as d-cis, trans allethrin for
+                control of mosquitoes;
+     5.         fatty acids for control of insects
+     6.         insect bait stations for control of crawling insects;
+     7.         insect pheromones for control of insects;
+     8.         insect repellents to repel biting insects (mosquitoes and black
+                flies);
+     9.         mineral oils for insect and mite control;
+     10.        n-octyl bicycloheptene dicarboximide for control of crawling
+                insects;
+     11.        naphthalene for fabric protection, also known as moth balls;
+     12.        paradichlorobenzene for fabric protection, also known as moth
+                balls;
+     13.        permethrin;
+     14.        pesticides in aerosol containers;
+     15.        pesticides registered under the Pest Control Products
+                Act (Canada) for application to pets to control insects such as
+                fleas;
+     16.        piperonyl butoxide to control flying insects;
+     17.        pyrethrins to control insects;
+     18.        resmethrin to control flying insects;
+     19.        silica aerogel, also referred to as silica gel, amorphous silica and
+                amorphous silica gel to control ants, earwigs, and other crawling
+                insects;
+     20.        silicon dioxide, also referred to as “diatomaceous earth” to
+                control crawling insects;
+     21.        insecticidal soaps;
+     22.        tetramethrin to control house and garden insects;
+     23.        pesticides for injection to tree stems or stumps;
+     24.        sticky media;
+
+     Herbicides
+     25.        acetic acid for nonselective control of weeds;
+     26.        corn gluten meal;
+     27.        herbicidal soaps;
+     27.1       iron;
+
+     Animal Repellents
+     28.      animal repellents, except thiram – to keep dogs and cats out of
+              areas, such as flower beds;
+     29.      capsaicin;
+
+     Preservatives
+     30.        anti-fouling paints, to reduce attachment of barnacles and other
+                marine organisms to boats and wharves;
+
+
+
+                                                   56
+Updated 2010                      Pesticides Control Act                    Cap. P-4   57
+                                       Regulations
+
+
+31.       antisapstain wood preservatives for control of diseases in wood
+32.       asphalt solids (pruning paints);
+
+Chemicals
+33.       ferric phosphate to control slugs and snails;
+34.       sulphur, including lime sulphur, sulphide sulphur, and calcium
+          polysulphide to control diseases on ornamental trees.
+(EC71/07; 417/10)
+
+
+
+
+                                           57
+58   Cap. P-4                           Pesticides Control Act                        Updated 2010
+                                             Regulations
+
+
+                                        SCHEDULE 8
+                               SELF-SELECT DOMESTIC PESTICIDES
+
+     The pesticides listed below are designated as self-select domestic pesticides.
+
+        (1) The domestic pesticide is marketed in a form requiring no preparation or dilution and
+     in a volume or weight equal to or less than one litre or one kilogram, respectively, and it is
+     intended for one or more of the following uses exclusively:
+           (a) as a fabric protection, if the product is composed of paradichlorobenzene or
+           naphthalene;
+           (b) as ant, cockroach or earwig bait, if the container protects users against direct
+           contact with the product;
+           (c) as an animal repellent, if the product is not polymerized butene-based or thiram-
+           based;
+           (d) as flea-repellent collars or tags for dogs and cats;
+           (e) as insect repellent to be applied on human beings;
+           (f) as a pesticide for local treatment that does not contain any of the following active
+           ingredients:
+               (i) carbaryl,
+               (ii) dicofol,
+               (iii) malathion,
+               (iv) 2,4-D (all chemical forms),
+               (v) chlorthal dimethyl,
+               (vi) MCPA (all chemical forms),
+               (vii) mecoprop (all chemical forms),
+               (viii) benomyl,
+               (ix) captan,
+               (x) chlorothalonil,
+               (xi) iprodione,
+               (xii) quintozene,
+               (xiii) thiophanate-methyl.
+
+        (2) The domestic pesticide is marketed in a form requiring no preparation or dilution and
+     in a volume or weight equal to or less than one litre or one kilogram, respectively, and it is
+     composed of a mixture that contains one or more of the following active ingredients
+     exclusively:
+           (a) D-Trans allethrin;
+           (b) tetramethrin;
+           (c) resmethrin;
+           (d) pyrethrin;
+           (e) piperonyl butoxide;
+           (f) methopren;
+           (g) n-octyl bicycloheptene dicarboximide;
+           (h) di-n-propyl isocinchomeronate;
+           (i) n-octyl hydroxyethyl-2 sulphide;
+           (j) D-cis, trans allethrin;
+           (k) permethrin;
+           (l) D-phenothrin;
+           (m) boric acid;
+           (n) disodium octaborate tetrahydrate;
+           (o) sulphur;
+           (p) calcium sulphide or calcium polysulphide;
+           (q) ferric phosphate;
+           (r) spinosad;
+           (s) acetamipride;
+           (t) borax.
+
+
+                                                  58
+Updated 2010                       Pesticides Control Act                     Cap. P-4   59
+                                        Regulations
+
+
+   (3) The domestic pesticide is composed of a mixture containing one or more of the
+following active ingredients exclusively:
+      (a) bacillus thuringiensis Berliner var Kurstaki;
+      (b) diatomaceous earth;
+      (c) soap.
+
+  (4) The domestic pesticide is a mixture that
+     (a) requires no preparation or dilution; and
+     (b) contains soap or diatomaceous earth as the only active ingredient.
+(EC71/07)
+
+
+
+
+                                             59
+

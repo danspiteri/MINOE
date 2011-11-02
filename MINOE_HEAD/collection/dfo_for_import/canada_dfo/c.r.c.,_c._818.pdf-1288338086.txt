@@ -1,0 +1,900 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+      Meat and Poultry                                               Règlement sur les
+    Products Plant Liquid                                        effluents de l’industrie de
+    Effluent Regulations                                         la viande et de la volaille
+
+                      C.R.C., c. 818                                                    C.R.C., ch. 818
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published             31. (1) Every copy of a consolidated statute or            31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies      (3) In the event of an inconsistency between a              (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+CHAPTER 818                                                       CHAPITRE 818
+
+FISHERIES ACT                                                     LOI SUR LES PÊCHES
+
+Meat and Poultry Products Plant Liquid Effluent                   Règlement sur les effluents de l’industrie de la viande
+Regulations                                                       et de la volaille
+REGULATIONS   RESPECTING   DELETERIOUS                            RÈGLEMENT CONCERNANT LES SUBSTANCES
+   SUBSTANCES IN LIQUID EFFLUENTS FROM                               NOCIVES PRÉSENTES DANS LES EFFLUENTS
+   MEAT AND POULTRY PRODUCTS PLANTS                                  DE L’INDUSTRIE DE LA VIANDE ET DE LA
+                                                                     VOLAILLE
+
+                     SHORT TITLE                                                      TITRE ABRÉGÉ
+  1. These Regulations may be cited as the Meat and                 1. Le présent règlement peut être cité sous le titre :
+Poultry Products Plant Liquid Effluent Regulations.               Règlement sur les effluents de l’industrie de la viande et
+                                                                  de la volaille.
+
+                  INTERPRETATION                                                    INTERPRÉTATION
+  2. (1) In these Regulations,                                      2. (1) Dans le présent règlement,
+“Act” means the Fisheries Act; (Loi)                              « abattoir de bétail » désigne un établissement d’abattage
+“ammonia nitrogen” means the nitrogen in ammonia that             et d’éviscération d’animaux autres que la volaille; (red
+results from the operation of a plant and that is contained       meat integrated plant)
+in the effluent from that plant; (azote ammoniacal)               « abattoir de volailles » désigne un établissement d’abat-
+“biochemical oxygen demanding matter” means the sub-              tage et d’éviscération de la volaille; (poultry integrated
+stance contained in the effluent from a plant that results        plant)
+from the operation of a plant and that will exert a bio-          « azote ammoniacal » désigne l’azote de l’ammoniac pré-
+chemical oxygen demand; (matière ayant une demande                sent dans l’effluent et provenant de l’exploitation d’un
+biochimique en oxygène)                                           établissement; (ammonia nitrogen)
+“composite sample” means a sample obtained in accor-              « eaux pluviales » désigne l’écoulement des eaux de pré-
+dance with section 7; (échantillon composite)                     cipitation de toute sorte tombées sur un établissement,
+“deposit” means to deposit or to permit the deposit into          qui y ruisselle ou le traverse; (storm water)
+water frequented by fish; (rejeter)                               « échantillon composite » désigne un échantillon prélevé
+“effluent” means all wastewaters deposited by a plant             selon l’article 7; (composite sample)
+and includes process water, wash water, tank drainage,            « effluent » Les eaux usées rejetées par un établissement,
+storm water and wastes from water and wastewater treat-           y compris les eaux de traitement, les eaux de lavage, les
+ment facilities, but does not include                             vidanges des réservoirs, les eaux pluviales et les résidus
+  (a) storm water that is protected from contamination            des installations de traitement de l’eau et d’épuration des
+  by a deleterious substance prescribed by section 4              eaux usées. Sont exclues de la présente définition :
+  originating from the plant, where the average concen-             a) les eaux pluviales protégées de la contamination
+  tration of biochemical oxygen demanding matter in at              par une substance nocive désignée à l’article 4 prove-
+  least 3 samples of the storm water, taken at intervals            nant de l’établissement et dont la concentration
+  of 15 minutes, does not exceed 50 mg/L, or                        moyenne de la matière ayant une demande biochi-
+
+
+
+
+                                                              1
+                                           C.R.C., c. 818 — October 6, 2010
+
+
+
+
+  (b) wastewater from the plant that, prior to being de-             mique en oxygène dans au moins 3 échantillons de ces
+  posited, is treated at a site outside a plant for the pur-         eaux, prélevés à intervalles de 15 minutes, ne dépasse
+  pose of controlling the pH of the wastewater and re-               pas 50 mg/L;
+  moving from the wastewater the deleterious                         b) les eaux usées provenant de l’établissement qui,
+  substances prescribed by section 4, in such a manner               avant d’être rejetées, sont traitées à l’extérieur d’un
+  that                                                               établissement afin d’en régler le pH et d’en extraire
+    (i) the pH of the wastewater, determined in accor-               les substances nocives désignées à l’article 4, de ma-
+    dance with subsection 9(3), is between 6.0 and 9.0,              nière que :
+    and                                                                 (i) le pH des eaux usées, déterminé conformément
+    (ii) the quantity of deleterious substances remain-                 au paragraphe 9(3), se situe entre 6,0 et 9,0,
+    ing in that wastewater after the treatment, when                    (ii) la quantité de substances nocives restant dans
+    added to the quantity of deleterious substances de-                 les eaux usées après traitement, lorsqu’elle est ajou-
+    posited directly, does not exceed the deposit of                    tée à la quantité de substances nocives rejetée direc-
+    deleterious substances authorized under section 5;                  tement, ne dépasse pas les rejets de substances no-
+    (effluent)                                                          cives autorisés en vertu de l’article 5. (effluent)
+“equivalent month” means a period of time equal to or              « équivalent d’un mois » désigne une période de temps
+greater than four weeks but not exceeding six weeks de-            égale ou supérieure à quatre semaines mais ne dépassant
+clared by the owner under subsection 12(2) or (3) for the          pas six semaines, déclarée par le propriétaire selon les
+purposes of these Regulations; (équivalent d’un mois)              paragraphes 12(2) ou (3) aux fins du présent règlement;
+“existing plant” means a plant that commenced commer-              (equivalent month)
+cial production before March 31, 1977; (établissement              « établissement » désigne les installations spécialement
+existant)                                                          prévues pour l’abattage et l’éviscération du bétail et de la
+“expanded plant” means any integrated or processing                volaille, pour la préparation subséquente de la viande et
+plant in which the total amount of finished product pro-           d’autres produits et pour la fusion des produits comes-
+duced or any rendering plant in which the total amount             tibles ou non, y compris les installations connexes pour
+of raw material processed during any year exceeds                  la réception et le parcage des animaux d’abattage et les
+  (a) in the case of a plant that commenced production             aires de nettoyage de camions, à l’exclusion
+  on or before January 1, 1971, 2.5 times the average                a) des ateliers produisant uniquement des huiles co-
+  annual amount of finished product produced or raw                  mestibles,
+  material processed in that plant during the five-year              b) des ateliers spécialisés uniquement dans le traite-
+  period from 1971 to 1975, or                                       ment des peaux, ou
+  (b) in the case of a plant that commenced production               c) des établissements ne faisant pas l’abattage, mais
+  after January 1, 1971, 2.5 times the average annual                dont tous les produits finis sont vendus sur place au
+  amount of finished product produced or raw material                détail; (plant)
+  processed in that plant from the date the plant com-
+  menced production to March 31, 1977; (établissement              « établissement à capacité accrue » désigne tout abattoir
+  à capacité accrue)                                               ou établissement de préparation et tout fondoir où le vo-
+                                                                   lume annuel d’activités (tonnage de produits finis et de
+“finished product” means the net quantity of saleable              matières premières, respectivement) est supérieur,
+material produced by a plant; (produits finis)
+
+
+
+
+                                                               2
+                                           C.R.C., ch. 818 — 6 octobre 2010
+
+
+
+
+“grease” means the grease that results from the operation          a) si sa production a débuté le 1er janvier 1971 ou
+of a plant and that is contained in the effluent from that         avant, à 2,5 fois son volume annuel moyen d’activités
+plant; (graisses)                                                  pour la période de 1971 à 1975, ou
+“Minister” [Repealed, SOR/95-428, s. 1]                            b) si sa production a débuté après le 1er janvier 1971,
+“new plant” means a plant that did not commence com-               à 2,5 fois son volume annuel moyen d’activités depuis
+mercial production before March 31, 1977 and that com-             la date du début de la production jusqu’au 31 mars
+mences commercial production on or after that date;                1977; (expanded plant)
+(nouvel établissement)                                           « établissement de préparation » désigne un établisse-
+“operating day” means a period of 24 consecutive hours           ment autre qu’un abattoir ou un fondoir où des opéra-
+or part thereof during which the plant is in operation;          tions ultérieures à l’abattage et à l’éviscération sont ef-
+(jour d’exploitation)                                            fectuées; (processing plant)
+
+“owner” of a plant means the owner or operator or his            « établissement existant » désigne un établissement où la
+authorized representative; (propriétaire)                        production industrielle a commencé avant le 31 mars
+                                                                 1977; (existing plant)
+“plant” includes facilities intended primarily for the
+slaughtering, dressing, processing or edible or inedible         « fondoir » désigne un établissement spécialisé dans l’ex-
+rendering of any meat or poultry products and associated         traction des graisses comestibles ou non des produits
+livestock holding and receiving facilities and truck             animaux, avec ou sans raffinage de l’huile; (rendering
+washing areas but does not include facilities                    plant)
+
+  (a) where only edible oils are produced,                       « graisses » désigne les graisses provenant de l’exploita-
+                                                                 tion d’un établissement, qui sont présentes dans son ef-
+  (b) where only hides are processed, or                         fluent; (grease)
+  (c) where no slaughtering is performed and the entire          « jour d’abattage » désigne une période de 24 heures
+  finished product is retailed to the public on the              consécutives pendant la totalité ou une partie de laquelle
+  premises; (établissement)                                      on procède à l’abattage des animaux; (slaughtering day)
+“poultry integrated plant” includes any plant that slaugh-       « jour d’exploitation » désigne une période de 24 heures
+ters and dresses poultry; (abattoir de volailles)                consécutives pendant la totalité ou une partie de laquelle
+“processing plant” includes any plant that is not an inte-       l’établissement fonctionne; (operating day)
+grated plant and that performs operations subsequent to          « Loi » désigne la Loi sur les pêcheries; (Act)
+slaughtering and dressing but does not include rendering
+plants; (établissement de préparation)                           « matière ayant une demande biochimique en oxygène »
+                                                                 désigne une substance présente dans l’effluent d’un éta-
+“raw material” means the material that is received at a          blissement, due à l’exploitation de ce dernier et exerçant
+rendering plant for processing and used to produce a fin-        une demande biochimique en oxygène; (biochemical
+ished product and includes blood, bones, fat, grease, of-        oxygen demanding matter)
+fal, feathers and waste meat and poultry products; (ma-
+tières premières)                                                « matières premières » désigne toutes les matières, le
+                                                                 sang, les os, les tissus adipeux, les graisses, les issues,
+“red meat integrated plant” includes any plant that              les plumes et les déchets de viande et de volaille, reçus
+slaughters and dresses meat other than poultry; (abattoir        et transformés dans un fondoir en produits finis; (raw
+de bétail)                                                       material)
+
+
+
+
+                                                             3
+                                          C.R.C., c. 818 — October 6, 2010
+
+
+
+
+“rendering plant” includes any plant that performs opera-         « matières totales en suspension » désigne le résidu non
+tions solely for the purpose of edible or inedible render-        filtrable provenant de l’exploitation d’un établissement
+ing of meat or poultry products, with or without oil re-          et présent dans son effluent; (total suspended matter)
+fining; (fondoir)                                                 « ministre » [Abrogée, DORS/95-428, art. 1]
+“saleable material” includes dressed carcasses, processed         « nouvel établissement » désigne un établissement dont
+meats, inedible offal, hides and rendered or renderable           la production industrielle n’a pas débuté avant le
+products that are produced by a plant; (produit vendable)         31 mars 1977 mais a commencé à cette date ou après;
+“slaughtering day” means a period of 24 consecutive               (new plant)
+hours or part thereof during which slaughtering takes             « produits finis » désigne la production nette de produits
+place; (jour d’abattage)                                          vendables d’un établissement; (finished product)
+“storm water” means water run-off that results from pre-          « produit vendable » désigne les carcasses, les viandes
+cipitation of any kind that falls on a plant or that passes       préparées, les issues non comestibles, les peaux et les
+over or through the plant; (eaux pluviales)                       produits récupérés ou récupérables, provenant d’un éta-
+“total suspended matter” means the non-filterable                 blissement; (saleable material)
+residue that results from the operation of a plant, that is       « propriétaire » désigne le propriétaire, l’exploitant ou
+contained in the effluent from that plant. (matières to-          son représentant autorisé; (owner)
+tales en suspension)
+                                                                  « rejeter » désigne déposer ou permettre que soit déposée
+                                                                  une substance dans des eaux fréquentées par le poisson.
+                                                                  (deposit)
+   (2) and (3) [Repealed, SOR/95-428, s. 1]                          (2) et (3) [Abrogés, DORS/95-428, art. 1]
+SOR/95-428, s. 1.                                                 DORS/95-428, art. 1.
+
+                     APPLICATION                                                         APPLICATION
+  3. (1) Subject to subsection (2), these Regulations                3. (1) Sous réserve du paragraphe (2), le présent rè-
+apply to every new plant and every expanded plant.                glement s’applique à tous les nouveaux établissements et
+                                                                  à tous les établissements à capacité accrue.
+   (2) Where a plant becomes an expanded plant, these               (2) Le présent règlement s’applique à un établisse-
+Regulations apply to the expanded plant on the first day          ment à capacité accrue à compter du premier jour du
+of the month following the month in which the plant be-           mois suivant celui au cours duquel il est devenu tel.
+came an expanded plant.
+
+  SUBSTANCES PRESCRIBED AS DELETERIOUS                            SUBSTANCES DÉSIGNÉES COMME SUBSTANCES
+              SUBSTANCES                                                         NOCIVES
+   4. For the purpose of the definition “deleterious sub-           4. Pour l’application de la définition de « substance
+stance” in subsection 34(1) of the Act, the following             nocive », au paragraphe 34(1) de la Loi, les substances
+substances resulting from the operations of a plant to            suivantes attribuables à l’exploitation d’un établissement
+which these Regulations apply are hereby prescribed as            auquel le présent règlement s’applique sont désignées
+deleterious substances:                                           comme substances nocives :
+   (a) biochemical oxygen demanding matter;
+
+
+
+
+                                                              4
+                                            C.R.C., ch. 818 — 6 octobre 2010
+
+
+
+
+   (b) total suspended matter; and                                     a) les matières ayant une demande biochimique en
+   (c) grease.                                                         oxygène;
+SOR/95-428, s. 2.                                                      b) les matières totales en suspension; et
+                                                                       c) les graisses.
+                                                                    DORS/95-428, art. 2.
+
+     AUTHORIZED DEPOSIT OF DELETERIOUS                               REJETS AUTORISÉS DE SUBSTANCES NOCIVES
+               SUBSTANCES
+   5. Subject to these Regulations, the owner of a plant              5. Sous réserve du présent règlement, le propriétaire
+of a class set out in Column I of Schedule I may deposit            d’un établissement appartenant à l’une des catégories vi-
+a deleterious substance prescribed by section 4 if                  sées à la colonne I de l’annexe I est autorisé à rejeter une
+   (a) the actual daily deposit of each deleterious sub-            substance nocive désignée à l’article 4 à condition que
+   stance, determined in accordance with subsec-                       a) le rejet journalier réel de chaque substance, calculé
+   tion 11(1), does not exceed the authorized daily de-                selon le paragraphe 11(1), ne dépasse pas le rejet jour-
+   posit of that substance for that class of plant as set out          nalier autorisé pour la catégorie d’établissement en
+   in Column III of that Schedule;                                     question et indiqué à la colonne III de cette annexe;
+   (b) the average daily deposit of each deleterious sub-              b) le rejet journalier moyen de chaque substance du-
+   stance during an equivalent month, determined in ac-                rant l’équivalent d’un mois, calculé selon le para-
+   cordance with subsection 11(2), does not exceed the                 graphe 11(2), ne dépasse pas le rejet journalier moyen
+   authorized average daily deposit of that substance for              autorisé pour la catégorie d’établissement en question
+   that class of plant as set out in Column IV of that                 et indiqué à la colonne IV de cette annexe; et
+   Schedule; and                                                       c) le pH de chaque échantillon composite de l’ef-
+   (c) the pH of each composite sample of effluent, de-                fluent, mesuré selon le paragraphe 9(3), se situe entre
+   termined in accordance with subsection 9(3), is be-                 6,0 et 9,0.
+   tween 6.0 and 9.0.
+
+ADDITIONAL CONDITIONS OF AUTHORIZATION                              CONDITIONS SUPPLÉMENTAIRES RELATIVES À
+                                                                                L’AUTORISATION
+
+                          GENERAL                                                          DISPOSITIONS GÉNÉRALES
+  6. The owner of a plant shall, for each type of effluent            6. Pour chaque type d’effluent rejeté, le propriétaire
+deposited by the plant,                                             d’un établissement
+   (a) install and maintain facilities, including sampling             a) installe et entretient des appareils d’échantillon-
+   connections and flow measuring devices, of such type                nage et d’analyse des effluents, y compris des rac-
+   as the Minister may in writing approve for sampling                 cords d’échantillonnage et des débitmètres, du type
+   and analysing effluents for the purpose of enabling the             que le ministre peut approuver par écrit et permettant
+   Minister to determine whether the owner is complying                à ce dernier de juger si les limites prescrites à l’ar-
+   with the limits of authorized deposits prescribed by                ticle 5 sont respectées par le propriétaire;
+   section 5;                                                          b) prélever un échantillon composite aux fréquences
+                                                                       visées à l’article 8;
+
+
+
+
+                                                                5
+                                          C.R.C., c. 818 — October 6, 2010
+
+
+
+
+  (b) take a composite sample on the regular basis pre-            c) analyser les échantillons visés à l’alinéa b) aux fré-
+  scribed by section 8;                                            quences visées à l’article 9;
+  (c) analyse the sample referred to in paragraph (b) in           d) mesurer le débit selon l’article 10;
+  accordance with section 9;                                       e) déterminer les rejets journaliers réels et moyens de
+  (d) measure the flow in accordance with section 10;              chaque substance nocive selon l’article 11; et
+  (e) determine the actual and average daily deposits of           f) contrôler la létalité aiguë à l’aide d’un échantillon
+  each deleterious substance in accordance with sec-               composite provenant d’un établissement visé à la co-
+  tion 11; and                                                     lonne I de l’annexe II, aux fréquences indiquées à la
+  (f) conduct the acute lethality test on a composite              colonne II.
+  sample from a plant referred to in Column I of Sched-
+  ule II at the frequency set out opposite that plant in
+  Column II thereof.
+
+       METHOD OF COLLECTING COMPOSITE SAMPLES                     MÉTHODE DE PRÉLÈVEMENT DES ÉCHANTILLONS COMPOSITES
+  7. (1) Subject to subsections (2) and (3), a composite           7. (1) Sous réserve des paragraphes (2) et (3), un
+sample shall be obtained by collecting effluent dis-             échantillon composite est prélevé dans l’effluent rejeté
+charged from a plant during an operating day                     par un établissement au cours d’un jour d’exploitation
+  (a) continually during a sampling period of 24 hours             a) continuellement pendant 24 heures et proportion-
+  at a rate in proportion to the flow rate of the effluent         nellement au débit de l’effluent; ou
+  discharged; or                                                   b) de telle sorte que des volumes égaux d’effluent
+  (b) in such a manner that equal volumes of effluent              soient recueillis dans un récipient à des intervalles de
+  are delivered into a receptacle at equal intervals not           temps égaux ne dépassant pas une heure au cours
+  longer than one hour during a sampling period of                 d’une période d’échantillonnage de 24 heures.
+  24 hours.
+  (2) In the case of                                               (2) Dans le cas
+  (a) a red meat integrated plant producing less than              a) d’un abattoir de bétail d’une production annuelle
+  500 tonnes of finished product annually, or                      inférieure à 500 tonnes métriques de produits finis, ou
+  (b) a poultry integrated plant producing less than               b) d’un abattoir de volailles d’une production an-
+  2 500 tonnes of finished product annually,                       nuelle inférieure à 2 500 tonnes métriques de produits
+a composite sample shall be obtained by collecting efflu-          finis,
+ent discharged from the plant in such a manner that a            un échantillon composite est prélevé dans l’effluent reje-
+minimum of four equal volumes of effluent are delivered          té par l’établissement de telle sorte qu’au moins quatre
+into a receptacle at equal intervals during a sampling pe-       volumes égaux d’effluent soient recueillis dans un réci-
+riod of not less than four hours during which slaughter-         pient à des intervalles de temps égaux au cours d’une pé-
+ing is performed.                                                riode d’échantillonnage d’au moins quatre heures durant
+                                                                 laquelle se fait l’abattage.
+   (3) In the case of a processing plant producing less            (3) Dans le cas d’un établissement de préparation
+than 500 tonnes of finished product annually, a compos-          d’une production annuelle inférieure à 500 tonnes mé-
+
+
+
+
+                                                             6
+                                          C.R.C., ch. 818 — 6 octobre 2010
+
+
+
+
+ite sample shall be obtained by collecting effluent dis-         triques de produits finis un échantillon composite est
+charged from the plant in such a manner that a minimum           prélevé dans l’effluent rejeté par l’établissement de telle
+of four equal volumes of effluent are delivered into a re-       sorte qu’au moins quatre volumes égaux d’effluent
+ceptacle at equal intervals during a sampling period of          soient recueillis dans un récipient à des intervalles de
+not less than four hours during which processing is per-         temps égaux au cours d’une période d’échantillonnage
+formed.                                                          d’au moins quatre heures durant laquelle se fait la prépa-
+                                                                 ration.
+
+         FREQUENCY OF SAMPLING AND ANALYSIS                         FRÉQUENCE DES ÉCHANTILLONNAGES ET DES ANALYSES
+  8. The sampling referred to in paragraph 6(b) shall be           8. L’échantillonnage visé à l’alinéa 6b) se fait
+made                                                               a) une fois chaque équivalent d’un mois dans le cas
+  (a) once every equivalent month in the case of                      (i) des abattoirs de bétail d’une production annuelle
+     (i) red meat integrated plants producing less than               inférieure à 500 tonnes métriques de produits finis,
+     500 tonnes of finished product annually,                         (ii) dans le cas des établissements de préparation
+     (ii) processing plants producing less           than             d’une production annuelle inférieure à 500 tonnes
+     500 tonnes of finished product annually, and                     métriques de produits finis, et
+     (iii) poultry integrated plants producing less than              (iii) des abattoirs de volailles d’une production an-
+     2 500 tonnes of finished product annually;                       nuelle inférieure à 2 500 tonnes métriques de pro-
+  (b) once a week in the case of                                      duits finis;
+
+     (i) red meat integrated plants producing between              b) toutes les semaines dans le cas
+     500 and 10 000 tonnes of finished product annually,              (i) des abattoirs de bétail dont la production an-
+     (ii) processing plants producing more           than             nuelle se situe entre 500 et 10 000 tonnes métriques
+     500 tonnes of finished product annually,                         de produits finis,
+
+     (iii) poultry integrated plants producing between 2              (ii) des établissements de préparation d’une pro-
+     500 and 7 000 tonnes of finished product annually,               duction annuelle supérieure à 500 tonnes métriques
+     and                                                              de produits finis,
+
+     (iv) all rendering plants;                                       (iii) des abattoirs de volailles dont la production
+                                                                      annuelle se situe entre 2 500 et 7 000 tonnes mé-
+  (c) twice a week in the case of                                     triques de produits finis, et
+     (i) red meat integrated plants producing more than               (iv) des fondoirs;
+     10 000 tonnes of finished product annually, and
+                                                                   c) deux fois la semaine dans le cas
+     (ii) poultry integrated plants producing more than 7
+     000 tonnes of finished product annually.                         (i) des abattoirs de bétail d’une production annuelle
+                                                                      supérieure à 10 000 tonnes métriques de produits fi-
+                                                                      nis, et
+                                                                      (ii) des abattoirs de volailles d’une production an-
+                                                                      nuelle supérieure à 7 000 tonnes métriques de pro-
+                                                                      duits finis.
+
+
+
+
+                                                             7
+                                          C.R.C., c. 818 — October 6, 2010
+
+
+
+
+         ANALYTICAL AND OTHER TEST METHODS                                  MÉTHODES D’ANALYSE ET DE CONTRÔLE
+   9. (1) For the purposes of paragraph 6(c), the concen-            9. (1) Aux fins de l’alinéa 6c), la concentration, en
+tration in milligrams per litre of a substance described in       milligrammes par litre, d’une substance décrite à l’an-
+an item of Schedule III, in each composite sample, shall          nexe III, dans chaque échantillon composite, est dosée
+be determined using                                               selon
+  (a) the test method set out in Column I and modified              a) la méthode du contrôle visée à la colonne I et mo-
+  in Column II of that item; or                                     difiée dans la colonne II; ou
+  (b) any other method, approved in writing by the                  b) toute autre méthode approuvée par écrit par le mi-
+  Minister, the results of which can be confirmed by the            nistre et dont les résultats peuvent être confirmés par
+  method referred to in paragraph (a).                              la méthode visée à l’alinéa a).
+   (2) For the purposes of paragraph 6(c), procedures                (2) Aux fins de l’alinéa 6c), on doit suivre les mé-
+pertaining to sampling, preservation and storage of sam-          thodes d’échantillonnage, de préservation et de conser-
+ples and prevention of interference relating to the test          vation des échantillons et d’élimination des interactions
+methods referred to in paragraph (1)(a), as outlined in           des méthodes de contrôle visées à l’alinéa (1)a), telles
+the general sections of the publication Standard Methods          que décrites dans les sections générales du recueil Stan-
+for the Examination of Water and Wastewater, 14th Edi-            dard Methods for the Examination of Water and Waste-
+tion (1975), published jointly by the American Public             water, 14e édition (1975), publié conjointement par
+Health Association, American Water Works Association              l’American Public Health Association, l’American Wa-
+and the Water Pollution Control Federation, shall be ad-          ter Works Association et la Water Pollution Control Fe-
+hered to.                                                         deration.
+  (3) For the purposes of paragraph 6(c), the pH of a               (3) Aux fins de l’alinéa 6c), le pH d’un échantillon
+composite sample shall be determined using                        composite est mesuré selon
+  (a) the test method prescribed by section 424 of the              a) la méthode de contrôle visée à la section 424 du re-
+  publication referred to in subsection (2); or                     cueil visé au paragraphe (2); ou
+  (b) any other method, approved in writing by the                  b) toute autre méthode que le ministre a approuvée
+  Minister, the results of which can be confirmed by the            par écrit et dont les résultats peuvent être confirmés
+  method referred to in paragraph (a).                              par la méthode visée à l’alinéa a).
+   (4) For the purposes of paragraph 6(f), the acute                 (4) Aux fins de l’alinéa 6f), le contrôle de la létalité
+lethality test shall be conducted using                           aiguë se fait selon
+  (a) the procedure for the 96-hour acute lethality static          a) la méthode réalisée dans des conditions statiques et
+  test described in Schedule IV; or                                 d’une durée de 96 heures visée à l’annexe IV; ou
+  (b) any other method, approved in writing by the                  b) toute autre méthode que le ministre a approuvée
+  Minister, the results of which can be confirmed by the            par écrit et dont les résultats peuvent être confirmés
+  method referred to in paragraph (a).                              par la méthode visée à l’alinéa a).
+
+                   FLOW MEASUREMENT                                                   MESURE DU DÉBIT
+  10. (1) Subject to subsection (2), for the purpose of              10. (1) Sous réserve du paragraphe (2) et aux fins de
+paragraph 6(d), the flow of each type of effluent deposit-        l’alinéa 6d), le débit de chaque type d’effluent rejeté par
+                                                                  un établissement est mesuré et enregistré continûment.
+
+
+
+                                                              8
+                                          C.R.C., ch. 818 — 6 octobre 2010
+
+
+
+
+ed by a plant shall be measured and recorded continu-
+ously.
+  (2) In the case of                                               (2) Dans le cas
+  (a) a red meat integrated plant producing less than              a) d’un abattoir de bétail d’une production annuelle
+  500 tonnes of finished product annually,                         inférieure à 500 tonnes métriques de produits finis,
+  (b) a poultry integrated plant producing less than               b) d’un abattoir de volailles d’une production an-
+  2 500 tonnes of finished product annually, or                    nuelle inférieure à 2 500 tonnes métriques de produits
+  (c) a processing plant producing less than 500 tonnes            finis, ou
+  of finished product annually,                                    c) d’un établissement de préparation d’une production
+the flow of effluent may be determined by measuring the            annuelle inférieure à 500 tonnes métriques de produits
+total quantity of water taken in daily by the plant or the         finis,
+total quantity of effluent deposited daily by the plant if       le débit de l’effluent peut être calculé par la mesure du
+the effluent is deposited as a single flow.                      volume total d’eau consommée quotidiennement par
+                                                                 l’établissement ou du volume total d’effluent que celui-
+                                                                 ci rejette quotidiennement, si l’effluent est unique.
+
+            CALCULATION OF ACTUAL DEPOSIT                                         CALCUL DES REJETS RÉELS
+   11. (1) For the purposes of paragraph 6(e), the actual           11. (1) Aux fins de l’alinéa 6e), le rejet quotidien réel
+daily deposit per unit of production of each deleterious         par unité de production de chaque substance nocive vi-
+substance prescribed by section 4 shall be determined            sée à l’article 4 est calculé à l’aide des données obtenues
+using the data obtained under subsection 9(1) and sec-           selon le paragraphe 9(1) et l’article 10 et exprime,
+tion 10 and shall be expressed                                     a) dans le cas des abattoirs et des établissements de
+  (a) in the case of integrated plants or processing               préparation, en kilogrammes par tonne métrique de
+  plants, in terms of kilograms per tonne of finished              produits finis et par jour; et
+  product per day; and                                             b) dans le cas des fondoirs, en kilogrammes par tonne
+  (b) in the case of rendering plants, in terms of kilo-           métrique de matières premières traitées et par jour.
+  grams per tonne of raw material per day.
+   (2) For the purposes of paragraph 6(e), the average              (2) Aux fins de l’alinéa 6e), le rejet quotidien moyen
+daily deposit per unit of production during an equivalent        de chaque substance nocive visée à l’article 4 par unité
+month of each deleterious substance prescribed by sec-           de production au cours de l’équivalent d’un mois est dé-
+tion 4 shall be determined by calculating the average of         terminé par le calcul de la moyenne des résultats obtenus
+the results obtained under subsection (1) and shall be ex-       selon le paragraphe (1) et est exprimé de la façon qui y
+pressed in the terms set out in that subsection.                 est visée.
+
+                REPORTING AND RECORDS                                                RAPPORTS ET DOSSIERS
+   12. (1) The owner of a plant shall, within 30 days af-           12. (1) Le propriétaire d’un établissement signe, date
+ter the end of each equivalent month, sign, date and for-        et envoie au ministre, dans les 30 jours après la fin de
+ward to the Minister a report, in such form as the Minis-        chaque équivalent d’un mois, un rapport établi en la
+
+
+
+
+                                                             9
+                                            C.R.C., c. 818 — October 6, 2010
+
+
+
+
+ter may in writing approve, showing for that equivalent              forme que ce dernier peut approuver par écrit et indi-
+month                                                                quant pour ce mois
+  (a) the actual daily deposit of deleterious substances               a) les rejets quotidiens réels de substances nocives
+  deposited by the plant on each day that samples were                 par l’établissement à chaque jour où des échantillons
+  taken, determined and expressed in accordance with                   ont été prélevés, ces rejets étant calculés et exprimés
+  subsection 11(1);                                                    selon le paragraphe 11(1);
+  (b) the average daily deposit of deleterious substances              b) les rejets quotidiens moyens de substances no-
+  deposited by the plant, determined and expressed in                  cives, calculés et exprimés selon le paragraphe 11(2);
+  accordance with subsection 11(2);                                    c) le pH des échantillons composites, mesuré selon le
+  (c) the pH of composite samples, determined in ac-                   paragraphe 9(3);
+  cordance with subsection 9(3);                                       d) le volume d’activités de l’établissement, en tonnes
+  (d) the production of the plant expressed in terms of                métriques de produits finis dans le cas des abattoirs et
+  tonnes of finished product for integrated and process-               des établissements de préparation, et en tonnes mé-
+  ing plants and in terms of tonnes of raw material for                triques de matières premières transformées dans le cas
+  rendering plants;                                                    des fondoirs;
+  (e) the number of operating days;                                    e) le nombre de jours d’exploitation;
+  (f) the total daily flow, in litres, of each type of efflu-          f) le volume quotidien total, en litres, de chaque type
+  ent discharged on each day that samples were taken;                  d’effluent rejeté, à chaque jour où des échantillons ont
+  (g) the concentration of ammonia nitrogen for each                   été prélevés;
+  composite sample analysed in the manner prescribed                   g) la concentration d’azote ammoniacal dans chaque
+  by subsection 9(1); and                                              échantillon composite, analysée de la manière pres-
+  (h) the following details of any acute lethality test                crite au paragraphe 9(1); et
+  conducted in accordance with subsection 9(4), name-                  h) les détails suivants concernant tous les contrôles de
+  ly,                                                                  la létalité aiguë, réalisés selon le paragraphe 9(4) :
+    (i) the date and time period of the composite sam-                   (i) la date et la période de temps où l’échantillon
+    ple collection,                                                      composite a été prélevé,
+    (ii) details on refrigeration, transportation and stor-              (ii) les détails sur la réfrigération, le transport et la
+    age of the sample,                                                   conservation de l’échantillon,
+    (iii) the date and time the test commenced,                          (iii) la date et l’heure du début de chaque contrôle,
+    (iv) the number of dead fish observed in the test                    (iv) le nombre de poissons morts dans les milieux
+    and control vessels for the exposure times outlined                  contrôlés et dans les milieux témoins après les du-
+    in the test procedure used,                                          rées d’exposition indiquées dans le mode opératoire
+    (v) the per cent mortality of fish exposed to the                    utilisé,
+    toxicity test sample and to the control water at the                 (v) le pourcentage de poissons morts dans les mi-
+    completion of the test, and                                          lieux contrôlés et dans les milieux témoins à la fin
+    (vi) any other information that the Minister may re-                 des contrôles, et
+    quire.
+
+
+
+
+                                                                10
+                                          C.R.C., ch. 818 — 6 octobre 2010
+
+
+
+
+                                                                        (vi) tout autre renseignement que le ministre peut
+                                                                        exiger.
+   (2) The owner of a new plant shall, before he deposits             (2) Le propriétaire d’un nouvel établissement, avant
+any deleterious substance prescribed by section 4, and             de rejeter une substance nocive visée à l’article 4, et ce-
+the owner of an expanded plant shall, within 30 days of            lui d’un établissement à capacité accrue doivent, dans les
+becoming subject to these Regulations, sign, date and              30 jours de leur assujettissement au présent règlement,
+forward to the Minister a declaration, in such form as the         signer, dater et envoyer au ministre, une déclaration éta-
+Minister may in writing approve,                                   blie en la forme que peut approuver ce dernier par écrit,
+  (a) showing whether the plant is an integrated plant,              a) précisant si leur établissement est un abattoir, un
+  processing plant or rendering plant;                               établissement de préparation ou un fondoir;
+  (b) showing whether the plant will process red meat                b) indiquant si l’établissement traitera du bétail, de la
+  or poultry or both;                                                volaille ou les deux;
+  (c) showing the projected annual production of the                 c) indiquant la production annuelle prévue de l’éta-
+  plant; and                                                         blissement; et
+  (d) declaring equivalent months for the remainder of               d) précisant les équivalents d’un mois pour le reste de
+  the calendar year.                                                 l’année civile.
+   (3) The owner of a plant shall, within 30 days after               (3) Le propriétaire d’un établissement signe, date et
+the end of each calendar year, sign, date and forward to           envoie au ministre, dans les 30 jours suivant la fin de
+the Minister a declaration in such form as the Minister            chaque année civile, une déclaration établie en la forme
+may in writing approve, showing the actual production              que ce dernier peut approuver par écrit, indiquant la pro-
+of the plant for the previous year, in terms of tonnes of          duction réelle de l’établissement pour l’année précé-
+finished product for integrated and processing plants and          dente, en tonnes métriques de produits finis dans le cas
+tonnes of raw material for rendering plants and declaring          des abattoirs et des établissements de préparation et en
+equivalent months for the forthcoming year.                        tonnes métriques de matières premières dans le cas des
+                                                                   fondoirs et précisant les équivalents de un mois pour
+                                                                   l’année à venir.
+
+     PERMITTED VARIATION IN ADDITIONAL CONDITIONS                  MODIFICATIONS PERMISES DES CONDITIONS SUPPLÉMENTAIRES
+   13. Where the owner of a plant establishes to the sat-             13. Lorsque le propriétaire d’un établissement peut
+isfaction of the Minister that for scientific and technical        convaincre le ministre que, pour des raisons scientifiques
+reasons a scheme of sampling and analysis, measure-                et techniques, la fréquence des échantillonnages et des
+ment or reporting referred to in sections 7, 9, 10 and 12          analyses, des mesures ou de la présentation des rapports,
+other than at the regular time interval frequencies re-            qui font l’objet des articles 7, 9, 10 et 12, différente de
+quired by section 8 is sufficient to enable the Minister to        celle qui est prescrite à l’article 8, suffit pour permettre
+determine whether the owner is complying with the lim-             au ministre de juger si les limites prescrites à l’article 5
+its of authorized deposits prescribed by section 5, the            sont respectées, ce dernier peut autoriser le propriétaire
+Minister may, in writing, permit the owner to                      par écrit
+  (a) take and analyse samples of each effluent in ac-               a) à prélever et à analyser des échantillons d’effluent
+  cordance with the scheme on a regular basis specified              selon la fréquence précisée sur le permis,
+  in the permit,
+
+
+
+                                                              11
+                                        C.R.C., c. 818 — October 6, 2010
+
+
+
+
+  (b) measure the volume of each effluent in accor-               b) à mesurer le volume d’effluent, selon la fréquence
+  dance with the scheme on a regular basis specified in           proposée, précisée sur le permis, ou
+  the permit, or                                                  c) à remettre ses rapports au ministre, selon la fré-
+  (c) report to the Minister in accordance with the               quence précisée sur le permis,
+  scheme on a regular basis specified in the permit             et les articles 7 à 10 et 12 ne s’appliquent pas au proprié-
+and sections 7 to 10 and 12 do not apply to the owner if        taire s’il se conforme aux fréquences précisées sur le
+he complies with the scheme on the regular basis speci-         permis.
+fied in the permit.
+
+
+
+
+                                                           12
+                                                       C.R.C., ch. 818 — 6 octobre 2010
+
+
+
+
+                               SCHEDULE I                                                                      ANNEXE I
+                                  (s. 5)                                                                        (art. 5)
+
+ AUTHORIZED DEPOSITS OF DELETERIOUS SUBSTANCES                                            REJETS AUTORISÉS DE SUBSTANCES NOCIVES
+
+Column I         Column II          Column III          Column IV               Colonne I        Colonne II          Colonne III           Colonne IV
+                                                      Authorized                Catégorie                            Rejet réel            Rejet journalier
+                 Deleterious        Authorized actual average daily             d’établissement Substance nocive     journalier autorisé   moyen autorisé
+Class of Plant   Substance          daily deposit     deposit
+                                                                                Abattoir de      Matière ayant une 1,0 kg par tonne        0,5 kg par tonne
+Red Meat         Biochemical Oxygen 1.0 kg/tonne of     0.5 kg/tonne of         bétail           demande           métrique de             métrique de
+Integrated Plant Demanding Matter finished product      finished product                         biochimique en    produits finis          produits finis
+                 Total Suspended    1.2 kg/tonne of     0.6 kg/tonne of                          oxygène
+                 Matter             finished product    finished product                         Matières totales en 1,2 kg par tonne      0,6 kg par tonne
+                 Grease             1.6 kg/tonne of     0.8 kg/tonne of                          suspension          métrique de           métrique de
+                                                                                                                     produits finis        produits finis
+                                    finished product    finished product
+                                                                                                 Graisses            1,6 kg par tonne      0,8 kg par tonne
+Processing       Biochemical Oxygen 0.7 kg/tonne of     0.35 kg/tonne of                                             métrique de           métrique de
+Plant            Demanding Matter finished product      finished product                                             produits finis        produits finis
+                 Total Suspended    0.5 kg/tonne of     0.25 kg/tonne of
+                 Matter             finished product    finished product        Établissement    Matière ayant une 0,7 kg par tonne        0,35 kg par tonne
+                                                                                de préparation   demande           métrique de             métrique de
+                 Grease             0.8 kg/tonne of     0.4 kg/tonne of                          biochimique en    produits finis          produits finis
+                                    finished product    finished product                         oxygène
+
+Poultry          Biochemical Oxygen 1.4 kg/tonne of     0.7 kg/tonne of                          Matières totales en 0,5 kg par tonne      0,25 kg par tonne
+Integrated Plant Demanding Matter finished product      finished product                         suspension          métrique de           métrique de
+                                                                                                                     produits finis        produits finis
+                 Total Suspended    1.0 kg/tonne of     0.5 kg/tonne of
+                 Matter             finished product    finished product                         Graisses            0,8 kg par tonne      0,4 kg par tonne
+                                                                                                                     métrique de           métrique de
+                 Grease             1.0 kg/tonne of     0.5 kg/tonne of                                              produits finis        produits finis
+                                    finished product    finished product
+                                                                                Abattoir de      Matière ayant une 1,4 kg par tonne        0,7 kg par tonne
+Rendering Plant Biochemical Oxygen 0.4 kg/tonne of      0.2 kg/tonne of         volailles        demande           métrique de             métrique de
+                Demanding Matter raw material           raw material                             biochimique en    produits finis          produits finis
+                 Total Suspended    0.4 kg/tonne of     0.2 kg/tonne of                          oxygène
+                 Matter             raw material        raw material                             Matières totales en 1,0 kg par tonne      0,5 kg par tonne
+                 Grease             0.3 kg/tonne of     0.15 kg/tonne of                         suspension          métrique de           métrique de
+                                    raw material        raw material                                                 produits finis        produits finis
+                                                                                                 Graisses            1,0 kg par tonne      0,5 kg par tonne
+                                                                                                                     métrique de           métrique de
+                                                                                                                     produits finis        produits finis
+
+                                                                                Fondoir          Matière ayant une 0,4 kg par tonne   0,2 kg par tonne
+                                                                                                 demande           métrique de        métrique de
+                                                                                                 biochimique en    matières premières matières premières
+                                                                                                 oxygène
+                                                                                                 Matières totales en 0,4 kg par tonne   0,2 kg par tonne
+                                                                                                 suspension          métrique de        métrique de
+                                                                                                                     matières premières matières premières
+                                                                                                 Graisses            0,3 kg par tonne   0,15 kg par tonne
+                                                                                                                     métrique de        métrique de
+                                                                                                                     matières premières matières premières
+
+
+
+
+                                                                           13
+                                                 C.R.C., c. 818 — October 6, 2010
+
+
+
+
+                          SCHEDULE II                                                                      ANNEXE II
+                             (s. 6)                                                                          (art. 6)
+
+     FREQUENCY OF TESTING FOR ACUTE LETHALITY                                   FRÉQUENCE DES CONTRÔLES DE LA LÉTALITÉ AIGUË
+
+     Column I                       Column II                                     Colonne I                      Colonne II
+                                    Frequency of Sampling and                     Catégorie et taille de         Fréquence des échantillonnages
+     Class and Size of Plant        Testing                                       l’établissement                et des analyses
+1.   Red meat integrated plant                                             1.     Abattoir de bétail d’un
+     producing annually                                                           volume annuel d’activités
+     (a)   Less than 500 tonnes of On one slaughtering day per                    a)   inférieur à 500 tonnes    Une fois par année civile, lors
+           finished product        calendar year                                       métriques de produits     d’une journée d’abattage
+     (b)   Between 500 and          On two slaughtering days per                       finis
+           10 000 tonnes of         calendar year, at intervals                   b)   situé entre 500 et      Deux fois par année civile, lors
+           finished product         greater than four calendar                         10 000 tonnes métriques de journées d’abattage, à des
+                                    months                                             de produits finis       intervalles de plus de quatre
+     (c)   Over 10 000 tonnes of    On one slaughtering day during                                             mois civils
+           finished product         each 13 week period of the                    c)   supérieur à             Une fois par période de
+                                    calendar year, at intervals                        10 000 tonnes métriques 13 semaines, lors de journées
+                                    greater than one calendar month                    de produits finis       d’abattage, à des intervalles de
+                                                                                                               plus d’un mois civil
+2.   Processing plant producing
+     annually                                                              2.     Établissement de préparation
+     (a)   Less than 500 tonnes of On one processing day per                      d’un volume annuel
+           finished product        calendar year                                  d’activités
+
+     (b)   Over 500 tonnes of       On two processing days per                    a)   inférieur à 500 tonnes    Une fois par année civile, lors
+           finished product         calendar year, at intervals                        métriques de produits     d’une journée de préparation
+                                    greater than four calendar                         finis
+                                    months                                        b)   supérieur à 500 tonnes    Deux fois par année civile lors
+                                                                                       métriques de produits     de journées de préparation, à
+3.   Poultry integrated plant                                                          finis                     des intervalles de plus de quatre
+     producing annually                                                                                          mois civils
+     (a)   Less than 2 500 tonnes   On one slaughtering day per
+           of finished product      calendar year                          3.     Abattoir de volailles d’un
+                                                                                  volume annuel d’activités
+     (b)   Between 2 500 and        On two slaughtering days per
+           7 000 tonnes of finished calendar year, at intervals                   a)   inférieur à 2 500 tonnes Une fois par année civile, lors
+           product                  greater than four calendar                         métriques de produits    d’une journée d’abattage
+                                    months                                             finis
+
+     (c)   Over 7 000 tonnes of     On one slaughtering day during                b)   de 2 500 à 7 000 tonnes Deux fois par année civile, lors
+           finished product         each 13 week period of the                         métriques de produits   de journées d’abattage, à des
+                                    calendar year, at intervals                        finis                   intervalles de plus de quatre
+                                    greater than one calendar month                                            mois civils
+                                                                                  c)   supérieur à 7 000 tonnes Une fois par période de
+4.   Rendering plant                On one processing day during                       métriques de produits    13 semaines, lors de journées
+                                    each 13 week period of the                         finis                    d’abattage, à des intervalles de
+                                    calendar year, at intervals                                                 plus d’un mois civil
+                                    greater than one calendar month
+                                                                           4.     Fondoir                        Une fois par période de
+                                                                                                                 13 semaines, lors d’une journée
+                                                                                                                 de préparation, à des intervalles
+                                                                                                                 de plus d’un mois civil
+
+
+
+
+                                                                      14
+                                                      C.R.C., ch. 818 — 6 octobre 2010
+
+
+
+
+                            SCHEDULE III                                                                         ANNEXE III
+                               (s. 9)                                                                              (art. 9)
+
+      ANALYTICAL TEST METHODS FOR DETERMINING                                             MÉTHODES QUALITATIVES ET QUANTITATIVES
+     PRESENCE AND CONCENTRATION OF DELETERIOUS                                         D’ANALYSE DES SUBSTANCES NOCIVES ET DE L’AZOTE
+    SUBSTANCES AND AMMONIA NITROGEN IN EFFLUENTS                                                AMMONIACAL DES EFFLUENTS
+
+                       Column I             Column II                                                        Colonne I          Colonne II
+Item    Substance      Test Method          Modifications                                                    Méthode
+1.      Biochemical APHA*                   For determining dissolved              Article Substance         d’analyse          Modifications
+        Oxygen      Section 507             oxygen the following tests             1.       Matière ayant Section 507 de        Pour le dosage de
+        Demanding                           are recommended:                                une demande l’APHA*                 l’oxygène dissous, les
+        Matter                              Section 422B APHA*                              biochimique                         méthodes suivantes sont
+        (BOD)                               Phenylarseneoxide may be                        en oxygène                          recommandées :
+                                            used instead of sodium                          (D.B.O.)                            Section 422B de l’APHA*
+                                            thiosulphate                                                                        Le thiosulfate de sodium
+                                            Section 422F APHA*                                                                  peut être remplacé par
+                                            The probe must be                                                                   l’arsenosobenzène
+                                            standardized against                                                                Section 422F de l’APHA*
+                                            Winkler-Azide method                                                                La méthode doit être
+                                            (APHA* Section 422B)                                                                vérifiée par celle de
+                                                                                                                                Winkler à l’azoture
+2.      Total          APHA*                Glass fiber filter discs 4.25,                                                      (section 422B de
+        Suspended      Section 208D         4.7 or 5.5 cm size with                                                             l’APHA*)
+        Matter                              3.5 m size support screen to
+                                            be used Gooch crucible                 2.       Matières         Section 208D       Utiliser des filtres en fibres
+                                            filtration is not                               totales en       de l’APHA*         de verre de 4,25, 4,7 ou
+                                            recommended                                     suspension                          5,5 cm de diamètre avec
+                                            Graduated cylinder is                                                               tamis support de 3,5 cm.
+                                            recommended to measure                                                              La filtration sur creuset
+                                            the sample volume                                                                   Gooch n’est pas
+                                                                                                                                recommandée
+3.      Grease         APHA*                Either hexane or                                                                    L’usage d’un cylindre
+                       Section 502C         trichlorotrifluoroethane can                                                        gradué est recommandé
+                                            be used                                                                             pour mesurer le volume de
+                                                                                                                                l’échantillon
+4.      Ammonia        APHA*                Where appropriate the test
+        Nitrogen       Section 418          methods referred to in                 3.       Graisses         Section 502C       L’hexane ou le
+                                            Section 418A or 418B                                             de l’APHA*         trichlorotrifluoroéthane
+                                            should be used.                                                                     peuvent être utilisés
+
+                                                                                   4.       Azote            Section 418 de Lorsqu’elles sont
+                                                                                            ammoniacal       l’APHA*        appropriées, les méthodes
+                                                                                                                            décrites aux sections 418A
+                                                                                                                            ou 418B devraient être
+                                                                                                                            utilisées.
+*
+  Refers to the publication Standard Methods for the Examination of Water          *
+                                                                                     Standard Methods for the Examination of Water and Wastewater, 14e édi-
+and Wastewater, 14th Edition (1975), published jointly by the American Pub-        tion (1975), publié conjointement par l’American Public Health Association,
+lic Health Association, American Water Works Association and the Water             l’American Water Works Association et la Water Pollution Control Federa-
+Pollution Control Federation.                                                      tion.
+
+
+
+
+                                                                              15
+                                                        C.R.C., c. 818 — October 6, 2010
+
+
+
+
+                              SCHEDULE IV                                                                         ANNEXE IV
+                                 (s. 9)                                                                             (art. 9)
+
+       TEST PROCEDURE FOR 96 HOUR ACUTE LETHALITY                                          MODE OPÉRATOIRE DU CONTRÔLE DE LA LÉTALITÉ
+                       STATIC TEST                                                           AIGUË D’UNE DURÉE DE 96 HEURES DANS DES
+                                                                                                      CONDITIONS STATIQUES
+   1. The applicable portions of APHA*, sections 801 and 810, shall                    1. Utiliser les indications applicables, sections 801 et 810 du re-
+be used as a basis for this test procedure with the following modifica-              cueil de l’APHA*, comme fondement opératoire du présent contrôle,
+tions:                                                                               en apportant les modifications suivantes :
+     (a) rainbow trout (Salmo gairdneri Richardson) shall be used as                   a) l’espèce utilisée comme fondement opératoire du présent
+     the standard test organism for the test procedure;                                contrôle est la truite arc-en-ciel (Salmo gairdneri Richardson);
+     (b) only healthy, standardized stocks of properly acclimated rain-                b) n’utiliser que des truites normalisées, en bonne santé et bien ac-
+     bow trout shall be used;                                                          climatées;
+     (c) for each acute lethality test, at least 10 fish shall be exposed to           c) dans chaque contrôle de la létalité aiguë, au moins 10 poissons
+     a representative portion of the composite sample for a period of                  sont exposés à une partie représentative de l’échantillon composite
+     96 hours and an equal number of fish shall be exposed for the same                pendant une période de 96 heures, et un nombre égal de poissons
+     period under identical conditions to water used for holding fish                  témoins sont gardés dans des conditions identiques pendant la
+     stocks (control fish);                                                            même période de temps dans l’eau utilisée pour conserver les pois-
+                                                                                       sons;
+     (d) this test is invalid if greater than 10 per cent of the control fish
+     die;                                                                              d) le contrôle n’est pas valable si plus de 10 pour cent des pois-
+                                                                                       sons témoins meurent;
+     (e) for each gram of fish there shall be at least 1.5 litres of fresh
+     test sample per 96-hour test;                                                     e) pour chaque contrôle d’une durée de 96 heures, il doit y avoir
+                                                                                       au moins 1,5 litre d’échantillon frais par gramme de poisson;
+     (f) the minimum water depth in any test vessel shall be 10 cm;
+                                                                                       f) la profondeur minimale de solution dans chaque bassin de
+     (g) the test sample shall be aerated or oxygenated with only that
+                                                                                       contrôle est de 10 cm;
+     amount of air or oxygen required to maintain a minimum dissolved
+     oxygen level of 8 mg/l and aeration or oxygenation shall be mini-                 g) l’échantillon contrôlé ne peut être aéré ou oxygéné qu’avec la
+     mized to reduce the stripping of volatile compounds or the oxida-                 quantité d’air ou d’oxygène nécessaire pour maintenir une teneur
+     tion of acutely lethal components in the test sample. A maximum                   minimale d’oxygène dissous de 8 mg/1. L’aération et l’oxygéna-
+     of two hours aeration of the test sample is allowed prior to the                  tion sont réduites pour empêcher l’entraînement des composés vo-
+     commencement of the test;                                                         latils ou l’oxydation des composants très toxiques de l’échantillon.
+                                                                                       Il est permis d’aérer l’échantillon à contrôler pendant un maximum
+     (h) in any test, individual fish shall weigh between 0.5 and
+                                                                                       de deux heures, avant le contrôle;
+     10 grams and the weight of the largest fish shall not be more than
+     twice the smallest;                                                               h) dans tous les cas, chaque poisson pèse entre 0,5 et 10 grammes,
+                                                                                       et le poids du plus gros ne peut dépasser le double de celui du plus
+     (i) the test shall be conducted at 15° ± 1° Celsius;
+                                                                                       petit;
+     (j) the number of dead fish in the treatment and control vessels
+                                                                                       i) l’essai se fait à 15° ± 1° Celsius;
+     shall be recorded at 1/4, 1/2, 1, 2, 4, 8, 24, 48, 72 and 96 hours;
+                                                                                       j) le nombre de poissons morts dans chaque bassin de traitement et
+     (k) there shall be no direct adjustment of the pH or other chemical
+                                                                                       de contrôle est noté après 1/4, 1/2, 1, 2, 4, 8, 24, 48, 72 et
+     characteristics of the test sample;
+                                                                                       96 heures;
+     (l) when transportation or storage of a composite sample is neces-
+                                                                                       k) le pH ni les autres caractéristiques chimiques de l’échantillon
+     sary, special precautions shall be used to minimize degradation as
+                                                                                       contrôlé ne doivent être modifiés;
+     follows:
+                                                                                       l) lorsqu’il est nécessaire de transporter ou de conserver un échan-
+       (i) the sample shall be kept in sealed containers which are com-
+                                                                                       tillon composite, les précautions spéciales suivantes sont prises
+       pletely filled to the exclusion of all air,
+                                                                                       pour en réduire la dégradation :
+       (ii) if it is necessary for the sample to be stored more than
+       60 hours between collection and testing, the sample shall be
+
+*                                                                                     * 
+  Refers to the publication Standard Methods for the Examina-                           Standard Methods for the Examination of Water and Waste-
+tion of Water and Wastewater, 14th Edition (1975), published                          water, 14e édition (1975), publié conjointement par l’American
+jointly by the American Public Health Association, American                           Public Health Association, l’American Water Works Associa-
+Water Works Association and the Water Pollution Control Fed-                          tion et la Water Pollution Control Federation.
+eration.
+
+
+
+                                                                                16
+                                             C.R.C., ch. 818 — 6 octobre 2010
+
+
+
+
+brought to a temperature range of 1° to 6 °C as soon as possible        (i) garder l’échantillon dans des récipients remplis à pleine ca-
+after collection and maintained at this temperature range until         pacité, pour en éliminer l’air, et bouchés hermétiquement,
+just prior to being tested, and
+                                                                        (ii) s’il est nécessaire de conserver l’échantillon plus de
+(iii) acute lethality testing shall commence as soon as possible        60 heures avant le contrôle, l’amener à une température dans
+but in no case shall it commence later than four days after sam-        l’intervalle de 1° à 6 °C, le plus tôt possible après son prélève-
+pling.                                                                  ment, et le maintenir à cette température jusqu’au moment des
+                                                                        contrôles, et
+                                                                        (iii) commencer les contrôles de la létalité aiguë aussitôt que
+                                                                        possible dans les quatre jours au plus suivant l’échantillonnage.
+
+
+
+
+                                                                   17
+

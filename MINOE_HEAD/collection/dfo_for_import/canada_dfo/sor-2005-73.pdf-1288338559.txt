@@ -1,0 +1,620 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+ Natural and Man-made                                             Règlement relatif à la
+ Harbour Navigation and                                          navigation dans les ports
+    Use Regulations                                                naturels et les ports
+                                                                    aménagés et à leur
+                                                                        utilisation
+
+                      SOR/2005-73                                                       DORS/2005-73
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published            31. (1) Every copy of a consolidated statute or             31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies       (3) In the event of an inconsistency between a             (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                            Enregistrement
+SOR/2005-73 March 22, 2005                              DORS/2005-73 Le 22 mars 2005
+CANADA MARINE ACT                                       LOI MARITIME DU CANADA
+
+Natural and Man-made Harbour Navigation and Use         Règlement relatif à la navigation dans les ports
+Regulations                                             naturels et les ports aménagés et à leur utilisation
+
+P.C. 2005-400 March 22, 2005                            C.P. 2005-400 Le 22 mars 2005
+
+  Her Excellency the Governor General in Council, on       Sur recommandation du ministre des Transports et en
+the recommendation of the Minister of Transport, pur-   vertu du paragraphe 104(1) de la Loi maritime du
+suant to subsection 104(1) of the Canada Marine Acta,   Canadaa, Son Excellence la Gouverneure générale en
+hereby makes the annexed Natural and Man-made Har-      conseil prend le Règlement relatif à la navigation dans
+bour Navigation and Use Regulations.                    les ports naturels et les ports aménagés et à leur utilisa-
+                                                        tion, ci-après.
+
+
+
+
+a                                                        a 
+     S.C. 1998, c. 10                                         L.C. 1998, ch. 10
+NATURAL   AND    MAN-MADE     HARBOUR                             RÈGLEMENT RELATIF À LA NAVIGATION DANS
+   NAVIGATION AND USE REGULATIONS                                    LES PORTS NATURELS ET LES PORTS
+                                                                     AMÉNAGÉS ET À LEUR UTILISATION
+
+                  INTERPRETATION                                                       DÉFINITIONS
+   1. The following definitions apply in these Regula-              1. Les définitions qui suivent sappliquent au présent
+tions.                                                            règlement.
+“Act” means the Canada Marine Act. (Loi)                          « construction flottante » Tout type d’habitation flottante,
+“dangerous goods” has the meaning assigned in section             de bateau-logement, de navire, d’ouvrage ou autre type
+2 of the Transportation of Dangerous Goods Act, 1992.             d’embarcation flottante utilisé à des fins résidentielles ou
+(marchandises dangereuses)                                        commerciales. (floating structure)
+
+“floating structure” means any type of floathome, house-          « Loi » La Loi maritime du Canada. (Act)
+boat, ship, work or other type of floating craft that is          « marchandises dangereuses » S’entend au sens de l’ar-
+used for residential or commercial purposes. (construc-           ticle 2 de la Loi de 1992 sur le transport des marchan-
+tion flottante)                                                   dises dangereuses. (dangerous goods)
+“harbour” means the navigable waters of a natural or              « port » Les eaux navigables d’un port naturel ou aména-
+man-made harbour that have been designated by the                 gé qui sont déterminées par le gouverneur en conseil en
+Governor in Council under subsection 104(2) of the Act.           vertu du paragraphe 104(2) de la Loi. (harbour)
+(port)
+                                                                  « responsable de port » À l’égard d’un port, s’entend
+“harbour official”, with respect to a harbour, means a            d’un responsable du contrôle de la circulation désigné
+traffic control official designated by the Minister under         par le ministre en vertu de l’article 106 de la Loi ou dun
+section 106 of the Act or an enforcement officer desig-           agent de l’autorité désigné par le ministre en vertu du pa-
+nated by the Minister under subsection 108(1) of the              ragraphe 108(1) de la Loi. (harbour official)
+Act. (responsable de port)
+
+            BINDING ON HER MAJESTY                                           OBLIGATIONS DE SA MAJESTÉ
+   2. These Regulations are binding on Her Majesty in               2. Le présent règlement lie Sa Majesté du chef du
+right of Canada or a province.                                    Canada ou d’une province.
+
+SAFETY OF PERSONS AND SHIPS IN HARBOURS                             SÉCURITÉ DES PERSONNES ET DES NAVIRES
+                                                                               DANS LES PORTS
+
+                       PROHIBITIONS                                                     INTERDICTIONS
+   3. Unless otherwise authorized under these Regula-                3. Sauf autorisation sous le régime du présent règle-
+tions, no person shall, by act or omission, adversely af-         ment, il est interdit à quiconque, par action ou omission,
+fect the use of a harbour, interfere with navigation in a         de nuire à l’utilisation du port, d’y gêner la navigation
+harbour or jeopardize the safety of persons or ships in a         ou de menacer la sécurité des personnes ou des navires
+harbour by doing anything or permitting anything to be            dans le port en faisant, ou en permettant de faire, quoi
+done that has or is likely to have any of the following re-       que ce soit qui entraîne, ou est susceptible d’entraîner,
+sults in the harbour:                                             l’une des conséquences suivantes dans le port :
+  (a) to obstruct or threaten any part of the harbour;              a) obstruer ou menacer une partie du port;
+  (b) to interfere with an authorized activity;                     b) nuire à toute activité autorisée;
+
+
+
+                                                              1
+                                           SOR/2005-73 — October 6, 2010
+
+
+
+  (c) to divert the flow of a river or stream, cause or af-         c) détourner le cours d’une rivière ou d’un ruisseau,
+  fect currents, cause silting or the accumulation of ma-           produire ou modifier des courants, provoquer un enva-
+  terial or otherwise reduce the depth of the waters;               sement ou l’accumulation de matériaux ou diminuer
+  (d) to cause a nuisance;                                          de quelque autre façon la profondeur des eaux;
+
+  (e) to cause injury to persons or damage to ships; or             d) occasionner une nuisance;
+
+  (f) to adversely affect sediment or water quality.                e) causer des blessures aux personnes ou endomma-
+                                                                    ger un navire;
+                                                                    f) altérer la qualité des sédiments ou de l’eau.
+
+                 REMOVAL FROM WATERS                                                ENLÈVEMENT DES EAUX
+   4. (1) Unless otherwise authorized under these Regu-              4. (1) Sauf disposition contraire du présent règle-
+lations, a person who, adversely affects the use of a har-        ment, toute personne qui nuit à l’utilisation du port, y
+bour, interferes with navigation in a harbour or jeopar-          gêne la circulation ou menace la sécurité des personnes
+dizes the safety of persons or ships in a harbour by              ou des navires dans un port en laissant tomber, en dépo-
+dropping, depositing, discharging or spilling refuse, a           sant, en déchargeant ou en déversant des rebuts, une sub-
+substance that pollutes, cargo, ship’s gear or any other          stance polluante, des marchandises ou apparaux ou autre
+object must                                                       objet doit :
+  (a) immediately make every technically feasible and               a) déployer immédiatement tous les efforts raison-
+  reasonable effort to remove it;                                   nables et réalisables sur le plan technique pour les en-
+  (b) notify a harbour official of the incident without             lever;
+  delay and provide a description of what was dropped,              b) signaler sans délai l’incident à un responsable de
+  deposited, discharged or spilled and its approximate              port et fournir une description de ce qui a été laissé
+  location, and of the efforts made by the person to re-            tomber, déposé, déchargé ou déversé, de son emplace-
+  move it; and                                                      ment approximatif et des mesures prises par elle pour
+  (c) as soon as possible, provide to the harbour official          l’enlever;
+  a detailed written report containing the information              c) présenter au responsable de port aussitôt que pos-
+  mentioned in paragraph (b).                                       sible un rapport écrit détaillé de l’incident qui contient
+                                                                    les renseignements mentionnés à l’alinéa b).
+  (2) If the person does not remove the refuse, polluting           (2) Si la personne n’enlève pas immédiatement les re-
+substance, cargo, ship’s gear or object immediately, the          buts, la substance polluante, les marchandises ou appa-
+harbour official may have it done.                                raux ou l’objet, le responsable de port peut faire procé-
+                                                                  der à leur enlèvement.
+
+                    FIRE PROTECTION                                            PROTECTION CONTRE L’INCENDIE
+   5. Every person in a harbour must follow the fire pro-            5. Toute personne qui se trouve dans un port doit res-
+tection and prevention measures established for the safe-         pecter les mesures de prévention et de protection contre
+ty of persons and ships in the harbour, taking into ac-           l’incendie établies pour la sécurité des personnes et des
+count the activities in the harbour.                              navires dans le port, compte tenu des activités qui y sont
+                                                                  exercées.
+
+
+
+
+                                                              2
+                                          DORS/2005-73 — 6 octobre 2010
+
+
+
+                 DANGEROUS SITUATIONS                                              SITUATIONS DANGEREUSES
+   6. Every person who, by act or omission, causes a                 6. Toute personne qui, par action ou omission, est à
+dangerous situation in a harbour must immediately take            l’origine d’une situation dangereuse dans un port doit
+appropriate precautionary measures to prevent injury to           prendre les mesures de précaution appropriées pour pré-
+persons or damage to ships and notify a harbour official          venir les blessures aux personnes ou les dommages aux
+without delay as to the nature of the dangerous situation         navires et signaler sans délai à un responsable de port la
+and the precautions that have been taken and their loca-          nature de la situation dangereuse, les mesures de précau-
+tion.                                                             tion qui ont été prises et préciser l’endroit de leur exécu-
+                                                                  tion.
+
+                      EMERGENCIES                                                   SITUATIONS D’URGENCE
+   7. Despite any other provision of these Regulations, a            7. Malgré toute autre disposition du présent règle-
+person may, in a harbour, conduct an activity set out in          ment, toute personne peut exercer dans un port une des
+column 1 of the schedule without having a contract or             activités mentionnées à la colonne 1 de l’annexe sans
+lease with, or a licence granted by, the Minister of Na-          avoir de contrat ou de bail avec le ministre de la Défense
+tional Defence or an authorization from a harbour offi-           nationale, de permis accordé par lui ou d’autorisation ac-
+cial or without complying with the conditions of an au-           cordée par un responsable de port, ou sans se conformer
+thorization for the duration of an emergency situation if         aux conditions d’une autorisation pendant la durée d’une
+  (a) the activity is required as a result of an emergency        situation d’urgence, si, à la fois :
+  situation that jeopardizes the safety of persons or               a) l’activité est nécessaire par suite d’une situation
+  ships;                                                            d’urgence qui met en danger la sécurité des personnes
+  (b) the person conducting the activity makes every ef-            ou des navires;
+  fort to notify a harbour official of the activity and the         b) la personne qui exerce l’activité déploie tous les
+  emergency situation, if practicable; and                          efforts pour signaler l’activité et la situation d’urgence
+  (c) the person conducting the activity submits a de-              à un responsable de port, si cela est possible;
+  tailed written report to the harbour official without de-         c) la personne qui exerce l’activité présente sans délai
+  lay describing the activity and explaining why the sit-           au responsable de port un rapport écrit détaillé décri-
+  uation was regarded as an emergency.                              vant celle-ci et expliquant les raisons pour lesquelles
+                                                                    la situation était considérée comme urgente.
+   8. If an activity in a harbour causes or is likely to             8. Lorsqu’une activité, dans un port, cause ou est sus-
+cause an emergency situation that jeopardizes the safety          ceptible de causer une situation d’urgence qui met en
+of persons or ships, the person conducting the activity           danger la sécurité des personnes ou des navires, la per-
+and, in the case of an activity conducted under a con-            sonne qui exerce l’activité et, dans le cas d’une activité
+tract, lease, licence or authorization, the person autho-         exercée aux termes d’un contrat, d’un bail, d’un permis
+rized to conduct the activity must                                ou d’une autorisation, la personne autorisée à exercer
+  (a) notify a harbour official without delay of the              l’activité doivent :
+  emergency situation;                                              a) signaler sans délai la situation d’urgence à un res-
+  (b) submit a detailed written report of the emergency             ponsable de port;
+  situation to the harbour official as soon as possible af-
+  ter the situation ceases to exist; and
+
+
+
+
+                                                              3
+                                            SOR/2005-73 — October 6, 2010
+
+
+
+  (c) at the request of the harbour official, submit with             b) présenter au responsable de port un rapport écrit
+  the report to the harbour official a copy of each report            détaillé de la situation d’urgence aussitôt que possible
+  of the emergency situation that the person makes to                 après qu’elle est terminée;
+  municipal, provincial and federal authorities.                      c) à la demande du responsable de port, lui présenter
+                                                                      le rapport et une copie de chaque rapport de la situa-
+                                                                      tion d’urgence que fait la personne aux autorités mu-
+                                                                      nicipales, provinciales et fédérales.
+
+                 ACCIDENTS AND INCIDENTS                                             ACCIDENTS ET INCIDENTS
+  9. A person who does anything in a harbour that re-                 9. Toute personne qui, dans un port, accomplit un
+sults in an incident involving injury to persons or dam-            acte qui provoque un incident entraînant des blessures
+age to ships, including an explosion, fire, accident,               aux personnes ou des dommages aux navires, notam-
+grounding, or stranding must                                        ment une explosion, un incendie, un accident, un
+  (a) notify a harbour official of the incident without             échouement ou un échouage doit :
+  delay; and                                                          a) signaler sans délai l’incident à un responsable de
+  (b) submit a detailed written report of the incident to             port;
+  the harbour official as soon as possible after the inci-            b) présenter au responsable de port un rapport écrit
+  dent occurs.                                                        détaillé de cet incident aussitôt que possible après que
+                                                                      l’incident s’est produit.
+
+                PRECAUTIONARY MEASURES                                               MESURES DE PRÉCAUTION
+   10. (1) If, in a harbour, a person conducts an activity,            10. (1) Si, dans un port, une personne exerce une ac-
+other than an activity set out in the schedule, that is like-       tivité, autre qu’une activité mentionnée à l’annexe, qui
+ly to have any of the results prohibited under section 3, a         est susceptible d’entraîner une des conséquences inter-
+harbour official may instruct the person conducting the             dites à l’article 3, un responsable de port peut lui donner
+activity to cease the activity or authorize the person to           instruction de cesser l’activité ou l’autoriser à exercer
+conduct the activity on condition that the person takes             l’activité à condition qu’elle prenne les mesures raison-
+measures reasonably necessary to mitigate or prevent the            nables qui sont nécessaires de façon à l’atténuer ou à la
+result.                                                             prévenir.
+   (2) The person must immediately comply with the in-               (2) La personne est tenue de se conformer immédiate-
+structions of the harbour official.                                 ment aux instructions du responsable de port.
+
+  AUTHORIZATIONS AND INSTRUCTIONS FOR                               AUTORISATIONS ET INSTRUCTIONS VISANT LES
+        ACTIVITIES IN A HARBOUR                                            ACTIVITÉS DANS LES PORTS
+
+   ACTIVITIES UNDER CONTRACTS, LEASES AND LICENCES                   ACTIVITÉS AUX TERMES D’UN CONTRAT, D’UN BAIL OU D’UN
+                                                                                              PERMIS
+
+   11. A person may, in a harbour, conduct an activity                11. Toute personne peut exercer, dans un port, une
+set out in column 1 of the schedule if authorized to do so          activité mentionnée à la colonne 1 de l’annexe lors-
+in writing expressly or by necessary implication under a            qu’elle y est autorisée, par écrit, expressément ou par dé-
+contract or lease entered into with, or a licence granted           duction nécessaire aux termes d’un contrat ou d’un bail
+by, the Minister of National Defence.
+
+
+
+                                                                4
+                                            DORS/2005-73 — 6 octobre 2010
+
+
+
+                                                                    conclu avec le ministre de la Défense nationale, ou d’un
+                                                                    permis accordé par celui-ci.
+   12. If, by entering into a contract or lease or granting            12. Si, par la conclusion d’un contrat ou d’un bail, ou
+a licence, the Minister of National Defence authorizes an           par l’octroi d’un permis, le ministre de la Défense natio-
+activity set out in column 1 of the schedule that has or is         nale autorise une activité mentionnée à la colonne 1 de
+likely to have any of the results prohibited under section          l’annexe qui entraîne, ou est susceptible d’entraîner, une
+3, that Minister may stipulate as a condition of the con-           des conséquences interdites à l’article 3, il peut indiquer,
+tract, lease or licence that the person with whom the con-          comme condition du contrat, du bail ou du permis, que le
+tract or lease is made or to whom the licence is granted            contractant ou le titulaire du permis est tenu de prendre
+must take measures reasonably necessary to mitigate or              les mesures raisonnables qui sont nécessaires pour l’atté-
+prevent the result.                                                 nuer ou la prévenir.
+
+  AUTHORIZATIONS BY POSTED SIGNS, NAUTICAL CHARTS,                   AUTORISATIONS AFFICHÉES OU PRÉVUES PAR CARTE MARINE,
+                  MAPS OR FORMS                                                        CARTE OU FORMULAIRE
+
+   13. (1) Subject to subsections (2) and (3), a harbour               13. (1) Sous réserve des paragraphes (2) et (3), un
+official may, by such means as posted signs, nautical               responsable de port peut, en vertu du présent article, ac-
+charts, maps or forms, give an authorization under this             corder l’autorisation, au moyen notamment d’affiches,
+section to conduct, in a harbour, an activity set out in            de cartes marines, de cartes ou de formulaires, d’exercer
+column 1 of the schedule if an “X” is set out in column             dans un port une activité mentionnée à la colonne 1 de
+2.                                                                  l’annexe si la mention « X » figure à la colonne 2.
+   (2) If the conduct of the activity is not likely to have a          (2) Si l’exercice de l’activité n’est pas susceptible
+result prohibited under section 3, the harbour official             d’entraîner une des conséquences interdites à l’article 3,
+may give the authorization without conditions to persons            le responsable de port peut accorder une autorisation in-
+wanting to conduct the activity.                                    conditionnelle aux personnes qui veulent exercer cette
+                                                                    activité.
+   (3) If the conduct of the activity is likely to have a re-          (3) Si l’exercice de l’activité est susceptible d’entraî-
+sult prohibited under section 3, the harbour official may           ner une des conséquences interdites à l’article 3, le res-
+give the authorization for the activity only if the harbour         ponsable de port ne peut accorder l’autorisation relative
+official                                                            à cette activité que si :
+  (a) establishes conditions designed to mitigate or pre-             a) d’une part, il établit des conditions visant à atté-
+  vent the result; and                                                nuer ou à prévenir cette conséquence;
+  (b) communicates the conditions by posting them in a                b) d’autre part, il énonce les conditions en les affi-
+  prominent place clearly visible to persons wanting to               chant à un endroit bien en vue des personnes qui
+  conduct the activity or setting them out on forms that              veulent exercer cette activité ou en les indiquant sur
+  are readily available to persons wanting to conduct the             des formulaires facilement accessibles aux personnes
+  activity.                                                           qui veulent exercer cette activité.
+   14. (1) No person shall conduct an activity set out in              14. (1) Il est interdit à toute personne d’exercer une
+column 1 of the schedule if an “X” is set out in column             activité visée à la colonne 1 de l’annexe si la mention
+2, unless the person complies with the conditions, if any,          « X » figure à la colonne 2 à moins qu’elle ne respecte, le
+for conducting the activity that are posted or set out on           cas échéant, les conditions rattachées à l’activité qui sont
+forms.                                                              affichées ou indiquées sur des formulaires.
+
+
+
+                                                                5
+                                            SOR/2005-73 — October 6, 2010
+
+
+
+  (2) If a condition for conducting the activity is to               (2) Si une condition rattachée à l’exercice de l’activi-
+complete a checklist, the person conducting the activity          té est de remplir une liste de vérification, la personne qui
+must keep the checklist readily available for inspection.         exerce l’activité doit garder cette liste facilement acces-
+                                                                  sible aux fins d’inspection.
+
+               AUTHORIZATION TO A PERSON                                   AUTORISATION ACCORDÉE À UNE PERSONNE
+  15. (1) A harbour official may give an authorization              15. (1) Un responsable de port peut accorder, en ver-
+under this section to a person to conduct, in a harbour,          tu du présent article, à une personne l’autorisation
+an activity set out in column 1 of the schedule if                d’exercer dans un port une activité mentionnée à la co-
+  (a) an “X” is set out in column 3; or                           lonne 1 de l’annexe, dans les cas suivants :
+
+  (b) an “X” is set out in column 2 and the person or               a) la mention « X » figure à la colonne 3;
+  any person who would be covered by the authoriza-                 b) la mention « X » figure à la colonne 2 et ni la per-
+  tion is unable to comply with the conditions posted or            sonne ni aucune personne visée dans l’autorisation
+  set out on forms under section 13 for the conduct of              n’est en mesure de respecter les conditions affichées
+  the activity.                                                     ou indiquées sur des formulaires en vertu de l’article
+                                                                    13 pour l’exercice de l’activité.
+  (2) On receipt of a request for an authorization and               (2) À la réception d’une demande d’autorisation et
+the information required under subsection 16(2), the har-         des renseignements exigés en vertu du paragraphe 16(2),
+bour official must                                                le responsable de port doit, selon le cas :
+  (a) give their authorization;                                     a) accorder son autorisation;
+  (b) if the results of the conduct of the activity are un-         b) si les conséquences de l’exercice de l’activité sont
+  certain or if the conduct of the activity is likely to            incertaines ou si l’exercice de l’activité est susceptible
+  have any of the results prohibited under section 3,               d’entraîner l’une quelconque des conséquences inter-
+     (i) refuse to give their authorization, or                     dites à l’article 3 :
+
+     (ii) give their authorization subject to conditions               (i) refuser d’accorder son autorisation,
+     designed to mitigate or prevent the results; or                   (ii) accorder son autorisation assortie de conditions
+  (c) if the harbour official required that the person ob-             visant à atténuer ou à prévenir ces conséquences;
+  tain insurance coverage, performance security or dam-             c) refuser son autorisation s’il avait exigé que la per-
+  age security in respect of the conduct of the activity            sonne obtienne une couverture d’assurance, une ga-
+  and none is obtained or that which is obtained is inad-           rantie de bonne fin ou une garantie relative aux dom-
+  equate, refuse to give their authorization.                       mages à l’égard de l’exercice de l’activité et
+                                                                    qu’aucune n’a été obtenue ou que celle qui a été obte-
+                                                                    nue n’est pas suffisante.
+   16. (1) No person shall, in a harbour, conduct an ac-            16. (1) Il est interdit à toute personne d’exercer dans
+tivity set out in column 1 of the schedule if an “X” is set       un port une activité mentionnée à la colonne 1 de l’an-
+out in column 3 unless the person                                 nexe si la mention « X » figure à la colonne 3 à moins
+  (a) obtains an authorization under section 15 or is             que les conditions suivantes ne soient réunies :
+  covered by an authorization given under that section;
+  and
+
+
+
+
+                                                              6
+                                         DORS/2005-73 — 6 octobre 2010
+
+
+
+  (b) complies with the conditions, if any, of the autho-          a) elle obtient l’autorisation prévue à l’article 15 ou
+  rization.                                                        est visée par l’autorisation accordée en vertu de cet ar-
+                                                                   ticle;
+                                                                   b) elle respecte les conditions dont l’autorisation est
+                                                                   assortie, le cas échéant.
+  (2) A person who seeks an authorization from a har-              (2) La personne qui demande à un responsable de
+bour official to conduct an activity in a harbour must           port l’autorisation d’exercer dans un port une activité lui
+provide to the harbour official                                  fournit :
+  (a) the name and address of the person;                          a) ses nom et adresse;
+  (b) information relevant to the proposed activity and            b) tout renseignement relatif à l’activité proposée
+  required by the harbour official to assess the likeli-           qu’exige le responsable de port dans le but d’évaluer
+  hood of the occurrence of any of the results prohibited          la probabilité que se produise l’une des conséquences
+  under section 3;                                                 interdites à l’article 3;
+  (c) if required by the harbour official, proof that the          c) si le responsable de port l’exige, la preuve que le
+  person seeking the authorization has an insurance pol-           demandeur a souscrit une police d’assurance qui pré-
+  icy that provides adequate coverage for the activity,            voit une couverture suffisante pour l’activité visée, dé-
+  names Her Majesty in right of Canada as an additional            signe Sa Majesté du chef du Canada à titre d’assurée
+  insured and provides for the insurer to notify the har-          additionnelle et stipule que l’assureur doit aviser le
+  bour official in the event that the policy is amended or         responsable de port si la police est modifiée ou annu-
+  cancelled; and                                                   lée;
+  (d) if required by the harbour official, performance             d) si le responsable de port l’exige, une garantie de
+  security and damage security in respect of the conduct           bonne fin et une garantie relative aux dommages à
+  of the activity.                                                 l’égard de l’exercice de l’activité.
+  17. A harbour official may cancel an authorization                17. Un responsable de port peut annuler l’autorisation
+given under section 15 or change the conditions to which         accordée en vertu de l’article 15 ou en changer les condi-
+an authorization is subject if                                   tions dans les cas suivants :
+  (a) the conduct of the activity has a result prohibited          a) l’exercice de l’activité entraîne une des consé-
+  under section 3 or, because of a change in circum-               quences interdites à l’article 3 ou, du fait de nouvelles
+  stances, becomes likely to have such a result or the re-         circonstances, la conséquence est incertaine, ou
+  sult of the activity becomes uncertain;                          l’exercice de l’activité devient susceptible d’entraîner
+  (b) the authorization was based on incorrect or mis-             une de ces conséquences;
+  leading information; or                                          b) l’autorisation a été obtenue sur la foi de renseigne-
+  (c) the person to whom the authorization is given or             ments erronés ou trompeurs;
+  any person covered by the authorization does not                 c) la personne à laquelle l’autorisation a été accordée,
+  comply with a condition of the authorization.                    ou une personne visée dans l’autorisation, ne respecte
+                                                                   pas les conditions rattachées à l’autorisation.
+  18. (1) If an authorization given under section 15 is            18. (1) Si l’autorisation accordée en vertu de l’article
+cancelled, the harbour official must give notice of the          15 est annulée, le responsable de port en avise la per-
+                                                                 sonne à laquelle l’autorisation a été accordée.
+
+
+
+
+                                                             7
+                                            SOR/2005-73 — October 6, 2010
+
+
+
+cancellation to the person to whom the authorization was
+given.
+  (2) The cancellation is effective at the earliest of               (2) L’annulation prend effet à la première des occa-
+  (a) the end of the fifth business day after the notice of       sions suivantes :
+  cancellation is sent by registered mail to the address            a) l’expiration des cinq jours ouvrables suivant l’en-
+  provided in the application for the authorization;                voi, par courrier recommandé, de l’avis d’annulation à
+  (b) two hours after a facsimile or electronic transmis-           l’adresse indiquée dans la demande d’autorisation;
+  sion of the notice of cancellation is sent to the address         b) l’expiration des deux heures suivant la transmis-
+  provided in the application for the authorization; and            sion, par télécopieur ou autre moyen électronique, de
+  (c) immediately on service of the notice of cancella-             l’avis d’annulation à l’adresse indiquée dans la de-
+  tion at the address provided in the application for the           mande d’autorisation;
+  authorization.                                                    c) au moment de la signification de l’avis d’annula-
+                                                                    tion à l’adresse indiquée dans la demande d’autorisa-
+                                                                    tion.
+
+ INSTRUCTIONS TO CEASE, REMOVE, RETURN AND RESTORE                  INSTRUCTIONS VISANT LA CESSATION, L’ENLÈVEMENT, LE
+                                                                                    RETOUR ET LA REMISE
+
+   19. (1) A harbour official may instruct a person to               19. (1) Un responsable de port peut donner instruc-
+take any of the actions referred to in subsection (2) if          tion à toute personne de prendre l’une des mesures pré-
+  (a) the person conducts an activity for which an au-            vues au paragraphe (2) dans les cas suivants :
+  thorization is required under section 15 without first            a) la personne exerce une activité pour laquelle une
+  obtaining the authorization or without being covered              autorisation est exigée à l’article 15 sans en avoir ob-
+  by one;                                                           tenu une ou sans être visée par elle;
+  (b) the person, or any person covered by the autho-               b) la personne, ou une personne visée par l’autorisa-
+  rization, fails to comply with a condition of the autho-          tion, ne respecte pas les conditions rattachées à l’auto-
+  rization;                                                         risation;
+  (c) the authorization to conduct the activity is can-             c) l’autorisation d’exercer l’activité est annulée en
+  celled under section 17; or                                       vertu de l’article 17;
+  (d) in the case of an activity for which no authoriza-            d) dans le cas d’une activité pour laquelle aucune au-
+  tion is required under these Regulations, the conduct             torisation n’est exigée par le présent règlement, l’exer-
+  of the activity has a result prohibited under section 3.          cice de cette activité entraîne une des conséquences
+                                                                    interdites à l’article 3.
+  (2) The actions are                                               (2) Les mesures sont les suivantes :
+  (a) to cease the activity or comply with the conditions           a) cesser l’activité ou respecter les conditions ratta-
+  for conducting the activity; and                                  chées à l’activité;
+  (b) if the person is instructed to cease the activity,            b) si la personne reçoit comme instruction de cesser
+    (i) to remove anything brought into the harbour in              l’activité :
+    connection with the activity,                                     (i) enlever toute chose qui a été apportée dans le
+                                                                      port relativement à l’activité,
+
+
+
+                                                              8
+                                          DORS/2005-73 — 6 octobre 2010
+
+
+
+     (ii) to return to the harbour anything that was re-              (ii) retourner au port toute chose qui y a été enlevée
+     moved from it in connection with the activity, and               relativement à l’activité,
+     (iii) to restore the property affected by the activity           (iii) remettre à l’état initial les biens touchés par
+     to its former state.                                             l’activité.
+   (3) The person must comply immediately with the in-             (3) La personne est tenue de se conformer immédiate-
+structions of the harbour official.                               ment aux instructions du responsable de port.
+  (4) If the person fails to remove the thing or to restore          (4) Lorsque la personne ne procède pas immédiate-
+the property immediately, the harbour official may con-           ment à l’enlèvement des choses ou à la remise à l’état
+duct the removal or restoration and may store the thing.          initial des biens, le responsable de port peut procéder à
+                                                                  l’enlèvement ou à la remise en état, y compris l’entrepo-
+                                                                  sage des choses.
+
+                COMING INTO FORCE                                                ENTRÉE EN VIGUEUR
+  20. These Regulations come into force on the day on               20. Le présent règlement entre en vigueur à la date de
+which they are registered.                                        son enregistrement.
+
+
+
+
+                                                              9
+                                                          SOR/2005-73 — October 6, 2010
+
+
+
+                            SCHEDULE                                                                                ANNEXE
+                      (Sections 7 and 11 to 16)                                                               (articles 7 et 11 à 16)
+
+                           ACTIVITY LIST                                                                   LISTE DES ACTIVITÉS
+
+       Column 1                        Column 2            Column 3                          Colonne 1                       Colonne 2             Colonne 3
+                                       Authorization by                                                                      Autorisation
+                                       posted signs,                                                                         affichée ou prévue    Autorisation
+                                       nautical charts,    Authorization to                                                  par carte marine,     accordée à une
+                                       maps or forms       a person                                                          carte ou formulaire   personne
+Item   Activity                        (section 13)        (section 15)            Article   Activité                        (article 13)          (article 15)
+1.     Conducting a diving                                                         1.        Effectuer une opération de
+                                                                                                                                                          X
+       operation                                                  X                          plongée.
+2.     Conducting a salvage                                                        2.        Effectuer des opérations de                                  X
+       operation                                                  X                          récupération.
+3.     Transporting, loading,                                                      3.        Transporter, charger,                                        X
+       unloading or transhipping                                                             décharger ou transborder
+       explosives or other                                                                   des explosifs ou autres
+       dangerous goods, industrial                                                           marchandises dangereuses,
+       waste or pollutants                                        X                          des déchets industriels ou
+4.     Bunkering or fuelling                                      X                          des polluants.
+                                                                                   4.        Ravitailler en carburant ou                                  X
+5.     Carrying out an oil transfer
+                                                                                             effectuer le mazoutage.
+       operation, a chemical
+       transfer operation or a                                                     5.        Effectuer des opérations de                                  X
+       liquefied gas transfer                                                                transbordement
+       operation                                                  X                          d’hydrocarbures, de
+6.     Conducting a dredging                                                                 produits chimiques ou de
+                                                                                             gaz liquéfié.
+       operation                                                  X
+                                                                                   6.        Entreprendre des travaux                                     X
+7.     Excavating or removing
+                                                                                             de dragage.
+       any material or substance                                  X
+                                                                                   7.        Effectuer des travaux                                        X
+8.     Building, placing,
+                                                                                             d’excavation ou
+       rebuilding, repairing,
+                                                                                             d’enlèvement de matériaux
+       altering, moving or
+                                                                                             ou de substances.
+       removing any structure or
+       work                                                       X                8.        Construire, placer,                                          X
+9.     Placing or operating a light                                                          reconstruire, réparer,
+                                                                                             modifier, déplacer ou
+       or day marker                                              X
+                                                                                             enlever tout bâtiment ou
+10.    Casting adrift a ship, log or                                                         ouvrage.
+       other object                                               X
+                                                                                   9.        Placer ou utiliser des                                       X
+11.    Conducting a race, regatta,                                                           repères lumineux ou des
+       trial, demonstration,                                                                 marques de jour.
+       organized event or similar
+                                                                                   10.       Laisser aller à la dérive un                                 X
+       activity                                                   X
+                                                                                             navire, une bille de bois ou
+12.    Causing a fire or explosion,                                                          quelque autre objet.
+       conducting blasting or
+                                                                                   11.       Tenir une course, une                                        X
+       setting off fireworks,
+                                                                                             régate, un concours, une
+       including setting off a flare
+                                                                                             manifestation, un
+       or other signalling device                                 X
+                                                                                             événement organisé ou
+13.    Placing a placard, bill, sign           X                                             toute autre activité
+       or device                                                                             similaire.
+14.    Swimming                                X                                   12.       Causer un incendie ou une                                    X
+15.    Venturing out onto ice                                     X                          explosion, dynamiter ou
+                                                                                             lancer des pièces
+16.    Launching a ship by                     X                                             pyrotechniques, y compris
+       slipway or crane                                                                      allumer des fusées
+17.    Conducting the take-off or                                                            éclairantes ou autres
+       landing of a sea-plane                                     X                          dispositifs de signalisation.
+18.    Laying up a ship                                           X                13.       Installer des placards,                 X
+                                                                                             affiches, panneaux ou
+                                                                                             dispositifs.
+
+
+
+
+                                                                              10
+                                                        DORS/2005-73 — 6 octobre 2010
+
+
+
+       Column 1                      Column 2            Column 3                          Colonne 1                      Colonne 2             Colonne 3
+                                     Authorization by                                                                     Autorisation
+                                     posted signs,                                                                        affichée ou prévue    Autorisation
+                                     nautical charts,    Authorization to                                                 par carte marine,     accordée à une
+                                     maps or forms       a person                                                         carte ou formulaire   personne
+Item   Activity                      (section 13)        (section 15)            Article   Activité                       (article 13)          (article 15)
+19.    Placing, altering, removing                                               14.       Se baigner.                            X
+       or relocating an aid to                                                   15.       Se risquer sur la glace.                                    X
+       navigation, buoy, mooring,
+       float, picket, mark or sign                              X                16.       Lancer un navire d’une                 X
+                                                                                           cale de construction ou au
+20.    Mooring or anchoring a                                                              moyen d’une grue.
+       floating structure                                       X
+                                                                                 17.       Faire décoller ou amerrir                                   X
+21.    Mooring log booms                     X                                             un hydravion.
+22.    Fishing or crabbing                                      X                18.       Désarmer un navire.                                         X
+23.    Conducting aquacultural                                                   19.       Placer, modifier, enlever                                   X
+       research or operations                                   X
+                                                                                           ou déplacer des aides à la
+                                                                                           navigation, bouées,
+                                                                                           dispositifs d’amarrage,
+                                                                                           flotteurs, pieux, repères ou
+                                                                                           panneaux.
+                                                                                 20.       Amarrer ou mouiller une                                     X
+                                                                                           construction flottante.
+                                                                                 21.       Mouiller une estacade.                 X
+                                                                                 22.       Pêcher le poisson ou le                                     X
+                                                                                           crabe.
+                                                                                 23.       Faire de la recherche ou de                                 X
+                                                                                           l’exploitation en
+                                                                                           aquaculture.
+
+
+
+
+                                                                            11
+

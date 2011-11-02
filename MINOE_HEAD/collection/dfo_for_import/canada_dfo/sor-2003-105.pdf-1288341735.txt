@@ -1,0 +1,899 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+          Seaway Property                                            Règlement sur les biens
+            Regulations                                               de la voie maritime
+
+                     SOR/2003-105                                                      DORS/2003-105
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published            31. (1) Every copy of a consolidated statute or             31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies       (3) In the event of an inconsistency between a             (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                             Enregistrement
+SOR/2003-105 March 20, 2003                              DORS/2003-105 Le 20 mars 2003
+CANADA MARINE ACT                                        LOI MARITIME DU CANADA
+
+Seaway Property Regulations                              Règlement sur les biens de la voie maritime
+
+P.C. 2003-320  March 20, 2003                            C.P. 2003-320  Le 20 mars 2003
+
+   Her Excellency the Governor General in Council, on      Sur recommandation du ministre des Transports et en
+the recommendation of the Minister of Transport, pur-    vertu de l’article 98a de la Loi maritime du Canadab, Son
+suant to section 98a of the Canada Marine Actb, hereby   Excellence la Gouverneure générale en conseil prend le
+makes the annexed Seaway Property Regulations.           Règlement sur les biens de la voie maritime, ci-après.
+
+
+
+
+a                                                         a 
+     S.C. 2001, c. 4, s. 150                                   L.C. 2001, ch. 4, art. 150
+b                                                         b 
+     S.C. 1998, c. 10                                          L.C. 1998, ch. 10
+SEAWAY PROPERTY REGULATIONS                                        RÈGLEMENT SUR LES BIENS DE LA VOIE
+                                                                      MARITIME
+
+                  INTERPRETATION                                                        DÉFINITIONS
+   1. The definitions in this section apply in these Regu-           1. Les définitions qui suivent s’appliquent au présent
+lations.                                                           règlement.
+“Act” means the Canada Marine Act. (Loi)                           « autorisation » Autorisation accordée en vertu de la par-
+“allied petroleum product” means a single hydrocarbon              tie 3. (authorization)
+or a mixture of hydrocarbons other than a petroleum                « biens de la voie maritime » S’entend des terrains et
+product. It includes alcohols, glycols, thinners, solvents,        autres biens gérés, exploités ou utilisés par le gestion-
+organic chemicals and inks. (produit pétrolier apparen-            naire qui sont relatifs à la voie maritime. (Seaway prop-
+té)                                                                erty)
+“authorization” means an authorization given under                 « droit » Droit visé aux paragraphes 92(1) ou (2) de la
+Part 3. (autorisation)                                             Loi maritime du Canada. (fee)
+“designated area” means an area designated by sign or in           « endroit désigné » Endroit désigné, par écrit ou au
+writing by the Manager in respect of an activity set out           moyen d’affiche, par le gestionnaire à l’égard d’une acti-
+in column 1 of the schedule. (endroit désigné)                     vité visée à la colonne 1 de l’annexe. (designated area)
+“fee” means a fee referred to in subsection 92(1) or (2)           « gestionnaire » La Corporation de Gestion de la Voie
+of the Act. (droit)                                                Maritime du Saint-Laurent. (Manager)
+“hot work” means any work that uses flame or that may              « Loi » La Loi maritime du Canada. (Act)
+produce a source of ignition, such as heating, cutting or
+                                                                   « produit pétrolier » Hydrocarbure ou mélange renfer-
+welding. (travail à chaud)
+                                                                   mant au moins 70 pour cent d’hydrocarbures, résultant
+“Manager” means The St. Lawrence Seaway Manage-                    du raffinage du pétrole brut, contenant ou non des addi-
+ment Corporation. (gestionnaire)                                   tifs, qui sert ou pourrait servir de combustible, de lubri-
+“petroleum product” means a single hydrocarbon or a                fiant ou de fluide d’entraînement. Sont notamment visés
+mixture of at least 70% hydrocarbons, refined from                 par la présente définition l’essence, le carburant diesel,
+crude oil, with or without additives, that is used or could        le carburant aviation, le kérosène, le naphte, l’huile lu-
+be used as a fuel, lubricant or power transmitter. It in-          brifiante, le mazout et l’huile moteur, y compris l’huile
+cludes gasoline, diesel fuel, aviation fuel, kerosene,             usée. Sont exclus de la présente définition le propane, les
+naphtha, lubricating oil, fuel oil and engine oil, including       peintures et les solvants. (petroleum product)
+used oil; it excludes propane, paint and solvents. (pro-           « produit pétrolier apparenté » Hydrocarbure ou mélange
+duit pétrolier)                                                    d’hydrocarbures autre qu’un produit pétrolier. Sont no-
+“Seaway property” means land and other property man-               tamment visés par la présente définition les alcools, les
+aged, operated or used by the Manager in connection                glycols, les diluants, les solvants, les produits chimiques
+with the Seaway. (biens de la voie maritime)                       organiques et les encres. (allied petroleum product)
+                                                                   « travail à chaud » Tout travail qui exige l’emploi d’une
+                                                                   flamme ou qui peut produire une source d’inflammation,
+                                                                   notamment le brûlage, le découpage ou la soudure. (hot
+                                                                   work)
+
+
+
+
+                                                               1
+                                          SOR/2003-105 — October 6, 2010
+
+
+
+                     APPLICATION                                                CHAMP D’APPLICATION
+
+               WHERE REGULATIONS APPLY                                           APPLICATION DU RÈGLEMENT
+  2. These Regulations apply in the Seaway and on                    2. Le présent règlement s’applique dans la voie mari-
+Seaway property.                                                  time et sur les biens de la voie maritime.
+
+   WHERE REGULATIONS DO NOT APPLY — NAVIGABLE                     NON-APPLICATION DU RÈGLEMENT — LOI SUR LA PROTECTION
+             WATERS PROTECTION ACT                                                  DES EAUX NAVIGABLES
+
+  3. These Regulations do not apply in respect of that              3. Le présent règlement ne s’applique pas à l’aspect
+aspect of a work, within the meaning of the Navigable             d’un ouvrage, au sens de la Loi sur la protection des
+Waters Protection Act, that involves the issuance of an           eaux navigables, qui entraîne la délivrance d’une appro-
+approval or an opinion under Part I of that Act to a per-         bation ou d’un avis en vertu de la partie I de cette loi à
+son other than the Manager or a person acting on the              une personne autre que le gestionnaire ou que celle qui
+Manager’s behalf.                                                 agit pour le compte du gestionnaire.
+
+            BINDING ON HER MAJESTY                                           OBLIGATION DE SA MAJESTÉ
+   4. These Regulations are binding on Her Majesty in               4. Le présent règlement lie Sa Majesté du chef du
+right of Canada or a province.                                    Canada ou d’une province.
+
+                         PART 1                                                           PARTIE 1
+
+ SAFETY AND ORDER IN THE SEAWAY AND ON                            SÉCURITÉ ET MAINTIEN DE L’ORDRE DANS LA
+           SEAWAY PROPERTY                                        VOIE MARITIME ET SUR LES BIENS DE LA VOIE
+                                                                                 MARITIME
+
+                       PROHIBITIONS                                                     INTERDICTIONS
+   5. Unless otherwise authorized under these Regula-                5. Sauf disposition contraire du présent règlement, il
+tions, no person shall, by act or omission, do anything or        est interdit de faire, ou de permettre de faire, par action
+permit anything to be done in the Seaway or on Seaway             ou omission, dans la voie maritime ou sur les biens de la
+property that has or is likely to have any of the following       voie maritime, quoi que ce soit qui entraîne, ou est sus-
+results:                                                          ceptible d’entraîner, l’une des conséquences suivantes :
+  (a) to jeopardize the safety or health of persons in the          a) menacer la sécurité ou la santé des personnes dans
+  Seaway or on Seaway property;                                     la voie maritime ou sur les biens de la voie maritime;
+  (b) to interfere with navigation in the Seaway;                   b) entraver la navigation dans la voie maritime;
+  (c) to obstruct or threaten any part of the Seaway or             c) obstruer ou menacer une partie de la voie maritime
+  Seaway property;                                                  ou des biens de la voie maritime;
+  (d) to interfere with an authorized activity in the Sea-          d) nuire à toute activité autorisée dans la voie mari-
+  way or on Seaway property;                                        time ou sur les biens de la voie maritime;
+  (e) to divert the flow of a river or stream, cause or af-         e) détourner le cours d’une rivière ou d’un ruisseau,
+  fect currents, cause silting or the accumulation of ma-           produire ou modifier des courants, provoquer un enva-
+  terial or otherwise reduce the depth of the waters of             sement ou l’accumulation de matériaux ou diminuer
+  the Seaway;
+
+
+
+                                                              2
+                                        DORS/2003-105 — 6 octobre 2010
+
+
+
+  (f) to cause a nuisance;                                        de quelque autre façon la profondeur des eaux de la
+  (g) to cause damage to ships or other property;                 voie maritime;
+                                                                  f) occasionner une nuisance;
+  (h) to adversely affect sediment, soil, air or water
+  quality; or                                                     g) endommager un navire ou un autre bien;
+  (i) to adversely affect Seaway operations or Seaway             h) altérer la qualité des sédiments, du sol, de l’air ou
+  property.                                                       de l’eau;
+                                                                  i) avoir un effet néfaste sur l’exploitation de la voie
+                                                                  maritime ou sur les biens de la voie maritime.
+   6. No person shall, in the Seaway or on Seaway prop-            6. Il est interdit d’exercer dans la voie maritime ou
+erty, conduct an activity set out in column 1 of the            sur les biens de la voie maritime une activité mentionnée
+schedule if an “X” is set out in column 4.                      à la colonne 1 de l’annexe si la mention « X » figure à la
+                                                                colonne 4.
+
+              ACCESS TO SEAWAY PROPERTY                                   ACCÈS AUX BIENS DE LA VOIE MARITIME
+   7. No person shall access any area of Seaway proper-           7. Il est interdit à toute personne de pénétrer dans l’un
+ty unless                                                       des secteurs des biens de la voie maritime, sauf dans les
+  (a) the person accesses the area to conduct legitimate        cas suivants :
+  business there;                                                 a) la personne y pénètre pour effectuer des activités
+  (b) the person is authorized by the Manager to access           légitimes;
+  the area; or                                                    b) la personne est autorisée à y pénétrer par le ges-
+  (c) access is not restricted by a sign or in some other         tionnaire;
+  way such as by a fence.                                         c) l’accès n’y est pas restreint au moyen d’un pan-
+                                                                  neau indicateur ou d’une autre façon, notamment par
+                                                                  une clôture.
+
+                         SIGNS                                                   PANNEAUX INDICATEURS
+  8. The Manager may have signs posted for the pur-               8. Le gestionnaire peut faire placer des panneaux in-
+pose of ensuring                                                dicateurs pour assurer, selon le cas :
+  (a) the safety of persons and property in the Seaway            a) la sécurité des personnes et des biens situés dans la
+  or on Seaway property;                                          voie maritime ou sur les biens de la voie maritime;
+  (b) the environmental protection of the Seaway or               b) la protection environnementale de la voie maritime
+  Seaway property; or                                             ou des biens de la voie maritime;
+  (c) the management of the marine infrastructure of              c) la gestion de l’infrastructure maritime de la voie
+  the Seaway and services in connection with the opera-           maritime ainsi que la prestation de services relatifs à
+  tion of the Seaway in a commercial manner.                      l’exploitation de la voie maritime d’une façon com-
+                                                                  merciale.
+  9. (1) Every person in the Seaway or on Seaway                   9. (1) Toute personne qui se trouve dans la voie ma-
+property shall obey the instructions on signs posted un-        ritime ou sur les biens de la voie maritime doit respecter
+
+
+
+
+                                                            3
+                                            SOR/2003-105 — October 6, 2010
+
+
+
+der the authority of the Manager unless the person is au-       les instructions des panneaux indicateurs placés sous
+thorized by the Manager to do otherwise.                        l’autorité du gestionnaire, à moins d’être autorisée à y
+                                                                déroger par celui-ci.
+   (2) No person shall remove, mark or deface any sign             (2) Il est interdit d’enlever, de marquer ou de détério-
+or device in the Seaway or on Seaway property.                  rer tout panneau indicateur ou dispositif situé dans la
+                                                                voie maritime ou sur les biens de la voie maritime.
+
+                  OPERATION OF VEHICLES                                           CONDUITE DE VÉHICULES
+
+                 Registration and Permits                                       Permis et immatriculation
+  10. No person shall operate a vehicle on Seaway                  10. Il est interdit à toute personne de conduire un vé-
+property unless the following conditions are met:               hicule sur les biens de la voie maritime à moins que les
+  (a) the person holds all licences and permits required        conditions suivantes ne soient réunies :
+  under the laws of the province and municipality in              a) elle est titulaire des permis et licences exigés en
+  which the Seaway property is situated to operate the            vertu des lois de la province et de la municipalité où
+  vehicle in that province and municipality; and                  sont situés les biens de la voie maritime pour conduire
+  (b) the vehicle is registered and equipped as required          le véhicule dans la province et la municipalité;
+  under the laws of the province and municipality in              b) le véhicule est immatriculé et équipé conformé-
+  which the Seaway property is situated.                          ment aux lois de la province et de la municipalité où
+                                                                  sont situés les biens de la voie maritime.
+
+   Compliance with Provincial and Municipal Laws                Conformité aux lois de la province et de la municipalité
+   11. No person shall operate a vehicle on Seaway                 11. Quiconque conduit un véhicule sur les biens de la
+property otherwise than in accordance with the laws of          voie maritime doit se conformer aux lois de la province
+the province and municipality in which the Seaway               et de la municipalité où ils sont situés.
+property is situated.
+  12. No person shall operate a vehicle on Seaway                  12. Il est interdit de conduire un véhicule sur les biens
+property in such a manner as to cause it to enter a road-       de la voie maritime de manière à utiliser un point d’en-
+way at a place other than a place designated for public         trée d’une voie autre que ceux qui sont désignés pour le
+access to the roadway.                                          public.
+  13. Every person who operates a vehicle on Seaway                13. Toute personne qui conduit un véhicule sur les
+property shall do so in a safe manner and at a speed that       biens de la voie maritime est tenue de conduire de façon
+does not exceed the lowest of                                   sécuritaire, à une vitesse ne dépassant pas la moindre des
+  (a) 40 km/h,                                                  vitesses suivantes :
+
+  (b) the speed limit posted under the authority of the           a) 40 km/h,
+  Manager on signs, and                                           b) la limite de vitesse indiquée, sous l’autorité du ges-
+  (c) a lower speed that is warranted by prevailing               tionnaire, sur des panneaux indicateurs,
+  weather conditions or by the movement or storage of             c) la vitesse minimale que justifient les conditions
+  equipment, trains or goods.                                     météorologiques courantes ou le déplacement ou l’en-
+                                                                  treposage de matériel, de trains ou de marchandises.
+
+
+
+
+                                                            4
+                                          DORS/2003-105 — 6 octobre 2010
+
+
+
+   14. (1) The Manager may have signs and devices in-                 14. (1) Le gestionnaire peut faire installer des pan-
+stalled on Seaway property respecting                              neaux indicateurs et des dispositifs de signalisation sur
+  (a) the safe operation of vehicles;                              les biens de la voie maritime relativement à ce qui suit :
+
+  (b) the parking or stopping of vehicles, including                 a) la conduite sécuritaire de véhicules;
+  signs and devices restricting or prohibiting parking or            b) le stationnement ou l’arrêt de véhicules, y compris
+  stopping; and                                                      des panneaux indicateurs et des dispositifs de signali-
+  (c) weight and dimension restrictions of vehicles.                 sation limitant ou interdisant le stationnement ou l’ar-
+                                                                     rêt;
+                                                                     c) les restrictions quant aux poids et aux dimensions
+                                                                     des véhicules.
+  (2) Every person who operates a vehicle on Seaway                  (2) Toute personne qui conduit un véhicule sur les
+property shall obey                                                biens de la voie maritime doit se conformer :
+  (a) the instructions on any sign posted or device in-              a) aux instructions qui figurent sur les panneaux indi-
+  stalled under the authority of the Manager and appli-              cateurs ou dispositifs de signalisation installés sous
+  cable to the person, the vehicle or the property; and              l’autorité du gestionnaire et qui s’appliquent à elle, au
+  (b) traffic directions given by a person authorized for            véhicule ou aux biens;
+  that purpose by the Manager.                                       b) aux instructions de circulation qui lui sont données
+                                                                     par une personne autorisée à cette fin par le gestion-
+                                                                     naire.
+   (3) The owner of a vehicle that is parked or stopped               (3) Le propriétaire d’un véhicule stationné ou arrêté
+contrary to an instruction or direction referred to in sub-        en contravention des instructions visées au para-
+section (2) and any person apparently in possession of             graphe (2) et toute personne qui semble être en posses-
+the vehicle may be held liable.                                    sion du véhicule peuvent être tenus responsables.
+   15. The Manager may have a vehicle moved or stored                15. Le gestionnaire peut faire déplacer ou entreposer
+at the risk and expense of its owner or operator or the            un véhicule, aux risques et dépens de son propriétaire, de
+person apparently in possession of it at the time at which         son utilisateur ou de la personne qui semble être en pos-
+it is found to be parked or stopped contrary to this sec-          session de celui-ci au moment où il est trouvé stationné
+tion if it is                                                      ou arrêté en contravention du présent article, si le véhi-
+  (a) apparently abandoned;                                        cule, selon le cas :
+
+  (b) parked or stopped                                              a) semble être abandonné;
+
+     (i) in a place or manner that creates a hazard or ob-           b) est stationné ou arrêté :
+     struction, or                                                      (i) soit à un endroit ou selon une manière qui
+     (ii) at a time that is not within the posted parking or            constituent un risque ou un obstacle,
+     stopping hours; or                                                 (ii) soit en dehors des heures de stationnement ou
+  (c) parked or stopped in an area                                      d’arrêt affichées;
+
+     (i) not posted as a parking or stopping area, or                c) est stationné ou arrêté :
+
+     (ii) posted as a no-parking or no-stopping area.                   (i) soit à un endroit qui n’est pas affiché comme
+                                                                        aire de stationnement ou comme aire d’arrêt,
+
+
+
+                                                               5
+                                         SOR/2003-105 — October 6, 2010
+
+
+
+                                                                      (ii) soit à un endroit affiché comme aire de station-
+                                                                      nement interdit ou comme aire où l’arrêt est inter-
+                                                                      dit.
+
+           REMOVAL — PROPERTY OR WATERS                                        ENLÈVEMENT — BIENS OU EAUX
+   16. (1) Unless otherwise authorized under these Reg-             16. (1) Sauf disposition contraire du présent règle-
+ulations, every person who drops, deposits, discharges or        ment, toute personne qui, dans la voie maritime ou sur
+spills, in the Seaway or on Seaway property, refuse or a         les biens de la voie maritime, laisse tomber, dépose, dé-
+substance that pollutes, an object that interferes with          charge ou déverse des rebuts, une substance polluante,
+navigation or any cargo or ship’s gear shall                     un objet qui entrave la navigation, des marchandises ou
+  (a) immediately make every technically and economi-            des apparaux doit :
+  cally feasible effort to remove it;                              a) prendre immédiatement les mesures qui sont réali-
+  (b) notify the Manager of the incident without delay             sables sur les plans technique et économique pour les
+  and provide a description of what was dropped, de-               enlever;
+  posited, discharged or spilled and its approximate lo-           b) signaler sans délai l’incident au gestionnaire, indi-
+  cation and the efforts made by the person, if any, to            quer l’emplacement approximatif et fournir une des-
+  remove it; and                                                   cription de ce qui a été laissé tombé, déposé, déchargé
+  (c) as soon as possible, submit to the Manager a de-             ou déversé ainsi qu’une description des mesures
+  tailed written report of the incident, including the in-         prises, lorsque c’est le cas;
+  formation referred to in paragraph (b).                          c) présenter au gestionnaire dès que possible un rap-
+                                                                   port écrit et détaillé de l’incident, qui inclut les rensei-
+                                                                   gnements visés à l’alinéa b).
+   (2) If the person does not remove the refuse, sub-               (2) Si la personne n’enlève pas immédiatement les re-
+stance, object, cargo or ship’s gear immediately, the            buts, la substance polluante, l’objet, les marchandises ou
+Manager may conduct the removal at the risk and ex-              les apparaux, le gestionnaire peut faire procéder à l’enlè-
+pense of the person.                                             vement aux risques et dépens de la personne.
+
+                    FIRE PROTECTION                                            PROTECTION CONTRE L’INCENDIE
+   17. Every person in the Seaway or on Seaway proper-              17. Toute personne qui se trouve dans la voie mari-
+ty shall follow the fire protection and prevention mea-          time ou sur les biens de la voie maritime doit respecter
+sures reasonably necessary for the safety of persons and         les mesures de prévention et de protection contre l’in-
+property, taking into account the activities and goods in        cendie qui sont raisonnablement nécessaires pour la sé-
+the Seaway and on Seaway property.                               curité des personnes et des biens, compte tenu des activi-
+                                                                 tés et des biens dans la voie maritime ou sur les biens de
+                                                                 la voie maritime.
+
+                 DANGEROUS SITUATIONS                                             SITUATIONS DANGEREUSES
+   18. Every person who by act or omission causes a                 18. Toute personne qui, par action ou omission, est à
+dangerous situation in the Seaway or on Seaway proper-           l’origine d’une situation dangereuse dans la voie mari-
+ty shall                                                         time ou sur les biens de la voie maritime doit :
+  (a) take one or both of the following precautions:
+
+
+
+
+                                                             6
+                                          DORS/2003-105 — 6 octobre 2010
+
+
+
+     (i) post the notices, deploy the lights and erect the           a) prendre l’une ou l’autre des mesures de précaution
+     fences, barricades or other devices that are neces-             suivantes ou les deux :
+     sary to prevent accidents and to protect persons and               (i) afficher les avis, mettre en place les appareils
+     property, or
+                                                                        d’éclairage et ériger les clôtures, barricades ou
+     (ii) station a person at the site of the dangerous sit-            autres dispositifs nécessaires pour prévenir les acci-
+     uation to warn persons of the danger;                              dents et assurer la sécurité des personnes et des
+  (b) take appropriate measures to prevent injury to per-               biens,
+  sons or damage to property; and                                       (ii) envoyer une personne sur les lieux de la situa-
+  (c) notify the Manager without delay as to the nature                 tion dangereuse afin d’avertir les gens du danger;
+  of the dangerous situation and the precautions that                b) prendre des mesures appropriées pour prévenir les
+  have been taken and their location.                                blessures ou les dommages aux biens;
+                                                                     c) signaler sans délai au gestionnaire la nature de la
+                                                                     situation dangereuse, les mesures de précaution qui
+                                                                     ont été prises et l’endroit de leur exécution.
+
+                       EMERGENCIES                                                   SITUATIONS D’URGENCE
+   19. Despite any other provision of these Regulations,              19. Malgré toute autre disposition du présent règle-
+a person may, in the Seaway or on Seaway property,                 ment, toute personne peut exercer dans la voie maritime
+conduct an activity set out in column 1 of the schedule            ou sur les biens de la voie maritime une des activités vi-
+without having a contract, lease or licence or an autho-           sées à la colonne 1 de l’annexe sans avoir de contrat, de
+rization given by the Manager or complying with the                bail, de licence ou d’autorisation accordée par le gestion-
+conditions of an authorization for the duration of an              naire, ou sans se conformer aux conditions d’une autori-
+emergency situation if                                             sation pendant la durée d’une situation d’urgence, si :
+  (a) the activity is required as a result of an emergency           a) d’une part, l’activité est nécessaire par suite de la
+  situation that jeopardizes the safety of persons or                situation d’urgence qui met en danger la sécurité des
+  threatens to cause damage to property or the environ-              personnes ou qui menace d’endommager des biens ou
+  ment; and                                                          l’environnement;
+  (b) without delay, the person conducting the activity              b) d’autre part, la personne qui exerce l’activité pré-
+  submits a written report to the Manager describing the             sente sans délai au gestionnaire un rapport écrit décri-
+  activity and explaining why the situation was regarded             vant celle-ci et expliquant pour quelles raisons la si-
+  as an emergency.                                                   tuation était considérée comme urgente.
+  20. If a situation causes or is likely to cause death,              20. Lorsqu’une situation cause ou est susceptible de
+bodily injury or any other emergency situation in the              causer un décès, une blessure ou toute autre situation
+Seaway or on Seaway property or is likely to damage                d’urgence dans la voie maritime ou sur les biens de la
+property or the environment, every person directly in-             voie maritime, ou risque d’endommager les biens ou
+volved in the situation and, in the case of an activity con-       l’environnement, toute personne visée directement par la
+ducted under a contract, lease, licence or authorization,          situation et, dans le cas d’une activité exercée aux termes
+the person authorized to conduct the activity shall                d’un contrat, d’un bail, d’un permis ou d’une autorisa-
+  (a) without delay, notify the Manager that there is an           tion, la personne autorisée à exercer l’activité doivent :
+  emergency situation;
+
+
+
+
+                                                               7
+                                           SOR/2003-105 — October 6, 2010
+
+
+
+  (b) submit a detailed written report of the emergency              a) signaler sans délai au gestionnaire qu’une situation
+  situation to the Manager as soon as possible after it              d’urgence existe;
+  begins; and                                                        b) présenter au gestionnaire un rapport écrit et détaillé
+  (c) at the request of the Manager, submit with the re-             de la situation d’urgence dès que possible après le dé-
+  port a copy of each report of the emergency situation              but de celle-ci;
+  that the person makes to municipal, provincial and                 c) à la demande du gestionnaire, transmettre avec le
+  federal authorities.                                               rapport une copie de chaque rapport que fait la per-
+                                                                     sonne aux administrations municipales, provinciales et
+                                                                     fédérales.
+
+                ACCIDENTS AND INCIDENTS                                              ACCIDENTS ET INCIDENTS
+  21. A person who does anything in the Seaway or on                  21. Toute personne qui, dans la voie maritime ou sur
+Seaway property that results in an incident involving              les biens de la voie maritime, accomplit un acte qui pro-
+material loss or damage or an explosion, fire, accident,           voque un incident entraînant des dommages ou pertes
+grounding, stranding or incident of pollution shall sub-           matériels ou une explosion, un incendie, un accident, un
+mit a detailed written report of the incident to the Man-          échouement, un échouage ou un cas de pollution doit
+ager without delay.                                                présenter sans délai au gestionnaire un rapport écrit et
+                                                                   détaillé de cet incident.
+
+                PRECAUTIONARY MEASURES                                               MESURES DE PRÉCAUTION
+   22. (1) If, in the Seaway or on Seaway property, a                 22. (1) Si, dans la voie maritime ou sur les biens de
+person conducts an activity that is likely to have any of          la voie maritime, une personne exerce une activité qui
+the results prohibited under section 5 and the activity            est susceptible d’entraîner une des conséquences inter-
+does not require an authorization under these Regula-              dites à l’article 5 et pour laquelle aucune autorisation
+tions, the Manager may instruct the person conducting              n’est exigée en vertu du présent règlement, le gestion-
+the activity to cease the activity or to take the precau-          naire peut lui donner instruction de cesser l’activité ou
+tions necessary to mitigate or prevent the result.                 de prendre les mesures de précaution nécessaires de fa-
+                                                                   çon à l’atténuer ou à la prévenir.
+   (2) The person shall immediately comply with the in-             (2) La personne est tenue de se conformer immédiate-
+structions of the Manager.                                         ment aux instructions du gestionnaire.
+
+                         PART 2                                                            PARTIE 2
+
+          ACTIVITIES OF THE MANAGER                                           ACTIVITÉS DU GESTIONNAIRE
+
+                         GENERAL                                                      DISPOSITION GÉNÉRALE
+   23. If the Manager is the proponent of an activity that            23. Lorsque le gestionnaire est le promoteur d’une ac-
+is set out in column 1 of the schedule and that is likely to       tivité mentionnée à la colonne 1 de l’annexe qui est sus-
+have any of the results prohibited under section 5, it             ceptible d’entraîner une des conséquences interdites à
+shall take appropriate measures designed to mitigate or            l’article 5, il doit prendre des mesures appropriées visant
+prevent the result, if technically and economically feasi-         à l’atténuer ou à la prévenir, si cela est réalisable sur les
+ble, taking into account                                           plans technique et économique, compte tenu de :
+
+
+
+
+                                                               8
+                                          DORS/2003-105 — 6 octobre 2010
+
+
+
+  (a) the safety of persons and property in the Seaway              a) la sécurité des personnes et des biens situés dans la
+  and on Seaway property;                                           voie maritime et sur les biens de la voie maritime;
+  (b) the environmental protection of the Seaway and                b) la protection environnementale de la voie maritime
+  Seaway property; and                                              et des biens de la voie maritime;
+  (c) the management of the marine infrastructure of                c) la gestion de l’infrastructure maritime de la voie
+  the Seaway and services in connection with the opera-             maritime ainsi que la prestation de services relatifs à
+  tion of the Seaway in a commercial manner.                        l’exploitation de la voie maritime d’une façon com-
+                                                                    merciale.
+
+ WORKS WITHIN THE MEANING OF THE NAVIGABLE WATERS                 OUVRAGES AU SENS DE LA LOI SUR LA PROTECTION DES EAUX
+                  PROTECTION ACT                                                          NAVIGABLES
+
+
+                    Authority to Build                                              Pouvoir de construire
+   24. Subject to any agreement between the Minister                 24. Sous réserve de toute entente conclue entre le mi-
+and the Manager entered into under subsection 80(5) of            nistre et le gestionnaire en vertu du paragraphe 80(5) de
+the Act, any agreement between Canada and the United              la Loi, de toute entente entre le Canada et les États-Unis
+States in respect of the Seaway and section 25, the Man-          relative à la voie maritime ainsi que de l’article 25, le
+ager or a person acting on behalf of the Manager may              gestionnaire ou toute personne qui agit en son nom peut
+build, place, rebuild, repair or alter in, on, over, under,       construire, placer, reconstruire, réparer ou modifier sur,
+through or across the navigable waters of the Seaway a            dans ou sous les eaux navigables de la voie maritime ou
+work within the meaning of the Navigable Waters Pro-              au-dessus ou à travers de ces eaux un ouvrage, au sens
+tection Act that may interfere with navigation.                   de la Loi sur la protection des eaux navigables, suscep-
+                                                                  tible d’entraver la navigation.
+
+                Assessments and Reports                                            Évaluations et rapports
+  25. (1) Before carrying out an activity referred to in             25. (1) Avant d’exercer l’une quelconque des activi-
+section 24, the Manager shall conduct an assessment of            tés visées à l’article 24, le gestionnaire procède à une
+the impact of the work on navigation in the Seaway.               évaluation des incidences de l’ouvrage sur la navigation
+                                                                  dans la voie maritime.
+   (2) The Manager shall ensure that a written report                (2) Avant le début de l’activité à l’égard de l’ouvrage,
+that summarizes the assessment is prepared before the             le gestionnaire veille à ce que soit établi un rapport écrit
+activity in respect of the work is begun.                         résumant l’évaluation.
+  (3) The Manager shall                                             (3) Le gestionnaire est tenu :
+  (a) if the assessment indicates that the work would be            a) si l’évaluation révèle que l’ouvrage serait suscep-
+  likely to have an adverse effect on safety in respect of          tible d’avoir un effet néfaste sur la sécurité de la navi-
+  navigation in the Seaway, take appropriate measures               gation dans la voie maritime, de prendre des mesures
+  designed to mitigate the effect, if technically and eco-          appropriées pour l’atténuer, si cela est réalisable sur
+  nomically feasible; and                                           les plans technique et économique;
+  (b) if the assessment indicates that the work would be            b) si l’évaluation révèle que l’ouvrage serait suscep-
+  likely to interfere with any other aspect of navigation,          tible de constituer une entrave à tout autre aspect de la
+  take measures to ensure that the work is consistent               navigation, de prendre des mesures pour s’assurer que
+
+
+
+
+                                                              9
+                                           SOR/2003-105 — October 6, 2010
+
+
+
+  with the objective declared in section 4 of the Canada              l’ouvrage soit compatible avec l’objectif déclaré à
+  Marine Act.                                                         l’article 4 de la Loi maritime du Canada.
+
+                         PART 3                                                             PARTIE 3
+
+ AUTHORIZATIONS AND INSTRUCTIONS FOR                                AUTORISATIONS ET INSTRUCTIONS VISANT LES
+ ACTIVITIES IN THE SEAWAY OR ON SEAWAY                               ACTIVITÉS DANS LA VOIE MARITIME OU SUR
+                 PROPERTY                                                 LES BIENS DE LA VOIE MARITIME
+
+   ACTIVITIES UNDER CONTRACTS, LEASES AND LICENCES                  ACTIVITÉS AUX TERMES D’UN CONTRAT, D’UN BAIL OU D’UNE
+                                                                                              LICENCE
+
+   26. A person may, in the Seaway or on Seaway prop-                  26. Toute personne peut exercer dans la voie mari-
+erty, conduct an activity set out in column 1 of the                time ou sur les biens de la voie maritime une activité
+schedule if authorized to do so in writing expressly or by          mentionnée à la colonne 1 de l’annexe lorsqu’elle y est
+necessary implication under a contract or lease entered             autorisée, par écrit, expressément ou par déduction né-
+into with, or a licence granted by, the Manager.                    cessaire aux termes d’un contrat ou bail conclu avec le
+                                                                    gestionnaire, ou d’une licence octroyée par celui-ci.
+   27. If, by entering into a contract or lease or granting            27. Le gestionnaire qui, par la conclusion d’un
+a licence, the Manager authorizes an activity set out in            contrat ou d’un bail, ou par l’octroi d’une licence, auto-
+column 1 of the schedule that has or is likely to have any          rise une activité mentionnée à la colonne 1 de l’annexe
+of the results prohibited under section 5, the Manager              qui entraîne, ou est susceptible d’entraîner, une des
+shall stipulate as a condition of the contract, lease or li-        conséquences interdites à l’article 5 doit indiquer,
+cence that the person with whom the contract or lease is            comme condition du contrat, du bail ou d’une licence,
+made or to whom the licence is granted shall take mea-              que le contractant ou le titulaire de la licence est tenu de
+sures designed to mitigate or prevent the result, if techni-        prendre des mesures visant à l’atténuer ou à la prévenir,
+cally and economically feasible.                                    si cela est réalisable sur les plans technique et écono-
+                                                                    mique.
+
+  [28 and 29 reserved]                                                [28 et 29 réservés]
+
+               AUTHORIZATIONS TO PERSONS                                          AUTORISATION À UNE PERSONNE
+   30. (1) The Manager may give a written authoriza-                   30. (1) Le gestionnaire peut accorder par écrit, en
+tion under this section to a person to conduct, in the Sea-         vertu du présent article, à une personne l’autorisation
+way or on Seaway property, an activity set out in col-              d’exercer, dans la voie maritime ou sur les biens de la
+umn 1 of the schedule if an “X” is set out in column 3.             voie maritime, une activité mentionnée à la colonne 1 de
+                                                                    l’annexe lorsque la mention « X » figure à la colonne 3.
+  (2) On receipt of a request for an authorization, along              (2) À la réception d’une demande d’autorisation, du
+with payment of the applicable fee, if any, and the infor-          paiement du droit applicable, le cas échéant, et des ren-
+mation required under subsection 31(2), the Manager                 seignements exigés en vertu du paragraphe 31(2), le ges-
+shall                                                               tionnaire doit, selon le cas :
+  (a) give its authorization;                                         a) accorder son autorisation;
+
+
+
+
+                                                               10
+                                          DORS/2003-105 — 6 octobre 2010
+
+
+
+  (b) if the results of the conduct of the activity are un-          b) si les conséquences de l’exercice de l’activité ne
+  certain or if the conduct of the activity is likely to             sont pas claires ou si l’exercice de l’activité est sus-
+  have any of the results prohibited under section 5,                ceptible d’entraîner l’une quelconque des consé-
+    (i) refuse to give its authorization, or                         quences interdites à l’article 5 :
+
+    (ii) give its authorization subject to conditions de-               (i) refuser d’accorder son autorisation,
+    signed to mitigate or prevent the results; or                       (ii) accorder son autorisation assortie de conditions
+  (c) if the Manager required that the person obtain in-                visant à atténuer ou à prévenir ces conséquences;
+  surance coverage, performance security or damage se-               c) refuser son autorisation s’il avait exigé que la per-
+  curity in respect of the conduct of the activity and               sonne obtienne une couverture d’assurance, une ga-
+  none is obtained or that which is obtained is inade-               rantie de bonne fin ou une garantie relative aux dom-
+  quate, refuse to give its authorization.                           mages à l’égard de l’exercice de l’activité et
+                                                                     qu’aucune n’a été obtenue ou que celle qui a été obte-
+                                                                     nue n’est pas suffisante.
+  31. (1) No person shall, in the Seaway or on Seaway                 31. (1) Il est interdit à toute personne d’exercer dans
+property, conduct an activity set out in column 1 of the           la voie maritime ou sur les biens de la voie maritime une
+schedule if an “X” is set out in column 3 unless the per-          activité mentionnée à la colonne 1 de l’annexe si la men-
+son                                                                tion « X » figure à la colonne 3 à moins que les condi-
+  (a) obtains an authorization under section 30 or is              tions suivantes ne soient réunies :
+  covered by an authorization given to an undertaking                a) elle obtient l’autorisation prévue à l’article 30 ou
+  or organization under that section; and                            est visée dans l’autorisation accordée à une entreprise
+  (b) complies with the conditions, if any, of the autho-            ou à un organisme en vertu de cet article;
+  rization.                                                          b) elle respecte les conditions dont l’autorisation est
+                                                                     assortie, le cas échéant.
+  (2) A person that seeks an authorization from the                   (2) La personne qui demande au gestionnaire l’autori-
+Manager to conduct an activity in the Seaway or on Sea-            sation d’exercer l’activité dans la voie maritime ou sur
+way property shall provide to the Manager                          les biens de la voie maritime doit fournir au
+  (a) the name and address of the person;                          gestionnaire :
+
+  (b) the applicable fee, if any;                                    a) ses nom et adresse;
+
+  (c) information relevant to the proposed activity and              b) le droit applicable, le cas échéant;
+  required by the Manager to assess the likelihood of                c) tout renseignement relatif à l’activité proposée
+  the occurrence of any of the results prohibited under              qu’exige le gestionnaire dans le but d’évaluer la pro-
+  section 5;                                                         babilité que se produise l’une des conséquences inter-
+  (d) if required by the Manager, proof that the appli-              dites à l’article 5;
+  cant has an insurance policy that provides adequate                d) si le gestionnaire l’exige, la preuve que le deman-
+  coverage for the activity, names the Manager as an ad-             deur a souscrit une police d’assurance qui prévoit une
+  ditional insured and provides for the insurer to notify            couverture suffisante pour l’activité visée, désigne le
+  the Manager in the event that the policy is amended or             gestionnaire à titre d’assuré additionnel et stipule que
+  cancelled; and                                                     l’assureur doit aviser le gestionnaire si la police est
+                                                                     modifiée ou annulée;
+
+
+
+
+                                                              11
+                                           SOR/2003-105 — October 6, 2010
+
+
+
+  (e) if required by the Manager, performance security               e) si le gestionnaire l’exige, une garantie de bonne fin
+  and damage security in respect of the conduct of the               et une garantie relative aux dommages à l’égard de
+  activity.                                                          l’exercice de l’activité.
+  32. The Manager may cancel an authorization given                  32. Le gestionnaire peut annuler l’autorisation accor-
+under section 30 or change the conditions to which an              dée en vertu de l’article 30 ou changer les conditions
+authorization is subject if                                        auxquelles elle est assujettie dans les cas suivants :
+  (a) the conduct of the activity has a result that is pro-          a) l’exercice de l’activité entraîne une des consé-
+  hibited under section 5 or, because of a change in cir-            quences interdites à l’article 5 ou, du fait de nouvelles
+  cumstances, it becomes likely to have such a result or             circonstances, la conséquence n’est plus claire ou
+  the result of it becomes unclear;                                  l’exercice de l’activité devient susceptible d’entraîner
+  (b) the insurance coverage, performance security or                une des conséquences interdites à l’article 5;
+  damage security obtained by the person in respect of               b) la couverture d’assurance, la garantie de bonne fin
+  the conduct of the activity becomes inadequate for the             ou la garantie relative aux dommages à l’égard de
+  activity or is cancelled;                                          l’exercice de l’activité que la personne a obtenue de-
+  (c) the authorization was based on incorrect or mis-               vient insuffisante compte tenu de l’activité ou est an-
+  leading information; or                                            nulée;
+
+  (d) the person to whom the authorization is given or               c) l’autorisation a été obtenue sur la foi de renseigne-
+  any person covered by the authorization does not                   ments erronés ou trompeurs;
+  comply with a condition of the authorization.                      d) la personne à qui l’autorisation a été accordée, ou
+                                                                     toute personne visée par l’autorisation, ne respecte pas
+                                                                     les conditions rattachées à l’autorisation.
+   33. (1) If an authorization given under section 30 is              33. (1) Si l’autorisation accordée en vertu de l’ar-
+cancelled, the Manager shall give notice of the cancella-          ticle 30 est annulée, le gestionnaire en avise la personne
+tion to the person to whom the authorization was given.            à qui elle avait été accordée.
+  (2) The cancellation is effective at the earliest of                (2) L’annulation prend effet à la première des occa-
+  (a) the end of the fifth day after the notice of cancel-         sions suivantes :
+  lation is sent by registered mail to the address provid-           a) l’expiration des cinq jours suivant l’envoi, par
+  ed in the application for the authorization,                       courrier recommandé, de l’avis d’annulation à
+  (b) two hours after a facsimile or electronic transmis-            l’adresse fournie dans la demande d’autorisation;
+  sion of the notice of cancellation is sent to the address          b) l’expiration des deux heures suivant la transmis-
+  provided in the application for the authorization, and             sion, par télécopieur ou autre moyen électronique, de
+  (c) immediately on service of the notice of cancella-              l’avis d’annulation à l’adresse fournie dans la de-
+  tion at the address provided in the application for the            mande d’autorisation;
+  authorization.                                                     c) au moment de la signification de l’avis d’annula-
+                                                                     tion à l’adresse fournie dans la demande d’autorisa-
+                                                                     tion.
+
+
+
+
+                                                              12
+                                           DORS/2003-105 — 6 octobre 2010
+
+
+
+ INSTRUCTIONS TO CEASE, REMOVE, RETURN AND RESTORE                   INSTRUCTIONS VISANT LA CESSATION, L’ENLÈVEMENT, LE
+                                                                                     RETOUR ET LA REMISE
+
+  34. (1) The Manager may instruct a person to take                  34. (1) Le gestionnaire peut donner instruction à
+any of the actions prescribed under subsection (2) if              toute personne de prendre toute mesure prévue au para-
+  (a) the person conducts an activity that is prohibited           graphe (2) dans les cas suivants :
+  under section 6;                                                   a) la personne exerce une activité qui est interdite à
+  (b) the person conducts an activity for which an au-               l’article 6;
+  thorization is required under section 30 without first             b) la personne exerce une activité pour laquelle une
+  obtaining the authorization or without being covered               autorisation est exigée à l’article 30 sans l’avoir obte-
+  by one;                                                            nu ou sans être visé par une autorisation;
+  (c) the person or any person covered by an authoriza-              c) la personne ou une personne visée par une autori-
+  tion fails to comply with a condition of the authoriza-            sation ne respecte pas une condition rattachée à l’auto-
+  tion;                                                              risation;
+  (d) the authorization to conduct the activity is can-              d) l’autorisation d’exercer l’activité est annulée en
+  celled under section 32; or                                        vertu de l’article 32;
+  (e) in the case of an activity for which no authoriza-             e) dans le cas d’une activité pour laquelle aucune au-
+  tion is required under these Regulations, the conduct              torisation n’est exigée par le présent règlement, l’exer-
+  of the activity has a result prohibited under section 5.           cice de cette activité entraîne une des conséquences
+                                                                     interdites à l’article 5.
+  (2) The actions are                                                (2) Les mesures sont les suivantes :
+  (a) to cease the activity or comply with the conditions            a) cesser l’activité ou respecter les conditions ratta-
+  for conducting the activity; and                                   chées à l’activité;
+  (b) if the person is instructed to cease the activity,             b) si la personne reçoit comme instruction de cesser
+     (i) to remove anything brought into the Seaway or               l’activité, à la fois :
+     onto Seaway property in connection with the activi-               (i) enlever tout ce qui a été apporté dans la voie
+     ty,                                                               maritime ou sur les biens de la voie maritime relati-
+     (ii) to return to the Seaway or Seaway property                   vement à l’activité,
+     anything that was removed from it in connection                   (ii) retourner à la voie maritime ou aux biens de la
+     with the activity, and                                            voie maritime tout ce qui y a été enlevé relative-
+     (iii) to restore the property affected by the activity            ment à l’activité,
+     to its former state.                                              (iii) remettre à l’état initial les biens touchés par
+                                                                       l’activité.
+   (3) The person shall immediately comply with the in-               (3) Toute personne est tenue de se conformer immé-
+structions of the Manager.                                         diatement aux instructions du gestionnaire.
+  (4) If the person fails to remove the thing or to restore           (4) Lorsque la personne ne procède pas immédiate-
+the property immediately, the Manager may conduct the              ment à l’enlèvement des choses ou à la remise à l’état
+removal or restoration and may store the thing at the risk         initial des biens, le gestionnaire peut procéder, aux
+and expense of the person.
+
+
+
+                                                              13
+                                           SOR/2003-105 — October 6, 2010
+
+
+
+                                                              risques et dépens de cette personne, à l’enlèvement ou à
+                                                              la remise en état, y compris à l’entreposage des choses.
+
+                            PART 4                                                        PARTIE 4
+
+           REPEALS AND COMING INTO FORCE                              ABROGATIONS ET ENTRÉE EN VIGUEUR
+
+                           REPEALS                                                       ABROGATIONS
+      35. The Seaway Regulations are repealed.
+                                  1
+                                                                35. Le Règlement sur la voie maritime1 est abrogé.
+      36. The Shore Traffic Regulations2 are repealed.          36. Le Règlement sur les véhicules terrestres2 est
+                                                              abrogé.
+
+                       COMING INTO FORCE                                               ENTRÉE EN VIGUEUR
+  37. These Regulations come into force on the day              37. Le présent règlement entre en vigueur à la
+on which they are registered.                                 date de son enregistrement.
+
+
+
+
+1                                                              1 
+     C.R.C., c. 1397                                                C.R.C., ch. 1397
+2                                                              2 
+     C.R.C., c. 1398                                                C.R.C., ch. 1398
+
+
+
+                                                         14
+                                                       DORS/2003-105 — 6 octobre 2010
+
+
+
+                               SCHEDULE                                                                               ANNEXE
+                 (Sections 1, 6, 19, 23, 26, 27, 30 and 31)                                           (articles 1, 6, 19, 23, 26, 27, 30 et 31)
+
+                 ACTIVITIES AND AUTHORIZATIONS                                                        ACTIVITÉS ET AUTORISATIONS
+
+       Column 1                   Column 2     Column 3        Column 4                   Colonne 1                   Colonne 2   Colonne 3        Colonne 4
+                                               Authorization                                                                      Autorisation à
+                                               to a specific                                                                      une personne     Interdiction
+                                               person          Prohibited         Article Activité                    [réservé]   (article 30)     (article 6)
+Item   Activity                   [reserved]   (section 30)    (section 6)
+                                                                                  1.      Conduire un véhicule                    X
+1.     operating a vehicle in                  X                                          dans un endroit qui
+       an area not intended                                                               n’est pas destiné au
+       for vehicular traffic                                                              trafic routier.
+2.     conducting a diving                     X                                  2.      Effectuer une                           X
+       operation                                                                          opération de plongée.
+3.     conducting salvage                      X                                  3.      Effectuer des                           X
+       operations                                                                         opérations de
+4.     building, installing,                   X                                          récupération.
+       modifying, replacing,                                                      4.      Construire, installer,                  X
+       dismantling or                                                                     modifier, remplacer,
+       decommissioning a                                                                  démonter ou
+       petroleum product                                                                  démanteler un
+       storage tank or an                                                                 réservoir de stockage
+       allied petroleum                                                                   de produits pétroliers
+       product storage tank                                                               ou de produits
+5.     releasing any material                                  X                          pétroliers apparentés.
+       or substance onto or                                                       5.      Déverser des                                             X
+       over a lock wall or tie-                                                           substances ou des
+       up wall by any means,                                                              matériaux sur ou par
+       including overboard                                                                dessus un bajoyer ou
+       discharge pipes                                                                    un mur d’amarrage par
+6.     conducting a dredging                   X                                          quelque moyen que ce
+                                                                                          soit, y compris les
+       operation
+                                                                                          tuyaux de déversement
+7.     excavating or                           X                                          à la mer.
+       removing any material
+                                                                                  6.      Entreprendre des                        X
+       or substance
+                                                                                          travaux de dragage.
+8.     transhipping, loading                   X
+                                                                                  7.      Effectuer des travaux                   X
+       or unloading cargo in
+                                                                                          d’excavation ou
+       an area other than a
+                                                                                          d’enlèvement de
+       designated area
+                                                                                          matériaux ou
+9.     placing, altering,                      X                                          substances.
+       removing or relocating
+                                                                                  8.      Transborder, charger                    X
+       an aid to navigation,
+                                                                                          ou décharger des
+       buoy, mooring, float,
+                                                                                          cargaisons à un endroit
+       picket, mark or sign
+                                                                                          autre qu’un endroit
+10.    casting adrift a ship,                  X                                          désigné.
+       log or other object
+                                                                                  9.      Placer, modifier,                       X
+11.    hunting                                                                            enlever ou déplacer
+       (a) in a designated area                X                                          des aides à la
+                                                                                          navigation, bouées,
+       (b) anywhere else                                       X                          dispositifs d’amarrage,
+12.    building, placing,                      X                                          flotteurs, pieux,
+       rebuilding, repairing,                                                             repères ou panneaux.
+       altering, moving or                                                        10.     Laisser aller à la dérive               X
+       removing any structure                                                             un navire, une bille de
+       or work on, in, over,                                                              bois ou quelque autre
+       under, through or                                                                  objet.
+       across land or water
+                                                                                  11.     Chasser :
+13.    fishing
+                                                                                          a) à un endroit                         X
+                                                                                          désigné;
+
+
+
+
+                                                                             15
+                                                       SOR/2003-105 — October 6, 2010
+
+
+
+       Column 1                   Column 2     Column 3        Column 4                   Colonne 1                   Colonne 2   Colonne 3        Colonne 4
+                                               Authorization                                                                      Autorisation à
+                                               to a specific                                                                      une personne     Interdiction
+                                               person          Prohibited         Article Activité                    [réservé]   (article 30)     (article 6)
+Item   Activity                   [reserved]   (section 30)    (section 6)
+                                                                                          b) à tout autre endroit.                                 X
+       (a) in a designated area                X                                  12.     Construire, placer,                     X
+       under a scientific                                                                 reconstruire, réparer,
+       permit issued by the                                                               modifier, déplacer ou
+       Department of                                                                      enlever tout bâtiment
+       Fisheries and Oceans                                                               ou ouvrage sur, dans,
+       (b) in a designated area                                X                          sous le terrain ou l’eau,
+       without a scientific                                                               au-dessus ou à travers
+       permit issued by the                                                               de ceux-ci.
+       Department of                                                              13.     Pêcher :
+       Fisheries and Oceans
+                                                                                          a) à un endroit désigné                 X
+       (c) anywhere else                                       X
+                                                                                          en vertu d’un permis
+14.    conducting a race,                      X                                          scientifique délivré par
+       regatta, trial,                                                                    le ministère des Pêches
+       demonstration,                                                                     et des Océans;
+       organized event or
+                                                                                          b) à un endroit désigné                                  X
+       similar activity
+                                                                                          sans être titulaire d’un
+15.    causing a fire or                       X                                          permis scientifique
+       explosion, conducting                                                              délivré par le ministère
+       blasting or setting off                                                            des Pêches et des
+       fireworks                                                                          Océans;
+16.    placing a placard, bill,                X                                          c) à tout autre endroit.                                 X
+       sign or device
+                                                                                  14.     Tenir une course, une                   X
+17.    selling or offering for                 X                                          régate, un concours,
+       sale goods or services                                                             une manifestation, un
+18.    distributing circulars,                 X                                          événement organisé ou
+       leaflets or advertising                                                            toute autre activité
+       materials                                                                          similaire.
+
+19.    engaging in any form                    X                                  15.     Causer un incendie ou                   X
+       of solicitation                                                                    une explosion,
+                                                                                          dynamiter ou lancer
+20.    venturing out onto ice                  X                                          des pièces
+21.    swimming                                                X                          pyrotechniques.
+                                                                                  16.     Installer des placards,                 X
+                                                                                          affiches, panneaux ou
+                                                                                          dispositifs.
+                                                                                  17.     Vendre ou mettre en                     X
+                                                                                          vente des
+                                                                                          marchandises ou des
+                                                                                          services.
+                                                                                  18.     Distribuer des                          X
+                                                                                          circulaires, des
+                                                                                          feuillets ou du matériel
+                                                                                          publicitaire.
+                                                                                  19.     Exercer toute forme de                  X
+                                                                                          sollicitation.
+                                                                                  20.     Se rendre sur la glace.                 X
+                                                                                  21.     Se baigner.                                              X
+
+
+
+
+                                                                             16
+

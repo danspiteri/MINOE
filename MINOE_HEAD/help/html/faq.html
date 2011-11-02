@@ -1,0 +1,114 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
+	<TITLE></TITLE>
+	<META NAME="GENERATOR" CONTENT="OpenOffice.org 2.4  (Win32)">
+	<META NAME="AUTHOR" CONTENT="Daniel Spiteri">
+	<META NAME="CREATED" CONTENT="20081214;12260300">
+	<META NAME="CHANGED" CONTENT="0;0">
+	<STYLE TYPE="text/css">
+	<!--
+                body {font-family: arial, verdana, times; }
+		P { margin-bottom: 0.08in; direction: ltr; color: #000000; widows: 0; orphans: 0; font-family: arial, verdana, times; }
+		H1 { font-family: "Lucida Sans Unicode"; font-size: 16pt; so-language: zxx ; font-family: arial, verdana, times;}
+		A:link { color: #0000ff }
+	-->
+	</STYLE>
+</HEAD>
+<BODY LANG="en-US" TEXT="#000000" DIR="LTR">
+<H1 CLASS="western">FAQ &ndash; Frequently Asked Questions</H1>
+<P><a href="#1">What is an ecosystem?</a></P>
+<P><a href="#2">What format of an ecosystem model does this program work with?</a></P>
+<P><a href="#3">What is ecosystem-based management?</a></P>
+<P><a href="#4">What is a “gap” that is identified by the MINOE program?</a></P>
+<P><a href="#5">Why is this only for the California Current Large Marine Ecosystem?</a></P>
+<P><a href="#6">What is the California Current?</a></P>
+<P><a href="#7">Can I import my laws for my region?</a></P>
+<P><a href="#8">Can I enter more than one term for a single ecosystem component?</a></P>
+<P><a href="#9">Can I use phrases?</a></P>
+<P><a href="#10">What kind of questions can this program help me answer?</a></P>
+<P><a href="#11">Can I run an analysis on a terrestrial ecosystem?</a></P>
+<P><a href="#12">What is QAP?</a></P>
+<P><a href="#13">What is Jaccard’s Coefficient?</a></P>
+<P><a href="#14">What is G value?</a></P>
+<P><a href="#15">What is p value?</a></P>
+
+<br>
+<a name="1" /></a>
+<p><i>What is an ecosystem?</i></p>
+
+<p>An ecosystem, as defined by the Millennium Ecosystem Assessment (2005), “is a dynamic complex of plant, animal, and microorganism communities and the nonliving environment interacting as a functional unit.” This concept incorporates any scale of interest based on boundaries and criteria defined by interested party.</p>
+<br>
+<a name="2" /></a><p>
+<i>What format of an ecosystem model does this program work with?</i></p>
+<p>The user must input an ecosystem model in a symmetrical matrix. Each row and column represents a single ecosystem element. Each element can be defined by a single or multiple terms or phrases. Each cell of the model contains the information about the relationship between the two elements (corresponding by row/column).</p>
+<p>A model can either be</P>
+<ul>
+  <li> entered manually into the program, element by element and then cell by cell</li> 
+  <li> imported from as csv file, or</li>  
+  <li> opened a pre-existing model (stored in the program as *.ebm file).</li> 
+</ul> 
+<br>
+<a name="3" /></a><p><i>What is ecosystem-based management?</p></i>
+<p>
+Ecosystem-based management (EBM) is a coordinated approach to management of the oceans and coasts in which ecosystem components, their interdependencies and impacts, and ecosystem processes and services are taken into account. In many cases this requires cross-sector and cross-jurisdictional coordination, given that many ecosystem relationships occur across such boundaries.</p>
+<p>
+Please refer to the following sites for additional information about ecosystem-based management:</p> 
+<ul>
+  <li>http://www.compassonline.org/pdf_files/EBM_Consensus_Statement_v12.pdf</li>
+  <li>http://www.marineebm.org/</li>
+  <li>http://www.ebmtools.org/about_ebm.html</li>
+</ul>
+<br>
+<a name="4" /></a><p><i>What is a “gap” that is identified by the MINOE program?</p></i>
+<p>
+One of the primary goals of the MINOE program is to help identify which ecosystem relationships are accounted for in law and those that are not. The relationships that are not accounted for are refered to as “gaps”. A gap occurs when two components in the ecosystem are linked in the model but do not co-occur in any section of law.</p> 
+<br>
+<a name="5" /></a><p><i>Why is this only for the California Current Large Marine Ecosystem?</p></i>
+<p>The first version of this software only contains laws and regulations that pertain to the Pacific coast of the United States (state and federal). If there is enough interest, we will extend the program to incorporate laws and regulations from other regions and countries, update the California laws, and include other types of documents that contain management information (such as management or action plans or agency policies).</p> 
+<br>
+<a name="6" /></a><p>What is the California Current Large Marine Ecosystem?</P>
+<p>Bounded by ocean currents, bathymetry, and bioregional zones, this region, extends from the Washington-Canada border to just south of Baja California Sur, extending ocean-bound out to approximately 500 nautical miles. Please see http://www.lme.noaa.gov</p>
+<a name="7" /></a><p><i>Can I import my laws for my region?</p></i>
+<p>Yes.  Via the Import Documents module.</p> 
+<br>
+<a name="8" /></a><p><i>Can I enter more than one term for a single ecosystem element?</i>
+<p>Yes, you can enter as many terms and/or phrases as you would like to represent a single ecosystem element. By default, all terms listed for the element are searched with an implied “OR” between each. To search so that multiple terms are included (implying the “AND” function), use the “+” before each term.</p>
+
+<ul>
+	<li>"+fish +water" (no quotes) retrieves sections that contain the words fish AND water, but not the sections that contain fish without water</li>
+	<li>"fish water" (no quotes) retrieves sections that contain the word fish and also the sections that contain water</li>
+</ul>
+<br>
+<a name="9" /></a><p><i>Can I use phrases?</p></i>
+<p>Yes, a phrase must be in double quotations otherwise the program will recognize it as a multiple (isolated) terms, assuming “or” between them. For example, to search for kelp harvest, the phrase must be entered within quotes. Otherwise the program will search for all documents containing kelp OR harvest.</p>
+<br>
+<a name="10" /></a><p>What kind of questions can this program help answer?</p>
+<p>There are several different results and types of questions that this program can help answer:</p>
+<ul>
+  <li> Degree to which the linkages in my ecosystem are accounted for in law and regulation</li>
+  <li> This can be answered by using the G value and other correlation measures. To thoroughly verify the sections of law containing co-occurrences of ecosystem elements, double click on the matrix cells to read and search the text of those laws.</li> 
+  <li> Which, if any, ecosystem linkages are accounted for in the target ecosystem?</li>
+  <li> What agencies are responsible for the laws and regulations that discuss the ecosystem elements of interest?</li>
+  </ul>
+<br>
+<a name="11" /></a><p><i>Can I run an analysis on a terrestrial ecosystem?</p></i>
+<p>The laws and regulations we have in this version specifically were compiled for systems related to marine and coastal regions. Please contact us if you’re interested in using this program for terrestrial ecosystems because we are interested in collaborating to test the utility of applying this method to other domains of natural resources (terrestrial, aquatic, atmospheric/climate, energy, and others).</p> 
+<br>
+<a name="12" /></a><i><p>What is QAP?</p></i>
+<p><b>Used for non-dichotomous ecosystem models only:</b> QAP stands for the Quadratic Assignment Procedure, which is a network correlation calculation to test the similarity between two symmetric matrices of the same size. This is the same calculation as used for the Mantel Test in ecology and geography. 
+In this program, QAP is only useful in cases where the ecosystem model contains various strengths of relationships between elements (meaning the cells must contain more numbers than 1 and zero). The higher the QAP result (one is the highest, indicating an exact match between the ecosystem model and the law matrix) indicates that more of the relationships in the ecosystem may be accounted for in law. The closer the QAP result is to zero indicates that relationships in the ecosystem are not accounted for in law. The more negative (down to -1) the QAP result indicates that the relationships in the ecosystem are not accounted for in law, but the laws account for relationships between components of the ecosystem that are not modeled.</p> 
+<br>
+<a name="13" /></a><p><i>What is Jaccard’s Coefficient?</p></i>
+<p><b>Used for dichotomous ecosystems only:</b> Jaccard’s coefficient is used to calculate similarity (or correlation) between the ecosystem model and the law matrix result (for each geopolitical jurisdiction). Use this result only when the ecosystem model entered contained dichotomous data (ones and zeroes). The higher (up to one) the result indicates a higher similarity between the ecosystem modeled and the laws associated with these elements. The coefficient closer to zero indicates little or no similarity between whether ecosystem linkages are accounted for in law. A negative result indicates that the relationships in the ecosystem are not accounted for in law, but the laws account for relationships between components of the ecosystem that are not modeled.</p>
+<br>
+<a name="14" /></a><p><i>What is G value?</p></i>
+G value is another measure indicating the degree to which the ecosystem model relationships are accounted for in law. The higher the G (up to 1), the more gaps are found in the system. If G is zero, this means all ecosystem links are potentially accounted for in law.</P> 
+<br>
+<a name="15" /></a><p><i>What is p value?</p></i>
+<p>The p-value represents the probability that the correlation measure occurs at random. Therefore, the lower the p-value of G, the more likely this G was not generated at random. This value is calculated using a random permutation of the law matrix (cells are mixed at random) from which the correlation metric is generated. Ten thousand of these random generations are calculated. The proportion of the randomly generated metric that is the same as or higher than the actual metric is the p-value.
+</p>
+
+</BODY>
+</HTML>

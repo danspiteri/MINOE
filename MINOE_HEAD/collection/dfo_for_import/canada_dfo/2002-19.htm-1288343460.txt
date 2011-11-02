@@ -1,0 +1,658 @@
+="urn:schemas-microsoft-com:office:smarttags" xmlns="http://www.w3.org/TR/REC-
+html40">
+
+
+
+
+
+_[_F_r_a_n_c_a_i_s_]
+_R_e_t_u_r_n_ _t_o_ _L_i_s_t_ _o_f_ _A_c_t_s
+===============================================================================
+                                 NNEEWW BBRRUUNNSSWWIICCKK
+                              RREEGGUULLAATTIIOONN 22000022--1199
+ 
+                                   uunnddeerrtthhee
+ 
+                             _CC_LL_EE_AA_NN_ _EE_NN_VV_II_RR_OO_NN_MM_EE_NN_TT_ _AA_CC_TT
+                                ((OO..CC.. 22000022--9955))
+ 
+Filed March 5, 2002
+ 
+                              Regulation Outline
+ 
+Citation...............................................................................................................................................
+1
+Definitions.........................................................................................................................................
+2
+Act — Loi
+Air Quality Regulation — Règlementsur la qualité de l'air
+carrier — transporteur
+Carrier Approval — agrément de transporteur
+contaminate used oil — contaminer de l'huile usée
+generator — producteur
+industrial vendor — vendeur industriel
+lubricating oil — huile lubrifiante
+motor vehicle — véhicule à moteur
+oil — huile
+receiver — receveur
+return facility — installation de retour
+used lubricating oil — huile lubrifiante usée
+used oil — huile usée
+vendor —vendeur
+waste derived fuel — carburant dérivé de déchets
+Water Quality Regulation — Règlementsur la qualité de l'eau
+Prohibitions........................................................................................................................................
+3
+Generators..........................................................................................................................................
+4
+Vendors...............................................................................................................................................
+5
+Return
+facilities.................................................................................................................................
+6
+Carrier
+Approval................................................................................................................................
+7
+Period of validity of Carrier
+Approval.............................................................................................
+8
+Implication of issuance of Carrier
+Approval...................................................................................
+9
+Renewal of Carrier
+Approval..........................................................................................................
+10
+Cancellation or suspension of Carrier
+Approval..........................................................................
+11
+Changes respecting Carrier
+Approval............................................................................................
+12
+Appeal...............................................................................................................................................
+13
+Operation of
+carriers.......................................................................................................................
+14
+Transportation of waste derived
+fuel.............................................................................................
+15
+Receivers..........................................................................................................................................
+16
+Fees...................................................................................................................................................
+17
+Transitional
+provision.....................................................................................................................
+18
+Commencement...............................................................................................................................
+19
+SCHEDULE A
+ 
+Under section 32 of the Clean Environment Act, the Lieutenant-Governor in
+Council makes the following Regulation:
+ 
+CCiittaattiioonn
+11                 This Regulation may be cited as the Used Oil Regulation -
+Clean Environment Act.
+ 
+DDeeffiinniittiioonnss
+22                 In this Regulation
+ 
+"Act" means the Clean Environment Act; (« Loi »)
+ 
+"Air Quality Regulation"means the Air Quality Regulation - Clean Air Act; («
+Règlement sur la qualité de l'air »)
+ 
+"carrier" means the holder of a Carrier Approval; (« transporteur »)
+ 
+"Carrier Approval" means a valid and subsisting Carrier Approval issued under
+section 7 or renewed under section 10; (« agrément de transporteur »)
+ 
+"contaminate used oil" means
+ 
+(a)         directly or indirectly to add to used oil any substance with a
+flashpoint of less than 61 degrees Celsius, or
+ 
+(b)         directly or indirectly to add to used oil a substance containing
+more than 5 milligrams per kilogram of polychlorinated biphenyls (PCBs) or
+containing more than 1000 milligrams per kilogram of total organic halogens (as
+chlorine); (« contaminer de l'huile usée »)
+ 
+"generator" means a person who causes oil to become used oil directly through
+personal use or in the course of operating a business enterprise or indirectly
+as a vendor of oil; (« producteur »)
+ 
+"industrial vendor" means a vendor who sells oil directly to industrial users
+by contract and specifies in the contract the life cycle management of the oil;
+(« vendeur industriel »)
+ 
+"lubricating oil" means a petroleum based oil that is being or is intended to
+be used primarily as a lubricant in combustion engines, turbines,
+transmissions, gearboxes, hydraulic equipment and other similar equipment; («
+huile lubrifiante »)
+ 
+"motor vehicle" means a motor vehicle as defined in the Motor Vehicle Act; («
+véhicule à moteur »)
+ 
+"oil" means, unless otherwise indicated, lubricating oil or non-halogenated
+metalworking fluid used in cutting, grinding, machining, rolling, stamping or
+coating and does not include crude or fuel oil spilled on land or in or on
+water, waste from refining operations or oil derived from animal or vegetable
+fat; (« huile »)
+ 
+"receiver" means a person who is not operating a return facility, and who is
+required to hold and holds an approval under the Water Quality Regulation or
+the Air Quality Regulation because the person takes possession of used oil from
+generators or carriers, and includes an employee of such a person; (« receveur
+»)
+ 
+"return facility" means a business enterprise that accepts used lubricating oil
+from persons who wish to return it; (« installation de retour »)
+ 
+"used lubricating oil" means lubricating oil that has become unsuitable for its
+original purpose because of the presence of impurities or the loss of its
+original properties; (« huile lubrifiante usée »)
+ 
+"used oil" means oil that has become unsuitable for its original purpose
+because of the presence of impurities or the loss of its original properties;
+(« huile usée »)
+ 
+"vendor" means a person who sells or offers to sell lubricating oil directly to
+consumers and includes a person who owns or operates a store, station, bulk oil
+plant, other fixed location, mobile outlet or other business enterprise that
+sells lubricating oil or offers it for sale; (« vendeur »)
+ 
+"waste derived fuel" means used oil that, having been tested in accordance with
+paragraph 14(2)(a),
+ 
+(a)         has been determined to have a flashpoint of 61 degrees Celsius or
+higher,
+ 
+(b)         has been determined not to contain any substance in a concentration
+exceeding the maximum allowable concentration in Part I or II of Schedule A
+listed beside the substance in Column 2 of Part I or II of Schedule A, and
+ 
+(c)          is intended by a receiver to be used as a heating fuel; («
+carburant dérivé de déchets »)
+ 
+"Water Quality Regulation" means the Water Quality Regulation - Clean
+Environment Act. (« Règlement sur la qualité de l'eau »)
+ 
+PPrroohhiibbiittiioonnss
+33                 No person shall
+ 
+(a)         contaminate used oil,
+ 
+(b)         place used oil in a container in which it is available for pick up
+and delivery to a solid waste management facility, or otherwise dispose of it
+or cause it to be disposed of at a solid waste management facility, directly or
+indirectly,
+ 
+(c)          deliver contaminated used oil to a return facility,
+ 
+(d)         sell, exchange, offer for sale or exchange, transfer possession of
+or dispose of contaminated used oil unless doing so in accordance with the
+directions of the Minister,
+ 
+(e)          release used oil or cause it to be released into a sewer or any
+fixture, catch basin, conduit, drain or other apparatus leading to a sewer, or
+ 
+(f)          apply, place or otherwise release used oil onto or into public or
+private land for disposal, dust suppression or any other purpose.
+ 
+GGeenneerraattoorrss
+44(1)             Subject to the other provisions of this Regulation, a
+generator may transfer possession of
+ 
+(a)         used lubricating oil to a return facility that is in conformity
+with this Regulation, and
+ 
+(b)         subject to paragraph (a), used oil, only to
+ 
+(i)      a carrier, or
+ 
+(ii)     a receiver who has made, and complies with the provisions of, a
+written contract made between the generator and the receiver in accordance with
+subsection (2).
+ 
+44(2)             A contract referred to in subparagraph (1)(b)(ii) shall
+include a provision in which the generator agrees not to transfer possession of
+more than 420 litres of used oil to the receiver, and the receiver agrees not
+to take possession of more than that amount from the receiver, in any 3 month
+period.
+ 
+44(3)             A generator who drains used oil from crankcases in the course
+of the generator's business may burn the used crankcase oil as fuel in a
+furnace owned by the generator, at a rate of less than 15 litres per hour per
+premises, if the furnace is in conformity with subsection (4).
+ 
+44(4)             A furnace used to burn used crankcase oil under subsection (3)
+shall be in conformity with CAN/CSA-B140.0-M87(R1991),General Requirements for
+Oil Burning Equipment and CAN/CSA-B140.4-1974(R1991), Oil-Fired Warm Air
+Furnaces.
+ 
+44(5)             Used oil that has been generated in the course of a
+generator's business may be burned by the generator as fuel, if
+ 
+(a)         the generator owns the boiler in which it is burned, and
+ 
+(b)         it is burned under the authority of, and in conformity with, an
+approval issued to the generator under the Air Quality Regulation.
+ 
+44(6)             A generator shall keep and maintain records showing
+ 
+(a)         on a quarterly basis, the quantity in litres of the used oil
+produced, and stored, on each premises owned or operated by the generator,
+ 
+(b)         the name and the street and mailing addressof each carrier to whom
+the generator transferred possession of used oil, the date of the transfer and
+the quantity in litres of the used oil transferred,
+ 
+(c)          the name and the street and mailing addressof each receiver to
+whom the generator transferred possession of used oil, the date of the transfer
+and the quantity in litres of the used oil transferred, and
+ 
+(d)         a copy of any contract made between the generator and a receiver.
+ 
+44(7)             Generators shall keep and maintain all records required under
+this section for a period of 2 years.
+ 
+44(8)             Generators shall forthwith produce all records required under
+this section for inspection by an inspector at the inspector's request.
+ 
+44(9)             Subsections (6) to (8) do not apply to generators who transfer
+possession of all of the used lubricating oil generated by them to a return
+facility as described in paragraph 6(1)(b).
+ 
+VVeennddoorrss
+55(1)             Every vendor, other than an industrial vendor, shall
+ 
+(a)         operate a return facility on the business premises of the vendor in
+accordance with this Regulation, or
+ 
+(b)         subject to subsection (2), make and maintain an agreement with a
+person who operates a return facility within a radius of 10 kilometres of the
+business premises of the vendor in accordance with this Regulation.
+ 
+55(2)             If satisfied that, for geographical or other considerations,
+it is not practicable for a vendor to make an agreement with a person operating
+a return facility within the 10 kilometre radius referred to in paragraph (1)
+(b), the Minister may, in writing, permit the vendor to make an agreement with
+a person operating a return facility that is in conformity with this Regulation
+and is outside the 10 kilometre radius.
+ 
+55(3)             Every vendor, other than an industrial vendor, shall post, at
+the entrance to the business premises of the vendor or at the point of display
+or the point of sale of lubricating oil on the business premises, at least one
+decal provided by the Minister that has been accurately completed by the
+vendor, indicating
+ 
+(a)         any information required on the decal respecting
+ 
+(i)      the return facility on the business premises of the vendor, or
+ 
+(ii)     the name and location of the return facility in relation to which the
+vendor has made an agreement, and
+ 
+(b)         any other information required by the Minister.
+ 
+55(4)             Commencing on April 30, 2002, no producer, manufacturer,
+refiner, wholesaler or distributor of lubricating oil shall transfer possession
+of any of the oil to a vendor without first determining that the vendor
+ 
+(a)         is operating a return facility on the business premises of the
+vendor in accordance with this Regulation, or
+ 
+(b)         has made and is maintaining an agreement in accordance with this
+section with a person who operates a return facility in accordance with this
+Regulation.
+ 
+RReettuurrnn ffaacciilliittiieess
+66(1)             The operator of a return facility
+ 
+(a)         subject to paragraph (b), shall make it available during normal
+business hours and without charge to any person who wishes to return used
+lubricatingoil,
+ 
+(b)         shall accept used lubricating oil in quantities, per person per
+day, of a maximum of
+ 
+(i)      25 litres, or
+ 
+(ii)     the number of litres contained by the largest size of container of
+lubricating oil sold on the business premises of the operator,
+ 
+whichever is the greater,
+ 
+(c)           may burn used lubricatingoil returned to the return facility as
+fuel in a furnace owned by the operator, at a rate of not more than 15 litres
+per day per premises, if the furnace is in conformity with subsection 4(4), and
+ 
+(d)         shall transfer possession of the used lubricating oil only to a
+carrier.
+ 
+66(2)             The operator of a return facility shall keep and maintain
+records showing
+ 
+(a)         the name and the street and mailing address of each person who
+returned used lubricating oil to the operator,
+ 
+(b)         the date of each return,
+ 
+(c)          the name and the street and mailing address of each carrier to
+whom the operator transfers used lubricating oil,
+ 
+(d)         the date of each transfer, and
+ 
+(e)          the quantity of used lubricating oil burned as fuel.
+ 
+66(3)             The operator of a return facility shall keep and maintain all
+records required under this section for a period of 2 years.
+ 
+66(4)             The operator of a return facility shall forthwith produce all
+records required under this section for inspection by an inspector at the
+inspector's request.
+ 
+CCaarrrriieerr AApppprroovvaall
+77(1)             In this section
+ 
+"field operation" means an activity in which used oil is generated by a
+generator in the course of operating the generator's business enterprise at a
+temporary construction site, a place where the generator is carrying out the
+harvesting or renewal of timber resources on a temporary basis or at another
+similar location that is not the regular business premises of the generator. («
+exploitation sur le terrain »)
+ 
+77(2)             Subject to subsection (3), no person shall operate a motor
+vehicle transporting used oil unless doing so under the authority of, and in
+compliance with any terms and conditions applying to, a Carrier Approval,
+authorizing the person or the business enterprise by which the person is
+employed to transport used oil by motor vehicle.
+ 
+77(3)             Subsection (2) does not apply to a person operating a motor
+vehicle transporting used oil, if
+ 
+(a)         the person is transporting 25 litres or less of used lubricating
+oil,
+ 
+(b)         the person is transporting used lubricating oil that was generated
+at the site of a generator's field operation, and is being transported from
+that site to a storage facility established by the generator,
+ 
+(c)          the person is a generator or the employee or agent of a generator
+and is transporting used lubricating oil owned by the generator under and in
+conformity with a written contract referred to in subparagraph 4(1)(b)(ii),
+ 
+(d)         the person is transporting waste derived fuel in accordance with
+section 15, or
+ 
+(e)          the used oil is being transported through the Province from
+another jurisdiction to another jurisdiction and no used oil is being picked up
+or delivered by the motor vehicle in the Province.
+ 
+77(4)              A person may apply for a Carrier Approval by submitting an
+application to the Minister, on a form provided by the Minister, along with any
+other documentation or information the Minister may require.
+ 
+77(5)             After receiving an application for a Carrier Approval and such
+other documentation or information as the Minister may require under subsection
+(4), the Minister may, in the Minister's discretion,
+ 
+(a)         issue an approval to the carrier, subject to such terms and
+conditions as the Minister considers appropriate, or
+ 
+(b)         deliver to the applicant a written notice of refusal of the
+application, with reasons.
+ 
+77(6)             The Minister may establish terms and conditions to be met
+before a Carrier Approval is issued, or may impose terms and conditions on the
+approval to be met after the approval is issued.
+ 
+77(7)             The Minister may refuse to issue a Carrier Approval if
+ 
+(a)         the applicant, an employee or agent of the applicant or the
+business enterprise of the applicant is not in compliance with a provision of
+the Act or the regulations,
+ 
+(b)         the applicant, an employee or agent of the applicant or the
+business enterprise of the applicant has failed to comply with a term or
+condition imposed on a Carrier Approval under the authority of which the
+applicant, employee, agent or business enterprise previously transported used
+oil,
+ 
+(c)           all facts material to the application for the approval have not
+been fully disclosed, or
+ 
+(d)         the facts, representations and other information contained in the
+application for the approval are not true or accurate.
+ 
+PPeerriioodd ooff vvaalliiddiittyy ooff CCaarrrriieerr AApppprroovvaall
+88(1)             A Carrier Approval shall be valid for the period of time, not
+to exceed 5 years, that is specified in the approval.
+ 
+88(2)             If no period of time is specified in a Carrier Approval in
+accordance with subsection (1), the approval shall be valid for 5 years.
+ 
+IImmpplliiccaattiioonn ooff iissssuuaannccee ooff CCaarrrriieerr AApppprroovvaall
+ 
+99                 The issuance of a Carrier Approval does not relieve the
+owner, operator, employee or agent of the carrier from compliance with any of
+the provisions of the Act or the regulations.
+ 
+RReenneewwaall ooff CCaarrrriieerr AApppprroovvaall
+1100(1)          The holder of a Carrier Approval who wishes to renew it shall,
+no later than 90 days before it expires, apply to the Minister for a renewal.
+ 
+1100(2)          Subsections 7(4) to (7) apply with the necessary modifications
+to an application for a renewal of a Carrier Approval and to the renewed
+approval.
+ 
+CCaanncceellllaattiioonn oorr ssuussppeennssiioonn ooff CCaarrrriieerr AApppprroovvaall
+1111(1)          Without limiting section 12 of the Act, the Minister may suspend
+or cancel a Carrier Approval if
+ 
+(a)         the holder of the approval or any person acting under its authority
+has violated or failed to comply with, or if the business enterprise of the
+holder is not in compliance with,
+ 
+(i)      a provision of the Act or the regulations, or
+ 
+(ii)     a term or condition imposed on the approval, or
+ 
+(b)         a fee payable in relation to the approval under section 17 has not
+been paid on or before the deadline established in that section.
+ 
+1111(2)          The Minister, if suspending or cancelling a Carrier Approval for
+any reason, shall deliver to the holder a written notice of the suspension or
+cancellation, with reasons.
+ 
+1111(3)          If the Minister suspends a Carrier Approval because a fee
+payable under section 17 has not been paid, the suspension shall continue until
+the outstanding fee has been paid.
+ 
+1111(4)          Subject to subsection (3), the Minister may reinstate a
+suspended approval subject to such terms and conditions as the Minister
+considers appropriate.
+ 
+CChhaannggeess rreessppeeccttiinngg CCaarrrriieerr AApppprroovvaall
+1122(1)          The holder of a Carrier Approval shall forthwith notify the
+Minister in writing of any change in the information originally set out in the
+application for the approval or set out on the approval, describing the change
+in the information, and applying for a reissued approval where there has been a
+change in the information set out on the approval.
+ 
+1122(2)          The holder of a Carrier Approval who wishes to have a change
+made to any term or condition imposed on the approval shall apply in writing to
+the Minister for reissuance of the approval, describing the proposed change in
+the terms and conditions to be imposed on the reissued approval.
+ 
+1122(3)          Subsections7(4) to (7) apply with the necessary modifications to
+an application for a reissued Carrier Approval under this section, and to the
+reissued approval.
+ 
+AAppppeeaall
+1133(1)          A person who was the holder of a Carrier Approval that has been
+cancelled or suspended may appeal the cancellation or suspension as provided
+for in the Appeal Regulation - Clean Environment Act, but the initiation of an
+appeal does not operate as a stay of the cancellation or suspension.
+ 
+1133(2)          Subsection (1) shall not be construed, in any way, so as to
+abrogate from the requirement that the person comply with any order made under
+the Act or the regulations.
+ 
+OOppeerraattiioonn ooff ccaarrrriieerrss
+1144(1)          A carrier who transfers possession of used oil within the
+Province shall do so only to a receiver.
+ 
+1144(2)          Every carrier, before transferring possession of used oil as
+waste derived fuel, shall
+ 
+(a)         ensure that the used oil has been or is tested by an analytical
+laboratory acceptable to the Minister in accordance with methods and standards
+established by the Minister, in order to determine whether or not
+ 
+(i)      the used oil has a flashpoint of less than 61 degrees Celsius, and
+ 
+(ii)     the used oil contains any substance listed in Column 1 of Part I or II
+of Schedule A, in a concentration exceeding the maximum allowable concentration
+listed beside the substance in Column 2 of Part I or II of Schedule A, and
+ 
+(b)         if the test results reveal that the used oil has a flashpoint of 61
+degrees Celsius or higher and does not contain any substance in a concentration
+exceeding the maximum allowable concentration in Part I or II of Schedule A, as
+described in subparagraph (a)(ii), ensure that a copy of the test results is
+always carried in any motor vehicle in which the used oil is transported, in
+the possession of the operator of the motor vehicle.
+ 
+1144(3)          If the test results referred to in paragraph (2)(a) reveal that
+the used oil has a flashpoint of less than 61 degrees Celsius or contains any
+substance in a concentration exceeding the maximum allowable concentration in
+Part I or II of Schedule A, as described in subparagraph (a)(ii), the carrier
+shall notify the Minister to that effect and follow the directions of the
+Minister.
+ 
+TTrraannssppoorrttaattiioonn ooff wwaassttee ddeerriivveedd ffuueell
+1155(1)          No person shall operate a motor vehicle transporting waste
+derived fuel unless the person has possession in the motor vehicle of a copy of
+the test results referred to in paragraph 14(2)(b) for the waste derived fuel.
+ 
+1155(2)          The operator of a motor vehicle who is required to have
+possession of a copy of test results under subsection (1) shall, upon the
+demand of an inspector, forthwith produce and deliver the test results for
+inspection by an inspector at the inspector's request.
+ 
+RReecceeiivveerrss
+1166(1)          Subject to subsection (2), no person other than a receiver may
+take possession of used oil from a generator or a carrier.
+ 
+1166(2)          Subsection (1) does not apply to persons operating or employed
+by
+ 
+(a)         a return facility, or
+ 
+(b)         a carrier.
+ 
+1166(3)          A receiver
+ 
+(a)         may take possession of used oil only from
+ 
+(i)      a generator transferring possession of 25 litres or less of used
+lubricating oil per day,
+ 
+(ii)     a generator with whom the receiver has made a written contract
+referred to in subparagraph 4(1)(b)(ii), in accordance with that contract,
+ 
+(iii)   a carrier, or
+ 
+(iv)    a person transferring waste derived fuel in accordance with section 15,
+ 
+(b)         may alter the physical or the chemical characteristics of the used
+oil for sale and reuse,
+ 
+(c)          if the receiver does not alter the physical or the chemical
+characteristics of used oil, may sell or exchange it, offer it for sale or
+exchange or transfer possession or dispose of it only to a carrier, and
+ 
+(d)         if the receiver alters the physical or the chemical characteristics
+of used oil, may sell or exchange it, offer it for sale or exchange or transfer
+possession or dispose of it only
+ 
+(i)      to a carrier, or
+ 
+(ii)     as waste derived fuel, to a person who is the holder of an approval
+under the Air Quality Regulation permitting the holder to burn it as fuel.
+ 
+FFeeeess
+1177(1)          Subject to subsection (3), the holder of a Carrier Approval,
+whether the approval is issued or renewed and regardless of the date of
+issuance or renewal, shall, on or before the 1st day of April in each year, pay
+for the issuance or renewal of the approval or for the continued holding of the
+approval, as the case may be, a feeof
+ 
+(a)         for the period ending March 31, 2005, $100, and
+ 
+(b)         on or after April 1, 2005, $500.
+ 
+1177(2)          Subject to subsection (3), if an approval is to be issued on a
+date other than the 1st day of April, the fee set out in subsection (1) shall
+be paid before the issuance, for the issuance, and shall not be prorated,
+regardless of the date of the issuance.
+ 
+1177(3)          If a Carrier Approval is to be issued on a date other than the
+1st day of April, for a carrier for which no Carrier Approval has previously
+been issued, the fee set out in subsection (1) shall be paid before the
+issuance, for the first issuance of the approval but shall be prorated based on
+the number of days between the date of issuance and the next following 31st day
+of March, inclusive.
+ 
+1177(4)          There is no fee for the reissuance of a Carrier Approval under
+section 12.
+2005-11
+ 
+TTrraannssiittiioonnaall pprroovviissiioonn
+1188               A valid and subsisting approval issued before the commencement
+of this Regulation under the Water Quality Regulation to a person because the
+person is operating a business enterprise consisting of the collection or
+transportation of used oil, or both, shall, on the commencement of this
+Regulation, be deemed
+ 
+(a)         to be a valid and subsisting Carrier Approval issued under this
+Regulation, subject to such terms and conditions as the Minister may have
+imposed on the approval under the Water Quality Regulation, and
+ 
+(b)         to expire on November 30, 2002.
+ 
+CCoommmmeenncceemmeenntt
+1199                TThhiiss RReegguullaattiioonn ccoommeess iinnttoo ffoorrccee oonn AApprriill 3300,, 22000022..
+ 
+                                  SSCCHHEEDDUULLEE AA
+          MMAAXXIIMMUUMM AALLLLOOWWAABBLLEE CCOONNCCEENNTTRRAATTIIOONNSS OOFF SSUUBBSSTTAANNCCEESS  IINN UUSSEEDD OOIILL
+ 
+                                    PPAARRTT II
+        CCoolluummnn 11                                           CCoolluummnn 22
+        SSuubbssttaannccee                              MMaaxxiimmuumm aalllloowwaabbllee ccoonncceennttrraattiioonn
+                                               
+arsenic                                       5 milligrams per kilogram
+                                               
+cadmium                                       2 milligrams per kilogram
+                                               
+chromium                                      10 milligrams per kilogram
+                                               
+lead                                          100 milligrams per kilogram
+                                               
+zinc                                          1500 milligrams per kilogram
+ 
+ 
+                                    PPAARRTT IIII
+        CCoolluummnn 11                                              CCoolluummnn 22
+Substance                                                MMaaxxiimmuumm aalllloowwaabbllee
+                                                           ccoonncceennttrraattiioonn
+                                                      
+polychlorinated biphenyls                             5 milligrams per kilogram
+(PCBs)
+                                                      
+total organic halogens                                      1000 milligrams per
+(as chlorine)                                                          kilogram
+ 
+ 
+NN..BB..This Regulation is consolidated to March 24 2005.
+ 

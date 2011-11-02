@@ -1,0 +1,881 @@
+
+
+
+
+
+_[_F_r_a_n_ç_a_i_s_]
+_R_e_t_u_r_n_ _t_o_ _L_i_s_t_ _o_f_ _A_c_t_s
+===============================================================================
+NEW BRUNSWICK
+REGULATION 2002-13
+under the
+_C_l_e_a_n_ _W_a_t_e_r_ _A_c_t
+(O.C. 2002-56)
+Filed February 5, 2002
+Chapter Outline
+Citation
+1
+Definitions
+2
+Act - Loi
+applicable standard - norme applicable
+appropriate use - utilisation appropriÃ©e
+aquatic community - communautÃ© aquatique
+aquatic life - vie aquatique
+estuary - estuaire
+existing use - utilisation existante
+impoundment - rÃ©servoir
+mixing zone - zone de mÃ©lange
+naturally occurring - Ãªtre dans son Ã©tat naturel
+Panel - ComitÃ©
+ppm - ppm
+primary contact activity - activitÃ© de contact direct
+Protected Area A - secteur protÃ©gÃ© A
+receiving water - partie rÃ©ceptrice du cours dâ€™eau
+secondary contact activity - activitÃ© de contact indirect
+significant withdrawal - prÃ©lÃ¨vement important
+trophic status - Ã©tat trophique
+under this Regulation - en vertu du prÃ©sent rÃ¨glement
+Water Classification Order - dÃ©cret relatif Ã  la classification des eaux
+Watershed Protected Area Designation Order - DÃ©cret de dÃ©signation du secteur
+protÃ©gÃ© de bassins hydrographiques
+Water Classification Order
+3
+Classes of water
+4
+Criteria for classification as Outstanding Natural Waters class
+5
+Classification of Protected Areas
+6
+Classification of lakes, ponds and impoundments
+7
+Nominations or requests for classification of water
+8
+Procedures for making a Water Classification Order
+9
+Content of Water Classification Order
+10
+Reclassification
+11
+Outstanding Natural Waters Class Review Panel
+12
+Duties of the Panel
+13
+Procedures of the Panel
+14
+Registers
+15
+Mixing zones
+16
+Existing uses
+17
+Offences
+18
+Commencement
+19
+SCHEDULE A
+SCHEDULE B Minimum Mixing Zone Standards
+Under sectionÂ 40 of the Clean Water Act, the Lieutenant-Governor in Council
+makes the following Regulation:
+
+Citation
+1This Regulation may be cited as the Water Classification Regulation - Clean
+Water Act.
+
+Definitions
+2In this Regulation
+``Act'' means the Clean Water Act; (Loi)
+``applicable standard'' means, with reference to a class of water, any standard
+set out in columns 2 to 5 of Schedule A beside the name of the class of water
+in column 1 of Schedule A, or, in the case of the Outstanding Natural Waters
+class when subsectionÂ 11(3) applies, any standard determined to apply under
+that subsection; (norme applicable)
+``appropriate use'' means a use that, if carried out by a person, would not
+constitute a violation of the Act or any other legislation, or a regulation,
+order or by-law made under any of them; (utilisation appropriÃ©e)
+``aquatic community'' means an interacting assemblage of species of aquatic
+life that live in a common area of a watercourse and, together with their
+habitat, form a functional unit with an identifiable structure; (communautÃ©
+aquatique)
+``aquatic life'' means plant, animal and other species that live all or part of
+their lives in the water; (vie aquatique)
+``estuary'' means that part of a watercourse where fresh water meets and
+measurably dilutes salt water, and where the biotic community, including the
+vegetation, is characteristic of waters ranging in salinity from 5 to 20 parts
+per thousand; (estuaire)
+``existing use'' means, with reference to water that is classified or
+reclassified as any class under this Regulation, any use of the water that is
+being conducted at the time when the classification or reclassification of the
+water becomes effective, regardless of the purpose for which it is used;
+(utilisation existante)
+``impoundment'' means an artificially created watercourse having the
+characteristics of a lake; (rÃ©servoir)
+``mixing zone'' means the immediate area within the receiving water of a
+watercourse, where a contaminant being released into the receiving water is
+initially diluted, but does not include an area where the contaminant is
+treated; (zone de mÃ©lange)
+``naturally occurring'' means, with reference to an aquatic community or the
+water of a watercourse, displaying biological, chemical and physical
+characteristics that are not affected or are only minimally or temporarily
+affected by human activity; (Ãªtre dans son Ã©tat naturel)
+``Panel'' means the Outstanding Natural Waters Class Review Panel established
+under sectionÂ 12; (ComitÃ©)
+``ppm'' means parts per million; (ppm)
+``primary contact activity'' means a recreational or other activity in or on
+the water of a watercourse in the course of which there is usually a risk of
+contact with, or ingestion of, the water; (activitÃ© de contact direct)
+``Protected Area A'' means a Protected Area A that is designated as a protected
+area under the Watershed Protected Area Designation Order; (secteur protÃ©gÃ©
+A)
+``receiving water'' means the water within a watercourse that receives a
+contaminant; (partie rÃ©ceptrice du cours dâ€™eau)
+``secondary contact activity'' means a recreational or other activity in or on
+the water of a watercourse in the course of which there is not usually a risk
+of contact with, and there is not usually a risk of ingestion of, the water;
+(activitÃ© de contact indirect)
+``significant withdrawal'' means, with reference to the withdrawal of water
+from a watercourse, a withdrawal at a rate of more than 45 litres per minute,
+or at a rate of more than ten per cent of the flow of the water in the
+watercourse at the time of withdrawal, whichever is the lower rate;
+(prÃ©lÃ¨vement important)
+``trophic status'' means the status of the biological productivity of the water
+of a watercourse, based on measures of the secchi depth, chlorophyll a or
+phosphorus or a combination of them; (Ã©tat trophique)
+``under this Regulation'' means, with reference to the classification of water,
+classified as a class in this Regulation or under a Water Classification Order;
+(en vertu du prÃ©sent rÃ¨glement)
+``Water Classification Order'' means an order made under sectionÂ 3,
+subsectionÂ 7(3) or (4) or sectionÂ 11; (dÃ©cret relatif Ã  la classification
+des eaux)
+``Watershed Protected Area Designation Order'' means New Brunswick Regulation
+2001-83 under the Clean Water Act. (DÃ©cret de dÃ©signation du secteur
+protÃ©gÃ© de bassins hydrographiques)
+
+Water Classification Order
+3The Minister may, in the Ministerâ€™s discretion, with the approval of the
+Lieutenant-Governor in Council and in accordance with this Regulation, by a
+Water Classification Order classify all or any portion of the water of a
+watercourse as one of the classes set out in paragraphÂ 4(a), (c), (d), (e) or
+(f).
+
+Classes of water
+4(1)The classes of water for the purposes of classification under this
+Regulation are as follows:
+(a)Outstanding Natural Waters class, applying to representative examples of
+naturally occurring water of a watercourse or uniquely outstanding natural
+water of a watercourse that, in the opinion of the Minister, meets the criteria
+set out in sectionÂ 5;
+(b)AP class, applying to all the water that is classified as AP class under
+sectionÂ 6;
+(c)AL class, applying to the water of lakes, ponds and impoundments that is
+classified as AL class under sectionÂ 7 and, where the water is being
+classified or reclassified by a Water Classification Order, to the water of
+lakes, ponds and impoundments that is intended by the Minister to meet the
+applicable standards;
+(d)A class, applying to the water of watercourses, if the water
+(i)in the opinion of the Minister, can or could support use as a habitat for
+aquatic life, use for primary and secondary contact activity and other
+appropriate uses that will not prevent the applicable standards from being met,
+and
+(ii)is intended by the Minister to meet the applicable standards;
+(e)B class, applying to the water of watercourses, if the water
+(i)in the opinion of the Minister, can or could support use as a habitat for
+aquatic life, use for primary and secondary contact activity and other
+appropriate uses that will not prevent the applicable standards from being met,
+and
+(ii)is intended by the Minister to meet the applicable standards; and
+(f)C class, applying to the water of watercourses, if the water
+(i)in the opinion of the Minister, can or could support use as a habitat for
+aquatic life, use for secondary contact activity and other appropriate uses
+that will not prevent the applicable standards from being met, and
+(ii)is intended by the Minister to meet the applicable standards.
+4(2)Notwithstanding anything else in this Regulation, no water shall be
+classified as more than one class at any one time.
+
+Criteria for classification as Outstanding Natural Waters class
+5A watercourse and the water of the watercourse shall meet the following
+criteria in order for the water to be classified as Outstanding Natural Waters
+class:
+(a)the quality and quantity of the water are as naturally occurring, allowing
+for changes in the chemistry or flow of the water that, in the opinion of the
+Minister, are barely measurable changes resulting from atmospheric conditions
+or uses of the water or associated land;
+(b)the aquatic community of the water and of the watercourse is as naturally
+occurring, allowing for changes in the chemistry or flow of the water with
+resulting changes in its aquatic community that, in the opinion of the
+Minister, are barely measurable changes resulting from atmospheric conditions
+or uses of the water or associated land, and allowing for the presence of non-
+indigenous species if they are ecologically stable;
+(c)no contaminants are being released into the watercourse or the water, other
+than those causing barely measurable changes resulting from atmospheric
+conditions or uses of the water or associated land;
+(d)the water of the watercourse meets standards at least as stringent as the
+applicable standards;
+(e)the water is suitable as a habitat for aquatic life and for other
+appropriate uses that will not prevent the applicable standards from being met;
+and
+(f)the watercourse, in the opinion of the Minister, has one or more of the
+following characteristics:
+(i)the quality of the water in the watercourse or the nature of its aquatic
+community is of a type commonly found in the Province;
+(ii)a chemical or physical quality or characteristic of the water in the
+watercourse is unique;
+(iii)it contains a rare, unique, threatened or endangered aquatic community;
+(iv)it possesses outstanding recreational, aesthetic or historical qualities;
+or
+(v)the quality of the water in the watercourse is such that protecting it in
+its natural state is of paramount importance to the people of the Province and
+would, in the opinion of the Minister, support or promote clean water or the
+integrity of the ecosystem.
+
+Classification of Protected Areas
+6On the commencement of this Regulation, the following water shall be
+classified as AP class:
+(a)all the water in a Protected Area A, whether that Protected Area A is
+designated as a protected area under the Watershed Protected Area Designation
+Order before, on or after the commencement of this section, during such time as
+it remains so designated; and
+(b)all the water of all watercourses flowing into a Protected Area A, during
+such time as paragraphÂ (a) applies to the water in that protected area.
+
+Classification of lakes, ponds and impoundments
+7(1)Subject to subsections (1) and (2), on the commencement of this Regulation,
+the water of all lakes, ponds and impoundments shall be classified as AL class,
+if the water is not already classified as AP class.
+7(2)SubsectionÂ (1) does not apply to excavations or containment structures
+used for the purpose of ponds on golf courses or for the purpose of wastewater
+treatment, ponds constructed for fish culture, agricultural purposes or fire
+protection or other artificially created ponds.
+7(3)The Minister, with the approval of the Lieutenant-Governor in Council and
+in accordance with this Regulation, may in the Ministerâ€™s discretion in or by
+a Water Classification Order exclude from the AL class
+(a)the water of any lake or pond or all lakes or ponds to which subsectionÂ (1)
+applies and that are located partly or wholly within a wetland that is being
+used or is to be used for peat extraction, and
+(b)the water of any impoundments to which subsectionÂ (1) applies,
+and paragraphs 10(1)(a) and (c) apply with the necessary modifications to such
+an order.
+7(4)The water of any lake, pond or impoundment to which an order made under
+subsectionÂ (3) applies may, in the Ministerâ€™s discretion, with the approval
+of the Lieutenant-Governor in Council and in accordance with this Regulation,
+subsequently be designated as AL or any other class of water in or by a Water
+Classification Order and sections 3 to 5 and 8 to 10 apply with the necessary
+modifications to such an order.
+
+Nominations or requests for classification of water
+8(1)A governmental agency or person who wishes to propose that the water of a
+watercourse be classified under a Water Classification Order as Outstanding
+Natural Waters class may nominate the water by submitting to the Panel
+(a)a nomination on a form provided by the Minister, and
+(b)such other documentation and information as the Panel may require.
+8(2)A governmental agency or person who wishes to propose that the water of a
+watercourse be classified under a Water Classification Order as any class,
+other than Outstanding Natural Waters class, or that the water of a watercourse
+be excluded from the AL class under subsectionÂ 7(3), may request that the
+Minister consider the matter by delivering to the Minister a written request on
+a form provided by the Minister.
+8(3)The Minister may, without receiving a request under this section, begin
+considering the classification of the water of a watercourse as any class,
+other than Outstanding Natural Waters class, or begin considering the exclusion
+of water from the AL class under subsectionÂ 7(3).
+
+Procedures for making a Water Classification Order
+9(1)Before making a Water Classification Order classifying the water of a
+watercourse as Outstanding Natural Waters class, the Minister
+(a)shall consider the recommendation that has been made by the Panel under
+subsectionÂ 13(2),
+(b)may, if the Minister is not satisfied with any information or documentation
+provided by the Panel with its recommendation under subsectionÂ 13(2), request
+such further information or documentation as the Minister may require, and
+forgo taking any further steps until the information or documentation has been
+provided,
+(c)shall, if the Minister considers it necessary, make an evaluation of the
+suitability of the water for classification as Outstanding Natural Waters
+class, including making an assessment of
+(i)the past, current and potential uses and characteristics of land and water
+within the associated watershed, including the geology, soil, vegetation,
+topography and other aspects of the natural landscape and the climate, in terms
+of their relationship to water quality, and
+(ii)whether or not the water and the watercourse meet the criteria set out in
+sectionÂ 5,
+(d)shall give notice of the intended classification, in the form of a public
+notice or public notices published in newspapers having general circulation in
+the area of the watercourse and in The Royal Gazette and by any other method
+the Minister considers appropriate, to the public and to such other persons as
+the Minister considers appropriate, indicating that information concerning the
+intended classification is available and can be obtained from the Minister and,
+if the intended classification is a reclassification under sectionÂ 11, setting
+out the reasons for the intended reclassification,
+(e)shall provide to interested members of the public, including landowners,
+business enterprises, groups of interested persons and such other persons as
+may own, use, enjoy, occupy or otherwise have an interest in the land and water
+within the associated watershed, opportunities for involvement in the
+classification process, including
+(i)by providing a range of communication options through which those persons
+can receive information concerning the classification process, understand the
+ecological, social and economic consequences of any proposed classification and
+submit comments and concerns,
+(ii)by giving those persons an opportunity to review the proposed content of
+the Water Classification Order,
+(iii)by giving those persons an opportunity to submit to the Minister any
+additional information that may not have been considered by the Minister in the
+original evaluation,
+(iv)by receiving written submissions from those persons, to the extent that it
+appears reasonable to the Minister to do so in the circumstances, and
+(v)by any other method the Minister considers appropriate,
+(f)if reasonably possible, shall assist persons referred to in paragraphÂ (e)
+to develop, by consensus, a recommendation for the Minister in relation to the
+appropriate classification to be made,
+(g)shall be satisfied that the water of the watercourse may reasonably be
+expected to continue to meet the criteria set out in sectionÂ 5, and
+(h)shall notify the public of the final classification in the form of a public
+notice or public notices published in newspapers having general circulation in
+the area of the watercourse, and by any other method the Minister considers
+appropriate.
+9(2)If the Panel has recommended to the Minister under paragraphÂ 13(2)(b) that
+the water of a watercourse not be classified as Outstanding Natural Waters
+class and the Minister has decided upon receiving the recommendation to follow
+it, the Minister shall give notice of that decision in the form of a public
+notice or public notices published in newspapers having general circulation in
+the area of the watercourse and in The Royal Gazette, and by any other method
+the Minister considers appropriate, to the public and to such other persons as
+the Minister considers appropriate, setting out in each notice a description of
+the watercourse and the reasons for the decision.
+9(3)The Minister is not bound to follow any recommendation developed by
+consensus among persons referred to in paragraphÂ (1)(f) but, if not following
+the recommendation, shall provide those persons with written reasons for not
+doing so.
+9(4)Before making a Water Classification Order classifying as an AL class the
+water of a watercourse that, for any reason, is not already classified as an AL
+class, or before making a Water Classification Order classifying the water of a
+watercourse as an A class, a B class or a C class, the Minister
+(a)shall, in the form of a public notice or public notices published in
+newspapers having general circulation in the area of the watercourse and in The
+Royal Gazette, and by any other method the Minister considers appropriate,
+notify interested members of the public, including landowners, business
+enterprises, groups of interested persons, such other persons as may own, use,
+enjoy, occupy or otherwise have an interest in the land and water within the
+associated watershed and such other persons as the Minister considers
+appropriate, that the evaluation of the suitability of the water for the
+proposed classification has begun, and extend an invitation to become involved
+in the process,
+(b)shall make an evaluation of the suitability of the water for the proposed
+classification, including making an assessment
+(i)of the quality of the water, and
+(ii)of the past, current and potential uses and characteristics of land and
+water within the associated watershed, including the geology, soil, vegetation,
+topography and other aspects of the natural landscape and the climate, in terms
+of their relationship to water quality,
+(c)shall involve such persons as the Minister considers appropriate in the
+process leading to the classification, including through participation in
+public meetings, in water quality monitoring or other information gathering
+activities, in the development of a consensus among those persons respecting
+the content of the proposed Water Classification Order and respecting any other
+matters those persons consider appropriate, and in any other activity the
+Minister considers appropriate, and
+(d)shall follow the steps set out in paragraphs (1)(d) to (f) and (h), with the
+necessary modifications.
+9(5)Notwithstanding anything else in this Regulation, the Minister may decide
+not to proceed with further consideration of a request made under subsectionÂ 8
+(2) or a recommendation made by the Panel under paragraphÂ 13(2)(a), if the
+request or recommendation, in the opinion of the Minister, is clearly
+inappropriate.
+9(6)The Minister, if deciding not to proceed under subsectionÂ (5), shall
+provide written reasons for not doing so to the governmental agency or person
+who made the request under subsectionÂ 8(2) or to the Panel, as the case may
+be.
+
+Content of Water Classification Order
+10(1)A Water Classification Order shall contain
+(a)descriptions of the watercourses to which the order relates, or a plan
+showing those watercourses, or both, sufficient to identify the limits of the
+watercourses,
+(b)the identity of the classification or classifications of the water being
+classified,
+(c)the date on which the classification or classifications are to become
+effective,
+(d)if the water to which the Water Classification Order relates has been
+previously classified under another Water Classification Order or in this
+Regulation and is being reclassified, a citation of that order or of this
+Regulation, as the case may be, and the name of the previous class,
+(e)if the classification is of the water of a lake, pond or impoundment that
+has previously been excluded from the AL class under another Water
+Classification Order, a citation of that order, and
+(f)if the Minister has concluded that the classification of the water of a
+watercourse plays a significant role in protecting the quality of the water or
+in protecting another social, economic or environmental characteristic of the
+water, a description of that significance, including, if the water is being
+classified as Outstanding Natural Waters class, a description of the
+characteristic or characteristics referred to in paragraphÂ 5(f) that apply to
+the water and the watercourse.
+10(2)The water of more than one segment or tributary of a watercourse may be
+classified, or excluded from AL class, in a Water Classification Order and the
+different segments or tributaries may be classified as different classes.
+10(3)Where reasonably practicable, the water of all watercourses within one
+watershed that is to be classified as A class, B class or C class shall be
+classified by the Minister in the same Water Classification Order.
+
+Reclassification
+11(1)Subject to subsections (2) and (3), the Minister, with the approval of the
+Lieutenant-Governor in Council and in accordance with this Regulation, may in
+the Ministerâ€™s discretion by a Water Classification Order reclassify the
+water of a watercourse to a class, and only to a class, in relation to which
+more stringent standards are contained in Schedule A, and sections 3, 4, 5 and
+8 to 10 apply with the necessary modifications to such a reclassification.
+11(2)The Minister, with the approval of the Lieutenant-Governor in Council and
+in accordance with this Regulation, may in the Ministerâ€™s discretion by a
+Water Classification Order reclassify the water of a watercourse to a class
+having less stringent applicable standards if the Minister is satisfied that
+the reclassification is in the best interests of the Province for a social,
+economic or environmental reason, and sections 3, 4 and 8 to 10 apply with the
+necessary modifications to such a reclassification.
+11(3)The Minister, with the approval of the Lieutenant-Governor in Council and
+in accordance with this Regulation, may in the Ministerâ€™s discretion by a
+Water Classification Order reclassify the water of a watercourse from AP class
+to Outstanding Natural Waters class, in which case the standards and prohibited
+activities that apply in relation to that water are the standards and
+prohibited activities set out in columns 2 to 6 of Schedule A
+(a)beside the name of Outstanding Natural Waters class in column 1 of Schedule
+A, or
+(b)beside the name of AP class in column 1 of Schedule A,
+whichever are more stringent, on a case by case basis.
+
+Outstanding Natural Waters Class Review Panel
+12(1)The Lieutenant-Governor in Council, on the recommendation of the Minister,
+may establish an Outstanding Natural Waters Class Review Panel consisting of
+not fewer than 9 members and not more than 11 members appointed by the
+Lieutenant-Governor in Council.
+12(2)The membership of the Panel shall be as follows:
+(a)one member who is an employee of the Department of Environment, who shall be
+the chairperson;
+(b)one member who is an employee of the Department of Environment, who shall be
+the secretary and who shall be responsible for collecting and organizing
+documentation, information and submissions and otherwise organizing and
+reporting on the activities of the Panel;
+(c)one member who is an employee of the Department of Natural Resources;
+(d)one member who is a member of a group having as its principal goal the
+conservation of the environment;
+(e)one member who is a member of a group representing agriculture;
+(f)one member who is a member of a group representing the mining industry;
+(g)one member who is a member of a group representing the forestry industry;
+(h)one member who is a member of a watershed association;
+(i)one member who is a member of a group representing a university or college
+in the Province; and
+(j)a maximum of 2 other members considered appropriate by the Lieutenant-
+Governor in Council.
+12(3)The Panel shall elect a vice-chairperson from among its members as the
+alternate chairperson to act in the absence of the chairperson.
+12(4)The Panel shall elect an alternate secretary from among its members to act
+in the absence of the secretary.
+12(5)Each member of the Panel referred to in paragraphs (2)(a) and (c) to (j)
+shall hold office until the end of a term of 2 years, until the member resigns
+or ceases to fulfil the qualification for membership or until a successor is
+appointed, whichever occurs first.
+12(6)A member of the Panel referred to in paragraphÂ (2)(b) shall hold office
+until the end of a term established by the Lieutenant-Governor in Council when
+the member is appointed, until the member resigns or ceases to fulfil the
+qualification for membership or until a successor is appointed, whichever
+occurs first.
+12(7)Members of the Panel may be appointed for consecutive terms.
+12(8)Members of the Panel, except those appointed from within the civil
+service, shall be paid the reasonable and necessary travelling and out-of-
+pocket expenses necessarily incurred by the member in discharging the
+memberâ€™s duties as a member of the Panel, and may be paid such daily
+allowance or allowances as the Lieutenant-Governor in Council may from time to
+time establish.
+2004, c.20, s.13; 2006, c.16, s.35
+
+Duties of the Panel
+13(1)The Panel
+(a)shall accept and review all nominations of water for classification as
+Outstanding Natural Waters class and all related documentation and information,
+(b)notwithstanding anything else in this Regulation, may forgo taking the steps
+established in paragraphs (c) to (i) respecting nominations that, in the
+opinion of the Panel, are clearly inappropriate,
+(c)if unsatisfied with any information or documentation provided to it with a
+nomination, may request such further information or documentation as the Panel
+may require and, notwithstanding anything else in this Regulation, may forgo
+taking any further steps until the information or documentation has been
+provided,
+(d)shall give notice of the intended classification, in the form of a public
+notice or public notices published in newspapers having general circulation in
+the area of the watercourse and by any other method the Panel considers
+appropriate, to the public and to such other persons as the Panel considers
+appropriate, indicating that information concerning the intended classification
+is available and can be obtained from the secretary of the Panel,
+(e)shall consult with the public and receive submissions and presentations from
+any governmental agency or person having an interest in the nomination, to the
+extent that appears reasonable to the Panel in the circumstances,
+(f)shall make an evaluation of the suitability of the water being considered
+for classification as Outstanding Natural Waters class, including making an
+assessment of the past, current and potential uses and characteristics of land
+and water within the associated watershed, including the geology, soil,
+vegetation, topography and other aspects of the natural landscape and the
+climate, in terms of their relationship to water quality,
+(g)shall evaluate the submissions and presentations and assess whether or not
+the nominated water and the watercourse meet the criteria set out in
+sectionÂ 5,
+(h)shall select one of the courses of action set out in subsectionÂ (2), and
+(i)may, to the extent that appears reasonable to the Panel in the
+circumstances, consult with the public concerning the course of action it has
+selected under paragraphÂ (h), repeating the steps set out in paragraphs (e) to
+(h) with the necessary modifications.
+13(2)Having carried out the process as required under subsectionÂ (1), the
+Panel shall report to the Minister concerning any evaluation or assessment
+conducted by it under paragraphÂ (1)(f) or (g) and the outcome of any
+consultation with the public under paragraphs (1)(e) or (i), and shall
+(a)recommend to the Minister that the Minister institute the procedure for
+considering the suitability of the water of the watercourse for classification
+as Outstanding Natural Waters class and indicate the reasons for making the
+recommendation, or
+(b)recommend to the Minister that the water of the watercourse not be
+classified as Outstanding Natural Waters class and indicate the reasons for
+making the recommendation.
+
+Procedures of the Panel
+14(1)Subject to this section, to carry out its duties the Panel may establish
+its own rules of procedure, including rules relating to the manner of holding,
+the timing of and the location of, and other matters in relation to, meetings
+and hearings, the reception and consideration of documentation, information,
+submissions and presentations and the making of decisions and recommendations.
+14(2)The Panel shall meet at least twice in each year to carry out its duties,
+except in circumstances where no nominations have been received in the previous
+6 months and where no other business gives rise to a need for a meeting.
+14(3)Four members of the Panel including the chairperson, but not including the
+secretary or alternate secretary, as the case may be, constitute a quorum.
+14(4)The secretary or alternate secretary shall be present at every meeting of
+the Panel.
+14(5)Decisions of the Panel shall be reached by consensus, except in
+circumstances where, in the opinion of the chairperson, a consensus has not
+been reached, in which case a decision shall be that of the majority of members
+present.
+14(6)The chairperson shall not vote on decisions of the Panel except where a
+vote has resulted in a tie.
+14(7)The secretary shall not vote.
+
+Registers
+15(1)Subject to subsectionÂ (2), the Minister shall maintain, in the form
+considered suitable by the Minister, registers of all Water Classification
+Orders and such other information in relation to them as the Minister considers
+appropriate.
+15(2)Registers shall be available for viewing by the public during normal
+business hours at the Ministerâ€™s office, and at the regional offices of the
+Department of Environment that the Minister considers appropriate, and may be
+made available to the public by electronic means.
+2006, c.16, s.35
+
+Mixing zones
+16(1)Subject to the Watershed Protected Area Designation Order, where the
+creation of a new mixing zone is not prohibited in a class of water under
+column 6 of Schedule A, a person may create a new mixing zone in water
+classified under this Regulation as water of that class, if the mixing zone at
+all times meets the standards set out in Schedule B.
+16(2)Subject to the Watershed Protected Area Designation Order, where the
+release of a contaminant into a mixing zone is not prohibited in a class of
+water under column 6 of Schedule A, a person may release a contaminant into a
+mixing zone in water classified as that class under this Regulation, if
+(a)the person, the release and the mixing zone at all times are in compliance
+with any prohibition that is set out in column 6 of Schedule A in relation to
+that class of water, and
+(b)the mixing zone at all times meets the standards set out in Schedule B.
+16(3)Notwithstanding anything else in this Regulation, for the purposes of this
+Regulation, the standards set out in columns 2 to 5 of Schedule A do not apply
+to the water in a mixing zone.
+
+Existing uses
+17Notwithstanding that the water of a watercourse has been classified under
+this Regulation, a person may continue to conduct any existing use of the water
+and the watercourse and may begin to conduct a new use after the classification
+if the person is and remains in compliance with sectionÂ 18, with the Act and
+with all other applicable legislation and with the regulations, orders and by-
+laws under any of them.
+
+Offences
+18(1)Subject to sectionÂ 16, where the water of a watercourse is classified as
+a class under this Regulation and it is meeting any applicable standard for
+that class of water, no person shall affect or use the water, the watercourse
+or any area located within the boundaries of the watershed of the watercourse,
+whether above, on or below the earthâ€™s surface, or cause it to be affected or
+used, so as directly or indirectly to cause the water to cease to meet the
+standard.
+18(2)Subject to sectionÂ 16, where the water of a watercourse is classified as
+a class under this Regulation but it is not meeting any applicable standard for
+that class of water, no person shall affect or use the water, the watercourse
+or any area located within the boundaries of the watershed of the watercourse,
+whether above, on or below the earthâ€™s surface, or cause it to be affected or
+used, so as to impede or stop, directly or indirectly, any progress that the
+quality of the water may have been making or might have made toward meeting any
+of the applicable standards for that class of water.
+18(3)Subject to sectionÂ 16, where the water of a watercourse is classified as
+a class under this Regulation but it is not meeting any applicable standard for
+that class of water, no person shall affect or use the water, the watercourse
+or any area located within the boundaries of the watershed of the watercourse,
+whether above, on or below the earthâ€™s surface, or cause it to be affected or
+used, so as directly or indirectly to cause the water to degrade in relation to
+the standard.
+18(4)If the water of a watercourse is classified as a class under this
+Regulation, no person shall carry out an activity that is prohibited in
+relation to that class under column 6 of Schedule A, in, on or under the water,
+the watercourse or any area located within the boundaries of the watershed of
+the watercourse, whether above, on or below the earthâ€™s surface.
+18(5)No person shall create a new mixing zone, or release a contaminant into a
+mixing zone, in water that is classified as a class under this Regulation, if
+(a)the person, the release or the mixing zone violates or fails to conform with
+any prohibition that is set out in column 6 of Schedule A in relation to that
+class, or
+(b)the mixing zone at any time does not meet the standards set out in Schedule
+B.
+
+Commencement
+19This Regulation comes into force on MarchÂ 1, 2002.
+
+SCHEDULE A
+ 
+Â 
+Quality and Management Standards for, and Prohibited Activities in Relation to,
+the Water of Watercourse by Class
+ 
+Â 
+Column 1    Column 2     Column 3      Column 4     Column 5      Column 6
+                                                    Standards for
+                                                    Trophic
+Name of     Aquatic Life Dissolved     Bacteria     Status (apply Prohibited
+Class       Standards    Oxygen        Standards    only to       activities
+                         Standards                  lakes, ponds
+                                                    and
+                                                    mpoundments)
+                                                                  Release of a
+                                                                  contaminant;
+                         The           The faecal                 creation of a
+            The aquatic  concentration coliform     The trophic   new mixing
+Outstanding life shall   of dissolved  organisms    status shall  zone; release
+Natural     be as        oxygen shall  and E. coli  be as         of a
+Waters      naturally    be as         shall be as  naturally     contaminant
+            occurring.   naturally     naturally    occurring.    into a mixing
+                         occurring.    occurring.                 zone;
+                                                                  significant
+                                                                  withdrawals.
+                                       E. coli
+                         The           shall be as
+            The aquatic  concentration naturally    The trophic
+            life shall   of dissolved  occurring;   status shall
+AP          be as        oxygen shall  the total    be as          
+            naturally    be as         coliform     naturally
+            occurring.   naturally     organisms    occurring.
+                         occurring.    shall be as
+                                       naturally
+                                       occurring.
+                         The
+                         concentration
+                         of dissolved
+                         oxygen for
+                         early life
+                         stages of
+                         cold water
+                         species shall
+                         be equal to                              Direct
+                         or greater                               discharge of
+                         than 9.5 ppm                             a contaminant
+                         and for other              The trophic   that is not
+                         life stages                status shall  being
+                         shall be                   be stable or  released, or
+                         equal to or                naturally     any increase
+                         greater than               changing; the in the volume
+                         6.5 ppm; the               water shall   or
+                         concentration The faecal   be free of    concentration
+            The aquatic  of dissolved  coliform     algae blooms  of a
+            life shall   oxygen for    organisms    that impair   contaminant
+AL          be as        early life    and E. coli  use as        that is being
+            naturally    stages of     shall be as  habitat for   directly
+            occurring.   warm water    naturally    aquatic life, discharged,
+                         species shall occurring.   use for       on the
+                         be equal to                primary       commencement
+                         or greater                 contact       of the
+                         than 6.0 ppm               activity or   Regulation to
+                         and for other              use for       which this
+                         life stages                secondary     Schedule is
+                         shall be                   contact       attached;
+                         equal to or                activity.     creation of a
+                         greater than                             new mixing
+                         5.0 ppm; the                             zone.
+                         dissolved
+                         oxygen
+                         content for
+                         estuarine
+                         waters shall
+                         be equal to
+                         or greater
+                         than 80%
+                         saturation.
+                         The
+                         concentration
+                         of dissolved
+                         oxygen for
+                         early life
+                         stages of
+                         cold water
+                         species shall
+                         be equal to
+                         or greater
+                         than 9.5 ppm
+                         and for other              The trophic
+                         life stages                status shall
+                         shall be                   be stable or
+                         equal to or                naturally
+                         greater than               changing; the
+                         6.5 ppm; the               water shall
+                         concentration              be free of    Creation of a
+            The aquatic  of dissolved               algae blooms  new mixing
+            life shall   oxygen for    E. coli      that impair   zone; release
+A           be as        early life    shall be as  use as        of a
+            naturally    stages of     naturally    habitat for   contaminant
+            occurring.   warm water    occurring.   aquatic life, into a mixing
+                         species shall              use for       zone.
+                         be equal to                primary
+                         or greater                 contact
+                         than 6.0 ppm               activity or
+                         and for other              use for
+                         life stages                secondary
+                         shall be                   contact
+                         equal to or                activity.
+                         greater than
+                         5.0 ppm; the
+                         dissolved
+                         oxygen
+                         content for
+                         estuarine
+                         waters shall
+                         be equal to
+                         or greater
+                         than 80%
+                         saturation.
+                         The
+                         concentration
+                         of dissolved
+                         oxygen for
+                         early life
+                         stages of
+                         cold water
+                         species shall
+                         be equal to
+            Releases     or greater    The faecal
+            shall not    than 9.5 ppm  coliform
+            cause        and for other organisms    The trophic
+            adverse      life stages   shall be     status shall
+            impact to    shall be      less than 14 be stable or
+            the aquatic  equal to or   per 100Â ml. naturally
+            community in greater than  for          changing; the
+            that the     6.5 ppm; the  estuaries    water shall
+            receiving    concentration with         be free of
+            water shall  of dissolved  identified   algae blooms
+            be of        oxygen for    shellfish    that impair
+B           sufficient   early life    beds, and E. use as         
+            quality to   stages of     coli shall   habitat for
+            support all  warm water    be less than aquatic life,
+            indigenous   species shall 200 per      use for
+            aquatic      be equal to   100Â ml for  primary
+            species      or greater    all other    contact
+            without      than 6.0 ppm  watercourses activity or
+            detrimental  and for other (geometric   use for
+            changes to   life stages   mean of a    secondary
+            the resident shall be      minimum of 5 contact
+            biological   equal to or   samples in a activity.
+            community.   greater than  30 day
+                         5.0 ppm; the  period).
+                         dissolved
+                         oxygen
+                         content for
+                         estuarine
+                         waters shall
+                         be equal to
+                         or greater
+                         than 80%
+                         saturation.
+                         The
+                         concentration
+                         of dissolved
+                         oxygen for
+                         early life
+                         stages of
+                         cold water
+                         species shall
+            Releases     be equal to
+            that may     or greater    The faecal
+            cause some   than 9.5 ppm  coliform
+            changes to   and for other organisms    The trophic
+            the aquatic  life stages   shall be     status shall
+            community    shall be      less than 14 be stable or
+            are          equal to or   per 100Â ml  naturally
+            permitted if greater than  for          changing; the
+            the          6.5 ppm; the  estuaries    water shall
+            receiving    concentration with         be free of
+            water is of  of dissolved  identified   algae blooms
+            sufficient   oxygen for    shellfish    that impair
+C           quality to   early life    beds, and E. use as         
+            support      stages of     coli shall   habitat for
+            indigenous   warm water    be less than aquatic life,
+            fish species species shall 400 per      use for
+            and maintain be equal to   100Â ml for  primary
+            the          or greater    all other    contact
+            structure    than 6.0 ppm  watercourses activity or
+            and function and for other (geometric   use for
+            of the       life stages   mean of a    secondary
+            resident     shall be      minimum of 5 contact
+            biological   equal to or   samples in a activity.
+            community    greater than  30 day
+            despite the  5.0 ppm; the  period).
+            releases.    dissolved
+                         oxygen
+                         content for
+                         estuarine
+                         waters shall
+                         be equal to
+                         or greater
+                         than 80%
+                         saturation.
+SCHEDULE B
+Minimum Mixing Zone Standards
+1A mixing zone shall not be of a size, shape or character that impairs or
+interferes with existing and appropriate uses of the receiving water outside
+the mixing zone.
+2A mixing zone of a release in the water of a lake, pond or impoundment in
+existence on the commencement of the Regulation to which this Schedule is
+attached shall not exceed 10 per cent of the volume of the portion of the
+receiving water available for mixing.
+3A mixing zone in a watercourse shall allow an appropriate zone of passage for
+movement and drift of all stages of aquatic life in the water of the
+watercourse and, for materials that elicit an avoidance response from aquatic
+life, the mixing zone shall not occupy more than 25 per cent of the cross-
+sectional area or volume of flow at any transect in the receiving water of the
+watercourse.
+4A mixing zone in a watercourse shall not cause the accumulation of
+contaminants in the sediments or biota of the watercourse to a degree that
+impairs existing or appropriate uses.
+5A mixing zone in a watercourse shall not interfere with, or cause an
+irreversible change in the physical or chemical nature of, spawning grounds,
+nursery areas or migration routes of any aquatic species in the water of the
+watercourse.
+6A mixing zone shall not contain any contaminant so concentrated that, in an
+acute lethality test established by the Minister, it is shown to kill more than
+50 per cent of any test organisms subjected to it during an exposure period
+specific to those test organisms.
+7A mixing zone shall not cause a measurable change in the biological
+characteristics of the community structure of an organism that is an endangered
+species, as defined under the Endangered Species Act, cause such an organism to
+respond in an irreversible or harmful manner, render such an organism more
+vulnerable to predation or cause an irreversible change in the physical or
+chemical nature of the habitat of such an organism.
+8A mixing zone shall not contain any contaminant in a concentration that would
+attract fish, invertebrates or wildlife.
+9A mixing zone in a watercourse shall not overlap with another mixing zone
+existing in the watercourse and, if 2 or more mixing zones are in proximity in
+the watercourse, the minimum mixing zone standards set out in this Schedule
+shall be applied to the 2 mixing zones as though they were combined into one
+zone.
+10Subject to sections 1 to 9 of this Schedule, a mixing zone shall meet the
+limits for linear distances from the point of release, surface area
+involvement, volume of the receiving water entrained in the plume and other
+definable, quantifiable limits established by the Minister that are set out in
+any approval issued in relation to the mixing zone under the Clean Water Act,
+Clean Environment Act or Clean Air Act.
+N.B. This Regulation is consolidated to JuneÂ 22, 2006.

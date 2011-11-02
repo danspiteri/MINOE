@@ -1,0 +1,693 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+       Petroleum Refinery                                               Règlement sur les
+         Liquid Effluent                                             effluents des raffineries
+           Regulations                                                      de pétrole
+
+                      C.R.C., c. 828                                                    C.R.C., ch. 828
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published             31. (1) Every copy of a consolidated statute or            31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies      (3) In the event of an inconsistency between a              (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+CHAPTER 828                                                        CHAPITRE 828
+
+FISHERIES ACT                                                      LOI SUR LES PÊCHES
+
+Petroleum Refinery Liquid Effluent Regulations                     Règlement sur les effluents des raffineries de pétrole
+REGULATIONS  RESPECTING    DELETERIOUS                             RÈGLEMENT CONCERNANT LES SUBSTANCES
+   SUBSTANCES IN LIQUID EFFLUENTS FROM                                NOCIVES PRÉSENTES DANS LES EFFLUENTS
+   PETROLEUM REFINERIES                                               DES RAFFINERIES DE PÉTROLE
+
+                     SHORT TITLE                                                        TITRE ABRÉGÉ
+  1. These Regulations may be cited as the Petroleum                 1. Le présent règlement peut être cité sous le titre :
+Refinery Liquid Effluent Regulations.                              Règlement sur les effluents des raffineries de pétrole.
+
+                  INTERPRETATION                                                      INTERPRÉTATION
+  2. (1) In these Regulations,                                       2. (1) Dans le présent règlement,
+“Act” means the Fisheries Act; (Loi)                               « azote ammoniacal » désigne l’azote que contient l’am-
+“actual deposit” means the aggregate quantity, measured            moniaque provenant de l’exploitation d’une raffinerie de
+in pounds per day, of a deleterious substance prescribed           pétrole, présente dans l’effluent et l’eau de refroidisse-
+in paragraph 4(a), (b), (c), (d) or (e) that is contained in       ment non recyclée de cette raffinerie et dosée au moyen
+all liquid effluent and once-through cooling water and             de la méthode d’essai figurant à l’article 4 du tableau de
+that is actually deposited in any one day by a refinery;           l’annexe IV; (ammonia nitrogen)
+(rejet réel)                                                       « eau de ballast » désigne l’eau transportée dans un ba-
+“ammonia nitrogen” means the nitrogen in ammonia that              teau pour en assurer la stabilité et la navigabilité, y com-
+results from the operation of a refinery, that is contained        pris l’eau employée pour le nettoyage des citernes de
+in liquid effluent or once-through cooling water from              cargaison et des ballasts, et rejetée à la raffinerie avant le
+that refinery and that is determined to be present therein         chargement du bateau; (ballast water)
+by the test method referred to in item 4 of the table to           « eau de refroidissement non recyclée » désigne, sous ré-
+Schedule IV; (azote ammoniacal)                                    serve du paragraphe (3), l’eau qui n’est passée qu’une
+“authorized deposit” means the aggregate quantity, mea-            seule fois dans des échangeurs de chaleur simples ou en
+sured in pounds per day, of a deleterious substance pre-           série pour refroidir les eaux de traitement et qui n’est pas
+scribed in paragraph 4(a), (b), (c), (d) or (e) that is con-       destinée à entrer en contact avec ces dernières; (once-
+tained in all liquid effluent and once-through cooling             through cooling water)
+water and that may be deposited in any one day by a re-            « eau de traitement » désigne l’eau qui entre en contact
+finery under the authority of these Regulations; (rejet            avec les hydrocarbures ou les produits chimiques de trai-
+autorisé)                                                          tement à la raffinerie; (process water)
+“ballast water” means water, carried in a vessel for sta-          « eaux pluviales » désigne, sous réserve du para-
+bility and seaworthiness, that is discharged from the ves-         graphe (2), le ruissellement des précipitations qui
+sel to a refinery prior to loading the vessel and includes         tombent sur la raffinerie et comprend le ruissellement
+water used for cargo or ballast tank cleaning; (eau de             provenant de l’extérieur de la raffinerie qui passe sur la
+ballast)                                                           propriété de cette raffinerie; (storm water)
+
+
+
+
+                                                               1
+                                          C.R.C., c. 828 — October 6, 2010
+
+
+
+
+“crude oil” means virgin or naturally occurring unrefined         « effluent » désigne, sous réserve du paragraphe (3), les
+petroleum and any hydrocarbons or mixture of hydrocar-            eaux usées, y compris les eaux de traitement, les eaux de
+bons similar in composition to petroleum brought into a           purge d’une tour de refroidissement, les vidanges de ci-
+refinery for processing, but does not include hydrocar-           ternes, les eaux de ballasts, les eaux pluviales, les dé-
+bons and residual fuels brought into a refinery primarily         chets des installations de traitement des eaux et les eaux
+to meet the fuel requirements of that refinery or primari-        de ruissellement provenant des terrains où sont évacuées
+ly for direct blending into finished products; (pétrole           des eaux usées et des boues issues de l’exploitation
+brut)                                                             d’une raffinerie; (liquid effluent)
+“day” means a period of 24 consecutive hours; (jour)              « huiles et graisses » désigne les substances provenant de
+“deposit” means to deposit or permit the deposit in water         l’exploitation d’une raffinerie et présentes dans l’effluent
+frequented by fish; (rejeter)                                     ou dans l’eau de refroidissement non recyclée de la raffi-
+                                                                  nerie, et qui sont dosées selon la méthode d’essai indi-
+“liquid effluent” means, subject to subsection (3), waste         quée à l’article 1 du tableau de l’annexe IV; (oil and
+water and includes process water, cooling tower blow-             grease)
+down, tank draining, ballast water, storm water, wastes
+from water treatment facilities and run-off from land             « jour » désigne une période de 24 heures consécutives;
+used for the disposition of waste water and sludges asso-         (day)
+ciated with the operation of a refinery; (effluent)               « Loi » désigne la Loi sur les pêcheries; (Act)
+“Minister” means the Minister of the Environment; (mi-            « matières en suspension de toute nature » désigne les ré-
+nistre)                                                           sidus non filtrables provenant de l’exploitation d’une
+“oil and grease” means the oil and grease that results            raffinerie et présents dans l’effluent ou l’eau de refroi-
+from the operation of a refinery, that is contained in liq-       dissement non recyclée de cette raffinerie, dosées selon
+uid effluent or once-through cooling water from that re-          la méthode d’essai indiquée à l’article 5 du tableau de
+finery and that is determined to be present therein by the        l’annexe IV; (total suspended matter)
+test method referred to in item 1 of the table to Sched-          « ministre » désigne le ministre des Pêches et des
+ule IV; (huiles et graisses)                                      Océans; (Minister)
+“once-through cooling water” means, subject to subsec-            « pétrole brut » désigne le pétrole naturel non raffiné et
+tion (3), water that has been circulated once through heat        tout hydrocarbure ou mélange d’hydrocarbures de com-
+exchangers, either singly or in series, for the purpose of        position semblable à celle du pétrole livré à une raffine-
+removing heat from process streams and that is not in-            rie pour traitement, mais ne comprend pas les hydrocar-
+tended to come into contact with the process streams;             bures et combustibles résiduaires livrés à une raffinerie
+(eau de refroidissement non recyclée)                             principalement pour satisfaire aux besoins en combus-
+“owner” means the owner or operator of a refinery or his          tible de la raffinerie ou pour les mélanger directement à
+authorized representative; (propriétaire)                         des produits finis; (crude oil)
+
+“phenols” means the hydroxy derivatives of benzene and            « phénols » désigne les dérivés hydroxylés du benzène et
+its condensed nuclei that result from the operation of a          de ses noyaux condensés provenant de l’exploitation
+refinery, that are contained in liquid effluent or once-          d’une raffinerie et présents dans l’effluent ou dans l’eau
+through cooling water from that refinery and that are de-         de refroidissement non recyclée de cette raffinerie, dosés
+termined to be present therein by the test method re-             selon la méthode d’essai indiquée à l’article 2 du tableau
+ferred to in item 2 of the table to Schedule IV; (phénols)        de l’annexe IV; (phenols)
+
+
+
+
+                                                              2
+                                           C.R.C., ch. 828 — 6 octobre 2010
+
+
+
+
+“process water” means water that is intended to come in-           « propriétaire » désigne le propriétaire ou l’exploitant
+to contact with hydrocarbons or treating chemicals at a            d’une raffinerie ou son représentant autorisé; (owner)
+refinery; (eau de traitement)                                      « raffinerie » désigne les installations destinées principa-
+“reference crude rate” means the quantity of crude oil,            lement à la séparation et à la conversion du pétrole brut
+expressed in thousand barrels per day, that, in accor-             en produits comme le gaz de pétrole liquéfié, les es-
+dance with section 6, has been declared by the owner of            sences, les naphtes, les huiles de chauffage et autres
+a refinery to be the reference crude rate of the refinery;         huiles combustibles, les asphaltes, les huiles et graisses
+(taux de référence de brut)                                        lubrifiantes, le benzène, le toluène, le xylène, l’hydro-
+“refinery” means facilities intended primarily for the             gène, le soufre et le coke, de même que les installations
+separation and conversion of crude oil into products, in-          de mélange, d’expédition et d’emballage situées dans la
+cluding liquified petroleum gas, gasolines, naphthas,              propriété de la raffinerie, et comprend toutes les proprié-
+heating oils, fuel oils, asphalts, lubricating oils and            tés aménagées en vue de l’exploitation de ces installa-
+greases, benzene, toluene, xylene, hydrogen, sulphur and           tions, mais ne comprend pas les installations qui se rap-
+coke, and includes blending, shipping and packaging fa-            portent au traitement du gaz naturel et à la production du
+cilities located on the refinery property and all properties       pétrole synthétique à partir du charbon ou de sables bitu-
+developed for the operation of those facilities, but does          mineux; (refinery)
+not include facilities associated with the processing of           « rejet autorisé » désigne la quantité totale, mesurée en
+natural gas or the production of synthetic petroleum               livres par jour, d’une substance nocive désignée à l’ali-
+originating from coal or bituminous sands; (raffinerie)            néa 4a), b), c), d) ou e) qui est présente dans tous les ef-
+“storm water” means, subject to subsection (2), water              fluents et l’eau de refroidissement non recyclée et qui
+run-off that results from precipitation of any kind that           peut être rejetée en une journée par une raffinerie en ver-
+falls on a refinery and includes water run-off originating         tu du présent règlement; (authorized deposit)
+from outside the refinery that passes over or through the          « rejeter » signifie déposer ou permettre que soit déposée
+refinery; (eaux pluviales)                                         une substance dans des eaux fréquentées par le poisson;
+“stream day crude rate” means the rate, in barrels per             (deposit)
+day, at which crude oil is processed in a refinery; (taux          « rejet réel » désigne la quantité totale, mesurée en livres
+de brut par jour de fonctionnement effectif)                       par jour, d’une substance nocive désignée à l’alinéa 4a),
+“sulfide” means dissolved sulfide that results from the            b), c), d) ou e) qui est présente dans les effluents et l’eau
+operation of a refinery that is contained in liquid effluent       de refroidissement non recyclée et qui est réellement re-
+or once-through water from that refinery and that is de-           jetée en une journée par une raffinerie de pétrole; (actual
+termined to be present therein by the test method re-              deposit)
+ferred to in item 3 of the table to Schedule IV; (sulfures)        « sulfures » désigne les sulfures dissous provenant de
+“total suspended matter” means the non-filterable                  l’exploitation d’une raffinerie et présents dans l’effluent
+residue that results from the operation of a refinery, that        ou l’eau de refroidissement non recyclée de la raffinerie,
+is contained in liquid effluent or once-through cooling            dosés selon la méthode d’essai indiquée à l’article 3 du
+water from that refinery and that is determined to be              tableau de l’annexe IV; (sulfide)
+present therein by the test method referred to in item 5 of        « taux de brut par jour de fonctionnement effectif » dé-
+the table to Schedule IV. (matières en suspension de               signe la quantité de pétrole brut traitée dans la raffinerie,
+toute nature)                                                      en barils par jour; (stream day crude rate)
+
+
+
+
+                                                               3
+                                          C.R.C., c. 828 — October 6, 2010
+
+
+
+
+                                                                 « taux de référence de brut » désigne la quantité de pé-
+                                                                 trole brut, exprimée en milliers de barils par jour, qui,
+                                                                 conformément à l’article 6, a été déclarée par le proprié-
+                                                                 taire d’une raffinerie comme taux de référence de brut de
+                                                                 la raffinerie. (reference crude rate)
+   (2) When storm water is protected, in such manner as             (2) Lorsque les eaux pluviales sont protégées, d’une
+the Minister may approve in writing, from contamination          façon que le ministre a approuvée par écrit, de la conta-
+by the deleterious substances prescribed in section 4 that       mination par les substances nocives désignées à l’ar-
+originate from the refinery, the storm water shall be            ticle 4 et provenant de la raffinerie, elles ne sont pas cen-
+deemed not to be storm water for the purpose of these            sées être des eaux pluviales aux fins du présent
+Regulations.                                                     règlement.
+   (3) When, prior to being deposited, liquid effluent or           (3) Lorsque l’effluent et l’eau de refroidissement non
+once-through cooling water has been treated, in such             recyclée, avant d’être rejetés, ont été traités, d’une façon
+manner as the Minister may approve in writing, at a site         que le ministre a approuvée par écrit, à l’extérieur de la
+outside a refinery for the purpose of removing therefrom         raffinerie afin d’en extraire les substances nocives dési-
+the deleterious substances prescribed in section 4, the          gnées à l’article 4, l’effluent ou l’eau de refroidissement
+liquid effluent or once-through cooling water shall be           non recyclée ne sont plus censés être un effluent ou une
+deemed not to be liquid effluent or once-through cooling         eau de refroidissement non recyclée aux fins du présent
+water for the purpose of these Regulations.                      règlement.
+
+                    APPLICATION                                                       APPLICATION
+   3. These Regulations apply to every refinery that has            3. Le présent règlement s’applique à toutes les raffi-
+not commenced the processing of crude oil prior to               neries qui n’ont pas commencé à traiter le pétrole brut
+November 1, 1973 and that commences the processing               avant le 1er novembre 1973 et qui commenceront à le
+of crude oil on or after that date.                              traiter à cette date ou après.
+
+  SUBSTANCES PRESCRIBED AS DELETERIOUS                           SUBSTANCES DÉSIGNÉES COMME SUBSTANCES
+              SUBSTANCES                                                        NOCIVES
+  4. For the purpose of paragraph (c) of the definition             4. Aux fins de l’alinéa c) de la définition de « sub-
+“deleterious substance” in subsection 33(11) of the Act,         stance nocive » donnée au paragraphe 33(11) de la Loi,
+the following substances are prescribed as deleterious           les substances ci-après sont désignées comme substances
+substances;                                                      nocives :
+  (a) oil and grease;                                              a) les huiles et graisses;
+  (b) phenols;                                                     b) les phénols;
+  (c) sulfide;                                                     c) les sulfures;
+  (d) ammonia nitrogen;                                            d) l’azote ammoniacal;
+  (e) total suspended matter; and                                  e) les matières en suspension de toute nature; et
+  (f) any substance capable of altering the pH of liquid           f) toute substance susceptible de modifier le pH de
+  effluent or once-through cooling water.                          l’effluent ou de l’eau de refroidissement non recyclée.
+
+
+
+
+                                                             4
+                                           C.R.C., ch. 828 — 6 octobre 2010
+
+
+
+
+   AUTHORIZED DEPOSIT OF A DELETERIOUS                              REJET AUTORISÉ D’UNE SUBSTANCE NOCIVE
+               SUBSTANCE
+   5. (1) Subject to these Regulations, the owner of a re-            5. (1) Sous réserve du présent règlement, le proprié-
+finery may deposit a deleterious substance prescribed in           taire d’une raffinerie est autorisé à rejeter une substance
+paragraph 4(a), (b), (c), (d) or (e) if                            nocive désignée à l’alinéa 4a), b), c), d) ou e), à condi-
+  (a) the arithmetic mean of the actual deposits of each           tion que
+  such substance during the month in which the deposit               a) la moyenne arithmétique des rejets réels de chaque
+  is made does not exceed the arithmetic mean of the                 substance, pendant le mois au cours duquel elle est re-
+  authorized deposits of that substance in the same                  jetée, ne dépasse pas la moyenne arithmétique des re-
+  month for the refinery, as calculated in accordance                jets autorisés de cette substance, pour la raffinerie, du-
+  with section 7;                                                    rant le même mois, calculés conformément à
+  (b) the actual deposit of each such substance deposit-             l’article 7;
+  ed in each day by the refinery does not exceed, for                b) le rejet réel de la raffinerie de chacune de ces sub-
+  more than one day in each month, the authorized de-                stances, par jour, ne dépasse pas, pour plus de un jour
+  posit of that substance for the refinery, as calculated in         par mois, le rejet autorisé de cette substance, pour la
+  accordance with subsection 8(1); and                               raffinerie, calculé conformément au paragraphe 8(1);
+  (c) the actual deposit of each such substance deposit-             et
+  ed in each day by the refinery does not exceed the au-             c) le rejet réel de la raffinerie de chacune de ces sub-
+  thorized deposit of that substance for the refinery as             stances, par jour, ne dépasse pas le rejet autorisé de
+  calculated in accordance with subsection 8(2).                     cette substance, pour la raffinerie, calculé conformé-
+                                                                     ment au paragraphe 8(2).
+   (2) Subject to these Regulations, the owner of a refin-            (2) Sous réserve du présent règlement, le propriétaire
+ery may deposit the deleterious substance prescribed in            d’une raffinerie peut rejeter la substance nocive désignée
+paragraph 4(f) if the pH of the liquid effluent or once-           à l’alinéa 4f) si le pH de l’effluent ou de l’eau de refroi-
+through cooling water is within the limits of 6.0 and 9.5.         dissement non recyclée se situe entre 6,0 et 9,5.
+   (3) Subject to these Regulations, the owner of a refin-           (3) Sous réserve du présent règlement, le propriétaire
+ery may deposit a deleterious substance prescribed in              d’une raffinerie peut rejeter une substance nocive dési-
+paragraph 4(a), (b) or (e), if the aggregate quantity of           gnée à l’alinéa 4a), b) ou e) si la quantité totale de cette
+that substance contained in storm water being deposited            substance présente dans les eaux pluviales rejetées
+in any month does not exceed the limit of the deposit au-          chaque mois ne dépasse pas les limites du rejet autorisé
+thorized of that substance in the same month for the re-           de cette substance, pour la raffinerie, au cours du même
+finery, as calculated in accordance with subsection 9(2).          mois, calculées conformément au paragraphe 9(2).
+
+            REFERENCE CRUDE RATES                                             TAUX DE RÉFÉRENCE DE BRUT
+   6. (1) When the owner of a refinery intends to de-                 6. (1) Lorsque le propriétaire d’une raffinerie a l’in-
+posit a deleterious substance prescribed in para-                  tention de rejeter une substance nocive désignée à l’ali-
+graph 4(a), (b), (c), (d) or (e), he shall, before making          néa 4a), b), c), d) ou e), il doit, avant d’effectuer le rejet,
+the deposit, sign, date and forward to the Minister a dec-         envoyer au ministre, dans les formes prescrites par ce
+laration, in such form as the Minister may prescribe,              dernier, une déclaration signée et datée, indiquant le taux
+stating the reference crude rate of the refinery.                  de référence de brut de la raffinerie.
+
+
+
+
+                                                               5
+                                           C.R.C., c. 828 — October 6, 2010
+
+
+
+
+  (2) For the purpose of subsection (1), the reference                (2) Aux fins du paragraphe (1), le taux de référence
+crude rate of a refinery is the maximum design stream              de brut d’une raffinerie est le taux maximum de brut
+day crude rate of the refinery, divided by 1,000.                  d’une raffinerie par jour de fonctionnement effectif, divi-
+                                                                   sé par 1 000.
+   (3) The owner of a refinery may revise the reference               (3) Le propriétaire d’une raffinerie peut réviser le
+crude rate of the refinery at any time by signing, dating          taux de référence de brut en tout temps, en envoyant au
+and forwarding to the Minister a declaration, in such              ministre, dans les formes prescrites par ce dernier, une
+form as the Minister may prescribe, stating the revised            déclaration signée et datée, indiquant le taux de réfé-
+reference crude rate of the refinery.                              rence de brut révisé.
+   (4) The owner of a refinery that deposits a deleterious            (4) Le propriétaire d’une raffinerie qui rejette une
+substance prescribed in paragraph 4(a), (b), (c), (d) or (e)       substance nocive désignée à l’alinéa 4a), b), c), d) ou e),
+shall revise the reference crude rate of the refinery if the       doit réviser le taux de référence de brut de la raffinerie si
+arithmetic mean of the stream day crude rates during any           la moyenne arithmétique des taux de brut par jour de
+two consecutive months, divided by 1,000, excluding                fonctionnement effectif durant deux mois consécutifs,
+days when crude rates have been reduced due to refinery            divisée par 1 000, à l’exclusion des jours où les taux de
+maintenance, is less than 85 per cent of the last declared         brut ont été réduits pour permettre l’entretien de la raffi-
+reference crude rate of the refinery and shall sign, date          nerie, est de moins de 85 pour cent du dernier taux de ré-
+and forward a declaration, in such form as the Minister            férence de brut officiel de la raffinerie et doit envoyer au
+may prescribe, stating the revised reference crude rate of         ministre, dans les formes prescrites par ce dernier, une
+the refinery.                                                      déclaration signée et datée, indiquant le taux de réfé-
+                                                                   rence de brut révisé de la raffinerie.
+   (5) For the purpose of subsection (3), the revised ref-            (5) Aux fins du paragraphe (3), le taux de référence
+erence crude rate of a refinery is the arithmetic mean of          de brut révisé d’une raffinerie est la moyenne arithmé-
+stream day crude rates sustained in commercial opera-              tique des taux de brut par jour de fonctionnement effectif
+tion for at least seven consecutive days, divided by               au cours de l’exploitation commerciale soutenue d’au
+1,000.                                                             moins sept jours consécutifs, divisée par 1 000.
+   (6) For the purpose of subsection (4), the revised ref-            (6) Aux fins du paragraphe (4), le taux de référence
+erence crude rate of a refinery is the arithmetic mean of          de brut révisé d’une raffinerie est la moyenne arithmé-
+stream day crude rates sustained in commercial opera-              tique des taux de brut par jour de fonctionnement effectif
+tion for at least 14 consecutive days, divided by 1,000.           au cours de l’exploitation commerciale soutenue d’au
+                                                                   moins 14 jours consécutifs, divisée par 1 000.
+   (7) The revised reference crude rate of a refinery                 (7) Le taux de référence de brut révisé d’une raffine-
+takes effect on the first day of the month in which it is          rie est en vigueur le premier jour du mois au cours du-
+declared.                                                          quel il est déclaré.
+
+   CALCULATION OF AUTHORIZED DEPOSITS                                       CALCUL DES REJETS AUTORISÉS
+   7. (1) For the purpose of paragraph 5(1)(a), the arith-            7. (1) Aux fins de l’alinéa 5(1)a), la moyenne arith-
+metic mean of the authorized deposits for a refinery for a         métique des rejets autorisés pour une raffinerie, pour une
+month shall be calculated using the amounts obtained in            période d’un mois, doit être calculée à l’aide des quanti-
+the calculations made under subsection (2).                        tés obtenues par les calculs effectués aux termes du para-
+                                                                   graphe (2).
+
+
+
+                                                               6
+                                          C.R.C., ch. 828 — 6 octobre 2010
+
+
+
+
+   (2) The authorized deposit for a refinery of a deleteri-          (2) Le rejet autorisé, pour une raffinerie, d’une sub-
+ous substance prescribed in paragraph 4(a), (b), (c), (d)         stance nocive désignée à l’alinéa 4a), b), c), d) ou e) doit
+or (e) shall, subject to section 9, be calculated for each        être calculé, sous réserve de l’article 9, pour chaque jour,
+day by multiplying the amount in Column II of an item             en multipliant la quantité indiquée à l’un des articles de
+of Schedule I for the deleterious substance set out in            l’annexe I, dans la colonne II, pour la substance nocive
+Column I of that item by the reference crude rate of the          indiquée à cet article, dans la colonne, I, par le taux de
+refinery for that month.                                          référence de brut de la raffinerie pour ce même mois.
+   8. (1) For the purpose of paragraph 5(1)(b), the au-              8. (1) Aux fins de l’alinéa 5(1)b), le rejet autorisé,
+thorized deposit for a refinery of a deleterious substance        pour une raffinerie, d’une substance désignée à l’ali-
+prescribed in paragraph 4(a), (b), (c), (d) or (e) shall,         néa 4a), b), c), d) ou e), doit être calculé sous réserve de
+subject to section 9, be calculated by multiplying the            l’article 9, en multipliant la quantité indiquée à l’un des
+amount set out in Column III of an item of Schedule I             articles de l’annexe I, dans la colonne III, pour la sub-
+for the deleterious substance set out in Column I of that         stance nocive indiquée à cet article, dans la colonne I,
+item by the reference crude rate of the refinery for that         par le taux de référence de brut de la raffinerie pour ce
+month.                                                            même mois.
+   (2) For the purpose of paragraph 5(1)(c), the autho-              (2) Aux fins de l’alinéa 5(1)c), le rejet autorisé, pour
+rized deposit for a refinery of a deleterious substance           une raffinerie, d’une substance nocive désignée à l’ali-
+prescribed in paragraph 4(a), (b), (c), (d) or (e) shall,         néa 4a), b), c), d) ou e), doit être calculé, sous réserve de
+subject to section 9, be calculated by multiplying the            l’article 9, en multipliant la quantité indiquée à l’un des
+amount set out in Column IV of an item of Schedule I              articles de l’annexe I, dans la colonne IV, pour la sub-
+for the deleterious substance set out in Column I of that         stance nocive indiquée à cet article, dans la colonne I,
+item by the reference crude rate of the refinery for that         par le taux de référence de brut de la raffinerie pour ce
+month.                                                            même mois.
+   9. (1) When storm water is deposited by a refinery in             9. (1) Lorsque des eaux pluviales sont évacuées par
+any day, the authorized deposit for the refinery of a dele-       une raffinerie un certain jour, le rejet autorisé pour la raf-
+terious substance prescribed in paragraph 4(a), (b) or (e),       finerie, d’une substance nocive, désignée à l’alinéa 4a),
+calculated in accordance with sections 7 and 8, may be            b) ou e), calculé conformément aux articles 7 et 8, peut
+increased for that day by the amount set out in Col-              être augmenté, pour ce jour, de la quantité indiquée à
+umn II of an item of Schedule II for the deleterious sub-         l’un des articles de l’annexe II, dans la colonne II, pour
+stance set out in Column I of that item for each                  la substance nocive indiquée à cet article dans la co-
+10,000 Canadian gallons of storm water that is deposit-           lonne I, pour chaque quantité de 10 000 gallons cana-
+ed.                                                               diens d’eaux pluviales évacuées.
+   (2) The limit of the deposit authorized in pounds per             (2) La limite du rejet autorisé, en livres par mois,
+month of a deleterious substance prescribed in para-              d’une substance nocive désignée à l’alinéa 4a), b) ou e),
+graph 4(a), (b) or (e) contained in storm water being de-         présente dans les eaux pluviales évacuées par la raffine-
+posited by a refinery in any month shall be calculated by         rie en un mois, doit être calculée en multipliant la quanti-
+multiplying the amount set out in Column III of an item           té indiquée à l’un des articles de l’annexe II, dans la co-
+of Schedule II for the deleterious substance set out in           lonne III, pour la substance nocive indiquée à cet article,
+Column I of that item by the reference crude rate of the          dans la colonne I, par le taux de référence de brut de la
+refinery for that month.                                          raffinerie pour ce même mois.
+
+
+
+
+                                                              7
+                                           C.R.C., c. 828 — October 6, 2010
+
+
+
+
+      CALCULATION OF ACTUAL DEPOSITS                                           CALCUL DES REJETS RÉELS
+   10. For the purposes of subsection 5(1), when the                  10. Aux fins du paragraphe 5(1), lorsque le proprié-
+owner of a refinery deposits a deleterious substance pre-          taire d’une raffinerie rejette une substance nocive dési-
+scribed in paragraph 4(a), (b), (c), (d) or (e), he shall,         gnée à l’alinéa 4a), b), c), d) ou e), il doit, dans les 30
+within 30 days after the end of the month in which the             jours de la fin du mois pendant lequel le rejet a eu lieu,
+deposit is made, determine for that month the actual de-           déterminer pour ce mois le rejet réel de chaque substance
+posit of each substance deposited by the refinery by               nocive rejetée par la raffinerie en effectuant les mesures
+making the measurements and calculations in accor-                 et les calculs conformément à l’annexe IV.
+dance with Schedule IV.
+   11. The owner of a refinery that deposits the deleteri-            11. Le propriétaire d’une raffinerie qui rejette la sub-
+ous substance prescribed in paragraph 4(f) shall, every            stance nocive désignée à l’alinéa 4f), doit, chaque jour
+day in the month during which the deposit is made or               du mois pendant lequel le rejet a lieu ou lorsque le mi-
+when requested by the Minister, monitor the deposit for            nistre le demande contrôler le rejet, aux fins du para-
+the purpose of subsection 5(2) by performing the test re-          graphe 5(2), par la méthode indiquée à l’annexe III.
+ferred to in Schedule III.
+
+                      REPORTING                                                           RAPPORT
+   12. (1) The owner of a refinery that has deposited a               12. (1) Le propriétaire d’une raffinerie qui, au cours
+deleterious substance prescribed in section 4 in any               d’un mois, a rejeté une substance nocive désignée à l’ar-
+month shall sign, date and forward to the Minister within          ticle 4 doit envoyer au ministre, dans les 30 jours de la
+30 days after the end of that month or when requested by           fin de ce mois ou lorsque le ministre le demande, un rap-
+the Minister, a report, in such form as the Minister may           port établi en la forme prescrite par ce dernier, daté, si-
+prescribe, indicating                                              gné et indiquant
+  (a) the arithmetic mean of the authorized deposits of              a) la moyenne arithmétique des rejets autorisés de
+  that substance in that month for the refinery as calcu-            cette substance pour la raffinerie au cours de ce mois,
+  lated in accordance with section 7 and, where applica-             calculée conformément à l’article 7 et, s’il y a lieu, à
+  ble, section 9;                                                    l’article 9;
+  (b) the authorized deposits of that substance in each              b) les rejets autorisés de cette substance pour la raffi-
+  day of that month for the refinery as calculated in ac-            nerie, pour chaque jour du mois, calculés conformé-
+  cordance with sections 7 and 8 and, where applicable,              ment aux articles 7 et 8 et, s’il y a lieu, à l’article 9;
+  section 9;                                                         c) les rejets réels de la substance nocive désignée à
+  (c) the actual deposits of the deleterious substance               l’alinéa 4a), b), c), d) ou e) et rejetée chaque jour du
+  prescribed in paragraph 4(a), (b), (c), (d) or (e) de-             mois par la raffinerie, calculés conformément à l’an-
+  posited in each day of that month by the refinery as               nexe IV;
+  calculated in accordance with Schedule IV;                         d) la moyenne arithmétique des rejets réels de la sub-
+  (d) the arithmetic mean of the actual deposits of the              stance nocive désignée à l’alinéa 4a), b), c), d) ou e) et
+  deleterious substance prescribed in paragraph 4(a),                rejetée au cours du mois par la raffinerie, calculée
+  (b), (c), (d) or (e) deposited in that month by the refin-         conformément à l’annexe IV;
+  ery as calculated in accordance with Schedule IV;                  e) le pH des échantillons composites, mesuré confor-
+                                                                     mément à l’annexe III;
+
+
+
+                                                               8
+                                          C.R.C., ch. 828 — 6 octobre 2010
+
+
+
+
+  (e) the pH of composite samples measured in accor-               f) le taux de référence de brut de la raffinerie au cours
+  dance with Schedule III;                                         du mois; et
+  (f) the reference crude rate of the refinery in that             g) tout autre renseignement que le ministre peut de-
+  month; and                                                       mander pour juger si la raffinerie est exploitée confor-
+  (g) such other information as may be requested by the            mément aux prescriptions du présent règlement.
+  Minister to enable him to determine whether the refin-
+  ery is operating in compliance with the requirements
+  of these Regulations.
+   13. The owner of a refinery that deposits a deleterious           13. Le propriétaire d’une raffinerie qui rejette une
+substance prescribed in section 4 shall install and main-        substance nocive désignée à l’article 4 doit installer et
+tain facilities including sampling connections and flow-         entretenir des appareils, y compris des raccords d’échan-
+measuring devices that are acceptable to the Minister to         tillonnage et des débitmètres, que le ministre juge accep-
+enable the Minister to determine whether the refinery is         tables et qui permettent à ce dernier de juger si la raffine-
+operating in compliance with the requirements of these           rie est exploitée conformément aux prescriptions du
+Regulations.                                                     présent règlement.
+
+
+
+
+                                                             9
+                                                        C.R.C., c. 828 — October 6, 2010
+
+
+
+
+                              SCHEDULE I                                                                           ANNEXE I
+                               (ss. 7 and 8)                                                                       (art. 7 et 8)
+
+     AMOUNTS TO BE USED IN CALCULATING AUTHORIZED                                          QUANTITÉS SERVANT À CALCULER LES REJETS
+         DEPOSITS OF DELETERIOUS SUBSTANCES                                                   AUTORISÉS DE SUBSTANCES NOCIVES
+
+       Column I       Column II          Column III         Column IV                       Colonne I     Colonne II        Colonne III       Colonne IV
+                      Monthly amount     One day amount     Maximum daily                                 Quantité          Quantité          Quantité maximale
+     Name of          in pounds per      in pounds per      amount in pounds                              mensuelle en      quotidienne en    quotidienne en
+     Deleterious      1,000 barrels of   1,000 barrels of   per 1,000 barrels                Nom de la    livres par        livres par        livres par
+Item Substance        crude oil          crude oil          of crude oil                     substance    1 000 barils de   1 000 barils de   1 000 barils de
+                                                                                     Article nocive       pétrole brut      pétrole brut      pétrole brut
+1.     Oil and Grease 3.0                5.5                7.5
+                                                                                     1.     Huiles et     3,0               5,5               7,5
+2.     Phenols        0.3                0.55               0.75
+                                                                                            graisses
+3.     Sulfide        0.1                0.3                0.5
+                                                                                     2.     Phénols       0,3               0,55              0,75
+4.     Ammonia        3.6                5.7                7.2
+                                                                                     3.     Sulfures      0,1               0,3               0,5
+       Nitrogen
+                                                                                     4.     Azote      3,6                  5,7               7,2
+5.     Total          7.2                12.0               15.0
+                                                                                            ammoniacal
+       Suspended
+       Matter                                                                        5.     Matières en   7,2               12,0              15,0
+                                                                                            suspension
+                                                                                            de toute
+                                                                                            nature
+
+
+
+
+                                                                                10
+                                                 C.R.C., ch. 828 — 6 octobre 2010
+
+
+
+
+                             SCHEDULE II                                                                   ANNEXE II
+                                (s. 9)                                                                       (art. 9)
+
+ AMOUNTS TO BE USED IN CALCULATING ADDITIONAL                                     QUANTITÉS SERVANT À CALCULER LES REJETS
+ AUTHORIZED DEPOSITS OF DELETERIOUS SUBSTANCES                                    SUPPLÉMENTAIRES AUTORISÉS ET LES LIMITES
+WHEN STORM WATER IS BEING DISCHARGED AND LIMITS                                AUTORISÉES DES REJETS DE SUBSTANCES NOCIVES EN
+            OF DEPOSITS AUTHORIZED                                                  CAS D’ÉVACUATION DES EAUX PLUVIALES
+
+       Column I              Column II          Column III                           Colonne I             Colonne II        Colonne III
+                             Pounds per                                                                   Livres par
+                             10,000 Canadian    Pounds per month per                                      10 000 gallons     Livres par mois, par
+       Name of Deleterious   Gallons of Storm   1,000 barrels of crude                Nom de la substance canadiens d’eaux   1 000 barils de pétrole
+Item   Substance             Water              oil per day                   Article nocive              pluviales          brut par jour
+1.     Oil and Grease        1.0                25.0                          1.     Huiles et graisses    1,0               25,0
+
+2.     Phenols               0.1                2.5                           2.     Phénols               0,1               2,5
+
+3.     Total Suspended       3.0                75.0                          3.     Matières en           3,0               75,0
+       Matter                                                                        suspension de toute
+                                                                                     nature
+
+
+
+
+                                                                         11
+                                                 C.R.C., c. 828 — October 6, 2010
+
+
+
+
+                          SCHEDULE III                                                                  ANNEXE III
+                      (ss. 11, 12 and Sch. IV)                                                    (art. 11 et 12 et ann. IV)
+
+                    MEASUREMENT OF PH                                                                MESURE DU PH
+  1. The pH of composite samples obtained from each liquid efflu-             1. Le pH des échantillons composites prélevés à chaque point de
+ent outfall and from the once-through cooling water shall be deter-        rejet d’effluent et d’eau de refroidissement non recyclée doit être dé-
+mined using                                                                terminé
+  (a) the test method prescribed in section 221 of the publication           a) par la méthode d’essai décrite à la section 221 de la publication
+  Standard Methods for the Examination of Water and Waste Water,             intitulée Standard Methods for the Examination of Water and
+  13th edition (1971), published jointly by the American Public              Waste Water, 13e édition (1971), publiée conjointement par l’Ame-
+  Health Association, American Water Works Association and the               rican Public Health Association, l’American Water Works Asso-
+  Water Pollution Control Federation; or                                     ciation et la Water Pollution Control Federation; ou
+  (b) another equivalent method, approved in writing by the Minis-           b) par une méthode équivalente, approuvée par écrit par le mi-
+  ter, the results of which can be confirmed by the method referred          nistre, et dont les résultats peuvent être confirmés par la méthode
+  to in paragraph (a).                                                       dont il est question à l’alinéa a).
+ 2. For the purpose of section 1, “composite sample” has the same            2. Aux fins de l’article 1, « échantillon composite » a la même si-
+meaning as in subsection 2(2) of Schedule IV.                              gnification qu’au paragraphe 2(2) de l’annexe IV.
+
+
+
+
+                                                                      12
+                                                     C.R.C., ch. 828 — 6 octobre 2010
+
+
+
+
+                            SCHEDULE IV                                                                        ANNEXE IV
+                           (ss. 2, 10 and 12)                                                                 (art. 2, 10 et 12)
+
+MEASUREMENT AND CALCULATION OF ACTUAL DEPOSIT                                      MESURE ET CALCUL DU REJET RÉEL D’UNE SUBSTANCE
+   OF A DELETERIOUS SUBSTANCE PRESCRIBED IN                                         NOCIVE DÉSIGNÉE À L’ALINÉA 4A), B), C), D) OU E) DU
+ PARAGRAPH 4(A), (B), (C), (D) OR (E) OF REGULATIONS                                                 RÈGLEMENT
+  1. The flow rates of all liquid effluents and once-through cooling                1. Le taux du débit de tous les effluents et de l’eau de refroidisse-
+water deposited by a refinery shall be measured and recorded contin-              ment non recyclée rejetés par la raffinerie doit être mesuré et contrôlé
+uously in Canadian gallons per minute.                                            de façon continue en gallons canadiens par minutes.
+   2. (1) The concentration in milligrams per litre of a deleterious                 2. (1) La concentration en milligrammes par litre d’une substance
+substance prescribed in paragraph 4(a), (b), (c), (d) or (e) in compos-           nocive désignée à l’alinéa 4a), b), c), d) ou e) présente dans les
+ite samples obtained from each liquid effluent outfall and from the               échantillons composites prélevés à chaque point de rejet d’effluent et
+once-through cooling water shall be determined every Monday,                      d’eau de refroidissement non recyclée doit être mesurée tous les lun-
+Wednesday and Friday, or as requested by the Minister, using                      dis, mercredis et vendredis, ou lorsque le ministre le demande
+  (a) the test method referred to in Column II of an item of the table              a) par la méthode d’essai mentionnée à l’un des articles du tableau
+  to this Schedule and modified as set out in Column III of that item               de la présente annexe, dans la colonne II, et modifiée comme il est
+  in respect of the deleterious substance set out in Column I of that               indiqué à cet article, dans la colonne III pour la substance nocive
+  item; or                                                                          mentionnée à cet article dans la colonne I; ou
+  (b) any other equivalent method, approved in writing by the Min-                  b) par toute autre méthode équivalente, approuvée par écrit par le
+  ister, the results of which can be confirmed by the method referred               ministre, et dont les résultats peuvent être confirmés par la mé-
+  to in paragraph (a).                                                              thode dont il est question à l’alinéa a).
+  (2) For the purpose of subsection (1), a composite sample is                      (2) Aux fins du paragraphe (1), un échantillon composite est
+  (a) the quantity of liquid effluent or once-through cooling water                 a) la quantité d’effluent ou d’eau de refroidissement non recyclée
+  that is collected continually during a sampling period of 24 hours                prélevée continûment au cours d’une période d’échantillonnage de
+  at a rate in proportion to the flow rate of the liquid effluent or                24 heures à un taux proportionnel au débit d’effluent ou d’eau de
+  once-through cooling water;                                                       refroidissement non recyclée;
+  (b) the quantity of liquid effluent or once-through cooling water                 b) la quantité d’effluent ou d’eau de refroidissement non recyclée
+  that is collected so that a minimum of 96 equal volumes of liquid                 prélevée de façon qu’un minimum de 96 volumes égaux de liquide
+  are delivered into a receptacle at equal time intervals over a sam-               soient placés dans un récipent à des intervalles de temps égaux, au
+  pling period of 24 hours; or                                                      cours d’une période d’échantillonnage de 24 heures; ou,
+  (c) in the case where the use of continuous stream analyzers have                 c) lorsque l’emploi d’instruments d’analyse continue du débit a été
+  been approved by the Minister, the liquid effluent or once-through                approuvé par le ministre, l’effluent ou l’eau de refroidissement non
+  cooling water itself.                                                             recyclée même.
+   (3) For the purpose of this section, procedures pertaining to sam-                (3) Aux fins du présent article, il est prescrit de se conformer aux
+pling, the preservation and storage of samples and the prevention of              procédés d’échantillonnage, de préservation des échantillons et de
+interference, as outlined in the general sections relating to the specific        prévention de toute interférence mentionnés aux articles traitant des
+test methods set out in Column II of the table to this Schedule, should           méthodes d’essai spécifiques dont il est question à la colonne II du
+be adhered to.                                                                    tableau de la présente annexe.
+   3. The actual deposit by a refinery of a deleterious substance pre-               3. Le rejet réel, par une raffinerie, d’une substance nocive dési-
+scribed in paragraph 4(a), (b), (c), (d) or (e) shall be calculated by us-        gnée à l’alinéa 4a), b), c), d) ou e) doit être calculé à l’aide des quan-
+ing the amounts obtained under sections 1 and 2 of this Schedule for              tités obtenues aux termes des articles 1 et 2 de la présente annexe
+each day that the concentration of that deleterious substance has been            pour chaque jour où a été mesurée la concentration de la substance
+determined.                                                                       nocive.
+  4. The arithmetic mean of the actual deposits referred to in para-                 4. La moyenne arithmétique des rejets réels mentionnés à
+graph 5(1)(a) of the Regulations shall be calculated using the                    l’alinéa 5(1)a) du présent règlement doit être calculée au moyen des
+amounts obtained under section 3 of this Schedule.                                quantités obtenues aux termes de l’article 3 de la présente annexe.
+  5. For the purpose of subsection 5(3) of the Regulations, the actual               5. Aux fins du paragraphe 5(3) du règlement, la quantité réelle
+quantity of a deleterious substance prescribed in paragraph 4(a), (b)             d’une substance nocive désignée à l’alinéa 4a), b) ou e) présente dans
+or (e) of the Regulations contained in storm water deposited each                 les eaux pluviales rejetées chaque mois doit être calculée d’après la
+month shall be calculated using the weighted average concentration,               concentration moyenne pondérée fondée sur la quantité d’eaux plu-
+based on the quantity of storm water discharged for those days during             viales rejetée les jours où la concentration de la substance nocive a
+which the concentration of that deleterious substance has been deter-             été mesurée, et la quantité totale d’eaux pluviales rejetée au cours du
+mined, and the total quantity of storm water discharged in that month.            mois.
+
+
+
+
+                                                                             13
+                                                     C.R.C., c. 828 — October 6, 2010
+
+
+
+
+                                TABLE                                                                            TABLEAU
+                                 (s. 2)                                                                           (art. 2)
+
+   ANALYTICAL TEST METHODS FOR DETERMINING                                         MÉTHODES D’ESSAI ANALYTIQUES SERVANT À ÉTABLIR
+  PRESENCE AND CONCENTRATIONS OF DELETERIOUS                                           LA PRÉSENCE ET LES CONCENTRATIONS DES
+SUBSTANCES IN LIQUID EFFLUENT AND ONCE-THROUGH                                     SUBSTANCES NOCIVES DANS L’EFFLUENT ET L’EAU DE
+                 COOLING WATER                                                             REFROIDISSEMENT NON RECYCLÉE
+
+        Column I           Column II          Column III                                    Colonne I         Colonne II             Colonne III
+        Name of                                                                           Nom de la
+        Deleterious                                                                       substance
+Item    Substance          Test Method        Remarks                             Article nocive              Méthode d’essai        Remarques
+1.      Oil and grease     APHA , *
+                                              In 4 (a) use petroleum
+                                                      **
+                                                                                  1.        Huiles et         APHA , section 137 À l’alinéa 4a)**
+                                                                                                                     *
+
+                           Section 137        ether as the solvent; in 4                    graisses                             employer de l’éther
+                                              (c)** dry on a steam bath                                                          de pétrole comme
+                                              at 100 °C.                                                                         solvant; à
+                                                                                                                                 l’alinéa 4c)** sécher
+2.      Phenols            APHA*,                                                                                                en bain de vapeur à
+                           Section 222B                                                                                          100 °C.
+                           and C
+                                                                                  2.        Phénols           APHA*,
+3.      Sulfide            APHA*,          This test may be carried                                           section 222B & C
+                           Section 228C(b) out on a filtered sample.
+                                                                                  3.        Sulfures          APHA*,                 Cet essai peut être
+4.      Ammonia            APHA*,                                                                             section 228C(b)        exécuté avec un
+        nitrogen           Section 212                                                                                               échantillon filtré.
+5.      Total suspended APHA*,                During periods when                 4.        Azote             APHA*, section 212
+        matter          Section 224C          storm water is being                          ammoniacal
+                                              deposited, the volatile
+                                              portion of total                    5.        Matières en   APHA*,                     Pendant les périodes
+                                              suspended matter                              suspension de section 224C               où des eaux pluviales
+                                              determined by APHA*                           toute nature                             sont rejetées, la
+                                              Section 224D may be                                                                    partie volatile des
+                                              substituted for APHA*                                                                  matières en
+                                              Section 224C.                                                                          suspension de toute
+                                                                                                                                     nature déterminée
+ *
+   Refers to the publication Standard Methods for the Examination of Water
+and Waste Water, 13th edition, (1971), published jointly by the American                                                             par APHA*,
+Public Health Association, American Water Works Association and the Water                                                            section 224D, peut
+Pollution Control Federation.                                                                                                        remplacer APHA*,
+**
+    Refers to section of test method.                                                                                                section 224C.
+                                                                                   *
+                                                                                      Renvoie aux Standard Methods for the Examination of Water and Waste
+                                                                                  Water, 13e édition (1971), publié conjointement par l’American Public Health
+                                                                                  Association, l’American Water Works Association et la Water Pollution
+                                                                                  Control Federation.
+                                                                                  **
+                                                                                      Renvoie à une partie de la méthode d’essai.
+
+
+
+
+                                                                             14
+

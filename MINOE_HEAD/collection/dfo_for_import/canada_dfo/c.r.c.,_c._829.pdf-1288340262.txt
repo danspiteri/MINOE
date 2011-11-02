@@ -1,0 +1,537 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+  Potato Processing Plant                                                Règlement sur les
+      Liquid Effluent                                                        effluents des
+        Regulations                                                       établissements de
+                                                                        transformation de la
+                                                                           pomme de terre
+
+                      C.R.C., c. 829                                                    C.R.C., ch. 829
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published             31. (1) Every copy of a consolidated statute or            31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies      (3) In the event of an inconsistency between a              (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+CHAPTER 829                                                      CHAPITRE 829
+
+FISHERIES ACT                                                    LOI SUR LES PÊCHES
+
+Potato Processing Plant Liquid Effluent Regulations              Règlement sur les effluents des établissements de
+                                                                 transformation de la pomme de terre
+REGULATIONS   RESPECTING   DELETERIOUS                           RÈGLEMENT CONCERNANT LES SUBSTANCES
+   SUBSTANCES IN LIQUID EFFLUENTS FROM                              NOCIVES PRÉSENTES DANS LES EFFLUENTS
+   POTATO PROCESSING PLANTS                                         DES        ÉTABLISSEMENTS         DE
+                                                                    TRANSFORMATION DE LA POMME DE
+                                                                    TERRE
+
+                     SHORT TITLE                                                     TITRE ABRÉGÉ
+  1. These Regulations may be cited as the Potato Pro-              1. Le présent règlement peut être cité sous le titre :
+cessing Plant Liquid Effluent Regulations.                       Règlement sur les effluents des établissements de trans-
+                                                                 formation de la pomme de terre.
+
+                  INTERPRETATION                                                   INTERPRÉTATION
+  2. (1) In these Regulations,                                     2. (1) Dans le présent règlement,
+“Act” means the Fisheries Act; (Loi)                             « conserverie de pommes de terre » désigne un établisse-
+“biochemical oxygen demanding matter” means the sub-             ment où la pomme de terre est pelée et façonnée pour sa
+stance contained in the effluent from a plant that results       mise en conserve et sa distribution; (canned potato prod-
+from the operation of a plant and that will exert a bio-         ucts plant)
+chemical oxygen demand; (matière ayant une demande               « eau de traitement » désigne l’eau qui entre en contact
+biochimique en oxygène)                                          avec la pomme de terre au cours d’une étape quelconque
+“canned potato products plant” includes any plant where          de sa transformation et l’eau de lavage des boîtes et de
+raw potatoes are peeled and shaped for distribution in a         nettoyage; (process water)
+canned and preserved condition; (conserverie de                  « eaux pluviales » désigne l’écoulement des eaux de pré-
+pommes de terre)                                                 cipitation de toute sorte tombées sur un établissement,
+“composite sample” means a sample obtained in accor-             qui y ruisselle ou le traverse; (storm water)
+dance with section 7; (échantillon composite)                    « échantillon composite » désigne un échantillon prélevé
+“dehydrated potato products plant” includes any plant            selon l’article 7; (composite sample)
+where raw potatoes are processed to remove moisture by           « effluent » Les eaux usées rejetées par un établissement,
+heat, vacuum or air drying, with the finished product dis-       y compris les eaux de traitement, les eaux de lavage, les
+tributed as granules, flakes or slices; (fabrique de             vidanges des réservoirs, les eaux pluviales et les résidus
+pommes de terre déshydratées)                                    des installations de traitement de l’eau et d’épuration des
+“deposit” means to deposit or to permit the deposit into         eaux usées. Sont exclues de la présente définition :
+water frequented by fish; (rejeter)                                a) les eaux pluviales protégées de la contamination
+“effluent” means all wastewaters deposited by a plant              par une substance nocive désignée à l’article 4 prove-
+and includes process water, wash water, tank drainage,             nant de l’établissement et dont la concentration
+                                                                   moyenne de la matière ayant une demande biochi-
+
+
+
+
+                                                             1
+                                           C.R.C., c. 829 — October 6, 2010
+
+
+
+
+storm water and wastes from water and wastewater treat-              mique en oxygène, dans au moins 3 échantillons de
+ment facilities, but does not include                                ces eaux, prélevés à intervalles de 15 minutes, ne dé-
+  (a) storm water that is protected from contamination               passe pas 50 mg/L;
+  by a deleterious substance prescribed by section 4                 b) les eaux usées provenant de l’établissement qui,
+  originating from the plant, where the average concen-              avant d’être rejetées, sont traitées à l’extérieur d’un
+  tration of biochemical oxygen demanding matter in at               établissement afin d’en régler le pH et d’en extraire
+  least 3 samples of the storm water, taken at intervals             les substances nocives désignées à l’article 4, de ma-
+  of 15 minutes, does not exceed 50 mg/L, or                         nière que :
+  (b) wastewater from the plant that, prior to being de-                (i) le pH des eaux usées, déterminé conformément
+  posited, is treated at a site outside a plant for the pur-            au paragraphe 9(3), se situe entre 6,0 et 9,0,
+  pose of controlling the pH of the wastewater and re-                  (ii) la quantité de substances nocives restant dans
+  moving from the wastewater the deleterious                            les eaux usées après traitement, lorsqu’elle est ajou-
+  substances prescribed by section 4, in such a manner                  tée à la quantité de substances nocives rejetée direc-
+  that                                                                  tement, ne dépasse pas les rejets autorisés de sub-
+    (i) the pH of the wastewater, determined in accor-                  stances nocives en vertu de l’article 5. (effluent)
+    dance with subsection 9(3), is between 6.0 and 9.0,            « établissement » désigne les installations spécialement
+    and                                                            prévues pour la transformation de la pomme de terre et
+    (ii) the quantity of deleterious substances remain-            de ses dérivés en des sous-produits comme la pomme de
+    ing in that wastewater after the treatment, when               terre congelée, déshydratée ou en conserve, les crous-
+    added to the quantity of deleterious substances de-            tilles et la fécule, y compris les entrepôts et les ateliers
+    posited directly, does not exceed the deposit of               de traitement, d’expédition et d’emballage sis à proximi-
+    deleterious substances authorized under section 5;             té de l’établissement et tous les biens-fonds utilisés pour
+    (effluent)                                                     l’exploitation des installations; (plant)
+“existing plant” means a plant that commenced commer-              « établissement à capacité accrue » désigne un établisse-
+cial production before June 27, 1977; (établissement               ment dont le volume annuel d’activités est 2,5 fois supé-
+existant)                                                          rieur à celui de l’année civile 1976; (expanded plant)
+“expanded plant” means any plant in which the total                « établissement existant » désigne un établissement où la
+quantity of raw potatoes processed during any year ex-             production industrielle a commencé avant le 27 juin
+ceeds 2.5 times the total quantity of raw potatoes pro-            1977; (existing plant)
+cessed in that plant during the 1976 calendar year; (éta-          « fabrique de croustilles » désigne un établissement de
+blissement à capacité accrue)                                      transformation de la pomme de terre en un produit fini,
+“frozen potato products plant” includes any plant where            se présentant sous forme d’aliment léger prêt à être
+raw potatoes are processed and the final potato product            consommé; (potato chip plant)
+is distributed in a frozen condition; (fabrique de pommes          « fabrique de pommes de terre congelées » désigne un
+de terre congelées)                                                établissement de transformation de la pomme de terre en
+“Minister” [Repealed, SOR/95-426, s. 1]                            un produit fini se présentant sous forme congelée;
+“new plant” means a plant that did not commence com-               (frozen potato products plant)
+mercial production before June 27, 1977 and that com-              « fabrique de pommes de terre déshydratées » désigne un
+                                                                   établissement où l’humidité de la pomme de terre est éli-
+
+
+
+
+                                                               2
+                                           C.R.C., ch. 829 — 6 octobre 2010
+
+
+
+
+mences commercial production on or after that date;                minée par chauffage, vacuité ou dessiccation et dont le
+(nouvel établissement)                                             produit fini se présente sous forme de granules, de flo-
+“owner” of a plant means the owner or operator or his              cons et de rondelles; (dehydrated potato products plant)
+authorized representative; (propriétaire)                          « féculerie » désigne un établissement produisant de la
+“plant” includes facilities intended primarily for the con-        fécule de pomme de terre; (starch plant)
+version of raw potatoes and potato derivatives into prod-          « journée d’exploitation » désigne une période de 24
+ucts such as frozen potato products, potato chips, dehy-           heures consécutives pendant la totalité ou partie de la-
+drated potato products, canned potato products and                 quelle l’établissement fonctionne; (processing day)
+potato starch and includes storage, processing, shipping           « Loi » désigne la Loi sur les pêcheries; (Act)
+and packaging facilities on the plant site and all proper-
+ties used for the operation of those facilities; (établisse-       « matière ayant une demande biochimique en oxygène »
+ment)                                                              désigne une substance présente dans l’effluent d’un éta-
+                                                                   blissement, due à l’exploitation de ce dernier et exerçant
+“potato chip plant” includes any plant where raw pota-             une demande biochimique en oxygène; (biochemical
+toes are processed and the final potato product is dis-            oxygen demanding matter)
+tributed as a snack food in a ready-to-eat condition; (fa-
+brique de croustilles)                                             « matières totales en suspension » désigne le résidu non
+                                                                   filtrable provenant de l’exploitation d’un établissement
+“process water” means water that comes into contact                et présent dans son effluent; (total suspended matter)
+with potatoes at any stage in the processing and includes
+water used for can washing and clean-up; (eau de traite-           « ministre » [Abrogée, DORS/95-426, art. 1]
+ment)                                                              « nouvel établissement » désigne un établissement dont
+“processing day” means a period of 24 consecutive                  la production industrielle n’a pas débuté avant le 27 juin
+hours or any part thereof during which the plant is in op-         1977 mais a commencé à cette date ou après; (new plant)
+eration; (journée d’exploitation)                                  « propriétaire » désigne le propriétaire, l’exploitant ou
+“raw potatoes processed” means the net quantity, in                son représentant autorisé; (owner)
+tonnes, of raw potatoes that are received at the beginning         « rejeter » signifie déposer ou permettre que soit déposée
+of the processing line after the raw potato washing oper-          une substance dans des eaux fréquentées par le poisson;
+ation; (volume d’activités)                                        (deposit)
+“starch plant” includes any plant processing raw potatoes          « volume d’activités » désigne le tonnage métrique net de
+into potato starch; (féculerie)                                    pommes de terre, après lavage, au début de la chaîne de
+“storm water” means water run off that results from pre-           transformation. (raw potatoes processed)
+cipitation of any kind that falls on a plant or that passes        DORS/95-426, art. 1.
+
+over or through the plant; (eaux pluviales)
+“total suspended matter” means the non-filterable
+residue that results from the operation of a plant, that is
+contained in the effluent from that plant. (matières to-
+tales en suspension)
+SOR/95-426, s. 1.
+
+   (2) and (3) [Repealed, SOR/95-426, s. 1]                           (2) et (3) [Abrogés, DORS/95-426, art. 1]
+
+
+
+
+                                                               3
+                                            C.R.C., c. 829 — October 6, 2010
+
+
+
+
+                     APPLICATION                                                           APPLICATION
+  3. (1) Subject to subsection (2), these Regulations                  3. (1) Sous réserve du paragraphe (2), le présent rè-
+apply to every new plant and every expanded plant.                  glement s’applique à tous les nouveaux établissements et
+                                                                    à tous les établissements à capacité accrue.
+   (2) Where a plant becomes an expanded plant, these                 (2) Le présent règlement s’applique à un établisse-
+Regulations apply to the expanded plant on the first day            ment à capacité accrue à compter du premier jour du
+of the month following the month in which the plant be-             mois suivant celui au cours duquel il est devenu tel.
+comes an expanded plant.
+
+  SUBSTANCES PRESCRIBED AS DELETERIOUS                              SUBSTANCES DÉSIGNÉES COMME SUBSTANCES
+              SUBSTANCES                                                           NOCIVES
+   4. For the purpose of the definition “deleterious sub-             4. Pour l’application de la définition de « substance
+stance” in subsection 34(1) of the Act, the following               nocive », au paragraphe 34(1) de la Loi, les substances
+substances resulting from the operations of a plant to              suivantes attribuables à l’exploitation d’un établissement
+which these Regulations apply are hereby prescribed as              auquel le présent règlement s’applique sont désignées
+deleterious substances:                                             comme substances nocives :
+   (a) biochemical oxygen demanding matter; and                        a) les matières ayant une demande biochimique en
+   (b) total suspended matter.                                         oxygène; et
+SOR/95-426, s. 2.                                                      b) les matières totales en suspension.
+                                                                    DORS/95-426, art. 2.
+
+     AUTHORIZED DEPOSIT OF DELETERIOUS                               REJETS AUTORISÉS DE SUBSTANCES NOCIVES
+               SUBSTANCES
+   5. Subject to these Regulations, the owner of a plant              5. Sous réserve du présent règlement, le propriétaire
+of a class set out in Column I of Schedule I may deposit            d’un établissement appartenant à l’une des catégories vi-
+a deleterious substance prescribed by section 4 if                  sées à la colonne I de l’annexe I est autorisé à rejeter une
+   (a) the actual daily deposit of each deleterious sub-            substance nocive désignée à l’article 4 à condition que
+   stance, determined in accordance with subsec-                       a) le rejet journalier réel de chaque substance, calculé
+   tion 11(1), does not exceed the authorized daily de-                selon le paragraphe 11(1), ne dépasse pas le rejet jour-
+   posit of that substance for that class of plant as set out          nalier autorisé pour la catégorie d’établissement en
+   in Column III of that Schedule;                                     question et indiqué à la colonne III de l’annexe;
+   (b) the average daily deposit of each deleterious sub-              b) le rejet journalier moyen de chaque substance du-
+   stance during a month, determined in accordance with                rant un mois, calculé selon le paragraphe 11(2), ne dé-
+   subsection 11(2), does not exceed the authorized aver-              passe pas le rejet journalier moyen autorisé pour la ca-
+   age daily deposit of that substance for that class of               tégorie d’établissement en question et indiqué à la
+   plant as set out in Column IV of that Schedule; and                 colonne IV de l’annexe; et
+   (c) the pH of each composite sample of effluent, de-                c) le pH de chaque échantillon composite de l’ef-
+   termined in accordance with subsection 9(3), is be-                 fluent, mesuré selon le paragraphe 9(3), se situe entre
+   tween 6.0 and 9.0.                                                  6,0 et 9,0.
+
+
+
+
+                                                                4
+                                          C.R.C., ch. 829 — 6 octobre 2010
+
+
+
+
+ADDITIONAL CONDITIONS OF AUTHORIZATION                           CONDITIONS SUPPLÉMENTAIRES RELATIVES À
+                                                                             L’AUTORISATION
+
+                        GENERAL                                                   DISPOSITIONS GÉNÉRALES
+  6. The owner of a plant shall, for each type of effluent         6. Pour chaque type d’effluent rejeté, le propriétaire
+deposited by the plant,                                          d’un établissement
+  (a) install and maintain facilities, including sampling          a) installe et entretient des appareils d’échantillon-
+  connections and flow measuring devices, of such type             nage et d’analyse des effluents, y compris des rac-
+  as the Minister may in writing approve for sampling              cords d’échantillonnage et des débitmètres, du type
+  and analysing effluents for the purpose of enabling the          que le ministre peut approuver par écrit et permettant
+  Minister to determine whether the owner is complying             à ce dernier de juger si les limites prescrites à l’ar-
+  with the limits of authorized deposits prescribed by             ticle 5 sont respectées par le propriétaire;
+  section 5;                                                       b) prélève un échantillon composite aux fréquences
+  (b) take a composite sample on the regular basis pre-            visées à l’article 8;
+  scribed by section 8;                                            c) analyse les échantillons mentionnés à l’alinéa b)
+  (c) analyse the sample referred to in paragraph (b) in           aux fréquences visées à l’article 9;
+  accordance with section 9;                                       d) mesure le débit selon l’article 10; et
+  (d) measure the flow in accordance with section 10;              e) détermine les rejets journaliers réels et moyens de
+  and                                                              chaque substance nocive selon l’article 11.
+  (e) determine the actual and average daily deposits of
+  each deleterious substance in accordance with sec-
+  tion 11.
+
+       METHOD OF COLLECTING COMPOSITE SAMPLES                     MÉTHODE DE PRÉLÈVEMENT DES ÉCHANTILLONS COMPOSITES
+   7. A composite sample shall be obtained by collecting            7. Un échantillon composite est prélevé dans l’ef-
+effluent discharged from a plant during a processing day         fluent rejeté par un établissement au cours d’un jour
+  (a) continually during a sampling period of 24 hours           d’exploitation
+  at a rate in proportion to the flow rate of the effluent         a) continuellement pendant 24 heures et proportion-
+  discharged; or                                                   nellement au débit de l’effluent; ou
+  (b) in such a manner that equal volumes of effluent              b) de telle sorte que des volumes égaux d’effluent
+  are delivered into a receptacle at equal intervals not           soient recueillis dans un récipient à des intervalles de
+  longer than one hour during a sampling period of                 temps égaux ne dépassant pas une heure au cours
+  24 hours.                                                        d’une période d’échantillonnage de 24 heures.
+
+         FREQUENCY OF SAMPLING AND ANALYSIS                         FRÉQUENCE DES ÉCHANTILLONNAGES ET DES ANALYSES
+  8. The sampling referred to in paragraph 6(b) shall be           8. L’échantillonnage visé à l’alinéa 6b) se fait, dans le
+made                                                             cas d’un établissement,
+
+
+
+
+                                                             5
+                                          C.R.C., c. 829 — October 6, 2010
+
+
+
+
+  (a) in the case of a plant where the weekly quantity of           a) au cours d’une journée d’exploitation par semaine,
+  raw potatoes processed is less than 400 tonnes, on one            si le volume d’activités est inférieur à 400 tonnes mé-
+  processing day each week; and                                     triques par semaine; et
+  (b) in the case of a plant where the weekly quantity of           b) au cours de deux journées d’exploitation par se-
+  raw potatoes processed is 400 tonnes or more, on two              maine, si le volume d’activités est d’au moins
+  processing days each week.                                        400 tonnes métriques par semaine.
+
+         ANALYTICAL AND OTHER TEST METHODS                                  MÉTHODES D’ANALYSE ET DE CONTRÔLE
+   9. (1) For the purposes of paragraph 6(c), the concen-           9. (1) Aux fins de l’alinéa 6c), la concentration, en
+tration in milligrams per litre of a substance described in       milligrammes par litre, d’une substance décrite à l’an-
+an item of Schedule II, in each composite sample, shall           nexe II, dans chaque échantillon composite, est dosée se-
+be determined using                                               lon
+  (a) the test method set out in Column I and modified              a) la méthode du contrôle visée à la colonne I et mo-
+  in Column II of that item; or                                     difiée dans la colonne II; ou
+  (b) any other method, approved in writing by the                  b) toute autre méthode approuvée par écrit par le mi-
+  Minister, the results of which can be confirmed by the            nistre et dont les résultats peuvent être confirmés par
+  method referred to in paragraph (a).                              la méthode visée à l’alinéa a).
+   (2) For the purposes of paragraph 6(c), procedures                (2) Aux fins de l’alinéa 6c), on doit suivre les mé-
+pertaining to sampling, preservation and storage of sam-          thodes d’échantillonnage, de préservation et de conser-
+ples and prevention of interference relating to the test          vation des échantillons et d’élimination des interactions
+methods referred to in paragraph (1)(a), as outlined in           des méthodes de contrôle visées à l’alinéa (1)a), telles
+the general sections of the publication Standard Methods          que décrites dans les sections générales du recueil Stan-
+for the Examination of Water and Waste Water,                     dard Methods for the Examination of Water and Waste
+14th edition (1975), published jointly by the American            Water, 14e édition (1975), publié conjointement par
+Public Health Association, American Water Works As-               l’American Public Health Association, l’American Wa-
+sociation and the Water Pollution Control Federation,             ter Works Association et la Water Pollution Control Fe-
+shall be adhered to.                                              deration.
+  (3) For the purposes of paragraph 6(c), the pH of a               (3) Aux fins de l’alinéa 6c), le pH d’un échantillon
+composite sample shall be determined using                        composite est mesuré selon
+  (a) the test method prescribed by section 424 of the              a) la méthode de contrôle visée à la section 424 du re-
+  publication referred to in subsection (2); or                     cueil visé au paragraphe (2); ou
+  (b) any other method, approved in writing by the                  b) toute autre méthode que le ministre a approuvée
+  Minister, the results of which can be confirmed by the            par écrit et dont les résultats peuvent être confirmés
+  method referred to in paragraph (a).                              par la méthode visée à l’alinéa a).
+
+                   FLOW MEASUREMENT                                                   MESURE DU DÉBIT
+  10. For the purpose of paragraph 6(d), the flow of                 10. Aux fins de l’alinéa 6d), le débit de chaque type
+each type of effluent deposited by a plant shall be mea-          d’effluent rejeté par un établissement est mesuré et enre-
+sured continuously and recorded.                                  gistré continûment.
+
+
+
+
+                                                              6
+                                            C.R.C., ch. 829 — 6 octobre 2010
+
+
+
+
+            CALCULATION OF ACTUAL DEPOSIT                                            CALCUL DES REJETS RÉELS
+   11. (1) For the purposes of paragraph 6(e), the actual              11. (1) Aux fins de l’alinéa 6e), le rejet quotidien réel
+daily deposit per unit of production of each deleterious            par unité de production de chaque substance nocive vi-
+substance prescribed by section 4 shall be determined               sée à l’article 4 est calculé à l’aide des données obtenues
+using the data obtained under subsection 9(1) and sec-              selon le paragraphe 9(1) et l’article 10 et s’exprime en
+tion 10 and shall be expressed in terms of kilograms per            kilogrammes par tonne métrique du volume d’activités
+tonne of raw potatoes processed per day.                            journalier.
+   (2) For the purposes of paragraph 6(e), the average                (2) Aux fins de l’alinéa 6e), le rejet quotidien moyen
+daily deposit per unit of production during a month of              de chaque substance nocive visée à l’article 4 par unité
+each deleterious substance prescribed by section 4 shall            de production au cours d’un mois est déterminé par le
+be determined by calculating the average of the results             calcul de la moyenne des résultats obtenus selon le para-
+obtained under subsection (1) and shall be expressed in             graphe (1) et est exprimé de la façon qui y est visée.
+the terms set out in that subsection.
+
+                 REPORTING AND RECORDS                                                RAPPORTS ET DOSSIERS
+   12. (1) The owner of a plant shall, within 30 days af-              12. (1) Le propriétaire d’un établissement signe, date
+ter the end of each month, sign, date and forward to the            et envoie au ministre, dans les 30 jours après la fin de
+Minister a report, in such form as the Minister may in              chaque mois, un rapport établi en la forme que ce dernier
+writing approve, showing for that month                             peut approuver par écrit et indiquant pour ce mois
+  (a) the actual daily deposit of deleterious substances              a) les rejets quotidiens réels de substances nocives
+  deposited by the plant on each day that samples were                par l’établissement à chaque jour où des échantillons
+  taken, determined and expressed in accordance with                  ont été prélevés, ces rejets étant calculés et exprimés
+  subsection 11(1);                                                   selon le paragraphe 11(1);
+  (b) the average daily deposit of deleterious substances             b) les rejets quotidiens moyens de substances no-
+  deposited by the plant, determined and expressed in                 cives, calculés et exprimés selon le paragraphe 11(2);
+  accordance with subsection 11(2);                                   c) le pH des échantillons composites, mesuré selon le
+  (c) the pH of composite samples, determined in ac-                  paragraphe 9(3);
+  cordance with subsection 9(3);                                      d) la production journalière de l’établissement pour
+  (d) the daily production of the plant for each day that             chaque jour d’échantillonnage, exprimée en tonnes
+  samples were taken expressed in terms of tonnes of                  métriques du volume d’activités;
+  raw potatoes processed;                                             e) la production hebdomadaire de l’établissement
+  (e) the weekly production of the plant for each week                pour chaque semaine du mois, exprimée en tonnes
+  during the month, expressed in terms of tonnes of raw               métriques du volume d’activités;
+  potatoes processed;                                                 f) le nombre de jours d’exploitation; et
+  (f) the number of operating days; and                               g) le volume quotidien total, en litres, de chaque type
+  (g) the total daily flow, in litres, of each type of efflu-         d’effluent rejeté, à chaque jour où des échantillons ont
+  ent discharged on each day that samples were taken.                 été prélevés.
+  (2) The owner of a new plant shall, before he deposits              (2) Le propriétaire d’un nouvel établissement, avant
+any deleterious substance prescribed by section 4, and              de rejeter une substance nocive visée à l’article 4, et ce-
+
+
+
+                                                                7
+                                          C.R.C., c. 829 — October 6, 2010
+
+
+
+
+the owner of an expanded plant shall, within 30 days of           lui d’un établissement à capacité accrue doivent, dans les
+becoming subject to these Regulations, sign, date and             30 jours de leur assujettissement au présent règlement,
+forward to the Minister a declaration, in such form as the        signer, dater et envoyer au ministre, une déclaration éta-
+Minister may in writing approve,                                  blie en la forme que peut approuver ce dernier par écrit
+  (a) showing the projected weekly production of the              et indiquant
+  plant expressed in terms of tonnes of raw potatoes                a) la production hebdomadaire prévue de l’établisse-
+  processed;                                                        ment, exprimée en tonnes métriques du volume d’acti-
+  (b) showing the projected annual production of the                vités;
+  plant expressed in terms of tonnes of raw potatoes                b) la production annuelle prévue de l’établissement,
+  processed; and                                                    exprimée en tonnes métriques du volume d’activités;
+  (c) listing the major products produced.                          et
+                                                                    c) les principaux produits fabriqués.
+   (3) The owner of a plant shall, within 30 days after             (3) Le propriétaire d’un établissement signe, date et
+the end of each calendar year, sign, date and forward to          envoie au ministre, dans les 30 jours suivant la fin de
+the Minister a declaration, in such form as the Minister          chaque année civile, une déclaration établie en la forme
+may in writing approve, showing the actual production             que ce dernier peut approuver par écrit, indiquant la pro-
+of the plant for the previous year in terms of tonnes of          duction réelle de l’établissement pour l’année précé-
+raw potatoes processed.                                           dente, en tonnes métriques du volume d’activités.
+
+     PERMITTED VARIATION IN ADDITIONAL CONDITIONS                 MODIFICATIONS PERMISES DES CONDITIONS SUPPLÉMENTAIRES
+   13. Where the owner of a plant establishes to the sat-            13. Lorsque le propriétaire d’un établissement
+isfaction of the Minister that for scientific and technical       convainc le ministre que, pour des raisons scientifiques
+reasons a scheme of sampling and analysis, measure-               et techniques, une fréquence d’échantillonnage et d’ana-
+ment or reporting referred to in sections 7, 9, 10 and 12         lyse, de mesures ou de présentation des rapports, selon
+other than at the regular time interval frequencies re-           les articles 7, 9, 10 et 12, différente de celle prescrite à
+quired by section 8 is sufficient to enable the Minister to       l’article 8, suffit pour permettre au ministre de juger si
+determine whether the owner is complying with the lim-            les limites prescrites à l’article 5 sont respectées, ce der-
+its of authorized deposits prescribed by section 5, the           nier peut autoriser le propriétaire par écrit
+Minister may, in writing, permit the owner to                       a) à prélever et à analyser des échantillons d’effluent
+  (a) take and analyse samples of each effluent in ac-              selon le mode et aux fréquences indiqués dans l’auto-
+  cordance with the scheme on a regular basis specified             risation,
+  in the letter of permission,                                      b) à mesurer le volume d’effluent, selon le mode et
+  (b) measure the volume of each effluent in accor-                 aux fréquences indiqués dans l’autorisation, ou
+  dance with the scheme on a regular basis specified in             c) à remettre ses rapports au ministre selon le mode et
+  the letter of permission, or                                      aux fréquences indiqués dans l’autorisation.
+  (c) report to the Minister in accordance with the               et les articles 7, 8, 9, 10 et 12 ne s’appliquent pas au pro-
+  scheme on a regular basis specified in the letter of per-       priétaire s’il se conforme au mode et aux fréquences in-
+  mission                                                         diqués dans l’autorisation.
+
+
+
+
+                                                              8
+                                         C.R.C., ch. 829 — 6 octobre 2010
+
+
+
+
+and sections 7, 8, 9, 10 and 12 do not apply to the owner
+if he complies with the scheme on the regular basis spec-
+ified in the letter of permission.
+
+
+
+
+                                                            9
+                                                        C.R.C., c. 829 — October 6, 2010
+
+
+
+
+                              SCHEDULE I                                                                            ANNEXE I
+                                 (s. 5)                                                                              (art. 5)
+
+    AUTHORIZED DEPOSITS OF DELETERIOUS SUBSTANCES                                           REJETS AUTORISÉS DE SUBSTANCES NOCIVES
+
+Column I      Column II           Column III            Column IV                    Colonne I         Colonne II         Colonne III         Colonne IV
+Class of      Deleterious         Authorized actual     Authorized average           Catégorie                            Rejet réel          Rejet journalier
+Plant         Substance           daily deposit         daily deposit                d’établissement   Substance nocive   journalier autorisé moyen autorisé
+Potato Chip   Biochemical      1.5 kg/tonne of raw      0.5 kg/tonne of raw          Fabrique de       Matières ayant une 1,5 kg par tonne   0,5 kg par tonne
+Plant         Oxygen           potatoes processed       potatoes processed           croustilles       demande            métrique du        métrique du
+              Demanding Matter                                                                         biochimique en     volume d’activités volume d’activités
+                                                                                                       oxygène
+              Total Suspended     2.1 kg/tonne of raw   0.7 kg/tonne of raw
+              Matter              potatoes processed    potatoes processed                             Matières totales en 2,1 kg par tonne   0,7 kg par tonne
+                                                                                                       suspension          métrique du        métrique du
+Other Potato Biochemical      2.7 kg/tonne of raw       0.9 kg/tonne of raw                                                volume d’activités volume d’activités
+Products     Oxygen           potatoes processed        potatoes processed
+Plants*      Demanding Matter                                                        Autres            Matière ayant une 2,7 kg par tonne   0,9 kg par tonne
+              Total Suspended     2.4 kg/tonne of raw   0.8 kg/tonne of raw          établissements    demande           métrique du        métrique du
+              Matter              potatoes processed    potatoes processed           de                biochimique en    volume d’activités volume d’activités
+                                                                                     transformation    oxygène
+                                                                                     de la pomme de
+*
+  NOTE: Other Potato Products Plants include plants that produce canned                                Matières totales en 2,4 kg par tonne   0,8 kg par tonne
+                                                                                     terre*            suspension          métrique du        métrique du
+potato products, dehydrated potato products, frozen potato products and pota-
+to starch.                                                                                                                 volume d’activités volume d’activités
+                                                                                     *
+                                                                                       REMARQUE : Les autres établissements de transformation de la pomme de
+                                                                                     terre comprennent ceux produisant les pommes de terre en conserve, déshy-
+                                                                                     dratées, congelées et la fécule.
+
+
+
+
+                                                                                10
+                                                     C.R.C., ch. 829 — 6 octobre 2010
+
+
+
+
+                            SCHEDULE II                                                                        ANNEXE II
+                               (s. 9)                                                                            (art. 9)
+
+     ANALYTICAL TEST METHODS FOR DETERMINING                                         MÉTHODES QUALITATIVES ET QUANTITATIVES
+    PRESENCE AND CONCENTRATIONS OF DELETERIOUS                                   D’ANALYSE DES SUBSTANCES NOCIVES PRÉSENTES DANS
+              SUBSTANCES IN EFFLUENTS                                                             LES EFFLUENTS
+
+                           Column I           Column II                                                     Colonne I           Colonne II
+        Deleterious                                                              Article Substance          Méthode             Modifications
+Item    Substance          Test Methods       Modifications                              nocive             d’analyse
+1       Biochemical        APHA*              For determining                    1         Matière ayant    Section 507 de      Pour le dosage de
+        Oxygen             Section 507        dissolved oxygen the                         une demande      l’APHA*             l’oxygène dissous, les
+        Demanding                             following tests are                          biochimique                          méthodes suivantes sont
+        Matter (BOD)                          recommended:                                 en oxygène                           recommandées :
+                                              Section 422 B APHA* or                       (D.B.O.)                             Section 422 B de
+                                              Section 422 F APHA ,   *                                                          l’APHA* ou
+                                              the probe must be                                                                 Section 422 F de
+                                              standardized against                                                              l’APHA*. La méthode
+                                              Winkler-Azide method                                                              doit être vérifiée par
+                                              (Section 422 B, APHA*)                                                            celle de Winkler à
+2       Total Suspended APHA*                                                                                                   l’azoture (section 422 B
+        Matter          Section 208 D                                                                                           de l’APHA*)
+                                                                                 2         Matières         Section 208 D
+*
+  Refers to the publication Standard Methods for the Examination of Water
+and Waste Water, 14th Edition (1975), published jointly by the American                    totales en       de l’APHA*
+Public Health Association, American Water Works Association and the Water                  suspension
+Pollution Control Federation.                                                    *
+                                                                                   Standard Methods for the Examination of Water and Waste Water, 14e édi-
+                                                                                 tion (1975), publié conjointement par l’American Public Health Association,
+                                                                                 l’American Water Works Association et la Water Pollution Control Federa-
+                                                                                 tion.
+
+
+
+
+                                                                            11
+

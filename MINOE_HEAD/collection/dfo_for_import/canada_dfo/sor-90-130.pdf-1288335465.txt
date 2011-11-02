@@ -1,0 +1,458 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+    Chlor-Alkali Mercury                                         Règlement sur le rejet de
+     Release Regulations                                         mercure par les fabriques
+                                                                        de chlore
+
+                       SOR/90-130                                                        DORS/90-130
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published             31. (1) Every copy of a consolidated statute or            31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies      (3) In the event of an inconsistency between a              (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                                                     Enregistrement
+SOR/90-130 February 15, 1990                                                     DORS/90-130 Le 15 février 1990
+CANADIAN ENVIRONMENTAL PROTECTION ACT,                                           LOI CANADIENNE SUR LA PROTECTION DE
+1999                                                                             L’ENVIRONNEMENT (1999)
+
+Chlor-Alkali Mercury Release Regulations                                         Règlement sur le rejet de mercure par les fabriques
+                                                                                 de chlore
+
+P.C. 1990-242 February 15, 1990                                                  C.P. 1990-242 Le 15 février 1990
+
+  Whereas, in the opinion of the Governor in Council,                              Attendu que, conformément au paragraphe 34(3) de la
+pursuant to subsection 34(3) of the Canadian Environ-                            Loi canadienne sur la protection de l’environnement*, le
+mental Protection Act*, the annexed regulation does not                          gouverneur en conseil est d’avis que le règlement ci-
+regulate an aspect of a substance that is regulated by or                        après ne vise pas un point déjà réglementé sous le ré-
+under any other Act of Parliament;                                               gime d’une autre loi fédérale,
+  Therefore, His Excellency the Governor General in                                À ces causes, sur avis conforme du ministre de l’Envi-
+Council, on the recommendation of the Minister of the                            ronnement et du ministre de la Santé nationale et du
+Environment and the Minister of National Health and                              Bien-être social et en vertu du paragraphe 34(1)** de la
+Welfare, pursuant to subsection 34(1)** of the Canadian                          Loi canadienne sur la protection de l’environnement*, il
+Environmental Protection Act*, is pleased hereby to re-                          plaît à Son Excellence le Gouverneur général en conseil
+voke the Chlor-Alkali Mercury National Emission Stan-                            d’abroger le Règlement sur les normes nationales de dé-
+dards Regulations,                                                               gagement de mercure par les fabriques de chlore,
+C.R.C., c. 406, and to make the annexed Regulations respecting the release       C.R.C., ch. 406, et de prendre en remplacement le Règle-
+into the ambient air of mercury from mercury cell chlor-alkali plants, in sub-
+stitution therefor.
+                                                                                 ment concernant le rejet de mercure dans l’air ambiant
+                                                                                 par les fabriques de chlore utilisant des électrolyseurs
+                                                                                 au mercure, ci-après.
+
+
+
+
+*                                                                                 * 
+     S.C. 1988, c. 22                                                                  L.C. 1988, ch. 22
+**                                                                                ** 
+     S.C. 1989, c. 9                                                                   L.C. 1989, ch. 9
+REGULATIONS RESPECTING THE RELEASE INTO                           RÈGLEMENT CONCERNANT LE REJET DE
+   THE AMBIENT AIR OF MERCURY FROM                                   MERCURE DANS L’AIR AMBIANT PAR LES
+   MERCURY CELL CHLOR-ALKALI PLANTS                                  FABRIQUES DE CHLORE UTILISANT DES
+                                                                     ÉLECTROLYSEURS AU MERCURE
+
+                     SHORT TITLE                                                      TITRE ABRÉGÉ
+ 1. These Regulations may be cited as the Chlor-Alkali              1. Règlement sur le rejet de mercure par les fabriques
+Mercury Release Regulations.                                      de chlore.
+
+                  INTERPRETATION                                                       DÉFINITIONS
+  2. In these Regulations,                                          2. Les définitions qui suivent s’appliquent au présent
+“alkali metal amalgam” means a combination of sodium              règlement.
+metal or potassium metal and mercury; (amalgame de                « air ambiant » L’atmosphère qui entoure la terre. La pré-
+métal alcalin)                                                    sente définition ne vise pas l’atmosphère se trouvant à
+“ambient air” means the atmosphere surrounding the                l’intérieur d’une structure ou dans un espace souterrain.
+earth but does not include the atmosphere within a struc-         (ambient air)
+ture or within any underground space; (air ambiant)               « amalgame de métal alcalin » Combinaison de sodium
+“brine” means a solution of sodium chloride or potassi-           ou de potassium avec du mercure. (alkali metal amal-
+um chloride in water; (saumure)                                   gam)
+
+“cell room” means, in respect of                                  « collecteur » Contenant situé à une extrémité d’un élec-
+                                                                  trolyseur au mercure et servant à recueillir le mercure,
+  (a) a structure housing one or more mercury cells, the          l’amalgame de métal alcalin et la saumure. (end box)
+  structure, and
+                                                                  « décomposeur » Contenant vertical ou horizontal faisant
+  (b) mercury cells not housed in a structure, the mer-           partie d’un électrolyseur au mercure et dans lequel l’eau
+  cury cells; (salle d’électrolyse)                               et l’amalgame de métal alcalin sont transformés en hy-
+“denuder” means a horizontal or vertical container that is        droxyde de métal alcalin, en mercure et en hydrogène au
+part of a mercury cell and in which water and alkali met-         moyen d’une électrolyse en court-circuit. (denuder)
+al amalgam are converted to alkali metal hydroxide,               « électrolyseur au mercure » Tout dispositif dans lequel
+metallic mercury and hydrogen gas in a short-circuited            le mercure sert de cathode. (mercury cell)
+electrolytic reaction; (décomposeur)
+                                                                  « fabrique » Installation située sur un emplacement in-
+“end box” means a container located on an end of a mer-           dustriel, conçue ou exploitée pour la production de
+cury cell that functions as a collection point for mercury,       chlore et d’hydroxydes de métaux alcalins au moyen
+alkali metal amalgam and brine; (collecteur)                      d’un procédé industriel comportant l’électrolyse d’une
+“mercury cell” means any device utilizing mercury as a            saumure dans un ou plusieurs électrolyseurs au mercure.
+cathode; (électrolyseur au mercure)                               La présente définition vise l’équipement auxiliaire em-
+                                                                  ployé pour accroître la concentration de l’hydroxyde de
+“normal cubic metre” or “norm. m3” means, in respect of
+                                                                  métal alcalin produit, ainsi que tous les biens immeubles
+a gas, the quantity of gas that occupies a volume of one
+                                                                  utilisés pour l’exploitation de l’installation. (plant)
+cubic metre at 25°C and at a pressure of 760 mm of mer-
+cury; (mètre cube normal ou m3 norm.)                             « mètre cube normal » ou « m3 norm. » Quantité de gaz
+                                                                  qui occupe un volume d’un mètre cube à une tempéra-
+“plant” means any facility, located at an industrial site,
+designed or operated for the production of chlorine and
+
+
+
+
+                                                              1
+                                           SOR/90-130 — October 6, 2010
+
+
+
+
+alkali metal hydroxides by means of any industrial pro-          ture de 25 °C et à une pression de 760 mm de mercure.
+cess involving the electrolysis of brine using one or            (normal cubic metre or norm. m3)
+more mercury cells, and includes any ancillary equip-            « production nominale » Quantité de chlore prévue
+ment that is used for the further concentration of the al-       qu’une fabrique peut produire chaque jour. (rated capac-
+kali metal hydroxide produced and any properties used            ity)
+for the operation of the facility; (fabrique)
+                                                                 « récupérateur » Tout dispositif utilisé pour récupérer le
+“rated capacity” means the amount of chlorine that a             mercure dans les déchets en contenant. (retort)
+plant is designed to produce each day; (production nomi-
+nale)                                                            « réservoir » Contenant, pour les boues ou les liquides
+                                                                 nécessaires à l’exploitation d’une fabrique ou résultant
+“retort” means any equipment used to recover mercury             de celle-ci. (tank)
+from mercury contaminated waste; (récupérateur)
+                                                                 « salle d’électrolyse »
+“tank” means a container for any liquid or sludge re-
+quired in or resulting from the operation of a plant. (ré-         a) Structure abritant un ou plusieurs électrolyseurs au
+servoir)                                                           mercure;
+                                                                   b) l’ensemble des électrolyseurs au mercure si ceux-
+                                                                   ci ne sont pas abrités dans une structure. (cell room)
+                                                                 « saumure » Solution constituée d’eau et de chlorure de
+                                                                 sodium ou de chlorure de potassium. (brine)
+
+              RELEASE OF MERCURY                                                   REJET DE MERCURE
+   3. (1) The quantity of mercury that the owner or op-             3. (1) La quantité maximale quotidienne de mercure
+erator of a plant may release into the ambient air from          rejeté dans l’air ambiant à partir d’une fabrique par le
+that plant shall not exceed                                      propriétaire ou l’exploitant de la fabrique ne doit pas
+  (a) 5 grams per day per 1,000 kilograms of rated ca-           dépasser :
+  pacity, where the source of the mercury is the ventila-          a) 5 g par 1 000 kg de la production nominale, dans le
+  tion gases exhausted from cell rooms;                            cas où le mercure rejeté provient des gaz d’aération
+  (b) 0.1 gram per day per 1,000 kilograms of rated ca-            évacués des salles d’électrolyse;
+  pacity, where the source of the mercury is the hydro-            b) 0,1 g par 1 000 kg de la production nominale, dans
+  gen gas stream originating from denuders;                        le cas où le mercure rejeté provient de l’hydrogène is-
+  (c) 0.1 gram per day per 1 000 kilograms of rated ca-            su des décomposeurs;
+  pacity, where the source of the mercury is the ventila-          c) 0,1 g par 1 000 kg de la production nominale, dans
+  tion gases exhausted from end boxes; and                         le cas où le mercure rejeté provient des gaz d’aération
+  (d) 0.1 gram per day per 1,000 kilograms of rated ca-            évacués des collecteurs;
+  pacity, where the source of the mercury is the gases             d) 0,1 g par 1 000 kg de la production nominale, dans
+  exhausted from retorts.                                          le cas où le mercure rejeté provient des gaz évacués
+                                                                   des récupérateurs.
+  (2) No mercury shall be released directly into the am-            (2) Le rejet dans l’air ambiant de mercure provenant
+bient air from a tank.                                           directement d’un réservoir est interdit.
+
+
+
+
+                                                             2
+                                          DORS/90-130 — 6 octobre 2010
+
+
+
+
+   (3) Notwithstanding subsection (1), the total amount             (3) Malgré le paragraphe (1), la quantité quotidienne
+of mercury that the owner or operator of a plant may re-         totale de mercure provenant des sources visées par ce pa-
+lease into the ambient air from the sources specified in         ragraphe rejeté dans l’air ambiant par le propriétaire ou
+subsection (1) shall not exceed 1.68 kilograms per day.          l’exploitant de la fabrique ne doit pas dépasser 1,68 kg.
+   (4) Measurements shall be taken of the amount of                 (4) La quantité quotidienne de mercure rejeté qui est
+mercury released into the ambient air per day from               visée au paragraphe (1) se détermine, pour chaque
+sources specified in subsection (1) by taking the arith-         source de rejet, par le calcul de la moyenne arithmétique
+metical average of not less than three measurements con-         des résultats d’au moins trois mesures effectuées le
+ducted for each source in the same day in accordance             même jour conformément à la méthode applicable dé-
+with the appropriate method, or any other method the re-         crite dans le rapport EPS 1-AP-76-1 du ministère de
+sults of which can be confirmed by the appropriate               l’Environnement, en date de novembre 1976, intitulé
+method, described in Standard Reference Methods for              Méthodes uniformes de référence pour le contrôle à la
+Source Testing: Measurement of Emissions of Mercury              source des émissions de mercure par les fabriques de
+from Mercury Cell Chlor-Alkali Plants, Department of             chlore, avec ses modifications successives, ou conformé-
+the Environment Report EPS 1-AP-76-1 dated Novem-                ment à toute autre méthode dont les résultats peuvent
+ber 1976, as amended from time to time.                          être confirmés par la méthode applicable décrite dans ce
+                                                                 rapport.
+  (5) Each measurement of mercury released shall be                  (5) Chaque mesure est effectuée dans les conditions
+conducted under normal operating conditions and the              normales d’exploitation et la durée minimale d’échan-
+minimum continuous sampling duration shall be                    tillonnage en continu est :
+   (a) two hours in respect of cell rooms; and                      a) de deux heures, dans le cas des salles d’électrolyse;
+   (b) one hour in respect of all other sources specified           b) d’une heure, dans le cas des autres sources de rejet
+   in subsection (1).                                               visées au paragraphe (1).
+SOR/93-231, s. 2; SOR/94-364, s. 2.                              DORS/93-231, art. 2; DORS/94-364, art. 2.
+
+              INFORMATION AND SAMPLES                                   RENSEIGNEMENTS ET ÉCHANTILLONS
+   4. The Minister may request the owner or operator of             4. Le ministre peut demander au propriétaire ou à
+a plant to submit to the Minister information and sam-           l’exploitant d’une fabrique de lui fournir des renseigne-
+ples respecting the operation of the plant or the malfunc-       ments et des échantillons relativement à l’exploitation de
+tion or breakdown of its air pollution control equipment         la fabrique ou à tout mauvais fonctionnement ou panne
+or process equipment.                                            de son matériel de lutte contre la pollution atmosphé-
+SOR/93-231, s. 2(E).                                             rique ou de son équipement de production.
+                                                                 DORS/93-231, art. 2(A).
+
+          RELEASE MEASUREMENT REPORT                                    RAPPORT SUR LA MESURE DES REJETS
+  5. (1) Where, pursuant to section 4, the Minister re-             5. (1) Lorsque le ministre demande, en vertu de l’ar-
+quests information respecting the operation of a plant,          ticle 4, des renseignements sur l’exploitation d’une fa-
+the owner or operator of the plant shall submit to the           brique, le propriétaire ou l’exploitant de celle-ci doit lui
+Minister the information required by the Release Mea-            soumettre le Rapport sur la mesure des rejets figurant à
+surement Report set out in Schedule I.                           l’annexe I, dûment rempli.
+
+
+
+
+                                                             3
+                                           SOR/90-130 — October 6, 2010
+
+
+
+
+   (2) The report referred to in subsection (1) shall be in          (2) Le rapport visé au paragraphe (1) porte sur les
+respect of measurements conducted in accordance with              mesures des rejets provenant des diverses sources à la fa-
+subsections 3(4) and (5) for the appropriate sources at           brique effectuées conformément aux paragraphes 3(4) et
+the plant under normal operating conditions during the            (5) dans les conditions normales d’exploitation au cours
+sixty days preceding the date on which the report is re-          des 60 jours précédant la date à laquelle le rapport doit
+quired to be submitted to the Minister pursuant to sub-           être soumis au ministre conformément au paragraphe
+section (3).                                                      (3).
+  (3) The report referred to in subsection (1) shall be             (3) Le rapport visé au paragraphe (1) doit, à compter
+submitted to the Minister at regular intervals of not more        de l’expiration d’un délai de trois mois suivant la de-
+than three months commencing three months after the               mande du ministre, lui être soumis à intervalles réguliers
+request is made by the Minister.                                  ne dépassant pas trois mois.
+   (4) The measurements referred to in subsection (2)                (4) Les mesures visées au paragraphe (2) sont faites
+shall, at least once per year, be conducted in the presence       au moins une fois l’an en présence d’un agent de l’auto-
+of an enforcement officer.                                        rité.
+SOR/94-364, s. 2; SOR/2000-102, s. 1.                             DORS/94-364, art. 2; DORS/2000-102, art. 1.
+
+     MALFUNCTION OR BREAKDOWN REPORT                               RAPPORT DE MAUVAIS FONCTIONNEMENT OU
+                                                                                 DE PANNE
+   6. Where, pursuant to section 4, the Minister requests            6. Lorsque le ministre demande, en vertu de l’article
+information respecting a malfunction or breakdown in              4, des renseignements sur le mauvais fonctionnement ou
+the air pollution control equipment or the process equip-         les pannes du matériel de lutte contre la pollution atmo-
+ment, the owner or operator of the plant shall, commenc-          sphérique, ou de l’équipement de production, le proprié-
+ing two months after the request is made by the Minister,         taire ou l’exploitant de la fabrique doit, à compter de
+submit to the Minister, for any month in which a mal-             l’expiration d’un délai de deux mois suivant la demande
+function or breakdown occurs, the information required            du ministre, lui soumettre le Rapport de mauvais fonc-
+by the Malfunction or Breakdown Report set out in                 tionnement ou de panne figurant à l’annexe II, dûment
+Schedule II.                                                      rempli, pour chaque mois au cours duquel survient un
+                                                                  mauvais fonctionnement ou une panne.
+
+AIR POLLUTION CONTROL EQUIPMENT REPORT                            RAPPORT SUR LE MATÉRIEL DE LUTTE CONTRE
+                                                                       LA POLLUTION ATMOSPHÉRIQUE
+   7. Where, pursuant to section 4, the Minister requests            7. Lorsque le ministre demande, en vertu de l’article
+information respecting air pollution control equipment at         4, des renseignements sur le matériel de lutte contre la
+a plant, the owner or operator of the plant shall submit to       pollution atmosphérique d’une fabrique, le propriétaire
+the Minister, for each source referred to in subsection           ou l’exploitant de celle-ci doit lui soumettre, pour
+3(1), a duly completed Air Pollution Control Equipment            chaque source de rejet visée au paragraphe 3(1), le Rap-
+Report as set out in Schedule III within two months after         port sur le matériel de lutte contre la pollution atmosphé-
+the request is made by the Minister, and at such times            rique figurant à l’annexe III, dûment rempli, dans les
+thereafter as any change occurs in respect of the air pol-        deux mois suivant la demande et, par la suite, lorsque
+lution control equipment.                                         des changements sont apportés à ce matériel.
+SOR/93-231, s. 2(E).                                              DORS/93-231, art. 2(A).
+
+
+
+
+                                                              4
+                                            DORS/90-130 — 6 octobre 2010
+
+
+
+
+                       SIGNING OF REPORTS                                       SIGNATURE DES RAPPORTS
+  8. Any report submitted under section 5, 6 or 7 by a              8. Le rapport visé aux articles 5, 6 ou 7 que présente
+corporation shall be signed by an officer authorized by          une personne morale est signé par un dirigeant de celle-
+the corporation to sign the report on its behalf.                ci autorisé à le faire.
+SOR/93-231, s. 2(F).                                             DORS/93-231, art. 2(F).
+
+     SUBMISSION OF SAMPLES AND RELATED                                   FOURNITURE DES ÉCHANTILLONS ET
+                INFORMATION                                                RENSEIGNEMENTS CONNEXES
+   9. (1) Where, pursuant to section 4, the Minister re-            9. (1) Lorsque le ministre demande, en vertu de l’ar-
+quests samples of gas streams released into the ambient          ticle 4, des échantillons des gaz rejetés dans l’air am-
+air from a plant and such related information as will en-        biant par une fabrique et les renseignements connexes lui
+able the Minister to cause an analysis to be made of the         permettant de faire analyser la quantité de mercure dans
+amount of mercury contained in those gas streams, the            ces gaz, le propriétaire ou l’exploitant de la fabrique doit
+owner or operator of the plant shall obtain the samples at       prélever ces échantillons à intervalles de trois mois,
+regular three month intervals, in accordance with the ap-        conformément à la méthode applicable décrite dans le
+propriate method described in Standard Reference Meth-           rapport EPS-1-AP-76-1 du ministère des Pêches et de
+ods for Source Testing: Measurement of Emissions of              l’Environnement, en date de novembre 1976, intitulé
+Mercury from Mercury Cell Chlor-Alkali Plants, Depart-           Méthodes uniformes de référence pour le contrôle à la
+ment of Fisheries and the Environment Report EPS-1-              source des émissions de mercure par les usines de
+AP-76-1 dated November 1976, as amended from time                chlore, dans sa version modifiée, et les lui soumettre
+to time, and shall forthwith submit the samples and relat-       sans délai avec les renseignements connexes.
+ed information to the Minister.
+  (2) For the purposes of subsection (1), at the request            (2) Les échantillons visés au paragraphe (1) sont, à la
+of the Minister, the samples shall be taken in the pres-         demande du ministre, prélevés en présence d’un agent de
+ence of an enforcement officer.                                  l’autorité.
+SOR/2000-102, s. 1.                                              DORS/2000-102, art. 1.
+
+
+
+
+                                                             5
+                                                     SOR/90-130 — October 6, 2010
+
+
+
+
+                            SCHEDULE I                                                                    ANNEXE I
+                             (Section 5)                                                               (paragraphe 5(1))
+
+                RELEASE MEASUREMENT REPORT                                              RAPPORT SUR LA MESURE DES REJETS
+Name of Owner or Operator                                                   Nom du propriétaire ou de l’exploitant
+Address of Plant                                                            Adresse de la fabrique
+Telephone Number (Plant)                                                    Numéro de téléphone (fabrique)
+Rated Capacity                                                              Production nominale
+Source Tested                                                               Source contrôlée
+Measurement Method                                                          Méthode de mesure
+Date of Measurement                                                         Date de la mesure
+Results: (Detailed data and calculations to be appended)                    Résultats : (Joindre les données et calculs détaillés)
+Measurement Number                     1   2     3     4    5    6          Mesure no                               1     2     3     4     5       6
+Average gas flow over the                                                   Débit moyen des gaz évacués
+duration of measurement (norm.                                              durant la mesure (m3 norm./min)
+m3/min)                                                                     Concentration moyenne du
+Average mercury concentration                                               mercure durant la mesure (ug/m3
+over the duration of measurement                                            norm.)
+(ug/norm. m3)                                                               Évaluation de rejet de mercure (g/
+Calculated mercury release rate                                             jour par 1 000 kg de la production
+(g/day/1,000 kg of rated capacity)                                          nominale)
+Average of Measurements                                                     Moyenne des mesures
+
+          (Signature)                                                                  (Signature)
+
+          (Title)                                                                     (Titre)
+
+          (Date)                                                                      (Date)
+
+          (Signature of attending Enforcement Officer)(if applicable)                 (Signature de l’agent de l’autorité présent, s’il y a lieu)
+
+          (Date)                                                                      (Date)
+SOR/93-231, s. 2(E); SOR/2000-102, s. 1.                                    DORS/93-231, art. 2(A); DORS/2000-102, art. 1.
+
+
+
+
+                                                                        6
+                                                DORS/90-130 — 6 octobre 2010
+
+
+
+
+                           SCHEDULE II                                                            ANNEXE II
+                            (Section 6)                                                            (article 6)
+
+          MALFUNCTION OR BREAKDOWN REPORT                            RAPPORT DE MAUVAIS FONCTIONNEMENT OU DE PANNE
+During the month of                                         19       Mois visé                                                    19
+Name of Owner or Operator                                            Nom du propriétaire ou de l’exploitant
+Address of Plant                                                     Adresse de la fabrique
+Telephone Number (Plant)                                             Numéro de téléphone (fabrique)
+Rated Capacity                                                       Production nominale
+Unit or Process                                                      Unité ou procédé
+Date of Malfunction or Breakdown                                     Date du mauvais fonctionnement ou de la panne
+Time                                                                 Heure
+Duration (min)                                                       Durée (min)
+Nature of Malfunction or Breakdown                                   Nature du mauvais fonctionnement ou de la panne
+
+
+Corrective Action Taken                                              Mesures correctives prises
+Estimated mercury release during malfunction or breakdown (g)        Rejet estimatif de mercure au cours du mauvais fonctionnement ou de
+                                                                     la panne (g)
+
+
+          (Signature)
+                                                                                 (Signature)
+          (Title)
+                                                                                 (Titre)
+          (Date)
+SOR/93-231, s. 2(E).                                                             (Date)
+                                                                     DORS/93-231, art. 2(A).
+
+
+
+
+                                                                 7
+                                                    SOR/90-130 — October 6, 2010
+
+
+
+
+                           SCHEDULE III                                                                 ANNEXE III
+                             (Section 7)                                                                 (article 7)
+
+      AIR POLLUTION CONTROL EQUIPMENT REPORT                                  RAPPORT SUR LE MATÉRIEL DE LUTTE CONTRE LA
+                                                                                      POLLUTION ATMOSPHÉRIQUE
+Name of Owner or Operator
+                                                                          Nom du propriétaire ou de l’exploitant
+Address of Plant
+                                                                          Adresse de la fabrique
+Telephone Number (Plant)
+                                                                          Numéro de téléphone (fabrique)
+Unit or Process
+                                                                          Unité ou procédé
+Type of Air Pollution Control Equipment
+                                                                          Type de matériel de lutte contre la pollution atmosphérique
+Supplier of Air Pollution Control Equipment
+Schedule of Installation
+                                                                          Fournisseur du matériel
+  Engineering Design Initiated (date)
+                                                                          Calendrier d’installation :
+  Air Pollution Control Equipment Ordered (date)
+                                                                            Conception technique commencée le (date)
+  Installation of Air Pollution Control Equipment Initiated (date)
+                                                                            Matériel commandé le (date)
+  Installation of Air Pollution Control Equipment Completed (date)
+                                                                            Installation du matériel commencée le (date)
+  Start-up of Air Pollution Control Equipment (date)
+                                                                            Installation du matériel achevée le (date)
+(Attach copy of control equipment specifications and purchase order
+when order is placed or amended.)                                           Matériel mis en service le (date)
+                                                                          (Joindre copie des spécifications du matériel et de la commande dans
+          (Signature)                                                     le cas d’une commande nouvelle ou modifiée.)
+
+          (Title)                                                                    (Signature)
+
+          (Date)                                                                    (Titre)
+SOR/93-231, s. 2(E).
+                                                                                    (Date)
+                                                                          DORS/93-231, art. 2(A).
+
+
+
+
+                                                                      8
+

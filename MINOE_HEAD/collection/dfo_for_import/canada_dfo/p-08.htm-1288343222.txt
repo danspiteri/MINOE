@@ -1,0 +1,733 @@
+
+
+
+
+
+_[_F_r_a_n_ç_a_i_s_]
+_R_e_t_u_r_n_ _t_o_ _L_i_s_t_ _o_f_ _A_c_t_s
+===============================================================================
+CHAPTER P-8
+Pesticides Control Act
+Chapter Outline
+Definitions
+1
+analyst - analyste
+animal - animal
+Board - Commission
+body of water - Ã©tendue dâ€™eau
+certificate - certificat
+Crown - Couronne
+Director - directeur
+inspector - inspecteur
+licence - licence
+Minister - Ministre
+natural environment - environnement naturel
+permit - permis
+pest - parasite
+pesticide - pesticide
+pesticide container - rÃ©cipient Ã  pesticide
+premises - lieux
+sell - vendre
+vendor - vendeur
+Administration
+2
+Director of Pesticides Control
+3
+Pesticides Advisory Board
+4
+Expenses of Board
+5
+Jurisdiction of Board
+6(1)
+Sittings of Board
+6(2), (3)
+Board may retain persons to advise
+6(4)
+Exemptions
+7
+Restriction or prohibition on the use of pesticides
+8, 9
+Issuance of licence or certificate
+10(1)-(3)
+Appeal of refusal
+10(4)
+Renewal of licence or certificate
+10(5)
+Suspension or revocation of licence or certificate
+10(6), (7)
+Appeal of suspension or revocation
+10(8)
+Repealed
+11
+Issuance of permit
+12(1)-(3)
+Renewal of permit
+12(4)
+Suspension or revocation of permit
+12(5)
+Reinstatement of permit
+12(6)
+Repealed
+13
+Necessity of vendorâ€™s licence
+14
+Necessity of pesticide operatorâ€™s licence
+15
+Repealed
+16(1)
+Necessity of certificate or permit
+16(2)
+Repealed
+16(3)
+Repealed
+16(4)
+Repealed
+17
+Restriction on use of pesticide
+18(1)
+Prohibition respecting licences and certificates
+18(1.1)
+Statement on container as evidence
+18(2)
+Prohibition to wash or submerge pesticide container
+19
+Prohibition to discharge pesticide mixer or cleaner
+20
+Storing or transporting pesticide in dangerous manner
+21
+Prohibition respecting pesticide containers
+22, 23
+Disposal of pesticide to be in accordance with regulations
+24
+Disposal of pesticide container to be in accordance with regulations
+24.1
+Order of Minister respecting contaminated matter
+25
+Appointment of analysts
+26(1)
+Certificate of analysis as evidence
+26(2)
+Appointment of inspectors
+27(1)
+Power of inspector
+27(2)
+Obstruction of inspector
+27(3)
+Respecting suspension or termination of use of pesticide
+28
+Orders to be in writing
+28.1
+Appeal to Pesticides Advisory Board
+29(1)
+Hearing respecting appeal to Board
+29(2)
+Recommendation of Board respecting appeal
+29(3)
+Power of Minister respecting appeal
+29(4)
+Effect of order where appeal
+29(5)
+Offences and penalties
+30
+Proceedings limitation period
+30.01
+Deposit or discharge of pesticide contrary to Act or regulations
+30.1
+Service of documents
+31
+Regulations
+32
+Crown bound by Act
+33
+SCHEDULE A
+
+1In this Act
+``analyst'' means an analyst appointed by the Minister pursuant to sectionÂ 26;
+``animal'' includes any bird, reptile, amphibian, fish, invertebrate or mammal
+other than a human;
+``Board'' means the Pesticides Advisory Board established under sectionÂ 4;
+``body of water'' includes ground water, a natural or artificial lake, pond,
+river, bay, marsh, creek, brook or stream and shore water, coastal waters,
+marine waters and any waters in which aquaculture is to be, is or was carried
+on;
+``certificate'' means a valid and subsisting certificate issued under this Act
+or the regulations;
+``Crown'' means the Crown in the right of the Province and includes a Crown
+Corporation;
+``Director'' means the Director of Pesticides Control appointed under
+sectionÂ 3;
+``inspector'' means an inspector appointed by the Minister pursuant to
+sectionÂ 27;
+``licence'' means a valid and subsisting licence issued under this Act or the
+regulations;
+``Minister'' means the Minister of Environment and includes any person
+designated by the Minister to act on the Ministerâ€™s behalf;
+``natural environment'' means air, land and water or any combination or part
+thereof;
+``permit'' means a valid and subsisting permit issued under this Act or the
+regulations;
+``pest'' means any injurious, noxious or troublesome plant or animal life other
+than plant or animal life on or in a human and includes any injurious, noxious
+or troublesome organic function of a plant or animal;
+``pesticide'' means any product, device, organism, substance or thing or
+combination of any products, devices, organisms, substances or things that is
+intended to be or is represented as, sold as or used as a means for
+(a)directly or indirectly controlling, preventing, killing, destroying,
+mitigating, attracting or repelling any pest, or
+(b)altering the growth, development or characteristics of any living plant that
+is not a pest,
+and any metabolite or degradation product of such product, device, organism,
+substance or thing and includes any product, device, organism, substance or
+thing that is required to be registered as a control product under the Pest
+Control Products Act (Canada) and any metabolite or degradation product of such
+product, device, organism, substance or thing;
+``pesticide container'' means a package or an apparatus that contains or has
+contained either a pesticide or pesticide residue;
+``premises'' includes land and any interest therein, and any buildings
+thereupon;
+``sell'' includes offer for sale, expose for sale, display or advertise for
+sale or have in possession for sale and distribution;
+``vendor'' means a person who sells or supplies a pesticide to any other person
+within the Province.
+1973, c.15, s.1; 1976, c.45, s.1; 1979, c.54, s.1; 1982, c.48, s.1; 1986, c.8,
+s.96; 1987, c.40, s.1; 1989, c.55, s.41; 1994, c.92, s.1; 2000, c.26, s.235;
+2006, c.16, s.132.
+
+2The Minister is charged with the administration of this Act and may designate
+persons to act on the Ministerâ€™s behalf.
+1973, c.15, s.2; 1994, c.92, s.2.
+
+3The Minister shall appoint, as an employee of the Department of Environment, a
+Director of Pesticides Control.
+1973, c.15, s.3; 1979, c.54, s.2; 1982, c.3, s.55; 1986, c.8, s.96; 1989, c.55,
+s.41; 2000, c.26, s.235; 2006, c.16, s.132.
+
+4(1)There shall be a Board to be known as the Pesticides Advisory Board, to be
+appointed by the Lieutenant-Governor in Council and composed as follows:
+(a)the Director, as Chairman;
+(b)two members from the Department of Agriculture and Aquaculture;
+(c)two members from the Department of Environment;
+(d)one member from the Department of Health;
+(e)one member from the Department of Natural Resources;
+(f)one member from the Workplace Health, Safety and Compensation Commission;
+and
+(g)where the Lieutenant-Governor in Council considers it advisable, up to two
+other persons.
+4(2)A majority of the members of the Board constitutes a quorum.
+1973, c.15, s.4; 1976, c.45, s.2; 1982, c.48, s.2; 1986, c.8, s.96; 1989, c.55,
+s.41; 1994, c.70, s.7; 1996, c.25, s.25; 2000, c.26, s.235; 2004, c.20, s.47;
+2006, c.16, s.132; 2007, c.10, s.72.
+
+5The Lieutenant-Governor in Council may fix the rate for reimbursement of the
+expenses incurred by members of the Board while acting on behalf of the Board.
+1973, c.15, s.5.
+
+6(1)The Board
+(a)shall review the content and operation of this Act and the regulations and
+may recommend changes thereto to the Minister,
+(b)may, where the Board considers it advisable, and shall, when requested by
+the Minister, inquire into and consider any matters concerning pesticides and
+report thereon to the Minister, and
+(c)shall perform such other functions as are prescribed in this Act and the
+regulations or by the Minister.
+6(2)The Board may, in the performance of its duties under this Act, sit at such
+times and places in the Province as it considers necessary, but it shall hold
+at least one sitting each year to hear representations from interested persons
+with respect to any matter concerning pesticides.
+6(3)Notice of the time and place fixed by the Board for any sitting to be held
+by it to hear representations from interested persons shall be given by
+advertisement published in The Royal Gazette and in at least three newspapers
+of general circulation in the Province at least thirty days before the
+commencement of such sitting.
+6(4)The Board may, in the performance of its duties under this Act, retain such
+persons as it considers appropriate to advise the Board, and such persons may,
+at the request of the Board, sit with the Board and participate in the hearing
+of any matter before the Board, but shall not vote on the disposition of any
+such matter.
+1973, c.15, s.6; 1982, c.48, s.3.
+
+7(1)The Minister, on the advice of the Board, may exempt any person, class of
+person, vendor, class of vendor, product or device from any of the provisions
+of this Act and the regulations.
+7(2)An exemption made under subsectionÂ (1) shall take effect when notice
+thereof is published in The Royal Gazette.
+7(3)Where, upon the advice of the Board, the Minister is of the opinion that
+any person having an exemption under this section has contravened any provision
+of this Act or the regulations made thereunder, notice to that effect shall be
+given to that person and thereupon the exemption with respect to that person
+shall cease to apply.
+1973, c.15, s.7; 1982, c.48, s.4.
+
+8(1)The Minister,
+(a)upon seeking the advice of the Board, or
+(b)upon the request of the Minister of Health;
+may restrict or prohibit the sale, supplying or use of any pesticide and may
+impose such conditions with respect to the sale, supplying or use of the
+pesticides as the Minister considers necessary.
+8(2)Where the Minister has restricted or prohibited the sale, supplying or use
+of any pesticide pursuant to subsectionÂ (1), the Minister shall publish a
+notice thereof in The Royal Gazette.
+8(3)No person shall be convicted of an offence consisting of a contravention of
+sectionÂ 9 committed before a notice is published in The Royal Gazette pursuant
+to subsectionÂ (2) unless it is proved that at the date of the alleged
+contravention reasonable steps had been taken to bring the purport of the
+restriction or prohibition to the notice of those persons likely to be affected
+by it.
+1973, c.15, s.8; 1979, c.54, s.3; 1982, c.48, s.5; 1986, c.8, s.96; 1994, c.92,
+s.3; 2000, c.26, s.235; 2006, c.16, s.132.
+
+9Where the Minister has restricted or prohibited the sale, supplying or use of
+any pesticide under sectionÂ 8, no person shall
+(a)sell or supply that pesticide, or
+(b)use that pesticide,
+except in accordance with such conditions as are specified in the terms of a
+restriction.
+1973, c.15, s.9.
+
+10(1)Subject to subsections (2) and (3), the Director, upon receipt of a
+written application in accordance with the regulations along with any
+prescribed fee, may issue to an applicant a vendorâ€™s licence, a pesticide
+operatorâ€™s licence or a certificate that is prescribed by regulation.
+10(2)The Director may impose those terms and conditions that the Director
+considers appropriate
+(a)on an applicant under subsectionÂ (1), to be met before the application may
+be granted, or
+(b)on a licence or certificate issued under subsectionÂ (1), to be met by the
+holder or other persons operating under the licence or certificate during or
+after the period when it is valid.
+10(3)The Director may refuse to issue a licence or certificate under
+subsectionÂ (1) in the circumstances the Director considers appropriate,
+including where
+(a)the applicant has been convicted of a violation of a provision of this Act
+or the regulations or any provision relating to pesticides in any other Act of
+the Legislature, any Act of the Parliament of Canada or any regulation or
+statutory instrument under those Acts,
+(b)in the opinion of the Director, on reasonable and probable grounds, the
+applicant has failed to comply with any term or condition imposed on the
+applicant or on a licence, certificate or permit previously issued to the
+applicant under this Act or the regulations, or
+(c)a licence, certificate or permit previously issued to the applicant under
+this Act or the regulations was revoked.
+10(4)A person whose application under subsectionÂ (1) is refused may appeal to
+the Minister, who may uphold the refusal or direct the Director to issue the
+licence or certificate, subject to such terms and conditions as the Minister
+considers appropriate.
+10(5)The holder of a licence or certificate issued under subsectionÂ (1) may
+apply to the Director for renewal of the licence or certificate and subsections
+(1) to (4) apply with the necessary modifications to that application.
+10(6)The Director may suspend a licence or certificate issued under
+subsectionÂ (1) for the period the Director considers appropriate or may revoke
+it if
+(a)the Director has reasonable and probable grounds to believe that any person
+operating under the licence or certificate has refused or failed to comply with
+a provision of this Act or the regulations, an order made under any of them or
+any term or condition imposed on the person or on the licence or certificate,
+or
+(b)the Director is of the opinion that it is in the public interest to suspend
+or revoke the licence or certificate.
+10(7)No licence or certificate shall be suspended or revoked under subsectionÂ 
+(6) unless the holder of the licence or certificate has been given an
+opportunity to be heard by the Director.
+10(8)A person whose licence or certificate has been suspended or revoked under
+subsectionÂ (6) may appeal to the Minister, who may uphold the suspension or
+revocation or direct the Director to reinstate the licence or certificate,
+subject to such terms and conditions as the Minister considers appropriate.
+1973, c.15, s.10; 1982, c.48, s.6; 1994, c.92, s.4; 2002, c.28, s.1.
+
+11 Repealed: 1982, c.48, s.7.
+1973, c.15, s.11; 1982, c.48, s.7.
+
+12(1)Subject to subsections (2) and (3), the Minister, upon seeking the advice
+of the Board and upon receipt of a written application in accordance with the
+regulations along with any prescribed fee, may issue a permit authorizing the
+application of a pesticide to any area, including any body of water, within the
+Province.
+12(2)The Minister may impose those terms and conditions that the Minister
+considers appropriate
+(a)on an applicant under subsectionÂ (1), to be met before the application may
+be granted, or
+(b)on a permit issued under subsectionÂ (1), to be met by the holder or other
+persons operating under the permit during or after the period when it is valid.
+12(3)The Minister may refuse to issue a permit under subsectionÂ (1) in the
+circumstances the Minister considers appropriate, including where
+(a)the applicant has been convicted of a violation of a provision of this Act
+or the regulations or any provision relating to pesticides in any other Act of
+the Legislature, any Act of the Parliament of Canada or any regulation or
+statutory instrument under those Acts,
+(b)in the opinion of the Minister, on reasonable and probable grounds, the
+applicant has failed to comply with any term or condition imposed on the
+applicant or on a licence, certificate or permit previously issued to the
+applicant under this Act or the regulations, or
+(c)a licence, certificate or permit previously issued to the applicant under
+this Act or the regulations was revoked.
+12(4)The holder of a permit issued under subsectionÂ (1) may apply to the
+Minister for renewal of the permit and subsections (1) to (3) apply with the
+necessary modifications to that application.
+12(5)The Minister may suspend a permit issued under subsectionÂ (1) for the
+period the Minister considers appropriate or may revoke it if
+(a)the Minister has reasonable and probable grounds to believe that any person
+operating under the permit has refused or failed to comply with a provision of
+this Act or the regulations, an order made under any of them or any term or
+condition imposed on the person or on the permit, or
+(b)the Minister is of the opinion that it is in the public interest to suspend
+or revoke the permit.
+12(6)The Minister may reinstate a permit suspended under subsectionÂ (5)
+subject to such terms and conditions as the Minister considers appropriate.
+1973, c.15, s.12; 1976, c.45, s.3; 1979, c.54, s.4; 1982, c.48, s.8; 1994,
+c.92, s.5; 2002, c.28, s.2.
+
+13 Repealed: 1994, c.92, s.6.
+1973, c.15, s.13; 1979, c.54, s.5; 1982, c.48, s.9; 1987, c.6, s.79; 1994,
+c.92, s.6.
+
+14No person shall offer for sale, sell or supply a pesticide unless that person
+holds a vendorâ€™s licence issued under this Act.
+1973, c.15, s.14; 1982, c.48, s.10; 1994, c.92, s.7.
+
+15No person shall operate a business or provide or offer to provide a service
+involving the use or application of a pesticide for fee or reward unless that
+person holds a pesticide operatorâ€™s licence issued under this Act.
+1973, c.15, s.15; 1976, c.45, s.4; 1982, c.48, s.11; 1987, c.40, s.2.
+
+16(1) Repealed: 1979, c.54, s.6.
+16(2)No person shall apply a pesticide to any area, including any body of
+water, within the Province unless
+(a)the person holds a certificate issued under this Act, and
+(b)a permit has been issued under this Act,
+authorizing the application of the pesticide.
+16(3) Repealed: 1982, c.48, s.12.
+16(4) Repealed: 1982, c.48, s.12.
+1973, c.15, s.16; 1976, c.45, s.5; 1979, c.54, s.6; 1982, c.48, s.12; 1994,
+c.92, s.8.
+
+17 Repealed: 1976, c.45, s.6.
+1973, c.15, s.17; 1976, c.45, s.6.
+
+18(1)No person shall use a pesticide
+(a)for a purpose other than that for which it is sold or supplied in the normal
+course of trade, or
+(b)in a manner contrary to
+(i)regulations as to its use,
+(ii)the manufacturerâ€™s written recommendation as to its use, contained in or
+upon the pesticide container in which the pesticide was contained, or
+(iii)any term or condition imposed on the person or on a permit issued under
+sectionÂ 12.
+18(1.1)No person shall fail or refuse to comply with a term or condition
+imposed on the person or on a licence or certificate issued under sectionÂ 10.
+18(2)A statement contained in or upon a pesticide container in which a
+pesticide is or was contained, purporting to be a recommendation as to the use
+of pesticide contained therein, is admissible in evidence in a prosecution for
+a violation of subsectionÂ (1) or (1.1) and, in the absence of proof to the
+contrary, shall be held to be the manufacturerâ€™s written recommendation as to
+the use of the pesticide contained therein.
+1973, c.15, s.18; 1979, c.54, s.7; 1994, c.92, s.9.
+
+19No person shall wash or submerge in a body of water, or cause water from a
+body of water to be drawn into a pesticide container or an apparatus used for
+the mixing or application of a pesticide in a manner contrary to the
+regulations.
+1973, c.15, s.19.
+
+20No person shall discharge into a body of water any substance used in
+(a)mixing or applying a pesticide, or
+(b)washing a pesticide container.
+1973, c.15, s.20.
+
+21No person shall store or transport a pesticide in a manner that may allow the
+pesticide to come directly or indirectly into contact with human, animal or
+plant life in a manner that could be injurious to that life.
+1973, c.15, s.21.
+
+22No person shall sell a pesticide in a package or container other than one
+supplied by the manufacturer of the pesticide unless the package or container
+is of a type approved by regulation and unless the person provides in or upon
+the package or container in which the person sells the pesticide such
+information respecting its handling and use as is required by law to be stated
+in or upon the package or container in which pesticide of the type sold is
+supplied by the manufacturer.
+1973, c.15, s.22; 1994, c.92, s.10.
+
+23Except for purposes of the administration and enforcement of this Act and the
+regulations, no person shall have possession of, store or transport a pesticide
+in a package or container other than
+(a)the package or container in which it was originally stored for sale after
+its manufacture or offered for sale or sold by a vendor, or
+(b)a package or container of a type approved by regulation.
+1973, c.15, s.23; 1982, c.48, s.13; 1994, c.92, s.11.
+
+24No person shall dispose of a pesticide or a mixture containing a pesticide in
+a manner contrary to the regulations.
+1973, c.15, s.24; 1982, c.48, s.14.
+
+24.1No person shall dispose of a pesticide container in a manner contrary to
+the regulations.
+1982, c.48, s.14.
+
+25Where any crop, food, feed, animal, plant, water, product or other matter is
+shown upon inspection and analysis to be contaminated by a pesticide, the
+Minister may, by order,
+(a)restrict or prohibit the sale, handling, use or distribution of the crop,
+food, feed, animal, plant, water, product or other matter permanently or for
+such length of time as the Minister considers necessary, or
+(b)order the crop, food, feed, animal, plant, water, product or other matter to
+be destroyed or rendered harmless,
+and no person shall be entitled to compensation from the Crown for anything
+done in accordance with such order.
+1973, c.15, s.25; 1994, c.92, s.12.
+
+26(1)The Minister may appoint qualified persons as analysts for the purposes of
+this Act and the regulations.
+26(2)In a prosecution for a violation of this Act or the regulations, a
+certificate of analysis of any substance signed by an analyst is admissible in
+evidence and, in the absence of evidence to the contrary, shall be conclusive
+proof of the facts stated therein, without proof of the signature or
+appointment of the person making the certificate.
+1973, c.15, s.26.
+
+27(1)The Minister may appoint inspectors for the purposes of carrying out the
+provisions of this Act and the regulations.
+27(2)An inspector who has reasonable and probable grounds to believe that a
+pesticide is or has been stored on a premises or in a vehicle or is being or
+has been transported in a vehicle may, at any reasonable time, enter and
+inspect the premises or vehicle and may, upon doing so,
+(a)take samples for analysis of
+(i)any pesticide, or
+(ii)any crop, food, feed, animal, plant, soil, water, product or other matter;
+and
+(b)examine any books, records, registers, letters, bills or documents
+concerning the sale, purchase, supply, distribution, application or use of
+pesticides.
+27(3)No person shall hinder, obstruct or knowingly mislead an inspector in the
+lawful performance of the inspectorâ€™s duties under this Act or the
+regulations.
+1973, c.15, s.27; 1982, c.48, s.15; 1994, c.92, s.13.
+
+28(1)Where an inspector has reasonable and probable grounds to believe that a
+person is using a pesticide or a pesticide container or is using a method of
+storage, transportation, application or disposal of a pesticide or a pesticide
+container, or a method of cleaning a pesticide container, that is
+(a)contrary to this Act or the regulations,
+(b)dangerous to the health of a person or animal or harmful to soil, crops or
+plant life, or
+(c)contrary to any term or condition imposed on a person or on a licence,
+certificate or permit issued under this Act or the regulations,
+the inspector may order that person to stop immediately the use, storage,
+transportation, application or disposal of the pesticide or pesticide
+container, or the use of any method in connection therewith, either permanently
+or for a period of time specified in the order, and may direct the order as
+well to any other person owning or having charge, management or control of the
+pesticide or pesticide container or having control or supervision over the
+actions of any person to whom the order is directed.
+28(1.1)Repealed: 2002, c.28, s.3.
+28(2)The inspector shall immediately forward a copy of the order and the
+reasons for the order to the Chairman of the Board.
+1973, c.15, s.28; 1979, c.54, s.8; 1982, c.48, s.16; 1994, c.92, s.14; 2002,
+c.28, s.3.
+
+28.1(1)Except in the case of an emergency situation, an order made under this
+Act, including an amendment or revocation of an order, shall
+(a)be in writing,
+(b)include the reasons for the order, and
+(c)be served upon each person to whom the order is directed.
+28.1(2)Where an order made pursuant to subsection 28(1) is made in an emergency
+situation, the contents of the order shall be put in writing and served upon
+each person to whom the order was directed within forty-eight hours after the
+time when it was made, but a failure to comply with this subsection does not
+invalidate the order.
+2002, c.28, s.4.
+
+29(1)A person affected by an order made by an inspector under sectionÂ 28 may
+appeal to the Board by delivering or mailing by prepaid post to the Board,
+within thirty days after the day on which the order was served, a notice of
+appeal together with the grounds upon which the appeal is based.
+29(2)Upon receiving a notice of appeal, the Chairperson of the Board shall
+arrange for a hearing to be held into the matter within five days after receipt
+of the notice of appeal, and the Board shall provide the person against whom
+the order was made, the inspector and any other person the Board considers to
+be an interested person the opportunity to appear before the Board either in
+person with counsel or by counsel.
+29(3)The Board shall review all evidence presented at the hearing and all
+representations made and shall, within forty-eight hours after the hearing,
+submit a recommendation to the Minister that the order stand, be revoked or be
+varied.
+29(4)After considering the recommendation of the Board, the Minister may
+declare that the order stand, may revoke the order, or may vary the order in
+any way the Minister considers appropriate.
+29(5)Where an appeal is taken against an order made under sectionÂ 28, the
+order is effective until revoked or varied pursuant to subsectionÂ (4) unless
+the Minister in writing stays the application of the order pending appeal.
+1973, c.15, s.29; 1982, c.48, s.17; 1994, c.92, s.15; 2002, c.28, s.5.
+
+30(1)A person who violates or fails to comply with any provision of the
+regulations commits an offence.
+30(1.1)A person who violates or fails to comply with
+(a)an order of the Minister made under sectionÂ 25, after being served with a
+copy of the order or having knowledge of the order, or
+(b)an order of an inspector made under sectionÂ 28, after being served with a
+copy of the order or having knowledge of the order,
+commits an offence.
+30(1.11)A person who violates or fails to comply with a provision of this Act
+that is listed in Column I of Schedule A commits an offence.
+30(1.12)For the purposes of Part II of the Provincial Offences Procedure Act,
+each offence listed in Column I of Schedule A is punishable as an offence of
+the category listed beside it in Column II of Schedule A.
+30(1.2)Where an offence under subsectionÂ (1) continues for more than one day,
+(a)the minimum fine that may be imposed is the minimum fine set by the
+Provincial Offences Procedure Act multiplied by the number of days during which
+the offence continues, and
+(b)the maximum fine that may be imposed is the maximum fine set by the
+Provincial Offences Procedure Act multiplied by the number of days during which
+the offence continues.
+30(1.3)In a prosecution for an offence under this section, it is sufficient
+proof of the offence to establish that it was committed by an employee or agent
+of the accused, whether or not the employee or agent is identified or has been
+prosecuted for the offence, unless the accused establishes that the offence was
+committed without the accusedâ€™s knowledge or consent and that the accused
+exercised all due diligence to prevent the commission of the offence.
+30(2)In a prosecution for a violation of an order of the Minister made under
+sectionÂ 25, a document purporting to be an order of the Minister made under
+that section is admissible in evidence without proof of the signature or
+appointment of the person purporting to have signed the order, and is, in the
+absence of evidence to the contrary, proof of the making of the order and of
+its contents.
+30(3)In a prosecution for a violation of an order of an inspector made under
+sectionÂ 28, a document purporting to be an order of an inspector made under
+that section is admissible in evidence without proof of the signature or
+appointment of the person purporting to have signed the order, and is, in the
+absence of evidence to the contrary, proof of the making of the order and of
+its contents.
+30(4)In a prosecution for an offence under this Act or the regulations, a
+certificate purporting to be signed by the Director stating that a person of
+the same name as the accused held or did not hold a licence, certificate or
+permit issued under this Act or the regulations on a date specified in the
+certificate is admissible in evidence, without proof of the signature or
+appointment of the person purporting to have signed it, and is, in the absence
+of evidence to the contrary, proof that the accused held or did not hold, as
+the case may be, a licence, certificate or permit issued under this Act or the
+regulations on the date specified.
+1973, c.15, s.30; 1979, c.54, s.9; 1982, c.48, s.18; 1987, c.4, s.11; 1990,
+c.61, s.106; 1994, c.92, s.16.
+
+30.01Proceedings with respect to an offence under this Act or the regulations
+may be instituted at any time within two years after the time when the subject
+matter of the proceedings arose.
+2002, c.28, s.6.
+
+30.1(1)Where there occurs the deposit or discharge of a pesticide, or a
+substance or thing containing a pesticide, into or upon the natural
+environment, or in or upon any premises, in a manner contrary to this Act or
+the regulations and by reason thereof there is caused, or there exists the
+likelihood of causing, injury or damage to the natural environment or to human,
+animal or plant life, a person who at any material time
+(a)owns the pesticide or substance or has the charge, management or control of
+it, or
+(b)causes or contributes to the deposit or discharge,
+shall immediately notify the Director of the deposit or discharge and shall
+take such measures as are prescribed by the regulations, or as may be required
+by the Director, with respect to preventing, counteracting, mitigating or
+remedying any adverse effects that result or may reasonably be expected to
+result therefrom.
+30.1(2)Notwithstanding subsectionÂ (1), the Director may take such steps as the
+Director considers necessary to prevent, counteract, mitigate or remedy any
+adverse effects that result or may reasonably be expected to result from a
+deposit or discharge referred to in subsectionÂ (1), and any costs reasonably
+incurred by the Province with respect to such action are recoverable by the
+Minister by action in a court of competent jurisdiction as a debt owed to Her
+Majesty in right of the Province by
+(a)persons referred to in paragraphÂ (1)(a), who are liable jointly and
+severally, subject to subsectionÂ (3), and
+(b)persons referred to in paragraphÂ (1)(b), who are liable jointly and
+severally according to their respective degrees of fault or negligence.
+30.1(3)The liability under subsectionÂ (2) of a person referred to in
+paragraphÂ (1)(a) is absolute and does not depend on proof of fault or
+negligence, but no such person is liable if the person establishes that the
+occurrence giving rise to the liability was wholly caused by
+(a)an act of war, hostilities, civil war, insurrection or a natural phenomenon
+of an exceptional, inevitable and irresistible character, or
+(b)an act or omission with intent to cause damage by a person other than a
+person for whose wrongful act or omission he is by law responsible,
+and nothing in this subsection limits or restricts any right of recourse that
+any person who is liable pursuant to subsectionÂ (2) may have against any other
+person.
+1982, c.48, s.19; 1994, c.92, s.17; 2002, c.28, s.7.
+
+31Service of any document required to be served under this Act may be effected
+by serving the document personally upon the person to be served or upon any
+adult residing at the residence of the person to be served, while at the
+residence, or by mailing the document by prepaid registered mail to the latest
+known address of the person, and where sent by registered mail shall be deemed
+to have been effected on the fifth day after the day of mailing unless the
+person to whom it was sent establishes that, through no fault of the
+personâ€™s, the person did not receive the document.
+1973, c.15, s.31; 1994, c.92, s.18.
+
+32The Lieutenant-Governor in Council may make regulations
+(a)respecting terms, conditions, qualifications and requirements applicable to
+licences, certificates and permits before their issue or during or after the
+period when they are valid or to applicants for, holders of or other persons
+operating under licences, certificates or permits;
+(a.1) Repealed: 1979, c.54, s.10.
+(b)respecting records to be kept and returns to be made by the holders of
+licences, certificates and permits;
+(b.1)prescribing classes of certificates to be issued by the Director;
+(c)respecting fees for the purposes of this Act and the regulations;
+(c.1)respecting the manner of making application for and the procedure
+respecting issuance of licences, certificates and permits;
+(c.2)respecting forms for the purposes of this Act and the regulations;
+(d)respecting the storage, use, transportation, packaging, handling or
+application of pesticides;
+(e)respecting the offering for sale, sale or supply of a pesticide or a
+substance treated by or mixed with a pesticide, whether in bulk or not;
+(f)approving containers for the sale, storage or transportation of a pesticide
+in a package or container other than that in which it was originally stored
+after manufactured or sold;
+(g)respecting the manner in which a pesticide container or other apparatus used
+in connection with a pesticide may be disposed of;
+(g.1)respecting terms, conditions and requirements to be met by licence,
+certificate and permit holders, and others, in the event a pesticide is
+deposited or discharged in a manner contrary to this Act or the regulations and
+in preventing, counteracting, mitigating or remedying any adverse effects that
+result or may reasonably be expected to result from such deposit or discharge;
+(h)respecting procedures to be used in respect of appeals under this Act;
+(i)respecting the manner in which water from an open body of water may be drawn
+into a pesticide container or an apparatus used for the mixing or application
+of a pesticide, and the equipment required to be used therefor;
+(j)respecting any other matter considered necessary or advisable for the
+effective carrying out of the purposes of this Act.
+1973, c.15, s.32; 1976, c.45, s.7; 1979, c.54, s.10; 1982, c.48, s.20; 1994,
+c.92, s.19.
+
+33The Crown is bound by this Act.
+1973, c.15, s.33; 1982, c.48, s.21.
+
+34This Act or any provision hereof shall come into force on a day to be fixed
+by proclamation.
+1973, c.15, s.34.
+
+SCHEDULE A
+Column I   Column II
+Section    Category of Offence
+
+                
+  Â Â 
+  Â Â 9      F  
+  14         F  
+  15         F  
+  16(2)      H  
+  18(1)      I  
+  18(1.1)    I  
+  19         I  
+  20         I  
+  21         J  
+  22         F  
+  23         F  
+  24         I  
+  24.1       F  
+  27(3)      E  
+  30(1)      B  
+  30(1.1)(a) J  
+  30(1.1)(b) J  
+  30.1(1)    J  
+1990, c.61, s.106; 1994, c.92, s.20.
+N.B. This Act was proclaimed and came into force JuneÂ 1, 1974.
+N.B. This Act is consolidated to November 1, 2009.

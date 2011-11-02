@@ -1,0 +1,814 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+  Vinyl Chloride Release                                         Règlement de 1992 sur le
+    Regulations, 1992                                            rejet de chlorure de vinyle
+
+                       SOR/92-631                                                        DORS/92-631
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published             31. (1) Every copy of a consolidated statute or            31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies      (3) In the event of an inconsistency between a              (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                                  Enregistrement
+SOR/92-631 November 12, 1992                                  DORS/92-631 Le 12 novembre 1992
+CANADIAN ENVIRONMENTAL PROTECTION ACT,                        LOI CANADIENNE SUR LA PROTECTION DE
+1999                                                          L’ENVIRONNEMENT (1999)
+
+Vinyl Chloride Release Regulations, 1992                      Règlement de 1992 sur le rejet de chlorure de vinyle
+
+P.C. 1992-2279 November 12, 1992                              C.P. 1992-2279 Le 12 novembre 1992
+
+   Whereas, pursuant to subsection 48(1) of the Canadi-          Attendu que, conformément au paragraphe 48(1) de la
+an Environmental Protection Act*, the Minister of the         Loi canadienne sur la protection de l’environnement*, le
+Environment published in the Canada GazettePart I on          ministre de l’Environnement a fait publier dans la Ga-
+December 21, 1991, a copy of the proposed Regulations         zette du Canada Partie I, le 21 décembre 1991, le projet
+respecting the release of vinyl chloride from vinyl chlo-     de Règlement concernant le rejet de chlorure de vinyle
+ride plants and polyvinyl chloride plants, substantially in   provenant des fabriques de chlorure de vinyle et de chlo-
+the form annexed hereto;                                      rure de polyvinyle, conforme en substance au texte ci-
+  And Whereas, in the opinion of the Governor in              après;
+Council, pursuant to subsection 34(3) of that Act, the          Attendu que, conformément au paragraphe 34(3) de
+proposed Regulations do not regulate any aspect of any        cette loi, selon le gouverneur en conseil, le projet de rè-
+substance that is regulated by or under any other Act of      glement ne vise pas un point déjà réglementé sous le ré-
+Parliament;                                                   gime d’une autre loi fédérale,
+   Therefore, His Excellency the Governor General in             À ces causes, sur recommandation du ministre de
+Council, on the recommendation of the Minister of the         l’Environnement et du ministre de la Santé nationale et
+Environment and the Minister of National Health and           du Bien-être social et en vertu du paragraphe 34(1)** et
+Welfare, pursuant to subsection 34(1)** and section 38 of     de l’article 38 de la Loi canadienne sur la protection de
+the Canadian Environmental Protection Act*, is pleased        l’environnement*, il plaît à Son Excellence le Gouver-
+hereby to revoke the Vinyl Chloride Release Regula-           neur général en conseil d’abroger le Règlement sur le re-
+tions, made by Order in Council P.C. 1990-237 of              jet de chlorure de vinyle, pris par le décret C.P.
+February 15, 1990***, and to make the annexed Regula-         1990-237 du 15 février 1990***, et de prendre en rempla-
+tions respecting the release of vinyl chloride from vinyl     cement le Règlement concernant le rejet de chlorure de
+chloride plants and polyvinyl chloride plants, in substi-     vinyle provenant des fabriques de chlorure de vinyle et
+tution therefor.                                              de chlorure de polyvinyle, ci-après.
+
+
+
+
+*                                                              * 
+    R.S., c. 16 (4th Supp.)                                        L.R., ch. 16 (4e suppl.)
+**                                                             ** 
+     S.C. 1989, c. 9, s. 2                                          L.C. 1989, ch. 9, art. 2
+***                                                            *** 
+     SOR/90-125, 1990 Canada Gazette Part II, p. 768                DORS/90-125, Gazette du Canada Partie II, 1990, p. 768
+REGULATIONS RESPECTING THE RELEASE OF                            RÈGLEMENT CONCERNANT LE REJET DE
+   VINYL CHLORIDE FROM VINYL CHLORIDE                               CHLORURE DE VINYLE PROVENANT DES
+   PLANTS AND POLYVINYL CHLORIDE                                    FABRIQUES DE CHLORURE DE VINYLE ET
+   PLANTS                                                           DE CHLORURE DE POLYVINYLE
+
+                     SHORT TITLE                                                     TITRE ABRÉGÉ
+   1. These Regulations may be cited as the Vinyl Chlo-            1. Règlement de 1992 sur le rejet de chlorure de vi-
+ride Release Regulations, 1992.                                  nyle.
+
+                  INTERPRETATION                                                      DÉFINITIONS
+  2. In these Regulations,                                         2. Les définitions qui suivent s’appliquent au présent
+“Act” means the Canadian Environmental Protection                règlement.
+Act, 1999; (Loi)                                                 « conditions normales d’exploitation » S’entend au sens
+“bulk polymerized resin” means a resin that is manufac-          des méthodes uniformes de référence. (normal operating
+tured by a polymerization process in which no diluent is         conditions)
+used; (résine polymérisée en masse)                              « copolymère » Résine formée par la répétition de motifs
+“copolymer resin” means a resin that comprises repeat-           de deux ou plusieurs composés. (copolymer resin)
+ing molecular units of two or more compounds; (copoly-           « émission diffuse » Émission de chlorure de vinyle qui
+mère)                                                            résulte de l’exposition à l’air d’eaux usées de procédé ou
+“day”, in respect of a plant, means a period of 24 consec-       de l’utilisation normale des lignes de chargement et de
+utive hours; (journée)                                           déchargement, des pompes, des joints d’étanchéité des
+                                                                 compresseurs et des agitateurs, des joints des conduits,
+“dispersion polymerized resin” means a resin manufac-            des récipients ouverts, des réservoirs de stockage, des
+tured by the polymerization of vinyl chloride in an aque-        hottes de laboratoire, ainsi que des systèmes de ventila-
+ous medium that contains emulsifiers and that yields par-        tion des bâtiments. Sont exclues de la présente définition
+ticles that measure between 0.01 and 1.0 micron; (résine         les émissions provenant des évents de poste de fabrica-
+polymérisée en dispersion)                                       tion, des réacteurs de polymérisation, des épurateurs de
+“fugitive emission” means an emission of vinyl chloride          résine ou des épurateurs de suspension. (fugitive emis-
+that results from the exposure of process waste water to         sion)
+air or from the normal operations of loading and unload-         « épurateur de résine » Dispositif servant à extraire le
+ing lines, pumps, compressor and agitator seals, pipe            chlorure de vinyle de la résine. (resin stripper)
+joints, open vessels, storage tanks, laboratory fume hood
+vents and building ventilation systems, but does not in-         « épurateur de suspension » Dispositif servant à extraire
+clude an emission from a process vent, polymerization            le chlorure de vinyle des suspensions résiniques. (slurry
+reactor, resin stripper or slurry stripper; (émission dif-       stripper)
+fuse)                                                            « évent de poste de fabrication » Évent dégageant du
+“homopolymer resin” means a resin that comprises re-             chlorure de vinyle directement ou indirectement dans
+peating molecular units of a single compound; (homopo-           l’air. Sont exclus de la présente définition :
+lymère)                                                            a) les évents du système d’aération d’un bâtiment,
+“manual venting” means the controlled release of a                 s’ils assurent l’évacuation séparément;
+quantity of vinyl chloride from a polymerization reactor
+to counteract an abnormal increase in temperature and
+
+
+
+
+                                                             1
+                                           SOR/92-631 — October 6, 2010
+
+
+
+
+pressure within the polymerization reactor; (ventilation            b) les évents en aval de l’épurateur de résine ou de
+manuelle)                                                           l’épurateur de suspension, s’ils assurent l’évacuation
+“normal operating conditions” has the same meaning as               séparément;
+in the Standard Reference Method; (conditions normales              c) les évents de réacteur de polymérisation, durant
+d’exploitation)                                                     l’ouverture du réacteur, s’ils assurent l’évacuation sé-
+“operator” means the person who is responsible for the              parément. (process vent)
+operation of a plant; (exploitant)                                « exploitant » La personne responsable de l’exploitation
+“plant” means a vinyl chloride plant or a polyvinyl chlo-         d’une fabrique. (operator)
+ride plant; (fabrique)                                            « fabrique » Fabrique de chlorure de vinyle ou fabrique
+“polymerization reactor” means a reactor in which vinyl           de chlorure de polyvinyle. (plant)
+chloride is partially or totally polymerized into polyvinyl       « fabrique de chlorure de polyvinyle » Installation ser-
+chloride; (réacteur de polymérisation)                            vant à la polymérisation de chlorure de vinyle, seul ou
+“polyvinyl chloride plant” means a facility in which              en combinaison avec d’autres matières. (polyvinyl chlo-
+vinyl chloride is polymerized alone or in combination             ride plant)
+with other materials; (fabrique de chlorure de polyvi-            « fabrique de chlorure de vinyle » Installation qui rejette
+nyle)                                                             du chlorure de vinyle au cours de la fabrication du chlo-
+“ppm” means parts per million; (ppm)                              rure de vinyle, du dichlorure d’éthylène ou du trichlo-
+                                                                  ro-1,1,1 éthane. (vinyl chloride plant)
+“process vent” means a vent that emits vinyl chloride di-
+rectly or indirectly into the air, other than                     « homopolymère » Résine formée par la répétition de
+                                                                  motifs d’un même composé. (homopolymer resin)
+  (a) a building ventilation exhaust vent that vents sep-
+  arately,                                                        « journée » À l’égard d’une fabrique, période de 24
+                                                                  heures consécutives. (day)
+  (b) a vent that is downstream of the slurry stripper or
+  resin stripper that vents separately, and                       « Loi » La Loi canadienne sur la protection de l’environ-
+                                                                  nement (1999). (Act)
+  (c) a polymerization reactor vent that vents separate-
+  ly, when the polymerization reactor is opened; (évent           « méthodes uniformes de référence » Le rapport EPS 1-
+  de poste de fabrication)                                        AP-77-1 du ministère de l’Environnement intitulé Mé-
+                                                                  thodes uniformes de référence pour le contrôle à la
+“resin stripper” means equipment in which vinyl chlo-             source des émissions de chlorure de vinyle par la fabri-
+ride is removed from resin; (épurateur de résine)                 cation de chlorure de vinyle et de chlorure de polyvinyle,
+“slurry stripper” means equipment in which vinyl chlo-            publié en juin 1979, avec ses modifications successives.
+ride is removed from slurry; (épurateur de suspension)            (Standard Reference Method)
+“Standard Reference Method” means the Standard Ref-               « ppm » Parties par million. (ppm)
+erence Methods for Source Testing: Measurement of                 « réacteur de polymérisation » Réacteur dans lequel se
+Emissions of Vinyl Chloride from Vinyl Chloride and               fait la polymérisation, partielle ou totale, du chlorure de
+Polyvinyl Chloride Manufacturing, Department of the               vinyle en chlorure de polyvinyle. (polymerization reac-
+Environment Report EPS-1-AP-77-1, June 1979, as                   tor)
+amended from time to time; (méthodes uniformes de ré-
+férence)                                                          « résine polymérisée en dispersion » Résine fabriquée par
+                                                                  la polymérisation du chlorure de vinyle en milieu
+
+
+
+
+                                                              2
+                                           DORS/92-631 — 6 octobre 2010
+
+
+
+
+“suspension polymerized resin” means a resin manufac-             aqueux, en présence d’émulsifiants, qui forme des parti-
+tured by the polymerization of vinyl chloride in an aque-         cules de 0,01 à 1,0 micron. (dispersion polymerized
+ous medium that contains a suspension agent and that              resin)
+yields particles that measure between 50 and 2 000 mi-            « résine polymérisée en masse » Résine fabriquée par un
+crons; (résine polymérisée en suspension)                         procédé de polymérisation ne comportant aucun diluant.
+“vinyl chloride plant” means a facility in which vinyl            (bulk polymerized resin)
+chloride is released during the manufacture of vinyl              « résine polymérisée en suspension » Résine fabriquée
+chloride, ethylene dichloride or 1,1,1,trichlorethane; (fa-       par la polymérisation du chlorure de vinyle en milieu
+brique de chlorure de vinyle)                                     aqueux, en présence d’un agent de suspension, qui forme
+“vinyl chloride recovery system” means a system that is           des particules de 50 à 2000 microns. (suspension poly-
+used in a polyvinyl chloride plant to gather and recover          merized resin)
+vinyl chloride that is present at the end of the polymer-         « système de récupération de chlorure de vinyle » Sys-
+ization process and to control releases of vinyl chloride         tème utilisé dans une fabrique de chlorure de polyvinyle
+that are associated with the collection and recovery              afin de récupérer le chlorure de vinyle qui est présent à
+thereof. (système de récupération de chlorure de vinyle)          la fin de la polymérisation et de contrôler les rejets de
+SOR/2000-102, s. 19.
+                                                                  chlorure de vinyle auxquels cette récupération donne
+                                                                  lieu. (vinyl chloride recovery system)
+                                                                  « ventilation manuelle » Le rejet contrôlé d’une quantité
+                                                                  de chlorure de vinyle provenant d’un réacteur de poly-
+                                                                  mérisation, effectué afin d’y neutraliser toute augmenta-
+                                                                  tion anormale de la température et de la pression. (manu-
+                                                                  al venting)
+                                                                  DORS/2000-102, art. 19.
+
+              RESPONSIBILITY OF OWNERS                                    RESPONSABILITÉ DU PROPRIÉTAIRE
+  3. The owner of a plant shall ensure that the operator             3. Le propriétaire d’une fabrique doit s’assurer que
+operates the plant in accordance with these Regulations.          l’exploitant exploite celle-ci conformément au présent
+                                                                  règlement.
+
+             RELEASE OF VINYL CHLORIDE                                       REJET DE CHLORURE DE VINYLE
+   4. (1) No operator of a vinyl chloride plant shall re-            4. (1) Il est interdit à l’exploitant d’une fabrique de
+lease from any process vent vinyl chloride in excess of           chlorure de vinyle de rejeter, à partir de tout évent de
+both                                                              poste de fabrication, du chlorure de vinyle dépassant à la
+   (a) 10 ppm by volume; and                                      fois :
+
+   (b) 2 kg per day.                                                 a) 10 ppm en volume;
+                                                                     b) 2 kg par journée.
+   (2) No operator of a polyvinyl chloride plant shall re-          (2) Il est interdit à l’exploitant d’une fabrique de
+lease vinyl chloride in excess of                                 chlorure de polyvinyle de rejeter du chlorure de vinyle
+                                                                  dépassant :
+
+
+
+
+                                                              3
+                                           SOR/92-631 — October 6, 2010
+
+
+
+
+  (a) 0.002 kg per 100 kg of polyvinyl chloride pro-                a) dans le cas du rejet à l’ouverture d’un réacteur de
+  duced by a polymerization reactor since the time the              polymérisation, 0,002 kg par 100 kg de chlorure de
+  polymerization reactor was last opened, where the                 polyvinyle produit par le réacteur de polymérisation
+  polymerization reactor is opened;                                 depuis sa dernière ouverture;
+  (b) 0.02 kg per 100 kg of polyvinyl chloride produced             b) dans le cas du rejet provenant de toutes les sources
+  in the manufacture of homopolymer suspension poly-                en aval de l’épurateur de suspension, 0,02 kg par 100
+  merized resins, from all sources downstream of the                kg de chlorure de polyvinyle produit au cours de la fa-
+  slurry stripper;                                                  brication de résines polymérisées en suspension ho-
+  (c) 0.04 kg per 100 kg of polyvinyl chloride produced             mopolymères;
+  in the manufacture of bulk polymerized resins, from               c) dans le cas du rejet provenant de toutes les sources
+  all sources downstream of the resin stripper; or                  en aval de l’épurateur de résine, 0,04 kg par 100 kg de
+  (d) 0.2 kg per 100 kg of polyvinyl chloride produced              chlorure de polyvinyle produit au cours de la fabrica-
+  in the manufacture of dispersion polymerized resins or            tion de résines polymérisées en masse;
+  the manufacture of copolymer resins, from all sources             d) dans le cas du rejet provenant de toutes les sources
+  downstream of the slurry stripper.                                en aval de l’épurateur de suspension, 0,2 kg par 100
+                                                                    kg de chlorure de polyvinyle produit au cours de la fa-
+                                                                    brication de résines polymérisées en dispersion ou de
+                                                                    copolymères.
+   (3) No operator of a polyvinyl chloride plant shall re-           (3) Il est interdit à l’exploitant d’une fabrique de
+lease from any process vent vinyl chloride the concentra-         chlorure de polyvinyle de rejeter, à partir de tout évent
+tion of which exceeds 10 ppm by volume, including the             de poste de fabrication, du chlorure de vinyle dont la
+release as a result of                                            concentration dépasse 10 ppm en volume, notamment le
+  (a) the operation of the vinyl chloride recovery sys-           rejet résultant d’un des facteurs suivants :
+  tem;                                                              a) le fonctionnement du système de récupération de
+  (b) the exhausting and purging procedures for a poly-             chlorure de vinyle;
+  merization reactor, slurry stripper or resin stripper;            b) l’évacuation et la purge du réacteur de polymérisa-
+  (c) the slurry stripping or resin stripping procedures;           tion, de l’épurateur de suspension ou de l’épurateur de
+  or                                                                résine;
+
+  (d) the depressurizing of the polymerization reactor              c) l’épuration des suspensions ou des résines;
+  by manual venting or other depressurizing procedures              d) la dépressurisation du réacteur de polymérisation
+  that are used as a means of controlling operating con-            par ventilation manuelle ou toute autre dépressurisa-
+  ditions.                                                          tion effectuée aux fins du contrôle des conditions
+                                                                    d’exploitation.
+   (4) Subject to subsection (5), no operator shall release          (4) Sous réserve du paragraphe (5), il est interdit à
+vinyl chloride from any source other than from a process          l’exploitant de rejeter du chlorure de vinyle provenant
+vent, a polymerization reactor that is opened, or any oth-        d’une source autre qu’un évent de poste de fabrication,
+er source referred to in subsections (1) to (3).                  un réacteur de polymérisation qui est ouvert ou de
+                                                                  sources autres que celles visées aux paragraphes (1) à
+                                                                  (3).
+
+
+
+
+                                                              4
+                                           DORS/92-631 — 6 octobre 2010
+
+
+
+
+   (5) Subsection (4) does not apply to the operator in              (5) Le paragraphe (4) ne s’applique pas à l’exploitant
+respect of the release of fugitive emissions if the opera-        en cas de rejet d’émissions diffuses s’il a mis en applica-
+tor has implemented a plan referred to in section 9.              tion le plan visé à l’article 9.
+  (6) For the purposes of this section, the concentration            (6) Pour l’application du présent article, la concentra-
+or quantity of vinyl chloride released shall be measured          tion ou la quantité de chlorure de vinyle rejeté se mesure
+by the appropriate test method described in the Standard          selon la méthode applicable décrite dans les méthodes
+Reference Method.                                                 uniformes de référence.
+   (7) Notwithstanding subsection (6), the concentration             (7) Par dérogation au paragraphe (6), la concentration
+or quantity of vinyl chloride released shall be determined        ou la quantité de chlorure de vinyle rejeté est déterminée
+by estimations and calculations obtained from the infor-          selon les estimations et les calculs obtenus à partir des
+mation available where the appropriate test method de-            renseignements dont il dispose dans le cas où la méthode
+scribed in the Standard Reference Method cannot be                applicable décrite dans les méthodes uniformes de réfé-
+used.                                                             rence ne peut être utilisée.
+
+             INFORMATION AND SAMPLES                                     RENSEIGNEMENTS ET ÉCHANTILLONS
+  5. (1) The Minister may, at any time, request that the             5. (1) Le ministre peut, en tout temps, demander à
+operator submit to the Minister                                   l’exploitant de lui fournir :
+   (a) any information referred to in Schedules I to VI;             a) tout renseignement visé aux annexes I à VI;
+   and                                                               b) tout échantillon de chlorure de vinyle ainsi que
+   (b) any sample of vinyl chloride and any information              tout renseignement concernant cet échantillon.
+   that relates to the sample.
+   (2) For the purposes of paragraph (1)(b), an enforce-             (2) Pour l’application de l’alinéa (1)b), l’échantillon
+ment officer shall be present whenever a sample is taken          est prélevé en présence de l’agent de l’autorité si le mi-
+if the Minister so requests.                                      nistre l’exige.
+   (3) The operator shall submit the information or sam-             (3) L’exploitant fournit au ministre dans les délais
+ple within the time specified in the Minister’s request.          fixés par ce dernier dans sa demande tout renseignement
+SOR/2000-102, s. 20.                                              ou échantillon.
+                                                                  DORS/2000-102, art. 20.
+
+                   QUARTERLY REPORTS                                              RAPPORTS TRIMESTRIELS
+   6. (1) The operator shall submit to the Minister for              6. (1) L’exploitant doit soumettre au ministre, pour
+each calendar quarter, not later than 30 days after the end       chaque trimestre civil, dans les 30 jours suivant la fin du
+of the quarter, a report in the form set out in                   trimestre, un rapport en la forme prévue à :
+   (a) Schedule I, in respect of any release of vinyl chlo-          a) l’annexe I, en cas de rejet de chlorure de vinyle
+   ride from a process vent;                                         provenant d’un évent de poste de fabrication;
+   (b) Schedule II, in respect of any release of vinyl               b) l’annexe II, en cas de rejet de chlorure de vinyle
+   chloride from a polymerization reactor that is opened;            provenant d’un réacteur de polymérisation ouvert;
+
+
+
+
+                                                              5
+                                           SOR/92-631 — October 6, 2010
+
+
+
+
+  (c) Schedule III, in respect of any release of vinyl              c) l’annexe III, en cas de rejet de chlorure de vinyle
+  chloride from all sources downstream of the slurry                provenant de toutes les sources en aval de l’épurateur
+  stripper or resin stripper; and                                   de suspension ou de l’épurateur de résine;
+  (d) Schedule IV, in respect of any release of vinyl               d) l’annexe IV, en cas de rejet de chlorure de vinyle
+  chloride from any source other than a process vent, a             provenant d’une source autre qu’un évent de poste de
+  polymerization reactor that is opened or any other                fabrication, un réacteur de polymérisation ouvert ou
+  source referred to in paragraphs (a) to (c).                      de sources autres que celles visées aux alinéas a) à c).
+   (2) For the purposes of Schedule I and subject to sub-             (2) Pour l’application de l’annexe I et sous réserve du
+section (5), the operator shall obtain samples from any           paragraphe (5), l’exploitant doit prélever des échan-
+process vent, analyse the samples and calculate the aver-         tillons à partir de tout évent de poste de fabrication, en
+age of the results of the analysis on a dry and undiluted         faire l’analyse et calculer la moyenne des résultats de
+basis, corrected to 10 per cent oxygen and determined             celle-ci à l’état sec et non dilué, laquelle moyenne est ra-
+for each consecutive three-hour period during a day.              menée à une teneur de 10 pour cent en oxygène et établie
+                                                                  pour chaque période de trois heures consécutives d’une
+                                                                  journée.
+  (3) For the purposes of Schedule II and subject to                  (3) Pour l’application de l’annexe II et sous réserve
+subsection (5), the operator shall obtain samples from            du paragraphe (5), l’exploitant doit prélever des échan-
+each polymerization reactor that is opened and shall              tillons à partir de chaque réacteur de polymérisation ou-
+analyse the samples.                                              vert et en faire l’analyse.
+   (4) For the purposes of Schedule III and subject to                (4) Pour l’application de l’annexe III et sous réserve
+subsection (5), the operator shall obtain samples once            du paragraphe (5), l’exploitant doit prélever des échan-
+every eight hours in the case of a continuous stripper,           tillons une fois toutes les huit heures, dans le cas des
+and immediately after the end of the stripping operation          opérations d’épuration en continu, et à la fin de chaque
+in the case of a batch stripper, and shall analyse the sam-       cycle d’épuration, dans le cas des opérations d’épuration
+ples and determine the average of the results of the anal-        par lot; il doit en faire l’analyse et calculer la moyenne
+ysis for each day.                                                des résultats de celle-ci pour chaque journée.
+   (5) Subsections (2) to (4) do not apply at any time              (5) Les paragraphes (2) à (4) ne s’appliquent pas pen-
+when the sampling or analysis equipment is being main-            dant l’entretien, le calibrage et la réparation du matériel
+tained, calibrated or repaired.                                   d’échantillonnage ou d’analyse.
+  (6) For the purposes of this section, the operator shall          (6) Pour l’application du présent article, l’exploitant
+obtain the information required by Schedules I to IV by           doit obtenir les renseignements exigés aux annexes I à
+  (a) the appropriate test method described in the Stan-          IV selon l’une des méthodes suivantes :
+  dard Reference Method; or                                         a) la méthode applicable décrite dans les méthodes
+  (b) any other test method the result of which can be              uniformes de référence;
+  confirmed by the method referred to in paragraph (a).             b) toute autre méthode dont le résultat peut être
+                                                                    confirmé par la méthode visée à l’alinéa a).
+
+
+
+
+                                                              6
+                                            DORS/92-631 — 6 octobre 2010
+
+
+
+
+  REPORT UNDER PARAGRAPH 95(1)(A) OF THE                           RAPPORT AUX TERMES DE L’ALINÉA 95(1)A) DE
+                  ACT                                                              LA LOI
+  7. (1) The operator is not required to make a report               7. (1) L’exploitant n’est pas obligé de faire rapport
+under paragraph 95(1)(a) of the Act if the amount of               conformément à l’alinéa 95(1)a) de la Loi dans les cas
+vinyl chloride released                                            des rejets de chlorure de vinyle :
+   (a) from process vents, is less than 100 kg per day;               a) provenant des évents de poste de fabrication, de
+   (b) from a polymerization reactor that is opened, is               moins de 100 kg par journée;
+   less than 100 kg per day;                                          b) provenant d’un réacteur de polymérisation ouvert,
+   (c) from sources downstream of the slurry stripper or              de moins de 100 kg par journée;
+   resin stripper, exceeds the quantity set out in para-              c) provenant de sources en aval de l’épurateur de sus-
+   graph 4(2)(b), (c) or (d), as applicable, for a period of          pension ou de l’épurateur de résine, en quantité supé-
+   seven continuous days or less; and                                 rieure à celles mentionnées aux alinéas 4(2)b), c) ou
+   (d) from any source other than a process vent, a poly-             d), selon le cas, pendant au plus sept journées consé-
+   merization reactor that is opened or any other source              cutives;
+   referred to in paragraphs (a) to (c),                              d) provenant d’une source autre qu’un évent de poste
+      (i) is less than 100 kg, or                                     de fabrication, un réacteur de polymérisation ouvert
+                                                                      ou de sources autres que celles visées aux alinéas a) à
+      (ii) is a fugitive emission and the operator has im-            c) :
+      plemented a plan referred to in section 9.
+                                                                         (i) soit de moins de 100 kg,
+                                                                         (ii) soit qui constituent des émissions diffuses, à la
+                                                                         condition que l’exploitant ait mis en application le
+                                                                         plan visé à l’article 9.
+   (2) The operator shall, within 20 days after reporting            (2) L’exploitant doit fournir au ministre un rapport
+a release to an enforcement officer pursuant to paragraph          écrit en la forme prévue à l’annexe V selon l’une des
+95(1)(a) of the Act, submit a written report to the Minis-         méthodes visées au paragraphe 6(6), dans les 20 jours
+ter in the form set out in Schedule V in accordance with           suivant le rapport d’un rejet à l’agent de l’autorité
+a test method referred to in subsection 6(6).                      conformément à l’alinéa 95(1)a) de la Loi.
+   (3) Notwithstanding subsection (2), the operator shall             (3) Par dérogation au paragraphe (2), dans le cas où
+provide information regarding a release of vinyl chloride          les renseignements exigés à l’annexe V ne peuvent être
+obtained from estimations and calculations made from               obtenus selon l’une des méthodes visées au paragraphe
+information available to the operator where any informa-           6(6), l’exploitant doit les fournir selon les estimations et
+tion that is required by Schedule V cannot be obtained in          les calculs obtenus à partir des renseignements dont il
+accordance with any test method referred to in subsec-             dispose.
+tion 6(6).                                                         DORS/2000-102, art. 20 et 21.
+SOR/2000-102, ss. 20, 21.
+
+                    COMPLIANCE REPORT                                              RAPPORT DE CONFORMITÉ
+  8. (1) The operator shall submit to the Minister a                 8. (1) L’exploitant doit soumettre au ministre un rap-
+compliance report in the form set out in Schedule VI as            port de conformité en la forme prévue à l’annexe VI ain-
+
+
+
+
+                                                               7
+                                           SOR/92-631 — October 6, 2010
+
+
+
+
+well as all supporting information in the form set out in         si que tout renseignement à l’appui selon la forme pré-
+the Standard Reference Method                                     vue dans les méthodes uniformes de référence :
+   (a) once in each calendar year; and                               a) chaque année civile;
+   (b) at any time on the request of the Minister.                   b) à la demande du ministre, en tout temps.
+   (2) For the purposes of subsection (1) and in accor-              (2) Pour l’application du paragraphe (1) et conformé-
+dance with the appropriate test method described in the           ment à la méthode applicable décrite dans les méthodes
+Standard Reference Method, the operator shall take sam-           uniformes de référence, l’exploitant doit prélever les
+ples during normal operating conditions of the plant and          échantillons dans les conditions normales d’exploitation
+shall analyse the samples.                                        et effectuer les analyses.
+  (3) For the purposes of paragraph (1)(a), the operator            (3) Pour l’application de l’alinéa (1)a), l’exploitant
+shall                                                             doit :
+   (a) where a compliance report has previously been                 a) dans le cas où un rapport de conformité a été sou-
+   submitted to the Minister, take samples no earlier than           mis au ministre, prélever les échantillons au plus tôt
+   6 months and no later than 18 months after the date of            six mois et au plus tard 18 mois après la date à la-
+   the completion of the taking of samples for the previ-            quelle s’est terminé le prélèvement des échantillons
+   ous report;                                                       pour le rapport précédent;
+   (b) give notice in writing to the Minister, at least six          b) donner au ministre un avis écrit l’informant au
+   weeks in advance, of the day on which the taking of               moins six semaines à l’avance de la date du commen-
+   samples is to begin;                                              cement du prélèvement des échantillons;
+   (c) when requested to do so by the Minister, take and             c) prélever les échantillons et effectuer les analyses
+   analyse samples in the presence of an enforcement of-             en présence de l’agent de l’autorité si le ministre
+   ficer; and                                                        l’exige;
+   (d) submit the compliance report within 90 days after             d) soumettre le rapport de conformité dans les 90
+   the completion of the taking of samples.                          jours après avoir terminé le prélèvement des échan-
+                                                                     tillons terminé.
+  (4) For the purposes of paragraph (1)(b), the operator            (4) Pour l’application de l’alinéa (1)b), l’exploitant
+shall                                                             doit :
+   (a) when requested to do so by the Minister, take and             a) prélever les échantillons et effectuer les analyses
+   analyse samples in the presence of an enforcement of-             en présence de l’agent de l’autorité si le ministre
+   ficer; and                                                        l’exige;
+   (b) submit the compliance report within 90 days after             b) soumettre le rapport de conformité dans les 90
+   the day on which the Minister requested the report.               jours suivant la date de la demande du ministre.
+SOR/2000-102, s. 20.                                              DORS/2000-102, art. 20.
+
+         CONTROL OF FUGITIVE EMISSIONS                                LUTTE CONTRE LES ÉMISSIONS DIFFUSES
+   9. (1) The operator shall submit to the Minister a               9. (1) L’exploitant doit soumettre au ministre un plan
+plan for the control of fugitive emissions by the later of        de lutte contre les émissions diffuses au dernier en date
+                                                                  des jours suivants :
+
+
+
+
+                                                              8
+                                           DORS/92-631 — 6 octobre 2010
+
+
+
+
+  (a) the day that is 60 days after the day on which                a) le 60e jour suivant la date d’entrée en vigueur du
+  these Regulations come into force, and                            présent règlement;
+  (b) the day on which the plant initially commences                b) le jour où la fabrique commence l’exploitation
+  operations.                                                       pour la première fois.
+   (2) The operator shall, in a plan referred to in subsec-         (2) Dans le plan visé au paragraphe (1), l’exploitant
+tion (1), describe                                                doit fournir les renseignements suivants :
+  (a) the technology used to reduce fugitive emissions,             a) les techniques utilisées pour réduire les émissions
+  as described in the Code of Good Operating Practice               diffuses décrites dans le Code de recommandations
+  for Vinyl Chloride and Polyvinyl Chloride Manufac-                techniques pour les fabriques de chlorure de vinyle et
+  turing Operations, published on December 21, 1991                 de chlorure de polyvinyle, publié le 21 décembre 1991
+  in the Canada Gazette Part I, as amended from time to             dans la Gazette du Canada Partie I, avec ses modifica-
+  time;                                                             tions successives;
+  (b) the location and number of work area monitors                 b) le nombre d’appareils de mesure et les lieux où ils
+  and shall include information that relates to the fre-            sont installés, ainsi que la fréquence d’échantillon-
+  quency of sampling, the analyzer range and the alarm              nage, le registre de l’appareil d’analyse et les points
+  set-points of the monitors;                                       de consigne d’alarme de ces appareils;
+  (c) the schedule for the repair of leaks in accordance            c) le calendrier établi pour le colmatage des fuites se-
+  with their magnitude; and                                         lon leur ampleur;
+  (d) the preventive maintenance program, including                 d) le programme d’entretien préventif, ainsi que le ca-
+  the schedule for refurbishing and replacing parts and             lendrier de la remise à neuf et du remplacement des
+  the nature and frequency of inspections and of any ac-            pièces, la nature et la fréquence des inspections et
+  tions to be taken in respect of that program.                     toutes les autres mesures à prendre en vertu de ce pro-
+                                                                    gramme.
+   (3) The operator shall implement the plan referred to             (3) L’exploitant doit mettre en application le plan vi-
+in subsection (1) within 60 days after the day on which           sé au paragraphe (1) dans les 60 jours suivant la date de
+the plan is submitted to the Minister.                            présentation du plan au ministre.
+   (4) The operator shall keep a record of maintenance,             (4) L’exploitant doit garder un registre de l’entretien,
+repairs and other actions taken regarding the implemen-           des réparations et des autres mesures prises quant à la
+tation of the plan referred to in subsection (1).                 mise en application du plan visé au paragraphe (1).
+
+  PLAN TO PREVENT ACCIDENTAL RELEASES                                     PLAN DE PRÉVENTION DES REJETS
+                                                                                   ACCIDENTELS
+   10. (1) The operator shall submit to the Minister a               10. (1) L’exploitant doit soumettre au ministre un
+plan respecting the reduction of the potential and impact         plan visant à réduire la possibilité et l’impact des rejets
+of releases of vinyl chloride, other than releases in re-         de chlorure de vinyle, autres que ceux soustraits à l’obli-
+spect of which a report is not required pursuant to sec-          gation de faire rapport conformément à l’article 7, au
+tion 7, by the later of                                           dernier en date des jours suivants :
+  (a) the day that is 60 days after the day on which                a) le 60e jour suivant la date d’entrée en vigueur du
+  these Regulations come into force, and                            présent règlement;
+
+
+
+
+                                                              9
+                                           SOR/92-631 — October 6, 2010
+
+
+
+
+   (b) the day on which the plant initially commences                 b) le jour où la fabrique commence l’exploitation
+   operations.                                                        pour la première fois.
+   (2) The operator shall include in a plan required by               (2) L’exploitant doit inclure dans le plan exigé au pa-
+subsection (1) the elements for such a plan as described           ragraphe (1) les éléments du plan décrits dans le Code
+in the Code referred to in paragraph 9(2)(a).                      visé à l’alinéa 9(2)a).
+   (3) The operator shall implement the plan referred to              (3) L’exploitant doit mettre en application le plan vi-
+in subsection (1) within 60 days after the day on which            sé au paragraphe (1) dans les 60 jours suivant la date de
+the plan is submitted to the Minister.                             présentation du plan au ministre.
+
+          SIGNING OF PLANS AND REPORTS                                 SIGNATURE DES RAPPORTS ET DES PLANS
+   11. Any plan or report that is submitted under any of              11. Les rapports et les plans présentés selon l’un des
+sections 6 to 10 by a corporation shall be signed by an            articles 6 à 10 que soumet une personne morale sont si-
+officer of the corporation who is authorized to do so.             gnés par un dirigeant de celle-ci autorisé à le faire.
+
+                       RECORD-KEEPING                                                   TENUE DES LIVRES
+   12. The operator shall retain at the plant, for a period          12. L’exploitant doit garder sur le site de la fabrique
+of three years, the information in respect of any plan or          pendant trois ans tout renseignement relatif aux plans et
+report that is submitted pursuant to these Regulations             aux rapports présentés conformément au présent règle-
+and shall make the information available to an enforce-            ment et le soumettre à l’agent de l’autorité, sur demande,
+ment officer on request within the time established in the         dans les délais exigés par celui-ci.
+request.                                                           DORS/2000-102, art. 20.
+SOR/2000-102, s. 20.
+
+
+
+
+                                                              10
+                                                   DORS/92-631 — 6 octobre 2010
+
+
+
+
+                         SCHEDULE I                                                                   ANNEXE I
+   (Paragraphs 5(1)(a) and 6(1)(a) and subsections 6(2) and (6))                 (alinéas 5(1)a) et 6(1)a) et paragraphes 6(2) et (6))
+
+     QUARTERLY REPORT MONITORING RESULTS OF                              RAPPORT TRIMESTRIEL RÉSULTATS DE LA MESURE DES
+  RELEASES OF VINYL CHLORIDE FROM PROCESS VENTS                            REJETS DE CHLORURE DE VINYLE PROVENANT DES
+                                                                                  ÉVENTS DE POSTE DE FABRICATION
+Company                                                    City
+                                                                        Entreprise                                                       Ville
+Process Vent:
+                                                                        Évent de poste de fabrication
+Type
+No.                                                                     Type                                                             N°
+Mont % 3-hr. periods of     % 3-hr. periods Total vinyl chloride                                  % des périodes de 3          Total de
+h    venting analyzed       below 10 ppm released/month (kg)                 % des périodes de 3 heures de                     chlorure de
+                                                                             heures de            dégagements au-              vinyle rejeté
+                                                                        Mois dégagements analysés dessous de 10 ppm            par mois (kg)
+
+
+
+
+Releases exceeding                                                      Rejets dépassant :
+(a) 10 ppm and 2 kg/day, for vinyl chloride plants; and                 a) 10 ppm et 2 kg par journée pour les fabriques de chlorure de vi-
+                                                                        nyle
+(b) 10 ppm for polyvinyl chloride plants
+                                                                        b) 10 ppm pour les fabriques de chlorure de polyvinyle
+                                                  Cause and                       concentration
+     Durati Average ppm         Vinyl chloride    corrective                      moyenne de         chlorure de
+Date on     vinyl chloride      released (kg)     measures                   Duré chlorure de vinyle vinyle rejeté           cause et mesures
+                                                                        Date e    (ppm)              (kg)                    correctives
+
+
+
+
+                                                                   11
+                                                  SOR/92-631 — October 6, 2010
+
+
+
+
+                         SCHEDULE II                                                                 ANNEXE II
+   (Paragraphs 5(1)(a) and 6(1)(b) and subsections 6(3) and (6))                 (alinéas 5(1)a) et 6(1)b) et paragraphes 6(3) et (6))
+
+   QUARTERLY REPORT MONITORING RESULTS OF                                 RAPPORT TRIMESTRIEL RÉSULTATS DE LA MESURE DES
+RELEASES OF VINYL CHLORIDE FROM POLYMERIZATION                              REJETS DE CHLORURE DE VINYLE PROVENANT DES
+           REACTORS THAT ARE OPENED                                            RÉACTEURS DE POLYMÉRISATION OUVERTS
+Company                                                   City           Entreprise                                                      Ville
+               % Openings where releases                                                       % d’ouvertures rejetant
+      %        do not exceed 0.002 kg      Total vinyl                                         moins de 0,002 kg de           Total de
+      Openings vinyl chloride/ 100 kg      chloride released/                 %                chlorure de vinyle / 100 kg    chlorure de
+Month analysed polyvinyl chloride produced month (kg)                         d’ouvertures     de chlorure de polyvinyle      vinyle rejeté par
+                                                                         Mois analysées        produit                        mois (kg)
+
+
+
+
+Releases exceeding 0.002 kg vinyl chloride/100 kg polyvinyl chlo-        Rejets dépassant 0,002 kg de chlorure de vinyle par 100 kg de chlo-
+ride produced between openings                                           rure de polyvinyle produit entre les ouvertures
+                 kg Vinyl                                                                    kg de chlorure de
+                 chloride/ 100 kg                                                            vinyle/100 kg de chlorure de        cause et
+                 polyvinyl                       Cause and                                   chlorure de        vinyle rejeté    mesures
+       Reactor   chloride         Vinyl chloride corrective              Date Réacteur no    polyvinyle produit (kg)             correctives
+Date   No        produced         released (kg) measures
+
+
+
+
+                                                                    12
+                                                    DORS/92-631 — 6 octobre 2010
+
+
+
+
+                        SCHEDULE III                                                                  ANNEXE III
+   (Paragraphs 5(1)(a) and (1)(c) and subsections 6(4) and (6))                   (alinéas 5(1)a) et 6(1)c) et paragraphes 6(4) et (6))
+
+     QUARTERLY REPORT MONITORING RESULTS OF                                RAPPORT TRIMESTRIEL RÉSULTATS DE LA MESURE DES
+     RELEASES OF VINYL CHLORIDE FROM SOURCES                                 REJETS DE CHLORURE DE VINYLE PROVENANT DE
+     DOWNSTREAM OF SLURRY STRIPPERS OR RESIN                              SOURCES EN AVAL DES ÉPURATEURS DE SUSPENSION OU
+                     STRIPPERS                                                        DES ÉPURATEURS DE RÉSINE
+Company                                                      City         Entreprise                                                      Ville
+Type of resin                               Process                       Type de résine                     Procéd
+Homopolymer suspension          [ ]         Batch      [ ]                                                   é
+polymerized resin                                                         Résine polymérisée      ☐          Par lot   ☐
+Bulk polymerized resin          [ ]         Continuous [ ]                en suspension
+                                                                          homopolymère
+Dispersion polymerized resin    [ ]
+                                                                          Résine polymérisée      ☐          En      ☐
+Copolymer resin                 [ ]                                       en masse                           continu
+                                                                          Résine polymérisée      ☐
+                                                                          en dispersion
+                                                                          Copolymère              ☐
+                                  % Operating                                                                % de
+                                  days on                                                                    journées où
+                                  which                                                                      les rejets
+                                  releases do         Total vinyl                                            sont égaux
+                                  not exceed          chloride                                Nbre de        ou inférieurs       Total de
+      No. operating No. operating the                 released/                Nbre de        journées       à la                chlorure de
+Month days          days analyzed concentration       month (kg)               journées       d’exploitation concentratio        vinyle rejeté
+                                                                          Mois d’exploitation analysées      n                   par mois (kg)
+
+
+
+
+Releases exceeding maximum concentrations:                                Rejets dépassant la concentration maximale
+Type of resin                                         maximum             Type of résine                       Concentration maximale de
+                                                      concentratio                                             chlorure de vinyle dans le
+                                                      n of vinyl                                               chlorure de polyvinyle
+                                                      chloride in         Résine polymérisée en   ☐            0,02 kg / 100 kg
+                                                      polyvinyl           suspension homopolymère
+                                                      chloride
+                                                                          Résine polymérisée en       ☐        0,04 kg / 100 kg
+Homopolymer suspension                [ ]             (0.02 kg/100        masse
+polymerized resin                                     kg)
+                                                                          Résine polymérisée en       ☐        0,2 kg / 100 kg
+Bulk polymerized resin                [ ]             (0.04 kg/100        dispersion
+                                                      kg)
+                                                                          Copolymère                  ☐        0,2 kg / 100 kg
+Dispersion polymerized resin          [ ]             (0.2 kg/100
+                                                      kg)
+Copolymer resin                       [ ]             (0.2 kg/100
+                                                      kg)
+     kg Vinyl                                                                 kg de chlorure de
+     chloride/100 kg Vinyl                                                Dat vinyle/100 de chlorure chlorure de vinyle      cause et mesures
+     polyvinyl       chloride         Cause and corrective                e   de polyvinyle          rejeté (kg)             correctives
+Date chloride        released kg)     measures
+
+
+
+
+                                                                     13
+                                                 SOR/92-631 — October 6, 2010
+
+
+
+
+                        SCHEDULE IV                                                                   ANNEXE IV
+       (Paragraphs 5(1)(a) and 6(1)(d) and subsection 6(6))                           (alinéas 5(1)a) et 6(1)d) et paragraphe 6(6))
+
+ QUARTERLY REPORT RELEASES OF VINYL CHLORIDE                             RAPPORT TRIMESTRIEL REJETS DE CHLORURE DE VINYLE
+ FROM SOURCES OTHER THAN THOSE REFERRED TO IN                             PROVENANT DE SOURCES AUTRES QUE CELLES VISÉES
+           PARAGRAPHS 6(1)(a) TO (c)                                                   AUX ALINÉAS 6(1)a) à c)
+Company                                                   City           Entreprise                                                   Ville
+
+                 ppm                                                                                         chlorure de
+                 Vinyl      Vinyl chloride    Cause and                              ppm chlorure de         vinyle rejeté   cause et mesures
+Date   Source    chloride   released (kg)     corrective measures        Date Source vinyle                  (kg)            correctives
+
+
+
+
+                                                                    14
+                                                  DORS/92-631 — 6 octobre 2010
+
+
+
+
+                          SCHEDULE V                                                            ANNEXE V
+          (Paragraph 5(1)(a) and subsections 7(2) and (3))                       (alinéa 5(1)a) et paragraphes 7(2) et (3))
+
+    REPORT PURSUANT TO PARAGRAPH 95(1)(a) OF THE                     RAPPORT AUX TERMES DE L’ALINÉA 95(1)a) DE LA LOI
+    CANADIAN ENVIRONMENTAL PROTECTION ACT, 1999                     CANADIENNE SUR LA PROTECTION DE L’ENVIRONNEMENT
+                                                                                         (1999)
+Name of Company
+                                                                   Entreprise
+Address of Plant
+                                                                   Adresse de la fabrique
+Plant Telephone Number
+                                                                   Numéro de téléphone de la fabrique
+Process
+                                                                   Procédé
+Release Source
+                                                                   Source du rejet
+Production Rate, where applicable
+                                                                   Taux de production, s’il y a lieu
+Date
+                                                                   Date
+Time
+                                                                   Heure
+Nature of Release
+                                                                   Nature du rejet
+
+Duration (in minutes)
+                                                                   Durée (en minutes)
+Concentration and Quantity of Vinyl Chloride Released
+                                                                   Concentration et quantité de chlorure de vinyle rejeté
+
+Measured or Calculated by (measurement method)
+                                                                   mesurées ou calculées par (méthode)
+Cause
+                                                                   Cause
+Corrective Measures Taken
+                                                                   Mesures correctives prises
+                                            (Signature)            hhh
+
+                                             (Title)                                                             (Signature)
+
+                                             (Date)                                                               (Titre)
+SOR/2000-102, s. 22.
+                                                                                                                  (Date)
+                                                                   DORS/2000-102, art. 22.
+
+
+
+
+                                                              15
+                                                    SOR/92-631 — October 6, 2010
+
+
+
+
+                           SCHEDULE VI                                                                     ANNEXE VI
+                (Paragraph 5(1)(a) and subsection 8(1))                                         (alinéa 5(1)a) et paragraphe 8(1))
+
+                COMPLIANCE REPORT SUMMARY                                                RÉSUMÉ DU RAPPORT DE CONFORMITÉ
+Company                                                      City           Entreprise                                                       Ville
+Process Vent:                                                               Évents de poste de fabrication
+Typ                                       kg Vinyl chloride/day, for                                                             kg de chlorure de
+e   No. Date ppm Vinyl chloride           vinyl chloride plants                                                                  vinyle par journée,
+                                                                                                                                 pour les fabriques
+                                                                                                          ppm chlorure de        de chlorure de
+                                                                            Type           No        Date vinyle                 vinyle
+
+
+
+
+Polymerization Reactor Openings:                                            Ouvertures des réacteurs de polymérisation
+Reactor            kg Vinyl chloride/100 kg polyvinyl chloride                                                    kg de chlorure de vinyle / 100 kg
+No.       Date     produced                                                 Réacteur no               Date        de chlorure de polyvinyle produit
+
+
+
+
+Sources downstream of resin strippers or slurry strippers:                  Sources en aval des épurateurs de résine ou des épurateurs de
+                                                                            suspension
+                   Process                                                                                                           kg de chlorure
+                   (continuous/             kg Vinyl chloride/100 kg                                                                 de vinyle /
+Type of resin      batch)          Date     polyvinyl chloride                                                                       100 kg de
+                                                                                                Procédé (en                          chlorure de
+                                                                            Type of résine      continu/en lot)    Date              polyvinyle
+
+
+
+
+                                                                       16
+

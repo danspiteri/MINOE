@@ -1,0 +1,437 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+     Pulp and Paper Mill                                             Règlement sur les
+     Effluent Chlorinated                                         dioxines et les furannes
+     Dioxins and Furans                                          chlorés dans les effluents
+         Regulations                                             des fabriques de pâtes et
+                                                                          papiers
+
+                       SOR/92-267                                                        DORS/92-267
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published             31. (1) Every copy of a consolidated statute or            31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies      (3) In the event of an inconsistency between a              (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                                  Enregistrement
+SOR/92-267 May 7, 1992                                        DORS/92-267 Le 7 mai 1992
+CANADIAN ENVIRONMENTAL PROTECTION ACT,                        LOI CANADIENNE SUR LA PROTECTION DE
+1999                                                          L’ENVIRONNEMENT (1999)
+
+Pulp and Paper Mill Effluent Chlorinated Dioxins              Règlement sur les dioxines et les furannes chlorés
+and Furans Regulations                                        dans les effluents des fabriques de pâtes et papiers
+
+P.C. 1992-959 May 7, 1992                                     C.P. 1992-959 Le 7 mai 1992
+
+   Whereas pursuant to subsection 48(1) of the Canadian          Attendu que, conformément au paragraphe 48(1) de la
+Environmental Protection Act*, the Minister of the Envi-      Loi canadienne sur la protection de l’environnement*, le
+ronment published in the Canada GazettePart I on De-          ministre de l’Environnement a fait publier dans la Ga-
+cember 14, 1991 a copy of the proposed Regulations re-        zette du Canada Partie I le 14 décembre 1991 le projet
+specting the release of polychlorinated dibenzo-para-         de Règlement concernant les rejets de dibenzo-para-
+dioxins and polychlorinated dibenzofurans in effluents        dioxines polychlorées et de dibenzofurannes polychlorés
+from pulp and paper mills, and amending the List of           dans les effluents des fabriques de pâtes et papiers et vi-
+Toxic Substances in Schedule I to the Canadian Envi-          sant à modifier la liste des substances toxiques de l’an-
+ronmental Protection Act*, substantially in the form an-      nexe I de la Loi canadienne sur la protection de l’envi-
+nexed hereto;                                                 ronnement*, conforme en substance au texte ci-après;
+  And Whereas, in the opinion of the Governor in                 Attendu que, conformément au paragraphe 34(3) de
+Council, pursuant to subsection 34(3) of the Canadian         cette loi, le gouverneur en conseil est d’avis que le règle-
+Environmental Protection Act*, the annexed Regulations        ment ci-après ne vise pas un point déjà réglementé sous
+do not regulate an aspect of any substance that is regulat-   le régime d’une autre loi fédérale,
+ed by or under any other Act of Parliament;
+   Therefore, His Excellency the Governor General in             À ces causes, sur recommandation du ministre de
+Council, pursuant to section 34** of the Canadian Envi-       l’Environnement et du ministre de la Santé nationale et
+ronmental Protection Act*, on the recommendation of the       du Bien-être social, en vertu de l’article 34** de la Loi ca-
+Minister of the Environment and the Minister of Nation-       nadienne sur la protection de l’environnement* et après
+al Health and Welfare and after the federal-provincial        que le comité consultatif fédéro-provincial s’est vu ac-
+advisory committee has been given an opportunity to           corder la possibilité de formuler ses conseils dans le
+provide its advice under section 6 of the Act*, is pleased    cadre de l’article 6 de cette loi, il plaît à Son Excellence
+hereby to make the annexed Regulations respecting the         le Gouverneur général en conseil de prendre le Règle-
+release of polychlorinated dibenzo-para-dioxins and           ment concernant les rejets de dibenzo-para-dioxines po-
+polychlorinated dibenzofurans in effluents from pulp and      lychlorées et de dibenzofurannes polychlorés dans les ef-
+paper mills, and amending the List of Toxic Substances        fluents des fabriques de pâtes et papiers et visant à
+in Schedule I to the Canadian Environmental Protection        modifier la liste des substances toxiques de l’annexe I de
+Act*.                                                         la Loi canadienne sur la protection de l’environnement*,
+                                                              ci-après.
+
+
+
+
+*                                                              * 
+     R.S., c. 16 (4th Supp.)                                        L.R., ch. 16 (4e suppl.)
+**                                                             ** 
+     S.C. 1989, c. 9, s. 2                                          L.C. 1989, ch. 9, art. 2
+REGULATIONS RESPECTING THE RELEASE OF                             RÈGLEMENT CONCERNANT LES REJETS DE
+   POLYCHLORINATED       DIBENZO-PARA-                               DIBENZO-PARA-DIOXINES POLYCHLORÉES
+   DIOXINS    AND     POLYCHLORINATED                                ET DE DIBENZOFURANNES POLYCHLORÉS
+   DIBENZOFURANS IN EFFLUENTS FROM                                   DANS LES EFFLUENTS DES FABRIQUES DE
+   PULP AND PAPER MILLS                                              PÂTES ET PAPIERS
+
+                     SHORT TITLE                                                      TITRE ABRÉGÉ
+  1. These Regulations may be cited as the Pulp and                 1. Règlement sur les dioxines et les furannes chlorés
+Paper Mill Effluent Chlorinated Dioxins and Furans                dans les effluents des fabriques de pâtes et papiers.
+Regulations.
+
+                  INTERPRETATION                                                       DÉFINITIONS
+  2. In these Regulations,                                          2. Les définitions qui suivent s’appliquent au présent
+“Act” means the Canadian Environmental Protection                 règlement.
+Act, 1999; (Loi)                                                  « concentration mesurable de 2,3,7,8-TCDD » Concen-
+“chlorine bleaching plant” means a plant in a mill where          tration de 2,3,7,8-TCDD qui est supérieure à la limite de
+pulp is bleached by chlorine or chlorine dioxide; (usine          dosage définie dans la méthode de référence. (measur-
+de blanchiment au chlore)                                         able concentration of 2,3,7,8-TCDD)
+
+“effluent flowrate” means the quantity of an effluent             « concentration mesurable de 2,3,7,8-TCDF » Concentra-
+produced by a mill in one day, measured in cubic me-              tion de 2,3,7,8-TCDF qui est supérieure à la limite de
+tres; (débit)                                                     dosage définie dans la méthode de référence et qui,
+                                                                  lorsque multipliée par 0,1, dépasse 5 ppq. (measurable
+“final effluent” means any water that contains intermedi-         concentration of 2,3,7,8-TCDF)
+ate effluent that is released from a mill and discharged
+directly into the environment or into an off-site treatment       « débit » Quantité d’un effluent produite en un jour par
+system; (effluent terminal)                                       une fabrique, mesurée en mètres cubes. (effluent
+                                                                  flowrate)
+“intermediate effluent” means any water that is released
+during any of the processes in a chlorine bleaching plant;        « effluent intermédiaire » Eaux rejetées pendant n’im-
+(effluent intermédiaire)                                          porte lequel des procédés appliqués dans une usine de
+                                                                  blanchiment au chlore. (intermediate effluent)
+“measurable concentration of 2,3,7,8-TCDD” means a
+concentration of 2,3,7,8-TCDD that is greater than the            « effluent terminal » Toute eau contenant un effluent in-
+level of quantification as defined in the Reference               termédiaire, rejetée par une fabrique et déversée directe-
+Method; (concentration mesurable de 2,3,7,8-TCDD)                 ment dans l’environnement ou dans une installation ex-
+                                                                  térieure de traitement. (final effluent)
+“measurable concentration of 2,3,7,8-TCDF” means a
+concentration of 2,3,7,8-TCDF that is greater than the            « exploitant » La personne responsable de l’exploitation
+level of quantification as defined in the Reference               d’une fabrique. (operator)
+Method and that, when multiplied by 0.1, exceeds 5 ppq;           « fabrique » Usine qui renferme une usine de blanchi-
+(concentration mesurable de 2,3,7,8-TCDF)                         ment au chlore et qui fabrique de la pâte ou des produits
+“mill” means a factory that contains a chlorine bleaching         du papier; y est assimilée toute usine de traitement d’ef-
+plant and that produces pulp or paper products, and any           fluent qui appartient au propriétaire de la fabrique. (mill)
+effluent treatment plant that is owned by the owner of            « installation extérieure de traitement » Usine de traite-
+that factory; (fabrique)                                          ment d’effluent, autre qu’une fabrique, qui traite l’ef-
+
+
+
+
+                                                              1
+                                           SOR/92-267 — October 6, 2010
+
+
+
+
+“off-site treatment system” means an effluent treatment           fluent terminal d’une fabrique. (off-site treatment sys-
+plant, other than a mill, that treats final effluent from a       tem)
+mill; (installation extérieure de traitement)                     « Loi » La Loi canadienne sur la protection de l’environ-
+“operator” means the person in charge of the operation            nement (1999). (Act)
+of a mill; (exploitant)                                           « méthode de référence » La Méthode de référence pour
+“paper products” includes paper, coated paper, paper-             le dosage des polychlorodibenzo-para-dioxines (PCDD)
+board, hardboard, boxboard, linerboard, insulating                et des polychlorodibenzofuranes (PCDF) dans les ef-
+board, building board, corrugated medium, tissue or               fluents des usines de pâtes et papiers, publiée par le mi-
+moulded cellulose product but does not include a regen-           nistère de l’Environnement, Rapport SPE 1/RM/19,
+erated cellulose product; (produits du papier)                    1992, avec ses modifications successives. (Reference
+“ppq” means parts per quadrillion, being parts per 1015           Method)
+parts; (ppq)                                                      « PCDD chlorées aux positions 2,3,7 et 8 » Dibenzo-pa-
+“Reference Method” means the Reference Method for                 ra-dioxines polychlorées dont la formule moléculaire est
+the Determination of Polychlorinated Dibenzo-para-                C12H8-nClnO2, où « n » est au moins 4 et au plus 8 et où les
+dioxins (PCDDs) and Polychlorinated Dibenzofurans                 positions 2,3,7,8 de la molécule sont occupées chacune
+(PCDFs) in Pulp and Paper Mill Effluents, published by            par un atome de chlore. (2,3,7,8-substituted PCDDs)
+the Department of the Environment, Report EPS 1/RM/               « PCDD totales » Somme des concentrations de tous les
+19, 1992, as amended from time to time; (méthode de ré-           congénères des dibenzo-para-dioxines polychlorées dont
+férence)                                                          la formule moléculaire est C12H8-nClnO2, où « n » est au
+“2,3,7,8-substituted PCDDs” means any polychlorinated             moins 4 et au plus 8. (total PCDDs)
+dibenzo-para-dioxin that has the molecular formula                « PCDF chlorés aux positions 2,3,7 et 8 » Dibenzofu-
+C12H8-nC1n02, in which “n” is not less than 4 and not more        rannes polychlorés dont la formule moléculaire est C12H8-
+than 8 and chlorine atoms are located at the 2,3,7,8 posi-        nClnO, où « n » est au moins 4 et au plus 8 et où les posi-
+tions on the molecule; (PCDD chlorées aux positions               tions 2,3,7,8 de la molécule sont occupées chacune par
+2,3,7 et 8)                                                       un atome de chlore. (2,3,7,8-substituted PCDFs)
+“2,3,7,8-substituted PCDFs” means any polychlorinated             « PCDF totaux » Somme des concentrations de tous les
+dibenzofuran that has the molecular formula C12H8-nCln0,          congénères des dibenzofurannes polychlorés dont la for-
+in which “n” is not less than 4 and not more than 8 and           mule moléculaire est C12H8-nClnO, où « n » est au moins 4
+chlorine atoms are located at the 2,3,7,8 positions on the        et au plus 8. (total PCDFs)
+molecule; (PCDF chlorés aux positions 2,3,7 et 8)
+                                                                  « ppq » Parties par quadrillion, soit parties par 1015 par-
+“total PCDDs” means the sum of the concentrations of              ties. (ppq)
+all polychlorinated dibenzo-para-dioxin congeners that
+                                                                  « produits du papier » Vise notamment le papier, le pa-
+have the molecular formula C12H8-nCln02, in which “n” is
+                                                                  pier couché, le carton, le carton fibre, le carton pour
+not less than 4 and not more than 8; (PCDD totales)
+                                                                  boîtes, le carton doublure, le carton isolant, le carton de
+“total PCDFs” means the sum of the concentrations of              construction, le carton à onduler, le papier de soie et les
+all polychlorinated dibenzofuran congeners that have the          produits de cellulose moulée; ne vise pas cependant les
+molecular formula C12H8-nC1n0, in which “n” is not less           produits de cellulose régénérée. (paper products)
+than 4 and not more than 8; (PCDF totaux)
+
+
+
+
+                                                              2
+                                          DORS/92-267 — 6 octobre 2010
+
+
+
+
+“2,3,7,8-TCDD” means 2,3,7,8-tetrachlorodibenzo-para-           « usine de blanchiment au chlore » Installation dans une
+dioxin; (2,3,7,8-TCDD)                                          fabrique où la pâte est blanchie par le chlore ou le bi-
+“2,3,7,8-TCDF” means 2,3,7,8-tetrachlorodibenzofuran.           oxyde de chlore. (chlorine bleaching plant)
+(2,3,7,8-TCDF)                                                  « 2,3,7,8-TCDD »        2,3,7,8-tétrachlorodibenzo-para-
+SOR/2000-102, s. 9.                                             dioxine. (2,3,7,8-TCDD)
+                                                                « 2,3,7,8-TCDF »          2,3,7,8-tétrachlorodibenzofuranne.
+                                                                (2,3,7,8-TCDF)
+                                                                DORS/2000-102, art. 9.
+
+                      OWNER OF A MILL                                      PROPRIÉTAIRE D’UNE FABRIQUE
+  3. The owner of a mill shall ensure that the operator            3. Le propriétaire d’une fabrique doit veiller à ce que
+operates the mill in accordance with these Regulations.         l’exploitant la fasse fonctionner conformément au pré-
+                                                                sent règlement.
+
+                        PROHIBITION                                                      INTERDICTION
+   4. (1) Subject to subsection (2), effective July 1,             4. (1) Sous réserve du paragraphe (2), à compter du
+1992, no operator shall release or permit to be released        1 juillet 1992, il est interdit à l’exploitant de rejeter ou
+                                                                 er
+
+
+into the environment final effluent that contains any           d’autoriser que soit rejeté dans l’environnement un ef-
+measurable concentration of 2,3,7,8-TCDD or measur-             fluent terminal qui contient une concentration mesurable
+able concentration of 2,3,7,8-TCDF.                             de 2,3,7,8-TCDD ou une concentration mesurable de
+                                                                2,3,7,8-TCDF.
+   (2) Subsection (1) does not apply before January 1,             (2) Le paragraphe (1) ne s’applique qu’à compter du
+1994 to an operator in charge of a chlorine bleaching           1er janvier 1994 à l’égard de l’exploitant responsable
+plant that commenced operation before June 1, 1990              d’une usine de blanchiment au chlore mise en exploita-
+who submits to the Minister, within 60 days after the           tion avant le 1er juin 1990 qui fournit au ministre, dans
+coming into force of these Regulations, plans, specifica-       les 60 jours suivant l’entrée en vigueur du présent règle-
+tions and schedules for the implementation of measures          ment, les plans, devis et calendriers de la mise en appli-
+that will enable the operator to achieve compliance with        cation des mesures lui permettant de respecter l’interdic-
+subsection (1).                                                 tion prévue au paragraphe (1).
+
+                         ANALYSES                                                          ANALYSE
+  5. For the purposes of these Regulations, samples                 5. Pour l’application du présent règlement, les échan-
+shall be taken and concentrations shall be measured in          tillons sont prélevés et les concentrations sont mesurées
+accordance with the Reference Method.                           conformément à la méthode de référence.
+
+             MONITORING AND REPORTING                                            CONTRÔLE ET RAPPORTS
+   6. (1) Effective July 1, 1992, the operator shall take         6. (1) À compter du 1er juillet 1992, l’exploitant doit
+samples of the final effluent in accordance with the sam-       prélever des échantillons de l’effluent terminal confor-
+pling schedule for final effluent set out in Schedule I.        mément au calendrier d’échantillonnage établi à l’an-
+                                                                nexe I.
+
+
+
+
+                                                            3
+                                           SOR/92-267 — October 6, 2010
+
+
+
+
+   (2) Effective July 1, 1992, the operator shall report to          (2) À compter du 1er juillet 1992, l’exploitant doit
+the Minister the concentrations of the substances set out         communiquer au ministre les concentrations des sub-
+in Schedule II that are in the final effluent samples, and        stances énumérées à l’annexe II qui sont présentes dans
+the effluent flowrate of the final effluent.                      les échantillons de l’effluent terminal, ainsi que le débit
+                                                                  de cet effluent.
+
+                    INFORMATION                                                    RENSEIGNEMENTS
+  7. (1) The Minister may, in writing, request that the              7. (1) Le ministre peut, par un avis écrit, demander à
+operator conduct, within the time set out in the request,         l’exploitant d’effectuer, dans le délai qu’il précise :
+  (a) specified tests to determine the presence of                  a) les essais indiqués qui permettent de déceler la pré-
+  PCDDs and PCDFs in the final effluent, intermediate               sence de PCDD et de PCDF dans l’effluent terminal,
+  effluent and in the pulp and sludge produced in the               l’effluent intermédiaire et les pâtes et boues produites
+  mill;                                                             dans la fabrique;
+  (b) specified tests to determine the effect of operating          b) les essais indiqués qui permettent de déterminer
+  conditions in the mill on the concentration of PCDDs              l’effet des conditions d’exploitation de la fabrique sur
+  and PCDFs; and                                                    les concentrations de PCDD et de PCDF;
+  (c) toxicological studies on the final effluent, interme-         c) des études toxicologiques sur l’effluent terminal,
+  diate effluent and in the pulp and sludge produced in             l’effluent intermédiaire et les pâtes et boues produites
+  the mill.                                                         dans la fabrique.
+   (2) The Minister may, in writing, request that the op-            (2) Le ministre peut, par un avis écrit, demander à
+erator submit, within the time set out in the request,            l’exploitant de lui transmettre, dans le délai qu’il
+  (a) results of the tests and studies conducted pursuant         précise :
+  to subsection (1); and                                            a) les résultats des essais et des études effectués
+  (b) information relating to the presence of PCDDs                 conformément au paragraphe (1);
+  and PCDFs in the final effluent, intermediate effluent            b) des renseignements sur la présence de PCDD et de
+  and in the pulp and sludge produced in the mill and               PCDF dans l’effluent terminal, l’effluent intermé-
+  relating to the operating conditions of the mill.                 diaire et les pâtes et boues produites dans la fabrique,
+                                                                    ainsi que sur les conditions d’exploitation de la fa-
+                                                                    brique.
+  (3) The operator shall conduct any test and study and              (3) L’exploitant doit obtempérer à la demande du mi-
+submit any information requested by the Minister pur-             nistre faite en application des paragraphes (1) ou (2),
+suant to subsection (1) or (2) within the time set out in         dans le délai que celui-ci a précisé.
+the request.
+  (4) The information specified in subsection 6(2) shall             (4) Les renseignements visés au paragraphe 6(2) sont
+be submitted to the Minister within 60 days after the day         transmis au ministre dans les 60 jours suivant la date à
+on which any sample is taken pursuant to Schedule I.              laquelle les échantillons sont prélevés conformément à
+                                                                  l’annexe I.
+   (5) An operator who submits to the Minister informa-             (5) L’exploitant qui transmet au ministre les rensei-
+tion respecting the concentration of substances pursuant          gnements sur les concentrations visés au paragraphe 6(2)
+
+
+
+
+                                                              4
+                                         DORS/92-267 — 6 octobre 2010
+
+
+
+
+to subsection 6(2) shall also submit the information re-       doit également fournir les renseignements qu’exige la
+quired by the Reference Method.                                méthode de référence.
+   (6) The information referred to in section 6 shall be         (6) Les renseignements visés à l’article 6 sont trans-
+submitted in writing or in an electronic format, where         mis par écrit ou sous forme électronique, lorsque le mo-
+the electronic format is provided by the Department of         dèle de présentation électronique des données est fourni
+the Environment.                                               par le ministère de l’Environnement.
+  (7) Any report or information that is submitted to the          (7) Les renseignements transmis au ministre confor-
+Minister pursuant to this section shall be signed by the       mément au présent article doivent porter la signature de
+operator.                                                      l’exploitant.
+  8. and 9. [Repealed, SOR/2000-102, s. 10]                      8. et 9. [Abrogés, DORS/2000-102, art. 10]
+
+
+
+
+                                                           5
+                                                    SOR/92-267 — October 6, 2010
+
+
+
+
+                           SCHEDULE I                                                                       ANNEXE I
+                          (Subsection 6(1))                                                              (paragraphe 6(1))
+
+       SAMPLING SCHEDULE FOR FINAL EFFLUENTS                                     CALENDRIER D’ÉCHANTILLONNAGE DES EFFLUENTS
+                                                                                                 TERMINAUX
+  1. Beginning on July 1, 1992 and ending on December 31, 1993,                  1. À compter du 1er juillet 1992 jusqu’au 31 décembre 1993, un
+one 24-hour composite sample of the final effluent shall be collected         échantillon composite de 24 heures de l’effluent terminal doit être
+during any day in which the chlorine bleaching plant is operating dur-        prélevé le premier mois de chaque trimestre de l’année, au cours de
+ing the first month of each quarter of a given year.                          n’importe quelle journée d’exploitation de l’usine de blanchiment au
+                                                                              chlore.
+   2. Effective January 1, 1994, one 24-hour composite sample of the            2. À compter du 1er janvier 1994, un échantillon composite de 24
+final effluent shall be collected during each month during any day in         heures de l’effluent terminal doit être prélevé chaque mois, au cours
+which the chlorine bleaching plant is operating, with a minimum of            de n’importe quelle journée d’exploitation de l’usine de blanchiment
+21 days between any sample collection.                                        au chlore. L’intervalle entre les périodes d’échantillonnage doit être
+                                                                              d’au moins 21 jours.
+   3. Effective January 1, 1995, subject to item 6, where no measur-             3. À compter du 1er janvier 1995, sous réserve de l’article 6, si au-
+able concentration of 2,3,7,8-TCDD and no measurable concentration            cune concentration mesurable de 2,3,7,8-TCDD et aucune concentra-
+of 2,3,7,8-TCDF have been detected in the final effluent for the last         tion mesurable de 2,3,7,8-TCDF n’ont été décelées dans l’effluent
+three consecutive months, one 24-hour composite sample of the final           terminal pendant trois mois consécutifs, un échantillon composite de
+effluent shall be collected once every quarter during any day in which        24 heures de l’effluent terminal doit être prélevé chaque trimestre, au
+the chlorine bleaching plant is operating.                                    cours de n’importe quelle journée d’exploitation de l’usine de blan-
+                                                                              chiment au chlore.
+   4. Effective January 1, 1996, subject to item 6, where no measur-             4. À compter du 1er janvier 1995, sous réserve de l’article 6, si au-
+able concentration of 2,3,7,8-TCDD and no measurable concentration            cune concentration mesurable de 2,3,7,8-TCDD et aucune concentra-
+of 2,3,7,8-TCDF have been detected in the final effluent for three            tion mesurable de 2,3,7,8-TCDF n’ont été décelées dans l’effluent
+consecutive quarters, one 24-hour composite sample of the final ef-           terminal pendant trois trimestres consécutifs, un échantillon compo-
+fluent shall be collected annually during any day in which the chlo-          site de 24 heures de l’effluent terminal doit être prélevé chaque an-
+rine bleaching plant is operating, with a minimum of 350 days be-             née, au cours de n’importe quelle journée d’exploitation de l’usine de
+tween any sample collection.                                                  blanchiment au chlore. L’intervalle entre les périodes d’échantillon-
+                                                                              nage doit être d’au moins 350 jours.
+   5. (1) An operator may commence the monthly sampling referred                 5. (1) L’exploitant peut commencer l’échantillonnage mensuel
+to in item 2, prior to January 1, 1994, and, after at least twelve con-       prévu à l’article 2 avant le 1er janvier 1994 et peut, après avoir prélevé
+secutive monthly samples as described in item 2, may                          des échantillons au moins douze mois de suite conformément à cet
+                                                                              article :
+  (a) proceed to the quarterly sampling referred to in item 3, if the
+  conditions required for quarterly sampling exist; and                         a) réduire la fréquence d’échantillonnage à un échantillon par tri-
+                                                                                mestre conformément à l’article 3, si les conditions à cette fin qui y
+  (b) proceed to annual sampling referred to in item 4, if the condi-
+                                                                                sont précisées sont respectées;
+  tions required for annual sampling exist.
+                                                                                b) réduire la fréquence d’échantillonnage à un échantillon par an-
+                                                                                née conformément à l’article 4, si les conditions à cette fin qui y
+                                                                                sont précisées sont respectées.
+   (2) If an accelerated schedule is followed as described in subitem           (2) Lorsqu’un calendrier accéléré est suivi conformément au para-
+(1), item 6 applies to that sampling schedule.                                graphe (1), l’article 6 s’applique.
+  6. Where for any quarterly or annual samples there are measurable              6. Si les échantillons prélevés chaque trimestre ou chaque année
+concentration of 2,3,7,8-TCDD or measurable concentration of                  contiennent une concentration mesurable de 2,3,7,8-TCDD ou une
+2,3,7,8-TCDF, one 24-hour composite sample of the final effluent              concentration mesurable de 2,3,7,8-TCDF, un échantillon composite
+shall be collected monthly until no measurable concentration of               de 24 heures de l’effluent terminal doit être prélevé chaque mois jus-
+2,3,7,8-TCDD and no measurable concentration of 2,3,7,8-TCDF                  qu’à ce qu’aucune concentration mesurable de 2,3,7,8-TCDD et au-
+have been detected for the period set out in item 3 or 4 at which time        cune concentration mesurable de 2,3,7,8-TCDF ne soient décelées
+that item applies.                                                            pendant la période visée aux articles 3 ou 4, après quoi s’appliquent
+SOR/93-231, s. 2(F).                                                          les articles 3 ou 4, selon le cas.
+                                                                              DORS/93-231, art. 2(F).
+
+
+
+
+                                                                          6
+                                          DORS/92-267 — 6 octobre 2010
+
+
+
+
+                       SCHEDULE II                                                   ANNEXE II
+                      (Subsection 6(2))                                           (paragraphe 6(2))
+
+       INFORMATION ON THE CONCENTRATIONS OF                      RENSEIGNEMENTS SUR LES CONCENTRATIONS DE
+                    SUBSTANCES                                                 SUBSTANCES
+
+Item      Congener                                         Article    Congénère
+          2,3,7,8-substituted PCDD                                    PCDD chlorées aux positions 2, 3, 7 et 8
+1.        2,3,7,8-TCDD                                     1.         2,3,7,8-TCDD
+2.        1,2,3,7,8-P5CDD                                  2.         1,2,3,7,8-P5CDD
+3.        1,2,3,4,7,8-H6CDD                                3.         1,2,3,4,7,8-H6CDD
+4.        1,2,3,6,7,8-H6CDD                                4.         1,2,3,6,7,8-H6CDD
+5.        1,2,3,7,8,9-H6CDD                                5.         1,2,3,7,8,9-H6CDD
+6.        1,2,3,4,6,7,8-H7CDD                              6.         1,2,3,4,6,7,8-H7CDD
+7.        0CDD                                             7.         OCDD
+          Total PCDD                                                  PCDD totales
+8.        TCDD                                             8.         TCDD
+9.        P5CDD                                            9.         P5CDD
+10.       H6CDD                                            10.        H6CDD
+11.       H7CDD                                            11.        H7CDD
+12.       0CDD                                             12.        OCDD
+          2,3,7,8-substituted PCDF                                    PCDF chlorés aux positions 2, 3, 7 et 8
+13.       2,3,7,8-TCDF                                     13.        2,3,7,8-TCDF
+14.       1,2,3,7,8-P5CDF                                  14.        1,2,3,7,8-P5CDF
+15.       2,3,4,7,8-P5CDF                                  15.        2,3,4,7,8-P5CDF
+16.       1,2,3,4,7,8-H6CDF                                16.        1,2,3,4,7,8-H6CDF
+17.       1,2,3,6,7,8-H6CDF                                17.        1,2,3,6,7,8-H6CDF
+18.       1,2,3,7,8,9-H6CDF                                18.        1,2,3,7,8,9-H6CDF
+19.       2,3,4,6,7,8-H6CDF                                19.        2,3,4,6,7,8-H6CDF
+20.       1,2,3,4,6,7,8-H7CDF                              20.        1,2,3,4,6,7,8-H7CDF
+21.       1,2,3,4,7,8,9-H7CDF                              21.        1,2,3,4,7,8,9-H7CDF
+22.       0CDF                                             22.        OCDF
+          Total PCDF                                                  PCDF totaux
+23.       TCDF                                             23.        TCDF
+24.       P5CDF                                            24.        P5CDF
+25.       H6CDF                                            25.        H6CDF
+26.       H7CDF                                            26.        H7CDF
+27.       0CDF                                             27.        OCDF
+
+
+
+
+                                                       7
+

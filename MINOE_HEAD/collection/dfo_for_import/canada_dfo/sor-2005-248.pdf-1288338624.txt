@@ -1,0 +1,1483 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+    New Substances           Règlement sur les
+ Notification Regulations     renseignements
+       (Organisms)        concernant les substances
+                           nouvelles (organismes)
+
+                     SOR/2005-248                                                      DORS/2005-248
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published            31. (1) Every copy of a consolidated statute or             31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies       (3) In the event of an inconsistency between a             (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                                Enregistrement
+SOR/2005-248 August 31, 2005                                DORS/2005-248 Le 31 août 2005
+CANADIAN ENVIRONMENTAL PROTECTION ACT,                      LOI CANADIENNE SUR LA PROTECTION DE
+1999                                                        L’ENVIRONNEMENT (1999)
+
+New     Substances             Notification   Regulations   Règlement sur les renseignements concernant les
+(Organisms)                                                 substances nouvelles (organismes)
+
+P.C. 2005-1485 August 31, 2005                              C.P. 2005-1485 Le 31 août 2005
+
+   Whereas, pursuant to subsection 332(1)a of the Cana-        Attendu que, conformément au paragraphe 332(1)a de
+dian Environmental Protection Act, 1999b, the Minister      la Loi canadienne sur la protection de l'environnement
+of the Environment published in the Canada Gazette,         (1999)b, le ministre de l'Environnement a fait publier
+Part I, on October 30, 2004, a copy of the proposed New     dans la Gazette du Canada Partie I, le 30 octobre 2004,
+Substances Notification Regulations (Organisms), sub-       le projet de règlement intitulé Règlement sur les rensei-
+stantially in the annexed form, and persons were given      gnements concernant les substances nouvelles (orga-
+an opportunity to file comments with respect to the pro-    nismes), conforme en substance au texte ci-après, et que
+posed Regulations or to file a notice of objection re-      les intéressés ont ainsi eu la possibilité de présenter leurs
+questing that a board of review be established and stat-    observations à cet égard ou un avis d'opposition motivé
+ing the reasons for the objection;                          demandant la constitution d'une commission de révision,
+   Therefore, Her Excellency the Governor General in           À ces causes, sur recommandation du ministre de
+Council, on the recommendation of the Minister of the       l'Environnement et du ministre de la Santé et en vertu du
+Environment and the Minister of Health, pursuant to         paragraphe 114(1) de la Loi canadienne sur la protection
+subsection 114(1) of the Canadian Environmental Pro-        de l'environnement (1999)b, Son Excellence la Gouver-
+tection Act, 1999b, hereby makes the annexed New Sub-       neure générale en conseil prend le Règlement sur les ren-
+stances Notification Regulations (Organisms).               seignements concernant les substances nouvelles (orga-
+                                                            nismes), ci-après.
+
+
+
+
+a                                                            a 
+     S.C. 2004, c. 15, s. 31                                      L.C. 2004, ch. 15, art. 31
+b                                                            b 
+     S.C. 1999, c. 33                                             L.C. 1999, ch. 33
+                   NEW SUBSTANCES NOTIFICATION                         RÈGLEMENT       SUR      LES
+                      REGULATIONS (ORGANISMS)                             RENSEIGNEMENTS
+                                                                          CONCERNANT            LES
+                                                                          SUBSTANCES      NOUVELLES
+                                                                          (ORGANISMES)
+
+                              INTERPRETATION                                         DÉFINITIONS
+Definitions           1. (1) The following definitions apply              1. (1) Les définitions qui suivent s'ap-     Définitions
+
+                   in these Regulations.                               pliquent au présent règlement.
+“Act”              “Act” means the Canadian Environmental              « destiné à la recherche et au développe-       « destiné à la
+« Loi »                                                                                                                recherche et au
+                   Protection Act, 1999. (Loi)                         ment » Se dit d'un organisme faisant l'objet    développe-
+                                                                                                                       ment »
+“confinement       “confinement procedures” means any                  d'investigations ou de recherches systéma-      “research and
+                                                                                                                       development
+procedures”
+« méthodes de      physical, chemical, biological or opera-            tiques, par voie d'expérimentation ou           organism”
+confinement »
+                   tional control, or combination of those con-        d'analyse, à l'exclusion des tests de marché,
+                   trols, to restrict the exit or dispersal of a       le principal objectif des investigations et
+                   micro-organism. (méthodes de confine-               des recherches étant l'un ou l'autre des ob-
+                   ment)                                               jectifs suivants :
+
+“contained         “contained facility” means an enclosed                a) la création ou l'amélioration d'un pro-
+facility”                                                                duit ou d'un procédé;
+« installation     building with walls, floor and ceiling, or an
+étanche »
+                   area within such a building, where the con-           b) la détermination de la viabilité tech-
+                   tainment is in accordance with the physical           nique ou des caractéristiques de rende-
+                   and operational requirements of a level set           ment d'un produit ou d'un procédé;
+                   out in either the Laboratory Biosafety
+                                                                         c) l'évaluation de l'organisme avant sa
+                   Guidelines or Appendix K of the NIH
+                                                                         commercialisation au moyen d'essais pi-
+                   Guidelines. (installation étanche)
+                                                                         lotes en usine, d'essais de production, y
+“ecozone”          “ecozone” means one of the ecozones                   compris la production à grande échelle,
+« écozone »
+                   shown on the map entitled Terrestrial Eco-            ou d'essais individualisés en usine de
+                   zones and Ecoregions of Canada 1995,                  sorte que les spécifications techniques
+                   dated May 6, 1999, Catalogue No.                      puissent être adaptées aux exigences de
+                   cas016e, whose boundaries are more par-               rendement de clients éventuels. (re-
+                   ticularly described in the National Soil Da-          search and development organism)
+                   ta Base (NSDB) of the Canada Soil Infor-
+                                                                       « écozone » L'une des écozones représen-        « écozone »
+                   mation System (CanSIS), developed by the                                                            “ecozone”
+                                                                       tées sur la carte géographique portant le
+                   Department of Agriculture and Agri-Food
+                                                                       numéro de fichier cas016f, datée du 6 mai
+                   and the Department of the Environment, as
+                                                                       1999 et intitulée Écozones et écorégions
+                   amended from time to time. (écozone)
+                                                                       terrestres du Canada, 1995 et dont les li-
+“experimental      “experimental field study” means a study            mites sont précisées en détail dans la Base
+field study”
+« étude            of a research and development organism              nationale des données sur les sols (BNDS)
+expérimentale
+sur le terrain »   that is a micro-organism, which study uses          du Système d'information des sols du
+                   the minimum area, consisting of one or              Canada (SISCan), établies par le ministère
+                   more sites whose total area does not ex-            de l'Agriculture et de l'Agroalimentaire et
+                   ceed one hundred hectares, and the mini-
+
+
+
+
+                                                                   1
+                                              SOR/2005-248 — October 6, 2010
+
+
+
+                 mum quantity of the micro-organism as are           le ministère de l'Environnement, avec ses
+                 required to meet the objectives of the              modifications successives. (ecozone)
+                 study. (étude expérimentale sur le terrain)         « étude expérimentale sur le terrain » Étude     « étude
+                                                                                                                      expérimentale
+“indigenous”     “indigenous”, in respect of a micro-organ-          d'un micro-organisme destiné à la re-            sur le terrain »
+« indigène »                                                                                                          “experimental
+                 ism, means occurring naturally in the eco-          cherche et au développement, effectuée           field study”
+                 zone into which the micro-organism is in-           dans la zone minimale — composée d'un
+                 tended to be introduced. (indigène)                 ou de plusieurs sites — d'une superficie to-
+“Laboratory      “Laboratory Biosafety Guidelines” means             tale d'au plus cent hectares et sur la quanti-
+Biosafety
+                 the Laboratory Biosafety Guidelines, 3rd            té minimale de micro-organismes qui sont
+Guidelines”
+« Lignes
+                 Edition, established by the Department of           nécessaires pour la réalisation des objectifs
+directrices en
+matière de       Health, published in 2004, as amended               de l'étude. (experimental field study)
+biosécurité en
+laboratoire »    from time to time. (Lignes directrices en           « indigène » Qualifie le micro-organisme         « indigène »
+                                                                                                                      “indigenous”
+                 matière de biosécurité en laboratoire)              qui existe naturellement dans l'écozone où
+“micro-          “micro-organism” means a microscopic or-            il est destiné à être introduit. (indigenous)
+organism”
+« micro-         ganism that is                                      « installation étanche » Bâtiment fermé          « installation
+organisme »                                                                                                           étanche »
+                   (a) classified in the Bacteria, the Ar-           comportant des murs, un plancher et un           “contained
+                                                                                                                      facility”
+                   chaea, the Protista, which includes pro-          plafond, ou aire à l'intérieur d'un tel bâti-
+                   tozoa and algae, or the Fungi, which in-          ment, dans lesquels le confinement se fait
+                   cludes yeasts;                                    conformément aux exigences physiques et
+                                                                     opérationnelles d'un des niveaux prévus
+                   (b) a virus, virus-like particle or sub-vi-       dans les Lignes directrices en matière de
+                   ral particle;                                     biosécurité en laboratoire ou à l'appendice
+                   (c) a cultured cell of an organism not re-        K des NIH Guidelines. (contained facility)
+                   ferred to in paragraph (a) or (b), other          « Lignes directrices en matière de biosécu-      « Lignes
+                   than a cell used to propagate the organ-                                                           directrices en
+                                                                     rité en laboratoire » Les Lignes directrices     matière de
+                   ism; or                                           en matière de biosécurité en laboratoire,
+                                                                                                                      biosécurité en
+                                                                                                                      laboratoire »
+                                                                                                                      “Laboratory
+                   (d) any culture other than a pure culture.        troisième édition, publiées en 2004 par le       Biosafety
+                   (micro-organisme)                                 ministère de la Santé, avec leurs modifica-      Guidelines”
+
+                                                                     tions successives. (Laboratory Biosafety
+“NIH             “NIH Guidelines” means the Guidelines
+Guidelines”                                                          Guidelines)
+« NIH            for Research Involving Recombinant DNA
+Guidelines »
+                 Molecules (NIH Guidelines) June 1994,               « méthodes de confinement » Tout contrôle        « méthodes de
+                                                                                                                      confinement »
+                 published in the Federal Register by the            physique, chimique, biologique ou opéra-         “confinement
+                                                                                                                      procedures”
+                 U.S. Department of Health and Human                 tionnel, ou toute combinaison de ceux-ci,
+                 Services, 59 FR 34472 (July 5, 1994), as            visant à restreindre la sortie ou la disper-
+                 amended from time to time. (NIH Guide-              sion d'un micro-organisme. (confinement
+                 lines)                                              procedures)
+“organism”       “organism” means a living organism as de-           « micro-organisme » Organisme microsco-          « micro-
+« organisme »                                                                                                         organisme »
+                 fined in section 104 of the Act, except in          pique qui, selon le cas :                        “micro-
+                                                                                                                      organism”
+                 the following provisions:                             a) appartient à la famille des bactéries,
+                   (a) paragraph (c) of the definition “mi-            des archéobactéries, des protistes, y
+                   cro-organism”;
+
+
+
+                                                                 2
+                                               DORS/2005-248 — 6 octobre 2010
+
+
+
+                     (b) paragraphs 2(4)(b) and (c);                   compris les protozoaires et les algues, ou
+                     (c) paragraph 1(d) and subparagraphs              des champignons, y compris les levures;
+                     1(e)(vi) and (viii) of Schedule 5;                b) est un virus, une particule de type vi-
+                     (d) paragraph 2(d) of Schedule 5;                 rus ou une particule sous-virale;
+                                                                       c) est une cellule cultivée d'un orga-
+                     (e) subparagraph 3(d)(iii) and paragraph
+                                                                       nisme non mentionné aux alinéasa) et
+                     3(f) of Schedule 5; and
+                                                                       b), à l'exclusion d'une cellule utilisée
+                     (f) items 5 to 7 in Schedule 5. (orga-            pour la multiplication de cet organisme;
+                     nisme)
+                                                                       d) est une culture autre qu'une culture
+“research and      “research and development organism”                 pure. (micro-organism)
+development
+organism”          means an organism that is undergoing sys-
+« destiné à la                                                       « NIH Guidelines » Le document intitulé           « NIH
+recherche et au    tematic investigation or research, by means                                                         Guidelines »
+développement »    of experimentation or analysis other than         Guidelines for Research Involving Recom-          “NIH
+                                                                                                                       Guidelines”
+                   test marketing, whose primary objective is        binant DNA Molecules (NIH Guidelines)
+                   any of the following:                             June 1994, publié le 5 juillet 1994 par le
+                                                                     Department of Health and Human Services
+                     (a) to create or improve a product or           des États-Unis dans le Federal Register, 59
+                     process;                                        FR 34472, avec ses modifications succes-
+                     (b) to determine the technical viability        sives. (NIH Guidelines)
+                     or performance characteristics of a prod-       « organisme » S'entend d'un organisme vi-         « organisme »
+                                                                                                                       “organism”
+                     uct or process; or                              vant au sens de l'article 104 de la Loi, sauf
+                     (c) to evaluate the organism prior to its       dans les dispositions suivantes :
+                     commercialization, by pilot plant trials,         a) l'alinéa c) de la définition de « micro-
+                     production trials, including scale-up, or         organisme »;
+                     customer plant trials so that technical
+                     specifications can be modified in re-             b) les alinéas 2(4)b) et c);
+                     sponse to the performance requirements            c) l'alinéa 1d) et les sous-alinéas 1e)(vi)
+                     of potential customers. (destiné à la re-         et (viii) de l'annexe 5;
+                     cherche et au développement)
+                                                                       d) l'alinéa 2d) de l'annexe 5;
+“test marketing”   “test marketing”, in respect of a product,
+« test de                                                              e) le sous-alinéa 3d)(iii) et l'alinéa 3f) de
+marché »           means the exploration of its market capa-
+                                                                       l'annexe 5;
+                   bility in a competitive situation in which
+                   the creation or improvement of the product          f) les articles 5 à 7 de l'annexe 5. (or-
+                   is not the primary objective. (test de mar-         ganism)
+                   ché)                                              « test de marché » L'étude des possibilités       « test de
+                                                                                                                       marché »
+                                                                     de mise en marché d'un produit en situation       “test marketing”
+                                                                     de concurrence lorsque la création ou
+                                                                     l'amélioration du produit n'est pas le princi-
+                                                                     pal objectif. (test marketing)
+
+
+
+
+                                                                 3
+                                             SOR/2005-248 — October 6, 2010
+
+
+
+Government        (2) The definition of “government” in                (2) Pour l'application du présent règle-    Organismes
+agencies                                                                                                           publics
+               subsection 3(1) of the Act does not apply            ment, il est entendu que les organismes pu-
+               to the expression “government agencies” in           blics ne sont pas visés par la définition de
+               these Regulations.                                   « gouvernement » au paragraphe 3(1) de la
+                                                                    Loi.
+
+                                 SCOPE                                     CHAMP D'APPLICATION
+Avoiding          2. (1) For greater certainty, these Regu-            2. (1) Il est entendu que le présent rè-    Pas de double
+regulatory                                                                                                         emploi
+duplication    lations do not apply in respect of an organ-         glement ne s'applique pas aux organismes
+               ism that is manufactured or imported for a           fabriqués ou importés en vue d'une utilisa-
+               use that is regulated under any other Act or         tion déjà régie par une loi ou un règlement
+               regulations listed in Schedule 4 to the Act.         inscrits à l'annexe 4 de la Loi.
+Transit           (2) These Regulations do not apply in                (2) Le présent règlement ne s'applique      Organisme en
+                                                                                                                   transit
+               respect of an organism that is loaded on a           pas aux organismes chargés à bord d'un
+               carrier outside Canada and moved through             moyen de transport à l'extérieur du Canada
+               Canada to a location outside Canada,                 et acheminés via le Canada vers un lieu à
+               whether or not there is a change of carrier          l'extérieur du Canada, qu'il y ait ou non
+               during transit.                                      changement de moyen de transport au
+                                                                    cours du transit.
+Research and      (3) These Regulations do not apply in                (3) Le présent règlement ne s'applique      Recherche et
+development                                                                                                        développement
+organism       respect of a micro-organism that is a re-            pas aux micro-organismes destinés à la re-     — micro-
+(micro-                                                                                                            organismes
+organisms)     search and development organism not for              cherche et au développement mais non des-
+               introduction outside a contained facility, if        tinés à être introduits à l'extérieur d'une
+               the containment of the micro-organism is             installation étanche, dont le confinement se
+               in accordance with either the Laboratory             fait conformément aux Lignes directrices
+               Biosafety Guidelines or Appendix K of the            en matière de biosécurité en laboratoire ou
+               NIH Guidelines and if the micro-organism             à l'appendice K des NIH Guidelines et qui,
+               is                                                   selon le cas :
+                 (a) imported to a contained facility in a            a) sont importés à une installation
+                 quantity that, at the time of the import, is         étanche en une quantité qui, au moment
+                 less than 50 mL or 50 g;                             de l'importation, est inférieure à 50 mL
+                 (b) subject to paragraphs (c) and (d),               ou à 50 g;
+                 manufactured and present at any one                  b) sous réserve des alinéas c) et d), sont
+                 time in a contained facility in a quantity           fabriqués à une installation étanche en
+                 of less than 1 000 L, unless the micro-              quantités inférieures, à quelque moment
+                 organism requires containment level 2, 3             que ce soit, à 1 000 L, à moins qu'ils ne
+                 or 4 as identified in the Laboratory                 nécessitent l'un des niveaux de confine-
+                 Biosafety Guidelines;                                ment 2, 3 ou 4 prévus dans les Lignes di-
+                 (c) manufactured and present at any one              rectrices en matière de biosécurité en la-
+                 time in a contained facility in a quantity           boratoire;
+                 of less than 250 L and requires contain-
+
+
+
+
+                                                                4
+                                              DORS/2005-248 — 6 octobre 2010
+
+
+
+                   ment level 2 as identified in the Labora-           c) sont fabriqués à une installation
+                   tory Biosafety Guidelines; or                       étanche en quantités inférieures, à
+                   (d) a human pathogen manufactured and               quelque moment que ce soit, à 250 L et
+                   present at any one time in a contained              nécessitent le niveau de confinement 2
+                   facility in a quantity of less than 250 L           prévu dans les Lignes directrices en ma-
+                   and requires containment level 3 or 4 as            tière de biosécurité en laboratoire;
+                   identified in the Laboratory Biosafety              d) sont des agents anthropopathogènes
+                   Guidelines, and if an import permit or an           fabriqués à une installation étanche en
+                   approval in writing to transfer has been            quantités inférieures, à quelque moment
+                   granted in respect of the micro-organism            que ce soit, à 250 L et nécessitent l'un
+                   under the Human Pathogens Importation               des niveaux de confinement 3 ou 4 pré-
+                   Regulations.                                        vus dans les Lignes directrices en ma-
+                                                                       tière de biosécurité en laboratoire, un
+                                                                       permis d'importation ou une approbation
+                                                                       écrite de transfert ayant été délivré à
+                                                                       l'égard des micro-organismes en vertu
+                                                                       du Règlement sur l'importation des
+                                                                       agents anthropopathogènes.
+Research and        (4) These Regulations do not apply in               (4) Le présent règlement ne s'applique       Recherche et
+development                                                                                                          développement
+organism other   respect of an organism, other than a micro-         pas à l'organisme, autre qu'un micro-orga-      — organismes
+than a micro-                                                                                                        autres que les
+organism         organism, that is a research and develop-           nisme, qui est destiné à la recherche et au     micro-
+                 ment organism and is imported to or manu-           développement et qui est fabriqué ou im-        organismes
+
+                 factured in a facility from which there is no       porté à une installation d'où il n'y a aucun
+                 release into the environment of                     rejet dans l'environnement :
+                   (a) the organism;                                   a) de cet organisme;
+                   (b) the genetic material of the organism;           b) du matériel génétique de cet orga-
+                   or                                                  nisme;
+                   (c) material from the organism involved             c) de matériel provenant de cet orga-
+                   in toxicity.                                        nisme qui contribue à la toxicité.
+
+                           MICRO-ORGANISMS                                    MICRO-ORGANISMES
+Information:        3. (1) Subject to subsections (2) to (6),           3. (1) Sous réserve des paragraphes (2)      Renseigne-
+Schedule 1                                                                                                           ments : annexe 1
+                 a person who manufactures or imports a              à (6), la personne qui fabrique ou importe
+                 micro-organism must provide the informa-            un micro-organisme doit fournir les rensei-
+                 tion specified in Schedule 1.                       gnements visés à l'annexe 1.
+Exceptions:        (2) A person who manufactures or im-                (2) La personne qui fabrique ou importe       Exceptions :
+Information in                                                                                                       renseignements
+Schedule 1       ports a micro-organism for introduction             un micro-organisme, selon le cas :              à l'annexe 1
+
+                   (a) into an ecozone where it is not in-             a) en vue de son introduction dans une
+                   digenous is not required to provide the             écozone d'où il n'est pas indigène n'a pas
+                   information specified in paragraph 5(a)             à fournir les renseignements visés à l'ali-
+
+
+
+
+                                                                 5
+                                                SOR/2005-248 — October 6, 2010
+
+
+
+                    of Schedule 1, but must, in a separate               néa 5a) de l'annexe 1, mais doit fournir,
+                    notification for each ecozone, provide               dans une déclaration distincte pour
+                    the other information specified in that              chaque écozone, les autres renseigne-
+                    Schedule as well as the identification of            ments visés à cette annexe ainsi que
+                    the ecozone of intended introduction and             l'identification de l'écozone et les don-
+                    the data from tests conducted to deter-              nées provenant d'essais servant à déter-
+                    mine the effects of the micro-organism               miner les effets du micro-organisme sur
+                    on plant, invertebrate and vertebrate                les espèces de végétaux, d'invertébrés et
+                    species likely to be exposed;                        de vertébrés susceptibles d'y être expo-
+                    (b) in accordance with confinement pro-              sées;
+                    cedures is not required to provide the in-           b) en vue de son introduction selon des
+                    formation specified in paragraphs 5(a)               méthodes de confinement n'a pas à four-
+                    and 6(c) and (d) of Schedule 1, but must             nir les renseignements visés aux alinéas
+                    provide the other information specified              5a) et 6c) et d) de l'annexe 1, mais doit
+                    in that Schedule and a description of                fournir les autres renseignements visés à
+                    those confinement procedures and their               cette annexe ainsi que la description de
+                    effectiveness in restricting the exit or             ces méthodes et de leur efficacité à res-
+                    dispersal of the micro-organism from the             treindre la sortie ou la dispersion du mi-
+                    locations of introduction; or                        cro-organisme à l'extérieur des lieux
+                    (c) into an ecozone to which the micro-              d'introduction;
+                    organism is indigenous is not required to            c) en vue de son introduction dans une
+                    provide the information specified in sub-            écozone d'où il est indigène n'a pas à
+                    paragraphs 1(f)(i), (iii) and (iv) and para-         fournir les renseignements visés aux
+                    graphs 1(i) and 5(a) of Schedule 1, but              sous-alinéas 1f)(i), (iii) et (iv) et aux ali-
+                    must, in a separate notification for each            néas 1i) et 5a) de l'annexe 1, mais doit
+                    ecozone, provide the other information               fournir, dans une déclaration distincte
+                    specified in that Schedule as well as the            pour chaque écozone, les autres rensei-
+                    identification of the ecozone of intended            gnements visés à cette annexe ainsi que
+                    introduction and the data that demon-                l'identification de l'écozone et les don-
+                    strates that the micro-organism is indige-           nées démontrant que le micro-organisme
+                    nous to that ecozone.                                est indigène à celle-ci.
+Introduction         (3) A person who manufactures or im-                 (3) La personne qui fabrique ou importe         Introduction à
+within 10 km of                                                                                                           10 km ou moins
+ecozone           ports a micro-organism for introduction in-          un micro-organisme en vue de son intro-            d'une écozone
+boundary
+                  to an ecozone at a point within 10 km of             duction dans une écozone à un point situé à
+                  the boundary of an ecozone referred to in            10 km ou moins de la limite d'une écozone
+                  paragraph (2)(a) or (c), as the case may be,         visée aux alinéas (2)a) ou c), selon le cas,
+                  may elect to have the introduction of the            peut choisir de considérer cette introduc-
+                  micro-organism considered to be in that              tion comme étant effectuée dans celle-ci au
+                  ecozone and not into the actual ecozone of           lieu de l'écozone d'introduction réelle, au-
+                  introduction, in which case the person must          quel cas elle doit fournir les renseigne-
+                  provide a notice in writing of the election          ments exigés à cet alinéa accompagnés
+                                                                       d'un avis écrit faisant état de ce choix.
+
+
+
+
+                                                                   6
+                                             DORS/2005-248 — 6 octobre 2010
+
+
+
+               and the information required by that para-
+               graph.
+Information:      (4) A person who manufactures in a                   (4) La personne qui fabrique ou importe       Renseigne-
+Schedule 2                                                                                                           ments : annexe 2
+               contained facility or imports to a contained         à une installation étanche un micro-orga-
+               facility a micro-organism that is not for in-        nisme qui n'est pas destiné à être introduit à
+               troduction outside the contained facility, or        l'extérieur de cette installation ou qui est
+               is for export only, is not required to pro-          destiné uniquement à l'exportation n'a pas à
+               vide the information specified in Schedule           fournir les renseignements visés à l'annexe
+               1, but must provide the information speci-           1, mais doit fournir ceux visés à l'annexe 2.
+               fied in Schedule 2.
+Information:      (5) A person who manufactures or im-                (5) La personne qui fabrique ou importe        Renseigne-
+Schedule 3                                                                                                           ments : annexe 3
+               ports a micro-organism for introduction in           un micro-organisme en vue de son intro-
+               an experimental field study is not required          duction dans le cadre d'une étude expéri-
+               to provide the information specified in              mentale sur le terrain n'a pas à fournir les
+               Schedule 1, but must provide the informa-            renseignements visés à l'annexe 1, mais
+               tion specified in Schedule 3.                        doit fournir ceux visés à l'annexe 3.
+Information:      (6) A person who manufactures a mi-                  (6) La personne qui fabrique un micro-        Renseigne-
+Schedule 4                                                                                                           ments : annexe 4
+               cro-organism at the site from which it was           organisme au site d'où il a été isolé, en vue
+               isolated, for introduction into the same site,       de son introduction dans le même site, n'a
+               is not required to provide the information           pas à fournir les renseignements visés à
+               specified in Schedule 1, but must provide            l'annexe 1, mais doit fournir ceux visés à
+               the information specified in Schedule 4.             l'annexe 4.
+
+                ORGANISMS OTHER THAN MICRO-                            ORGANISMES AUTRES QUE LES
+                        ORGANISMS                                         MICRO-ORGANISMES
+Information:      4. A person who manufactures or im-                 4. La personne qui fabrique ou importe         Renseigne-
+Schedule 5                                                                                                           ments : annexe 5
+               ports an organism other than a micro-or-             un organisme autre qu'un micro-organisme
+               ganism must provide the information spec-            doit fournir les renseignements visés à l'an-
+               ified in Schedule 5.                                 nexe 5.
+
+                 INFORMATION PROVISION TIME                                DÉLAIS VISANT LES
+                           LIMITS                                      RENSEIGNEMENTS À FOURNIR
+Time limits       5. The information required under sec-               5. Les renseignements exigés aux ar-          Délais
+
+               tions 3 and 4 must be provided as follows:           ticles 3 et 4 doivent être fournis dans les
+                 (a) for the information required under             délais suivants :
+
+                    (i) subsection 3(1), at least 120 days            a) pour les renseignements :
+                    before the day on which the person                   (i) exigés au paragraphe 3(1), au
+                    manufactures or imports the micro-or-                moins cent vingt jours avant la date à
+                    ganism, and                                          laquelle la personne fabrique ou im-
+                    (ii) subsections 3(2) or (3), at least               porte le micro-organisme,
+                    120 days before the day on which the
+
+
+
+                                                                7
+                                           SOR/2005-248 — October 6, 2010
+
+
+
+                  person manufactures or imports the                  (ii) exigés aux paragraphes 3(2) et
+                  micro-organism under conditions that                (3), au moins cent vingt jours avant la
+                  trigger the requirement to provide the              date à laquelle la personne fabrique ou
+                  information;                                        importe le micro-organisme dans les
+                (b) for the information required under                circonstances qui entraînent l'obliga-
+                subsection 3(4) or (6), at least 30 days              tion de les fournir;
+                before the day on which the person man-            b) pour les renseignements exigés aux
+                ufactures or imports the micro-organism            paragraphes 3(4) et (6), au moins trente
+                under conditions that trigger the require-         jours avant la date à laquelle la personne
+                ment to provide the information;                   fabrique ou importe le micro-organisme
+                (c) for the information required under             dans les circonstances qui entraînent l'o-
+                subsection 3(5), at least 90 days before           bligation de les fournir;
+                the day on which the person manufac-               c) pour les renseignements exigés au
+                tures or imports the micro-organism un-            paragraphe 3(5), au moins quatre-vingt-
+                der conditions that trigger the require-           dix jours avant la date à laquelle la per-
+                ment to provide the information; and               sonne fabrique ou importe le micro-or-
+                (d) for the information required under             ganisme dans les circonstances qui
+                section 4, at least 120 days before the            entraînent l'obligation de les fournir;
+                day on which the person manufactures               d) pour les renseignements exigés à l'ar-
+                or imports the organism.                           ticle 4, au moins cent vingt jours avant
+                                                                   la date à laquelle la personne fabrique ou
+                                                                   importe l'organisme.
+
+                     ASSESSMENT PERIODS                                  DÉLAIS D'ÉVALUATION
+Time limits     6. For the purposes of subsection 108(1)            6. Pour l'application du paragraphe          Délais
+
+              of the Act, the periods within which the           108(1) de la Loi, le délai dont disposent les
+              Ministers must assess the information pro-         ministres pour évaluer les renseignements
+              vided under sections 3 and 4 are as fol-           ci-après fournis en application des articles
+              lows:                                              3 et 4 est :
+                (a) 120 days after receiving the infor-            a) pour les renseignements visés à l'an-
+                mation referred to in Schedule 1 or the            nexe 1 et ceux exigés au paragraphe
+                other information required under subsec-           3(2), de cent vingt jours suivant leur ré-
+                tion 3(2);                                         ception;
+                (b) 30 days after receiving the informa-           b) pour ceux visés aux annexes 2 et 4,
+                tion referred to in Schedule 2 or 4;               de trente jours suivant leur réception;
+                (c) 90 days after receiving the informa-           c) pour ceux visés à l'annexe 3, de
+                tion referred to in Schedule 3; and                quatre-vingt-dix jours suivant leur récep-
+                (d) 120 days after receiving the infor-            tion;
+                mation referred to in Schedule 5.                  d) pour ceux visés à l'annexe 5, de cent
+                                                                   vingt jours suivant leur réception.
+
+
+
+
+                                                             8
+                                               DORS/2005-248 — 6 octobre 2010
+
+
+
+                     RETENTION OF INFORMATION                                  CONSERVATION DES
+                                                                                RENSEIGNEMENTS
+Five years           7. A person who is required to provide              7. Toute personne tenue de fournir au       Cinq ans
+
+                  information to the Minister under these             ministre des renseignements au titre du
+                  Regulations must keep a copy of that infor-         présent règlement en conserve une copie,
+                  mation and any supporting data at the per-          ainsi que les données à l'appui, à son éta-
+                  son's principal place of business in Canada         blissement principal au Canada ou à celui
+                  or at the principal place of business in            de son représentant au Canada pendant les
+                  Canada of a representative of that person.          cinq années suivant l'année de leur commu-
+                  The information and the supporting data             nication.
+                  must be kept for a period of five years after
+                  the year in which the information is pro-
+                  vided.
+
+                   ADMINISTRATIVE REQUIREMENTS                              EXIGENCES EN MATIÈRE
+                                                                              D'ADMINISTRATION
+Information and     8. (1) Any information to be provided               8. (1) Les renseignements à fournir au       Renseignements
+certification                                                                                                        et attestation
+                  to the Minister under these Regulations             ministre aux termes du présent règlement
+                  must include                                        sont accompagnés des éléments suivants :
+                    (a) the name, civic and postal addresses            a) les nom et adresses municipale et
+                    and telephone number, as well as the fax            postale, numéro de téléphone et, le cas
+                    number and e-mail address, if any, of the           échéant, numéro de télécopieur et
+                    manufacturer or importer of the organ-              adresse de courrier électronique de la
+                    ism;                                                personne qui fabrique ou importe l'orga-
+                    (b) the name, title, civic and postal ad-           nisme;
+                    dresses and telephone number, as well as            b) s'il y a lieu, les nom, titre, adresses
+                    the fax number and e-mail address, if               municipale et postale, numéro de télé-
+                    any, of the person authorized to act on             phone et, le cas échéant, numéro de télé-
+                    behalf of the manufacturer or importer              copieur et adresse de courrier électro-
+                    of the organism, if any;                            nique de la personne autorisée à agir
+                    (c) the name, civic and postal addresses            pour le compte de la personne qui fa-
+                    and telephone number, as well as the fax            brique ou importe l'organisme;
+                    number and e-mail address, if any, of the           c) les nom, adresses municipale et pos-
+                    head of the quality assurance unit of ev-           tale, numéro de téléphone et, le cas
+                    ery laboratory that developed test data             échéant, numéro de télécopieur et
+                    included in the information;                        adresse de courrier électronique du chef
+                    (d) an indication of whether the organ-             de l'unité de l'assurance de la qualité de
+                    ism will be manufactured in or imported             chaque laboratoire qui a produit les don-
+                    into Canada and the civic address of the            nées d'essai figurant dans les renseigne-
+                    site of manufacture in Canada of the or-            ments;
+                    ganism or, if known, the port of entry in-
+
+
+
+
+                                                                  9
+                                           SOR/2005-248 — October 6, 2010
+
+
+
+                to Canada of the organism, as the case             d) une mention indiquant si l'organisme
+                may be; and                                        sera fabriqué ou importé au Canada et
+                (e) a certification that the information is        l'adresse municipale du site de fabrica-
+                accurate and complete, dated and signed            tion, dans le cas où l'organisme est fabri-
+                by the manufacturer or importer if they            qué au Canada ou, s'il est connu, le port
+                are resident in Canada or, if not, the per-        d'entrée de l'organisme au Canada, dans
+                son authorized to act on their behalf.             le cas où l'organisme est importé;
+                                                                   e) une attestation portant que les rensei-
+                                                                   gnements sont complets et exacts, datée
+                                                                   et signée par la personne qui fabrique ou
+                                                                   importe l'organisme, si cette personne
+                                                                   réside au Canada, ou, sinon, par une per-
+                                                                   sonne autorisée à agir en son nom.
+Recipient        (2) Two copies of any information pro-           (2) Les renseignements fournis au titre        Destinataire
+
+              vided under these Regulations must be sent       du présent règlement doivent être envoyés
+              in English or French to the Minister, care       en français ou en anglais et en double
+              of the Director, New Substances Branch,          exemplaire au ministre, au soin du direc-
+              Department of the Environment, Ottawa,           teur, Direction des substances nouvelles,
+              Ontario K1A 0H3.                                 ministère de l'Environnement, Ottawa (On-
+                                                               tario) K1A 0H3.
+Agent            (3) If a person that provides the infor-         (3) Si elle ne réside pas au Canada, la        Mandataire
+
+              mation under these Regulations is not resi-      personne qui fournit les renseignements au
+              dent in Canada, they must identify, under        titre du présent règlement désigne, en ap-
+              paragraph (1)(b), a person resident in           plication de l'alinéa (1)b), une personne au-
+              Canada that is authorized to act on their be-    torisée à agir en son nom qui réside au
+              half to whom any notice or correspondence        Canada, à qui les avis et la correspondance
+              may be sent and that is required to keep the     peuvent être envoyés et qui est tenue de
+              information and any supporting data under        conserver les renseignements ainsi que les
+              section 7.                                       données à l'appui en application de l'article
+                                                               7.
+
+                      COMING INTO FORCE                                  ENTRÉE EN VIGUEUR
+Coming into     9. These Regulations come into force             9. Le présent règlement entre en vi-            Entrée en
+force                                                                                                            vigueur
+              on the day on which the New Substances           gueur à la date d'entrée en vigueur du
+              Notification Regulations (Chemicals and          Règlement sur les renseignements concer-
+              Polymers) come into force.                       nant les substances nouvelles (substances
+                                                               chimiques et polymères).
+
+
+
+
+                                                              10
+                                                  DORS/2005-248 — 6 octobre 2010
+
+
+
+                         SCHEDULE 1                                                                     ANNEXE 1
+          (Subsections 3(1) and (2) and paragraph 6(a))                                     (paragraphes 3(1) et (2) et alinéa 6a))
+
+   INFORMATION REQUIRED IN RESPECT OF MICRO-                                     RENSEIGNEMENTS EXIGÉS À L'ÉGARD DES MICRO-
+                 ORGANISMS                                                                     ORGANISMES
+1. The following information in respect of the micro-organism:                 1. Les renseignements ci-après concernant le micro-organisme :
+(a) its identification and the information substantiating its identifi-        a) l'identification et les renseignements à l'appui;
+cation;
+                                                                               b) les synonymes ainsi que les noms communs et périmés;
+(b) its common and superseded names and any synonyms;
+                                                                               c) l'historique de la souche;
+(c) its strain history;
+                                                                               d) la description des modifications apportées au micro-organisme,
+(d) a description of any modifications to the micro-organism, in-              notamment :
+cluding
+                                                                                 (i) le but des modifications,
+  (i) the purpose of the modifications,
+                                                                                 (ii) les méthodes et le processus suivis pour les effectuer,
+  (ii) the methods and steps taken to make the modifications,
+                                                                                 (iii) les modifications phénotypiques et génotypiques qui ont
+  (iii) the phenotypic and genotypic changes that resulted from                  découlé du processus visé au sous-alinéa (ii),
+  the steps referred to in subparagraph (ii),
+                                                                                 (iv) la stabilité des modifications visées au sous-alinéa (iii),
+  (iv) the stability of the changes referred to in subparagraph (iii),
+                                                                                 (v) la nature, la source et la fonction de tout matériel génétique
+  and
+                                                                                 inséré;
+  (v) the nature, source and function of any inserted genetic mate-
+                                                                               e) la description des méthodes pouvant servir à différencier et à
+  rial;
+                                                                               détecter le micro-organisme;
+(e) a description of the methods that can be used to distinguish and
+                                                                               f) la description des caractéristiques biologiques et écologiques du
+detect the micro-organism;
+                                                                               micro-organisme, notamment :
+(f) a description of the biological and ecological characteristics of
+                                                                                 (i) son cycle de vie,
+the micro-organism, including
+  (i) its life cycle,                                                            (ii) son infectivité, sa pathogénicité vis-à-vis des espèces non
+                                                                                 humaines, sa toxicité et sa toxinogénicité,
+  (ii) its infectivity, pathogenicity to non-human species, toxicity
+                                                                                 (iii) sa résistance aux antibiotiques et sa tolérance aux métaux et
+  and toxigenicity,
+                                                                                 aux pesticides,
+  (iii) its resistance to antibiotics and tolerance to metals and pes-
+                                                                                 (iv) son rôle dans les cycles biogéochimiques,
+  ticides,
+  (iv) its involvement in biogeochemical cycling,                                (v) les conditions nécessaires à sa survie, à sa croissance et à sa
+                                                                                 réplication et les conditions qui limitent ces processus,
+  (v) the conditions required for, and conditions that limit, its sur-
+                                                                                 (vi) les mécanismes de sa dispersion et les modes d'interaction
+  vival, growth and replication, and
+                                                                                 avec les agents de dispersion;
+  (vi) the mechanisms of its dispersal and the modes of interac-
+                                                                               g) la description de son mode d'action par rapport à l'utilisation à
+  tion with any dispersal agents;
+                                                                               laquelle il est destiné;
+(g) a description of the mode of action in relation to the intended
+                                                                               h) l'identification de tout brevet ou demande de brevet, selon le
+use;
+                                                                               cas;
+(h) the identification of any patent or any application for a patent,
+                                                                               i) la dispersion — par transfert de gènes — de ses caractéristiques
+as the case may be;
+                                                                               de pathogénicité vis-à-vis des espèces non humaines, de toxinogé-
+(i) the dispersal by gene transfer of traits of pathogenicity to non-          nicité et de résistance aux antibiotiques, notamment une descrip-
+human species, toxigenicity and resistance to antibiotics, including           tion :
+a description of
+                                                                                 (i) des bases génétiques de sa pathogénicité vis-à-vis des es-
+  (i) the genetic basis for pathogenicity to non-human species,                  pèces non humaines, de sa toxinogénicité et de sa résistance aux
+  toxigenicity and resistance to antibiotics,                                    antibiotiques,
+  (ii) the capability to transfer genes, and                                     (ii) de sa capacité de transférer des gènes,
+  (iii) the conditions that might select for dispersal of traits of              (iii) des conditions qui pourraient entraîner la dispersion de ses
+  pathogenicity to non-human species, toxigenicity and resistance                caractéristiques de pathogénicité vis-à-vis des espèces non hu-
+  to antibiotics, and whether the conditions are likely to exist at              maines, de toxinogénicité et de résistance aux antibiotiques,
+                                                                                 avec mention de l'existence probable ou non de ces conditions
+
+
+
+
+                                                                          11
+                                                    SOR/2005-248 — October 6, 2010
+
+
+
+    the locations of introduction or within the range of dispersal of                aux lieux d'introduction ou dans l'aire de dispersion du micro-or-
+    the micro-organism; and                                                          ganisme;
+  (j) a description of the geographic distribution of the micro-organ-             j) la description de sa répartition géographique.
+  ism.
+  2. The following information in respect of the manufacture and                   2. Les renseignements ci-après concernant la fabrication et l'im-
+importation of the micro-organism:                                               portation du micro-organisme :
+  (a) the identification of trade names and manufacturers, importers               a) les noms commerciaux du micro-organisme et le nom des fabri-
+  and vendors;                                                                     cants, importateurs et vendeurs;
+  (b) the identification of locations of manufacture in Canada;                    b) l'identification des lieux de fabrication au Canada;
+  (c) the physical state of the formulation;                                       c) l'état physique de la préparation;
+  (d) the concentration of the micro-organism in the formulation;                  d) la concentration du micro-organisme dans la préparation;
+  (e) the identification and concentration of other ingredients and of             e) l'identification et la concentration des autres ingrédients et des
+  any contaminants in the formulation;                                             contaminants présents dans la préparation;
+  (f) the viability of the micro-organism in the formulation;                      f) la viabilité du micro-organisme dans la préparation;
+  (g) a description of any recommended storage and disposal proce-                 g) la description des méthodes recommandées pour l'entreposage
+  dures;                                                                           et l'élimination;
+  (h) an estimation of the quantity of the micro-organism that will                h) une estimation de la quantité du micro-organisme qui sera im-
+  be imported into or manufactured in Canada, as the case may be;                  portée ou fabriquée au Canada, selon le cas;
+  (i) a description of the equipment and methods of manufacture and                i) la description de l'équipement et des méthodes de fabrication
+  of quality control and quality assurance procedures;                             ainsi que des méthodes visant le contrôle de la qualité et l'assu-
+                                                                                   rance de la qualité;
+  (j) a description of the location of manufacturing facilities in
+  Canada;                                                                          j) la description de l'emplacement des installations de fabrication
+                                                                                   au Canada;
+  (k) a description of the nature of potential releases of the micro-
+  organism from the manufacturing facilities in Canada or from fa-                 k) la description de la nature des rejets potentiels du micro-orga-
+  cilities to which the micro-organism will be imported, as the case               nisme en provenance des installations de fabrication au Canada ou
+  may be, and the procedures to control releases; and                              des installations où il sera importé, selon le cas, ainsi que les mé-
+                                                                                   thodes de contrôle des rejets;
+  (l) a description of the procedures for the treatment and disposal of
+  wastes containing the micro-organism from the manufacturing fa-                  l) la description des procédés de traitement et d'élimination des dé-
+  cilities in Canada.                                                              chets contenant le micro-organisme qui proviennent des installa-
+                                                                                   tions de fabrication au Canada.
+  3. The following information in respect of the introduction of the               3. Les renseignements ci-après concernant l'introduction du micro-
+micro-organism:                                                                  organisme :
+  (a) the intended and potential uses;                                             a) l'utilisation prévue et toute utilisation potentielle;
+  (b) the history of use;                                                          b) l'historique de son utilisation;
+  (c) a comparison of the natural habitat of the micro-organism to                 c) une comparaison entre l'habitat naturel du micro-organisme et
+  the habitat at the potential locations of its introduction, and the na-          l'habitat dans les lieux d'introduction potentiels, ainsi que la nature
+  ture of the selection that may operate on the micro-organism at the              de la sélection qui peut s'opérer sur le micro-organisme dans ces
+  potential locations of introduction;                                             lieux potentiels;
+  (d) a description of the procedures for the introduction of the mi-              d) la description du procédé d'introduction, notamment :
+  cro-organism, including
+                                                                                     (i) la méthode d'application,
+    (i) the method of application,
+                                                                                     (ii) la quantité, la fréquence et la durée de l'application,
+    (ii) the quantity, frequency and duration of application, and
+                                                                                     (iii) les activités relatives à l'introduction;
+    (iii) any activities associated with the introduction;
+                                                                                   e) la description des plans d'urgence en cas de rejet accidentel;
+  (e) a description of any contingency plans in the event of an acci-
+                                                                                   f) la description des méthodes recommandées pour mettre fin à
+  dental release; and
+                                                                                   l'introduction du micro-organisme.
+  (f) a description of any recommended procedures for terminating
+  the introduction of the micro-organism.
+
+
+
+
+                                                                            12
+                                                    DORS/2005-248 — 6 octobre 2010
+
+
+
+   4. The following information in respect of the environmental fate                4. Les renseignements ci-après concernant le devenir du micro-or-
+of the micro-organism:                                                            ganisme dans l'environnement :
+  (a) the identification of the plant and animal species likely to be               a) l'identification des espèces de végétaux et d'animaux suscep-
+  exposed and, if infectivity, pathogenicity to non-human species,                  tibles d'être exposées au micro-organisme et, lorsque l'infectivité,
+  toxicity and toxigenicity have been identified under subparagraph                 la pathogénicité vis-à-vis des espèces non humaines, la toxicité et
+  1(f)(ii), the identification of the receptor species likely to be ex-             la toxinogénicité ont été précisées au titre du sous-alinéa 1f)(ii),
+  posed;                                                                            l'identification des espèces réceptrices susceptibles d'y être expo-
+                                                                                    sées;
+  (b) a description of habitats where the micro-organism may persist
+  or proliferate;                                                                   b) la description des habitats dans lesquels le micro-organisme
+                                                                                    peut persister ou proliférer;
+  (c) the estimated quantities of the micro-organism in the air, water
+  and soil at the points of introduction, and the estimated population              c) les quantités estimatives du micro-organisme dans l'air, l'eau et
+  trends; and                                                                       le sol aux points d'introduction, ainsi qu'une estimation des ten-
+                                                                                    dances de la population du micro-organisme;
+  (d) any other information on the environmental fate of the micro-
+  organism.                                                                         d) tout autre renseignement sur le devenir du micro-organisme
+                                                                                    dans l'environnement.
+   5. The following information in respect of the ecological effects of             5. Les renseignements ci-après concernant les effets écologiques
+the micro-organism:                                                               du micro-organisme :
+  (a) the data from tests conducted to determine the effects of the                 a) les données des essais servant à déterminer les effets du micro-
+  micro-organism on                                                                 organisme sur :
+     (i) aquatic plant, invertebrate and vertebrate species likely to be              (i) les espèces aquatiques de végétaux, d'invertébrés et de verté-
+     exposed to it, and                                                               brés susceptibles d'y être exposées,
+     (ii) terrestrial plant, invertebrate and vertebrate species likely to            (ii) les espèces terrestres de végétaux, d'invertébrés et de verté-
+     be exposed to it;                                                                brés susceptibles d'y être exposées;
+  (b) the involvement of the micro-organism in adverse ecological                   b) le rôle du micro-organisme quant aux effets écologiques nocifs;
+  effects; and
+                                                                                    c) le risque — associé au micro-organisme — de répercussions
+  (c) the potential of the micro-organism to have adverse environ-                  environnementales défavorables qui pourraient influer sur la
+  mental impacts that could affect the conservation and sustainable                 conservation et l'utilisation durable de la diversité biologique.
+  use of biological diversity.
+   6. The following information in respect of the human health ef-                  6. Les renseignements ci-après concernant les effets du micro-or-
+fects of the micro-organism:                                                      ganisme sur la santé humaine :
+  (a) any documented involvement of the micro-organism in ad-                       a) toute documentation relative au rôle du micro-organisme quant
+  verse human health effects and a description of the characteristics               aux effets nocifs sur la santé humaine et la description des caracté-
+  of the micro-organism that distinguish it from known pathogens;                   ristiques qui le distinguent des agents pathogènes connus;
+  (b) the data from tests of antibiotic susceptibility;                             b) les données des essais de sensibilité aux antibiotiques;
+  (c) the data from tests of pathogenicity that are valid for related               c) les données des essais de pathogénicité valables pour des mi-
+  micro-organisms that are pathogenic to humans;                                    cro-organismes apparentés de nature anthropopathogène;
+  (d) the potential for adverse immunologic reactions in persons ex-                d) le risque de réactions immunologiques nocives chez les per-
+  posed to the micro-organism; and                                                  sonnes exposées au micro-organisme;
+  (e) the estimated number of persons who may become exposed                        e) le nombre estimatif de personnes susceptibles d'être exposées
+  and the degree of their exposure to the micro-organism.                           au micro-organisme et le degré d'exposition.
+  7. All other information and test data in respect of the micro-or-                 7. Tout autre renseignement et toute donnée d'essai à l'égard du
+ganism that are relevant to identifying hazards to the environment                micro-organisme qui permettent de déterminer les dangers que celui-
+and human health and that are in the person's possession or to which              ci présente pour l'environnement et la santé humaine et dont dispose
+the person ought reasonably to have access.                                       la personne ou auxquels elle devrait normalement avoir accès.
+   8. The identification of other government agencies, either outside                8. Le nom des autres organismes publics, à l'étranger ou au
+or within Canada, that the person has notified of the manufacture or              Canada, qui ont été avisés par la personne de la fabrication ou de
+importation of the micro-organism, and the purpose of that notifica-              l'importation du micro-organisme, et l'objet de l'avis.
+tion.
+   9. A description or specification of the test procedures followed in             9. La description ou la notice des protocoles d'essai suivis pour la
+developing the test data, including the test methods, reference sub-              production des données d'essai, y compris les méthodes d'essai, les
+stances and quality control and quality assurance procedures.
+
+
+
+
+                                                                             13
+SOR/2005-248 — October 6, 2010
+
+
+
+                  substances de référence ainsi que les méthodes visant le contrôle de
+                  la qualité et l'assurance de la qualité.
+
+
+
+
+             14
+                                                    DORS/2005-248 — 6 octobre 2010
+
+
+
+                            SCHEDULE 2                                                                       ANNEXE 2
+                 (Subsection 3(4) and paragraph 6(b))                                               (paragraphe 3(4) et alinéa 6b))
+
+    INFORMATION REQUIRED IN RESPECT OF MICRO-                                       RENSEIGNEMENTS EXIGÉS À L'ÉGARD DES MICRO-
+   ORGANISMS MANUFACTURED IN OR IMPORTED TO A                                         ORGANISMES FABRIQUÉS OU IMPORTÉS À UNE
+       CONTAINED FACILITY THAT ARE NOT FOR                                        INSTALLATION ÉTANCHE QUI NE SONT PAS DESTINÉS À
+ INTRODUCTION OUTSIDE THE CONTAINED FACILITY OR                                        ÊTRE INTRODUITS À L'EXTÉRIEUR DE CETTE
+           THAT ARE FOR EXPORT ONLY                                               INSTALLATION OU QUI SONT DESTINÉS UNIQUEMENT À
+                                                                                                  L'EXPORTATION
+  1. The following information in respect of the micro-organism:                   1. Les renseignements ci-après concernant le micro-organisme :
+  (a) its identification and the information substantiating its identifi-          a) l'identification et les renseignements à l'appui;
+  cation;
+                                                                                   b) les synonymes ainsi que les noms communs et périmés;
+  (b) its common and superseded names and any synonyms;
+                                                                                   c) l'historique de la souche;
+  (c) its strain history;
+                                                                                   d) la description des modifications apportées au micro-organisme,
+  (d) a description of any modifications to the micro-organism, in-                notamment :
+  cluding
+                                                                                     (i) le but des modifications,
+    (i) the purpose of the modifications,
+                                                                                     (ii) les méthodes et le processus suivis pour les effectuer,
+    (ii) the methods and steps taken to make the modifications,
+                                                                                     (iii) les modifications phénotypiques et génotypiques qui ont
+    (iii) the phenotypic and genotypic changes that resulted from                    découlé du processus visé au sous-alinéa (ii),
+    the steps referred to in subparagraph (ii),
+                                                                                     (iv) la stabilité des modifications visées au sous-alinéa (iii),
+    (iv) the stability of the changes referred to in subparagraph (iii),
+                                                                                     (v) la nature, la source et la fonction de tout matériel génétique
+    and
+                                                                                     inséré;
+    (v) the nature, source and function of any inserted genetic mate-
+                                                                                   e) la description des méthodes pouvant servir à différencier et à
+    rial;
+                                                                                   détecter le micro-organisme;
+  (e) a description of the methods that can be used to distinguish and
+                                                                                   f) la description des caractéristiques biologiques et écologiques du
+  detect the micro-organism;
+                                                                                   micro-organisme, notamment :
+  (f) a description of the biological and ecological characteristics of
+                                                                                     (i) son infectivité, sa pathogénicité vis-à-vis des espèces non
+  the micro-organism, including
+                                                                                     humaines, sa toxicité et sa toxinogénicité,
+    (i) its infectivity, pathogenicity to non-human species, toxicity
+                                                                                     (ii) les conditions nécessaires à sa survie, à sa croissance et à sa
+    and toxigenicity, and
+                                                                                     réplication et les conditions qui limitent ces processus;
+    (ii) the conditions required for, and conditions that limit, its sur-
+                                                                                   g) la description du mode d'action connu du micro-organisme par
+    vival, growth and replication;
+                                                                                   rapport à l'utilisation à laquelle il est destiné;
+  (g) a description of the known mode of action in relation to the in-
+                                                                                   h) l'identification de tout brevet ou demande de brevet, selon le
+  tended use; and
+                                                                                   cas.
+  (h) the identification of any patent or any application for a patent,
+  as the case may be.
+  2. The following information in respect of the manufacture and                   2. Les renseignements ci-après concernant la fabrication et l'im-
+importation of the micro-organism:                                               portation du micro-organisme :
+  (a) the identification of trade names and manufacturers, importers               a) les noms commerciaux du micro-organisme et le nom des fabri-
+  and vendors;                                                                     cants, importateurs et vendeurs;
+  (b) the identification of locations of manufacture in Canada;                    b) l'identification des lieux de fabrication au Canada;
+  (c) the containment level for each manufacturing facility in                     c) le niveau de confinement de chaque installation de fabrication
+  Canada or for each facility to which the micro-organism will be                  au Canada ou de chaque installation où le micro-organisme sera
+  imported, as the case may be, determined in accordance with the                  importé, selon le cas, établi en conformité avec les exigences phy-
+  physical and operational requirements set out in either the Labora-              siques et opérationnelles prévues dans les Lignes directrices en
+  tory Biosafety Guidelines or Appendix K of the NIH Guidelines;                   matière de biosécurité en laboratoire ou à l'appendice K des NIH
+                                                                                   Guidelines;
+  (d) an estimation of the quantity of the micro-organism that will
+  be imported into or manufactured in Canada, as the case may be;                  d) une estimation de la quantité du micro-organisme qui sera im-
+                                                                                   portée ou fabriquée au Canada, selon le cas;
+
+
+
+
+                                                                            15
+                                                    SOR/2005-248 — October 6, 2010
+
+
+
+  (e) a description of the equipment and methods of manufacture                  e) la description de l'équipement et des méthodes de fabrication
+  and of quality control and quality assurance procedures; and                   ainsi que des méthodes visant le contrôle de la qualité et l'assu-
+                                                                                 rance de la qualité;
+  (f) a description of any recommended storage procedures.
+                                                                                 f) la description des méthodes recommandées pour l'entreposage.
+  3. The following information in respect of the introduction of the             3. Les renseignements ci-après concernant l'introduction du micro-
+micro-organism:                                                                organisme :
+  (a) the intended and potential uses; and                                       a) l'utilisation prévue et toute utilisation potentielle;
+  (b) the history of its use.                                                    b) l'historique de son utilisation.
+   4. The following information in respect of the human health ef-               4. Les renseignements ci-après concernant les effets du micro-or-
+fects of the micro-organism:                                                   ganisme sur la santé humaine :
+  (a) any documented involvement of the micro-organism in ad-                    a) toute documentation relative au rôle du micro-organisme quant
+  verse human health effects and a description of the characteristics            aux effets nocifs sur la santé humaine et la description des caracté-
+  of the micro-organism that distinguish it from known pathogens;                ristiques qui le distinguent des agents pathogènes connus;
+  and
+                                                                                 b) les données des essais de sensibilité aux antibiotiques.
+  (b) the data from tests of antibiotic susceptibility.
+   5. All other information and test data in respect of the micro-or-             5. Tout autre renseignement et toute donnée d'essai à l'égard du
+ganism that are relevant to identifying hazards to the environment             micro-organisme qui permettent de déterminer les dangers que celui-
+and human health and that are in the person's possession or to which           ci présente pour l'environnement et la santé humaine et dont dispose
+the person ought reasonably to have access.                                    la personne ou auxquels elle devrait normalement avoir accès.
+   6. The identification of other government agencies, either outside             6. Le nom des autres organismes publics, à l'étranger ou au
+or within Canada, that the person has notified of the manufacture or           Canada, qui ont été avisés par la personne de la fabrication ou de
+importation of the micro-organism, and the purpose of that notifica-           l'importation du micro-organisme, et l'objet de l'avis.
+tion.
+   7. A description or specification of the test procedures followed in           7. La description ou la notice des protocoles d'essai suivis pour la
+developing the test data, including the test methods, reference sub-           production des données d'essai, y compris les méthodes d'essai, les
+stances and quality control and quality assurance procedures.                  substances de référence ainsi que les méthodes visant le contrôle de
+                                                                               la qualité et l'assurance de la qualité.
+
+
+
+
+                                                                          16
+                                                  DORS/2005-248 — 6 octobre 2010
+
+
+
+                          SCHEDULE 3                                                                    ANNEXE 3
+               (Subsection 3(5) and paragraph 6(c))                                             (paragraphe 3(5) et alinéa 6c))
+
+  INFORMATION REQUIRED IN RESPECT OF MICRO-                                      RENSEIGNEMENTS EXIGÉS À L'ÉGARD DES MICRO-
+ORGANISMS FOR INTRODUCTION IN AN EXPERIMENTAL                                   ORGANISMES DESTINÉS À ÊTRE INTRODUITS DANS LE
+                 FIELD STUDY                                                   CADRE D'UNE ÉTUDE EXPÉRIMENTALE SUR LE TERRAIN
+1. The following information in respect of the micro-organism:                 1. Les renseignements ci-après concernant le micro-organisme :
+(a) its identification and the information substantiating its identifi-        a) l'identification et les renseignements à l'appui;
+cation;
+                                                                               b) les synonymes ainsi que les noms communs et périmés;
+(b) its common and superseded names and any synonyms;
+                                                                               c) l'historique de la souche;
+(c) its strain history;
+                                                                               d) la description des modifications apportées au micro-organisme,
+(d) a description of any modifications to the micro-organism, in-              notamment :
+cluding
+                                                                                 (i) le but des modifications,
+  (i) the purpose of the modifications,
+                                                                                 (ii) les méthodes et le processus suivis pour les effectuer,
+  (ii) the methods and steps taken to make the modifications,
+                                                                                 (iii) les modifications phénotypiques et génotypiques qui ont
+  (iii) the phenotypic and genotypic changes that resulted from                  découlé du processus visé au sous-alinéa (ii),
+  the steps referred to in subparagraph (ii),
+                                                                                 (iv) la stabilité des modifications visées au sous-alinéa (iii),
+  (iv) the stability of the changes referred to in subparagraph (iii),
+                                                                                 (v) la nature, la source et la fonction de tout matériel génétique
+  and
+                                                                                 inséré;
+  (v) the nature, source and function of any inserted genetic mate-
+                                                                               e) la description des méthodes pouvant servir à différencier et à
+  rial;
+                                                                               détecter le micro-organisme;
+(e) a description of the methods that can be used to distinguish and
+                                                                               f) la description des caractéristiques biologiques et écologiques du
+detect the micro-organism;
+                                                                               micro-organisme, notamment :
+(f) a description of the biological and ecological characteristics of
+                                                                                 (i) son infectivité, sa pathogénicité vis-à-vis des espèces non
+the micro-organism, including
+                                                                                 humaines, sa toxicité et sa toxinogénicité,
+  (i) its infectivity, pathogenicity to non-human species, toxicity
+                                                                                 (ii) les conditions nécessaires à sa survie, à sa croissance et à sa
+  and toxigenicity,
+                                                                                 réplication et les conditions qui limitent ces processus,
+  (ii) the conditions required for, and conditions that limit, its sur-
+                                                                                 (iii) son cycle de vie, s'il n'est pas indigène,
+  vival, growth and replication,
+  (iii) its life cycle, if the micro-organism is not indigenous,                 (iv) sa résistance aux antibiotiques et sa tolérance aux métaux et
+                                                                                 aux pesticides, s'il n'est pas indigène,
+  (iv) its resistance to antibiotics and tolerance to metals and pes-
+                                                                                 (v) son rôle dans les cycles biogéochimiques, s'il n'est pas indi-
+  ticides, if the micro-organism is not indigenous,
+                                                                                 gène,
+  (v) its involvement in biogeochemical cycling, if the micro-or-
+                                                                                 (vi) les mécanismes de sa dispersion et les modes d'interaction
+  ganism is not indigenous, and
+                                                                                 avec les agents de dispersion;
+  (vi) the mechanisms of its dispersal and the modes of interac-
+                                                                               g) la description du mode d'action connu du micro-organisme par
+  tion with any dispersal agents;
+                                                                               rapport à l'objectif de l'étude expérimentale sur le terrain;
+(g) a description of the known mode of action in relation to the ob-
+                                                                               h) l'identification de tout brevet ou demande de brevet, selon le
+jective of the experimental field study;
+                                                                               cas;
+(h) the identification of any patent or any application for a patent,
+                                                                               i) si le micro-organisme n'est pas indigène, la dispersion — par
+as the case may be;
+                                                                               transfert de gènes — de ses caractéristiques de pathogénicité vis-à-
+(i) if the micro-organism is not indigenous, the dispersal by gene             vis des espèces non humaines, de toxinogénicité et de résistance
+transfer of traits of pathogenicity to non-human species, toxigenici-          aux antibiotiques, notamment une description :
+ty and resistance to antibiotics, including a description of
+                                                                                 (i) des bases génétiques de sa pathogénicité vis-à-vis des es-
+  (i) the genetic basis for pathogenicity to non-human species,                  pèces non humaines, de sa toxinogénicité et de sa résistance aux
+  toxigenicity and resistance to antibiotics,                                    antibiotiques,
+  (ii) the capability to transfer genes, and                                     (ii) de sa capacité de transférer des gènes,
+  (iii) the conditions that might select for dispersal of traits of              (iii) des conditions qui pourraient entraîner la dispersion de ses
+  pathogenicity to non-human species, toxigenicity and resistance                caractéristiques de pathogénicité vis-à-vis des espèces non hu-
+
+
+
+
+                                                                          17
+                                                    SOR/2005-248 — October 6, 2010
+
+
+
+    to antibiotics, and whether the conditions are likely to exist at                maines, de toxinogénicité et de résistance aux antibiotiques,
+    the site of the experimental field study or within the range of                  avec mention de l'existence probable ou non de ces conditions
+    dispersal of the micro-organism; and                                             au site de l'étude ou dans l'aire de dispersion du micro-orga-
+                                                                                     nisme;
+  (j) a description of the geographic distribution of the micro-organ-
+  ism.                                                                             j) la description de la répartition géographique du micro-orga-
+                                                                                   nisme.
+  2. The following information in respect of the manufacture and                   2. Les renseignements ci-après concernant la fabrication et l'im-
+importation of the micro-organism:                                               portation du micro-organisme :
+  (a) the identification of trade names and manufacturers, importers               a) les noms commerciaux du micro-organisme et le nom des fabri-
+  and vendors;                                                                     cants, importateurs et vendeurs;
+  (b) the physical state of the formulation;                                       b) l'état physique de la préparation;
+  (c) the concentration of the micro-organism in the formulation;                  c) la concentration du micro-organisme dans la préparation;
+  (d) the identification and concentration of other ingredients and of             d) l'identification et la concentration des autres ingrédients et des
+  any contaminants in the formulation;                                             contaminants présents dans la préparation;
+  (e) the viability of the micro-organism in the formulation;                      e) la viabilité du micro-organisme dans la préparation;
+  (f) a description of any recommended storage and disposal proce-                 f) la description des méthodes recommandées pour l'entreposage et
+  dures;                                                                           l'élimination;
+  (g) an estimation of the quantity of the micro-organism that will                g) une estimation de la quantité du micro-organisme qui sera im-
+  be imported into or manufactured in Canada, as the case may be;                  portée ou fabriquée au Canada, selon le cas;
+  (h) a description of the equipment and methods of manufacture                    h) la description de l'équipement et des méthodes de fabrication
+  and of quality control and quality assurance procedures;                         ainsi que des méthodes visant le contrôle de la qualité et l'assu-
+                                                                                   rance de la qualité;
+  (i) a description of the location of manufacturing facilities in
+  Canada;                                                                          i) la description de l'emplacement des installations de fabrication
+                                                                                   au Canada;
+  (j) a description of the nature of potential releases of the micro-or-
+  ganism from the manufacturing facilities in Canada or from the fa-               j) la description de la nature des rejets potentiels du micro-orga-
+  cilities to which the micro-organism will be imported, as the case               nisme en provenance des installations de fabrication au Canada ou
+  may be, and the procedures to control releases; and                              des installations où il sera importé, selon le cas, ainsi que les mé-
+                                                                                   thodes de contrôle des rejets;
+  (k) a description of the procedures for the treatment and disposal
+  of wastes containing the micro-organism from the manufacturing                   k) la description des procédés de traitement et d'élimination des
+  facilities in Canada.                                                            déchets contenant le micro-organisme qui proviennent des installa-
+                                                                                   tions de fabrication au Canada.
+ 3. The following information in respect of the site of the experi-               3. Les renseignements ci-après concernant le site de l'étude expéri-
+mental field study:                                                              mentale sur le terrain :
+  (a) its location and a map;                                                      a) son emplacement et une carte géographique le situant;
+  (b) its size;                                                                    b) sa taille;
+  (c) the distance to populated areas;                                             c) la distance par rapport aux zones habitées;
+  (d) the distance to any protected areas;                                         d) la distance par rapport aux zones protégées;
+  (e) a description of the geological landscape at the site and sur-               e) la description du paysage géologique sur le site et dans les envi-
+  rounding the site;                                                               rons;
+  (f) a description of the biological diversity found at the site and              f) la description de la diversité biologique existant sur le site et
+  surrounding the site, including                                                  dans les environs, notamment :
+    (i) the identification of the endangered or threatened species,                  (i) l'identification des espèces menacées ou en voie d'extinction,
+    and
+                                                                                     (ii) lorsque l'infectivité, la pathogénicité vis-à-vis des espèces
+    (ii) if infectivity, pathogenicity to non-human species, toxicity                non humaines, la toxicité et la toxinogénicité ont été précisées
+    and toxigenicity have been identified in subparagraph 1(f)(i), the               au titre du sous-alinéa 1f)(i), l'identification des espèces récep-
+    identification of the receptor species;                                          trices;
+  (g) a comparison of the natural habitat of the micro-organism to                 g) une comparaison entre l'habitat naturel du micro-organisme et
+  the habitat at the site of the experimental field study, and the nature          l'habitat sur le site de l'étude, ainsi que la nature de la sélection qui
+                                                                                   peut s'opérer sur le micro-organisme à ce site;
+
+
+
+
+                                                                            18
+                                                   DORS/2005-248 — 6 octobre 2010
+
+
+
+  of the selection that may operate on the micro-organism at that                h) si le micro-organisme est indigène, les données qui l'établissent.
+  site; and
+  (h) if the micro-organism is indigenous, data to demonstrate that it
+  is indigenous.
+   4. The following information in respect of the experimental field             4. Les renseignements ci-après concernant l'étude expérimentale
+study:                                                                         sur le terrain :
+  (a) its objectives;                                                            a) les objectifs de l'étude;
+  (b) the history of use of the micro-organism;                                  b) l'historique de l'utilisation du micro-organisme;
+  (c) its start date and duration;                                               c) la date de début et la durée;
+  (d) a description of the procedures for transporting the micro-or-             d) la description des méthodes de transport du micro-organisme à
+  ganism to and from the site of the experimental field study;                   destination et en provenance du site de l'étude;
+  (e) a description of the procedures and design for the experimental            e) la description des procédures et des plans de l'étude, indiquant
+  field study, including                                                         notamment :
+     (i) the method of application of the micro-organism,                          (i) la méthode d'application du micro-organisme,
+     (ii) the quantity, frequency and duration of application of the               (ii) la quantité, la fréquence et la durée de l'application du mi-
+     micro-organism, and                                                           cro-organisme,
+     (iii) any activities associated with the experimental field study;            (iii) les activités relatives à l'étude;
+  (f) a description of any procedures for monitoring the micro-or-               f) la description des méthodes de surveillance du micro-organisme
+  ganism and its ecological effects at the site of the experimental              et de ses effets écologiques sur le site de l'étude, pendant et après
+  field study, during and after the experimental field study;                    celle-ci;
+  (g) a description of the security measures at the site of the experi-          g) la description des mesures de sécurité sur le site de l'étude;
+  mental field study;
+                                                                                 h) la description des plans d'urgence en cas de rejet accidentel;
+  (h) a description of any contingency plans in the event of an acci-
+                                                                                 i) la description des méthodes recommandées pour mettre fin à
+  dental release;
+                                                                                 l'étude;
+  (i) a description of any recommended procedures for terminating
+                                                                                 j) la description des méthodes de confinement et des conditions de
+  the experimental field study; and
+                                                                                 biosécurité à l'égard du micro-organisme au site de l'étude, ainsi
+  (j) a description of any confinement procedures and biosafety con-             qu'une description de leur efficacité.
+  ditions for the micro-organism at the site of the experimental field
+  study, and a description of their effectiveness.
+   5. The following information in respect of the environmental fate             5. Les renseignements ci-après concernant le devenir du micro-or-
+of the micro-organism:                                                         ganisme dans l'environnement :
+  (a) a description of habitats where the micro-organism may persist             a) la description des habitats dans lesquels le micro-organisme
+  or proliferate;                                                                peut persister ou proliférer;
+  (b) the estimated quantities of the micro-organism in the air, water           b) les quantités estimatives du micro-organisme dans l'air, l'eau et
+  and soil at the points of introduction and the estimated population            le sol aux points d'introduction, ainsi qu'une estimation des ten-
+  trends; and                                                                    dances de la population du micro-organisme;
+  (c) any other information on the environmental fate of the micro-              c) tout autre renseignement sur le devenir du micro-organisme
+  organism.                                                                      dans l'environnement.
+   6. The following information in respect of the ecological effects of          6. Les renseignements ci-après concernant les effets écologiques
+the micro-organism:                                                            du micro-organisme :
+  (a) the involvement of the micro-organism in adverse ecological                a) le rôle du micro-organisme quant aux effets écologiques nocifs;
+  effects; and
+                                                                                 b) le risque — associé au micro-organisme — de répercussions
+  (b) the potential of the micro-organism to have adverse environ-               environnementales défavorables qui pourraient influer sur la
+  mental impacts that could affect the conservation and sustainable              conservation et l'utilisation durable de la diversité biologique.
+  use of biological diversity.
+   7. The following information in respect of the human health ef-               7. Les renseignements ci-après concernant les effets du micro-or-
+fects of the micro-organism:                                                   ganisme sur la santé humaine :
+
+
+
+
+                                                                          19
+                                                    SOR/2005-248 — October 6, 2010
+
+
+
+  (a) any documented involvement of the micro-organism in ad-                    a) toute documentation relative au rôle du micro-organisme quant
+  verse human health effects and a description of the characteristics            aux effets nocifs sur la santé humaine et la description des caracté-
+  of the micro-organism that distinguish it from known pathogens;                ristiques qui le distinguent des agents pathogènes connus;
+  (b) the data from tests of antibiotic susceptibility; and                      b) les données des essais de sensibilité aux antibiotiques;
+  (c) the estimated number of persons who may become exposed                     c) le nombre estimatif de personnes susceptibles d'être exposées
+  and the degree of their exposure to the micro-organism.                        au micro-organisme et le degré d'exposition.
+  8. All other information and test data in respect of the micro-or-              8. Tout autre renseignement et toute donnée d'essai à l'égard du
+ganism that are relevant to identifying hazards to the environment             micro-organisme qui permettent de déterminer les dangers que celui-
+and human health and that are in the person's possession or to which           ci présente pour l'environnement et la santé humaine et dont dispose
+the person ought reasonably to have access.                                    la personne ou auxquels elle devrait normalement avoir accès.
+   9. The identification of other government agencies, either outside             9. Le nom des autres organismes publics, à l'étranger ou au
+or within Canada, that the person has notified of the manufacture or           Canada, qui ont été avisés par la personne de la fabrication ou de
+importation of the micro-organism, and the purpose of that notifica-           l'importation du micro-organisme, et l'objet de l'avis.
+tion.
+   10. A description or specification of the test procedures followed             10. La description ou la notice des protocoles d'essai suivis pour la
+in developing the test data, including the test methods, reference sub-        production des données d'essai, y compris les méthodes d'essai, les
+stances and quality control and quality assurance procedures.                  substances de référence ainsi que les méthodes visant le contrôle de
+                                                                               la qualité et l'assurance de la qualité.
+
+
+
+
+                                                                          20
+                                                  DORS/2005-248 — 6 octobre 2010
+
+
+
+                           SCHEDULE 4                                                                      ANNEXE 4
+                (Subsection 3(6) and paragraph 6(b))                                              (paragraphe 3(6) et alinéa 6b))
+
+   INFORMATION REQUIRED IN RESPECT OF MICRO-                                      RENSEIGNEMENTS EXIGÉS À L'ÉGARD DES MICRO-
+ORGANISMS MANUFACTURED AT THE SITE FROM WHICH                                    ORGANISMES FABRIQUÉS AU SITE D'OÙ ILS ONT ÉTÉ
+ THEY WERE ISOLATED FOR INTRODUCTION INTO THE                                  ISOLÉS ET DESTINÉS À ÊTRE INTRODUITS DANS LE MÊME
+                  SAME SITE                                                                            SITE
+  1. The following information in respect of the micro-organism:                 1. Les renseignements ci-après concernant le micro-organisme :
+  (a) its identification and the information substantiating the identi-          a) son identification et les renseignements à l'appui;
+  fication;
+                                                                                 b) son infectivité, sa pathogénicité vis-à-vis des espèces non hu-
+  (b) its infectivity, pathogenicity to non-human species, toxicity              maines, sa toxicité et sa toxinogénicité;
+  and toxigenicity; and
+                                                                                 c) la description des sous-produits qui résulteront vraisemblable-
+  (c) a description of the reasonably expected by-products following             ment de son introduction.
+  introduction.
+  2. The following information in respect of the manufacture of the              2. Les renseignements ci-après concernant la fabrication du micro-
+micro-organism:                                                                organisme :
+  (a) data to substantiate that the micro-organism was isolated from             a) les données établissant que le micro-organisme a été isolé du
+  the site of introduction;                                                      site d'introduction;
+  (b) the viability of the micro-organism in the formulation;                    b) la viabilité du micro-organisme dans la préparation;
+  (c) an estimation of the quantity of the micro-organism that will be           c) une estimation de la quantité du micro-organisme qui sera fabri-
+  manufactured;                                                                  quée;
+  (d) a description of the equipment and methods of manufacture                  d) la description de l'équipement et des méthodes de fabrication
+  and of quality control and quality assurance procedures; and                   ainsi que des méthodes visant le contrôle de la qualité et l'assu-
+                                                                                 rance de la qualité;
+  (e) a description of the procedures for the treatment and disposal
+  of wastes containing the micro-organism.                                       e) la description des procédés de traitement et d'élimination des
+                                                                                 déchets contenant le micro-organisme.
+  3. The location and a map of the site of introduction.                          3. L'emplacement du site d'introduction et une carte géographique
+                                                                               le situant.
+  4. The following information in respect of the introduction of the             4. Les renseignements ci-après concernant l'introduction du micro-
+micro-organism:                                                                organisme :
+  (a) its intended use;                                                          a) l'utilisation prévue;
+  (b) the start date and duration;                                               b) la date de début et la durée;
+  (c) a description of the procedures for its introduction including             c) la description du procédé d'introduction, notamment :
+    (i) the method of application,                                                 (i) la méthode d'application,
+    (ii) the quantity, frequency and duration of application, and                  (ii) la quantité, la fréquence et la durée de l'application,
+    (iii) any activities associated with the introduction; and                     (iii) les activités relatives à l'introduction;
+  (d) a description of any confinement procedures and biosafety                  d) la description des méthodes de confinement et des conditions
+  conditions for the micro-organism at the site of introduction, and a           de biosécurité à l'égard du micro-organisme au site d'introduction,
+  description of their effectiveness.                                            ainsi qu'une description de leur efficacité.
+   5. The following information in respect of the human health ef-               5. Les renseignements ci-après concernant les effets du micro-or-
+fects of the micro-organism:                                                   ganisme sur la santé humaine :
+  (a) any documented involvement of the micro-organism in ad-                    a) toute documentation relative au rôle du micro-organisme quant
+  verse human health effects and a description of the characteristics            aux effets nocifs sur la santé humaine et la description des caracté-
+  of the micro-organism that distinguish it from known pathogens;                ristiques qui le distinguent des agents pathogènes connus;
+  and
+                                                                                 b) le nombre estimatif de personnes susceptibles d'être exposées
+  (b) the estimated number of persons who may become exposed                     au micro-organisme et le degré d'exposition.
+  and the degree of their exposure to the micro-organism.
+  6. All other information and test data in respect of the micro-or-             6. Tout autre renseignement et toute donnée d'essai à l'égard du
+ganism that are relevant to identifying hazards to the environment             micro-organisme qui permettent de déterminer les dangers que celui-
+
+
+
+
+                                                                          21
+                                                   SOR/2005-248 — October 6, 2010
+
+
+
+and human health and that are in the person's possession or to which           ci présente pour l'environnement et la santé humaine et dont dispose
+the person ought reasonably to have access.                                    la personne ou auxquels elle devrait normalement avoir accès.
+   7. The identification of other government agencies, either outside             7. Le nom des autres organismes publics, à l'étranger ou au
+or within Canada, that the person has notified of the manufacture or           Canada, qui ont été avisés par la personne de la fabrication ou de
+importation of the micro-organism, and the purpose of that notifica-           l'importation du micro-organisme, et l'objet de l'avis.
+tion.
+   8. A description or specification of the test procedures followed in           8. La description ou la notice des protocoles d'essai suivis pour la
+developing the test data, including the test methods, reference sub-           production des données d'essai, y compris les méthodes d'essai, les
+stances and quality control and quality assurance procedures.                  substances de référence ainsi que les méthodes visant le contrôle de
+                                                                               la qualité et l'assurance de la qualité.
+
+
+
+
+                                                                          22
+                                                    DORS/2005-248 — 6 octobre 2010
+
+
+
+                            SCHEDULE 5                                                                      ANNEXE 5
+                    (Section 4 and paragraph 6(d))                                                    (article 4 et alinéa 6d))
+
+  INFORMATION REQUIRED IN RESPECT OF ORGANISMS                                  RENSEIGNEMENTS EXIGÉS À L'ÉGARD DES ORGANISMES
+         OTHER THAN MICRO-ORGANISMS                                                    AUTRES QUE LES MICRO-ORGANISMES
+  1. The following information in respect of the organism:                       1. Les renseignements ci-après concernant l'organisme :
+  (a) the identification, or current taxonomic name to the species or            a) l'identification, ou le nom taxonomique courant au niveau des
+  subspecies level, strain, common names, trade name and any syn-                espèces ou sous-espèces, la souche, les synonymes, les noms com-
+  onyms;                                                                         muns et le nom commercial;
+  (b) its strain history;                                                        b) l'historique de la souche;
+  (c) a description of any modifications to the organism, including              c) la description des modifications apportées à l'organisme, no-
+                                                                                 tamment :
+    (i) the purpose of the modifications,
+                                                                                   (i) le but des modifications,
+    (ii) the methods and steps taken to make the modifications,
+                                                                                   (ii) les méthodes et le processus suivis pour les effectuer,
+    (iii) the phenotypic and genotypic changes that resulted from
+    the steps referred to in subparagraph (ii),                                    (iii) les modifications phénotypiques et génotypiques qui ont
+                                                                                   découlé du processus visé au sous-alinéa (ii),
+    (iv) the genetic stability of the changes referred to in subpara-
+    graph (iii), and                                                               (iv) la stabilité génétique des modifications visées au sous-ali-
+                                                                                   néa (iii),
+    (v) the nature, source and function of any introduced genetic
+    material;                                                                      (v) la nature, la source et la fonction de tout matériel génétique
+                                                                                   introduit;
+  (d) a description of the methods that can be used to distinguish
+  and detect the organism;                                                       d) la description des méthodes pouvant servir à différencier et à
+                                                                                 détecter l'organisme;
+  (e) a description of the biological and ecological characteristics of
+  the organism, including                                                        e) la description des caractéristiques biologiques et écologiques de
+                                                                                 l'organisme, notamment :
+    (i) its life cycle,
+                                                                                   (i) son cycle de vie,
+    (ii) its reproductive biology, including species with which the
+    organism could interbreed in Canada,                                           (ii) son processus biologique de reproduction, y compris les es-
+                                                                                   pèces pouvant s'hybrider avec l'organisme au Canada,
+    (iii) its involvement in adverse ecological effects, including
+    pathogenicity, toxicity and invasiveness,                                      (iii) son rôle quant aux effets écologiques nocifs, y compris la
+                                                                                   pathogénicité, la toxicité et le caractère envahissant,
+    (iv) a description of the geographic distribution and habitat of
+    the organism,                                                                  (iv) la description de sa répartition géographique et de son habi-
+                                                                                   tat,
+    (v) the potential for dispersal of its traits by gene transfer,
+                                                                                   (v) le risque de dispersion de ses caractéristiques par transfert
+    (vi) the locations and situations where the organism has caused
+                                                                                   de gènes,
+    adverse ecological effects,
+                                                                                   (vi) les lieux et les situations où il a causé des effets écolo-
+    (vii) its involvement in biogeochemical cycling,
+                                                                                   giques nocifs,
+    (viii) its interactions with other organisms in the environment,
+                                                                                   (vii) son rôle dans les cycles biogéochimiques,
+    (ix) the conditions required for its survival, growth, reproduc-
+                                                                                   (viii) ses interactions avec d'autres organismes dans l'environne-
+    tion and overwintering,
+                                                                                   ment,
+    (x) its capability to act as a vector for agents involved in ad-
+                                                                                   (ix) les conditions qui sont nécessaires à sa survie, sa crois-
+    verse effects, and
+                                                                                   sance, sa reproduction et sa survie hiémale,
+    (xi) the mechanisms of its dispersal and the modes of interac-
+                                                                                   (x) sa capacité à agir comme un vecteur pour les agents contri-
+    tion with any dispersal agents; and
+                                                                                   buant aux effets nocifs,
+  (f) the identification of any patent or other rights, or any applica-
+                                                                                   (xi) les mécanismes de sa dispersion et les modes d'interaction
+  tion for a patent or other rights, as the case may be.
+                                                                                   avec les agents de dispersion;
+                                                                                 f) l'identification de tout brevet ou autre droit, ou de toute de-
+                                                                                 mande de brevet ou autre droit, selon le cas.
+  2. The following information in respect of the manufacture and                 2. Les renseignements ci-après concernant la fabrication et l'im-
+importation of the organism:                                                   portation de l'organisme :
+
+
+
+
+                                                                          23
+                                                     SOR/2005-248 — October 6, 2010
+
+
+
+  (a) the identification of manufacturers, importers and vendors;                 a) le nom des fabricants, importateurs et vendeurs;
+  (b) a description of the locations of manufacture in Canada;                    b) la description des lieux de fabrication au Canada;
+  (c) a description of the product containing the organism;                       c) la description du produit contenant l'organisme;
+  (d) a description of any recommended procedures for the storage                 d) la description des méthodes recommandées pour l'entreposage
+  and disposal of the organism;                                                   et l'élimination;
+  (e) an estimation of the quantity of the organism that will be im-              e) une estimation de la quantité de l'organisme qui sera importée
+  ported into or manufactured in Canada, as the case may be; and                  ou fabriquée au Canada, selon le cas;
+  (f) a description of the methods of manufacture and of quality con-             f) la description des méthodes de fabrication ainsi que des mé-
+  trol and quality assurance procedures.                                          thodes visant le contrôle de la qualité et l'assurance de la qualité.
+  3. The following information in respect of the introduction of the               3. Les renseignements ci-après concernant l'introduction de l'orga-
+organism:                                                                       nisme :
+  (a) the history of its use;                                                     a) l'historique de son utilisation;
+  (b) the intended and potential uses of the organism, and the poten-             b) l'utilisation prévue et toute utilisation potentielle ainsi que les
+  tial locations of introduction;                                                 lieux d'introduction potentiels;
+  (c) a description of the mode of action in relation to the intended             c) la description de son mode d'action par rapport à l'utilisation
+  use; and                                                                        prévue;
+  (d) a description of the procedures for the introduction of the or-             d) la description du procédé d'introduction, notamment :
+  ganism, including
+                                                                                     (i) la méthode et le taux d'introduction,
+     (i) the method and rate of its introduction,
+                                                                                     (ii) les activités relatives à l'introduction,
+     (ii) any activities associated with its introduction,
+                                                                                    (iii) les méthodes recommandées pour l'entreposage et la manu-
+     (iii) any recommended procedures for the storage and handling                  tention de tout organisme en trop,
+     of any surplus organism,
+                                                                                    (iv) les plans d'urgence en cas de rejet accidentel et les mesures
+     (iv) any contingency plans in the event of an accidental release               d'isolement reproductif,
+     and any reproductive isolation measures, and
+                                                                                    (v) la résistance aux agents de contrôle;
+     (v) its resistance to control agents;
+                                                                                  e) la description des méthodes recommandées pour mettre fin à
+  (e) a description of any recommended procedures for terminating                 l'introduction de l'organisme;
+  the introduction of the organism; and
+                                                                                  f) la description des méthodes d'élimination de la biomasse res-
+  (f) a description of the procedures for the disposal of remaining               tante et des résidus de l'organisme.
+  biomass and residues of the organism.
+   4. The following information in respect of the environmental fate               4. Les renseignements ci-après concernant le devenir de l'orga-
+of the organism:                                                                nisme dans l'environnement :
+  (a) the estimated quantities of the organism in the environment                 a) les quantités estimatives de l'organisme dans l'environnement et
+  and the estimated population trends;                                            une estimation des tendances de la population de l'organisme;
+  (b) a description of habitats where the organism may persist or                 b) la description des habitats dans lesquels l'organisme peut per-
+  proliferate; and                                                                sister ou proliférer;
+  (c) the identification of the species that are likely to be exposed to          c) l'identification des espèces susceptibles d'être exposées à l'orga-
+  the organism and other species that are likely to be affected by it.            nisme et des autres espèces susceptibles d'être affectées par celui-
+                                                                                  ci.
+   5. The following information in respect of the ecological effects of           5. Les renseignements ci-après concernant les effets écologiques
+the organism:                                                                   de l'organisme :
+  (a) the data from a test conducted to determine its pathogenicity,              a) les données de l'essai servant à déterminer la pathogénicité, la
+  toxicity or invasiveness;                                                       toxicité ou le caractère envahissant de l'organisme;
+  (b) the ecological effects of organism residues; and                            b) les effets écologiques des résidus de l'organisme;
+  (c) the potential of the organism to have adverse environmental                 c) le risque — associé à l'organisme — de répercussions environ-
+  impacts that could affect the conservation and sustainable use of               nementales défavorables qui pourraient influer sur la conservation
+  biological diversity.                                                           et l'utilisation durable de la diversité biologique.
+
+
+
+
+                                                                           24
+                                                  DORS/2005-248 — 6 octobre 2010
+
+
+
+  6. The potential for the organism to be involved in adverse human              6. Le rôle possible de l'organisme quant aux effets nocifs sur la
+health effects, and the most likely route of human exposure to the or-         santé humaine et le mode selon lequel l'être humain est le plus sus-
+ganism.                                                                        ceptible d'être exposé à l'organisme.
+   7. All other information and test data in respect of the organism              7. Tout autre renseignement et toute donnée d'essai à l'égard de
+that are relevant to identifying hazards to the environment and human          l'organisme qui permettent de déterminer les dangers que celui-ci pré-
+health and that are in the person's possession or to which the person          sente pour l'environnement et la santé humaine et dont dispose la per-
+ought reasonably to have access.                                               sonne ou auxquels elle devrait normalement avoir accès.
+   8. The identification of other government agencies, either outside             8. Le nom des autres organismes publics, à l'étranger ou au
+or within Canada, that the person has notified of the manufacture or           Canada, qui ont été avisés par la personne de la fabrication ou de
+importation of the organism, and the purpose of that notification.             l'importation de l'organisme, et l'objet de l'avis.
+   9. A description or specification of the test procedures followed in           9. La description ou la notice des protocoles d'essai suivis pour la
+developing the test data, including the test methods, reference sub-           production des données d'essai, y compris les méthodes d'essai, les
+stances and quality control and quality assurance procedures.                  substances de référence ainsi que les méthodes visant le contrôle de
+                                                                               la qualité et l'assurance de la qualité.
+
+
+
+
+                                                                          25
+

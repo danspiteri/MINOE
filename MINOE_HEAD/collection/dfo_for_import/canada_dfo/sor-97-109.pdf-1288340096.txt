@@ -1,0 +1,678 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+       PCB Waste Export                                                   Règlement sur
+       Regulations, 1996                                             l’exportation de déchets
+                                                                        contenant des BPC
+                                                                              (1996)
+
+                       SOR/97-109                                                        DORS/97-109
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published             31. (1) Every copy of a consolidated statute or            31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies      (3) In the event of an inconsistency between a              (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                                 Enregistrement
+SOR/97-109 February 4, 1997                                  DORS/97-109 Le 4 février 1997
+CANADIAN ENVIRONMENTAL PROTECTION ACT,                       LOI CANADIENNE SUR LA PROTECTION DE
+1999                                                         L’ENVIRONNEMENT (1999)
+
+PCB Waste Export Regulations, 1996                           Règlement sur l’exportation de déchets contenant des
+                                                             BPC (1996)
+
+P.C. 1997-155 February 4, 1997                               C.P. 1997-155 Le 4 février 1997
+
+  Whereas, pursuant to subsection 48(1) of the Canadi-          Attendu que, conformément au paragraphe 48(1) de la
+an Environmental Protection Acta, the Minister of the        Loi canadienne sur la protection de l’environnementa, le
+Environment published in the Canada Gazette, Part I, on      ministre de l’Environnement a publié dans la Gazette du
+October 5, 1996, a copy of the proposed PCB Waste Ex-        Canada Partie I, le 5 octobre 1996, le projet de règle-
+port Regulations, 1996, substantially in the form an-        ment intitulé Règlement sur l’exportation de déchets
+nexed hereto;                                                contenant des BPC (1996), conforme en substance au
+  Whereas, within the sixty days after the publication of    texte ci-après;
+the proposed Regulations, notices of objection request-         Attendu que, conformément au paragraphe 48(2) de
+ing that a board of review be established under section      cette loi, des avis d’opposition motivés, demandant la
+89 of that Act and stating the reasons for the objections    constitution de la commission de révision prévue à l’ar-
+were filed pursuant to subsection 48(2) of the Canadian      ticle 89 de cette loi, ont été déposés auprès du ministre
+Environmental Protection Acta with the Minister of the       de l’Environnement dans les 60 jours suivant la publica-
+Environment;                                                 tion du projet de règlement;
+   Whereas the Minister of the Environment did not es-         Attendu que le ministre de l’Environnement n’a pas
+tablish the board of review that was requested pursuant      constitué la commission de révision demandée;
+to subsection 48(2) of the Canadian Environmental Pro-          Attendu que, conformément au paragraphe 34(3) de
+tection Acta;                                                cette loi, le gouverneur en conseil estime que le règle-
+   And whereas, in the opinion of the Governor in Coun-      ment ci-après ne vise pas un point déjà réglementé sous
+cil, pursuant to subsection 34(3) of the Canadian Envi-      le régime d’une autre loi fédérale,
+ronmental Protection Acta, the annexed Regulations do           À ces causes, sur recommandation du ministre de
+not regulate an aspect of a substance that is regulated by   l’Environnement et du ministre de la Santé et en vertu
+or under any other Act of Parliament;                        des articles 34b et 45c de la Loi canadienne sur la protec-
+   Therefore, His Excellency the Governor General in         tion de l’environnementa, Son Excellence le Gouverneur
+Council, pursuant to sections 34b and 45c of the Canadi-     général en conseil, ayant donné au comité consultatif fé-
+an Environmental Protection Acta, on the recommenda-         déro-provincial la possibilité de formuler ses conseils
+tion of the Minister of the Environment and the Minister     dans le cadre de l’article 6 de cette loi, prend le Règle-
+of Health and after the federal-provincial advisory com-     ment sur l’exportation de déchets contenant des BPC
+mittee has been given an opportunity to provide its ad-      (1996), ci-après.
+
+
+
+a                                                             a 
+   R.S., c. 16 (4th Supp.)                                       L.R., ch. 16 (4e suppl.)
+b                                                             b 
+   S.C. 1992, c. 1, s. 144, Sch. VII, item 15                    L.C. 1992, ch. 1, art. 144, ann. VII, art. 15
+c                                                             c 
+   S.C. 1992, c. 1, s. 37                                        L.C. 1992, ch. 1, art. 37
+                                        SOR/97-109 — October 6, 2010
+
+
+
+
+vice under section 6 of that Act, hereby makes the an-
+nexed PCB Waste Export Regulations, 1996.
+PCB WASTE EXPORT REGULATIONS, 1996                                 RÈGLEMENT SUR L’EXPORTATION DE DÉCHETS
+                                                                      CONTENANT DES BPC (1996)
+
+                  INTERPRETATION                                                        DÉFINITIONS
+   1. The definitions in this section apply in these Regu-           1. Les définitions qui suivent s’appliquent au présent
+lations.                                                           règlement.
+“Act” means the Canadian Environmental Protection                  « BPC » Tout biphényle chloré visé à l’article 1 de la
+Act, 1999. (Loi)                                                   liste des substances toxiques de l’annexe 1 de la Loi.
+“authorized carrier” means                                         (PCB)
+
+  (a) in the case of a carrier that is required under the          « chef » Le chef de la Division des mouvements trans-
+  applicable laws to be the holder of a licence, permit,           frontières, Direction des opérations, ministère de l’Envi-
+  certificate or other written authorization to carry the          ronnement. (Chief)
+  type of PCB waste that is being exported, a carrier in           « composé contenant des BPC » Tout mélange qui
+  respect of which such licence, permit, certificate or            contient 50 mg ou plus de BPC par kilogramme. (PCB
+  other written authorization has been issued by the               mixture)
+  competent governmental and international authorities;            « déchets contenant des BPC »
+  and
+                                                                     a) Liquide, solide, composé, matériel ou sols conte-
+  (b) in any other case, a carrier that is authorized under          nant des BPC, ou équipement électrique, qui n’est
+  the applicable laws to carry the type of PCB waste                 plus utilisé au Canada;
+  that is being exported. (transporteur agréé)
+                                                                     b) tout emballage ou contenant qui a déjà contenu
+“authorized facility” means a facility in respect of which           l’un des éléments visés à l’alinéa a), qui n’est plus uti-
+a licence, permit, certificate or other written authoriza-           lisé au Canada et qui est contaminé par 50 mg ou plus
+tion has been issued under the TSCA by the U.S. EPA                  de BPC par kilogramme. (PCB waste)
+for the disposal of PCB waste. (installation agréée)
+                                                                   « élimination » Procédé, autre que l’enfouissement de dé-
+“Chief” means the Chief of the Transboundary Move-                 chets contenant des BPC, qui permet de détruire des dé-
+ment Division, Operations Branch, Department of the                chets contenant des BPC par la déchloration, par l’inci-
+Environment. (chef)                                                nération ou autre traitement thermique ou par toute autre
+“country of transit” means a country, excluding all                méthode de destruction. La présente définition comprend
+airspace and marine areas outside the limits of its territo-       tout procédé permettant à la fois :
+rial sea, into which a PCB waste is being or is proposed             a) de décontaminer les déchets contenant des BPC;
+to be imported and from which that PCB waste is being,
+or is proposed to be, subsequently exported without be-              b) d’éliminer les résidus résultant de la décontamina-
+ing disposed of. (pays de transit)                                   tion.
+
+“disposal” means any operation, other than landfilling             La présente définition comprend l’entreposage tempo-
+with PCB waste, that will destroy PCB waste, whether               raire des déchets contenant des BPC en attendant leur
+by dechlorination, by incineration or other thermal treat-         élimination à l’installation agréée désignée sur le préavis
+ment or by any other method of destruction, and includes           comme l’installation agréée du destinataire étranger.
+any operation that will                                            (disposal)
+
+  (a) decontaminate PCB waste; and                                 « équipement électrique » Article manufacturé, y compris
+                                                                   un transformateur et un condensateur, qui renferme un li-
+                                                                   quide, un solide ou un composé contenant des BPC, ou
+
+
+
+
+                                                               1
+                                          SOR/97-109 — October 6, 2010
+
+
+
+
+  (b) dispose of the residues from the decontamination          qui est contaminé par un tel liquide, solide ou composé.
+  of PCB waste.                                                 (electrical equipment)
+This definition includes temporary storage of PCB waste         « exportateur » Personne qui projette d’exporter ou qui
+awaiting disposal at the authorized facility indicated on       exporte hors du Canada des déchets contenant des BPC.
+the PCB waste notice as the foreign receiver’s autho-           (exporter)
+rized facility. (élimination)                                   « installation agréée » Installation à l’égard de laquelle
+“electrical equipment” means any manufactured item, in-         une autorisation écrite — notamment une licence, un
+cluding any transformer or capacitor, that contains or is       permis ou un certificat — a été délivrée par la U.S. EPA
+contaminated by a PCB liquid, PCB mixture or PCB sol-           en vertu de la loi TSCA en vue de l’élimination de dé-
+id. (équipement électrique)                                     chets contenant des BPC. (authorized facility)
+“exporter” means any person who proposes to export or           « liquide contenant des BPC » Tout liquide qui contient
+who exports a PCB waste from Canada; (exportateur)              50 mg ou plus de BPC par kilogramme. (PCB liquid)
+“PCB” means any chlorobiphenyl described in item of             « Loi » La Loi canadienne sur la protection de l’environ-
+the List of Toxic Substances in Schedule I to the Act.          nement (1999). (Act)
+(BPC)                                                           « loi TSCA » La loi des États-Unis intitulée Toxic Sub-
+“PCB-contaminated soil” means any soil or other loose           stances Control Act, 40 CFR, ch. 1. (TSCA)
+material contaminated by a PCB liquid, PCB solid or             « matériel contenant des BPC » Tout matériel, à l’exclu-
+PCB mixture to the extent that the soil or material con-        sion de l’équipement électrique, qui contient un liquide,
+tains 50 mg or more of PCBs per kilogram of the soil or         un solide ou un composé contenant des BPC, ou qui est
+material. (sols contenant des BPC)                              contaminé par un tel liquide, solide ou composé. (PCB
+“PCB equipment” means any equipment that contains or            equipment)
+is contaminated by a PCB liquid, PCB mixture or PCB             « pays de transit » Le pays, à l’exclusion de tout espace
+solid, but does not include electrical equipment. (maté-        aérien et de toute zone maritime à l’extérieur de sa mer
+riel contenant des BPC)                                         territoriale, dans lequel des déchets contenant des BPC
+“PCB liquid” means a liquid that contains 50 mg or              sont importés ou destinés à être importés et duquel ils
+more of PCBs per kilogram of the liquid. (liquide conte-        sont exportés ou destinés à être exportés, après importa-
+nant des BPC)                                                   tion, sans avoir été éliminés. (country of transit)
+“PCB mixture” means a mixture that contains 50 mg or            « préavis » Le préavis du projet d’exportation de déchets
+more of PCBs per kilogram of the mixture. (composé              contenant des BPC aux fins de la notification au ministre
+contenant des BPC)                                              exigée aux termes du paragraphe 185(1) de la Loi. (PCB
+“PCB solid” means a solid that contains 50 mg or more           waste notice)
+of PCBs per kilogram of the solid. (solide contenant des        « sols contenant des BPC » Sols ou autres matériaux
+BPC)                                                            meubles contaminés par un liquide, un solide ou un com-
+“PCB waste” means                                               posé contenant des BPC et qui contiennent 50 mg ou
+                                                                plus de BPC par kilogramme. (PCB-contaminated soil)
+  (a) any PCB liquid, PCB solid, PCB mixture, PCB
+  equipment, PCB-contaminated soil or electrical equip-         « solide contenant des BPC » Tout solide contenant 50
+  ment, that is no longer being used in Canada; and             mg ou plus de BPC par kilogramme. (PCB solid)
+                                                                « transporteur agréé »
+
+
+
+
+                                                            2
+                                            DORS/97-109 — 6 octobre 2010
+
+
+
+
+   (b) any packaging or container that has held any of                a) Dans le cas où les lois applicables exigent une au-
+   the items referred to in paragraph (a), that is no longer          torisation écrite — notamment une licence, un permis
+   being used in Canada and that is contaminated with 50              ou un certificat — pour transporter le type de déchets
+   mg or more of PCBs per kilogram. (déchets contenant                contenant des BPC qui sont exportés, tout transporteur
+   des BPC)                                                           auquel une telle autorisation a été délivrée par l’auto-
+“PCB waste notice” means the notice of the proposed                   rité gouvernementale et l’organisme international
+export of PCB waste for the purpose of notifying the                  compétents;
+Minister under subsection 185(1) of the Act. (préavis)                b) dans tout autre cas, tout transporteur qui est autori-
+“TSCA” means the Act of the United States entitled the                sé par les lois applicables à transporter le type de dé-
+Toxic Substances Control Act, 40 CFR, c. 1. (loi TSCA)                chets contenant des BPC qui sont exportés. (autho-
+                                                                      rized carrier)
+“U.S. EPA” means the United States Environmental Pro-
+tection Agency. (U.S. EPA)                                         « U.S. EPA » United States Environmental Protection
+                                                                   Agency. (U.S. EPA)
+SOR/2000-103, s. 8.
+                                                                   DORS/2000-103, art. 8.
+
+                        APPLICATION                                                         APPLICATION
+  2. These Regulations apply where Canada is not a                   2. Le présent règlement s’applique dans les cas où le
+country of transit.                                                Canada n’est pas un pays de transit.
+
+                          EXPORT                                                            EXPORTATION
+   3. No person shall export PCB waste                               3. Il est interdit d’exporter des déchets contenant des
+   (a) to a country other than the United States; and              BPC :
+
+   (b) for any purpose other than for disposal.                       a) à un pays autre que les États-Unis;
+                                                                      b) à des fins autres que l’élimination.
+
+                      PCB WASTE NOTICE                                 PRÉAVIS DE L’EXPORTATION DE DÉCHETS
+                                                                                CONTENANT DES BPC
+  4. A PCB waste notice shall be in the form set out in               4. Le préavis est en la forme prévue à l’annexe I.
+Schedule I.
+  5. A PCB waste notice shall have a reference number,               5. Le préavis porte un numéro de référence distinct
+provided by the Chief, that is unique to that notice.              qui lui est attribué par le chef.
+   6. A PCB waste notice shall provide                                6. Le préavis indique :
+   (a) the identification number, set out in column II of             a) le numéro d’identification prévu à la colonne II de
+   Schedule II, for the type of PCB waste set out in col-             l’annexe II qui s’applique au type de déchets conte-
+   umn I of the same item of that Schedule; and                       nant des BPC à exporter, mentionné à la colonne I;
+   (b) the identification number, set out in column II of             b) le numéro d’identification prévu à la colonne II de
+   Schedule III, for the type of disposal operation set out           l’annexe III qui s’applique au procédé d’élimination
+   in column I of the same item of that Schedule.                     en cause, mentionné à la colonne I.
+
+
+
+
+                                                               3
+                                           SOR/97-109 — October 6, 2010
+
+
+
+
+  7. A PCB waste notice shall be given to the Chief by               7. Le préavis est donné au chef par messager, courrier
+hand delivery, registered mail or facsimile.                      recommandé ou télécopieur.
+   8. Where more than one export of PCB waste is pro-               8. Dans le cas où plus d’une exportation de déchets
+posed, an exporter shall give a separate PCB waste no-            contenant des BPC est projetée, l’exportateur donne un
+tice for each of the proposed exports, unless all of the          préavis distinct pour chaque exportation, sauf si tous les
+PCB wastes in question                                            déchets visés, à la fois :
+  (a) have essentially the same physical and chemical               a) ont essentiellement les mêmes propriétés phy-
+  characteristics;                                                  siques et chimiques;
+  (b) are to be shipped to the same authorized facility             b) seront expédiés à la même installation agréée aux
+  for disposal; and                                                 fins d’élimination;
+  (c) are to be shipped only through those customs of-              c) ne seront expédiés que via les bureaux de douane
+  fices that are specified in the PCB waste notice.                 qui sont précisés dans le préavis.
+   9. An exporter shall give a PCB waste notice within              9. L’exportateur donne le préavis dans les 12 mois
+the 12 months before the export of the PCB waste.                 précédant l’exportation des déchets contenant des BPC.
+
+                    CONDITIONS                                                         CONDITIONS
+  10. An exporter may export PCB waste to the United                10. L’exportateur ne peut exporter aux États-Unis,
+States for disposal only if                                       aux fins d’élimination, des déchets contenant des BPC
+  (a) the export of that PCB waste is not prohibited un-          que si les conditions suivantes sont réunies :
+  der the laws of Canada;                                           a) les lois du Canada n’interdisent pas l’exportation
+  (b) at the time the PCB waste notice is given, the                de ces déchets;
+  United States has not notified the Chief that import of           b) au moment où le préavis est donné, les États-Unis
+  that PCB waste into the United States is prohibited;              n’ont pas avisé le chef que l’importation de ces dé-
+  (c) the Canada-U.S.A. Agreement on the Transbound-                chets dans ce pays est interdite;
+  ary Movement of Hazardous Waste, which came into                  c) l'Accord entre le Canada et les États-Unis concer-
+  effect on November 8, 1986, in its form as amended                nant les déplacements transfrontaliers de déchets dan-
+  on November 25, 1992, is in effect at the time of ex-             gereux, entré en vigueur le 8 novembre 1986 et modi-
+  port;                                                             fié le 25 novembre 1992, est en vigueur à la date
+  (d) the exporter is a resident of Canada or, in the case          d’exportation;
+  of a corporation, has a place of business in Canada;              d) l’exportateur est un résident du Canada ou, s’il
+  (e) the exporter is a person                                      s’agit d’une personne morale, a un établissement au
+                                                                    Canada;
+    (i) whose activity generated the PCB waste,
+                                                                    e) l’exportateur est une personne qui, selon le cas :
+    (ii) who is removing the PCB waste from a site that
+    the person owns or operates, for disposal,                         (i) exerce les activités qui ont produit ces déchets,
+
+    (iii) who is acting on behalf of a government, or                  (ii) enlève ces déchets, aux fins d’élimination, d’un
+                                                                       site qui lui appartient ou qu’elle exploite,
+    (iv) who collects or receives PCB waste and then
+    processes it for disposal at the person’s facility in a            (iii) agit au nom d’un gouvernement,
+
+
+
+
+                                                              4
+                                        DORS/97-109 — 6 octobre 2010
+
+
+
+
+  manner that changes the physical and chemical                  (iv) recueille ou reçoit ces déchets pour ensuite les
+  characteristics of that PCB waste;                             traiter à son installation aux fins d’élimination de
+(f) the PCB waste is being exported to an authorized             manière à en modifier les caractéristiques physiques
+facility;                                                        et chimiques;
+
+(g) the exporter takes all practicable measures to en-         f) les déchets sont exportés vers une installation
+sure that the PCB waste will be transported and dis-           agréée;
+posed of in a manner that protects the environment             g) l’exportateur prend toutes les mesures possibles
+and human health from the adverse effects that could           pour s’assurer que les déchets seront transportés et éli-
+result from the transportation and disposal of that PCB        minés d’une manière qui protège l’environnement et
+waste;                                                         la santé humaine contre les effets nuisibles que pour-
+(h) there is a signed, written contract or a series of         raient entraîner le transport et l’élimination de ceux-ci;
+such contracts between the exporter and the person             h) il existe un contrat écrit et signé, ou une série de
+who imports the PCB waste into the United States or,           tels contrats, entre l’exportateur et la personne qui im-
+where the exporter and the person who imports the              porte les déchets aux États-Unis ou, dans le cas où
+PCB waste into the United States are the same legal            l’exportateur et cette personne sont la même entité ju-
+entity doing business in both Canada and the United            ridique faisant affaires à la fois au Canada et aux
+States, there is a signed, written arrangement between         États-Unis, il existe un arrangement écrit et signé
+representatives of the entity in both countries;               entre les représentants de l’entité dans les deux pays;
+(i) the contract, series of contracts or arrangement re-       i) le contrat, la série de contrats ou l’arrangement visé
+ferred to in paragraph (h)                                     à l’alinéa h) :
+  (i) specifies the type of disposal operation set out           (i) précise le procédé d’élimination en cause et le
+  in column I of an item of Schedule III and provides            numéro d’identification correspondant, visés res-
+  the identification number set out in column II of              pectivement aux colonnes I et II de l’annexe III, et,
+  that item and, in the case of a disposal operation             dans le cas d’un procédé d’élimination qui porte le
+  with identification number PCB-D-6, provides a                 numéro d’identification BPC-D-6, en fournit la des-
+  full description of the operation,                             cription complète,
+  (ii) includes a clause stating that the PCB waste is           (ii) prévoit que les déchets contenant des BPC ne
+  to be exported for disposal only,                              peuvent être exportés qu’à des fins d’élimination,
+  (iii) includes a clause that requires the person who           (iii) prévoit que la personne qui importe les déchets
+  imports the PCB waste into the United States to                aux États-Unis doit présenter au chef :
+  submit to the Chief                                               (A) dans les cinq jours après qu’elle a accepté la
+     (A) within the five days after the person accepts              livraison des déchets, une copie du manifeste vi-
+     delivery of the PCB waste, a copy of the manifest              sé aux alinéas p) à s), dûment rempli et signé,
+     referred to in paragraphs (p) to (s), duly complet-            (B) dans les 30 jours suivant l’élimination des
+     ed and signed, and                                             déchets et, le cas échéant, l’élimination des rési-
+     (B) within the 30 days after the PCB waste is                  dus résultant de la décontamination des transfor-
+     disposed of and, where applicable, after residues              mateurs et des déchets contenant des BPC, une
+     from the decontamination of transformers and                   confirmation écrite portant qu’ils ont été élimi-
+                                                                    nés,
+
+
+
+
+                                                           5
+                                        SOR/97-109 — October 6, 2010
+
+
+
+
+     PCB waste have been disposed of, written confir-            (iv) prévoit que la personne qui importe les déchets
+     mation that it has been disposed of,                        aux États-Unis, si l’installation agréée a accepté la
+  (iv) includes a clause that requires the person who            livraison des déchets et que ceux-ci ne peuvent être
+  imports the PCB waste into the United States,                  éliminés conformément aux dispositions du contrat,
+  where delivery has been accepted by the authorized             de la série de contrats ou de l’arrangement, doit
+  facility and the PCB waste cannot be disposed of in            prendre toutes les mesures possibles pour permettre
+  accordance with the terms of the contract, series of           à l’exportateur de s’acquitter de ses obligations aux
+  contracts or arrangement, to take all practicable              termes de l’article 11,
+  measures to help the exporter fulfil the terms of the          (v) précise l’installation où les déchets doivent être
+  exporter’s obligations under section 11, and                   entreposés temporairement, pendant une période
+  (v) includes a clause that identifies the facility in          maximale de 90 jours, s’ils ne sont pas acceptés im-
+  which the PCB waste will be temporarily stored, for            médiatement par l’installation agréée qui est men-
+  a maximum period of 90 days, if it is not immedi-              tionnée dans le préavis;
+  ately accepted by the authorized facility identified         j) chaque transporteur mentionné dans le préavis est
+  in the PCB waste notice;                                     un transporteur agréé;
+(j) each carrier named in the PCB waste notice is an           k) chaque installation mentionnée dans le préavis est
+authorized carrier;                                            une installation agréée;
+(k) each facility named in the PCB waste notice is an          l) l’exportateur et le transporteur des déchets, s’il ne
+authorized facility;                                           s’agit pas de Sa Majesté du chef du Canada ou d’une
+(l) the exporter and the carrier of the PCB waste, if          province ou de l’un de ses agents, détiennent l’assu-
+other than Her Majesty in right of Canada or a                 rance responsabilité visée à l’article 12;
+province or Her agent, are insured for liability in ac-        m) l’exportateur reçoit de la personne qui importe les
+cordance with section 12;                                      déchets aux États-Unis une copie :
+(m) the exporter receives from the person who im-                (i) de l’autorisation écrite qui lui a été délivrée par
+ports the PCB waste from Canada a copy of                        la U.S. EPA en vertu de la loi TSCA pour l’impor-
+  (i) the written authorization issued under the TSCA            tation de ces déchets aux États-Unis ou du docu-
+  to that person by the U.S. EPA authorizing that per-           ment qui démontre que 45 jours se sont écoulés et
+  son to import the PCB waste from Canada or a doc-              qu’aucune opposition n’a été formulée par la U.S.
+  ument reflecting the fact that 45 days have lapsed             EPA à l’égard de cette importation,
+  and that no objection has been made by the U.S.                (ii) de l’autorisation écrite — notamment une li-
+  EPA against its import, and                                    cence, un permis ou un certificat — délivrée à
+  (ii) the licence, permit, certificate or other written         l’égard de l’installation agréée par la U.S. EPA en
+  authorization issued under the TSCA by the U.S.                vertu de la loi TSCA en vue de l’élimination de ces
+  EPA for the disposal of the PCB waste;                         déchets;
+
+(n) the exporter annexes to the PCB waste notice the           n) l’exportateur annexe au préavis les documents
+following documents:                                           suivants :
+
+  (i) on request from the Chief, a copy of the autho-            (i) sur demande du chef, une copie des autorisa-
+  rizations referred to in subparagraphs (m)(i) and              tions visées aux sous-alinéas m)(i) et (ii),
+  (ii),
+
+
+
+                                                           6
+                                         DORS/97-109 — 6 octobre 2010
+
+
+
+
+  (ii) a copy of the contract, series of contracts or ar-         (ii) une copie du contrat, de la série de contrats ou
+  rangement referred to in paragraph (h), excluding               de l’arrangement visés à l’alinéa h), à l’exclusion de
+  any confidential financial information, and                     tout renseignement confidentiel de nature finan-
+  (iii) a copy of the exporter’s and the carrier’s poli-          cière,
+  cy or certificate of insurance, with respect to the in-         (iii) une copie de la police ou du certificat relatifs à
+  surance referred to in section 12;                              l’assurance de l’exportateur et à celle du transpor-
+(o) the exporter receives written confirmation from               teur visées à l’article 12;
+the Chief that                                                  o) l’exportateur reçoit du chef une confirmation écrite
+  (i) the Chief has been notified in writing by the             portant que, selon le cas :
+  U.S. EPA that it consents, in accordance with the               (i) la U.S. EPA l’a avisé par écrit qu’elle a donné
+  laws of the United States with respect to giving that           son consentement à l’importation conformément
+  consent, to the proposed import of the PCB waste                aux lois des États-Unis régissant un tel consente-
+  into the United States, or                                      ment,
+  (ii) the U.S. EPA has not, within the 45 days after             (ii) la U.S. EPA n’a pas signifié son opposition à
+  its written acknowledgement of receipt of the PCB               l’importation des déchets dans les 45 jours après
+  waste notice, made any objection to the import of               avoir accusé réception du préavis;
+  the PCB waste;                                                p) l’exportateur remplit et signe la partie A d’un ma-
+(p) the exporter completes and signs Part A of a man-           nifeste conforme à la formule 1 de l’annexe IV du Rè-
+ifest, in Form 1 of Schedule IV to the Transportation           glement sur le transport des marchandises dange-
+of Dangerous Goods Regulations, and sends the mani-             reuses et envoie le manifeste en se conformant à la
+fest, in accordance with Part IV of those Regulations,          partie IV de ce règlement comme s’il était un expédi-
+as though the exporter were a consignor;                        teur;
+(q) the carrier completes, signs and dates Part B of            q) le transporteur remplit, signe et date la partie B du
+the manifest in accordance with Part IV of the Trans-           manifeste en se conformant à la partie IV du Règle-
+portation of Dangerous Goods Regulations, and the               ment sur le transport des marchandises dangereuses
+exporter ensures that Part C of the manifest will be            et l’exportateur s’assure que la partie C du manifeste
+completed, signed and sent in accordance with Part IV           est remplie, signée et envoyée conformément à la par-
+of those Regulations;                                           tie IV de ce règlement;
+(r) the reference number of the PCB waste notice is             r) le numéro de référence du préavis figure sur le ma-
+on the manifest;                                                nifeste;
+(s) the manifest, with copies of the PCB waste notice           s) le manifeste, auquel sont jointes une copie du pré-
+and the written confirmation referred to in paragraph           avis et une copie de la confirmation écrite visée à
+(o) attached thereto, accompanies the PCB waste, and            l’alinéa o), accompagne les déchets, et une copie du
+copies of the manifest and its attachments are deposit-         manifeste et une copie des pièces jointes sont dépo-
+ed at the customs office at which the PCB waste is re-          sées au bureau de douane où les déchets doivent être
+quired to be reported under section 95 of the Customs           déclarés conformément à l’article 95 de la Loi sur les
+Act; and                                                        douanes;
+(t) where the PCB waste is to be exported through a             t) dans le cas où les déchets sont destinés à être ex-
+country of transit,                                             portés via un pays de transit :
+
+
+
+
+                                                            7
+                                           SOR/97-109 — October 6, 2010
+
+
+
+
+     (i) at the time the PCB waste notice is given, the                (i) au moment où le préavis est donné, le pays de
+     Chief has not received notice in writing from the                 transit n’a pas avisé le chef par écrit que le transit
+     country of transit that transit of that PCB waste                 de ces déchets via ce pays est interdit,
+     through that country is prohibited, and                           (ii) l’exportateur reçoit du chef une confirmation
+     (ii) the exporter receives written confirmation from              écrite portant que, selon le cas :
+     the Chief                                                           (A) l’autorité du pays de transit qui est habilitée
+       (A) that the Chief has received notice in writing                 à consentir au transit de déchets contenant des
+       from the authority in the country of transit who is               BPC a avisé le chef par écrit qu’elle a donné son
+       legally competent to consent to the transitting                   consentement au transit conformément aux lois
+       through that country of PCB waste that the au-                    de ce pays régissant un tel consentement,
+       thority consents, in accordance with the laws of                  (B) lorsque la Convention de Bâle sur le
+       that country with respect to giving that consent,                 contrôle des mouvements transfrontières de dé-
+       to the proposed transit, or                                       chets dangereux et de leur élimination, signée le
+       (B) that, in those cases in respect of which the                  22 mars 1989, prévoit que l’exportation des dé-
+       Basel Convention on the Control of Transbound-                    chets peut se faire si le pays de transit projeté n’a
+       ary Movements of Hazardous Wastes and Their                       pas donné de réponse dans les 60 jours suivant la
+       Disposal, signed on March 22, 1989, provides                      réception de l’avis du transit projeté des déchets
+       that export of the PCB waste may proceed if the                   via ce pays, l’autorité du pays de transit qui est
+       country of transit has not responded within the 60                habilitée à consentir au transit de déchets conte-
+       days after receiving notification of the proposed                 nant des BPC n’a pas avisé le chef par écrit
+       transit of the PCB waste through it, the Chief has                qu’elle refuse de donner son consentement au
+       not received notice in writing from the authority                 transit aux termes des lois de ce pays régissant un
+       in the country of transit who is legally competent                tel consentement.
+       to consent to the transitting through that country
+       of PCB waste that the authority refuses to con-
+       sent, in accordance with the laws of that country
+       with respect to refusing that consent, to the pro-
+       posed transit.
+
+         ALTERNATIVE ARRANGEMENTS                                           MESURES DE REMPLACEMENT
+   11. Where a PCB waste was exported but as a result                11. Lorsque les déchets contenant des BPC ont été
+of an unforeseen event cannot be received or disposed of          exportés mais ne peuvent, en raison d’un événement im-
+in accordance with the contract, series of contracts or ar-       prévu, être reçus ou éliminés conformément au contrat, à
+rangement referred to in paragraphs 10(h) and (i), the ex-        la série de contrats ou à l’arrangement visés aux alinéas
+porter shall immediately so notify the Chief and the U.S.         10h) et i), l’exportateur doit aussitôt en aviser le chef et
+EPA and                                                           la U.S. EPA et doit, selon le cas :
+  (a) make such arrangements as may be approved by                  a) prendre les mesures qu’autorisent ces derniers en
+  the Chief and the U.S. EPA, for the PCB waste to be               vue de l’entreposage temporaire des déchets et de leur
+  both temporarily stored and disposed of within the 90             élimination dans les 90 jours suivant la date de livrai-
+  days after the date of delivery or within such longer             son ou dans tout délai supérieur dont les trois
+                                                                    conviennent;
+
+
+
+                                                              8
+                                            DORS/97-109 — 6 octobre 2010
+
+
+
+
+     period as the exporter, the Chief and the U.S. EPA             b) prendre les mesures qu’autorisent ces derniers en
+     may agree on; or                                               vue du renvoi des déchets contenant des BPC à l’ins-
+     (b) make such arrangements as may be approved by               tallation de l’exportateur au Canada.
+     the Chief and the U.S. EPA to return the PCB waste to
+     the exporter’s facility in Canada.
+
+                  LIABILITY INSURANCE                                          ASSURANCE RESPONSABILITÉ
+  12. (1) Exporters and carriers of PCB waste shall                 12. (1) L’exportateur et le transporteur de déchets
+have insurance in respect of                                      contenant des BPC doivent détenir une assurance qui
+     (a) any third-party damages for which the exporter or        couvre :
+     carrier is responsible; and                                        a) d’une part, les dommages causés à des tiers pour
+     (b) any costs imposed by the applicable laws on the                lesquels l’exportateur ou le transporteur est respon-
+     exporter or carrier for cleaning up the environment in             sable;
+     respect of any PCB waste that is released into the en-         b) d’autre part, les frais que les lois applicables
+     vironment.                                                     obligent l’exportateur ou le transporteur à payer pour
+                                                                    nettoyer l’environnement à la suite du rejet dans celui-
+                                                                    ci de déchets contenant des BPC.
+   (2) In the case of exporters, the amount of insurance             (2) Dans le cas de l’exportateur, le montant de l’assu-
+in respect of each export of PCB waste shall be at least          rance est d’au moins 5 000 000 $ pour chaque exporta-
+$5,000,000.                                                       tion de déchets contenant des BPC.
+   (3) In the case of carriers, the amount of insurance in           (3) Dans le cas du transporteur, le montant de l’assu-
+respect of each shipment of PCB waste shall be the                rance est, pour chaque envoi de déchets contenant des
+amount required by the laws of the country in which the           BPC, le montant exigé par les lois du pays dans lequel
+PCB waste is carried.                                             les déchets sont transportés.
+   (4) The insurance shall cover liability from the time             (4) L’assurance doit couvrir la responsabilité à partir
+PCB waste leaves the shipping site of the exporter to the         du moment où les déchets contenant des BPC quittent le
+time an authorized facility accepts delivery of the PCB           site d’envoi de l’exportateur jusqu’à ce qu’une installa-
+waste for disposal.                                               tion agréée en accepte la livraison aux fins d’élimination.
+
+                         REPEAL                                                         ABROGATION
+  13. The PCB Waste Export Regulations1 are re-                     13. Le Règlement sur l’exportation de déchets
+pealed.                                                           contenant des BPC1est abrogé.
+
+                  COMING INTO FORCE                                                 ENTRÉE EN VIGUEUR
+  14. These Regulations come into force on Febru-                   14. Le présent règlement entre en vigueur le 4 fé-
+ary 4, 1997.                                                      vrier 1997.
+
+
+
+
+1                                                                  1 
+     SOR/90-453                                                         DORS/90-453
+
+
+
+                                                              9
+                                                   SOR/97-109 — October 6, 2010
+
+
+
+
+                           SCHEDULE I                                                                    ANNEXE I
+                            (Section 4)                                                                  (article 4)
+
+                      PCB WASTE NOTICE                                        PRÉAVIS DE L’EXPORTATION DE DÉCHETS CONTENANT
+                                                                                                  DES BPC
+For proposed export of PCB wastes, where Canada is not a country of
+transit, pursuant to subsection 185(1) and section 191 of the Canadi-        En vue de l’exportation de déchets contenant des BPC, si le Canada
+an Environmental Protection Act, 1999                                        n’est pas un pays de transit, conformément au paragraphe 185(1) et à
+                                                                             l’article 191 de la Loi canadienne sur la protection de l’environne-
+                                                                             ment (1999)
+
+                               FORM                                                                    FORMULAIRE
+GRAPHIC IS NOT DISPLAYED, SEE SOR/97-109, PP. 11, 12;                        CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/97-109, PP.
+SOR/2000-103, S. 9.                                                          11 ET 12; DORS/2000-103, ART. 9
+SOR/2000-103, s. 9.                                                          DORS/2000-103, art. 9.
+
+
+
+
+                                                                        10
+                                                   DORS/97-109 — 6 octobre 2010
+
+
+
+
+                          SCHEDULE II                                                                  ANNEXE II
+                         (Paragraph 6(a))                                                              (alinéa 6a))
+
+     TYPE OF PCB WASTE AND IDENTIFICATION NUMBER                              TYPES DE DÉCHETS CONTENANT DES BPC ET NUMÉROS
+                                                                                             D’IDENTIFICATION
+
+      Column I                                          Column II                   Colonne I                                     Colonne II
+                                                        Identificatio                                                             No
+Item Type of PCB Waste                                  n Number                                                                  d’identificat
+                                                                             Article Type de déchets contenant des BPC            ion
+1.    PCB equipment or electrical equipment             PCB-1
+      containing commercial formulations consisting                          1.     Matériel contenant des BPC ou équipement      BPC-1
+      principally of PCB liquids, PCB mixtures or                                   électrique contenant des préparations
+      PCB solids.                                                                   commerciales constituées principalement de
+                                                                                    liquides, solides ou composés contenant des
+2.    Transformers that contained PCBs but have         PCB-2                       BPC
+      subsequently been drained and refilled with a
+      non-PCB dielectric fluid that contains residual                        2.     Transformateurs qui contenaient des BPC mais BPC-2
+      PCB concentrations of 50 mg or more of PCBs                                   qui ont été vidangés puis remplis de nouveau
+      per kilogram of the fluid.                                                    d’un fluide diélectrique sans BPC contenant
+                                                                                    des concentrations résiduelles de BPC égales
+3.    Commercially formulated PCB liquids drained    PCB-3                          ou supérieures à 50 mg de BPC par
+      from PCB equipment or electrical equipment, or                                kilogramme de liquide
+      PCBs/solvent mixtures obtained through the
+      flushing and rinsing of such equipment.                                3.     Préparations liquides commerciales contenant BPC-3
+                                                                                    des BPC obtenues par vidange de matériel
+4.    All other liquid wastes, including solvents and PCB-4                         contenant des BPC ou d’équipement
+      waste oils, which may be described as secondary                               électrique, ou mélanges de solvants et de BPC
+      fuels, that contain 50 mg or more of PCBs per                                 obtenus par nettoyage et rinçage de ce matériel
+      kilogram of the liquid.                                                       ou de cet équipement
+5.    Any soil or other loose materials, including      PCB-5                4.     Autres déchets liquides, y compris les solvants BPC-4
+      absorbents, that contain 50 mg or more of PCBs                                et les huiles usagées, pouvant être désignés
+      per kilogram of the solid.                                                    comme des carburants secondaires et contenant
+6.    Packaging or containers that have held PCB        PCB-6                       50 mg ou plus de BPC par kilogramme de
+      liquids, PCB solids, PCB mixtures, PCB                                        liquide
+      equipment, PCB-contaminated soil or electrical                         5.     Sols ou autres matériaux meubles, y compris  BPC-5
+      equipment, and that are contaminated by 50 mg                                 des matériaux absorbants, contenant 50 mg ou
+      or more of PCBs per kilogram.                                                 plus de BPC par kilogramme de solide
+                                                                             6.     Emballages ou contenants qui ont déjà contenu BPC-6
+                                                                                    un liquide, un solide, un composé, du matériel
+                                                                                    ou des sols contenant des BPC, ou de
+                                                                                    l’équipement électrique, et qui sont contaminés
+                                                                                    par 50 mg ou plus de BPC par kilogramme
+
+
+
+
+                                                                        11
+                                                  SOR/97-109 — October 6, 2010
+
+
+
+
+                          SCHEDULE III                                                            ANNEXE III
+             (Paragraph 6(b) and subparagraph 10(i)(i))                                 (alinéa 6b) et sous-alinéa 10i)(i))
+
+     TYPE OF DISPOSAL OPERATION AND IDENTIFICATION                               PROCÉDÉS D’ÉLIMINATION ET NUMÉROS
+                        NUMBER                                                            D’IDENTIFICATION
+
+        Column I                                  Column II                     Colonne I                                 Colonne II
+                                                  Identification                                                          No
+Item    Type of Disposal Operation                Number                Article Procédé d’élimination                     d’identification
+
+1.      Dechlorination                            PCB-D-1               1.      Déchloration                              BPC-D-1
+2.      Incineration or other thermal treatment   PCB-D-2               2.      Incinération ou autre traitement          BPC-D-2
+                                                                                thermique
+3.      Decontamination of transformers to a level PCB-D-3
+        of surface contamination of less than 10 µg                     3.      Décontamination d’un transformateur à BPC-D-3
+        of PCBs per 100 cm2 of transformer                                      un niveau de contamination de surface
+        surface                                                                 inférieur à 10 µg de BPC par 100 cm2 de
+                                                                                surface du transformateur
+4.      Decontamination of PCB waste, other than PCB-D-4
+        transformers, to a level of less than 50 mg                     4.      Décontamination de déchets contenant BPC-D-4
+        of PCBs per kilogram of waste                                           des BPC, sauf des transformateurs, à un
+                                                                                niveau inférieur à 50 mg de BPC par
+5.      Destruction of residues from the          PCB-D-5                       kilogramme de déchets
+        decontamination of PCB equipment,
+        electrical equipment, PCB-contaminated                          5.      Destruction des résidus résultant de la BPC-D-5
+        soil, packaging or containers                                           décontamination de matériel contenant
+                                                                                des BPC, d’équipement électrique, de
+6.      Other methods of destruction              PCB-D-6                       sols contenant des BPC ou d’emballages
+                                                                                ou de contenants contaminés par les
+                                                                                BPC
+                                                                        6.      Autres méthodes de destruction            BPC-D-6
+
+
+
+
+                                                                   12
+

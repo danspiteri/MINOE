@@ -1,0 +1,853 @@
+
+
+
+     This consolidation is unofficial and is for reference only.  For the
+     official version of the regulations, consult the original documents
+     on file with the _R_e_g_i_s_t_r_y_ _o_f_ _R_e_g_u_l_a_t_i_o_n_s, or refer to the _R_o_y_a_l
+     _G_a_z_e_t_t_e_ _P_a_r_t_ _I_I.
+     Regulations are amended frequently.  Please check the list of
+     _R_e_g_u_l_a_t_i_o_n_s_ _b_y_ _A_c_t to see if there are any recent amendments to these
+     regulations filed with the Registry that are not yet included in this
+     consolidation.
+     Although every effort has been made to ensure the accuracy of this
+     electronic version, the Registry of Regulations assumes no
+     responsibility for any discrepancies that may have resulted from
+     reformatting.
+     This electronic version is copyright © 2009, _P_r_o_v_i_n_c_e_ _o_f_ _N_o_v_a_ _S_c_o_t_i_a,
+     all rights reserved.  It is for your personal use and may not be
+     copied for the purposes of resale in this or any other form.
+
+     =====================================================================
+     Activities Designation Regulations
+     made under Section 66 of the
+     Environment Act
+     S.N.S. 1994-95, c. 1
+     O.I.C. 95-286 (April 11, 1995), N.S. Reg. 47/95
+     as amended up to O.I.C. 2007-417 (July 20, 2007), N.S. Reg. 352/2007
+
+
+
+     Table of Contents
+      
+     _C_i_t_a_t_i_o_n
+     _D_e_f_i_n_i_t_i_o_n_s
+     _D_e_s_i_g_n_a_t_i_o_n_ _o_f_ _a_c_t_i_v_i_t_i_e_s
+     _C_o_m_b_i_n_e_d_ _a_p_p_r_o_v_a_l_s
+     _D_i_v_i_s_i_o_n_ _I_ _-_ _W_a_t_e_r_ _A_p_p_r_o_v_a_l_s
+     _D_i_v_i_s_i_o_n_ _I_I_ _-_ _P_e_s_t_i_c_i_d_e_ _A_p_p_r_o_v_a_l_s
+     _D_i_v_i_s_i_o_n_ _I_I_I_ _-_ _M_u_n_i_c_i_p_a_l_ _W_a_s_t_e_ _A_p_p_r_o_v_a_l_s
+     _P_a_r_t_ _1_:_ _S_e_w_a_g_e_/_S_t_o_r_m_ _D_r_a_i_n_a_g_e_/_S_e_p_t_a_g_e
+     _P_a_r_t_ _2_:_ _S_o_l_i_d_ _W_a_s_t_e
+     _P_a_r_t_ _3_:_ _W_a_t_e_r_ _W_o_r_k_s
+     _D_i_v_i_s_i_o_n_ _I_V_ _-_ _D_a_n_g_e_r_o_u_s_ _G_o_o_d_s_/_W_a_s_t_e_ _D_a_n_g_e_r_o_u_s_ _G_o_o_d_s_/_S_a_l_v_a_g_e_ _Y_a_r_d
+     _A_p_p_r_o_v_a_l_s
+     _D_i_v_i_s_i_o_n_ _V_ _-_ _I_n_d_u_s_t_r_i_a_l_ _A_p_p_r_o_v_a_l_s
+     _P_a_r_t_ _1_:_ _C_h_e_m_i_c_a_l
+     _P_a_r_t_ _2_:_ _C_o_n_s_t_r_u_c_t_i_o_n
+     _P_a_r_t_ _3_:_ _F_o_o_d_ _o_r_ _F_i_s_h_ _a_n_d_ _A_n_i_m_a_l_ _B_y_-_p_r_o_d_u_c_t_s
+     _P_a_r_t_ _4_:_ _M_e_t_a_l_s
+     _P_a_r_t_ _5_:_ _M_i_n_e_r_a_l_s
+     _P_a_r_t_ _6_:_ _O_i_l_ _a_n_d_ _G_a_s
+     _P_a_r_t_ _7_:_ _W_o_o_d_ _P_r_o_d_u_c_t_s
+     _P_a_r_t_ _8_:_ _P_r_i_m_a_r_y_ _M_a_n_u_f_a_c_t_u_r_i_n_g
+     _P_a_r_t_ _9_:_ _P_o_w_e_r_ _P_l_a_n_t_s
+     _P_a_r_t_ _1_0_:_ _S_e_r_v_i_c_e_s
+     _P_a_r_t_ _1_1_:_ _B_i_o_t_e_c_h_n_o_l_o_g_y
+     _P_a_r_t_ _1_2_:_ _M_i_s_c_e_l_l_a_n_e_o_u_s
+     _D_i_v_i_s_i_o_n_ _V_I_ _-_ _O_t_h_e_r_ _A_p_p_r_o_v_a_l_s
+     _E_f_f_e_c_t_i_v_e_ _d_a_t_e
+      
+
+     Citation
+     1     These regulations may be cited as the ``Activities Designation
+     Regulations''.
+
+     Definitions
+     2     (1)    In these regulations
+      
+                     (a)    ``Act'' means the Environment Act;
+      
+                     (b)    ``Administrator'' means a person who has been
+     appointed by the Minister to be responsible for processing
+     applications respecting activities designated under these
+     regulations, and includes an acting Administrator;
+      
+                     (c)    ``Department'' means the Department of
+     Environment and Labour;
+      
+                     (d)    ``extension'' means an increase in size,
+     volume or other physical dimensions of an activity such that the
+     increase may cause an adverse effect if not properly mitigated;
+      
+                     (e)    ``Minister'' means the Minister of Environment
+     and Labour;
+      
+                     (f)    ``modification'' means a change to an activity
+     that may cause an adverse effect if not properly mitigated and
+     includes, but is not limited to, the expansion of the same process,
+     addition of product lines and replacement of equipment with different
+     technology other than that presently in use.
+      
+            (2)    Where a term defined in the Act is used in these
+     regulations, it has the defined meaning for the purpose of these
+     regulations except where these regulations further define or clarify
+     the meaning.
+
+     Designation of activities
+     3     (1)    Any activity designated in these regulations requires an
+     approval from the Minister or an Administrator designated by the
+     Minister.
+      
+            (2)    Any modification or extension of an activity designated
+     in these regulations requires an approval unless exempted by a
+     regulation or by the Minister.
+      
+            (3)    An activity which is designated in these regulations
+     and is carried out on lands owned or occupied by Her Majesty the
+     Queen in right of Canada, or an agency, board or commission of Her
+     Majesty the Queen in right of Canada, does not require an approval
+     from the Minister unless the activity causes or may cause an adverse
+     effect beyond the boundaries of these lands.
+
+     Combined approvals
+     4     Where an operation or undertaking consists of or includes more
+     than one activity designated under these regulations, the Minister or
+     an Administrator may issue one approval that covers all of the
+     activities and comprises all of the required approvals.
+
+     Division I - Water Approvals
+      
+     5     (1)    The use or alteration of a watercourse or a water
+     resource for one or more of the following purposes:
+      
+                     (a)    the withdrawal or diversion of water in an
+     amount greater than 23 000 L per day from a source of surface water
+     or groundwater;
+      
+                     (b)    the construction or maintenance of a dam;
+      
+                     (c)    the storage of water in amounts of 25 000 m3
+     or greater;
+      
+                     (d)    the construction or maintenance of a culvert
+     in a manner consistent with current applicable guidelines and
+     standards issued by the Department, excluding a culvert installed
+     between June 1 and September 30 of any year;
+      
+                     (e)    the construction or maintenance of a bridge
+     where
+      
+                              (i)     a portion of the structure of the
+     bridge is in a watercourse, or
+      
+                              (ii)    use of equipment in the watercourse
+     or 3 m from the edge of the watercourse is required;
+      
+                     (f)    the construction or maintenance of a causeway;
+      
+                     (g)    the construction or maintenance of a wharf;
+      
+                     (h)    the construction or maintenance of a weir,
+     fishway or other instream structure;
+      
+                     (i)     the removal of material from a surface
+     watercourse;
+      
+                     (j)     the diversion of a watercourse from its
+     natural channel;
+      
+                     (k)    the installation or maintenance of fishing
+     equipment, a fishway, a counting fence, a fish habitat improvement
+     structure, an aquaculture cage or any similar structure in a
+     watercourse;
+      
+                     (l)     the dredging or any other modification of a
+     surface watercourse;
+      
+                     (m)   the installation or maintenance of a pipeline,
+     cable or other equipment in a surface watercourse;
+      
+                     (n)    the placement of rock or other erosion
+     protection material in a surface watercourse;
+      
+                     (na)  the alteration of a wetland; or
+     Clause 5(1)(na) added: O.I.C. 2007-417, N.S. Reg. 352/2007.
+      
+                     (o)    any other alteration of a surface watercourse
+     or the flow of the water therein,
+      
+     is designated as an activity.
+      
+            (2)    Despite Section 3, an approval is not required for an
+     activity designated in subsection (1) where the activity is
+      
+                     (a)    a non-recurring use of water from the same
+     watercourse for less than 2 weeks;
+      
+                     (b)    a continuous use of water less than 23 000 L
+     per day;
+      
+                     (c)    use of seawater;
+      
+                     (d)    use of brackish water from an intertidal zone
+     of a river estuary;
+      
+                     (e)    maintenance of lands and structures
+     incorporated by marsh bodies under the Marshland Reclamation Act; or
+      
+                     (f)    such other use as may be exempted in writing
+     by the Minister or an Administrator.
+
+     Division II - Pesticide Approvals
+      
+     6     (1)    For the purpose of Division II,
+      
+                     (a)    ``forested land'' includes, but is not limited
+     to, land used for the production of pulp, sawlogs, lumber or
+     firewood, but does not include land used to grow Christmas trees;
+      
+                     (b)    ``soil sterilization'' means use of a non-
+     selective herbicide which provides residual control of plants for a
+     period of time exceeding 6 months;
+      
+                     (c)    ``spot treatment'' means the application of a
+     pesticide to an area which does not exceed 100 m2.
+      
+            (2)    The application of a pesticide in any one or more of
+     the following circumstances:
+      
+                     (a)    on forested land;
+      
+                     (b)    on a utility corridor or utility right-of-way,
+     excluding spot treatment and the direct application of wood
+     preservatives to utility poles;
+      
+                     (c)    on a road, street, or highway, excluding spot
+     treatment;
+      
+                     (d)    on an industrial or commercial site for soil
+     sterilization;
+      
+                     (e)    in, on or over a surface watercourse; or
+      
+                     (f)    from any aircraft in flight,
+      
+     is designated as an activity.
+      
+            (3)    The construction of a new pesticide storage facility or
+     the extension or modification of an existing pesticide storage
+     facility to store commercial or restricted class pesticides for sale,
+     resale, or wholesale distribution is designated as an activity.
+
+     Division III - Municipal Waste Approvals
+     Part 1: Sewage/Storm Drainage/Septage
+      
+     7     (1)    For the purpose of Part 1 of Division III,
+      
+                     (a)    ``septage'' means any liquid or solid
+     materials pumped from a septic tank or cesspool;
+      
+                     (b)    ``sewage'' includes domestic, commercial,
+     institutional and industrial wastes.
+      
+            (2)    The construction, operation or reclamation of
+      
+     (a)a sewage works, including
+      
+                              (i)     sewage collection systems and
+     pumping stations,
+      
+     (ii)retention or storage facilities,
+      
+                              (iii)   treatment facilities,
+      
+     (iv)outfalls; or
+      
+                     (b)    a storm drainage works, including
+      
+                              (i)     storm collection systems and pumping
+     stations,
+      
+                              (ii)    retention or storage facilities,
+      
+                              (iii)   treatment facilities,
+      
+                              (iv)   outfalls; or
+      
+                     (c)    a septage works, including
+      
+                              (i)     treatment and disposal facilities,
+      
+     is designated as an activity.
+
+     Part 2: Solid Waste
+      
+     8     (1)    For the purpose of Part 2 of Division III,
+      
+                     (a)    ``municipal solid waste'' means garbage,
+     refuse, sludges, wastes and other discarded materials resulting from
+     residential and non-industrial operations and activities, but
+     excludes inert demolition debris;
+      
+                     (b)    ``inert demolition debris'' means construction
+     or demolition debris which is not at risk of degradation or leachate
+     generation and does not contain asbestos;
+      
+                     (c)    ``solid waste management facility'' includes
+      
+                              (i)     a resource recovery facility which
+     is a facility to treat or process solid waste into useable secondary
+     materials or products, including fuel or energy,
+      
+                              (ii)    a composting facility which
+     processes more than 60 m3 of solid wastes per year, and
+      
+                              (iii)   a facility to transfer, store, mix,
+     process, treat or dispose of a solid waste.
+      
+            (2)    The construction, operation or reclamation of a
+     municipal solid waste management facility is designated as an
+     activity.
+
+     Part 3: Water Works
+      
+     9     The construction, operation or reclamation of municipal water
+     works including
+      
+                     (a)    water supply facilities or works;
+      
+                     (b)    water treatment facilities or works; or
+      
+                     (c)    water distribution facilities or works,
+      
+     is designated as an activity.
+
+     Division IV - Dangerous Goods/Waste Dangerous Goods/Salvage Yard
+     Approvals
+      
+     10   (1)    The construction, operation or reclamation of
+      
+                     (a)    a facility for the handling of dangerous goods
+     or waste dangerous goods as defined in the Dangerous Goods Management
+     Regulations;
+      
+                     (b)    a permanent facility for the handling of
+     dangerous goods or waste dangerous goods generated in a residence;
+      
+                     (c)    a facility for the handling of soils
+     containing a chemical or petroleum product which is located in a
+     place other than where the soil originated or became contaminated;
+      
+                     (d)    a facility for the disposal of oily debris
+     resulting from releases of a petroleum product;
+      
+                     (e)    a commercial salvage facility which exceeds
+     0.25 ha in area which is used to salvage automobiles, transportation
+     vehicles, or industrial equipment;
+      
+                     (f)    a site with a chemical storage tank system the
+     capacity of which exceeds 2000 L of chemicals in liquid form or 2000
+     kg of chemicals in solid form, whichever is applicable;
+      
+                     (g)    a petroleum storage tank system consisting of
+     one or more petroleum tanks and associated piping; or
+      
+                     (h)    a facility for the storage or disposal of
+     asbestos waste,
+      
+     is designated as an activity.
+      
+            (2)    Despite Section 3, an approval is not required for an
+     activity designated in subsection (1) where the activity is the
+     construction, operation or reclamation of
+      
+                     (a)    a propane bulk facility regulated by the Fire
+     Marshal; or
+      
+                     (b)    a facility for storing explosives regulated by
+     the Department of Energy, Mines and Resources (Canada).
+
+     Division V - Industrial Approvals
+      
+     11   An activity designated in Division V does not require an
+     approval if it generates only a liquid effluent which is discharged
+      
+                     (a)    to a municipal wastewater treatment facility
+     approved by the Minister or an Administrator; and
+      
+                     (b)    in accordance with any applicable municipal
+     sewer use by-law.
+
+     Part 1: Chemical
+
+     12   The construction, operation or reclamation of
+      
+                     (a)    a chemical manufacturing plant in which
+     organic or inorganic chemicals are manufactured;
+      
+                     (b)    a fertilizer manufacturing plant in which a
+     substance or a mixture of substances is manufactured that contains
+     one or more components of nitrogen, phosphorus, potassium, or other
+     plant food that is marketed or represented for use as a plant
+     nutrient;
+      
+                     (c)    a fertilizer storage facility that has the
+     capacity to store fertilizer in quantities of
+      
+                              (i)     250 t or more of anhydrous ammonia,
+     or
+      
+                              (ii)    500 t or more of granular or prilled
+     ammonia phosphate or ammonium nitrate or urea fertilizer products;
+      
+                     (d)    an explosives manufacturing plant in which
+     dynamite, nitroglycerin, ammonium nitrate, cyclotrimethylene
+     trinitramine (RDX), cyclotetramethylene tetranitramine (HMX) or
+     trinitrotoluene (TNT) is manufactured, excluding blending or mixing
+     facilities located on-site where explosives are being used or a
+     fertilizer manufacturing plant;
+      
+                     (e)    a pesticide manufacturing plant in which a
+     pesticide is manufactured or processed;
+      
+                     (f)    a petrochemical manufacturing plant in which
+     organic chemical substances produced from natural organic or
+     petroleum-based materials are produced, processed or handled,
+     excluding an oil refinery, a re-refinery or a natural gas processing
+     facility;
+      
+                     (g)    a coke or carbon manufacturing plant in which
+     coke or carbon products are produced or processed;
+      
+                     (h)    a brine processing plant in which brine
+     products, including common table salt are produced or processed;
+      
+                     (i)     a pharmaceutical manufacturing plant in which
+     a medical drug for sale or distribution is processed, excluding a
+     facility that engages solely in research;
+      
+                     (j)     a paint manufacturing plant in which paints,
+     lacquers, primers or enamels are produced or processed; or
+      
+                     (k)    an industrial cleaners manufacturing facility
+     in which materials, including, but not limited to, degreasers,
+     strippers or bleaches are produced,
+      
+     is designated as an activity.
+
+     Part 2: Construction
+
+     13   The construction, operation or reclamation of
+      
+                     (a)    a building products manufacturing plant in
+     which asphalt shingles, gypsum wall-board, hardboard, bricks or tiles
+     are manufactured;
+      
+                     (b)    a cement plant in which Portland cement is
+     manufactured;
+      
+                     (c)    an asphalt paving plant in which asphalt is
+     manufactured through the mixing of aggregate and asphalt oil or
+     recycled asphalt material;
+      
+                     (d)    a stationary ready-mix concrete plant that
+     manufactures ready-mixed concrete;
+      
+                     (e)    a pit that is larger than 2 ha where a ground
+     disturbance or excavation is made for the purpose of removing
+     aggregate without the use of explosives;
+     Clause 13(e) amended: O.I.C. 2005-257, N.S. Reg. 128/2005.
+      
+                     (f)    a quarry where a ground disturbance or
+     excavation is made for the purpose of removing aggregate with the use
+     of explosives;
+      
+                     (g)    a topsoil removal operation where a ground
+     disturbance or excavation greater than 1 ha is made for the purpose
+     of removing topsoil; or
+      
+                     (h)    a sulphide bearing material disposal
+     operation,
+      
+     is designated as an activity.
+
+     Part 3: Food or Fish and Animal By-products
+      
+     14   (1)    For the purpose of Part 3 of Division V,
+      
+                     (a)    ``fish'' means finfish, shellfish, or marine
+     mammals;
+      
+                     (b)    ``hide'' means the outer covering of the body
+     of an animal including any pieces of flesh and the hair;
+      
+                     (c)    ``renders'' means cooks or melts down animal
+     parts to produce meal or other saleable by-products.
+      
+            (2)    The construction, operation or reclamation of
+      
+                     (a)    a rendering plant in which meat or animal or
+     poultry products is rendered, with or without oil refining;
+      
+                     (b)    a poultry integrated plant in which poultry is
+     slaughtered and dressed in preparation for sale or distribution to
+     the public;
+      
+                     (c)    a red meat integrated plant in which animals,
+     other than poultry, are slaughtered and dressed in preparation for
+     sale or distribution to the public;
+      
+                     (d)    an inland fish processing plant in which fish
+     is processed and wastewater is discharged to a watercourse, land or
+     an on-site sewage disposal system;
+      
+                     (e)    a tannery in which animal hides or skins are
+     received and processed into leather or leather products;
+      
+                     (f)    a vegetable processing plant in which
+     vegetables are received and processed by slicing, cooking,
+     dehydrating or freezing in preparation for sale or distribution;
+      
+                     (g)    a fruit processing plant in which fruit is
+     received and processed by slicing, cooking, canning, juicing or
+     freezing in preparation for sale or distribution;
+      
+                     (h)    a distillery for the extraction of alcoholic
+     liquors for commercial purposes;
+      
+                     (i)     a beer or wine processing plant in which
+     alcoholic beverages are produced by the process of fermentation;
+      
+                     (j)     a fish meal plant in which fish meal is
+     processed from fish wastes, with or without oil recovery;
+      
+                     (k)    a fish silage operation in which ground up
+     fish waste is digested;
+      
+                     (l)     a dairy or dairy products plant in which milk
+     and milk products are processed including, but not limited to, ice
+     cream, butter, cheese, sour cream, cottage cheese and yogurt for sale
+     and distribution; or
+      
+                     (m)   a food additive or supplement manufacturing
+     plant in which materials are produced for the addition to food or as
+     a food supplement,
+      
+     is designated as an activity.
+
+     Part 4: Metals
+
+     15   The construction, operation or reclamation of
+      
+                     (a)    an electroplating plant in which metal
+     electroplating, anodizing, or galvanizing processes are carried out;
+      
+                     (b)    a foundry in which metal products are produced
+     through thermal melting and casting or moulding of metals, including
+     reclaimed metals;
+      
+                     (c)    a smelter in which a furnace is used to obtain
+     metals from metal concentrates;
+      
+                     (d)    an iron and steel mill in which iron and steel
+     are manufactured through the use of heating or thermal melting, other
+     than welding, excluding a facility that fabricates secondary products
+     from iron and steel;
+      
+                     (e)    a pewter ware manufacturing facility in which
+     various articles are processed from pewter and wastewater containing
+     metals including tellurium, tin, lead, copper and antimony is
+     discharged;
+      
+                     (f)    a battery manufacturing plant in which
+     batteries are produced including, but not limited to, lead-acid,
+     alkaline, and nickel-cadmium batteries; or
+      
+                     (g)    a rolling stock manufacturing plant in which
+     rolling stock is produced, including, but not limited to, railcars,
+     railcar wheels and axles, buses, trucks and automobiles,
+      
+     is designated as an activity.
+
+     Part 5: Minerals
+      
+     16   (1)    For the purpose of Part 5 of Division V,
+      
+                     (a)    ``infrastructure'' means any works, buildings,
+     structures, facilities, equipment, apparatus, mechanism, instrument
+     or machinery belonging to or used in connection with a surface mine,
+     underground mine or peat moss harvesting operation;
+      
+                     (b)    ``mineral'' means a natural solid inorganic or
+     fossilized organic substance including any substance prescribed under
+     the Mineral Resources Act to be a mineral as well as gypsum and non-
+     Crown limestone, but does not include ordinary stone, building stone,
+     construction stone, sand, gravel, peat, peat moss, ordinary soil, oil
+     or natural gas.
+      
+            (2)    The construction, operation or reclamation of
+      
+                     (a)    a lime plant in which lime is manufactured by
+     the calcining of limestone or produces other calcium carbonate
+     derivatives as a saleable product;
+      
+                     (b)    a coal processing plant in which coal is
+     processed including a wash plant, a recovery plant or a benefication
+     plant;
+      
+                     (c)    a mineral processing plant in which
+     concentrates are produced from mineral bearing ore including lead,
+     zinc, tin and copper;
+      
+                     (d)    a surface mine where an opening or excavation
+     is made in the ground from the surface which may require the use of
+     explosives for the purpose of procuring any mineral bearing ore,
+     including coal, and any associated infrastructure;
+      
+                     (e)    an underground mine where an opening or
+     excavation is made in the ground below surface which may require the
+     use of explosives for the purpose of procuring any mineral bearing
+     ore, including coal, and any associated infrastructure;
+      
+                     (f)    a peat moss harvesting operation where an
+     opening or excavation is made in the ground for the purpose of
+     procuring peat, including any associated infrastructure;
+      
+                     (g)    an in-situ leach mining operation where wells
+     are drilled in mineral bearing ore and the subsequent addition and
+     removal of chemicals is used to extract the mineral;
+      
+                     (h)    a bulk sample site where more than 100 t of
+     mineral bearing ore is removed for the purposes of proving mineral
+     quality or where less than 100 t of mineral bearing ore is removed
+     where total disturbed tonnage exceeds 10 000 t; or
+      
+                     (i)     a bulk solids handling loadout facility in
+     which solids such as coal, gypsum, limestone or mineral concentrates
+     are stored and subsequently loaded,
+      
+     is designated as an activity.
+
+     Part 6: Oil and Gas
+      
+     17   (1)    For the purpose of Part 6 of Division V,
+      
+                     (a)    ``methane'' means in addition to its normal
+     scientific meaning, a gaseous mixture composed mainly of methane and
+     which may contain ethane, nitrogen, helium or carbon dioxide;
+      
+                     (b)    ``raw gas'' means a mixture that contains
+     methane and may also contain other paraffinic hydrocarbons, that may
+     or may not contain various sulphur compounds and that is gaseous at
+     the conditions under which its volume is measured;
+      
+                     (c)    ``synthetic crude oil'' means a mixture
+     consisting mainly of pentanes and heavier hydrocarbons but also
+     sulphur compounds, that is derived from crude bitumen and that is
+     liquid at the conditions under which its volume is measured;
+      
+                     (d)    ``used oil'' means petroleum derived or
+     synthetic lubrication oils, hydraulic fluids, metal working fluids
+     and insulating fluids which through use are no longer suitable for
+     their intended purpose but are suitable for re-refining or other uses
+     that are considered acceptable to the Department.
+      
+                     (e)    ``liquified natural gas'' means a fluid in a
+     liquid state that is composed predominately of methane and that may
+     contain quantities of ethane, propane, nitrogen or other components
+     found in natural gas;
+     Clause 17(1)(e) added: O.I.C. 2007-417, N.S. Reg. 352/2007.
+      
+                     (f)    ``liquified natural gas plant'' means a plant
+     used to store liquified natural gas and includes a plant that
+     conditions, liquefies, transfers or vaporizes liquified natural gas.
+     Clause 17(1)(f) added: O.I.C. 2007-417, N.S. Reg. 352/2007.
+      
+     (2)The construction, operation or reclamation of
+      
+                     (a)    an oil refinery used for manufacturing
+     hydrocarbon products from condensate, crude oil, synthetic crude oil
+     or other hydrocarbon feedstock;
+      
+                     (b)    a re-refinery capable of utilizing used oil
+     for the production of useable hydrocarbon products;
+      
+                     (c)    a natural gas processing plant in which raw
+     gas is processed into saleable hydrocarbon products and which may
+     remove sulphur compounds;
+      
+                     (d)    a bulk petroleum storage facility consisting
+     of one or more petroleum tanks and associated piping;
+      
+                     (e)    a brine storage pond that is used for the
+     storage of water that is saturated with a salt;
+      
+                     (f)    a compressor and pumping station for the
+     movement of a hydrocarbon fluid by means of compression or pumping;
+      
+                     (g)    a bio-remediation treatment operation for the
+     removal or reduction of hydrocarbon products in soils and sludges
+     including landfarms;
+      
+                     (h)    a used oil collection facility capable of
+     pickup and storage capacity in excess of 1000 L of used oil including
+     the necessary trucks or storage facilities;
+      
+                     (i)     a facility to sell or store motive fuel or
+     fuel oil by a wholesaler, retailer or wholesale-retailer;
+      
+                     (j)     a petroleum or natural gas exploration or
+     recovery operation where it is necessary to inject water, brine or
+     chemical agents in order to produce or enhance the recovery of
+     petroleum or natural gas;
+     Clause 17(2)(j) added: O.I.C. 2007-417, N.S. Reg. 352/2007.
+      
+                     (k)    a petroleum or natural gas operation utilizing
+     deep well injection for disposal of liquid production wastes;
+     Clause 17(2)(k) added: O.I.C. 2007-417, N.S. Reg. 352/2007.
+      
+                     (l)     a liquified natural gas plant,
+     Clause 17(2)(l) added: O.I.C. 2007-417, N.S. Reg. 352/2007.
+      
+     is designated as an activity.
+
+     Part 7: Wood Products
+
+     18   (1)    For the purpose of Part 7 of Division V,
+      
+                     (a)    ``paper product'' means paper, newsprint,
+     coated paper, paperboard, hardboard, boxboard, linerboard, insulating
+     board, building board, corrugating medium, tissue, moulded cellulose
+     products and any other product directly derived from pulp, but does
+     not include viscose, rayon, cellophane or any other cellulose
+     derivative;
+      
+                     (b)    ``pulp'' means processed cellulose fibres that
+     are derived from wood, other plant material or recycled paper
+     products.
+      
+            (2)    The construction, operation or reclamation of
+      
+                     (a)    a pulp manufacturing plant in which pulp
+     products are manufactured;
+      
+                     (b)    a pulp and paper manufacturing plant in which
+     pulp and paper products are manufactured; or
+      
+                     (c)    a wood treatment plant in which wood or wood
+     products are preserved and protected through the use of wood
+     treatment chemicals,
+      
+     is designated as an activity.
+
+     Part 8: Primary Manufacturing
+
+     19   The construction, operation or reclamation of
+      
+                     (a)    a textile manufacturing plant in which
+     textiles are manufactured and treatments or processes including
+     bleaching, dying, knitting, mercerizing, spinning and weaving are
+     carried out;
+      
+                     (b)    a tire manufacturing plant in which tires are
+     manufactured, but not re-treaded; or
+      
+                     (c)    a wallpaper manufacturing plant in which
+     wallpaper is manufactured,
+      
+     is designated as an activity.
+
+     Part 9: Power Plants
+      
+     20   The construction, operation or reclamation of a power plant in
+     which hot water, steam or thermal electric power is produced and
+     which has a total rated thermal input capacity of greater than or
+     equal to 25 megawatts, is designated as an activity.
+
+     Part 10: Services
+      
+     21   (1)    For the purpose of Part 10 of Division V,
+      
+                     (a)    ``sludge'' means the accumulated wet or dry
+     solids that are separated from wastewater during treatment including
+     the precipitate resulting from chemical or biological treatment of
+     wastewater;
+      
+                     (b)    ``wastewater'' means the liquid portion of
+     waste from an industry.
+      
+            (2)    The treatment or processing of wastewater and
+     wastewater sludges is designated as an activity.
+
+     Part 11: Biotechnology
+      
+     22   The construction, operation or reclamation of a biotechnology
+     products manufacturing plant in which products are produced using the
+     application of science and engineering in the direct or indirect use
+     of living organisms or parts or products of living organisms in their
+     natural or modified form, other than a facility that engages solely
+     in research, is designated as an activity.
+
+     Part 12: Miscellaneous
+      
+     23   The application to land of non-livestock generated wastes,
+     wastewater and wastewater sludges is designated as an activity.
+      
+     24   The construction, operation or reclamation of an industrial
+     incinerator is designated as an activity.
+      
+     25   The construction, operation or reclamation of an industrial
+     landfill designed to dispose of non-leachate toxic solid waste
+     generated by industrial activity, other than a landfill used for
+     disposal of municipal solid waste or solely inert demolition debris,
+     is designated as an activity.
+      
+     26   The construction, operation or reclamation of an industrial
+     composting facility is designated as an activity.
+      
+     27   The construction, operation or reclamation of a crematorium is
+     designated as an activity.
+      
+     28   The construction or operation of a cemetery is designated as an
+     activity.
+      
+     28AReclaiming, remediating, managing, monitoring or disposing of
+     contaminated material generated from an industrial steel or coke
+     production facility is designated as an activity.
+     Section 28A added: O.I.C. 2007-417, N.S. Reg. 352/2007.
+
+     Division VI - Other Approvals
+      
+     29   (1)    Any other activity or class of activity which the
+     Minister believes on reasonable and probable grounds causes or will
+     cause a significant adverse effect because of any one or more of the
+     following circumstances:
+      
+                     (a)    the size or magnitude of the proposed
+     activity;
+      
+                     (b)    the sensitivity of the site where the proposed
+     activity is to be located;
+      
+                     (c)    the proximity of the proposed activity to
+     buildings or other structures;
+      
+                     (d)    the use of new technology in a proposed
+     activity; or
+      
+                     (e)    the fair allocation of water resources or air
+     resources will be affected by the proposed activity.
+      
+            (2)    The Minister shall designate an activity under
+     subsection (1) by issuing a formal written document outlining which
+     matters in subsection (1) are applicable.
+      
+            (3)    A copy of the designation issued under subsection (2)
+     shall be sent to the proponent and a copy filed in the environmental
+     registry established under the Act.
+
+     Effective date
+     30   These regulations come into effect on, from and after April 11,
+     1995.
+
+     =====================================================================

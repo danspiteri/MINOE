@@ -1,0 +1,893 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+              Inclusion List                                          Règlement sur la liste
+               Regulations                                                d’inclusion
+
+                       SOR/94-637                                                        DORS/94-637
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published             31. (1) Every copy of a consolidated statute or            31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies      (3) In the event of an inconsistency between a              (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                              Enregistrement
+SOR/94-637 October 7, 1994                                DORS/94-637 Le 7 octobre 1994
+CANADIAN ENVIRONMENTAL ASSESSMENT ACT                     LOI CANADIENNE SUR L’ÉVALUATION
+                                                          ENVIRONNEMENTALE
+
+Inclusion List Regulations                                Règlement sur la liste d’inclusion
+
+P.C. 1994-1686 October 7, 1994                            C.P. 1994-1686 Le 7 octobre 1994
+
+   His Excellency the Governor General in Council, on        Sur recommandation de la ministre de l’Environne-
+the recommendation of the Minister of the Environment,    ment et en vertu de l’alinéa 59b) de la Loi canadienne
+pursuant to paragraph 59(b) of the Canadian Environ-      sur l’évaluation environnementale*, il plaît à Son Excel-
+mental Assessment Act*, is pleased hereby to make the     lence le Gouverneur général en conseil de prendre le Rè-
+annexed Regulations prescribing physical activities and   glement désignant les activités concrètes et les catégo-
+classes of physical activities not relating to physical   ries d’activités concrètes non liées à des ouvrages et
+works that may require an environmental assessment, ef-   pouvant nécessiter une évaluation environnementale, ci-
+fective on the day on which section 59 of the Canadian    après, lequel entre en vigueur à la date d’entrée en vi-
+Environmental Assessment Act comes into force.            gueur de l’article 59 de la Loi canadienne sur l’évalua-
+                                                          tion environnementale.
+
+
+
+
+*                                                          * 
+     S.C. 1992, c. 37                                           L.C. 1992, ch. 37
+REGULATIONS     PRESCRIBING    PHYSICAL                          RÈGLEMENT DÉSIGNANT LES ACTIVITÉS
+   ACTIVITIES AND CLASSES OF PHYSICAL                               CONCRÈTES     ET   LES   CATÉGORIES
+   ACTIVITIES NOT RELATING TO PHYSICAL                              D’ACTIVITÉS CONCRÈTES NON LIÉES À DES
+   WORKS     THAT   MAY    REQUIRE   AN                             OUVRAGES ET POUVANT NÉCESSITER UNE
+   ENVIRONMENTAL ASSESSMENT                                         ÉVALUATION ENVIRONNEMENTALE
+
+                     SHORT TITLE                                                     TITRE ABRÉGÉ
+  1. These Regulations may be cited as the Inclusion               1. Règlement sur la liste d’inclusion.
+List Regulations.
+
+                  INTERPRETATION                                                      DÉFINITIONS
+  2. In these Regulations,                                         2. Les définitions qui suivent s’appliquent au présent
+“borrow site” means a site from which earth material is          règlement.
+extracted in order to obtain topsoil, sand, gravel, rock,        « animal réglementé » S’entend au sens de l’article 10 du
+crushed stone, building stone, or other mineral aggregate        Règlement sur la santé des animaux. (regulated animal)
+for use elsewhere; (site d’emprunt)                              « canal historique » Canal historique mentionné à la co-
+“drilling program” means                                         lonne I de l’annexe I du Règlement sur les canaux histo-
+  (a) in respect of a physical activity in the offshore          riques. (historic canal)
+  area. as defined in section 2 of the Canada-Newfound-          « dose efficace » S’entend au sens du paragraphe 1(1) du
+  land Atlantic Accord Implementation Act, drilling pro-         Règlement sur la radioprotection. (effective dose)
+  gram as that expression is defined in section 2 of the         « écodistrict » Écodistrict décrit dans la publication inti-
+  Newfoundland Offshore Petroleum Drilling Regula-               tulée Cadre écologique national pour le Canada, publiée
+  tions, and                                                     par le ministère de l’Agriculture et de l’Agroalimentaire
+  (b) in respect of a physical activity in the offshore          et par le ministère de l’Environnement, et figurant sur les
+  area, as defined in section 2 of the Canada-Nova Sco-          cartes qui renferment des écodistricts et qui font partie
+  tia Offshore Petroleum Resources Accord Implemen-              de la série de cartes intitulées Écozones et écorégions
+  tation Act, “drilling program” as that expression is de-       terrestres du Canada, publiées par le ministère de l’Agri-
+  fined in section 2 of the Nova Scotia Offshore                 culture et de l’Agroalimentaire, avec leurs modifications
+  Petroleum Drilling Regulations. (programme de fo-              successives. (ecodistrict)
+  rage)                                                          « étude sismique marine ou d’eau douce » Étude géophy-
+“ecodistrict” means an ecodistrict as described in the           sique faisant appel à une source d’énergie sismique pour
+publication entitled “A National Ecological Framework            produire des ondes acoustiques qui se propagent dans la
+For Canada” published by the Department of Agriculture           terre et qui sont réfléchies ou réfractées par les couches
+and Agri-Food and the Department of the Environment,             souterraines, puis enregistrées. (marine or freshwater
+and as depicted on those maps that contain ecodistricts          seismic survey)
+and that are included in the series of maps entitled “Ter-       « lieu historique national » Endroit commémoré en vertu
+restrial Ecozones and Ecoregions of Canada”, published           de l’article 3 de la Loi sur les lieux et monuments histo-
+by the Department of Agriculture and Agri-Food, as               riques et administré par l’Agence Parcs Canada. (nation-
+amended from time to time. (écodistrict)                         al historic site)
+“effective dose” has the meaning assigned in subsection          « matériel génétique » S’entend au sens de l’article 10 du
+1(1) of the Radiation Protection Regulations; (dose effi-        Règlement sur la santé des animaux. (germplasm)
+cace)
+
+
+
+                                                             1
+                                           SOR/94-637 — October 6, 2010
+
+
+
+
+“exemption quantity” has the meaning assigned in sec-            « parc national »
+tion 1 of the Nuclear Substances and Radiation Devices             a) Parc décrit à l’annexe 1 de la Loi sur les parcs na-
+Regulations; (quantité d’exemption)                                tionaux du Canada;
+“germplasm” has the same meaning as in section 10 of               b) parc érigé conformément à un accord fédéral-pro-
+the Health of Animals Regulations; (matériel génétique)            vincial et placé sous l’autorité de l’Agence Parcs
+“historic canal” means a historic canal set out in column          Canada, mais non décrit à l’annexe 1 de la Loi sur les
+I of an item of Schedule I to the Historic Canals Regula-          parcs nationaux du Canada. (national park)
+tions; (canal historique)                                        « plan d’eau » Tout plan d’eau jusqu’à la laisse des
+“Indian reserve” means a reserve as defined in subsec-           hautes eaux. La présente définition vise notamment les
+tion 2(1) of the Indian Act; (réserve indienne)                  canaux, les réservoirs, les océans et les terres humides,
+“marine or freshwater seismic survey” means a geophys-           mais exclut les étangs de traitement des eaux usées ou
+ical operation that uses a seismic energy source to gener-       des déchets et les étangs de résidus miniers. (water body)
+ate acoustic waves that propagate through the earth, are         « plate-forme d’armes militaires » Véhicule, navire ou
+reflected from or refracted along subsurface layers of the       aéronef conçu pour l’utilisation d’armes militaires. (mili-
+earth and are subsequently recorded; (étude sismique             tary weapons platform)
+marine ou d’eau douce)                                           « programme de forage »
+“military weapons platform” means a vehicle, ship or               a) À l’égard d’une activité concrète réalisée dans la
+aircraft that is designed for the operation of a military          zone extracôtière, au sens de l’article 2 de la Loi de
+weapon; (plate-forme d’armes militaires)                           mise en œuvre de l’Accord atlantique Canada —
+“national historic site” means a place that is commemo-            Terre-Neuve, s’entend au sens de l’article 2 du Règle-
+rated under section 3 of the Historic Sites and Monu-              ment sur le forage pour hydrocarbures dans la zone
+ments Act and is under the administration of the Parks             extracôtière de Terre-Neuve;
+Canada Agency; (lieu historique national)                          b) à l’égard d’une activité concrète réalisée dans la
+“national park” means                                              zone extracôtière, au sens de l’article 2 de la Loi de
+  (a) a park described in Schedule 1 to the Canada Na-             mise en œuvre de l’Accord Canada — Nouvelle-
+  tional Parks Act, and                                            Écosse sur les hydrocarbures extracôtiers, s’entend
+                                                                   au sens de l’article 2 du Règlement sur le forage pour
+  (b) a park established pursuant to a federal-provincial          hydrocarbures dans la zone extracôtière de la Nou-
+  agreement that is under the responsibility of the Parks          velle-Écosse. (drilling program)
+  Canada Agency and is not described in Schedule 1 to
+  the Canada National Parks Act; (parc national)                 « quantité d’exemption » S’entend au sens de l’article 1
+                                                                 du Règlement sur les substances nucléaires et les appa-
+“national park reserve” means                                    reils à rayonnement. (exemption quantity)
+  (a) a national park reserve of Canada named and de-            « quantité réglementaire » ou « QR » [Abrogée, DORS/
+  scribed in Schedule 2 to the Canada National Parks             2003-349, art. 1]
+  Act, and
+                                                                 « réserve à vocation de parc national »
+  (b) a national park reserve that is under the responsi-
+  bility of the Parks Canada Agency and that is not de-            a) Réserve à vocation de parc national nommée et dé-
+  scribed in Schedule 2 to the Canada National Parks               crite à l’annexe 2 de la Loi sur les parcs nationaux du
+  Act; (réserve à vocation de parc national)                       Canada;
+
+
+
+
+                                                             2
+                                                    DORS/94-637 — 6 octobre 2010
+
+
+
+
+“nuclear substance” has the meaning assigned in section                          b) réserve à vocation de parc national qui est placée
+2 of the Nuclear Safety and Control Act; (substance nu-                          sous l’autorité de l’Agence Parcs Canada, mais qui
+cléaire)                                                                         n’est pas décrite à l’annexe 2 de la Loi sur les parcs
+“prescribed substances” [Repealed, SOR/2003-349, s. 1]                           nationaux du Canada. (national park reserve)
+
+“regulated animal” has the same meaning as in section                         « réserve foncière » [Abrogée, DORS/2006-223, art. 27]
+10 of the Health of Animals Regulations; (animal régle-                       « réserve indienne » S’entend au sens de « réserve » au
+menté)                                                                        paragraphe 2(1) de la Loi sur les Indiens. (Indian re-
+“scheduled quantity”           or    “SQ”      [Repealed,       SOR/          serve)
+2003-349, s. 1]                                                               « site d’emprunt » Site duquel des matières de la terre
+“unsealed source” has the meaning assigned in section 1                       sont extraites en vue d’obtenir de la terre végétale, du
+of the Nuclear Substances and Radiation Devices Regu-                         sable, du gravier, des roches, de la pierre concassée, des
+lations; (source non scellée)                                                 pierres à bâtir ou tout autre agrégat minéral à utiliser
+                                                                              ailleurs qu’au site. (borrow site)
+“water body” means any water body, including a canal,
+reservoir, an ocean, and a wetland, up to the high-water                      « source non scellée » S’entend au sens de l’article 1 du
+mark, but does not include a sewage or waste treatment                        Règlement sur les substances nucléaires et les appareils
+lagoon or a mine tailings pond; (plan d’eau)                                  à rayonnement. (unsealed source)
+
+“wetland” means a swamp, marsh, bog, fen or other land                        « substance nucléaire » S’entend au sens de l’article 2 de
+that is covered by water during at least three consecutive                    la Loi sur la sûreté et la réglementation nucléaires. (nu-
+months of the year. (terres humides)                                          clear substance)
+SOR/99-436, s. 1; SOR/2003-280, s. 1; SOR/2003-349, s. 1; SOR/2005-261,       « substances réglementées » [Abrogée, DORS/2003-349,
+s. 2; SOR/2006-223, s. 27.
+                                                                              art. 1]
+                                                                              « terres humides » Marécages, marais ou autres terres qui
+                                                                              sont couverts d’eau durant au moins trois mois consécu-
+                                                                              tifs au cours de l’année. (wetland)
+                                                                              DORS/99-436, art. 1; DORS/2003-280, art. 1; DORS/2003-349, art. 1;
+                                                                              DORS/2005-261, art. 2; DORS/2006-223, art. 27.
+
+                            GENERAL                                                           DISPOSITIONS GÉNÉRALES
+   3. The physical activities and classes of physical ac-                        3. Pour l’application de la définition de « projet », au
+tivities set out in the schedule are prescribed for the pur-                  paragraphe 2(1) de la Loi canadienne sur l’évaluation
+pose of paragraph (b) of the definition “project” in sub-                     environnementale, sont des activités concrètes et des ca-
+section 2(1) of the Canadian Environmental Assessment                         tégories d’activités concrètes les activités et les catégo-
+Act except in so far as they relate to a physical work.                       ries d’activités énumérées à l’annexe, dans la mesure où
+SOR/99-436, s. 2.                                                             elles ne sont pas liées à un ouvrage.
+                                                                              DORS/99-436, art. 2.
+
+
+
+
+                                                                          3
+                                                      SOR/94-637 — October 6, 2010
+
+
+
+
+                              SCHEDULE                                                                         ANNEXE
+                               (Section 3)                                                                     (article 3)
+
+    PHYSICAL ACTIVITIES AND CLASSES OF PHYSICAL                                     ACTIVITÉS CONCRÈTES ET CATÉGORIES D’ACTIVITÉS
+                     ACTIVITIES                                                                      CONCRÈTES
+
+                                PART I                                                                         PARTIE I
+
+         NATIONAL PARKS AND PROTECTED AREAS                                               PARCS NATIONAUX ET ZONES PROTÉGÉES
+   1. Physical activities for the purpose of the provision of basic user            1. Les activités concrètes visant à fournir des services élémen-
+facilities in wilderness areas or access by air to remote parts of such          taires aux usagers dans les réserves intégrales ou à assurer l’accès par
+areas that require an authorization under paragraph 14(3)(c) or (e) of           air des régions éloignées de ces réserves intégrales, lesquelles activi-
+the Canada National Parks Act.                                                   tés nécessitent l’autorisation prévue aux alinéas 14(3)c) ou e) de la
+                                                                                 Loi sur les parcs nationaux du Canada.
+   1.1 Physical activities carried out in a national park, national park            1.1 Les activités concrètes qui sont exercées dans un parc national,
+reserve, national historic site or historic canal for management or sci-         une réserve à vocation de parc national, un lieu historique national ou
+entific purposes, that involve an intent to                                      un canal historique pour des raisons scientifiques ou de gestion et qui
+                                                                                 visent l’un ou l’autre des éléments suivants :
+  (a) manipulate an ecosystem function;
+                                                                                   a) la manipulation d’un processus naturel;
+  (b) remove from a national park, national park reserve, national
+  historic site or historic canal, damage or destroy a member of a                 b) le déplacement — d’un parc national, d’une réserve à vocation
+  species that has been assessed by the Committee on the Status of                 de parc national, d’un lieu historique national ou d’un canal histo-
+  Endangered Wildlife in Canada as extirpated, endangered, threat-                 rique — , l’endommagement ou la destruction d’un membre d’une
+  ened or as a species of special concern;                                         espèce qui a été évaluée par le Comité sur le statut des espèces me-
+                                                                                   nacées de disparition au Canada comme étant une espèce disparue
+  (c) damage or destroy fossils or in-situ archaeological resources;
+                                                                                   du Canada, en voie de disparition ou menacée, ou d’une espèce
+  or
+                                                                                   particulière préoccupante;
+  (d) threaten the continued existence of a biological population
+                                                                                   c) l’endommagement ou la destruction de fossiles ou de ressources
+  within a national park, national park reserve, national historic site
+                                                                                   archéologiques sur place;
+  or historic canal, either directly or through the alteration of its
+  habitat.                                                                         d) une entrave à la permanence d’une population biologique à l’in-
+                                                                                   térieur d’un parc national, d’une réserve à vocation de parc natio-
+                                                                                   nal, d’un lieu historique national ou d’un canal historique, soit di-
+                                                                                   rectement, soit par la modification de son habitat.
+   2. The removal of natural objects for construction purposes within               2. L’enlèvement de matières naturelles à des fins de construction
+a national park, national park reserve, national historic site or historic       dans un parc national, une réserve à vocation de parc national, un lieu
+canal, if the removal involves a new borrow site, the expansion of an            historique national ou un canal historique, s’il vise un nouveau site
+existing borrow site, the reopening of an inactive borrow site, an in-           d’emprunt, l’agrandissement d’un site d’emprunt, la réouverture d’un
+crease in the amount of extraction, new extraction or the extraction of          site d’emprunt inactif, l’augmentation de la quantité de matières ex-
+materials from aquatic locations.                                                traites, de nouvelles activités d’extraction ou l’extraction de matières
+                                                                                 d’endroits aquatiques.
+  3. The taking of water for business water supply purposes that re-               3. Le puisage d’eau à des fins commerciales qui nécessite le per-
+quires a permit under subsection 18(1) of the National Parks General             mis prévu au paragraphe 18(1) du Règlement général sur les parcs
+Regulations.                                                                     nationaux.
+  4. The supplying of water that requires an agreement under section               4. La fourniture d’eau qui nécessite l’entente prévue à l’article 20
+20 of the National Parks General Regulations.                                    du Règlement général sur les parcs nationaux.
+   4.1 Physical activities in a national park, national park reserve, na-          4.1 Les activités concrètes exercées dans un parc national, une ré-
+tional historic site or historic canal resulting in the alteration of a          serve à vocation de parc national, un lieu historique national ou un
+management regime for the level or flow of water in a water body.                canal historique entraînant la transformation d’un régime de gestion
+                                                                                 du niveau ou du débit de l’eau dans un plan d’eau.
+   5. The culling from a population of a wildlife species or the de-               5. L’élimination génétique d’une population d’une espèce fau-
+struction of an entire population of a wildlife species that requires an         nique ou la destruction d’une population entière d’une espèce fau-
+authorization under paragraph 15(1)(a) of the National Parks Wildlife            nique qui requièrent l’autorisation prévue à l’alinéa 15(1)a) du Règle-
+Regulations.                                                                     ment sur la faune des parcs nationaux.
+
+
+
+
+                                                                             4
+                                                     DORS/94-637 — 6 octobre 2010
+
+
+
+
+   6. The occupation of public lands that requires a licence of occu-              6. L’occupation des terres domaniales qui nécessite le permis
+pation under subsection 18(1) of the National Parks of Canada Lease             d’occupation visé au paragraphe 18(1) du Règlement sur les baux et
+and Licence of Occupation Regulations, unless the proposed activity             les permis d’occupation dans les parcs nationaux du Canada, sauf si
+is the same as an activity carried on in the same location and for              l’activité proposée est identique à une activité exercée au même en-
+which an environmental assessment has been previously conducted                 droit qui a fait l’objet d’une évaluation environnementale aux termes
+under the Canadian Environmental Assessment Act or the Environ-                 de la Loi canadienne sur l’évaluation environnementale ou du Décret
+mental Assessment and Review Process Guidelines Order and                       sur les lignes directrices visant le processus d’évaluation et d’exa-
+                                                                                men en matière d’environnement, et si les conditions suivantes sont
+  (a) as a result of the assessment, the environmental effects have
+                                                                                réunies :
+  been determined to be insignificant, taking into account the imple-
+  mentation of mitigation measures, if any; and                                   a) à la suite de l’évaluation, les effets environnementaux ont été
+                                                                                  jugés sans importance, compte tenu de l’application des mesures
+  (b) the mitigation measures and follow-up program, if any, have
+                                                                                  d’atténuation, le cas échéant;
+  been implemented as required in accordance with any timetable es-
+  tablished by the responsible authority.                                         b) le cas échéant, les mesures d’atténuation et le programme de
+                                                                                  suivi ont été appliqués conformément au calendrier établi par l’au-
+                                                                                  torité responsable.
+  7. The taking of water for business water supply purposes that re-               7. L’approvisionnement en eau à des fins commerciales qui néces-
+quires a permit under section 10 of the National Historic Parks Gen-            site le permis prévu à l’article 10 du Règlement général sur les parcs
+eral Regulations.                                                               historiques nationaux.
+  8. The supplying of water that requires an agreement under section               8. L’approvisionnement en eau qui nécessite l’entente prévue à
+11 of the National Historic Parks General Regulations.                          l’article 11 du Règlement général sur les parcs historiques nationaux.
+   9. Physical activities relating to the construction, expansion or              9. Les activités concrètes liées à la construction, l’agrandissement
+modification of a golf course or ski hill in a national park or a nation-       ou la modification d’un terrain de golf ou d’une pente de ski dans un
+al park reserve.                                                                parc national ou une réserve à vocation de parc national.
+  9.1 The alteration of a shoreline, the stabilization of a slope, or              9.1 La transformation d’un rivage, la stabilisation d’un versant ou
+physical activities to control erosion or drainage, in a national park,         les activités concrètes visant à lutter contre l’érosion ou à réguler le
+national park reserve or national historic site.                                drainage dans un parc national, une réserve à vocation de parc natio-
+                                                                                nal ou un lieu historique national.
+   10. The taking or destroying of game that requires an authoriza-               10. La prise ou la mise à mort du gibier qui nécessite l’autorisation
+tion under paragraph 56(1)(b) of the Wood Buffalo National Park                 prévue à l’alinéa 56(1)b) du Règlement sur le gibier du parc de
+Game Regulations.                                                               Wood-Buffalo.
+  11. to 13. [Repealed, SOR/2006-223, s. 31]                                      11. à 13. [Abrogés, DORS/2006-223, art. 31]
+   13.1 Recreational activities that take place outdoors in a national             13.1 Les activités récréatives exercées en plein air dans un parc
+park or national park reserve outside the boundaries of a town or a             national ou une réserve à vocation de parc national, à l’extérieur des
+visitor centre as defined in subsection 2(1) of the National Parks of           limites d’une ville ou d’un centre d’accueil au sens du paragraphe
+Canada Lease and Licence of Occupation Regulations and that re-                 2(1) du Règlement sur les baux et les permis d’occupation dans les
+quire a licence under the National Parks of Canada Businesses Regu-             parcs nationaux du Canada, qui nécessitent un permis aux termes du
+lations, unless the proposed activity is the same as an activity carried        Règlement sur l’exploitation de commerces dans les parcs nationaux
+on in the same location for which an environmental assessment has               du Canada, sauf si l’activité proposée est identique à une activité
+been previously conducted under the Canadian Environmental As-                  exercée au même endroit qui a fait l’objet d’une évaluation environ-
+sessment Act or the Environmental Assessment and Review Process                 nementale aux termes de la Loi canadienne sur l’évaluation environ-
+Guidelines Order and                                                            nementale ou du Décret sur les lignes directrices visant le processus
+                                                                                d’évaluation et d’examen en matière d’environnement, et si les condi-
+  (a) as a result of the assessment, the environmental effects have
+                                                                                tions suivantes sont réunies :
+  been determined to be insignificant, taking into account the imple-
+  mentation of mitigation measures, if any; and                                   a) à la suite de l’évaluation, les effets environnementaux ont été
+                                                                                  jugés sans importance, compte tenu de l’application des mesures
+  (b) the mitigation measures and follow-up program, if any, have
+                                                                                  d’atténuation, le cas échéant;
+  been implemented as required in accordance with any timetable es-
+  tablished by the responsible authority.                                         b) le cas échéant, les mesures d’atténuation et le programme de
+                                                                                  suivi ont été appliqués conformément au calendrier établi par l’au-
+                                                                                  torité responsable.
+   13.2 The application within a national park, national park reserve,             13.2 L’épandage par aéronef de produits antiparasitaires à l’inté-
+national historic site or historic canal of pest control products from an       rieur d’un parc national, d’une réserve à vocation de parc national,
+aircraft.                                                                       d’un lieu historique national ou d’un canal historique.
+
+
+
+
+                                                                            5
+                                                     SOR/94-637 — October 6, 2010
+
+
+
+
+   13.3 Physical activities taking place within a national park, nation-         13.3 Les activités physiques exercées à l’intérieur d’un parc natio-
+al park reserve or national historic site, outside the boundary of a           nal, d’une réserve à vocation de parc national ou d’un lieu historique
+town or visitor centre as defined in subsection 2(1) of the National           national, à l’extérieur des limites d’une ville ou d’un centre d’accueil
+Parks of Canada Lease and Licence of Occupation Regulations, that              au sens du paragraphe 2(1) du Règlement sur les baux et les permis
+are related to a military exercise, national or international sporting         d’occupation dans les parcs nationaux du Canada, qui sont liées à
+event or competition, jamboree or festival.                                    des exercices militaires, des compétitions ou manifestations sportives
+                                                                               nationales ou internationales, de grands rassemblements ou des festi-
+                                                                               vals.
+   13.4 The removal of vegetation for the purpose of fuel modifica-              13.4 L’enlèvement de la végétation afin de réduire les risques de
+tion, delineating the boundary of a national park, national park re-           feu, de fixer les limites d’un parc national, d’une réserve à vocation
+serve or national historic site, or establishing a viewscape.                  de parc national ou d’un lieu historique national, ou de créer un pano-
+                                                                               rama.
+   13.5 The establishment, expansion or relocation of a trail, camp-              13.5 L’aménagement, l’agrandissement ou le déplacement d’un
+site or day-use area within a national park, national park reserve, na-        sentier, d’un campement ou d’une aire d’utilisation diurne à l’inté-
+tional historic site or historic canal.                                        rieur d’un parc national, d’une réserve à vocation de parc national,
+                                                                               d’un lieu historique national ou d’un canal historique.
+   13.6 The establishment, expansion, relocation or closure of a site             13.6 L’aménagement, l’agrandissement, le déplacement ou la fer-
+for the disposal of solid waste within a national park, national park          meture d’un site pour l’élimination des déchets solides à l’intérieur
+reserve, national historic site or historic canal.                             d’un parc national, d’une réserve à vocation de parc national, d’un
+                                                                               lieu historique national ou d’un canal historique.
+
+                               PART II                                                                       PARTIE II
+
+                     OIL AND GAS PROJECTS                                                     PROJETS PÉTROLIERS ET GAZIERS
+   14. Physical activities relating to the abandonment of the opera-              14. Les activités concrètes liées à la cessation de l’exploitation
+tion of an international power line or any interprovincial power line          d’une ligne internationale ou de toute ligne interprovinciale, qui né-
+that requires leave under subsection 58.34(2) of the National Energy           cessitent l’autorisation prévue au paragraphe 58.34(2) de la Loi sur
+Board Act.                                                                     l’Office national de l’énergie.
+   15. Physical activities relating to the abandonment of the opera-             15. Les activités concrètes liées à la cessation de l’exploitation
+tion of a pipeline that requires leave under paragraph 74(1)(d) of the         d’un pipeline qui nécessitent l’autorisation prévue à l’alinéa 74(1)d)
+National Energy Board Act.                                                     de la Loi sur l’Office national de l’énergie.
+  16. The working of, or prospecting for, mines or minerals that re-              16. La prospection ou l’exploitation de gisements qui nécessitent
+quires leave under subsection 81(4) of the National Energy Board               l’autorisation expresse prévue au paragraphe 81(4) de la Loi sur l’Of-
+Act.                                                                           fice national de l’énergie.
+   17. Excavation using power-operated equipment or explosives at a               17. Les travaux d’excavation, avec de l’équipement motorisé ou
+distance of less than 30 m from a pipeline, where the excavation re-           des explosifs, dans un périmètre de 30 m autour d’un pipeline, qui né-
+quires leave under subsection 112(1) of the National Energy Board              cessitent l’autorisation prévue au paragraphe 112(1) de la Loi sur
+Act.                                                                           l’Office national de l’énergie.
+  18. Physical activities relating to the exploration for, or the pro-           18. Les activités concrètes liées à la recherche ou à la production
+duction of, oil or gas that require an authorization under paragraph           du pétrole ou du gaz, qui nécessitent l’autorisation prévue à l’alinéa
+5(1)(b) of the Canada Oil and Gas Operations Act.                              5(1)b) de la Loi sur les opérations pétrolières au Canada.
+  19. Physical activities relating to the approval of a development               19. Les activités concrètes liées à l’approbation d’un plan de mise
+plan under subsection 5.1(4) of the Canada Oil and Gas Operations              en valeur prévue au paragraphe 5.1(4) de la Loi sur les opérations pé-
+Act.                                                                           trolières au Canada.
+   19.1 Physical activities that require an authorization referred to in          19.1 Les activités concrètes qui nécessitent l’autorisation prévue à
+paragraph 138(1)(b) of the Canada-Newfoundland Atlantic Accord                 l’alinéa 138(1)b) de la Loi de mise en œuvre de l’Accord atlantique
+Implementation Act or paragraph 142(1)(b) of the Canada-Nova Sco-              Canada — Terre-Neuve ou à l’alinéa 142(1)b) de la Loi de mise en
+tia Offshore Petroleum Resources Accord Implementation Act and re-             œuvre de l’Accord Canada — Nouvelle-Écosse sur les hydrocarbures
+late to                                                                        extracôtiers et qui sont liées, selon le cas :
+  (a) a marine or freshwater seismic survey during which the air                 a) à une étude sismique marine ou d’eau douce pendant laquelle la
+  pressure measured at a distance of one meter from the seismic en-              pression atmosphérique mesurée à une distance d’un mètre de la
+  ergy source is greater than 275.79 kPa (40 psi);                               source d’énergie sismique est supérieure à 275,79 kPa (40 lb/po2);
+  (b) a drilling program; or                                                     b) à un programme de forage;
+
+
+
+
+                                                                           6
+                                                     DORS/94-637 — 6 octobre 2010
+
+
+
+
+  (c) the production of oil or gas.                                              c) à la production de pétrole ou de gaz.
+   19.2 Physical activities relating to Part I of a development plan re-          19.2 Les activités concrètes liées à la partie I d’un plan de mise en
+ferred to in paragraph 139(4)(a) of the Canada-Newfoundland At-                valeur visé au paragraphe 139(4) de la Loi de mise en œuvre de l’Ac-
+lantic Accord Implementation Act or paragraph 143(4)(a) of the                 cord atlantique Canada — Terre-Neuve ou au paragraphe 143(4) de
+Canada-Nova Scotia Offshore Petroleum Resources Accord Imple-                  la Loi de mise en œuvre de l’Accord Canada — Nouvelle-Écosse sur
+mentation Act.                                                                 les hydrocarbures extracôtiers.
+
+                               PART III                                                                     PARTIE III
+
+             NUCLEAR AND RELATED FACILITIES                                       ÉTABLISSEMENTS NUCLÉAIRES ET ÉTABLISSEMENTS
+                                                                                                   CONNEXES
+ 20. The abandonment, disposal or other release into the environ-               20. L’abandon, l’évacuation ou tout autre rejet dans l’environne-
+ment of a nuclear substance, where                                             ment d’une substance nucléaire, si :
+  (a) the nuclear substance is readily removable from and is not dis-            a) la substance nucléaire s’enlève facilement d’une substance,
+  tributed throughout a substance, material, device or equipment, and            d’une matière, d’un dispositif ou d’un équipement et n’est pas dis-
+  the quantity of the nuclear substance exceeds the exemption quan-              tribuée dans ceux-ci et sa quantité dépasse la quantité d’exemption
+  tity in respect of the nuclear substance; or                                   pour cette substance nucléaire;
+  (b) in the case of a nuclear substance that is distributed throughout          b) dans le cas d’une substance nucléaire qui est distribuée dans
+  and is not readily removable from the substance, material, device              une substance, une matière, un dispositif ou un équipement et qui
+  or equipment, the concentration of the nuclear substance results in            ne s’enlève pas facilement de ceux-ci, sa concentration donne lieu
+  an effective dose that exceeds 1 per cent of the effective dose limit          à une dose efficace supérieure à 1 pour cent de la limite de dose
+  set out in column 3 of item 3 of the table to subsection 13(1) of the          efficace précisée à la colonne 3 de l’article 3 du tableau du para-
+  Radiation Protection Regulations.                                              graphe 13(1) du Règlement sur la radioprotection.
+  21. [Repealed, SOR/2003-349, s. 2]                                             21. [Abrogé, DORS/2003-349, art. 2]
+   22. The abandonment or disposal of a substance, material, device               22. L’abandon ou l’évacuation d’une substance, d’une matière,
+or equipment whose surface is contaminated with a nuclear substance            d’un dispositif ou d’un équipement dont la surface est contaminée par
+that is not readily removable from the surface, where                          une substance nucléaire qui ne s’enlève pas facilement de la surface,
+                                                                               si, à la fois :
+  (a) the contamination exceeds 3 Bq/cm2 averaged over a surface
+  of not more than 100 cm2; and                                                  a) la contamination est supérieure à 3 Bq/cm2 en moyenne sur une
+                                                                                 surface d’au plus 100 cm2;
+  (b) the dose rate at the surface of the substance, material, device or
+  equipment exceeds 1 µSv/h.                                                     b) le taux de dose à la surface de la substance, de la matière, du
+                                                                                 dispositif ou de l’équipement est supérieur à 1 µSv/h.
+  23. Physical activities relating to the possession or use of an un-            23. Les activités concrètes liées à la possession ou à l’utilisation
+sealed source in a quantity exceeding 1 PBq (1015 Bq).                         d’une source non scellée dont la quantité dépasse 1 PBq (1015 Bq)
+   24. The construction, operation, modification, decommissioning                 24. La construction, l’exploitation, la modification, la désaffecta-
+or abandonment of a vehicle, within the meaning of section 2 of the            tion ou l’abandon d’un véhicule, au sens de l’article 2 de la Loi sur la
+Nuclear Safety and Control Act, that is equipped with a nuclear reac-          sûreté et la réglementation nucléaires, équipé d’un réacteur nu-
+tor.                                                                           cléaire.
+
+                               PART IV                                                                      PARTIE IV
+
+                              DEFENCE                                                                        DÉFENSE
+  25. The testing of weapons in an area other than                               25. La mise à l’essai d’armes dans toute zone, à l’exception :
+  (a) a training area, test establishment or range established by or             a) des secteurs d’entraînement, des centres d’essai et d’expérimen-
+  under the authority of the Minister of National Defence for the                tation et des champs de tir établis pour la mise à l’essai d’armes
+  testing of weapons before the coming into force of these Regula-               avant la date d’entrée en vigueur du présent règlement par le mi-
+  tions; or                                                                      nistre de la Défense nationale ou sous son autorité;
+  (b) an area that has been designated as a military test area, range            b) des zones désignées comme secteurs d’essai et d’expérimenta-
+  or base by the government of a country, other than Canada, in                  tion, champs de tir ou bases militaires par le gouvernement d’un
+  which the testing is conducted.                                                pays, autre que le Canada, où la mise à l’essai est effectuée.
+   26. The incineration, disposal or recycling of the toxic chemicals            26. L’incinération, l’élimination ou le recyclage des produits chi-
+and their precursors set out in Schedules 1 to 3 to the Convention on          miques toxiques et de leurs précurseurs visés aux tableaux 1 à 3 de la
+the Prohibition of the Development, Production, Stockpiling and Use            Convention sur l’interdiction de la mise au point, de la fabrication, du
+
+
+
+
+                                                                           7
+                                                     SOR/94-637 — October 6, 2010
+
+
+
+
+of Chemical Weapons and on their Destruction (United Nations),                 stockage et de l’emploi des armes chimiques et sur leur destruction
+done at Paris, January 13, 1993.                                               (Nations Unies), faite le 13 janvier 1993 à Paris.
+  27. The incineration, disposal or recycling of                                 27. L’incinération, l’élimination ou le recyclage des éléments
+                                                                               suivants :
+  (a) the microbial or other biological agents or toxins referred to in
+  Item 1 of Article I of the Convention on the Prohibition of the De-            a) les agents microbiologiques ou autres agents biologiques, ainsi
+  velopment, Production and Stockpiling of Bacteriological (Biolog-              que les toxines, visés au paragraphe 1) de l’article premier de la
+  ical) and Toxin Weapons and on their Destruction (United Na-                   Convention sur l’interdiction de la mise au point, de la fabrication
+  tions), in force March 26, 1975; and                                           et du stockage des armes bactériologiques (biologiques) ou à
+                                                                                 toxines et sur leur destruction (Nations Unies), qui est entrée en vi-
+  (b) the weapons, equipment or means of delivery designed to use
+                                                                                 gueur le 26 mars 1975;
+  the agents or toxins referred to in paragraph (a).
+                                                                                 b) les armes, l’équipement et les vecteurs destinés à l’emploi de
+                                                                                 ces agents ou toxines.
+   28. The low-level flying of military fixed-wing jet aircraft as part           28. L’exécution de vols à basse altitude au moyen d’avions à réac-
+of a training program at an altitude below 330 m above ground level            tion militaires à voilure fixe, pour des programmes d’entraînement,
+on a route or in an area other than a route or an area established by or       lorsque les vols se déroulent à une altitude inférieure à 330 m au-des-
+under the authority of the Minister of National Defence or the Chief           sus du niveau du sol sur toute route ou dans toute zone, autre que les
+of the Defence Staff for low-level flying training prior to the coming         routes ou zones établies comme routes ou zones d’entraînement au
+into force of these Regulations, where the number of flying hours              vol à basse altitude avant la date d’entrée en vigueur du présent règle-
+planned is in excess of 25 hours in a calendar year.                           ment par le ministre de la Défense nationale ou le chef d’état-major
+                                                                               de la défense, ou sous son autorité, lorsque le nombre d’heures de vol
+                                                                               projetées dépasse 25 heures par année civile.
+  29. Naval exercises involving more than 15 vessels, including                 29. Les manœuvres navales auxquelles participent plus de 15 bâti-
+auxiliary and foreign vessels.                                                 ments, y compris des bâtiments auxiliaires et des bâtiments étrangers.
+ 30. Military field exercises and military field training involving              30. Les manœuvres militaires et l’entraînement militaire en cam-
+more than 275 persons and 40 vehicles in an area other than                    pagne auxquels participent plus de 275 personnes et 40 véhicules et
+                                                                               qui se déroulent dans toute zone, à l’exception :
+  (a) a training area or range established by or under the authority of
+  the Minister of National Defence; or                                           a) des secteurs d’entraînement et des champs de tir établis par le
+                                                                                 ministre de la Défense nationale ou sous son autorité;
+  (b) an area designated as a military test area, range or base by the
+  government of a country other than Canada in which the training is             b) des zones désignées comme secteurs d’essai et d’expérimenta-
+  conducted.                                                                     tion, champs de tir ou bases militaires par le gouvernement d’un
+                                                                                 pays, autre que le Canada, où l’entraînement a lieu.
+   31. The taking or destroying of wildlife as part of a wildlife man-           31. La prise ou la destruction d’animaux sauvages dans le cadre
+agement program or the cutting or removal of timber on land admin-             d’un programme de gestion de la faune, ou la coupe ou l’enlèvement
+istered by or under the authority of the Minister of National Defence.         du bois sur des terres gérées par le ministre de la Défense nationale
+                                                                               ou sous son autorité.
+   32. Physical activities relating to the testing, construction, opera-          32. Les activités concrètes liées à la mise à l’essai, à la construc-
+tion or disposal of a military weapons platform during the develop-            tion, à l’exploitation ou à la disposition d’une plate-forme d’armes
+ment and acquisition of the weapons system of which the platform is            militaires lors de la mise au point et de l’acquisition du système
+a part.                                                                        d’armes dont la plate-forme fait partie.
+
+                               PART V                                                                        PARTIE V
+
+                        TRANSPORTATION                                                                    TRANSPORTS
+   33. Physical activities relating to the abandonment of freight oper-           33. Les activités concrètes liées à l’abandon de l’exploitation des
+ations on a railway line.                                                      opérations de transport de marchandises sur une ligne de chemin de
+                                                                               fer.
+   34. The construction of drainage or the laying of pipes within the            34. La construction de voies de drainage ou la pose de conduites
+right-of-way of a railway line.                                                d’eau ou d’autres tuyaux à l’intérieur de l’emprise d’une ligne de
+                                                                               chemin de fer.
+   35. The operation of an aircraft at a true Mach number of 1 or                35. Le pilotage, à une vitesse vraie de Mach 1 ou supérieure, d’un
+greater that was exempted by the Minister of Transport under subsec-           aéronef qui bénéficie d’une exemption du ministre des Transports
+tion 5.9(2) of the Aeronautics Act.                                            aux termes du paragraphe 5.9(2) de la Loi sur l’aéronautique.
+
+
+
+
+                                                                           8
+                                                     DORS/94-637 — 6 octobre 2010
+
+
+
+
+   36. Dredge or fill operations in a navigation channel of a historic            36. Les travaux de dragage ou de remblayage dans les chenaux de
+canal or other navigable water for the purpose of ensuring the naviga-          navigation des canaux historiques ou autres eaux navigables afin qui
+bility of the historic canal or other navigable water.                          soit assurée la navigabilité de ces canaux ou de ces eaux.
+  37. The removal or destruction of a wreck or other thing under                  37. L’enlèvement ou la destruction d’épaves ou de tout autre objet
+section 16 of the Navigable Waters Protection Act.                              en vertu de l’article 16 de la Loi sur la protection des eaux navi-
+                                                                                gables.
+   38. The removal of any vessel or other thing that is wrecked, sunk,             38. L’enlèvement de tout bateau ou autre objet résultant du nau-
+partially sunk, lying ashore or grounded in any navigable water in              frage du bateau qui a sombré, s’est échoué ou s’est jeté à la côte dans
+Canada where the removal requires an authorization under section 20             des eaux navigables canadiennes, qui nécessite l’autorisation prévue
+of the Navigable Waters Protection Act.                                         à l’article 20 de la Loi sur la protection des eaux navigables.
+   39. The destruction or removal of a ship or any cargo or other ma-              39. La destruction ou le déplacement d’un navire, de sa cargaison,
+terial on board a ship that is stranded, wrecked, sunk or abandoned,            en tout ou en partie, ou d’autres objets se trouvant à bord d’un navire
+where the destruction or removal is ordered by the Governor in                  échoué, naufragé, coulé ou abandonné, aux termes d’un ordre du gou-
+Council under subsection 13(1) of the Arctic Waters Pollution Pre-              verneur en conseil donné en vertu du paragraphe 13(1) de la Loi sur
+vention Act.                                                                    la prévention de la pollution des eaux arctiques.
+  39.1 Physical activities that are carried on in Canada relating to               39.1 Les activités concrètes exercées au Canada qui sont liées à
+the establishment or relocation of a temporary road for use in winter.          l’établissement ou au déplacement d’une route destinée à être utilisée
+                                                                                en hiver, de façon temporaire.
+
+                               PART VI                                                                       PARTIE VI
+
+                      WASTE MANAGEMENT                                                               GESTION DES DÉCHETS
+  40. The dumping of any substance for which a permit is required                  40. L’immersion de substances qui nécessite un permis aux termes
+under Division 3 of Part 7 of the Canadian Environmental Protection             de la section 3 de la partie 7 de la Loi canadienne sur la protection de
+Act, 1999.                                                                      l’environnement (1999).
+   41. The operation or testing of a mobile PCB destruction system                 41. L’utilisation ou l’essai d’une unité mobile de destruction des
+or mobile PCB treatment system under section 11 or subsection 12(1)             BPC ou d’une unité mobile de traitement des BPC en vertu de l’ar-
+of the Federal Mobile PCB Treatment and Destruction Regulations.                ticle 11 ou du paragraphe 12(1) du Règlement fédéral sur le traite-
+                                                                                ment et la destruction des BPC au moyen d’unités mobiles.
+  41.1 The remediation of contaminated land in Canada.                            41.1 La restauration de sites contaminés au Canada.
+
+                               PART VII                                                                      PARTIE VII
+
+                              FISHERIES                                                                        PÊCHES
+   42. The destruction of fish by any means other than fishing, where             42. La destruction de poissons par d’autres moyens que la pêche,
+the destruction requires the authorization of the Minister of Fisheries         qui nécessite l’autorisation émanant du ministre des Pêches et des
+and Oceans under section 32 of the Fisheries Act or authorization un-           Océans prévue à l’article 32 de la Loi sur les pêches ou l’autorisation
+der regulations made by the Governor in Council under that Act.                 prévue dans tout règlement pris par le gouverneur en conseil en appli-
+                                                                                cation de cette loi.
+   43. The harmful alteration, disruption or destruction of fish habitat           43. La détérioration, la destruction ou la perturbation de l’habitat
+by means of physical activities carried out in a water body, including          du poisson par des activités concrètes exercées dans un plan d’eau,
+dredge or fill operations, that require the authorization of the Minister       notamment des opérations de dragage ou de remblayage, qui néces-
+of Fisheries and Oceans under subsection 35(2) of the Fisheries Act             sitent l’autorisation du ministre des Pêches et des Océans prévue au
+or authorization under regulations made by the Governor in Council              paragraphe 35(2) de la Loi sur les pêches ou l’autorisation prévue
+under that Act.                                                                 dans tout règlement pris par le gouverneur en conseil en application
+                                                                                de cette loi.
+   44. The harmful alteration, disruption or destruction of fish habitat           44. La détérioration, la destruction ou la perturbation de l’habitat
+by means of draining or altering the water levels of a water body that          du poisson par le vidage d’un plan d’eau ou la modification de son
+require the authorization of the Minister of Fisheries and Oceans un-           niveau d’eau, qui nécessitent l’autorisation du ministre des Pêches et
+der subsection 35(2) of the Fisheries Act or authorization under regu-          des Océans prévue au paragraphe 35(2) de la Loi sur les pêches ou
+lations made by the Governor in Council under that Act.                         l’autorisation prévue dans tout règlement pris par le gouverneur en
+                                                                                conseil en application de cette loi.
+  45. The harmful alteration, disruption or destruction of fish habitat           45. La détérioration, la destruction ou la perturbation de l’habitat
+by means of erosion control measures adjacent to a water body that              du poisson par des mesures de contrôle de l’érosion le long d’un plan
+
+
+
+
+                                                                            9
+                                                        SOR/94-637 — October 6, 2010
+
+
+
+
+require the authorization of the Minister of Fisheries and Oceans un-               d’eau, qui nécessitent l’autorisation du ministre des Pêches et des
+der subsection 35(2) of the Fisheries Act or authorization under regu-              Océans prévue au paragraphe 35(2) de la Loi sur les pêches ou l’auto-
+lations made by the Governor in Council under that Act.                             risation prévue dans tout règlement pris par le gouverneur en conseil
+                                                                                    en application de cette loi.
+   46. The harmful alteration, disruption or destruction of fish habitat               46. La détérioration, la destruction ou la perturbation de l’habitat
+by means of the removal of vegetation in or adjacent to a water body                du poisson par l’enlèvement de la végétation dans un plan d’eau ou le
+that requires the authorization of the Minister of Fisheries and Oceans             long de celui-ci, qui nécessitent l’autorisation du ministre des Pêches
+under subsection 35(2) of the Fisheries Act or authorization under                  et des Océans prévue au paragraphe 35(2) de la Loi sur les pêches ou
+regulations made by the Governor in Council under that Act.                         l’autorisation prévue dans tout règlement pris par le gouverneur en
+                                                                                    conseil en application de cette loi.
+   46.1 The harmful alteration, disruption or destruction of fish habi-                46.1 La détérioration, la perturbation ou la destruction de l’habitat
+tat by means of physical activities intended to establish or modify                 du poisson par suite d’activités concrètes visant à mettre en valeur ou
+more than 500 m of continuous natural shoreline and that require the                à modifier plus de 500 m d’un rivage naturel continu, qui nécessitent
+authorization of the Minister of Fisheries and Oceans under subsec-                 l’autorisation du ministre des Pêches et des Océans prévue au para-
+tion 35(2) of the Fisheries Act or authorization under regulations                  graphe 35(2) de la Loi sur les pêches ou l’autorisation prévue dans
+made by the Governor in Council under that Act.                                     tout règlement pris par le gouverneur en conseil en application de
+                                                                                    cette loi.
+   47. The deposit of a deleterious substance that requires authoriza-                 47. L’immersion ou le rejet d’une substance nocive qui nécessitent
+tion under regulations made by the Governor in Council pursuant to                  l’autorisation prévue dans tout règlement pris par le gouverneur en
+subsection 36(5) of the Fisheries Act.                                              conseil en application du paragraphe 36(5) de la Loi sur les pêches.
+
+                               PART VIII                                                                        PARTIE VIII
+
+                         FLORA AND FAUNA                                                                     FLORE ET FAUNE
+  48. The removal or damaging of vegetation, the carrying on of                        48. L’endommagement ou l’arrachage de la végétation, le fait de
+agricultural activities or the disturbance or removal of soil in a                  se livrer à des activités agricoles ou de déranger ou d’enlever de la
+wildlife area that requires a permit under section 4 of the Wildlife                terre d’une réserve d’espèces sauvages, qui nécessitent le permis pré-
+Area Regulations.                                                                   vu à l’article 4 du Règlement sur les réserves d’espèces sauvages.
+   48.1 Physical activities that are carried on in Canada outside a na-                48.1 Les activités concrètes qui sont exercées au Canada à l’exté-
+tional park, national park reserve, national historic site or historic              rieur d’un parc national, d’une réserve à vocation de parc national,
+canal and that are intended to threaten the continued existence of a                d’un lieu historique national ou d’un canal historique et qui ont pour
+biological population in an ecodistrict, either directly or through the             but spécifique de menacer la permanence d’une population biolo-
+alteration of its habitat, except for activities carried on at or in the im-        gique au sein d’un écodistrict, soit directement, soit par la modifica-
+mediate vicinity of an airport to ensure the safe operation of aircraft.            tion de son habitat, sauf les activités exercées à un aéroport ou dans
+                                                                                    les environs immédiats de celui-ci afin d’assurer la sécurité d’utilisa-
+                                                                                    tion des aéronefs.
+   49. Physical activities referred to in paragraph 3(2)(b) or subsec-                49. Les activités concrètes visées à l’alinéa 3(2)b) ou au para-
+tion 10(1) of the Migratory Bird Sanctuary Regulations that require a               graphe 10(1) du Règlement sur les refuges d’oiseaux migrateurs qui
+permit under subsection 9(1) of those Regulations.                                  nécessitent le permis prévu au paragraphe 9(1) de ce règlement.
+   50. The killing of a migratory bird or the taking of a migratory                   50. La mise à mort ou la prise d’un oiseau migrateur ou la prise de
+bird or its nest or eggs that requires a scientific permit referred to in           son nid ou de ses œufs, qui nécessitent le permis scientifique prévu
+subsection 19(1) of the Migratory Birds Regulations.                                au paragraphe 19(1) du Règlement sur les oiseaux migrateurs.
+   51. The killing of an endangered migratory bird that is considered                 51. La mise à mort des oiseaux migrateurs d’une espèce en voie
+to be a danger to aircraft operating at an airport that requires a permit           d’extinction qui constituent un danger pour les aéronefs utilisant un
+under subsection 28(1) of the Migratory Birds Regulations.                          aéroport, qui nécessite le permis prévu au paragraphe 28(1) du Règle-
+                                                                                    ment sur les oiseaux migrateurs.
+   52. The collection of eiderdown from migratory birds that requires                 52. La cueillette d’édredon d’oiseaux migrateurs qui nécessite le
+a permit under subsection 32(1) of the Migratory Birds Regulations.                 permis prévu au paragraphe 32(1) du Règlement sur les oiseaux mi-
+                                                                                    grateurs.
+   53. The introduction into Canada for the purpose of sport, ac-                     53. Le fait de faire entrer au Canada des oiseaux migrateurs qui ne
+climatization or release from captivity of a species of migratory bird              sont pas d’une espèce indigène du Canada, pour les mettre en liberté
+not indigenous to Canada that requires consent in writing under sec-                ou les acclimater ou pour le sport, qui nécessite l’autorisation écrite
+tion 33 of the Migratory Birds Regulations.                                         prévue à l’article 33 du Règlement sur les oiseaux migrateurs.
+
+
+
+
+                                                                               10
+                                                    DORS/94-637 — 6 octobre 2010
+
+
+
+
+   54. The deposit, that requires the authorization by the Minister for           54. L’immersion ou le rejet — qui nécessite l’autorisation du mi-
+scientific purposes under paragraph 5.1(3)(b) of the Migratory Birds           nistre à des fins scientifiques prévue à l’alinéa 5.1(3)b) de la Loi de
+Convention Act, 1994, of                                                       1994 sur la convention concernant les oiseaux migrateurs :
+  (a) a substance that is harmful to migratory birds in waters or an             a) d’une substance nocive pour les oiseaux migrateurs dans des
+  area frequented by migratory birds or in a place from which the                eaux ou une région fréquentées par ces oiseaux ou en tout autre
+  substance may enter such waters or such an area; or                            lieu à partir duquel la substance pourrait pénétrer dans ces eaux ou
+                                                                                 cette région;
+  (b) a substance in any place if the substance, in combination with
+  one or more substances, results in a substance — in waters or an               b) d’une substance qui, mélangée à une ou plusieurs autres sub-
+  area frequented by migratory birds or in a place from which it may             stances, résulte en une substance nocive pour les oiseaux migra-
+  enter such waters or such an area — that is harmful to migratory               teurs dans des eaux ou une région fréquentées par ces oiseaux ou
+  birds.                                                                         en tout autre lieu à partir duquel la substance nocive pourrait péné-
+                                                                                 trer dans ces eaux ou cette région.
+   55. The killing, capture or possession of any migratory bird or the            55. La mise à mort, la capture ou la possession d’oiseaux migra-
+collection or possession of carcasses, eggs or nests of any migratory          teurs ou la cueillette ou la possession de carcasses, d’œufs ou de nids
+bird that requires a special permit under section 36 of the Migratory          d’oiseaux migrateurs, qui nécessitent le permis spécial prévu à l’ar-
+Birds Regulations.                                                             ticle 36 du Règlement sur les oiseaux migrateurs.
+
+                              PART IX                                                                       PARTIE IX
+
+              PROJECTS ON ABORIGINAL LANDS                                               PROJETS SUR DES TERRES AUTOCHTONES
+  56. The use of lands in an Indian reserve for the purpose of Indian             56. L’utilisation de terres dans une réserve indienne aux fins
+schools, the administration of Indian affairs, Indian burial grounds or        d’écoles indiennes, de l’administration d’affaires indiennes, de cime-
+Indian health projects that requires an authorization under subsection         tières indiens ou de projets relatifs à la santé des Indiens, qui néces-
+18(2) of the Indian Act.                                                       site l’autorisation prévue au paragraphe 18(2) de la Loi sur les In-
+                                                                               diens.
+  57. The occupation or use of, or residence or exercise of rights on,           57. L’occupation ou l’utilisation d’une réserve indienne, ou le fait
+an Indian reserve that requires a permit under subsection 28(2) of the         de résider ou d’exercer des droits sur celle-ci, qui nécessitent le per-
+Indian Act.                                                                    mis prévu au paragraphe 28(2) de la Loi sur les Indiens.
+   58. The disposal of sand, gravel, clay or other non-metallic sub-              58. La disposition de sable, de gravier, de glaise ou d’autres sub-
+stances on or under lands in an Indian reserve under paragraph                 stances non métalliques se trouvant sur des terres ou dans le sous-sol
+58(4)(b) of the Indian Act or the taking of sand, gravel, clay or other        d’une réserve indienne en vertu de l’alinéa 58(4)b) de la Loi sur les
+non-metallic substances on or under lands in an Indian reserve that            Indiens ou la prise de ces substances qui nécessite le permis tempo-
+requires a temporary permit under that paragraph.                              raire prévu à cet alinéa.
+  59. The operation of a garbage dump or the disposal, storage or                 59. La tenue d’un dépotoir d’ordures ou la destruction ou le dépôt
+burning of waste that requires a permit under section 5 of the Indian          de déchets ou le fait de les brûler, qui nécessitent le permis prévu à
+Reserve Waste Disposal Regulations.                                            l’article 5 du Règlement sur la destruction des déchets dans les ré-
+                                                                               serves indiennes.
+  60. The exploration for, or development of, minerals that requires              60. La recherche ou la mise en valeur de minéraux qui nécessitent
+a permit or lease under subsection 5(2) or 6(1) of the Indian Mining           le permis ou le bail prévus aux paragraphes 5(2) ou 6(1) du Règle-
+Regulations.                                                                   ment sur l’exploitation minière dans les réserves indiennes.
+   61. Exploratory work on Indian lands that requires an exploratory             61. L’exécution de travaux d’exploration sur des terres indiennes
+licence under subsection 6(4) of the Indian Oil and Gas Regulations,           qui nécessite la licence d’exploration prévue au paragraphe 6(4) du
+1995.                                                                          Règlement de 1995 sur le pétrole et le gaz des terres indiennes.
+  62. to 64. [Repealed, SOR/99-436, s. 17]                                       62. à 64. [Abrogés, DORS/99-436, art. 17]
+  65. The exploitation of oil or gas on Indian lands that requires a              65. L’exploitation du pétrole ou du gaz sur des terres indiennes
+surface lease or right-of-way under subsection 27(4) of the Indian Oil         qui nécessite le bail de superficie ou le droit de passage prévus au pa-
+and Gas Regulations, 1995.                                                     ragraphe 27(4) du Règlement de 1995 sur le pétrole et le gaz des
+                                                                               terres indiennes.
+   66. The exploitation of oil or gas on Indian lands that requires a            66. L’exploitation du pétrole ou du gaz sur des terres indiennes
+right of entry granted under subsection 32(1) of the Indian Oil and            qui nécessite le droit d’entrée prévu au paragraphe 32(1) du Règle-
+Gas Regulations, 1995.                                                         ment de 1995 sur le pétrole et le gaz des terres indiennes.
+
+
+
+
+                                                                          11
+                                                      SOR/94-637 — October 6, 2010
+
+
+
+
+   67. The cutting of timber on an Indian reserve that requires a per-               67. La coupe de bois de construction sur une réserve indienne, qui
+mit, licence or variation under subsection 5(1), section 9 or subsec-             nécessite le permis ou la licence prévus au paragraphe 5(1) ou à l’ar-
+tion 22(1) of the Indian Timber Regulations.                                      ticle 9 du Règlement sur le bois de construction des Indiens ou la mo-
+                                                                                  dification d’une telle licence prévue au paragraphe 22(1) de ce règle-
+                                                                                  ment.
+
+                                PART X                                                                          PARTIE X
+
+                       NORTHERN PROJECTS                                                               PROJETS DANS LE NORD
+  68. [Repealed, SOR/2006-223, s. 36]                                               68. [Abrogé, DORS/2006-223, art. 36]
+  69. Physical activities relating to the use of waters or the deposit              69. Les activités concrètes liées à l’utilisation des eaux ou au dé-
+of waste that require a licence under subsection 14(1) of the North-              pôt de déchets, qui nécessitent le permis prévu au paragraphe 14(1)
+west Territories Waters Act or that are the subject of a renewal of or            de la Loi sur les eaux des Territoires du Nord-Ouest ou le renouvelle-
+amendment to a licence under paragraph 18(1)(a) or (b), or physical               ment ou la modification d’un tel permis prévus aux alinéas 18(1)a)
+activities relating to a cancellation of a licence under paragraph                ou b) de cette loi, ou qui sont liées à l’annulation d’un tel permis pré-
+18(1)(c) of that Act.                                                             vue à l’alinéa 18(1)c) de cette loi.
+   70. Physical activities referred to in section 8 or 9 of the Territori-           70. Les activités concrètes visées aux articles 8 ou 9 du Règlement
+al Land Use Regulations that are carried on in the Yukon Territory or             sur l’utilisation des terres territoriales qui sont exercées au Yukon ou
+Northwest Territories and that require a Class A Permit or Class B                dans les Territoires du Nord-Ouest et qui nécessitent le permis de ca-
+Permit under paragraph 25(1)(a) or 27(a) of those Regulations.                    tégorie A ou le permis de catégorie B prévus aux alinéas 25(1)a) ou
+                                                                                  27a) de ce règlement.
+  71. The cutting and removal of timber under a timber harvesting                    71. La coupe et le débusquage de bois effectués aux termes d’un
+agreement entered into by the Minister of Indian Affairs and North-               contrat de longue durée visant la récolte du bois conclu par le mi-
+ern Development in accordance with section 8 of the Territorial                   nistre des Affaires indiennes et du Nord canadien en conformité avec
+Lands Act.                                                                        l’article 8 de la Loi sur les terres territoriales.
+  72. [Repealed, SOR/2006-223, s. 37]                                               72. [Abrogé, DORS/2006-223, art. 37]
+  73. The grazing of reindeer that requires a licence under paragraph                73. Le fait de mettre au pâturage des rennes qui nécessite la li-
+5(1)(b) of the Northwest Territories Reindeer Regulations.                        cence prévue à l’alinéa 5(1)b) du Règlement sur les rennes des Terri-
+                                                                                  toires du Nord-Ouest.
+  73.1 [Repealed, SOR/2006-263, s. 4]                                               73.1 [Abrogé, DORS/2007-263, art. 4]
+  73.2 [Repealed, SOR/2006-223, s. 38]                                              73.2 [Abrogé, DORS/2006-223, art. 38]
+  73.3 [Repealed, SOR/2006-263, s. 5]                                               73.3 [Abrogé, DORS/2007-263, art. 5]
+
+                               PART XI                                                                          PARTIE XI
+
+                               FORESTS                                                                           FORÊTS
+  74. The cutting or removal of timber that requires a permit under                 74. La coupe ou l’enlèvement du bois qui nécessite le permis pré-
+subsection 7(3) of the Timber Regulations, 1993 or an agreement un-               vu au paragraphe 7(3) du Règlement de 1993 sur le bois ou le contrat
+der section 14 of those Regulations.                                              prévu à l’article 14 de ce règlement.
+
+                               PART XII                                                                        PARTIE XII
+
+                         MISCELLANEOUS                                                                           DIVERS
+  75. A physical activity that requires a licence under paragraph                    75. Les activités concrètes qui nécessitent le permis prévu aux ali-
+3(a), (d) or (f) of the Public Lands Licensing Order.                             néas 3a), d) ou f) du Décret sur les permis relatifs à des terres pu-
+                                                                                  bliques.
+  76. Physical activities that require a licence under paragraph                     76. Les activités concrètes qui nécessitent le permis prévu à l’ali-
+4(2)(a) of the Federal Real Property Regulations to use or occupy                 néa 4(2)a) du Règlement concernant les immeubles fédéraux pour
+federal lands, except                                                             l’usage ou l’occupation des terres fédérales, sauf :
+  (a) activities that would be consistent with the intended and typi-               a) les activités exercées conformément à l’usage prévu et habituel
+  cal use of the federal lands in question and would not                            des terres fédérales en cause qui comporteraient l’une ou l’autre
+                                                                                    des caractéristiques suivantes :
+     (i) result in the alteration of any feature of those federal lands,
+     or
+
+
+
+
+                                                                             12
+                                                       DORS/94-637 — 6 octobre 2010
+
+
+
+
+     (ii) involve the likely release of a polluting substance into a wa-                (i) elles n’entraîneraient d’aucune façon l’altération de ces
+     ter body;                                                                          terres,
+  (b) the occupancy of a building or part of a building for residential                 (ii) elles n’entraîneraient vraisemblablement pas le rejet de sub-
+  or office purposes if the occupant is not responsible for the opera-                  stances polluantes dans un plan d’eau;
+  tion of the building; and
+                                                                                     b) l’occupation d’un bâtiment ou d’une partie d’un bâtiment à des
+  (c) where the proposed activity is the same as an activity carried                 fins résidentielles ou comme bureaux, si l’occupant n’est pas res-
+  on in the same location and for which an environmental assessment                  ponsable de l’exploitation du bâtiment;
+  has been previously conducted under the Canadian Environmental
+                                                                                     c) si l’activité proposée est identique à une activité exercée au
+  Assessment Act or the Environmental Assessment and Review Pro-
+                                                                                     même endroit et qui a fait l’objet d’une évaluation environnemen-
+  cess Guidelines Order and
+                                                                                     tale aux termes de la Loi canadienne sur l’évaluation environne-
+     (i) as a result of the assessment, the environmental effects have               mentale ou du Décret sur les lignes directrices visant le processus
+     been determined to be insignificant, taking into account the im-                d’évaluation et d’examen en matière d’environnement, et si les
+     plementation of mitigation measures, if any, and                                conditions suivantes sont réunies :
+     (ii) the mitigation measures and follow-up program, if any, have                   (i) à la suite de l’évaluation, les effets environnementaux ont été
+     been implemented as required in accordance with any timetable                      jugés sans importance, compte tenu de l’application des mesures
+     established by the responsible authority.                                          d’atténuation, le cas échéant,
+                                                                                        (ii) le cas échéant, les mesures d’atténuation et le programme de
+                                                                                        suivi ont été appliqués conformément au calendrier établi par
+                                                                                        l’autorité responsable.
+  77. Physical activities relating to the establishment or use of a                   77. Les activités concrètes liées à l’établissement ou à l’utilisation
+temporary field camp if the camp is to be used for 200 person-days or              d’un campement temporaire qui est destiné à servir pour 200 jours-
+more, except a military field camp or troop concentration within a                 personnes ou plus, sauf un campement militaire ou une concentration
+designated training area established by or under the authority of the              de troupes dans un secteur d’entraînement désigné établi avant le 19
+Minister of National Defence before January 19, 1995.                              janvier 1995 par le ministre de la Défense nationale ou sous son auto-
+                                                                                   rité.
+   78. The importation of regulated animals or germplasm of regulat-                  78. L’importation d’animaux réglementés ou de matériel géné-
+ed animals from countries other than the United States for agricultur-             tique d’animaux réglementés de pays autres que les États-Unis à des
+al purposes, including the raising of those animals in captivity for               fins agricoles, y compris l’élevage en captivité de ces animaux en vue
+sale as breeding stock or for the sale of their parts or germplasm, that           de leur vente aux fins de reproduction ou de la vente de leurs parties
+requires a permit under paragraph 11(1)(a) or 12(1)(a) of the Health               ou de leur matériel génétique, qui nécessite le permis prévu aux ali-
+of Animals Regulations, other than the importation of the following                néas 11(1)a) ou 12(1)a) du Règlement sur la santé des animaux, à
+regulated animals and their germplasm:                                             l’exclusion de l’importation d’animaux réglementés ou de leur maté-
+                                                                                   riel génétique provenant :
+  (a) domestic species of equines, cattle, sheep, swine, goats and
+  poultry;                                                                           a) d’espèces domestiques d’équidés, de bovins, d’ovins, de por-
+                                                                                     cins, de caprins et de volaille;
+  (b) indigenous species that are farmed for fur or their germplasm;
+  and                                                                                b) d’espèces indigènes qui sont élevées pour leur fourrure ou pour
+                                                                                     leur matériel génétique;
+  (c) European honeybees.
+                                                                                     c) d’abeilles domestiques européennes.
+   79. Seismic surveying in Canada not otherwise provided for under                   79. Les types de prospection sismique visés aux alinéas a) et b)
+this schedule that is either of the following:                                     qui sont effectuées au Canada et qui ne sont pas visés par une autre
+                                                                                   disposition de la présente annexe :
+  (a) land-based seismic surveying, if during the survey more than
+  50 kg of chemical explosive would be detonated in a single blast;                  a) la prospection sismique terrestre si, au cours de celle-ci, plus de
+  or                                                                                 50 kg d’explosifs chimiques détonent en même temps;
+  (b) marine or freshwater seismic surveying, if during the survey                   b) la prospection sismique marine ou d’eau douce si, au cours de
+  the air pressure measured at a distance of one metre from the                      celle-ci, la pression atmosphérique mesurée à une distance d’un
+  source would be greater than 275.79 kPa (40 pounds per square                      mètre de la source peut être supérieure à 275,79 kPa (40 livres par
+  inch).                                                                             pouce carré).
+   80. Outdoor recreational activities to be carried on in rural areas of             80. Les activités récréatives qui sont effectuées en plein air dans
+Canada, except within a national park, national park reserve, national             des zones rurales au Canada, à l’exclusion des parcs nationaux, des
+historic site or historic canal, relating to the operation of rafting, boat        réserves à vocation de parc national, des lieux historiques nationaux
+                                                                                   et des canaux historiques, et qui ont trait aux entreprises de descente
+
+
+
+
+                                                                              13
+                                                           SOR/94-637 — October 6, 2010
+
+
+
+
+touring and horseback riding enterprises having more than 10 full-                      en eaux vives, d’excursions en bateau et d’équitation ayant plus de
+time employees at any one time.                                                         dix employés à plein temps à un moment donné.
+ SOR/99-436, ss. 3 to 20; SOR/2000-309, s. 1; SOR/2003-280, s. 2; SOR/                  DORS/99-436, art. 3 à 20; DORS/2000-309, art. 1; DORS/2003-280, art. 2;
+2003-349, ss. 2 to 4; SOR/2005-261, s. 3; SOR/2005-314, s. 4; SOR/                      DORS/2003-349, art. 2 à 4; DORS/2005-261, art. 3; DORS/2005-314, art. 4;
+2006-223, ss. 28 to 34, 35(F), 36 to 38, 39(F); SOR/2007-263, ss. 2, 3(F), 4, 5.        DORS/2006-223, art. 28 à 34, 35(F), 36 à 38 et 39(F); DORS/2007-263, art. 2,
+                                                                                        3(F), 4 et 5.
+
+
+
+
+                                                                                   14
+

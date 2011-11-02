@@ -1,0 +1,833 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+    Comprehensive Study                                               Règlement sur la liste
+      List Regulations                                                d’étude approfondie
+
+                       SOR/94-638                                                        DORS/94-638
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published             31. (1) Every copy of a consolidated statute or            31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies      (3) In the event of an inconsistency between a              (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                                 Enregistrement
+SOR/94-638 October 7, 1994                                   DORS/94-638 Le 7 octobre 1994
+CANADIAN ENVIRONMENTAL ASSESSMENT ACT                        LOI CANADIENNE SUR L’ÉVALUATION
+                                                             ENVIRONNEMENTALE
+
+Comprehensive Study List Regulations                         Règlement sur la liste d’étude approfondie
+
+P.C. 1994-1687 October 7, 1994                               C.P. 1994-1687 Le 7 octobre 1994
+
+   Whereas the Governor in Council is satisfied that cer-       Attendu que le gouverneur en conseil est convaincu
+tain projects and classes of projects are likely to have     que certains projets et certaines catégories de projets
+significant adverse environmental effects;                   sont susceptibles d’entraîner des effets environnemen-
+                                                             taux négatifs importants,
+   Therefore, His Excellency the Governor General in            À ces causes, sur recommandation de la ministre de
+Council, on the recommendation of the Minister of the        l’Environnement et en vertu de l’alinéa 59d) de la Loi
+Environment, pursuant to paragraph 59(d) of the Cana-        canadienne sur l’évaluation environnementale*, il plaît à
+dian Environmental Assessment Act*, is pleased hereby        Son Excellence le Gouverneur général en conseil de
+to make the annexed Regulations prescribing those            prendre le Règlement désignant les projets et les catégo-
+projects and classes of projects for which a comprehen-      ries de projets pour lesquels une étude environnementale
+sive study is required, effective on the day on which sec-   approfondie est obligatoire, ci-après, lequel entre en vi-
+tion 59 of the Canadian Environmental Assessment             gueur à la date d’entrée en vigueur de l’article 59 de la
+Actcomes into force.                                         Loi canadienne sur l’évaluation environnementale.
+
+
+
+
+*                                                             * 
+     S.C. 1992, c. 37                                              L.C. 1992, ch. 37
+REGULATIONS PRESCRIBING THOSE PROJECTS                             RÈGLEMENT DÉSIGNANT LES PROJETS ET LES
+   AND CLASSES OF PROJECTS FOR WHICH A                                CATÉGORIES DE PROJETS POUR LESQUELS
+   COMPREHENSIVE STUDY IS REQUIRED                                    UNE    ÉTUDE      ENVIRONNEMENTALE
+                                                                      APPROFONDIE EST OBLIGATOIRE
+
+                     SHORT TITLE                                                       TITRE ABRÉGÉ
+   1. These Regulations may be cited as the Comprehen-               1. Règlement sur la liste d’étude approfondie.
+sive Study List Regulations.
+
+                  INTERPRETATION                                                        DÉFINITIONS
+  2. In these Regulations,                                           2. Les définitions qui suivent s’appliquent au présent
+“abandonment” does not include the temporary cessation             règlement.
+of the operation of a physical work; (fermeture)                   « aérodrome » S’entend au sens du paragraphe 3(1) de la
+“aerodrome” means aerodrome as defined in subsection               Loi sur l’aéronautique. (aerodrome)
+3(1) of the Aeronautics Act; (aérodrome)                           « aéroport » S’entend au sens du paragraphe 3(1) de la
+“airport” means airport as defined in subsection 3(1) of           Loi sur l’aéronautique. (airport)
+the Aeronautics Act; (aéroport)                                    « au large des côtes » Se dit d’un élément ou d’une action
+“Class IA nuclear facility” has the meaning assigned in            situé dans l’une ou l’autre des zones suivantes :
+section 1 of the Class I Nuclear Facilities Regulations;             a) une zone sous-marine décrite à l’alinéa 3b) de la
+(installation nucléaire de catégorie IA)                             Loi sur les opérations pétrolières au Canada, à
+“Class IB nuclear facility” has the meaning assigned in              l’égard de laquelle une autorisation est exigée aux
+section 1 of the Class I Nuclear Facilities Regulations;             termes de cette loi en vue de la recherche, notamment
+(installation nucléaire de catégorie IB)                             par forage, de la production, de la rationalisation de
+                                                                     l’exploitation, de la transformation ou du transport du
+“decommissioning” does not include the cessation of the              pétrole ou du gaz;
+operation of a physical work; (désaffectation)
+                                                                     b) une zone à l’égard de laquelle une autorisation est
+“exploratory drilling” [Repealed, SOR/2005-335, s. 1]                exigée, aux termes de la Loi de mise en œuvre de l’Ac-
+“hazardous waste” has the meaning assigned in subsec-                cord atlantique Canada — Terre-Neuve ou de la Loi
+tion 2(1) of the Export and Import of Hazardous Wastes               de mise en œuvre de l’Accord Canada — Nouvelle-
+Regulations but does not include nuclear substances;                 Écosse sur les hydrocarbures extracôtiers, en vue de
+(déchets dangereux)                                                  la recherche, notamment par forage, de la production,
+                                                                     de la rationalisation de l’exploitation, de la transfor-
+“historic canal” means a historic canal set out in column
+                                                                     mation ou du transport du pétrole ou du gaz. (off-
+I of an item of Schedule I to the Historic Canals Regula-
+                                                                     shore)
+tions; (canal historique)
+                                                                   « canal historique » Canal historique mentionné à la co-
+“long-range development plan” means a plan for the de-
+                                                                   lonne I de l’annexe I du Règlement sur les canaux histo-
+velopment and operation of a commercial ski area pre-
+                                                                   riques. (historic canal)
+pared for the approval of the Minister responsible for the
+Parks Canada Agency; (plan d’aménagement à long                    « déchets dangereux » S’entend au sens du paragraphe
+terme)                                                             2(1) du Règlement sur l’exportation et l’importation des
+                                                                   déchets dangereux. La présente définition exclut les sub-
+“management plan” means a management plan in respect
+                                                                   stances nucléaires. (hazardous waste)
+of a national park, national park reserve, national historic
+
+
+
+
+                                                               1
+                                          SOR/94-638 — October 6, 2010
+
+
+
+
+site or historic canal that has been laid before each            « désaffectation » Ne vise pas le fait de cesser l’exploita-
+House of Parliament; (plan de gestion)                           tion d’un ouvrage. (decommissioning)
+“marine terminal” means                                          « emprise » Terrain qui est assujetti à un droit de passage
+  (a) an area normally used for berthing ships and in-           et qui est aménagé pour une ligne de transport d’électri-
+  cludes wharves, bulkheads, quays, piers, docks, sub-           cité, un pipeline d’hydrocarbures, une ligne de chemin
+  merged lands, and areas, structures and equipment that         de fer ou une voie publique permanente. (right of way)
+  are                                                            « établissement nucléaire » [Abrogée, DORS/2003-352,
+     (i) connected with the movement of goods between            art. 1(F)]
+     ships and shore and their associated storage areas,         « fabrique de pâtes et papiers » Fabrique qui produit de la
+     including areas, structures and equipment used for          pâte et des produits de papier. La présente définition ex-
+     the receiving, handling, holding, consolidating,            clut les fabriques qui ne produisent que des produits de
+     loading or delivery of waterborne shipments, or             papier. (pulp and paper mill)
+     (ii) used for the receiving, holding, regrouping,           « fermeture » Ne vise pas le fait de cesser, de façon tem-
+     embarcation or landing of waterborne passengers;            poraire, l’exploitation d’un ouvrage. (abandonment)
+     and                                                         « forage exploratoire » [Abrogée, DORS/2005-335, art.
+  (b) any area adjacent to the areas, structures and             1]
+  equipment referred to in paragraph (a) that is used for        « installation nucléaire » S’entend au sens de l’article 2
+  their maintenance.                                             de la Loi sur la sûreté et la réglementation nucléaires.
+It does not include                                              (nuclear facility)
+  (c) production, processing or manufacturing areas              « installation nucléaire de catégorie IA » S’entend au
+  that include docking facilities used exclusively in re-        sens de l’article 1 du Règlement sur les installations nu-
+  spect of those areas; or                                       cléaires de catégorie 1. (Class IA nuclear facility)
+  (d) the storage facilities related to the areas referred       « installation nucléaire de catégorie IB » S’entend au
+  to in paragraph (c); (terminal maritime)                       sens de l’article 1 du Règlement sur les installations nu-
+“migratory bird sanctuary” means an area set out in the          cléaires de catégorie 1. (Class IB nuclear facility)
+schedule to the Migratory Bird Sanctuary Regulations;            « lieu historique national » Endroit commémoré en vertu
+(refuge d’oiseaux migrateurs)                                    de l’article 3 de la Loi sur les lieux et monuments histo-
+“national historic site” means a place that is commemo-          riques et administré par l’Agence Parcs Canada. (nation-
+rated under section 3 of the Historic Sites and Monu-            al historic site)
+ments Act and is under the administration of the Parks           « mine d’uranium » S’entend d’une mine au sens de l’ar-
+Canada Agency; (lieu historique national)                        ticle 1 du Règlement sur les mines et les usines de
+“national park” means                                            concentration d’uranium. (uranium mine)
+
+  (a) a park described in Schedule 1 to the Canada Na-           « nouvelle emprise » Terrain qui est assujetti à un droit
+  tional Parks Act, and                                          de passage, qui est destiné à être aménagé pour une ligne
+                                                                 de transport d’électricité, un pipeline d’hydrocarbures,
+  (b) a park established pursuant to a federal-provincial        une ligne de chemin de fer ou une voie publique perma-
+  agreement that is under the responsibility of the Parks        nente, et qui n’est pas situé le long d’une emprise exis-
+  Canada Agency and is not described in Schedule 1 to            tante ni contiguë à celle-ci. (new right of way)
+  the Canada National Parks Act; (parc national)
+
+
+
+                                                             2
+                                           DORS/94-638 — 6 octobre 2010
+
+
+
+
+“national park reserve” means                                     « parc national »
+  (a) a national park reserve of Canada named and de-               a) Parc décrit à l’annexe 1 de la Loi sur les parcs na-
+  scribed in Schedule 2 to the Canada National Parks                tionaux du Canada;
+  Act, and                                                          b) parc érigé conformément à un accord fédéral-pro-
+  (b) a national park reserve that is under the responsi-           vincial et placé sous l’autorité de l’Agence Parcs
+  bility of the Parks Canada Agency and that is not de-             Canada, mais non décrit à l’annexe 1 de la Loi sur les
+  scribed in Schedule 2 to the Canada National Parks                parcs nationaux du Canada. (national park)
+  Act; (réserve à vocation de parc national)                      « pâte » Les fibres de cellulose traitées qui sont dérivées
+“new right of way” means land that is subject to a right          du bois, d’autres matières végétales ou de produits de
+of way that is proposed to be developed for an electrical         papier recyclés. (pulp)
+transmission line, an oil and gas pipeline, a railway line,       « pipeline d’hydrocarbures » Pipeline qui est utilisé, ou
+or an all-season public highway and that is not alongside         destiné à être utilisé, pour le transport d’hydrocarbures,
+and contiguous to an existing right of way; (nouvelle em-         seuls ou avec tout autre produit. (oil and gas pipeline)
+prise)
+                                                                  « plan d’aménagement à long terme » Tout plan d’amé-
+“nuclear facility” has the meaning assigned in section 2          nagement et d’exploitation d’un centre de ski commer-
+of the Nuclear Safety and Control Act; (installation nu-          cial qui a été établi pour l’approbation du ministre res-
+cléaire)                                                          ponsable de l’Agence Parcs Canada. (long-range
+“nuclear substance” has the meaning assigned in section           development plan)
+2 of the Nuclear Safety and Control Act; (substance nu-           « plan d’eau » Tout plan d’eau jusqu’à la laisse des
+cléaire)                                                          hautes eaux. La présente définition vise notamment les
+“offshore” means located in                                       canaux, les réservoirs, les terres humides et les océans,
+  (a) in a submarine area described in paragraph 3(b) of          mais exclut les étangs de traitement des eaux usées ou
+  the Canada Oil and Gas Operations Act in respect of             des déchets et les étangs de résidus miniers. (water body)
+  which an authorization under that Act is required for           « plan de gestion » Plan de gestion déposé devant chaque
+  the exploration and drilling for, or the production,            chambre du Parlement et concernant un parc national,
+  conservation, processing or transportation of, oil or           une réserve à vocation de parc national, un lieu histo-
+  gas, or                                                         rique national ou un canal historique. (management
+  (b) an area in respect of which an authorization under          plan)
+  the Canada-Newfoundland Atlantic Accord Implemen-               « produit de papier » Produit directement dérivé de la
+  tation Act or the Canada-Nova Scotia Offshore                   pâte, notamment le papier, le papier couché, le carton, le
+  Petroleum Resources Accord Implementation Act is                carton-fibre, le carton pour boîtes, le carton doublure, le
+  required for the exploration and drilling for, or the           carton isolant, le carton de construction, le carton à on-
+  production, conservation, processing or transportation          duler, le papier de soie et les produits de cellulose mou-
+  of, oil or gas; (au large des côtes)                            lée. Ne sont pas visés par la présente définition la vis-
+“oil and gas pipeline” means a pipeline that is used, or is       cose, la rayonne, la cellophane ou tout autre dérivé de la
+to be used, for the transmission of hydrocarbons alone or         cellulose. (paper product)
+with any other commodity; (pipeline d’hydrocarbures)              « refuge d’oiseaux migrateurs » Zone décrite à l’annexe
+“paper product” includes paper, coated paper, paper-              du Règlement sur les refuges d’oiseaux migrateurs. (mi-
+board, hardboard, boxboard, linerboard, insulating                gratory bird sanctuary)
+
+
+
+
+                                                              3
+                                                    SOR/94-638 — October 6, 2010
+
+
+
+
+board, building board, corrugating medium, tissue,                            « réserve à vocation de parc national »
+moulded cellulose product and any other product direct-                         a) Réserve à vocation de parc national nommée et dé-
+ly derived from pulp, but does not include viscose, ray-                        crite à l’annexe 2 de la Loi sur les parcs nationaux du
+on, cellophane or any other cellulose derivative; (produit                      Canada;
+de papier)
+                                                                                b) réserve à vocation de parc national qui est placée
+“pulp” means processed cellulose fibres that are derived                        sous l’autorité de l’Agence Parcs Canada, mais qui
+from wood, other plant material or recycled paper prod-                         n’est pas décrite à l’annexe 2 de la Loi sur les parcs
+ucts; (pâte)                                                                    nationaux du Canada. (national park reserve)
+“pulp and paper mill” means a mill that produces pulp                         « réserve d’espèces sauvages » S’entend au sens de l’ar-
+and paper products, but does not include a mill that pro-                     ticle 2 du Règlement sur les réserves d’espèces sau-
+duces paper products only; (fabrique de pâtes et papiers)                     vages. (wildlife area)
+“right of way” means land that is subject to a right of                       « réserve de faune » [Abrogée, DORS/2006-175, art. 1]
+way and that is developed for an electrical transmission
+line, an oil and gas pipeline, a railway or an all-season                     « réserve foncière » [Abrogée, DORS/2006-175, art. 1]
+public highway; (emprise)                                                     « substance nucléaire » S’entend au sens de l’article 2 de
+“uranium mill” means a mill as defined in section 1 of                        la Loi sur la sûreté et la réglementation nucléaires. (nu-
+the Uranium Mines and Mills Regulations; (usine de                            clear substance)
+concentration d’uranium)                                                      « système de gestion des déchets » S’entend au sens de
+“uranium mine” means a mine, as defined in section 1 of                       l’article 1 du Règlement sur les mines et les usines de
+the Uranium Mines and Mills Regulations; (mine d’ura-                         concentration d’uranium. (waste management system)
+nium)                                                                         « terminal maritime »
+“waste management system” has the meaning assigned                              a) Les lieux qui servent habituellement à l’accostage
+in section 1 of the Uranium Mines and Mills Regula-                             des navires, notamment les quais, les structures en ri-
+tions; (système de gestion des déchets)                                         deaux de palplanches, les jetées, les docks et les terres
+“water body” means any water body, including a canal,                           submergées, ainsi que les aires, l’équipement et les
+reservoir, an ocean and a wetland, up to the high-water                         structures :
+mark, but does not include a sewage or waste treatment                             (i) liés au mouvement des marchandises entre les
+lagoon or a mine tailings pond; (plan d’eau)                                       navires et la terre ferme ainsi que les aires d’entre-
+“wetland” means a swamp, marsh, bog, fen or other land                             posage connexes, y compris les aires, l’équipement
+that is covered by water during at least three consecutive                         et les structures affectés à la réception, à la manu-
+months of the year; (terres humides)                                               tention, à la mise en attente, au regroupement et au
+                                                                                   chargement ou au déchargement de marchandises
+“wildlife area” means wildlife area as defined in section                          transportées par eau,
+2 of the Wildlife Area Regulations. (réserve d’espèces
+sauvages)                                                                          (ii) affectés à la réception, à la mise en attente, au
+SOR/99-439, s. 1; SOR/2003-282, s. 1; SOR/2003-352, s. 1; SOR/2005-335,
+                                                                                   regroupement et à l’embarquement ou au débarque-
+s. 1; SOR/2006-175, ss. 1, 4(F).                                                   ment de passagers transportés par eau;
+                                                                                b) les aires adjacentes aux lieux, aux aires, à l’équipe-
+                                                                                ment et aux structures visés à l’alinéa a) qui sont af-
+                                                                                fectées à leur entretien.
+
+
+
+
+                                                                          4
+                                          DORS/94-638 — 6 octobre 2010
+
+
+
+
+                                                                 La présente définition exclut :
+                                                                   c) les aires de production, de fabrication ou de trans-
+                                                                   formation comportant des installations d’accostage
+                                                                   qui leur sont réservées;
+                                                                   d) les installations d’entreposage liées aux aires vi-
+                                                                   sées à l’alinéa c). (marine terminal)
+                                                                 « terres humides » Marécages, marais ou autres terres qui
+                                                                 sont couverts d’eau durant au moins trois mois consécu-
+                                                                 tifs au cours de l’année. (wetland)
+                                                                 « usine de concentration d’uranium » S’entend d’une
+                                                                 usine de concentration au sens de l’article 1 du Règle-
+                                                                 ment sur les mines et les usines de concentration d’ura-
+                                                                 nium. (uranium mill)
+                                                                 DORS/99-439, art. 1; DORS/2003-282, art. 1; DORS/2003-352, art. 1;
+                                                                 DORS/2005-335, art. 1; DORS/2006-175, art. 1 et 4(F).
+
+                       GENERAL                                                 DISPOSITIONS GÉNÉRALES
+  3. The projects and classes of projects that are set out          3. Les projets et les catégories de projets figurant à
+in the schedule are prescribed projects and classes of           l’annexe sont ceux pour lesquels une étude approfondie
+projects for which a comprehensive study is required.            est obligatoire.
+
+
+
+
+                                                             5
+                                                        SOR/94-638 — October 6, 2010
+
+
+
+
+                                SCHEDULE                                                                       ANNEXE
+                                 (Section 3)                                                                   (article 3)
+
+                  COMPREHENSIVE STUDY LIST                                                       LISTE D’ÉTUDE APPROFONDIE
+
+                                  PART I                                                                       PARTIE I
+
+         NATIONAL PARKS AND PROTECTED AREAS                                              PARCS NATIONAUX ET ZONES PROTÉGÉES
+   1. The proposed construction, decommissioning or abandonment                   1. Projet de construction, de désaffectation ou de fermeture d’un
+in relation to a physical work in or on a national park, national park          ouvrage dans un parc national, une réserve à vocation de parc natio-
+reserve, national historic site or historic canal that is contrary to its       nal, un lieu historique national ou un canal historique qui va à l’en-
+management plan.                                                                contre du plan de gestion du parc, de la réserve, du lieu ou du canal.
+   2. The proposed construction, decommissioning or abandonment,                  2. Projet de construction, de désaffectation ou de fermeture, dans
+in a wildlife area or migratory bird sanctuary, of                              une réserve d’espèces sauvages ou un refuge d’oiseaux migrateurs :
+  (a) an electrical generating station or transmission line;                      a) d’une centrale électrique ou d’une ligne de transport d’électrici-
+                                                                                  té;
+  (b) a dam, dyke, reservoir or other structure for the diversion of
+  water;                                                                          b) d’un barrage, d’une digue, d’un réservoir ou d’une autre struc-
+                                                                                  ture de dérivation des eaux;
+  (c) an oil or gas facility or oil and gas pipeline;
+                                                                                  c) d’une installation pétrolière ou gazière ou d’un pipeline d’hy-
+  (d) a mine or mill;
+                                                                                  drocarbures;
+  (e) a nuclear facility;
+                                                                                  d) d’une mine ou d’une usine;
+  (f) an industrial facility;
+                                                                                  e) d’une installation nucléaire;
+  (g) a canal or lock;
+                                                                                  f) d’une installation industrielle;
+  (h) a marine terminal;
+                                                                                  g) d’un canal ou d’une écluse;
+  (i) a railway line or public highway;
+                                                                                  h) d’un terminal maritime;
+  (j) an aerodrome or runway; or
+                                                                                  i) d’une ligne de chemin de fer ou d’une voie publique;
+  (k) a waste management facility.
+                                                                                  j) d’un aérodrome ou d’une piste;
+                                                                                  k) d’une installation de gestion des déchets.
+   3. The proposed increase in the size of an area that is used for                3. Projet d’augmentation de la superficie d’un terrain qui est utili-
+golfing in a national park or national park reserve, or the proposed in-        sé pour la pratique du golf dans un parc national ou une réserve à vo-
+crease in the number of holes that are used for golfing within such an          cation de parc national, ou projet d’augmentation du nombre de trous
+area.                                                                           qui sont utilisés pour la pratique du golf sur un tel terrain.
+   3.1 The proposed development of a commercial ski area in a na-                 3.1 Projet d’aménagement d’un centre de ski commercial dans un
+tional park or national park reserve:                                           parc national ou une réserve à vocation de parc national qui, selon le
+                                                                                cas :
+  (a) as set out in a long-range development plan that is to be sub-
+  mitted to the Minister responsible for the Parks Canada Agency for              a) figure dans un plan d’aménagement à long terme qui sera sou-
+  approval;                                                                       mis à l’approbation du ministre responsable de l’Agence Parcs
+                                                                                  Canada;
+  (b) that is not consistent with a long-range development plan ap-
+  proved by the Minister responsible for the Parks Canada Agency;                 b) n’est pas conforme au plan d’aménagement à long terme ap-
+  or                                                                              prouvé par le ministre responsable de l’Agence Parcs Canada;
+  (c) that is consistent with a long-range development plan approved              c) est conforme à un plan d’aménagement à long terme approuvé
+  before 1999 but that involves development of currently undevel-                 avant 1999, mais nécessite l’aménagement de terrains actuellement
+  oped, unskied or unserviced terrain.                                            non aménagés, non entretenus pour la pratique du ski ou non en-
+                                                                                  core viabilisés.
+
+
+
+
+                                                                            6
+                                                        DORS/94-638 — 6 octobre 2010
+
+
+
+
+                                  PART II                                                                        PARTIE II
+
+ELECTRICAL GENERATING STATIONS AND TRANSMISSION                                      CENTRALES ÉLECTRIQUES ET LIGNES DE TRANSPORT
+                     LINES                                                                          D’ÉLECTRICITÉ
+     4. The proposed construction, decommissioning or abandonment                    4. Projet de construction, de désaffectation ou de fermeture :
+of
+                                                                                     a) d’une centrale électrique alimentée par un combustible fossile
+     (a) a fossil fuel-fired electrical generating station with a produc-            d’une capacité de production de 200 MW ou plus;
+     tion capacity of 200 MW or more; or
+                                                                                     b) d’une centrale hydroélectrique d’une capacité de production de
+     (b) a hydroelectric generating station with a production capacity of            200 MW ou plus.
+     200 MW or more.
+     5. The proposed expansion of                                                    5. Projet d’agrandissement :
+     (a) a fossil fuel-fired electrical generating station that would result         a) d’une centrale électrique alimentée par un combustible fossile
+     in an increase in production capacity of 50 per cent or more and                qui entraînerait une augmentation de la capacité de production d’au
+     200 MW or more; or                                                              moins 50 pour cent et d’au moins 200 MW;
+     (b) a hydroelectric generating station that would result in an in-              b) d’une centrale hydroélectrique qui entraînerait une augmenta-
+     crease in production capacity of 50 per cent or more and 200 MW                 tion de la capacité de production d’au moins 50 pour cent et d’au
+     or more.                                                                        moins 200 MW.
+   6. The proposed construction, decommissioning or abandonment                       6. Projet de construction, de désaffectation ou de fermeture d’une
+of a tidal power electrical generating station with a production capac-            centrale électrique marémotrice d’une capacité de production de 5
+ity of 5 MW or more, or an expansion of such a station that would                  MW ou plus, ou projet d’agrandissement d’une telle centrale qui en-
+result in an increase in production capacity of more than 35 per cent.             traînerait une augmentation de la capacité de production de plus de
+                                                                                   35 pour cent.
+  7. The proposed construction of an electrical transmission line                     7. Projet de construction, sur une nouvelle emprise, d’une ligne de
+with a voltage of 345 kV or more that is 75 km or more in length on a              transport d’électricité d’une tension de 345 kV ou plus et d’une lon-
+new right of way.                                                                  gueur de 75 km ou plus.
+
+                                  PART III                                                                      PARTIE III
+
+                           WATER PROJECTS                                                              PROJETS HYDRAULIQUES
+   8. The proposed construction, decommissioning or abandonment                      8. Projet de construction, de désaffectation ou de fermeture d’un
+of a dam or dyke that would result in the creation of a reservoir with             barrage ou d’une digue qui entraînerait la création d’un réservoir dont
+a surface area that would exceed the annual mean surface area of a                 la superficie dépasserait la superficie moyenne annuelle du plan
+natural water body by 1500 hectares or more, or an expansion of a                  d’eau naturel de 1 500 hectares ou plus, ou projet d’agrandissement
+dam or dyke that would result in an increase in the surface area of a              d’un barrage ou d’une digue qui entraînerait une augmentation de la
+reservoir of more than 35 per cent.                                                superficie du réservoir de plus de 35 pour cent.
+   9. The proposed construction, decommissioning or abandonment                       9. Projet de construction, de désaffectation ou de fermeture d’une
+of a structure for the diversion of 10 000 000 m3/a or more of water               structure destinée à dériver 10 000 000 m3/a ou plus d’eau d’un plan
+from a natural water body into another natural water body or an ex-                d’eau naturel dans un autre, ou projet d’agrandissement d’une telle
+pansion of such a structure that would result in an increase in diver-             structure qui entraînerait une augmentation de la capacité de dériva-
+sion capacity of more than 35 per cent.                                            tion de plus de 35 pour cent.
+   10. The proposed construction, decommissioning or abandonment                      10. Projet de construction, de désaffectation ou de fermeture d’une
+of a facility for the extraction of 200 000 m3/a or more of ground wa-             installation destinée à extraire 200 000 m3/a ou plus d’eau souter-
+ter or an expansion of such a facility that would result in an increase            raine, ou projet d’agrandissement d’une telle installation qui entraîne-
+in production capacity of more than 35 per cent.                                   rait une augmentation de la capacité de production de plus de 35 pour
+                                                                                   cent.
+
+                                  PART IV                                                                       PARTIE IV
+
+                        OIL AND GAS PROJECTS                                                      PROJETS PÉTROLIERS ET GAZIERS
+     11. The proposed construction, decommissioning or abandonment                   11. Projet de construction, de désaffectation ou de fermeture :
+of
+                                                                                     a) [Abrogé, DORS/2003-282, art. 2]
+     (a) [Repealed, SOR/2003-282, s. 2]
+
+
+
+
+                                                                               7
+                                                       SOR/94-638 — October 6, 2010
+
+
+
+
+  (b) a heavy oil or oil sands processing facility with an oil produc-              b) d’une installation de traitement d’huile lourde ou de sables bitu-
+  tion capacity of more than 10 000 m3/d; or                                        mineux d’une capacité de production de pétrole de plus de 10 000
+                                                                                    m3/d;
+  (c) an oil sands mine with a bitumen production capacity of more
+  than 10 000 m3/d.                                                                 c) d’une mine de sables bitumineux dont la capacité de production
+                                                                                    de bitume est supérieure à 10 000 m3/d.
+  11.1 The proposed construction or installation of a facility for the              11.1 Projet de construction ou de mise sur pied d’une installation
+production of oil or gas, if the facility is located offshore and                 de production de pétrole ou de gaz au large des côtes :
+  (a) is outside the limits of a study area delineated in                           a) qui est située à l’extérieur des limites de toute zone d’étude éta-
+                                                                                    blies dans l’une des évaluations environnementales suivantes :
+     (i) an environmental assessment of a project for the offshore
+     production of oil or gas that was conducted by a review panel or                  (i) celle visant un projet de production de pétrole ou de gaz au
+     as a comprehensive study under the Canadian Environmental                         large des côtes et effectuée sous forme d’étude approfondie ou
+     Assessment Act, or                                                                par une commission sous le régime de la Loi canadienne sur
+                                                                                       l’évaluation environnementale,
+     (ii) an environmental assessment of a proposal for the offshore
+     production of oil or gas that was conducted by a Panel under the                  (ii) celle visant une proposition de production de pétrole ou de
+     Environmental Assessment Review Process Guidelines Order; or                      gaz au large des côtes et effectuée par une commission sous le
+                                                                                       régime du Décret sur les lignes directrices visant le processus
+  (b) is inside the limits of a study area delineated in an environ-
+                                                                                       d’évaluation et d’examen en matière d’environnement;
+  mental assessment described in subparagraphs (a)(i) or (ii) and is
+  not connected by an offshore oil and gas pipeline to a previously                 b) qui est située à l’intérieur des limites de toute zone d’étude éta-
+  assessed facility in the study area.                                              blies dans toute évaluation environnementale mentionnée aux
+                                                                                    sous-alinéas a)(i) et (ii), mais qui n’est pas reliée par un pipeline
+                                                                                    d’hydrocarbures au large des côtes à une installation précédem-
+                                                                                    ment évaluée dans la zone d’étude.
+   11.2 The proposed decommissioning or abandonment of a facility                   11.2 Projet de désaffectation ou de fermeture d’une installation de
+for the production of oil or gas if the facility is located offshore and it       production de pétrole ou de gaz située au large des côtes, dans le cas
+is proposed that the facility be disposed of or abandoned offshore or             où il est proposé d’en disposer ou de la fermer au large des côtes, ou
+converted on site to another role.                                                d’en modifier la vocation sur place.
+   12. The proposed expansion of a heavy oil or oil sands processing                 12. Projet d’agrandissement d’une installation de traitement
+facility that would result in an increase in oil production capacity that         d’huile lourde ou de sables bitumineux qui entraînerait une augmen-
+would exceed 5 000 m3/d and would raise the total oil production ca-              tation de la capacité de production de pétrole de plus de 5 000 m3/d et
+pacity to more than 10 000 m3/d.                                                  qui ferait passer la capacité de production totale de pétrole à plus de
+                                                                                  10 000 m3/d.
+   13. The proposed construction, decommissioning or abandonment,                   13. Projet de construction, de désaffectation ou de fermeture, ou
+or an expansion that would result in an increase in production capaci-            projet d’agrandissement entraînant une augmentation de la capacité
+ty of more than 35 per cent, of                                                   de production de plus de 35 pour cent :
+  (a) an oil refinery, including a heavy oil upgrader, with an input                a) d’une raffinerie de pétrole, y compris une usine de valorisation
+  capacity of more than 10 000 m3/d;                                                d’huile lourde, d’une capacité d’admission de plus de 10 000 m3/d;
+  (b) a facility for the production of liquid petroleum products from               b) d’une installation de production de produits pétroliers liquides,
+  coal with a production capacity of more than 2 000 m3/d;                          à partir du charbon, d’une capacité de production de plus de 2 000
+                                                                                    m3/d;
+  (c) a sour gas processing facility with a sulphur inlet capacity of
+  more than 2 000 t/d;                                                              c) d’une installation de traitement de gaz sulfureux d’une capacité
+                                                                                    d’admission de soufre de plus de 2 000 t/d;
+  (d) a facility for the liquefaction, storage or regasification of lique-
+  fied natural gas, with a liquefied natural gas processing capacity of             d) d’une installation de liquéfaction, de stockage ou de regazéifi-
+  more than 3 000 t/d or a liquefied natural gas storage capacity of                cation de gaz naturel liquéfié d’une capacité de traitement de gaz
+  more than 50 000 t;                                                               naturel liquéfié de plus de 3 000 t/d ou d’une capacité de stockage
+                                                                                    de gaz naturel liquéfié de plus de 50 000 t;
+  (e) a petroleum storage facility with a capacity of more than 500
+  000 m3; or                                                                        e) d’une installation de stockage de pétrole d’une capacité de plus
+                                                                                    de 500 000 m3;
+  (f) a liquefied petroleum gas storage facility with a capacity of
+  more than 100 000 m3.                                                             f) d’une installation de stockage de gaz de pétrole liquéfié d’une
+                                                                                    capacité de plus de 100 000 m3.
+  14. The proposed construction of                                                  14. Projet de construction :
+
+
+
+
+                                                                              8
+                                                       DORS/94-638 — 6 octobre 2010
+
+
+
+
+     (a) an oil and gas pipeline more than 75 km in length on a new               a) d’un pipeline d’hydrocarbures d’une longueur de plus de 75 km
+     right of way; or                                                             sur une nouvelle emprise;
+     (b) an offshore oil and gas pipeline, if any portion of the pipeline         b) d’un pipeline d’hydrocarbures au large des côtes, dont l’une des
+     is outside the limits of a study area delineated in                          parties est située à l’extérieur des limites de toute zone d’étude éta-
+                                                                                  blies dans l’une des évaluations environnementales suivantes :
+       (i) an environmental assessment of a project for the offshore
+       production of oil or gas that was conducted by a review panel or             (i) celle visant un projet de production de pétrole ou de gaz au
+       as a comprehensive study under the Canadian Environmental                    large des côtes et effectuée sous forme d’étude approfondie ou
+       Assessment Act, or                                                           par une commission sous le régime de la Loi canadienne sur
+                                                                                    l’évaluation environnementale,
+       (ii) an environmental assessment of a proposal for the offshore
+       production of oil or gas that was conducted by a Panel under the             (ii) celle visant une proposition de production de pétrole ou de
+       Environmental Assessment Review Process Guidelines Order.                    gaz au large des côtes et effectuée par une commission sous le
+                                                                                    régime du Décret sur les lignes directrices visant le processus
+                                                                                    d’évaluation et d’examen en matière d’environnement.
+     15. [Repealed, SOR/2005-335, s. 2]                                           15. [Abrogé, DORS/2005-335, art. 2]
+
+                                  PART V                                                                      PARTIE V
+
+              MINERALS AND MINERAL PROCESSING                                            MINERAIS ET TRAITEMENT DES MINERAIS
+     16. The proposed construction, decommissioning or abandonment                16. Projet de construction, de désaffectation ou de fermeture :
+of
+                                                                                  a) d’une mine métallifère, autre qu’une mine d’or, d’une capacité
+     (a) a metal mine, other than a gold mine, with an ore production             de production de minerai de 3 000 t/d ou plus;
+     capacity of 3 000 t/d or more;
+                                                                                  b) d’une usine métallurgique d’une capacité d’admission de mine-
+     (b) a metal mill with an ore input capacity of 4 000 t/d or more;            rai de 4 000 t/d ou plus;
+     (c) a gold mine, other than a placer mine, with an ore production            c) d’une mine d’or, autre qu’un placer, d’une capacité de produc-
+     capacity of 600 t/d or more;                                                 tion de minerai de 600 t/d ou plus;
+     (d) a coal mine with a coal production capacity of 3 000 t/d or              d) d’une mine de charbon d’une capacité de production de char-
+     more; or                                                                     bon de 3 000 t/d ou plus;
+     (e) a potash mine with a potassium chloride production capacity of           e) d’une mine de potasse d’une capacité de production de chlorure
+     1 000 000 t/a or more.                                                       de potassium de 1 000 000 t/a ou plus.
+     17. The proposed expansion of                                                17. Projet d’agrandissement :
+     (a) an existing metal mine, other than a gold mine, that would re-           a) d’une mine métallifère existante, autre qu’une mine d’or, qui
+     sult in an increase in its ore production capacity of 50 per cent or         entraînerait une augmentation de la capacité de production de mi-
+     more, or 1 500 t/d or more, if the increase would raise the total ore        nerai de 50 pour cent ou plus ou de 1 500 t/d ou plus, si l’augmen-
+     production capacity to 3 000 t/d or more;                                    tation faisait passer la capacité de production totale de minerai à
+                                                                                  3 000 t/d ou plus;
+     (b) an existing metal mill that would result in an increase in its ore
+     input capacity of 50 per cent or more, or 2 000 t/d or more, if the          b) d’une usine métallurgique existante qui entraînerait une aug-
+     increase would raise the total ore input capacity to 4 000 t/d or            mentation de la capacité d’admission de minerai de 50 pour cent
+     more;                                                                        ou plus ou de 2 000 t/d ou plus, si l’augmentation faisait passer la
+                                                                                  capacité d’admission totale de minerai à 4 000 t/d ou plus;
+     (c) an existing gold mine, other than a placer mine, that would re-
+     sult in an increase in its ore production capacity of 50 per cent or         c) d’une mine d’or existante, autre qu’un placer, qui entraînerait
+     more, or 300 t/d or more, if the increase would raise the total ore          une augmentation de la capacité de production de minerai de 50
+     production capacity to 600 t/d or more;                                      pour cent ou plus ou de 300 t/d ou plus, si l’augmentation faisait
+                                                                                  passer la capacité de production totale de minerai à 600 t/d ou plus;
+     (d) an existing coal mine that would result in an increase in its
+     coal production capacity of 50 per cent or more, or 1 500 t/d or             d) d’une mine de charbon existante qui entraînerait une augmenta-
+     more, if the increase would raise the total coal production capacity         tion de la capacité de production de charbon de 50 pour cent ou
+     to 3 000 t/d or more; or                                                     plus ou de 1 500 t/d ou plus, si l’augmentation faisait passer la ca-
+                                                                                  pacité de production totale de charbon à 3 000 t/d ou plus;
+     (e) an existing potash mine that would result in an increase in its
+     potassium chloride production capacity of 50 per cent or more, or            e) d’une mine de potasse existante qui entraînerait une augmenta-
+     500 000 t/a or more, if the increase would raise the total potassium         tion de la capacité de production de chlorure de potassium de 50
+     chloride production capacity to 1 000 000 t/a or more.                       pour cent ou plus ou de 500 000 t/a ou plus, si l’augmentation fai-
+                                                                                  sait passer la capacité de production totale de chlorure de potas-
+                                                                                  sium à 1 000 000 t/a ou plus.
+
+
+
+
+                                                                              9
+                                                      SOR/94-638 — October 6, 2010
+
+
+
+
+   18. The proposed construction, decommissioning or abandonment,                    18. Projet de construction, de désaffectation ou de fermeture, ou
+or an expansion that would result in an increase in production capaci-            projet d’agrandissement qui entraînerait une augmentation de la capa-
+ty of more than 35 per cent, of                                                   cité de production de plus de 35 pour cent :
+  (a) an asbestos mine;                                                             a) d’une mine d’amiante;
+  (b) a salt mine with a brine production capacity of 4 000 t/d or                  b) d’une mine de sel d’une capacité de production de saumure de
+  more;                                                                             4 000 t/d ou plus;
+  (c) an underground salt mine with a production capacity of 20 000                 c) d’une mine de sel souterraine d’une capacité de production de
+  t/d or more;                                                                      20 000 t/d ou plus;
+  (d) a graphite mine with a production capacity of 1 500 t/d or                    d) d’une mine de graphite d’une capacité de production de 1 500 t/
+  more;                                                                             d ou plus;
+  (e) a gypsum mine with a production capacity of 4 000 t/d or                      e) d’une mine de gypse d’une capacité de production de 4 000 t/d
+  more;                                                                             ou plus;
+  (f) a magnesite mine with a production capacity of 1 500 t/d or                   f) d’une mine de magnésite d’une capacité de production de 1 500
+  more;                                                                             t/d ou plus;
+  (g) a limestone mine with a production capacity of 12 000 t/d or                  g) d’une mine de pierre à chaux d’une capacité de production de
+  more;                                                                             12 000 t/d ou plus;
+  (h) a clay mine with a production capacity of 20 000 t/d or more;                 h) d’une mine d’argile d’une capacité de production de 20 000 t/d
+                                                                                    ou plus;
+  (i) a stone quarry or gravel or sand pit with a production capacity
+  of 1 000 000 t/a or more; or                                                      i) d’une carrière de pierre, de gravier ou de sable d’une capacité de
+                                                                                    production de 1 000 000 t/a ou plus;
+  (j) a metal mine located offshore or on the ocean bed.
+                                                                                    j) d’une mine métallifère située au large des côtes ou sur le fond
+                                                                                    marin.
+
+                               PART VI                                                                         PARTIE VI
+
+             NUCLEAR AND RELATED FACILITIES                                            INSTALLATIONS NUCLÉAIRES ET INSTALLATIONS
+                                                                                                       CONNEXES
+   19. The proposed construction, decommissioning or abandonment,                    19. Projet de construction, de désaffectation ou de fermeture, ou
+or an expansion that would result in an increase in production capaci-            projet d’agrandissement qui entraînerait une augmentation de la capa-
+ty of more than 35 per cent, of                                                   cité de production de plus de 35 pour cent :
+  (a) a uranium mine, a uranium mill or a waste management sys-                     a) d’une mine d’uranium, d’une installation de concentration d’u-
+  tem any of which is on a site that is not within the boundaries of an             ranium ou d’un système de gestion des déchets, sur un site à l’exté-
+  existing licensed uranium mine or mill;                                           rieur des limites d’une mine d’uranium ou d’une installation de
+                                                                                    concentration d’uranium agréées existantes;
+  (b) a uranium mine, a uranium mill or a waste management sys-
+  tem any of which is on a site that is within the boundaries of an                 b) d’une mine d’uranium, d’une installation de concentration d’u-
+  existing licensed uranium mine or mill, if the proposal involves                  ranium ou d’un système de gestion des déchets, sur un site à l’inté-
+  processes for milling or uranium tailings management that are not                 rieur des limites d’une mine d’uranium ou d’une installation de
+  authorized under the existing licence;                                            concentration d’uranium agréées existantes, si le projet met en
+                                                                                    cause des procédés d’extraction de l’uranium ou de gestion des ré-
+  (c) a Class IB nuclear facility for the refining or conversion of ura-
+                                                                                    sidus d’uranium qui ne sont pas autorisés par la licence existante;
+  nium that has a uranium production capacity of more than 100 t/a;
+                                                                                    c) d’une installation nucléaire de catégorie IB destinée au raffi-
+  (d) a Class IA nuclear facility that is a nuclear fission reactor that
+                                                                                    nage ou à la conversion d’uranium et ayant une capacité de pro-
+  has a production capacity of more than 25 MW (thermal);
+                                                                                    duction de plus de 100 t/a;
+  (e) a Class IB nuclear facility that is a plant for the production of
+                                                                                    d) d’une installation nucléaire de catégorie IA qui est un réacteur à
+  deuterium or deuterium compounds using hydrogen sulphide that
+                                                                                    fission nucléaire d’une capacité de production de plus de 25 MW
+  has a production capacity of more than 10 t/a;
+                                                                                    (énergie thermique);
+  (f) a Class IB nuclear facility for the processing of irradiated nu-
+                                                                                    e) d’une installation nucléaire de catégorie IB qui est une usine
+  clear fuel with an irradiated nuclear fuel input capacity of more
+                                                                                    produisant du deutérium ou des composés du deutérium à l’aide
+  than 100 t/a;
+                                                                                    d’hydrogène sulfuré et qui a une capacité de production de plus de
+  (g) a Class IB nuclear facility that is on a site that is not within the          10 t/a;
+  boundaries of an existing licensed nuclear facility and is for
+
+
+
+
+                                                                             10
+                                                     DORS/94-638 — 6 octobre 2010
+
+
+
+
+     (i) the storage of irradiated nuclear fuel, where the facility has          f) d’une installation nucléaire de catégorie IB qui est une installa-
+     an irradiated nuclear fuel inventory capacity of more than 500 t,           tion de traitement du combustible nucléaire irradié d’une capacité
+                                                                                 d’admission de combustible nucléaire irradié de plus de 100 t/a;
+     (ii) the processing or storage of radioactive waste other than ir-
+     radiated nuclear fuel, where                                                g) d’une installation nucléaire de catégorie IB qui est située sur un
+                                                                                 site à l’extérieur des limites d’une installation nucléaire agréée
+       (A) the activity of the throughput of radioactive material with
+                                                                                 existante et qui est destinée, selon le cas :
+       a half-life greater than one year is more than 1 PBq/a (1015
+       Bq/a), or                                                                   (i) au stockage du combustible nucléaire irradié, si elle a une
+                                                                                   capacité de stockage de combustible nucléaire irradié de plus de
+       (B) the activity of the inventory of radioactive material with a
+                                                                                   500 t,
+       half-life greater than one year is more than 1 PBq (1015), or
+                                                                                   (ii) au traitement ou au stockage de déchets radioactifs autres
+     (iii) the disposal of radioactive nuclear substances.
+                                                                                   que le combustible nucléaire irradié si, selon le cas :
+                                                                                      (A) l’activité du traitement effectif des matières radioactives
+                                                                                      d’une période radioactive supérieure à un an correspond à
+                                                                                      plus de 1 PBq/a (1015 Bq/a),
+                                                                                      (B) l’activité du stock de matières radioactives d’une période
+                                                                                      radioactive supérieure à un an correspond à plus de 1 PBq
+                                                                                      (1015 Bq),
+                                                                                   (iii) à la disposition de substances nucléaires radioactives.
+
+                              PART VII                                                                     PARTIE VII
+
+                     INDUSTRIAL FACILITIES                                                    INSTALLATIONS INDUSTRIELLES
+   20. The proposed construction, decommissioning or abandonment                 20. Projet de construction, de désaffectation ou de fermeture d’une
+of a pulp mill or pulp and paper mill.                                         fabrique de pâtes ou d’une fabrique de pâtes et papiers.
+   21. The proposed expansion of a pulp mill or pulp and paper mill               21. Projet d’agrandissement d’une fabrique de pâtes ou d’une fa-
+that would result in an increase in its production capacity of more            brique de pâtes et papiers qui entraînerait une augmentation de la ca-
+than 35 per cent and more than 100 t/d.                                        pacité de production de plus de 35 pour cent et de plus de 100 t/d.
+   22. The proposed construction, decommissioning or abandonment,                22. Projet de construction, de désaffectation ou de fermeture, ou
+or an expansion that would result in an increase in its production ca-         projet d’agrandissement entraînant une augmentation de la capacité
+pacity of more than 35 per cent, of                                            de production de plus de 35 pour cent :
+  (a) a facility for the production of primary steel with a metal pro-           a) d’une installation de production d’acier primaire d’une capacité
+  duction capacity of 5 000 t/d or more;                                         de production de métal de 5 000 t/d ou plus;
+  (b) an industrial facility for the commercial production of non-fer-           b) d’une installation industrielle de production commerciale de
+  rous metals or light metals by pyrometallurgy or high temperature              métaux non ferreux ou de métaux légers par traitement pyrométal-
+  electrometallurgy;                                                             lurgique ou traitement électrométallurgique à haute température;
+  (c) a non-ferrous metal smelter located in the Yukon Territory or              c) d’une fonderie de métaux non ferreux située au Yukon ou dans
+  Northwest Territories;                                                         les Territoires du Nord-Ouest;
+  (d) a facility for the manufacture of chemical products with a pro-            d) d’une installation de fabrication de produits chimiques d’une
+  duction capacity of 250 000 t/a or more;                                       capacité de production de 250 000 t/a ou plus;
+  (e) a facility for the manufacture of pharmaceutical products with             e) d’une installation de fabrication de produits pharmaceutiques
+  a production capacity of 200 t/a or more;                                      d’une capacité de production de 200 t/a ou plus;
+  (f) a facility for the manufacture of wood products that are pres-             f) d’une installation de fabrication de produits du bois traités sous
+  sure-treated with chemical products, with a production capacity of             pression avec des produits chimiques d’une capacité de production
+  50 000 m3/a or more;                                                           de 50 000 m3/a ou plus;
+  (g) a facility for the manufacture of plywood or particle board                g) d’une installation de fabrication de contreplaqué ou de pan-
+  with a production capacity of 100 000 m3/a or more;                            neaux de particules d’une capacité de production de 100 000 m3/a
+                                                                                 ou plus;
+  (h) a facility for the production of respirable natural mineral fi-
+  bres;                                                                          h) d’une installation de production de fibres minérales naturelles
+                                                                                 inhalables;
+  (i) a leather tannery with a production capacity of 500 000 m /a or
+                                                                 2
+
+  more;                                                                          i) d’une tannerie d’une capacité de production de 500 000 m2/a ou
+                                                                                 plus;
+
+
+
+
+                                                                          11
+                                                         SOR/94-638 — October 6, 2010
+
+
+
+
+     (j) a facility for the manufacture of primary textiles with a produc-           j) d’une installation de fabrication de textiles primaires d’une ca-
+     tion capacity of 50 000 t/a or more;                                            pacité de production de 50 000 t/a ou plus;
+     (k) a factory for the manufacture of chemical explosives employ-                k) d’une usine de fabrication d’explosifs chimiques faisant appel à
+     ing chemical processes; or                                                      des procédés chimiques;
+     (l) a facility for the manufacture of lead-acid batteries.                      l) d’une installation de fabrication d’accumulateurs au plomb.
+
+                                 PART VIII                                                                     PARTIE VIII
+
+                                 DEFENCE                                                                         DÉFENSE
+     23. The proposed construction outside an existing military base of              23. Projets de construction à l’extérieur d’une base militaire
+                                                                                   existante :
+     (a) a military base or station; or
+                                                                                     a) d’une base ou station militaire;
+     (b) a training area, range or test establishment for military training
+     or weapons testing.                                                             b) d’un secteur d’entraînement, d’un champ de tir ou d’un centre
+                                                                                     d’essai et d’expérimentation pour l’entraînement militaire ou l’es-
+                                                                                     sai d’armes.
+   24. The proposed expansion of a military base or station that                      24. Projet d’agrandissement d’une base ou d’une station militaire
+would result in an increase in the area of the military base or station            qui entraînerait une augmentation de plus de 25 pour cent de la super-
+of more than 25 per cent, or an increase in the cumulative floor area              ficie de la base ou de la station, ou une augmentation de plus de 25
+of existing buildings located on the military base or station of more              pour cent de la surface de plancher cumulative des bâtiments exis-
+than 25 per cent.                                                                  tants situés sur la base ou la station.
+     25. The proposed decommissioning of a military base or station.                 25. Projet de désaffectation d’une base ou d’une station militaire.
+   26. The proposed testing of weapons for more than five days in a                   26. Projet d’essai d’armes effectué pendant plus de cinq jours au
+calendar year in an area other than those training areas, ranges and               cours d’une année civile dans toute zone, autre qu’un secteur d’en-
+test establishments established under the authority of the Minister of             traînement, un champ de tir ou un centre d’essai et d’expérimentation
+National Defence for the testing of weapons prior to the coming into               établi pour la mise à l’essai d’armes avant la date d’entrée en vigueur
+force of these Regulations.                                                        du présent règlement par le ministre de la Défense nationale ou sous
+                                                                                   son autorité.
+   27. The proposed low-level flying of military fixed-wing jet air-                  27. Projet de vols à basse altitude au moyen d’avions à réaction
+craft for more than 150 days in a calendar year as part of a training              militaires à voilure fixe, pour des programmes d’entraînement,
+program at an altitude below 330 m above ground level on a route or                lorsque les vols se déroulent à une altitude inférieure à 330 m au-des-
+in an area that is not established by or under the authority of the Min-           sus du niveau du sol sur des routes ou dans des zones qui ne sont pas
+ister of National Defence or the Chief of the Defence Staff as a route             établies comme routes ou zones réservées à l’entraînement au vol à
+or area set aside for low-level flying training prior to the coming into           basse altitude avant la date d’entrée en vigueur du présent règlement
+force of these Regulations.                                                        par le ministre de la Défense nationale ou le chef d’état-major de la
+                                                                                   défense, ou sous son autorité, lorsque les vols se déroulent pendant
+                                                                                   plus de 150 jours au cours d’une année civile.
+
+                                  PART IX                                                                       PARTIE IX
+
+                           TRANSPORTATION                                                                     TRANSPORTS
+     28. The proposed construction, decommissioning or abandonment                   28. Projet de construction, de désaffectation ou de fermeture :
+of
+                                                                                     a) d’un canal, ou de toute écluse ou structure connexe pour
+     (a) a canal or any lock or associated structure to control water lev-           contrôler le niveau d’eau du canal;
+     els in the canal;
+                                                                                     b) d’une écluse ou d’une structure connexe pour contrôler le ni-
+     (b) a lock or associated structure to control water levels in existing          veau d’eau dans des voies navigables existantes;
+     navigable waterways; or
+                                                                                     c) d’un terminal maritime conçu pour recevoir des navires de plus
+     (c) a marine terminal designed to handle vessels larger than 25                 de 25 000 TPL, sauf s’il est situé sur des terres qui sont utilisées de
+     000 DWT unless the terminal is located on lands that are routinely              façon courante comme terminal maritime et qui l’ont été par le
+     and have been historically used as a marine terminal or that are                passé ou que destine à une telle utilisation un plan d’utilisation des
+     designated for such use in a land-use plan that has been the subject            terres ayant fait l’objet de consultations publiques.
+     of public consultation.
+     29. The proposed construction of                                                29. Projet de construction :
+
+
+
+
+                                                                              12
+                                                        DORS/94-638 — 6 octobre 2010
+
+
+
+
+  (a) a railway line more than 32 km in length on a new right of                      a) d’une ligne de chemin de fer d’une longueur de plus de 32 km
+  way;                                                                                sur une nouvelle emprise;
+  (b) an all-season public highway that will be more than 50 km in                    b) d’une voie publique utilisable en toute saison d’une longueur de
+  length and either will be located on a new right-of-way or will lead                plus de 50 km située sur une nouvelle emprise ou menant à une
+  to a community that lacks all-season public highway access; or                      collectivité n’ayant pas accès à une telle voie publique;
+  (c) a railway line designed for trains that have an average speed of                c) d’une ligne de chemin de fer conçue pour des trains dont la vi-
+  more than 200 km/h.                                                                 tesse moyenne est de plus de 200 km/h.
+  30. The proposed construction or decommissioning of                                 30. Projet de construction ou de désaffectation :
+  (a) an aerodrome located within the built-up area of a city or                      a) d’un aérodrome situé à l’intérieur de la zone bâtie d’une ville;
+  town;
+                                                                                      b) d’un aéroport;
+  (b) an airport; or
+                                                                                      c) d’une piste utilisable en toute saison d’une longueur de 1 500 m
+  (c) an all-season runway with a length of 1 500 m or more.                          ou plus.
+ 31. The proposed extension of an all-season runway by 1 500 m or                     31. Projet de prolongement de 1 500 m ou plus d’une piste utili-
+more.                                                                               sable en toute saison.
+
+                                 PART X                                                                            PARTIE X
+
+                       WASTE MANAGEMENT                                                                   GESTION DES DÉCHETS
+   32. The proposed construction, decommissioning or abandonment                       32. Projet de construction, de désaffectation ou de fermeture d’une
+of a facility used exclusively for the treatment, incineration, disposal            installation utilisée exclusivement pour le traitement, l’incinération,
+or recycling of hazardous waste, or an expansion of such a facility                 l’élimination ou le recyclage de déchets dangereux, ou projet
+that would result in an increase in its production capacity of more                 d’agrandissement d’une telle installation qui entraînerait une aug-
+than 35 per cent.                                                                   mentation de la capacité de production de plus de 35 pour cent.
+SOR/99-439, ss. 2 to 7; SOR/2003-282, ss. 2 to 5; SOR/2003-352, ss. 2, 3(F),        DORS/99-439, art. 2 à 7; DORS/2003-282, art. 2 à 5; DORS/2003-352, art. 2,
+4; SOR/2005-335, s. 2; SOR/2006-175, ss. 2(F), 3, 4(F).                             3(F) et 4; DORS/2005-335, art. 2; DORS/2006-175, art. 2(F), 3 et 4(F).
+
+
+
+
+                                                                               13
+

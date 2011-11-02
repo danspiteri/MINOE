@@ -1,0 +1,713 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+    Prohibition of Certain                                           Règlement sur certaines
+      Toxic Substances                                                substances toxiques
+      Regulations, 2005                                                 interdites (2005)
+
+                      SOR/2005-41                                                       DORS/2005-41
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published            31. (1) Every copy of a consolidated statute or             31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies       (3) In the event of an inconsistency between a             (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                                 Enregistrement
+SOR/2005-41 February 15, 2005                                DORS/2005-41 Le 15 février 2005
+CANADIAN ENVIRONMENTAL PROTECTION ACT,                       LOI CANADIENNE SUR LA PROTECTION DE
+1999                                                         L’ENVIRONNEMENT (1999)
+
+Prohibition of Certain Toxic Substances Regulations,         Règlement sur              certaines   substances   toxiques
+2005                                                         interdites (2005)
+
+P.C. 2005-187 February 15, 2005                              C.P. 2005-187 Le 15 février 2005
+
+   Whereas, pursuant to subsection 332(1)a of the Cana-         Attendu que, conformément au paragraphe 332(1)a de
+dian Environmental Protection Act, 1999b, the Minister       la Loi canadienne sur la protection de l’environnement
+of the Environment published in the Canada Gazette,          (1999)b, le ministre de l’Environnement a fait publier
+Part I, on April 3, 2004, a copy of the proposed Prohibi-    dans la Gazette du Canada Partie I, le 3 avril 2004, sous
+tion of Certain Toxic Substances Regulations, 2005 un-       le titre Règlement sur l’interdiction totale, partielle ou
+der the title Total, Partial or Conditional Prohibition of   conditionnelle relative à certaines substances toxiques,
+Certain Toxic Substances Regulations, substantially in       le projet de règlement intitulé Règlement sur certaines
+the annexed form, and persons were given an opportuni-       substances toxiques interdites (2005), conforme en sub-
+ty to file comments with respect to the proposed Regula-     stance au texte ci-après, et que les intéressés ont ainsi eu
+tions or to file a notice of objection requesting that a     la possibilité de présenter leurs observations à cet égard
+board of review be established and stating the reasons       ou un avis d’opposition motivé demandant la constitu-
+for the objection;                                           tion d’une commission de révision;
+  Whereas, pursuant to subsection 93(3) of that Act, the        Attendu que, conformément au paragraphe 93(3) de
+National Advisory Committee has been given an oppor-         cette loi, le comité consultatif national s’est vu accorder
+tunity to provide its advice under section 6 of that Act;    la possibilité de formuler ses conseils dans le cadre de
+                                                             l’article 6 de celle-ci;
+   And whereas, in the opinion of the Governor in Coun-        Attendu que la gouverneure en conseil est d’avis que,
+cil, pursuant to subsection 93(4) of that Act, the pro-      aux termes du paragraphe 93(4) de cette loi, le projet de
+posed Regulations do not regulate an aspect of a sub-        règlement ne vise pas un point déjà réglementé sous le
+stance that is regulated by or under any other Act of        régime d’une autre loi fédérale de manière à offrir une
+Parliament in a manner that provides, in the opinion of      protection suffisante pour l’environnement et la santé
+the Governor in Council, sufficient protection to the en-    humaine,
+vironment and human health;
+   Therefore, Her Excellency the Governor General in            À ces causes, sur recommandation du ministre de
+Council, pursuant to subsection 93(1) of the Canadian        l’Environnement et du ministre de la Santé et en vertu du
+Environmental Protection Act, 1999b, on the recommen-        paragraphe 93(1) de la Loi canadienne sur la protection
+dation of the Minister of the Environment and the Minis-     de l’environnement (1999)b, Son Excellence la Gouver-
+ter of Health, hereby makes the annexed Prohibition of       neure générale en conseil prend le Règlement sur cer-
+Certain Toxic Substances Regulations, 2005.                  taines substances toxiques interdites (2005), ci-après.
+
+
+
+a                                                             a 
+     S.C. 2004, c. 15, s. 31                                       L.C. 2004, ch. 15, art. 31
+b                                                             b 
+     S.C. 1999, c. 33                                              L.C. 1999, ch. 33
+PROHIBITION OF CERTAIN TOXIC SUBSTANCES                            RÈGLEMENT SUR CERTAINES SUBSTANCES
+   REGULATIONS, 2005                                                  TOXIQUES INTERDITES (2005)
+
+                     APPLICATION                                                       APPLICATION
+  1. Subject to sections 2 and 3, these Regulations ap-              1. Sous réserve des articles 2 et 3, le présent règle-
+ply to substances that are both specified on the List of           ment s'applique à l'égard des substances mentionnées
+Toxic Substances in Schedule 1 to the Canadian Envi-               aux annexes 1 et 2, lesquelles substances sont inscrites
+ronmental Protection Act, 1999 and set out in either               sur la liste des substances toxiques de l'annexe 1 de la
+Schedule 1 or 2 to these Regulations, referred to in these         Loi canadienne sur la protection de l'environnement
+Regulations as “toxic substances”.                                 (1999) et sont ci-après désignées « substances toxiques »
+                                                                   .
+
+                     EXCEPTIONS                                                         EXCEPTIONS
+   2. These Regulations do not apply to any toxic sub-                2. Le présent règlement ne s'applique pas à la sub-
+stance set out in either Schedule 1 or 2 that is                   stance toxique mentionnée aux annexes 1 ou 2 :
+  (a) contained in a hazardous waste, hazardous recy-                a) qui est contenue dans des déchets dangereux, des
+  clable material or non-hazardous waste to which Divi-              matières recyclables dangereuses ou des déchets non
+  sion 8 of Part 7 of the Canadian Environmental Pro-                dangereux auxquels s'applique la section 8 de la partie
+  tection Act, 1999 applies;                                         7 de la Loi canadienne sur la protection de l'environ-
+  (b) contained in a control product within the meaning              nement (1999);
+  of section 2 of the Pest Control Products Act; or                  b) qui est contenue dans un produit antiparasitaire au
+  (c) present as a contaminant in a chemical feedstock               sens de l'article 2 de la Loi sur les produits antiparasi-
+  used in a process from which there are no releases of              taires;
+  the toxic substance and provided that the toxic sub-               c) qui est présente comme contaminant dans une ma-
+  stance is destroyed or completely converted in that                tière première chimique utilisée au cours d'un proces-
+  process to a substance that is not a toxic substance set           sus n'occasionnant aucun rejet de la substance toxique,
+  out in either Schedule 1 or 2.                                     pourvu que celle-ci soit détruite ou totalement conver-
+                                                                     tie au cours de ce processus en une substance autre
+                                                                     qu'une substance toxique mentionnée aux annexes 1
+                                                                     ou 2.
+   3. (1) These Regulations, except subsections (2), (3)              3. (1) Le présent règlement, sauf les paragraphes (2)
+and (4), do not apply to any toxic substance set out in ei-        à (4), ne s'applique pas à la substance toxique mention-
+ther Schedule 1 or 2 or to any mixture or product con-             née aux annexes 1 ou 2 ni au mélange ou au produit qui
+taining any such toxic substance that is for use                   en contient, s'ils sont destinés à être utilisés :
+  (a) in a laboratory for analysis;                                  a) pour des analyses en laboratoire;
+  (b) in scientific research; or                                     b) pour la recherche scientifique;
+  (c) as a laboratory analytical standard.                           c) en tant qu'étalon analytique de laboratoire.
+   (2) Any person that intends to use a toxic substance,              (2) La personne qui prévoit utiliser une substance
+mixture or product referred to in subsection (1) for a use         toxique, un mélange ou un produit visé au paragraphe
+referred to in that subsection shall, if the quantity of the       (1) à l'une des fins visées à ce paragraphe doit, si la
+toxic substance will exceed 10 g in any calendar year,             quantité de la substance toxique doit dépasser 10 g au
+
+
+
+                                                               1
+                                           SOR/2005-41 — October 6, 2010
+
+
+
+submit to the Minister, at least 30 days before the day on        cours d'une année civile, présenter au ministre les rensei-
+which the person begins using the substance, mixture or           gnements prévus à l'annexe 3, au moins trente jours
+product, the information set out in Schedule 3.                   avant le début de l'utilisation.
+   (3) Any person that, at the time of coming into force             (3) La personne qui, à la date d'entrée en vigueur du
+of these Regulations, is using a toxic substance, mixture         présent règlement, utilise une substance toxique, un mé-
+or product referred to in subsection (1) for a use referred       lange ou un produit visé au paragraphe (1) à l'une des
+to in that subsection shall, if the quantity of the toxic         fins visées à ce paragraphe doit, si la quantité de la sub-
+substance exceeded 10 g in the calendar year immediate-           stance toxique utilisée au cours de l'année civile précé-
+ly preceding the coming into force of these Regulations,          dant cette date a dépassé 10 g, présenter au ministre les
+submit to the Minister, within 60 days after the date of          renseignements prévus à l'annexe 3, dans les soixante
+coming into force of these Regulations, the information           jours suivant cette date.
+set out in Schedule 3.
+   (4) If, after the coming into force of these Regula-              (4) Si une substance toxique est ajoutée aux annexes
+tions, a toxic substance is added to Schedule 1 or 2, any         1 ou 2 après l'entrée en vigueur du présent règlement, la
+person that, at the time of the coming into force of the          personne qui, à la date d'entrée en vigueur du règlement
+Regulations adding the toxic substance, is using the tox-         visant à ajouter la substance, utilise la substance, ou un
+ic substance or a mixture or product containing that toxic        mélange ou produit qui en contient, à l'une des fins vi-
+substance for a use referred to in subsection (1) shall, if       sées au paragraphe (1) doit, si la quantité de la substance
+the quantity of the toxic substance exceeded 10 g in the          toxique utilisée au cours de l'année civile précédant la
+calendar year immediately preceding the coming into               date d'entrée en vigueur de ce règlement a dépassé 10 g,
+force of the Regulations adding the toxic substance, sub-         présenter au ministre les renseignements prévus à l'an-
+mit to the Minister, within 60 days after the date of com-        nexe 3, dans les soixante jours suivant cette date.
+ing into force of those Regulations, the information set
+out in Schedule 3.
+
+                      PROHIBITIONS                                                         INTERDICTIONS
+   4. (1) Subject to section 6, no person shall manufac-             4. (1) Sous réserve de l'article 6, il est interdit de fa-
+ture, use, sell, offer for sale or import a toxic substance       briquer, d'utiliser, de vendre, de mettre en vente ou d'im-
+set out in Schedule 1 or a mixture or product containing          porter une substance toxique mentionnée à l'annexe 1, ou
+any such toxic substance unless the substance is inciden-         un mélange ou un produit qui en contient, à moins que la
+tally present.                                                    substance toxique n'y soit présente fortuitement.
+   (2) Subsection (1) does not apply to a product that is            (2) Les produits qui sont des articles manufacturés
+a manufactured item that is formed into a specific physi-         dotés d’une forme ou de caractéristiques matérielles pré-
+cal shape or design during manufacture and that has, for          cises pendant leur fabrication et qui ont, pour leur utili-
+its final use, a function or functions dependent in whole         sation finale, une ou plusieurs fonctions en dépendant en
+or in part on its shape or design, if a toxic substance set       tout ou en partie ne sont pas visés par les interdictions
+out in Part 2 of Schedule 1 is present in that manufac-           prévues au paragraphe (1) à l’égard des substances
+tured item.                                                       toxiques mentionnées à la partie 2 de l’annexe 1.
+SOR/2010-211, s. 1.                                               DORS/2010-211, art. 1.
+
+  5. Subject to section 6, no person shall manufacture,              5. Sous réserve de l'article 6, il est interdit de fabri-
+use, sell, offer for sale or import                               quer, d'utiliser, de vendre, de mettre en vente ou d'impor-
+                                                                  ter :
+
+
+
+                                                              2
+                                            DORS/2005-41 — 6 octobre 2010
+
+
+
+  (a) a toxic substance set out in column 1 of Part 1 of              a) une substance toxique mentionnée à la colonne 1
+  Schedule 2 if it is present, incidentally or not, in a              de la partie 1 de l'annexe 2, si elle est présente — for-
+  mixture or product set out in column 2 and if the con-              tuitement ou non — dans un mélange ou un produit
+  centration of the toxic substance in the mixture or                 mentionné à la colonne 2 et si sa concentration dans
+  product exceeds the limit set out in column 3; or                   ce mélange ou ce produit est supérieure à celle prévue
+  (b) a toxic substance set out in column 1 of Part 2 of              à la colonne 3;
+  Schedule 2 or a mixture or product containing the tox-              b) une substance toxique mentionnée à la colonne 1
+  ic substance if the toxic substance, mixture or product             de la partie 2 de l'annexe 2, ou un mélange ou un pro-
+  is designed for uses other than the uses set out in col-            duit qui en contient — sauf si sa présence y est for-
+  umn 2 unless the substance is incidentally present.                 tuite —, si la substance toxique, le mélange ou le pro-
+                                                                      duit n'est pas destiné à l'une des utilisations prévues à
+                                                                      la colonne 2.
+
+                        PERMITS                                                              PERMIS
+   6. (1) Any person that, at the time of coming into                  6. (1) La personne qui, à la date d'entrée en vigueur
+force of these Regulations, is manufacturing, using, sell-          du présent règlement, fabrique, utilise, vend, met en
+ing or offering for sale a toxic substance referred to in ei-       vente ou importe une substance toxique visée aux ar-
+ther section 4 or 5 or a mixture or product containing              ticles 4 ou 5, ou un mélange ou un produit qui en
+such a substance or imports such a toxic substance, mix-            contient, peut poursuivre son activité si elle y est autori-
+ture or product may continue that activity if that person           sée en vertu d'un permis délivré aux termes du para-
+has been issued a permit under subsection (4).                      graphe (4).
+   (2) In the case of a toxic substance added to Schedule              (2) Dans le cas d'une substance toxique ajoutée à l'an-
+1 and referred to in section 4, any person that, at the time        nexe 1 et qui est visée à l'article 4, la personne qui, à la
+of coming into force of the Regulations adding the toxic            date d'entrée en vigueur du règlement visant à ajouter la
+substance, is carrying out an activity referred to in sub-          substance, exerce une activité visée au paragraphe (1)
+section (1) requires a permit issued under subsection (4)           doit, pour poursuivre son activité, obtenir un permis aux
+to continue that activity. This rule also applies to any            termes du paragraphe (4). La même règle s'applique à
+such person in the case of a toxic substance added to               une telle personne dans le cas d'une substance toxique
+Schedule 2 and referred to in section 5.                            ajoutée à l'annexe 2 et qui est visée à l'article 5.
+  (3) An application for a permit shall be submitted to               (3) La demande de permis est présentée au ministre et
+the Minister and contain the information set out in                 comporte les renseignements prévus à l'annexe 4.
+Schedule 4.
+  (4) Subject to subsection (5), the Minister shall issue              (4) Sous réserve du paragraphe (5), le ministre délivre
+the permit if the following conditions are met:                     le permis si les conditions suivantes sont réunies :
+  (a) there is no technically or economically feasible al-            a) il n'est techniquement ou économiquement pas
+  ternative or substitute available to the applicant, other           viable pour le demandeur de substituer à la substance
+  than a substance regulated under these Regulations,                 toxique une substance qui n'est pas visée par le pré-
+  for the toxic substance;                                            sent règlement;
+  (b) the applicant has taken all necessary measures to               b) le demandeur a pris les mesures nécessaires pour
+  minimize or eliminate any harmful effect of the toxic               éliminer ou atténuer les effets nocifs de la substance
+  substance on the environment and human health; and                  toxique sur l'environnement et la santé humaine;
+
+
+
+                                                                3
+                                           SOR/2005-41 — October 6, 2010
+
+
+
+  (c) a plan has been prepared respecting the toxic sub-            c) un plan a été dressé à l'égard de la substance
+  stance, identifying the measures to be taken by the ap-           toxique comportant les mesures que le demandeur
+  plicant so that the applicant's continued activity will           s'engage à prendre pour que ses activités soient
+  be in compliance with these Regulations, and the peri-            conformes au présent règlement et le délai prévu pour
+  od within which the plan is to be fully implemented               sa mise à exécution n'excède pas trois ans suivant la
+  does not exceed three years from the date on which a              date à laquelle le permis est délivré pour la première
+  permit is first issued to the applicant.                          fois.
+   (5) The Minister shall refuse to issue a permit if the           (5) Le ministre refuse de délivrer un permis s'il a des
+Minister has reasonable grounds to believe that the ap-           motifs raisonnables de croire que le demandeur a fourni
+plicant has provided false or misleading information in           des renseignements faux ou trompeurs au soutien de sa
+support of their application.                                     demande.
+   (6) A permit issued under this section expires 12                 (6) Le permis expire douze mois après la date de sa
+months after the day on which it is issued and may, upon          délivrance et peut, sur demande, être renouvelé au plus
+application, only be renewed twice for the same purpose           deux fois pour le même objet ou pour la même utilisa-
+or use of the substance.                                          tion de la substance toxique.
+   (7) The Minister shall revoke a permit if the condi-               (7) Le ministre révoque le permis si les conditions
+tions set out in paragraphs (4)(a) to (c) are no longer met       prévues aux alinéas (4)a) à c) ne sont plus respectées ou
+or if the Minister has reasonable grounds to believe that         s'il a des motifs raisonnables de croire que le titulaire du
+the permit holder has provided false or misleading infor-         permis lui a fourni des renseignements faux ou trom-
+mation to the Minister.                                           peurs.
+ (8) The Minister shall not revoke a permit unless the              (8) Le ministre ne peut révoquer le permis qu'après :
+Minister has provided the permit holder with                        a) avoir avisé par écrit le titulaire des motifs de la ré-
+  (a) written reasons for the revocation; and                       vocation;
+  (b) an opportunity to be heard, by written representa-            b) lui avoir donné la possibilité de présenter des ob-
+  tion, in respect of the revocation.                               servations écrites au sujet de la révocation.
+
+                       REPORTS                                                           RAPPORTS
+   7. Every person that manufactures or imports a toxic              7. La personne qui fabrique ou importe une substance
+substance set out in column 1 of Part 3 of Schedule 2 or          toxique mentionnée à la colonne 1 de la partie 3 de l'an-
+a mixture or product containing, whether incidentally or          nexe 2, ou un mélange ou un produit qui en contient —
+not, any such toxic substance shall submit to the Minis-          fortuitement ou non —, doit présenter au ministre les
+ter the information set out in Schedule 5 within three            renseignements prévus à l'annexe 5 dans les trois mois
+months after the end of the calendar year during which            suivant la fin de l'année civile durant laquelle la sub-
+the toxic substance, mixture or product was manufac-              stance toxique, le mélange ou le produit a été fabriqué ou
+tured or imported if, in that calendar year,                      importé si, au cours de cette année :
+  (a) the quantity of the toxic substance was equal to or           a) la quantité de la substance toxique était égale ou
+  greater than that set out in column 2 of that Part, if            supérieure à celle prévue à la colonne 2, le cas
+  any;                                                              échéant;
+                                                                    b) la moyenne de concentration de la substance
+                                                                    toxique dans le mélange ou le produit était égale ou
+
+
+
+
+                                                              4
+                                          DORS/2005-41 — 6 octobre 2010
+
+
+
+  (b) the mixture or product contained the toxic sub-               supérieure à celle prévue à la colonne 3, le cas
+  stance in an average concentration equal to or greater            échéant;
+  than that set out in column 3 of that Part, if any; or            c) la quantité de la substance toxique et sa concentra-
+  (c) the quantity of the toxic substance and its concen-           tion dans le mélange ou le produit étaient toutes deux
+  tration in the mixture or product were equal to or                égales ou supérieures à celles prévues à la colonne 4,
+  greater than those set out in column 4 of that Part, if           le cas échéant.
+  any.
+
+             TESTING REQUIREMENTS                                   DÉTERMINATION DES CONCENTRATIONS ET
+                                                                                QUANTITÉS
+   8. Any concentration or quantity required to be deter-            8. Pour l'application du présent règlement, la concen-
+mined under these Regulations shall be determined, in             tration et la quantité sont déterminées, conformément
+accordance with generally accepted standards of scientif-         aux exigences de pratiques scientifiques généralement
+ic practice, by a laboratory that is accredited under the         reconnues, par un laboratoire qui est accrédité selon la
+International Organization for Standardization standard           norme de l'Organisation internationale de normalisation
+ISO/IEC 17025: 1999, entitled General requirements for            ISO/CEI 17025 : 1999, intitulée Prescriptions générales
+the competence of testing and calibration laboratories,           concernant la compétence des laboratoires d'étalonnage
+as amended from time to time, or by a laboratory that             et d'essais, avec ses modifications successives, ou par un
+meets an equivalent standard.                                     laboratoire qui répond à une norme équivalente.
+
+                   CERTIFICATION                                                      ATTESTATION
+   9. Any information required to be submitted to the                9. Tout renseignement devant être fourni au ministre
+Minister under these Regulations shall be submitted in a          en application du présent règlement est présenté en la
+form determined by the Minister and accompanied by a              forme fixée par lui et est accompagné d'une attestation,
+certification, dated and signed by the person referred to         datée et signée par l'intéressé ou par la personne autori-
+in those provisions, or the person authorized to act on           sée à agir en son nom, portant que les renseignements
+their behalf, that the information is accurate and com-           sont complets et exacts.
+plete.
+
+                  RECORD KEEPING                                                        REGISTRES
+   10. (1) Every person that submits information to the              10. (1) La personne qui présente au ministre des ren-
+Minister under these Regulations shall keep a copy of             seignements en application du présent règlement en
+that information, the certification and any documents             conserve copie dans un registre, avec l'attestation et les
+supporting the information, including test data, if appli-        documents à l'appui, y compris les données d'essai, s'il y
+cable, for a period of at least five years beginning on the       a lieu, pendant au moins cinq ans à compter de la date de
+date of the submission of the information.                        leur présentation.
+  (2) The information, certification and supporting doc-             (2) Les renseignements, l'attestation et les documents
+uments shall be kept at the person's principal place of           à l'appui sont conservés à l'établissement principal de la
+business in Canada or, on notification to the Minister, at        personne au Canada ou en tout autre lieu au Canada dont
+any other place in Canada where the information, certifi-         le ministre a été avisé et où ils peuvent être examinés.
+cation, documents and test data can be inspected.
+
+
+
+
+                                                              5
+                                    SOR/2005-41 — October 6, 2010
+
+
+
+                        REPEAL                                                ABROGATION
+  11. The Prohibition of Certain Toxic Substances           11. Le Règlement sur certaines substances toxiques
+Regulations, 20031 are repealed.                         interdites (2003)1 est abrogé.
+
+                   COMING INTO FORCE                                     ENTRÉE EN VIGUEUR
+ 12. These Regulations come into force three              12. Le présent règlement entre en vigueur trois
+months after the day on which they are registered.       mois après la date de son enregistrement.
+
+
+
+
+1                                                         1 
+     SOR/2003-99                                               DORS/2003-99
+
+
+
+                                                     6
+                                                    DORS/2005-41 — 6 octobre 2010
+
+
+
+                              SCHEDULE 1                                                                     ANNEXE 1
+                          (Sections 1 to 4 and 6)                                                        (articles 1 à 4 et 6)
+                                 PART 1                                                                      PARTIE 1
+
+                PROHIBITED TOXIC SUBSTANCES                                             SUBSTANCES TOXIQUES INTERDITES
+
+Item        Toxic Substances                                               Article     Substance toxique
+1.          Dodecachloropentacyclo [5.3.0.02,6.03,9.04,8] decane           1.          Dodécachloropentacyclo [5.3.0.02,6.03,9.04,8] décane
+            « Mirex »                                                                  (mirex)
+2.          Polybrominated Biphenyls that have the molecular               2.          Les biphényles polybromés dont la formule moléculaire
+            formula C12H(10-n)Brn in which “n” is greater than 2                       est C12H(10-n)Brn, où « n » est plus grand que 2
+3.          Polychlorinated Terphenyls that have the molecular             3.          Les triphényles polychlorés dont la formule moléculaire
+            formula C18H(14-n)Cln in which “n” is greater than 2                       est C18H(14-n)Cln, où « n » est plus grand que 2
+4.          Bis(chloromethyl) ether that has the molecular formula         4.          Éther bis(chlorométhylique) dont la formule moléculaire
+            C2H4Cl2O                                                                   est C2H4Cl2O
+5.          Chloromethyl methyl ether that has the molecular               5.          Oxyde de chlorométhyle et de méthyle dont la formule
+            formula C2H5ClO                                                            moléculaire est C2H5ClO
+6.          (4-Chlorophenyl) cyclopropylmethanone, O-[(4-                  6.          Le (4-chlorophényle) cyclopropylméthanone, O-[(4-
+            nitrophenyl)methyl] oxime that has the molecular                           nitrophényle)méthyl]oxime dont la formule moléculaire
+            formula C17H15ClN2O3                                                       est C17H15ClN2O3
+7.          N-Nitrosodimethylamine, which has the molecular                7.          N-Nitrosodiméthylamine, dont la formule moléculaire est
+            formula C2H6N2O                                                            C2H6N2O
+8.          Hexachlorobutadiene, which has the molecular formula           8.          Hexachlorobutadiène, dont la formule moléculaire est
+            C4Cl6                                                                      C4Cl6
+9.          Dichlorodiphenyltrichloroethane (DDT), which has the           9.          Dichlorodiphényltrichloroéthane (DDT), dont la formule
+            molecular formula C14H9Cl5                                                 moléculaire est C14H9Cl5
+
+                                 PART 2                                                                      PARTIE 2
+
+     PROHIBITED TOXIC SUBSTANCES UNLESS PRESENT IN                         SUBSTANCES TOXIQUES INTERDITES SAUF SI PRÉSENTES
+                 MANUFACTURED ITEMS                                                DANS UN ARTICLE MANUFACTURÉ
+
+Item        Toxic Substances                                               Article     Substance toxique
+1.          Hexane, 1,6-diisocyanato-, homopolymer, reaction               1.          1,6-Diisocyanatohexane, homopolymérisé, produits de
+            products with alpha-fluoro-omega-2-hydroxyethyl-                           réaction avec l’alpha fluoro oméga-(2-hydroxyéthyl)-
+            poly(difluoromethylene), C16-20-branched alcohols and                      poly(difluorométhylène), des alcools ramifiés en C16-20
+            1-octadecanol                                                              et l’octadécan-1-ol
+2.          2-propenoic acid, 2-methyl-, hexadecyl ester, polymers         2.          Méthacrylate d’hexadécyle, polymères avec le
+            with 2-hydroxyethyl methacrylate, gamma-omega-                             méthacrylate de 2-hydroxyéthyle, l’acrylate de gamma-
+            perfluoro-C10-16-alkyl acrylate and stearyl methacrylate                   oméga-perfluoroalkyle en C10-16 et le méthacrylate de
+3.          2-propenoic acid, 2-methyl-, 2-methylpropyl ester,                         stéaryle
+            polymer with butyl 2-propenoate and 2,5 furandione,            3.          Méthacrylate d’isobutyle, polymérisé avec l’acrylate de
+            gamma-omega-perfluoro-C8-14-alkyl esters, tert-Bu                          butyle, l’anhydride maléique, esters de gamma-oméga-
+            benzenecarboperoxoate-initiated                                            perfluoroalkyle en C8-14, amorcé avec du
+4.          2-propen-1-ol, reaction products with                                      benzènecarboperoxoate de tert-butyle
+            pentafluoroiodoethane tetrafluoroethylene telomer,             4.          Alcool allylique, produits de réaction avec du
+            dehydroiodinated, reaction products with epichlorohydrin                   pentafluoroiodoéthane et de tétrafluoroéthylène
+            and triethylenetetramine                                                   télomérisés, déshydroiodés, produits de réaction avec de
+                                                                                       l’épichlorhydrine et la triéthylènetétramine
+SOR/2010-211, ss. 2, 3.                                                    DORS/2010-211, art. 2 et 3.
+
+
+
+
+                                                                       7
+                                                        SOR/2005-41 — October 6, 2010
+
+
+
+                            SCHEDULE 2                                                                            ANNEXE 2
+                      (Sections 1 to 3 and 5 to 7)                                                          (articles 1 à 3 et 5 à 7)
+
+       CONCENTRATION LIMITS, PERMITTED USES AND                                    CONCENTRATIONS MAXIMALES, UTILISATIONS PERMISES
+               REPORTING THRESHOLDS                                                        ET SEUILS POUR FINS DE RAPPORT
+
+                                 PART 1                                                                             PARTIE 1
+
+                     CONCENTRATION LIMITS                                                            CONCENTRATIONS MAXIMALES
+
+        Column 1              Column 2                     Column 3                          Colonne 1            Colonne 2                    Colonne 3
+                              Mixture or Product           Concentration                                          Mélange ou produit           Concentration
+                              Containing the Toxic         Limit of the                                           contenant la substance       maximale de la
+Item    Toxic Substance       Substance                    Toxic Substance         Article Substance toxique      toxique                      substance toxique
+1.      Hexachlorobenzene     (a) Trichloroethylene        20 ppb                  1.        Hexachlorobenzène a) Trichloroéthylène            20 ppb
+                              (b) Tetrachloroethylene      20 ppb                                                 b) tétrachloroéthylène       20 ppb
+                              (c) Tetrachloromethane       20 ppb                                                 c) tétrachlorométhane        20 ppb
+                              (d) Magnesium salt (by- 20 ppb                                                      d) sel   de     magnésium 20 ppb
+                              product from the magne-                                                             (sous-produit de l’industrie
+                              sium industry)                                                                      du magnésium)
+                              (e) Magnesium       sludge 20 ppb                                                   e) boue de magnésium 20 ppb
+                              (by-product from the mag-                                                           (sous-produit de l’industrie
+                              nesium industry)                                                                    du magnésium)
+                              (f) Hydrochloric acid (by- 20 ppb                                                   f) acide     chlorhydrique 20 ppb
+                              product)                                                                            (sous-produit)
+                              (g) Ferric chloride          20 ppb                                                 g) chlorure ferrique         20 ppb
+                              (h) Ferrous chloride         20 ppb                                                 h) chlorure ferreux          20 ppb
+2.      2-Methoxyethanol,     Diethylene glycol methyl 0.5% (w/w)                  2.        2-méthoxyéthanol,    Éther méthylique de          0,5 % (p/p)
+        which has the         ether, which has the                                           dont la formule      diéthylèneglycol, dont la
+        molecular formula     molecular formula C5H12O3                                      moléculaire est      formule moléculaire est
+        C3H8O2                                                                               C3H8O2               C5H12O3
+
+                                 PART 2                                                                             PARTIE 2
+
+                          PERMITTED USES                                                                  UTILISATIONS PERMISES
+
+         Column 1                         Column 2                                            Colonne 1                         Colonne 2
+Item     Toxic Substances                 Permitted Uses                           Article    Substance toxique                 Utilisations permises
+1.       Benzidine and benzidine          (a) Staining for microscopic ex-         1.         La benzidine et le                a) Coloration pour l’examen
+         dihydrochloride, that have the   amination, such as immunoper-                       dichlorhydrate de benzidine,      microscopique, telle que la colo-
+         molecular formula C12H12N2 and   oxidase staining, histochemical                     dont les formules moléculaires    ration immunoperoxydase, la co-
+         C12H12N2·2HCl, respectively      staining or cytochemical staining                   sont respectivement C12H12N2 et   loration histochimique et la co-
+                                                                                              C12H12N2·2HCl                     loration cytochimique
+                                          (b) Reagent for detecting blood
+                                          in biological fluids                                                                  b) réactif pour détecter le sang
+                                                                                                                                dans les liquides biologiques
+                                          (c) Niacin test to detect some
+                                          micro-organisms                                                                       c) test à la niacine pour détecter
+                                                                                                                                certains micro-organismes
+                                          (d) Reagent for detecting chlo-
+                                          ralhydrate in biological fluids                                                       d) réactif pour détecter l’hydrate
+                                                                                                                                de chloral dans les liquides bio-
+2.       2-Methoxyethanol, which has the (a) Coatings for aircraft refinish-
+                                                                                                                                logiques
+         molecular formula C3H8O2        ing
+                                                                                   2.         2-méthoxyéthanol, dont la      a) Revêtement pour la finition
+                                          (b) Semiconductor manufactur-
+                                                                                              formule moléculaire est C3H8O2 d’aéronefs
+                                          ing process
+                                                                                                                                b) procédé de fabrication de se-
+                                                                                                                                mi-conducteurs
+
+
+
+
+                                                                               8
+                                                      DORS/2005-41 — 6 octobre 2010
+
+
+
+         Column 1                         Column 2                                          Colonne 1                         Colonne 2
+Item     Toxic Substances                 Permitted Uses                         Article    Substance toxique                 Utilisations permises
+3.       Pentachlorobenzene, which has    Any use with any                       3.         Pentachlorobenzène, dont la    Utilisation avec un biphényle
+         the molecular formula C6HCl5     chlorobiphenyls described in                      formule moléculaire est C6HCl5 chloré visé à l’article 1 de la liste
+                                          item 1 of the List of Toxic                                                      des substances toxiques de
+                                          Substances in Schedule 1 to the                                                  l’annexe 1 de la Loi canadienne
+                                          Canadian Environmental                                                           sur la protection de
+                                          Protection Act, 1999                                                             l’environnement (1999)
+4.       Tetrachlorobenzenes, which have Any use with any                        4.         Tétrachlorobenzènes, dont la    Utilisation avec un biphényle
+         the molecular formula C6H2Cl4 chlorobiphenyls described in                         formule moléculaire est C6H2Cl4 chloré visé à l’article 1 de la liste
+                                         item 1 of the List of Toxic                                                        des substances toxiques de
+                                         Substances in Schedule 1 to the                                                    l’annexe 1 de la Loi canadienne
+                                         Canadian Environmental                                                             sur la protection de
+                                         Protection Act, 1999                                                               l’environnement (1999)
+
+                                 PART 3                                                                           PARTIE 3
+
+                     REPORTING THRESHOLDS                                                          SEUILS POUR FINS DE RAPPORT
+
+        Column 1             Column 2     Column 3         Column 4                        Colonne 1             Colonne 2     Colonne 3         Colonne 4
+                                                           Annual Quantity                                                                       Quantité et
+                                          Annual           and Annual                                                          Moyenne de        moyenne de
+                             Annual       Average          Average                                               Quantité      concentration     concentration
+Item    Toxic Substance      Quantity     Concentration    Concentration         Article   Substance toxique     annuelle      annuelle          annuelles
+1.      Hexachlorobenzene                                  10 g and 10 ppb       1.        Hexachlorobenzène                                     10 g et 10 ppb
+2.      Benzidine and         1 kg                                               2.        La benzidine et le    1 kg
+        benzidine                                                                          dichlorhydrate de
+        dihydrochloride, that                                                              benzidine, dont les
+        have the molecular                                                                 formules
+        formula C12H12N2                                                                   moléculaires sont
+        and C12H12N2·2HCl,                                                                 respectivement
+        respectively                                                                       C12H12N2 et
+                                                                                           C12H12N2·2HCl
+SOR/2006-279, ss. 1, 2.                                                          DORS/2006-279, art. 1 et 2.
+
+
+
+
+                                                                             9
+                                                   SOR/2005-41 — October 6, 2010
+
+
+
+                           SCHEDULE 3                                                                     ANNEXE 3
+                       (Subsections 3(2) to (4))                                                    (paragraphes 3(2) à (4))
+
+ INFORMATION RELATED TO THE USE OF CERTAIN TOXIC                               RENSEIGNEMENTS SUR L’UTILISATION DE CERTAINES
+   SUBSTANCES IN A LABORATORY FOR ANALYSIS, FOR                                 SUBSTANCES TOXIQUES À DES FINS D’ANALYSE EN
+      SCIENTIFIC RESEARCH OR AS A LABORATORY                                    LABORATOIRE OU DE RECHERCHE SCIENTIFIQUE OU
+               ANALYTICAL STANDARD                                               COMME ÉTALON ANALYTIQUE DE LABORATOIRE
+   1. Information respecting the laboratory where a toxic substance             1. Renseignements sur le laboratoire qui utilise ou utilisera la sub-
+or a mixture or a product containing it will be or is being used:            stance toxique ou le mélange ou produit qui en contient :
+  (a) the name, civic and postal addresses, e-mail address, if any,            a) nom, adresses municipale et postale, numéro de téléphone et, le
+  telephone number and fax number, if any, of the laboratory; and              cas échéant, numéro de télécopieur et adresse électronique du labo-
+                                                                               ratoire;
+  (b) the name, title, civic and postal addresses, e-mail address, if
+  any, telephone number and fax number, if any, of the person autho-           b) nom, titre, adresses municipale et postale, numéro de téléphone
+  rized to act on behalf of the laboratory, if any.                            et, le cas échéant, numéro de télécopieur et adresse électronique de
+                                                                               la personne autorisée à agir au nom du laboratoire, s’il y a lieu.
+  2. Information respecting each toxic substance set out in Schedule
+1 or 2, and each mixture or product containing the toxic substance:            2. Renseignements sur chacune des substances toxiques mention-
+                                                                             nées aux annexes 1 et 2 et sur chaque mélange ou produit qui en
+  (a) the name of the toxic substance and the name of the mixture or
+                                                                             contient :
+  product containing the toxic substance, if applicable;
+                                                                               a) le nom de la substance toxique et, le cas échéant, le nom du mé-
+  (b) the anticipated period of its use;
+                                                                               lange ou du produit qui en contient;
+  (c) the estimated quantity to be used in a calendar year and the
+                                                                               b) la période d’utilisation prévue;
+  unit of measurement; and
+                                                                               c) la quantité que l’on prévoit utiliser au cours d’une année civile
+  (d) the identification of each proposed use and each actual use, as
+                                                                               ainsi que l’unité de mesure;
+  the case may be.
+                                                                               d) une description de chaque utilisation réelle ou projetée, selon le
+                                                                               cas.
+
+
+
+
+                                                                        10
+                                                    DORS/2005-41 — 6 octobre 2010
+
+
+
+                            SCHEDULE 4                                                                      ANNEXE 4
+                           (Subsection 6(3))                                                             (paragraphe 6(3))
+
+  INFORMATION TO BE CONTAINED IN AN APPLICATION                                   RENSEIGNEMENTS À FOURNIR DANS LA DEMANDE DE
+                  FOR A PERMIT                                                                       PERMIS
+  1. Information respecting the applicant:                                        1. Renseignements sur le demandeur :
+  (a) their name, civic and postal addresses, e-mail address, if any,             a) nom, adresses municipale et postale et numéro de téléphone du
+  telephone number and fax number, if any; and                                    demandeur et, le cas échéant, son numéro de télécopieur et son
+                                                                                  adresse électronique;
+  (b) the name, title, civic and postal addresses, e-mail address, if
+  any, telephone number and fax number, if any, of the person autho-              b) nom, titre, adresses municipale et postale, numéro de téléphone
+  rized to act on behalf of the applicant, if any.                                et, le cas échéant, numéro de télécopieur et adresse électronique de
+                                                                                  la personne autorisée à agir au nom du demandeur, s’il y a lieu.
+   2. In the case of a toxic substance referred to in section 4 of these          2. S’agissant d’une substance toxique visée à l’article 4 du présent
+Regulations or a mixture or product containing any such toxic sub-              règlement, ou d’un mélange ou produit qui en contient, les renseigne-
+stance, the following information:                                              ments suivants :
+  (a) the name of each toxic substance and the name of each mixture               a) le nom de la substance toxique et, le cas échéant, le nom du mé-
+  or product containing the toxic substance, if applicable;                       lange ou du produit qui en contient;
+  (b) the estimated quantity to be manufactured, used, sold, offered              b) la quantité de substance toxique, de mélange ou de produit que
+  for sale or imported in a calendar year and the unit of measure-                le demandeur prévoit fabriquer, utiliser, vendre, mettre en vente ou
+  ment;                                                                           importer au cours d’une année civile, ainsi que l’unité de mesure;
+  (c) the identification of each proposed use, if known; and                      c) le détail de chaque utilisation projetée, si le demandeur dispose
+                                                                                  de cette information;
+  (d) if the applicant is a manufacturer, seller or importer, the name,
+  civic and postal addresses, e-mail address, if any, telephone num-              d) si le demandeur est un fabricant, un vendeur ou un importateur,
+  ber and fax number, if any, of each person in Canada to whom the                les nom, adresses municipale et postale, numéro de téléphone et, le
+  applicant intends to sell a toxic substance or a mixture or product             cas échéant, numéro de télécopieur et adresse électronique de
+  containing such a toxic substance and the identification of each                chaque personne au Canada à qui il projette de vendre la substance
+  toxic substance, mixture or product.                                            toxique, le mélange ou le produit, ainsi que le nom de la substance,
+                                                                                  du mélange ou du produit en cause.
+   3. In the case of a toxic substance referred to in section 5 of these          3. S’agissant d’une substance toxique visée à l’article 5 du présent
+Regulations or any mixture or product containing any such toxic sub-            règlement, ou d’un mélange ou produit qui en contient, les renseigne-
+stance, the following information:                                              ments suivants :
+  (a) the name of the toxic substance and the name of the mixture or              a) le nom de la substance toxique et, le cas échéant, le nom du mé-
+  product containing the toxic substance, if applicable;                          lange ou du produit qui en contient;
+  (b) in the case of a toxic substance set out in column 1 of Part 1 of           b) la concentration de la substance toxique dans le mélange ou le
+  Schedule 2, the concentration of the toxic substance in the mixture             produit, s’il s’agit d’une substance mentionnée à la colonne 1 de la
+  or product;                                                                     partie 1 de l’annexe 2;
+  (c) the estimated quantity to be manufactured, used, sold, offered              c) la quantité de substance toxique, de mélange ou de produit que
+  for sale or imported in a calendar year and the unit of measure-                le demandeur prévoit fabriquer, utiliser, vendre, mettre en vente ou
+  ment;                                                                           importer au cours d’une année civile, ainsi que l’unité de mesure;
+  (d) the identification of each proposed use, if known; and                      d) le détail de chaque utilisation projetée, si le demandeur dispose
+                                                                                  de cette information;
+  (e) if the applicant is a manufacturer, seller or importer, the name,
+  civic and postal addresses, e-mail address, if any, telephone num-              e) si le demandeur est un fabricant, un vendeur ou un importateur,
+  ber and fax number, if any, of each person in Canada to whom the                les nom, adresses municipale et postale, numéro de téléphone et, le
+  applicant intends to sell a toxic substance or a mixture or product             cas échéant, numéro de télécopieur et adresse électronique de
+  containing such a toxic substance and the identification of each                chaque personne au Canada à qui il projette de vendre la substance
+  toxic substance, mixture or product.                                            toxique, le mélange ou le produit, ainsi que le nom de la substance,
+                                                                                  du mélange ou du produit en cause.
+   4. Evidence that there is no technically or economically feasible              4. Les renseignements qui établissent qu’il ne lui est technique-
+alternative or substitute available to the applicant, other than a sub-         ment ou économiquement pas viable de substituer à la substance
+stance regulated under these Regulations, for the toxic substance.              toxique une substance qui n’est pas visée par le présent règlement.
+
+
+
+
+                                                                           11
+                                                   SOR/2005-41 — October 6, 2010
+
+
+
+   5. Evidence that explains what measures have been taken to mini-              5. Les renseignements qui établissent que les mesures ont été
+mize or eliminate any harmful effect of the toxic substance on the en-        prises pour éliminer ou atténuer les effets nocifs de la substance
+vironment and human health.                                                   toxique sur l’environnement et la santé humaine.
+   6. A description of the plan prepared respecting the toxic sub-               6. Le détail du plan à l’égard de la substance toxique comportant
+stance identifying the measures to be taken so that the applicant’s           les mesures à prendre pour que les activités du demandeur soient
+continued activity will be in compliance with these Regulations as            conformes au présent règlement ainsi que le délai prévu pour sa mise
+well as the period within which the plan is to be implemented.                à exécution.
+
+
+
+
+                                                                         12
+                                                    DORS/2005-41 — 6 octobre 2010
+
+
+
+                           SCHEDULE 5                                                                        ANNEXE 5
+                            (Section 7)                                                                       (article 7)
+
+   INFORMATION RELATED TO THE MANUFACTURE OR                                            RENSEIGNEMENTS SUR LA FABRICATION ET
+          IMPORT OF TOXIC SUBSTANCES                                                    L’IMPORTATION DE SUBSTANCES TOXIQUES
+  1. Information respecting the manufacturer or importer:                         1. Renseignements sur le fabricant ou l’importateur :
+  (a) their name, civic and postal addresses of principal place of                a) nom, adresses municipale et postale de l’établissement princi-
+  business, e-mail address, if any, telephone number and fax number,              pal, numéro de téléphone et, le cas échéant, numéro de télécopieur
+  if any; and                                                                     et adresse électronique du fabricant ou de l’importateur;
+  (b) the name, title, civic and postal addresses, e-mail address, if             b) nom, titre, adresses municipale et postale, numéro de téléphone
+  any, telephone number and fax number, if any, of the person autho-              et, le cas échéant, numéro de télécopieur et adresse électronique de
+  rized to act on behalf of the manufacturer or importer, if any.                 la personne autorisée à agir au nom du fabricant ou de l’importa-
+                                                                                  teur, s’il y a lieu.
+  2. Information respecting each toxic substance set out in column 1              2. Renseignements sur chacune des substances toxiques mention-
+of Part 3 of Schedule 2 and each mixture or product containing the              nées à la colonne 1 de la partie 3 de l’annexe 2 qui est fabriquée ou
+toxic substance manufactured or imported during a calendar year:                importée au cours de l’année civile et sur chaque mélange ou produit
+                                                                                qui en contient :
+  (a) the name of the toxic substance and the name of the mixture or
+  the product containing the toxic substance, if applicable;                      a) le nom de la substance toxique et, le cas échéant, le nom du mé-
+                                                                                  lange ou produit qui en contient;
+  (b) the calendar year;
+                                                                                  b) l’année civile visée;
+  (c) the total quantity manufactured, and the unit of measurement;
+                                                                                  c) la quantité totale fabriquée, ainsi que l’unité de mesure;
+  (d) the total quantity imported, and the unit of measurement;
+                                                                                  d) la quantité totale importée, ainsi que l’unité de mesure;
+  (e) the quantity sold in Canada, and the unit of measurement;
+                                                                                  e) la quantité vendue au Canada, ainsi que l’unité de mesure;
+  (f) the identification of each proposed use of the toxic substance
+  and the mixture or product containing the toxic substance, if appli-            f) le détail de l’utilisation projetée de la substance toxique et, le
+  cable;                                                                          cas échéant, du mélange ou produit qui en contient;
+  (g) the annual average concentration, if applicable;                            g) la moyenne de concentration annuelle, le cas échéant;
+  (h) the analytical method used to determine the concentration of                h) la méthode analytique utilisée pour déterminer la concentration
+  the toxic substance in the mixture or product, if applicable; and               de la substance toxique dans le mélange ou le produit, le cas
+                                                                                  échéant;
+  (i) the analytical method detection limit used to determine the con-
+  centration of the toxic substance in the mixture or product, if appli-          i) la limite de détection de la méthode analytique utilisée pour dé-
+  cable.                                                                          terminer la concentration de la substance toxique dans le mélange
+                                                                                  ou le produit, le cas échéant.
+   3. The name, civic and postal addresses, e-mail address, if any,                3. Les nom, adresses municipale et postale, numéro de téléphone
+telephone number and fax number, if any, of each person in Canada               et, le cas échéant, numéro de télécopieur et adresse électronique de
+to whom the manufacturer or importer sold a toxic substance set out             chaque personne au Canada à qui le fabricant ou l’importateur a ven-
+in column 1 of Part 3 of Schedule 2 or a mixture or product contain-            du une substance toxique mentionnée à la colonne 1 de la partie 3 de
+ing such a toxic substance and the identification of each toxic sub-            l’annexe 2, ou un mélange ou un produit qui en contenait, ainsi que le
+stance, mixture or product sold.                                                nom de la substance, du mélange ou du produit en cause.
+   4. The name, civic and postal addresses, e-mail address, if any,                4. Les nom, adresses municipale et postale, numéro de téléphone
+telephone number and fax number, if any, of the laboratory that de-             et, le cas échéant, numéro de télécopieur et adresse électronique du
+termined the concentration of the toxic substance in the mixture or             laboratoire où la concentration de la substance toxique dans le mé-
+product, if applicable.                                                         lange ou le produit a été déterminée, le cas échéant.
+
+
+
+
+                                                                           13
+

@@ -1,0 +1,48 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
+	<TITLE></TITLE>
+	<META NAME="GENERATOR" CONTENT="OpenOffice.org 2.4  (Win32)">
+	<META NAME="AUTHOR" CONTENT="Daniel Spiteri">
+	<META NAME="CREATED" CONTENT="20081214;13374900">
+	<META NAME="CHANGEDBY" CONTENT="Daniel Spiteri">
+	<META NAME="CHANGED" CONTENT="20081214;15455318">
+	<STYLE TYPE="text/css">
+	<!--
+	        body {font-family: arial, verdana, times; }
+		P { margin-bottom: 0.08in; direction: ltr; color: #000000; widows: 0; orphans: 0; font-family: arial, verdana, times; }
+		H1 { font-family: "Lucida Sans Unicode"; font-size: 16pt; so-language: zxx ; font-family: arial, verdana, times;}
+		A:link { color: #0000ff }
+	-->
+	</STYLE>
+</HEAD>
+<BODY LANG="en-US" TEXT="#000000" LINK="#0000ff" BGCOLOR="#ffffff" DIR="LTR">
+
+<H2 CLASS="western">Search Criteria</H2>
+<p>The search mechanism has been greatly enhanced since the beta version of MINOE.  If you have the beta version, this is what the search criteria screen looks like: </p>
+<P LANG="" CLASS="western" STYLE="margin-bottom: 0in; line-height: 100%"><IMG SRC="gaps52.png" ALIGN=BOTTOM BORDER=0></P>
+<P CLASS="western" STYLE="margin-bottom: 0in; line-height: 100%">The new version looks like this: </p>
+<P LANG="" CLASS="western" STYLE="margin-bottom: 0in; line-height: 100%"><IMG SRC="gaps51.png" ALIGN=BOTTOM BORDER=0></P>
+
+<p>Let's go over the differences:</p>
+<p><b>1. Dynamic and custom filtering.</b></p>
+<p>In the beta version, searching was static and limited to the checkboxes that appeared on the screen.  The checkboxes were pre-determined and therefore could not be changed.  This was fine for beta, but in real life someone using the program would need someway to tell the program what kind of documents they had in the program.</p>
+<p>The addition of the Import Documents module gives users a way to tell MINOE about the documents by specifying "meta data" for each document.  Each document requires a Year, Location and Document Type.  It is entirely up to the user to decide what the Year, Location and Document Types are, there are few rules.  In our example, the locations we have are state abbreviations, and the document types we have are either regulations or statutes.  These criteria are defined in the meta data and can be manipulated through the Meta Data Editor module.  MINOE looks at the meta data for each document and automatically gives the user the correct filtering choices.  (See the Meta Data help section for a more detailed explanation.)</p>
+
+<p>The search criteria populates based upon what you select in each category.  Notice that since no Year is selected, no Location, Document Type or Other Labels are showing.  The Search by Document list is also blank:</p>
+<P LANG="" CLASS="western" STYLE="margin-bottom: 0in; line-height: 100%"><IMG SRC="gaps53.png" ALIGN=BOTTOM BORDER=0></P>
+
+
+<p><b>2. Term Distance.</b></p>
+<p>In the beta version, law documents were neatly divided by sections into smaller documents called "granules".  Granules, as great as they were, posed a problem due to the fact that there is no technology freely available to parse your own documents into sections (well, there is, but each jurisdiction handles their documents differently and the separation process is actually quite tedious.). Adding "Term Distance" mimics the functionality of dividing documents into sections by constricting the distance that two terms must lie within.</p>
+<p>Term Distance is the maximum number of words that can appear between two components in our ecosystem model.  Let's say that we have one term "lobster" and another term "trap".  A Term Distance of 0 means that trap must immediately follow lobster ("lobster trap") or vice-a-versa ("trap lobster").  A Term Distance of 100 means that there can be up to, but no more than, 100 words between "lobster" and "trap" in the document (the order that they occur in the document doesn't matter). Term Distance applies to every component in the ecosystem model.</p>
+
+<p><b>3. Groups.</b></p>
+<p>Groups offer a way to run an analysis on multiple combinations of Years, Locations, Document Types, Other Labels and Term Distances.  Notice in the screenshot below that there are 3 groups specified:</p>
+<P LANG="" CLASS="western" STYLE="margin-bottom: 0in; line-height: 100%"><IMG SRC="gaps51.png" ALIGN=BOTTOM BORDER=0></P>
+<p>To create a Group, simply select the search criteria, set the term distance you like and click the "Add Group" button.  You need at least one group to run an analysis.</p>
+
+<P CLASS="western" STYLE="margin-bottom: 0in; line-height: 100%">Once your criteria are defined, click Next and the program will run the analysis.</P>
+</BODY>
+</HTML>

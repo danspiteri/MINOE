@@ -1,0 +1,596 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+ Canada Port Authority                                                Règlement sur
+     Environmental                                                     l’évaluation
+ Assessment Regulations                                             environnementale
+                                                                      concernant les
+                                                                 administrations portuaires
+                                                                       canadiennes
+
+                       SOR/99-318                                                        DORS/99-318
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published             31. (1) Every copy of a consolidated statute or            31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies      (3) In the event of an inconsistency between a              (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                             Enregistrement
+SOR/99-318 July 28, 1999                                 DORS/99-318 Le 28 juillet 1999
+CANADIAN ENVIRONMENTAL ASSESSMENT ACT                    LOI CANADIENNE SUR L’ÉVALUATION
+                                                         ENVIRONNEMENTALE
+
+Canada Port Authority Environmental Assessment           Règlement sur l’évaluation environnementale
+Regulations                                              concernant  les  administrations  portuaires
+                                                         canadiennes
+
+P.C. 1999-1324  July 28, 1999                            C.P. 1999-1324  Le 28 juillet 1999
+
+   His Excellency the Governor General in Council, on       Sur recommandation de la ministre de l’Environne-
+the recommendation of the Minister of the Environment,   ment et en vertu de l’alinéa 59k)a de la Loi canadienne
+pursuant to paragraph 59(k)a of the Canadian Environ-    sur l’évaluation environnementaleb, Son Excellence le
+mental Assessment Actb, hereby makes the annexed         Gouverneur général en conseil prend le Règlement sur
+Canada Port Authority Environmental Assessment Regu-     l’évaluation environnementale concernant les adminis-
+lations.                                                 trations portuaires canadiennes, ci-après.
+
+
+
+
+a                                                         a 
+     S.C. 1998, c. 10, s. 166                                  L.C. 1998, ch. 10, art. 166
+b                                                         b 
+     S.C. 1992, c. 37                                          L.C. 1992, ch. 37
+CANADA PORT AUTHORITY ENVIRONMENTAL                               RÈGLEMENT       SUR    L’ÉVALUATION
+   ASSESSMENT REGULATIONS                                            ENVIRONNEMENTALE CONCERNANT LES
+                                                                     ADMINISTRATIONS        PORTUAIRES
+                                                                     CANADIENNES
+
+                  INTERPRETATION                                                       DÉFINITIONS
+   1. The definitions in this section apply in these Regu-          1. Les définitions qui suivent s’appliquent au présent
+lations.                                                          règlement.
+“Act” means the Canadian Environmental Assessment                 « APC » Administration portuaire constituée en vertu de
+Act. (Loi)                                                        l’article 8 de la Loi maritime du Canada. (CPA)
+“CPA” means a port authority established under section            « Loi » La Loi canadienne sur l’évaluation environne-
+8 of the Canada Marine Act. (APC)                                 mentale. (Act)
+
+                     APPLICATION                                                 CHAMP D’APPLICATION
+   2. These Regulations apply where an assessment of                 2. Le présent règlement s’applique à l’évaluation des
+the environmental effects of a project has not been com-          effets environnementaux d’un projet qui n’est pas encore
+pleted before the coming into force of these Regulations.         terminée à l’entrée en vigueur du présent règlement.
+
+                       GENERAL                                                 DISPOSITIONS GÉNÉRALES
+   3. (1) Subject to subsection (2), a CPA shall conduct             3. (1) Sous réserve du paragraphe (2), l’APC doit ef-
+an environmental assessment of a project in accordance            fectuer une évaluation environnementale de tout projet
+with these Regulations before exercising a power or per-          en conformité avec le présent règlement avant l’exercice
+forming a duty or function referred to in paragraphs              de toute attribution visée aux alinéas 5(1)a) à c) de la
+5(1)(a) to (c) of the Act.                                        Loi.
+  (2) An environmental assessment of a project is not               (2) L’évaluation environnementale d’un projet n’est
+required if                                                       pas obligatoire dans les cas suivants :
+  (a) the project is described in the exclusion list;               a) le projet est visé dans la liste d’exclusion;
+  (b) the project is to be carried out in response to a na-         b) il est mis en œuvre en réaction à une situation de
+  tional emergency for which special temporary mea-                 crise nationale pour laquelle des mesures d’interven-
+  sures are being taken under the Emergencies Act; or               tion sont prises aux termes de la Loi sur les mesures
+  (c) the project is to be carried out in response to an            d’urgence;
+  emergency and carrying out the project at once is in              c) il est mis en œuvre en réaction à une situation d’ur-
+  the interest of preventing damage to property or the              gence et il importe, soit pour la protection des biens
+  environment or is in the interest of public health or             ou de l’environnement, soit pour la santé ou la sécuri-
+  safety.                                                           té publiques, de le mettre en œuvre sans délai.
+   4. If an environmental assessment of a project is re-             4. Lorsque l’évaluation environnementale d’un projet
+quired, the CPA shall conduct it as early as is practicable       est obligatoire, l’APC doit l’effectuer le plus tôt possible
+in the planning stages of the project and before irrevoca-        au stade de la planification du projet, avant la prise d’une
+ble decisions are made.                                           décision irrévocable.
+  5. The environmental assessment of a project by a                  5. L’évaluation environnementale d’un projet par
+CPA shall include, where applicable,                              l’APC comporte, le cas échéant :
+
+
+
+
+                                                              1
+                                            SOR/99-318 — October 6, 2010
+
+
+
+
+  (a) a screening and the preparation of a screening re-             a) un examen préalable et l’établissement d’un rap-
+  port, if the project is not described in the comprehen-            port d’examen préalable, si le projet n’est pas visé
+  sive study list;                                                   dans la liste d’étude approfondie;
+  (b) a comprehensive study and the preparation of a                 b) une étude approfondie et l’établissement d’un rap-
+  comprehensive study report, if the project is described            port d’étude approfondie, si le projet est visé dans la
+  in the comprehensive study list;                                   liste d’étude approfondie;
+  (c) assessment by a review panel and the preparation               c) un examen par une commission et l’établissement
+  of a report; and                                                   d’un rapport;
+  (d) the design and implementation of a follow-up pro-              d) l’élaboration et l’application d’un programme de
+  gram.                                                              suivi.
+  6. The scope of a project in relation to which an envi-            6. La portée du projet qui fait l’objet d’une évaluation
+ronmental assessment is to be conducted shall be deter-            environnementale est établie, selon le cas :
+mined by                                                             a) par l’APC;
+  (a) a CPA; or                                                      b) dans le cas où le projet est soumis à l’examen
+  (b) if the project is referred to a review panel, the              d’une commission, par le ministre, après consultation
+  Minister, after consulting with the relevant CPA and               de l’APC et du ministre des Transports.
+  the Minister of Transport.
+  7. A CPA shall not exercise any power or perform                    7. L’APC ne peut exercer les attributions visées à
+any duty or function referred to in section 3 in relation to       l’article 3 à l’égard d’un projet que si elle prend une dé-
+a project unless it takes a course of action pursuant to           cision aux termes du paragraphe 15(1) ou des articles 19
+subsection 15(1) or section 19 or 28.                              ou 28.
+   8. If there is a CPA and one or more responsible au-               8. Lorsque l’APC ainsi qu’une ou plusieurs autorités
+thorities in relation to a project, subsections 12(1) and          responsables sont chargées d’un même projet, les para-
+(2) of the Act apply, with any modifications that are nec-         graphes 12(1) et (2) de la Loi s’appliquent avec les adap-
+essary.                                                            tations nécessaires.
+   9. A CPA may request that any person, body, or juris-              9. L’APC peut demander à une personne, à un orga-
+diction, within the meaning of subsection 12(5) of the             nisme ou à une instance au sens du paragraphe 12(5) de
+Act, carry out any part of the screening or comprehen-             la Loi d’effectuer, en tout ou en partie, l’examen préa-
+sive study of a project including the preparation of the           lable ou l’étude approfondie d’un projet, y compris l’éta-
+screening report or comprehensive study report, except             blissement des rapports correspondants, ainsi que la
+the requirement to take a course of action under subsec-           conception et la mise en œuvre de toute partie d’un pro-
+tion 15(1) or section 19, and may request that the person,         gramme de suivi, à l’exclusion de la prise de toute déci-
+body or jurisdiction carry out any part of the design and          sion prévue au paragraphe 15(1) ou à l’article 19.
+implementation of a follow-up program.
+
+                      SCREENING                                                    EXAMEN PRÉALABLE
+   10. (1) If a project is not described in the comprehen-           10. (1) Lorsqu’un projet n’est pas visé dans la liste
+sive study list, the CPA shall ensure that a screening of          d’étude approfondie, l’APC veille à ce que soient effec-
+
+
+
+
+                                                               2
+                                           DORS/99-318 — 6 octobre 2010
+
+
+
+
+the project is conducted and a screening report is pre-           tués un examen préalable du projet et l’établissement
+pared.                                                            d’un rapport d’examen préalable.
+   (2) Every screening of a project shall include a con-            (2) Chaque examen préalable d’un projet porte no-
+sideration of the following factors:                              tamment sur les éléments suivants :
+  (a) the environmental effects of the project, including           a) les effets environnementaux du projet, y compris
+  the environmental effects of malfunctions or accidents            ceux causés par les accidents ou défaillances pouvant
+  that may occur in connection with the project and any             en résulter, et les effets cumulatifs que sa réalisation,
+  cumulative environmental effects that are likely to re-           combinée à l’existence d’autres ouvrages ou à la réali-
+  sult from the project in combination with other                   sation d’autres projets ou activités, est susceptible de
+  projects or activities that have been or will be carried          causer à l’environnement;
+  out;                                                              b) l’importance des effets visés à l’alinéa a);
+  (b) the significance of the effects referred to in para-          c) toute observation du public reçue dans le cadre du
+  graph (a);                                                        processus d’évaluation;
+  (c) comments from the public that are received as part            d) les mesures d’atténuation réalisables, sur les plans
+  of an assessment process, if any; and                             technique et économique, des effets environnemen-
+  (d) technically and economically feasible measures                taux négatifs importants du projet.
+  that would mitigate any significant adverse environ-
+  mental effects of the project.
+  (3) The scope of the factors to be considered under               (3) Il incombe à l’APC d’établir la portée des élé-
+paragraphs (2)(a), (b) and (d) shall be determined by the         ments visés aux alinéas (2)a), b) et d).
+CPA.
+   11. (1) If the CPA is aware of any special circum-                11. (1) Si l’APC a connaissance de circonstances
+stances of a project that would make the project of inter-        particulières d’un projet qui susciteraient l’intérêt du pu-
+est to the public or if public participation is required by       blic ou si la participation du public à l’examen préalable
+any Act of Parliament or regulation made under it, the            est exigée par une loi fédérale ou ses règlements, elle
+CPA shall give the public notice of the screening and             donne avis au public de l’examen et lui donne la possibi-
+shall give the public an opportunity to participate in the        lité d’y participer.
+screening.
+   (2) Before taking a course of action under subsection             (2) Avant de prendre une décision prévue au para-
+15(1), if the CPA is aware of any special circumstances           graphe 15(1), si l’APC a connaissance de circonstances
+of a project that would make the project of interest to the       particulières d’un projet qui susciteraient l’intérêt du pu-
+public or if public participation is required by any Act of       blic ou si la participation du public à l’examen préalable
+Parliament or regulation made under it, the CPA shall             est exigée par une loi fédérale ou ses règlements, elle
+give the public notice of the screening and an opportuni-         donne avis au public de l’examen et lui donne la possibi-
+ty to examine and comment on the screening report and             lité d’examiner le rapport d’examen et les documents
+on any record that has been filed in the public registry          consignés au registre public tenu conformément à l’ar-
+established in respect of the project in accordance with          ticle 31 et de faire des observations à leur égard.
+section 31.
+
+
+
+
+                                                              3
+                                            SOR/99-318 — October 6, 2010
+
+
+
+
+       MODEL CLASS SCREENING REPORT                              MODÈLE DE RAPPORT D’EXAMEN PRÉALABLE
+                                                                             PAR CATÉGORIE
+  12. (1) On the request of the CPA, the Agency may               12. (1) À la demande de l’APC, l’Agence peut déci-
+declare a report to be a model class screening report for       der qu’un rapport d’examen préalable peut servir de mo-
+projects of the same class.                                     dèle pour d’autres projets de même catégorie et faire une
+                                                                déclaration à cet effet.
+  (2) The report referred to in subsection (1) shall               (2) Le rapport d’examen préalable visé au paragraphe
+  (a) define the class of projects to which it applies;         (1) fait état de ce qui suit :
+
+  (b) define the geographic area to which it applies;             a) la catégorie de projets à laquelle il s’applique;
+
+  (c) include an environmental evaluation of the poten-           b) la région géographique visée;
+  tial environmental implications of the projects;                c) l’évaluation des conséquences environnementales
+  (d) establish the screening requirements for projects           éventuelles des projets;
+  within the class; and                                           d) les exigences relatives à l’examen préalable des
+  (e) establish the processes and procedures for imple-           projets de même catégorie;
+  mentation of the model class screening report.                  e) les processus et modalités d’application du modèle
+                                                                  de rapport d’examen préalable.
+  13. (1) Before making a declaration under subsection            13. (1) Avant de faire une déclaration aux termes du
+12(1), the Agency shall                                         paragraphe 12(1), l’Agence doit :
+  (a) publish a notice in a daily newspaper setting out           a) publier dans un quotidien un avis comportant les
+    (i) the date on which the report will be available to         renseignements suivants :
+    the public,                                                      (i) la date à laquelle le rapport d’examen préalable
+    (ii) the place at which copies of the report may be              sera accessible au public,
+    obtained, and                                                    (ii) le lieu d’obtention d’exemplaires du rapport,
+    (iii) the deadline and address for filing comments               (iii) l’adresse et la date limite pour la réception par
+    with the Agency on the appropriateness of the use                elle d’observations sur l’applicabilité du rapport
+    of the report as a model in conducting screenings of             comme modèle pour d’autres projets de même caté-
+    projects within the same class; and                              gorie;
+  (b) consider any comments filed in respect of the re-           b) prendre en compte les observations reçues sur le
+  port.                                                           rapport.
+   (2) Any declaration referred to in subsection 12(1)             (2) La déclaration visée au paragraphe 12(1) est pu-
+shall be published by the Agency and the model class            bliée par l’Agence et celle-ci rend accessible au public le
+screening report shall be made available to the public by       modèle de rapport d’examen préalable et le consigne au
+the Agency and at the public registry maintained by the         registre public tenu par l’APC conformément à l’article
+CPA in accordance with section 31.                              31.
+   14. (1) If a project or part of a project is within a           14. (1) Si tout ou partie d’un projet appartient à une
+class of projects for which a declaration has been made         catégorie de projets pour laquelle une déclaration a été
+in accordance with subsection 12(1), the CPA may use            faite conformément au paragraphe 12(1), l’APC peut uti-
+
+
+
+
+                                                            4
+                                           DORS/99-318 — 6 octobre 2010
+
+
+
+
+the model class screening report for the purpose of com-          liser le modèle de rapport d’examen préalable pour se
+plying with subsection 10(1).                                     conformer au paragraphe 10(1).
+   (2) Where the Agency determines that a model class                (2) Si l’Agence décide qu’un rapport d’examen préa-
+screening report can no longer be used as a model in              lable ne peut plus servir de modèle pour d’autres projets
+conducting screenings of other projects within the same           de même catégorie, elle fait une déclaration à cet effet.
+class, the Agency shall declare the report not to be a
+model class screening report.
+  (3) Any declaration made under subsection (2) shall                (3) La déclaration visée au paragraphe (2) est publiée
+be published by the Agency and be made available at the           par l’Agence et consignée au registre public tenu par
+public registry maintained by the CPA in accordance               l’APC conformément à l’article 31.
+with section 31.
+
+                 COURSE OF ACTION                                                       DÉCISIONS
+   15. (1) A CPA shall take one of the following cours-              15. (1) Après avoir pris en compte le rapport d’exa-
+es of action in respect of a project after taking into con-       men préalable et toute observation du public ayant parti-
+sideration the screening report and comments emanating            cipé à l’examen, l’APC prend l’une des mesures
+from public participation in its review:                          suivantes :
+  (a) subject to subparagraph (c)(iii), where, taking into          a) sous réserve du sous-alinéa c)(iii), si la réalisation
+  account the implementation of any technically and                 du projet n’est pas susceptible d’entraîner des effets
+  economically feasible mitigation measures, the project            environnementaux négatifs importants, compte tenu
+  is not likely to cause significant adverse environmen-            de l’application de mesures d’atténuation réalisables
+  tal effects, the CPA may exercise any power or per-               sur les plans technique et économique, elle peut exer-
+  form any duty or function referred to in paragraphs               cer toute attribution visée aux alinéas 5(1)a) à c) de la
+  5(1)(a) to (c) of the Act;                                        Loi;
+  (b) where, taking into account the implementation of              b) si, compte tenu de l’application de mesures d’atté-
+  any technically and economically feasible mitigation              nuation réalisables sur les plans technique et écono-
+  measures, the project is likely to cause significant ad-          mique, la réalisation du projet est susceptible d’entraî-
+  verse environmental effects that cannot be justified in           ner des effets environnementaux négatifs importants
+  the circumstances, the CPA shall not exercise any                 qui ne peuvent être justifiés dans les circonstances,
+  power or perform any duty or function referred to in              l’APC ne peut exercer aucune des attributions visées
+  paragraphs 5(1)(a) to (c) of the Act; or                          aux alinéas 5(1)a) à c) de la Loi;
+  (c) the CPA shall refer the project to the Minister of            c) l’APC s’adresse au ministre des Transports qui, à
+  Transport, who will submit it to the Minister for a re-           son tour, s’adresse au ministre pour l’examen du pro-
+  ferral to a review panel if                                       jet par une commission dans les cas suivants :
+     (i) the CPA is uncertain whether the project, taking             (i) l’APC n’est pas certaine, compte tenu de l’ap-
+     into account the implementation of any technically               plication de mesures d’atténuation réalisables sur
+     and economically feasible mitigation measures, is                les plans technique et économique, que la réalisa-
+     likely to cause significant adverse environmental                tion du projet soit susceptible d’entraîner des effets
+     effects,                                                         environnementaux négatifs importants,
+
+
+
+
+                                                              5
+                                             SOR/99-318 — October 6, 2010
+
+
+
+
+     (ii) the project, taking into account the implemen-              (ii) la réalisation du projet, compte tenu de l’appli-
+     tation of any technically and economically feasible              cation de mesures d’atténuation réalisables sur les
+     mitigation measures, is likely to cause significant              plans technique et économique, est susceptible
+     adverse environmental effects and paragraph (b)                  d’entraîner des effets environnementaux négatifs
+     does not apply, or                                               importants et l’alinéa b) ne s’applique pas,
+     (iii) public concerns warrant a reference to a re-               (iii) les préoccupations du public le justifient.
+     view panel.
+  (2) If a CPA takes a course of action referred to in              (2) L’APC qui prend la décision prévue à l’alinéa
+paragraph (1)(a), it shall                                       (1)a) doit :
+  (a) ensure that any mitigation measures referred to in           a) veiller à l’application des mesures d’atténuation vi-
+  that paragraph in respect of the project are implement-          sées à cet alinéa;
+  ed;                                                              b) élaborer tout programme de suivi indiqué et veiller
+  (b) design a follow-up program, if appropriate for the           à son application;
+  project, and arrange for the implementation of that              c) porter à la connaissance du public :
+  program; and
+                                                                      (i) sa décision relativement au projet,
+  (c) advise the public of
+                                                                      (ii) les mesures d’atténuation des effets environne-
+     (i) its course of action in relation to the project,             mentaux négatifs qui seront mises en œuvre,
+     (ii) any mitigation measures to be implemented                   (iii) le programme de suivi élaboré pour le projet,
+     with respect to adverse environmental effects of the
+     project,                                                         (iv) les résultats du programme de suivi.
+
+     (iii) any follow-up program designed for the
+     project, and
+     (iv) the results of any follow-up program.
+  (3) If a CPA takes a course of action referred to in             (3) L’APC qui prend la décision visée à l’alinéa (1)b)
+paragraph (1)(b), it shall file a notice of that course of       en fait consigner un avis au registre public qu’elle tient
+action in the public registry maintained by the CPA in           conformément à l’article 31.
+accordance with section 31.
+
+              COMPREHENSIVE STUDY                                                ÉTUDE APPROFONDIE
+   16. (1) If a project is described in the comprehensive          16. (1) Lorsqu’un projet est visé dans la liste d’étude
+study list, the CPA shall                                        approfondie, l’APC doit, selon le cas :
+  (a) ensure that a comprehensive study is conducted               a) veiller à ce que soient effectués une étude appro-
+  and a comprehensive study report is prepared and pro-            fondie et l’établissement d’un rapport d’étude appro-
+  vided to the Agency and the Minister of Transport be-            fondie à remettre au ministre des Transports et à
+  fore or on the date referred to in paragraph 18(1)(a);           l’Agence au plus tard à la date visée à l’alinéa
+  or                                                               18(1)a);
+
+
+
+
+                                                             6
+                                           DORS/99-318 — 6 octobre 2010
+
+
+
+
+  (b) refer the project to the Minister of Transport, who           b) s’adresser au ministre des Transports qui, à son
+  will submit it to the Minister for a referral to a review         tour, s’adresse au ministre pour l’examen du projet
+  panel.                                                            par une commission.
+   (2) In addition to the factors set out in subsection             (2) En plus des éléments énoncés au paragraphe
+10(2), each comprehensive study of a project and each             10(2), l’étude approfondie d’un projet et l’examen par
+assessment by a review panel shall include a considera-           une commission portent sur les éléments suivants :
+tion of the following factors:                                      a) les raisons d’être du projet;
+  (a) the purpose of the project;                                   b) les solutions de rechange réalisables, sur les plans
+  (b) alternative means of carrying out the project that            technique et économique, et leurs effets environne-
+  are technically and economically feasible and the en-             mentaux;
+  vironmental effects of any such alternative means;                c) la nécessité d’un programme de suivi du projet,
+  (c) the need for, and the requirements of, any follow-            ainsi que ses modalités;
+  up program for the project; and                                   d) la capacité des ressources renouvelables, risquant
+  (d) the capacity of renewable resources that are likely           d’être touchées de façon importante par le projet, de
+  to be significantly affected by the project to meet the           répondre aux besoins du présent et à ceux des généra-
+  needs of the present and those of the future.                     tions futures.
+   17. The scope of the factors to be taken into consider-           17. L’évaluation de la portée des éléments visés aux
+ation under paragraphs 10(2)(a), (b) and (d) and                  alinéas 10(2)a), b) et d) et 16(2)b), c) et d) incombe pour
+16(2)(b), (c) and (d) shall be established for each assess-       chaque évaluation :
+ment by                                                             a) soit à l’APC;
+  (a) a CPA; or                                                     b) soit, si le projet est soumis à l’examen d’une com-
+  (b) if the project is referred to a review panel, the             mission, au ministre, après consultation de l’APC et
+  Minister, after consulting with the CPA and the Min-              du ministre des Transports.
+  ister of Transport.
+   18. (1) After preparing a comprehensive study report             18. (1) Après avoir établi un rapport d’étude appro-
+in respect of a project, the CPA shall publish a notice           fondie, l’APC doit publier un avis comportant les rensei-
+setting out the following information in a manner that            gnements suivants de façon à attirer l’attention du
+brings the notice to the attention of the public:                 public :
+  (a) the date on which the comprehensive study report              a) la date à laquelle le rapport sera accessible au pu-
+  will be available to the public;                                  blic;
+  (b) the place at which copies of the report may be ob-            b) le lieu d’obtention d’exemplaires du rapport;
+  tained; and                                                       c) un délai d’au moins 30 jours pour la réception par
+  (c) a deadline, which shall be a minimum of 30 days,              elle d’observations sur les conclusions et les recom-
+  and the address for the filing with the CPA of com-               mandations du rapport et l’adresse où envoyer ces ob-
+  ments on the conclusions and recommendations of the               servations.
+  report.
+   (2) Any person may submit comments to the CPA re-                (2) Avant l’expiration du délai prévu à l’alinéa (1)c),
+lating to the conclusions and recommendations and any             toute personne peut présenter à l’APC ses observations
+
+
+
+                                                              7
+                                            SOR/99-318 — October 6, 2010
+
+
+
+
+other aspect of the comprehensive study report before              relativement aux conclusions, aux recommandations et à
+the deadline referred to in paragraph (1)(c).                      tout autre aspect du rapport d’étude approfondie.
+   19. The CPA shall take one of the courses of action               19. Après avoir pris en compte le rapport d’étude ap-
+referred to in subsection 15(1) in respect of a project af-        profondie et toute observation présentée en vertu du pa-
+ter taking into consideration the comprehensive study re-          ragraphe 18(2), l’APC prend l’une des décisions prévues
+port and any comments submitted in accordance with                 au paragraphe 15(1).
+subsection 18(2).
+
+                    REVIEW PANEL                                                        COMMISSION
+  20. The CPA may at any time submit a request that a                 20. À tout moment l’APC peut présenter une de-
+project be referred to a review panel to the Minister of           mande au ministre des Transports qui, à son tour,
+Transport, who will refer the request to the Minister, if          s’adresse au ministre pour l’examen du projet par une
+  (a) a project, taking into account the implementation            commission, dans les cas suivants :
+  of any technically and economically feasible mitiga-               a) le projet, compte tenu de l’application de mesures
+  tion measures, may cause significant adverse environ-              d’atténuation réalisables sur les plans technique et
+  mental effects; or                                                 économique, est susceptible d’entraîner des effets en-
+  (b) public concerns warrant a reference to a review                vironnementaux négatifs importants;
+  panel.                                                             b) les préoccupations du public le justifient.
+   21. The Minister, after consulting with the Minister               21. Après consultation du ministre des Transports et
+of Transport and the CPA, may at any time or on the re-            de l’APC, le ministre peut, à tout moment ou à la de-
+quest of the CPA under section 20, refer a project to a            mande de l’APC aux termes de l’article 20, soumettre le
+review panel in accordance with section 29 of the Act              projet à l’examen d’une commission conformément à
+based on consideration, in addition to the factors referred        l’article 29 de la Loi si, outre les éléments mentionnés
+to in paragraphs 20(a) and (b), of the following factors:          aux alinéas 20a) et b), les éléments suivants le justifient :
+  (a) the level and nature of public concern about the               a) la nature et le degré des préoccupations du public
+  project;                                                           relativement au projet;
+  (b) the extent to which the issues of public concern               b) la mesure dans laquelle le public se préoccupe des
+  relate to potentially significant environmental effects            effets environnementaux qui peuvent être importants
+  and to matters under federal jurisdiction;                         ainsi que des questions de compétence fédérale;
+  (c) any scientific or technical information relating to            c) les renseignements scientifiques ou techniques
+  the project;                                                       ayant trait au projet;
+  (d) the extent to which, and the manner in which, the              d) la portée de toute évaluation environnementale ou
+  project has undergone an environmental assessment,                 de tout autre examen gouvernemental ou public au-
+  other government review or public review; and                      quel a été soumis le projet et les modalités de l’éva-
+  (e) the likely ability of a review panel, if appointed, to         luation ou de l’examen;
+  complete its work and contribute to resolving issues of            e) le fait que la commission, si elle est constituée, se-
+  public concern.                                                    ra en mesure ou non d’exécuter son travail et de
+                                                                     contribuer à régler les questions soulevées par les pré-
+                                                                     occupations du public.
+
+
+
+
+                                                               8
+                                            DORS/99-318 — 6 octobre 2010
+
+
+
+
+   22. After consulting with the Minister of Transport                22. Après consultation du ministre des Transports et
+and the CPA, the Minister may enter into an agreement              de l’APC, le ministre peut conclure, avec tout organisme
+or arrangement with an agency or body established pur-             établi sous le régime d’une loi fédérale ou provinciale et
+suant to an Act of Parliament or the legislature of a              ayant des attributions relatives à l’évaluation environne-
+province and having powers, duties or functions in rela-           mentale d’un projet, tout accord relatif à la constitution
+tion to an assessment of the environmental effects of a            conjointe d’une commission et aux modalités d’examen
+project respecting the joint establishment of a review             des effets environnementaux du projet par celle-ci.
+panel and the manner in which an assessment of the en-
+vironmental effects of the project is to be conducted by
+the review panel.
+  23. (1) If a project is referred to a review panel, the             23. (1) Lorsqu’un projet est soumis à l’examen d’une
+Minister shall, after consulting with the Minister of              commission, le ministre, après consultation du ministre
+Transport and the CPA, appoint members of the panel                des Transports et de l’APC, nomme les membres de la
+and fix the terms of reference of the panel under section          commission et fixe le mandat de celle-ci aux termes de
+33 of the Act.                                                     l’article 33 de la Loi.
+   (2) The Minister after consulting with the CPA and                 (2) Après consultation de l’APC et compte tenu de la
+after considering the nature and complexity of the                 nature et de la complexité du projet, le ministre peut exi-
+project, may require that an assessment by a review pan-           ger que la commission, dans son examen, prenne en
+el shall include, in addition to the factors set out in sub-       compte, outre les éléments prévus aux paragraphes 10(2)
+sections 10(2) and 16(2), a consideration of any other             et 16(2), tout autre élément utile à l’examen, notamment
+matter relevant to the assessment, such as the need for            la nécessité du projet et ses solutions de rechange.
+the project and alternatives to the project.
+   24. A review panel shall conduct its review in accor-              24. La commission doit procéder à l’examen confor-
+dance with the Procedures for an Assessment by a Re-               mément à son mandat ainsi qu’aux Procédures d’exa-
+view Panel, published by the Agency, as amended from               men par une commission publiées par l’Agence, compte
+time to time, and with its terms of reference.                     tenu de leurs modifications éventuelles.
+   25. A review panel shall submit its report to the Min-             25. La commission doit présenter son rapport au mi-
+ister, the Minister of Transport and the CPA.                      nistre, au ministre des Transports et à l’APC.
+  26. Sections 34 and 35 of the Act apply to a review                26. Les articles 34 et 35 de la Loi s’appliquent à la
+panel.                                                             commission.
+  27. (1) Where a review panel submits a report, the                  27. (1) Une fois le rapport de la commission présen-
+Minister of Transport shall, after consulting with and on          té, le ministre des Transports, après consultation de
+behalf of the CPA, take into consideration the report              l’APC et au nom de celle-ci, est tenu de prendre en
+and, with the approval of the Governor in Council, re-             compte le rapport et, avec l’agrément du gouverneur en
+spond to the report.                                               conseil, d’y donner suite.
+  (2) The approval of the response referred to in sub-               (2) L’agrément du gouverneur en conseil visé au pa-
+section (1) shall be based on the public interest.                 ragraphe (1) est fondé sur l’intérêt public.
+  (3) The Governor in Council may, for the purpose of                 (3) Le gouverneur en conseil peut demander des pré-
+giving the approval referred to in subsection (1), require         cisions sur l’une ou l’autre des conclusions du rapport.
+
+
+
+
+                                                               9
+                                            SOR/99-318 — October 6, 2010
+
+
+
+
+the review panel to clarify any of the recommendations
+set out in the report.
+   28. (1) The CPA shall take one of the following                    28. (1) L’APC prend l’une des décisions suivantes
+courses of action that is in conformity with the approval          conformément à l’agrément du gouverneur en conseil vi-
+of the Governor in Council referred to in section 27:              sé à l’article 27 :
+  (a) the CPA may exercise any power or perform any                  a) elle exerce les attributions visées aux alinéas
+  duty or function referred to in paragraphs 5(1) (a) to             5(1)a) à c) de la Loi si, compte tenu de l’application
+  (c) of the Act, if, taking into account the implementa-            de mesures d’atténuation réalisables sur les plans tech-
+  tion of any technically and economically feasible miti-            nique et économique, la réalisation du projet :
+  gation measures,                                                     (i) n’est pas susceptible d’entraîner des effets envi-
+    (i) the project is not likely to cause significant ad-             ronnementaux négatifs importants,
+    verse environmental effects, or                                    (ii) est susceptible d’entraîner des effets environne-
+    (ii) the project is likely to cause significant adverse            mentaux négatifs importants qui sont justifiables
+    environmental effects that can be justified in the                 dans les circonstances;
+    circumstances; or                                                b) elle n’exerce pas les attributions visées aux alinéas
+  (b) the CPA shall not exercise a power or perform                  5(1)a) à c) de la Loi, si, compte tenu de l’application
+  any duty or function referred to in paragraphs 5(1)(a)             de mesures d’atténuation réalisables sur les plans tech-
+  to (c) of the Act if, taking into account the implemen-            nique et économique, la réalisation du projet est sus-
+  tation of any technically and economically feasible                ceptible d’entraîner des effets environnementaux né-
+  mitigation measures, the project is likely to cause sig-           gatifs importants qui ne sont pas justifiables dans les
+  nificant adverse environmental effects that cannot be              circonstances.
+  justified in the circumstances.
+  (2) If the CPA takes a course of action referred to in             (2) L’APC qui prend la décision visée à l’alinéa (1)a)
+paragraph (1)(a), it shall                                         doit :
+  (a) ensure that any mitigation measures referred to in             a) veiller à l’application des mesures d’atténuation vi-
+  that paragraph in respect of the project are implement-            sées à cet alinéa;
+  ed;                                                                b) élaborer tout programme de suivi indiqué et veiller
+  (b) design a follow-up program, if appropriate for the             à son application;
+  project, and arrange for the implementation of that                c) porter à la connaissance du public :
+  program; and
+                                                                       (i) sa décision relativement au projet,
+  (c) advise the public of
+                                                                       (ii) les mesures d’atténuation des effets environne-
+    (i) its course of action in relation to the project,               mentaux négatifs qui seront mises en œuvre,
+    (ii) any mitigation measures to be implemented                     (iii) le programme de suivi élaboré pour le projet,
+    with respect to adverse environmental effects of the
+    project,                                                           (iv) les résultats du programme de suivi.
+
+    (iii) any follow-up program designed for the
+    project, and
+    (iv) the results of any follow-up program.
+
+
+
+                                                              10
+                                          DORS/99-318 — 6 octobre 2010
+
+
+
+
+  (3) If the CPA takes a course of action referred to in            (3) L’APC qui prend la décision visée à l’alinéa (1)b)
+paragraph (1)(b), it shall file a notice of that course of        en fait consigner un avis au registre public qu’elle tient
+action in the public registry maintained by the CPA in            conformément à l’article 31.
+accordance with section 31.
+
+              PREVIOUS ASSESSMENT                                            ÉVALUATIONS ANTÉRIEURES
+  29. Section 24 of the Act applies to a CPA, with any               29. L’article 24 de la Loi s’applique, avec les adapta-
+modifications that are necessary, with respect to previ-          tions nécessaires, à l’APC relativement à toute évalua-
+ously conducted environmental assessments.                        tion environnementale antérieure d’un projet.
+
+         TERMINATION OF ASSESSMENT                                            ARRÊT D’UNE ÉVALUATION
+   30. Sections 26 and 27 of the Act apply to a CPA,                 30. Les articles 26 et 27 de la Loi s’appliquent, avec
+with any modifications that are necessary, with respect           les adaptations nécessaires, à l’APC relativement à l’ar-
+to the termination of an environmental assessment.                rêt d’une évaluation environnementale d’un projet.
+
+                 PUBLIC REGISTRIES                                                REGISTRES PUBLICS
+  31. Subsections 55(1) to (4) of the Act apply to a                 31. Les paragraphes 55(1) à (4) de la Loi s’ap-
+CPA and to the Agency, with any modifications that are            pliquent, avec les adaptations nécessaires, à l’APC et à
+necessary, with respect to public registries.                     l’Agence relativement à la tenue d’un registre public.
+
+                COMING INTO FORCE                                                 ENTRÉE EN VIGUEUR
+  32. These Regulations come into force on the day on               32. Le présent règlement entre en vigueur à la date de
+which they are registered.                                        son enregistrement.
+
+
+
+
+                                                             11
+

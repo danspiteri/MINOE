@@ -1,0 +1,361 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+            Disposal at Sea                                                 Règlement sur
+             Regulations                                                 l’immersion en mer
+
+                     SOR/2001-275                                                      DORS/2001-275
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published            31. (1) Every copy of a consolidated statute or             31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies       (3) In the event of an inconsistency between a             (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                                Enregistrement
+SOR/2001-275 August 1, 2001                                 DORS/2001-275 Le 1er août 2001
+CANADIAN ENVIRONMENTAL PROTECTION ACT,                      LOI CANADIENNE SUR LA PROTECTION DE
+1999                                                        L’ENVIRONNEMENT (1999)
+
+Disposal at Sea Regulations                                 Règlement sur l’immersion en mer
+
+P.C. 2001-1353 August 1, 2001                               C.P. 2001-1353 Le 1er août 2001
+
+   Whereas, pursuant to subsection 332(1) of the Cana-         Attendu que, conformément au paragraphe 332(1) de
+dian Environmental Protection Act, 1999a, the Minister      la Loi canadienne sur la protection de l’environnement
+of the Environment published in the Canada Gazette,         (1999)a, le ministre de l’Environnement a fait publier
+Part I, on February 17, 2001, a copy of the proposed Dis-   dans la Gazette du Canada Partie I, le 17 février 2001, le
+posal at Sea Regulations, substantially in the annexed      projet de règlement intitulé Règlement sur l’immersion
+form, and persons were given an opportunity to file com-    en mer, conforme en substance au texte ci-après, et que
+ments with respect to the Regulations or to file a notice   les intéressés ont ainsi eu la possibilité de présenter leurs
+of objection requesting that a board of review be estab-    observations à cet égard ou un avis d’opposition motivé
+lished and stating the reasons for the objection;           demandant la constitution d’une commission de révision,
+   Therefore, Her Excellency the Governor General in           À ces causes, sur recommandation du ministre de
+Council, on the recommendation of the Minister of the       l’Environnement et en vertu du paragraphe 135(1) de la
+Environment, pursuant to subsection 135(1) of the Cana-     Loi canadienne sur la protection de l’environnement
+dian Environmental Protection Act, 1999a, hereby makes      (1999)a, Son Excellence la Gouverneure générale en
+the annexed Disposal at Sea Regulations.                    conseil prend le Règlement sur l’immersion en mer, ci-
+                                                            après.
+
+
+
+
+a                                                            a 
+     S.C. 1999, c. 33                                             L.C. 1999, ch. 33
+DISPOSAL AT SEA REGULATIONS                                       RÈGLEMENT SUR L’IMMERSION EN MER
+
+                  INTERPRETATION                                                      DÉFINITIONS
+   1. The definitions in this section apply in these Regu-          1. Les définitions qui suivent s’appliquent au présent
+lations.                                                          règlement.
+“Act” means the Canadian Environmental Protection                 « journal de bord » Le journal de bord réglementaire visé
+Act, 1999. (Loi)                                                  à l’article 261 de la Loi sur la marine marchande du
+“log-book” means the official log referred to in section          Canada. (log-book)
+261 of the Canada Shipping Act. (journal de bord)                 « Loi » La Loi canadienne sur la protection de l’environ-
+                                                                  nement (1999). (Act)
+
+  CONTENTS OF REPORT UNDER SUBSECTION                             CONTENU DU RAPPORT VISÉ AU PARAGRAPHE
+            130(4) OF THE ACT                                                 130(4) DE LA LOI
+  2. (1) A report under subsection 130(4) of the Act                2. (1) Le rapport visé au paragraphe 130(4) de la Loi
+with respect to emergencies described in subsection               — portant sur un cas d’urgence — doit comprendre les
+130(1) shall contain the following information:                   renseignements suivants :
+  (a) if the disposal is from a ship or a platform,                 a) lorsque l’immersion se fait à partir d’un navire ou
+     (i) the name of the ship or platform, the name of              d’une plate-forme :
+     the master of the ship or the person in charge of the            (i) le nom du navire ou de la plate-forme, le nom
+     platform and the name and address of its owner,                  du capitaine du navire ou du responsable de la
+     and                                                              plate-forme et les nom et adresse du propriétaire,
+     (ii) the port of registry, official number, if any,              (ii) le port d’enregistrement, le numéro officiel, le
+     overall length, extreme breadth, overall height and              cas échéant, la longueur hors tout, la largeur maxi-
+     deadweight tonnage of the ship or the platform;                  male, la hauteur hors tout et le port en lourd du na-
+  (b) if the disposal is from an aircraft,                            vire ou de la plate-forme;
+
+     (i) the name of the pilot-in-command and the name              b) lorsque l’immersion se fait à partir d’un aéronef :
+     and address of the aircraft’s owner, and                         (i) le nom du commandant de bord de l’aéronef et
+     (ii) the type, model, serial number, nationality and             les nom et adresse du propriétaire,
+     registration marks of the aircraft and its maximum               (ii) le type, le modèle, le numéro de série, la natio-
+     certificated take-off weight specified by its Certifi-           nalité et les marques d’immatriculation de l’aéronef
+     cate of Airworthiness;                                           et la masse maximale homologuée au décollage
+  (c) the last point of departure and the immediate des-              dont fait état le certificat de navigabilité de l’aéro-
+  tination of the ship or aircraft at the time at which the           nef;
+  disposal occurred;                                                c) le dernier point de départ et la prochaine destina-
+  (d) the latitude and longitude of the disposal site and           tion du navire ou de l’aéronef au moment de l’immer-
+  the depth of the sea at that place;                               sion;
+
+  (e) an extract of all portions of the log-book and man-           d) la latitude et la longitude du lieu de l’immersion,
+  ifests of the ship, platform or aircraft related to the           ainsi que la profondeur de la mer à ce lieu;
+  emergency;
+
+
+
+
+                                                              1
+                                          SOR/2001-275 — October 6, 2010
+
+
+
+  (f) a detailed description of the circumstances under              e) les extraits du journal de bord et des manifestes du
+  which the substance was disposed of and the date and               navire, de la plate-forme ou de l’aéronef qui portent
+  time of the disposal;                                              sur le cas d’urgence;
+  (g) a detailed description of the actions taken to mini-           f) un compte rendu détaillé des circonstances de l’im-
+  mize danger to human life and to the marine environ-               mersion, ainsi que la date et l’heure de l’immersion;
+  ment; and                                                          g) un état détaillé des mesures prises pour réduire au
+  (h) a description of the substance disposed of, includ-            minimum les risques d’atteinte à la vie humaine et au
+  ing                                                                milieu marin;
+    (i) information on the composition and nature of                 h) une description de la substance immergée, notam-
+    the substance that is sufficient to permit the identifi-         ment :
+    cation of the substance,                                            (i) les renseignements sur sa composition et sa na-
+    (ii) the quantity that was disposed of,                             ture qui suffisent à l’identifier,
+    (iii) the form of the substance, namely, solid, liquid              (ii) la quantité immergée,
+    or gas, and the methods used to package and con-                    (iii) sa forme — solide, liquide ou gazeuse — et, le
+    tain the substance, if any,
+                                                                        cas échéant, les méthodes d’emballage et de confi-
+    (iv) the trade name of the substance, if any, and                   nement,
+    (v) an estimate of the time required for the sub-                   (iv) son nom commercial, le cas échéant,
+    stance to disappear below the surface of the water.                 (v) le temps approximatif qu’elle a pris pour som-
+                                                                        brer.
+   (2) The report shall be delivered to the enforcement               (2) Le rapport est remis à l’agent de l’autorité désigné
+officer designated for the area where the disposal occurs          pour la région où a eu lieu l’immersion ou à toute autre
+or to any other person designated by the Governor in               personne désignée par le gouverneur en conseil et est
+Council and shall be submitted in written form or in an            présenté par écrit ou en une forme électronique compa-
+electronic format that is compatible with the one used by          tible avec celle du destinataire.
+the addressee.
+
+              NATIONAL ACTION LIST                                        LISTE D’INTERVENTION NATIONALE
+   3. For the purposes of sections 9 and 10 of Schedule              3. Pour l’application des articles 9 et 10 de l’annexe 6
+6 to the Act, the National Action List mechanisms for              de la Loi, les mécanismes de sélection des déchets ou
+screening waste or other matter shall consist of                   autres matières propres à la liste d’intervention nationale
+  (a) with respect to the Lower Level, an assessment of            sont les suivants :
+  the concentration of specified substances in the waste             a) quant au niveau inférieur, l’évaluation de la
+  or other matter; and                                               concentration de substances déterminées dans les dé-
+  (b) with respect to the Upper Level, an assessment of              chets ou autres matières;
+  biological responses.                                              b) quant au niveau supérieur, l’évaluation des réac-
+                                                                     tions biologiques.
+
+
+
+
+                                                               2
+                                                 DORS/2001-275 — 6 octobre 2010
+
+
+
+             MECHANISMS FOR SCREENING                                                  MÉCANISMES DE SÉLECTION
+   4. Waste or other matter referred to in items 1 and 4                    4. Sont considérés comme se situant au-dessous du
+of Schedule 5 to the Act that contains any of the sub-                   niveau inférieur de la liste d’intervention nationale les
+stances set out in column 1 of the table to this section,                déchets ou autres matières qui sont visés aux articles 1 et
+each at a concentration equal to or below the concentra-                 4 de l’annexe 5 de la Loi et qui contiennent l’une ou
+tion set out in column 2, shall be considered to be below                l’autre des substances énumérées à la colonne 1 du ta-
+the Lower Level of the National Action List.                             bleau du présent article pourvu qu’aucune de celles-ci ne
+                                                                         s’y retrouve en une concentration supérieure à celle pré-
+                                                                         vue à la colonne 2.
+                     TABLE LOWER LEVEL                                                  TABLEAU NIVEAU INFÉRIEUR
+
+          Column 1                         Column 2                                 Colonne 1                       Colonne 2
+Item      Substances                       Concentration                 Article    Substances                      Concentration
+          Metal                                                                     Métaux
+1.        Cadmium and its compounds        0.6 mg/kg (dry weight)        1.         Cadmium et ses composés         0,6 mg/kg (poids à sec)
+2.        Mercury and its compounds        0.75 mg/kg (dry weight)       2.         Mercure et ses composés         0,75 mg/kg (poids à sec)
+
+          Organic compounds                                                         Composés organiques
+3.        Total polycyclic aromatic        2500 µg/kg (dry weight)       3.         Hydrocarbures aromatiques       2500 µg/kg (poids à sec)
+          hydrocarbons (PAHs)                                                       polycycliques (HAP) totaux
+4.        Total polychlorinated biphenyls 100 µg/kg (dry weight)         4.         Biphényles polychlorés (BPC)    100 µg/kg (poids à sec)
+          (PCBs)                                                                    totaux
+
+          Other substances                                                          Autres substances
+5.        Persistent plastics and other       4% by volume               5.         Plastiques indestructibles et   4 % par volume
+          persistent synthetic materials in a                                       autres matières synthétiques
+          comminuted form                                                           persistantes (sous forme
+                                                                                    pulvérisée)
+SOR/2003-295, s. 1(F).                                                   DORS/2003-295, art. 1(F).
+
+   5. (1) Waste or other matter referred to in section 4                    5. (1) Les déchets ou autres matières qui sont visés à
+that contains any of the substances set out in column 1 of               l’article 4 et qui contiennent l’une ou l’autre des sub-
+the table to that section at a concentration above the con-              stances énumérées à la colonne 1 du tableau de cet ar-
+centration set out in column 2, shall be assessed using                  ticle en une concentration supérieure à celle prévue à la
+three marine or estuarine biological tests for sediment                  colonne 2 doivent être soumis à trois tests biologiques
+assessment, namely, an acute lethality test and                          marins ou estuariens visant à évaluer les sédiments, à sa-
+     (a) two sub-lethal tests; or                                        voir un test de létalité aiguë et :
+
+     (b) one sub-lethal and one bioaccumulation test.                         a) soit deux tests de toxicité sublétale;
+                                                                              b) soit un test de toxicité sublétale et un test de bioac-
+                                                                              cumulation.
+  (2) The acute lethality test shall be conducted using                     (2) Le test de létalité aiguë est effectué conformément
+the test methodology entitled Biological Test Method:                    à la Méthode d’essai biologique : méthode de référence
+Reference Method for Determining Acute Lethality of                      pour la détermination de la létalité aiguë d’un sédiment
+Sediment to Marine or Estuarine Amphipods (Reference                     pour des amphipodes marins ou estuariens (Méthode de
+Method EPS 1/RM/35), December 1998, published by                         référence SPE 1/RM/35), publiée en décembre 1998 par
+
+
+
+                                                                     3
+                                             SOR/2001-275 — October 6, 2010
+
+
+
+the Department of the Environment, as amended from                    le ministère de l’Environnement, compte tenu de ses mo-
+time to time.                                                         difications successives.
+   (3) The sub-lethal tests shall be conducted using any                 (3) Les tests de toxicité sublétale sont effectués
+of the test methodologies set out in Biological Test                  conformément à l’une ou l’autre des méthodes énumé-
+Method: Sublethal Toxicity Tests to Assess Sediments In-              rées dans la Méthode d’essai biologique : essais de toxi-
+tended for Disposal at Sea (Report; EPS 1/RM/40), May                 cité sublétale en vue de l’évaluation des sédiments desti-
+2001, published by the Department of the Environment,                 nés à l’immersion en mer (Rapport SPE 1/RM/40),
+as amended from time to time.                                         publiée en mai 2001 par le ministère de l’Environne-
+                                                                      ment, compte tenu de ses modifications successives.
+   (4) The bioaccumulation test shall be conducted using                 (4) Le test de bioaccumulation est effectué conformé-
+the test methodology entitled Guidance Manual: Bedded                 ment à la méthode intitulée Guidance Manual : Bedded
+Sediment Bioaccumulation Tests (EPA/600/R-93/183),                    Sediment Bioaccumulation Tests (EPA/600/R-93/183),
+September 1993, published by the United States Envi-                  publiée en septembre 1993 par l’Environmental Protec-
+ronmental Protection Agency, as amended from time to                  tion Agency des États-Unis, compte tenu de ses modifi-
+time.                                                                 cations successives.
+   (5) The tests shall be performed, and their results in-              (5) Les test doivent être réalisés — et les résultats
+terpreted, in accordance with generally accepted stan-                évalués — conformément aux normes généralement re-
+dards of good scientific practice at the time the tests are           connues régissant les bonnes pratiques scientifiques au
+performed.                                                            moment des tests.
+SOR/2003-295, s. 2.                                                   DORS/2003-295, art. 2.
+
+   6. If the results of the three marine or estuarine bio-               6. Si les résultats des trois tests biologiques marins ou
+logical tests set out in subsection 5(1) meet the criteria            estuariens visés au paragraphe 5(1) satisfont aux critères
+set out for those tests, the waste or other matter shall              établis pour ces tests, les déchets ou autres matières sont
+subsequently be considered to be below the Lower Level                considérés par la suite comme se situant au-dessous du
+of the National Action List.                                          niveau inférieur de la liste d’intervention nationale.
+   7. If the results of either the acute lethality test set out          7. Si les résultats soit du test de létalité aiguë prévu
+in subsection 5(1) or the two other tests set out in para-            au paragraphe 5(1), soit des deux autres tests prévus aux
+graph 5(1)(a) or (b) fail to meet the criteria set out for            alinéas 5(1)a) ou b) ne satisfont pas aux critères établis
+those tests, the waste or other matter shall be considered            pour ces tests, les déchets ou autres matières sont consi-
+to be above the Upper Level of the National Action List.              dérés comme se situant au-dessus du niveau supérieur de
+                                                                      la liste d’intervention nationale.
+  8. If the results of the acute lethality test set out in               8. Si les résultats du test de létalité aiguë prévu au pa-
+subsection 5(1) and one of the tests set out in paragraph             ragraphe 5(1) et l’un des deux autres tests prévus aux ali-
+5(1)(a) or (b) meet the criteria set out for those tests, the         néas 5(1)a) ou b) satisfont aux critères établis pour ces
+waste or other matter shall be considered to be below the             tests, les déchets ou autres matières sont considérés
+Upper Level but above the Lower Level of the National                 comme se situant au-dessous du niveau supérieur et au-
+Action List.                                                          dessus du niveau inférieur de la liste d’intervention na-
+                                                                      tionale.
+
+
+
+
+                                                                  4
+                                          DORS/2001-275 — 6 octobre 2010
+
+
+
+                  AREAS OF THE SEA                                                  ESPACE MARITIME
+   8.1 For the purposes of paragraph 122(2)(e) of the                 8.1 Pour l’application de l’alinéa 122(2)e) de la Loi,
+Act, the specified areas of the sea adjacent to the territo-       l’espace maritime contigu à la mer territoriale du Canada
+rial sea of Canada consist of the following waters:                s’entend des eaux suivantes :
+  (a) the waters of the North Arm of Fraser River                    a) les eaux du bras nord du fleuve Fraser limitées à
+  bounded on the east by a line at the eastern tip of                l’est par une ligne tracée à l’extrémité est de l’île Mit-
+  Mitchell Island from the south shore at the intersec-              chell à partir de la rive sud à l’intersection de
+  tion of 123°04′00′′ west longitude and 49°12′10′′                  123°04′00″ de longitude ouest et 49°12′10″ de latitude
+  north latitude to the north shore at the intersection of           nord jusqu’à la rive nord à l’intersection de
+  123°04′00′′ west longitude and 49°12′23′′ north lati-              123°04′00′′ de longitude ouest et 49°12′23′′ de latitude
+  tude;                                                              nord;
+  (b) the waters of the main channel of the Fraser River             b) les eaux de la branche principale du fleuve Fraser
+  downstream of the Alex Fraser Bridge through a line                situées en aval du pont Alex Fraser suivant une ligne
+  from the south shore of the channel at the intersection            tracée à partir de la rive sud de la branche à l’intersec-
+  of 122°56′33′′ west longitude and 49°09′28′′ north lat-            tion de 122°56′33′′ de longitude ouest et 49°09′28′′ de
+  itude to the north shore of the channel at the intersec-           latitude nord jusqu’à la rive nord de la branche à l’in-
+  tion of 122°57′29′′ west longitude and 49°10′33′′                  tersection de 122°57′29′′ de longitude ouest et
+  north latitude;                                                    49°10′33′′ de latitude nord;
+  (c) the waters of the Northwest Miramichi River east               c) les eaux de la rivière Miramichi Nord-Ouest si-
+  of a line from the south shore at the intersection of              tuées à l’est d’une ligne tracée à partir de la rive sud à
+  65°49′12′′ west longitude and 46°56′18′′ north latitude            l’intersection de 65°49′12′′ de longitude ouest et
+  to the north shore at the intersection of 65°49′02′′ west          46°56′18′′ de latitude nord jusqu’à la rive nord à l’in-
+  longitude and 46°56′29′′ north latitude;                           tersection de 65°49′02′′ de longitude ouest et
+  (d) the waters of the Southwest Miramichi River                    46°56′29′′ de latitude nord;
+  northeast of a line from the south shore at the intersec-          d) les eaux de la rivière Miramichi Sud-Ouest situées
+  tion of 65°40′22′′ west longitude and 46°51′55′′ north             au nord-est d’une ligne tracée à partir de la rive sud à
+  latitude to the north shore at the intersection of                 l’intersection de 65°40′22′′ de longitude ouest et
+  65°40′30′′ west longitude and 46°52′00′′ north lati-               46°51′55′′ de latitude nord jusqu’à la rive nord à l’in-
+  tude;                                                              tersection de 65°40′30′′ de longitude ouest et
+  (e) the waters of the east channel of the Mackenzie                46°52′00′′ de latitude nord;
+  River northeast of a line from the south shore at the              e) les eaux de la branche est du fleuve Mackenzie si-
+  intersection of 134°08′28′′ west longitude and                     tuées au nord-est d’une ligne tracée à partir de la rive
+  69°14′33′′ north latitude to the north shore at the inter-         sud à l’intersection de 134°08′28′′ de longitude ouest
+  section of 134°09′47′′ west longitude and 69°16′37′′               et 69°14′33′′ de latitude nord jusqu’à la rive nord à
+  north latitude;                                                    l’intersection de 134°09′47′′ de longitude ouest et
+  (f) the waters of the Mackenzie River and Beaufort                 69°16′37′′ de latitude nord;
+  Sea seaward of a line from the intersection of                     f) les eaux du fleuve Mackenzie et de la mer de Beau-
+  134°48′18′′ west longitude and 69°28′03′′ north lati-              fort situées au large d’une ligne tracée à partir de l’in-
+  tude, thence westward to the intersection of                       tersection de 134°48′18′′ de longitude ouest et
+  135°24′14′′ west longitude and 69°23′36′′ north lati-              69°28′03′′ de latitude nord, de là, vers l’ouest jusqu’à
+  tude, thence southwestward to the intersection of                  l’intersection de 135°24′14′′ de longitude ouest et
+
+
+
+                                                               5
+                                          SOR/2001-275 — October 6, 2010
+
+
+
+     135°50′17′′ west longitude and 69°05′32′′ north lati-          69°23′36′′ de latitude nord, de là vers le sud-ouest jus-
+     tude, thence southeastward to the intersection of              qu’à l’intersection de 135°50′17′′ de longitude ouest et
+     135°13′55′′ west longitude and 68°43′39′′ north lati-          69°05′32′′ de latitude nord, de là, vers le sud-est jus-
+     tude, thence southwestward to the intersection of              qu’à l’intersection de 135°13′55′′ de longitude ouest et
+     135°24′04′′ west longitude and 68°40′34′′ north lati-          68°43′39′′ de latitude nord, de là, vers le sud-ouest
+     tude; and                                                      jusqu’à l’intersection de 135°24′04′′ de longitude
+     (g) the waters of Bras d’Or Lake, St. Peters Inlet,            ouest et 68°40′34′′ de latitude nord;
+     Great Bras d’Or, St. Patricks Channel, Whycocomagh             g) en Nouvelle-Écosse, le lac Bras d’Or, le bras
+     Bay and St. Andrews Channel, in Nova Scotia.                   St. Peters, le Great Bras d’Or, le chenal St. Patricks, la
+SOR/2009-256, s. 1.                                                 baie Whycocomagh et le chenal St. Andrews.
+                                                                 DORS/2009-256, art. 1.
+
+                            FEES                                                            DROITS
+  9. The fee that is to accompany an application for a              9. Pour l’application des articles 127 et 128 de la Loi,
+permit referred to in section 127 or 128 of the Act is           la demande de permis est accompagnée d’un droit de
+$2,500.                                                          2 500 $.
+
+                           REPEAL                                                         ABROGATION
+  10. The Ocean Dumping Regulations, 19881 are re-                 10. Le Règlement de 1988 sur l’immersion de dé-
+pealed.                                                          chets en mer1 est abrogé.
+
+                      COMING INTO FORCE                                             ENTRÉE EN VIGUEUR
+  11. These Regulations come into force on the day                 11. Le présent règlement entre en vigueur à la
+on which they are registered.                                    date de son enregistrement.
+
+
+
+
+1                                                                 1 
+     SOR/89-500                                                        DORS/89-500
+
+
+
+                                                             6
+

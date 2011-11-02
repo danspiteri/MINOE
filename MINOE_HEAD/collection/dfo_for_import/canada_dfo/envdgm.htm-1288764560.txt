@@ -1,0 +1,266 @@
+
+
+     This consolidation is unofficial and is for reference only.  For the
+     official version of the regulations, consult the original documents
+     on file with the _R_e_g_i_s_t_r_y_ _o_f_ _R_e_g_u_l_a_t_i_o_n_s, or refer to the _R_o_y_a_l
+     _G_a_z_e_t_t_e_ _P_a_r_t_ _I_I.
+     Regulations are amended frequently.  Please check the list of
+     _R_e_g_u_l_a_t_i_o_n_s_ _b_y_ _A_c_t to see if there are any recent amendments to these
+     regulations filed with the Registry that are not yet included in this
+     consolidation.
+     Although every effort has been made to ensure the accuracy of this
+     electronic version, the Registry of Regulations assumes no
+     responsibility for any discrepancies that may have resulted from
+     reformatting.
+     This electronic version is copyright © 2009, _P_r_o_v_i_n_c_e_ _o_f_ _N_o_v_a_ _S_c_o_t_i_a,
+     all rights reserved.  It is for your personal use and may not be
+     copied for the purposes of resale in this or any other form.
+
+
+      _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+     |_DD_aa_nn_gg_ee_rr_oo_uu_ss_ _GG_oo_oo_dd_ss_ _MM_aa_nn_aa_gg_ee_mm_ee_nn_tt_ _RR_ee_gg_uu_ll_aa_tt_ii_oo_nn_ss|
+
+                         made under Section 84 of the
+                               EEnnvviirroonnmmeenntt AAcctt
+                             S.N.S. 1994-95, c. 1
+               O.I.C. 95-295 (April 11, 1995), N.S. Reg. 56/95
+      as amended up to O.I.C. 2002-93 (March 1, 2002), N.S. Reg. 23/2002
+CCiittaattiioonn
+11 These regulations may be cited as the "Dangerous Goods Management
+Regulations".
+DDeeffiinniittiioonnss
+22 In these regulations
+((aa)) "Act" means the Environment Act;
+((bb)) "Administrator" means a person appointed by the Minister pursuant to
+Section 4 of these regulations, and includes an acting Administrator;
+((cc)) "approved" means approved by an Administrator in writing;
+((dd)) "dangerous goods" means a substance that
+(i) conforms to the criteria set out in subsections 3.8 to 3.27, inclusive, of
+the Transportation of Dangerous Goods Regulations (Canada),
+(ii) is included in List I of Schedule II or List II of Schedule II of the
+Transportation of Dangerous Goods Regulations (Canada), or
+(iii) is designated in Schedule "B" of these regulations;
+((ee)) "Department" means the Department of Environment and Labour;
+((ff)) "inspector" means an inspector appointed pursuant to Section 21 of the Act;
+((gg)) "incompatible materials" means substances that on contact with each other
+under ambient or foreseeable conditions
+(i) generate extreme heat, pressure, fire or explosion,
+(ii) produce uncontrolled toxic mists, fumes, dusts or gases in sufficient
+quantities to threaten human health or the environment,
+(iii) produce uncontrolled flammable fumes, dusts or gases in sufficient
+quantities to pose a risk of fire or explosion, or
+(iv) cause sufficient corrosion or physical deterioration to damage the
+structural integrity of the storage facility;
+((hh)) "Minister" means the Minister of Environment and Labour;
+((ii)) "primary classification" means primary classification as determined in
+accordance with the Transportation of Dangerous Goods Regulations (Canada);
+((jj)) "storage facility" means any land or premises on, in or under which
+dangerous goods or waste dangerous goods are stored;
+((kk)) "underground storage tank system" means any tank the volume of which,
+including the volume of the underground pipes connected to the tank, is located
+90% or more beneath the ground surface or is otherwise covered with material
+such as earth, backfill or concrete;
+((ll)) "waste dangerous goods" means dangerous goods that are no longer in use for
+their original purpose or materials which have become waste dangerous goods
+through handling including dangerous goods intended for treatment, disposal or
+recycling, but does not include dangerous goods returned directly to the
+manufacturer or supplier of the dangerous goods for reprocessing, repacking or
+resale and does not include consumer paint products as defined in the SSoolliidd
+WWaassttee--RReessoouurrccee MMaannaaggeemmeenntt RReegguullaattiioonnss.
+CCllaauussee 22((ll)) aammeennddeedd:: OO..II..CC.. 22000022--9933,, NN..SS.. RReegg.. 2233//22000022..
+DDeessiiggnnaattiioonn
+33 Substances defined in these regulations as dangerous goods or waste dangerous
+goods are designated dangerous goods or waste dangerous goods for the purposes
+of the Act and these regulations.
+AAddmmiinniissttrraattoorr
+44 The Minister may appoint an Administrator to administer these regulations.
+EExxeemmppttiioonnss ffrroomm rreegguullaattiioonnss
+55 These regulations do not apply to
+((aa)) an asbestos waste storage site regulated in the Asbestos Waste Management
+Regulations;
+((bb)) a storage tank system regulated in the Petroleum Storage Regulations;
+((cc)) used oil and contaminated used oil regulated in the Used Oil Regulations;
+CCllaauussee 55((cc)) aammeennddeedd:: OO..II..CC.. 9966--992266,, NN..SS.. RReegg.. 117788//9966..
+((dd)) a chlorobiphenyl or PCB storage system or device regulated in the PCB
+Management Regulations;
+((ee)) a pesticide storage site regulated in the Pesticide Regulations;
+((ff)) refuse that is collected by or on behalf of a town, city or municipality
+from a residential premises except waste dangerous goods from a household or
+residence;
+((gg)) sewage, including sewage sludge;
+((hh)) propane regulated by the Fire Marshal; and
+((ii)) a retail outlet in which dangerous goods are stored and packaged as
+consumer products in small quantities normally used by the consuming public.
+SSttoorraaggee ooff wwaassttee ddaannggeerroouuss ggooooddss
+66 ((11)) No person shall store waste dangerous goods which that person did not
+produce without the prior written approval of the Minister or an Administrator.
+((22)) No person shall dilute or adulterate waste dangerous goods without the
+prior written approval of the Minister or an Administrator.
+SSppeecciiffiicc ssttoorraaggee rreeqquuiirreemmeennttss
+77 ((11)) Dangerous goods or waste dangerous goods shall not be stored in any
+container where the materials used to construct the container and the dangerous
+goods or waste dangerous goods are incompatible materials.
+((22)) A portable container used to store dangerous goods or waste dangerous goods
+shall meet the packaging requirements prescribed in the Transportation of
+Dangerous Goods Regulations (Canada).
+((33)) A steel underground storage tank system for dangerous goods or waste
+dangerous goods shall,
+((aa)) if installed on or after April 11, 1995, have secondary containment with
+interstitial leak detection and cathodic protection and shall bear the approval
+of the Underwriters Laboratories of Canada (ULC); or
+((bb)) if installed before April 11, 1995, and not in compliance with the
+requirements of clause (a), be removed no later than 15 years from the date of
+installation.
+((44)) An existing steel underground storage tank system which is not in
+compliance with subsection (3) shall be removed no later than April 1, 1996,
+unless
+((aa)) the owner, operator or person responsible for the underground storage tank
+system applies in writing to an Administrator requesting a time extension and
+listing
+(i) the location of the underground storage tank system,
+(ii) the volume of the underground storage tank system,
+(iii) the date of installation of the underground storage tank system,
+(iv) the type of dangerous goods or waste dangerous goods stored in the
+underground storage tank system, and
+(v) reasons why the underground storage tank system cannot be removed before
+April 1, 1996;
+((bb)) the owner, operator or person responsible for the underground storage tank
+system has a leak detection test which meets the requirements of the Petroleum
+Storage Regulations performed on the storage tank system and forwards a copy of
+the test results to an Administrator; and
+((cc)) an Administrator issues a written approval for the variance in removal
+date, noting a final date for removal of the underground storage tank system.
+((55)) Dangerous goods or waste dangerous goods or the containers in which these
+goods are stored shall be legibly and indelibly labelled
+((aa)) in accordance with the Transportation of Dangerous Goods Regulations
+(Canada);
+((bb)) in accordance with the Workplace Hazardous Materials Information System
+(WHMIS) Regulations;
+((cc)) in accordance with policies, standards and guidelines established or
+adopted by the Minister; or
+((dd)) if clauses (a), (b) or (c) do not apply, in accordance with standards
+established or adopted by industry.
+((66)) Dangerous goods or waste dangerous goods shall not be exposed during
+storage to incompatible materials.
+((77)) If incompatible materials are stored in a location where an opportunity for
+accidental or uncontrolled contact may occur, the incompatible materials shall
+be segregated and separated by a barrier designed, constructed and maintained
+to prevent contact between the incompatible materials.
+GGeenneerraall ssttoorraaggee ffaacciilliittyy rreeqquuiirreemmeennttss
+88 ((11)) A storage facility shall be designed, constructed and maintained so that
+elements of the weather, including precipitation, heat, frost, wind and
+humidity, have no impact on the capability of the storage facility to safely
+store dangerous goods or waste dangerous goods.
+((22)) Every person responsible for a storage facility shall ensure that the
+storage facility is
+((aa)) secured from public entry;
+((bb)) prominently identified as a dangerous goods or waste dangerous goods
+storage facility using placards prescribed in the Transportation of Dangerous
+Goods Regulations (Canada) to properly describe the dangerous goods or waste
+dangerous goods contained in the facility, placed on or near each building,
+room or area where the dangerous goods or waste dangerous goods are stored;
+((cc)) equipped with suitable equipment required to handle an emergency related to
+the dangerous goods or waste dangerous goods stored in the storage facility;
+((dd)) staffed with employees trained to respond to emergencies related to the
+dangerous goods or waste dangerous goods stored in the storage facility; and
+((ee)) secured to prevent spilled or leaked dangerous goods or waste dangerous
+goods from entering the environment or causing an adverse effect.
+AApppprroovvaallss rreeqquuiirreemmeenntt
+99 ((11)) Subject to subsections (2) and (3), no person shall store waste dangerous
+goods of the primary classification of dangerous goods listed in Column I of
+Schedule "A" in quantities greater than those listed in Column II of Schedule
+"A" or waste dangerous goods of the substances designated as dangerous goods
+listed in Column I of Schedule "B" in quantities greater than those listed in
+Column II of Schedule "B" unless the plans and specifications for the storage
+facility are submitted to and approved by an Administrator.
+((22)) ((aa)) In an environmentally sensitive area, an Administrator may require a
+person responsible for the storage of waste dangerous goods at a storage
+facility in quantities less than those specified in Column II of Schedule "A"
+or Column II of Schedule "B" to submit plans and specifications for the storage
+facility to the Administrator for approval.
+((bb)) For the purpose of clause (a), an environmentally sensitive area means an
+ecological area supporting rare flora or fauna, a protected water area, a
+watershed, an essential wildlife habitat or lands located at or near a
+watercourse, domestic residence or other facilities which produce waste.
+((33)) No person described in subsections (1) or (2) shall store waste dangerous
+goods at a storage facility without the approval of an Administrator.
+((44)) An Administrator may restrict or limit the time in which waste dangerous
+goods may be stored at a storage facility.
+((55)) An application under this Section shall be processed in accordance with the
+Approvals Procedure Regulations.
+CCoonnttiinnggeennccyy ppllaannss
+1100 ((11)) Every person responsible for a storage facility which has
+((aa)) a combined capacity of 2000 kg of dangerous goods or waste dangerous goods;
+((bb)) a combined capacity of 2000 l of dangerous goods or waste dangerous goods;
+or
+((cc)) waste dangerous goods in quantities greater than those listed in Column II
+of Schedules "A" or "B"
+shall have contingency plans respecting
+(i) fires or other emergencies, and
+(ii) discharges, emissions, escapes, leaks, or spills of dangerous goods or
+waste dangerous goods.
+((22)) An Administrator may require contingency plans to be approved before
+allowing dangerous goods or waste dangerous goods to be stored at a storage
+facility.
+IInnvveennttoorryy
+1111 ((11)) A person responsible for a storage facility shall, if requested by fire
+and emergency personnel, provide a full and complete inventory of all dangerous
+goods or waste dangerous goods stored in the storage facility.
+((22)) The inventory referred to in subsection (1) shall include
+((aa)) generic names, trade names or other means of identification of dangerous
+goods or waste dangerous goods stored in the storage facility;
+((bb)) the appropriate classification of dangerous goods or waste dangerous goods
+under the Transportation of Dangerous Goods Regulations (Canada);
+((cc)) a statement of the quantities of dangerous goods or waste dangerous goods;
+((dd)) a listing of the known major environmental hazards associated with the
+dangerous goods or waste dangerous goods stored in the storage facility; and
+((ee)) the name of the manufacturer or distributor of the dangerous goods or the
+producer of the waste dangerous goods.
+DDiissppoossaall ooffffeennccee
+1122 No person shall cause, suffer or permit the dumping, depositing, dropping,
+throwing, discharging or leaving of dangerous goods or waste dangerous goods in
+a manner which may cause an adverse effect without the prior written approval
+of the Minister or an Administrator.
+EEffffeeccttiivvee ddaattee
+1133 These regulations come into effect on, from and after April 11, 1995.
+===============================================================================
+      SScchheedduullee ""AA"" -- DDeessiiggnnaatteedd DDaannggeerroouuss GGooooddss [[PPrriimmaarryy CCllaassssiiffiiccaattiioonn]]
+
+            TTrraannssppoorrttaattiioonn ooff DDaannggeerroouuss GGooooddss RReegguullaattiioonnss ((CCaannaaddaa))
+CCoolluummnn II                                        CCoolluummnn IIII
+CCllaassssiiffiiccaattiioonn aanndd DDiivviissiioonn                     QQuuaannttiittyy -- WWaassttee
+                                                DDaannggeerroouuss GGooooddss
+1   Explosive                                   50 kg or 50 L
+2.1 Compressed gas (flammable)                  5000* L
+2.2 Compressed gas (non-corrosive,              10 000* L
+    non-toxic, non-flammable)
+2.3 Compressed gas (toxic)                      500* L
+2.4 Compressed gas (corrosive)                  500* L
+2   Compressed gas (total)                      10 000 L
+3   Flammable liquid                            5000 L
+4.1 Flammable solid                             10 000 kg
+4.2 Substance liable to spontaneous combustion  1000 kg
+4.3 Substance which reacts violently with water 1000 kg
+5.1 Oxidizing substance                         1000 kg or 1000 L
+5.2 Organic peroxide                            50 kg or 50 L
+6.1 Poisonous (toxic) substance                 1000 kg or 1000 L
+6.2 Infectious substance                        1000 kg or 1000 L
+7   Radioactive material                        any amount
+8   Corrosive substance                         1000 kg or 1000 L
+9.1 Miscellaneous dangerous goods               5000 kg
+9.2 Environmentally hazardous substance         50 kg
+9.3 Leachable toxic waste                       10 000 kg or 10 000 L
+*Total liquid volume capacity of container.
+===============================================================================
+                  SScchheedduullee ""BB"" -- DDeessiiggnnaatteedd DDaannggeerroouuss GGooooddss
+                     [[SSuubbssttaanncceess ooff EEnnvviirroonnmmeennttaall CCoonncceerrnn]]
+   CCoolluummnn II                                              CCoolluummnn IIII
+   SSuubbssttaanncceess ooff EEnnvviirroonnmmeennttaall CCoonncceerrnn                   QQuuaannttiittyy -- WWaassttee
+                                                         DDaannggeerroouuss GGooooddss
+1. Glycol based antifreeze or de-icing fluids or         10 000 kg or 10 000 L
+   solutions
+   containing these substances in concentrations greater
+   than 1000 mg/l
+2. Petroleum products, flashpoint greater than 61° C,    10 000 kg or 10 000 L
+   liquid at ambient conditions or during handling
+===============================================================================

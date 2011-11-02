@@ -1,0 +1,1278 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+ Regulations Respecting      Règlement sur les
+ Applications for Permits demandes de permis pour
+   for Disposal at Sea      l’immersion en mer
+
+                     SOR/2001-276                                                      DORS/2001-276
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published            31. (1) Every copy of a consolidated statute or             31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies       (3) In the event of an inconsistency between a             (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                                 Enregistrement
+SOR/2001-276 August 1, 2001                                  DORS/2001-276 Le 1er août 2001
+CANADIAN ENVIRONMENTAL PROTECTION ACT,                       LOI CANADIENNE SUR LA PROTECTION DE
+1999                                                         L’ENVIRONNEMENT (1999)
+
+Regulations Respecting Applications for Permits for          Règlement sur les demandes de permis pour
+Disposal at Sea                                              l’immersion en mer
+
+                                                              
+
+   Whereas, pursuant to subsection 332(1) of the Cana-          Attendu que, conformément au paragraphe 332(1) de
+dian Environmental Protection Act, 1999a, the Minister       la Loi canadienne sur la protection de l’environnement
+of the Environment published in the Canada Gazette,          (1999)a, le ministre de l’Environnement a fait publier
+Part I, on February 17, 2001 a copy of the proposed Reg-     dans la Gazette du Canada Partie I, le 17 février 2001, le
+ulations Respecting Applications for Permits for Dispos-     projet de règlement intitulé Règlement sur les demandes
+al at Sea under the title Regulations Respecting the         de permis pour l’immersion en mer, conforme en sub-
+Form and Content of an Application for a Permit for          stance au texte ci-après, et que les intéressés ont ainsi eu
+Disposal at Sea, substantially in the annexed form, and      la possibilité de présenter leurs observations à cet égard
+persons were given an opportunity to file comments with      ou un avis d’opposition motivé demandant la constitu-
+respect to the proposed Regulations or to file a notice of   tion d’une commission de révision,
+objection requesting that a board of review be estab-
+lished and stating the reasons for the objection;
+   Therefore, the Minister of the Environment, pursuant         À ces causes, en vertu du paragraphe 135(3) de la Loi
+to subsection 135(3) of the Canadian Environmental           canadienne sur la protection de l’environnement (1999)a,
+Protection Act, 1999a, hereby makes the annexed Regu-        le ministre de l’Environnement prend le Règlement sur
+lations Respecting Applications for Permits for Disposal     les demandes de permis pour l’immersion en mer, ci-
+at Sea.                                                      après.
+      Ottawa, August 1, 2001                                       Ottawa, le 1er août 2001
+                          David Anderson                                                 Le ministre de l’Environnement,
+                          Minister of the Environment                                    David Anderson
+
+
+
+
+a                                                             a 
+     S.C. 1999, c. 33                                              L.C. 1999, ch. 33
+REGULATIONS RESPECTING APPLICATIONS FOR                         RÈGLEMENT SUR LES DEMANDES DE PERMIS
+   PERMITS FOR DISPOSAL AT SEA                                     POUR L’IMMERSION EN MER
+
+                       PERMITS                                                         PERMIS
+  1. An application for a permit referred to in section            1. La demande de permis faite aux termes des articles
+127 or 128 of the Canadian Environmental Protection             127 ou 128 de la Loi canadienne sur la protection de
+Act, 1999 shall be submitted in the form set out in the         l’environnement (1999) est présentée en la forme établie
+schedule and shall contain the information relevant to          à l’annexe et contient les renseignements qui y sont de-
+the application that is provided for in the schedule.           mandés.
+   2. The application shall be submitted in writing or in          2. La demande est transmise par écrit ou sous une
+an electronic format that is provided by the Department         forme électronique prévue par le ministère de l’Environ-
+of the Environment.                                             nement.
+
+               COMING INTO FORCE                                               ENTRÉE EN VIGUEUR
+  3. These Regulations come into force on the day on              3. Le présent règlement entre en vigueur à la date de
+which they are registered.                                      son enregistrement.
+
+
+
+
+                                                            1
+                                                    SOR/2001-276 — October 6, 2010
+
+
+
+                                                               SCHEDULE
+                                                                (Section 1)
+               Environment Environnem                     PERMIT APPLICATION                       Application Identification
+                           ent
+               Canada      Canada                          (DISPOSAL AT SEA)*                      (OFFICE USE)
+                                                                                                   Name:
+                                                                                                   Number:
+               Permits are issued in accordance with Division 3 of Part 7 of the Canadian Environmental Protection Act,
+               1999 (CEPA 1999). “Disposal” is defined in subsection 122(1) of the Act. Information provided on this form
+               will be used to evaluate the application for a permit.
+
+               The following activities are covered by this application (indicate those activities that apply to you):
+
+               □ 1. Loading for the purpose of disposal                 □ 2. Disposal of waste or other matter
+
+               □ 3. Disposal on ice                                     □ 4. Other :
+
+
+                                                SUBSTANCE TO BE DISPOSED OF AT
+                                                            SEA:
+
+
+
+
+PART A — APPLICANT INFORMATION
+
+               IDENTIFICATION
+
+               1. NAME OF APPLICANT                          2. TELEPHONE NO.                     3. FAX NO.
+
+
+
+               4. ADDRESS                                    5. TYPE OF BUSINESS
+
+
+
+               6. PREVIOUS PERMITS — List the                     Permit No.                      Expiry
+               permit numbers of your previous permits, if                                        Date
+               any, relevant to this application.                                                 (year/
+                                                                                                  month)
+               7. NAME OF INDIVIDUAL(S)                      8. TELEPHONE              9. FAX                  EMAIL
+               RESPONSIBLE FOR PROPOSED                      NO.                       NO.                     ADDRESS
+               ACTIVITY
+
+               10. NAME OF TECHNICAL                         11. TELEPHONE             12. FAX                 EMAIL
+               CONTACT(S) FOR PROPOSED                       NO.                       NO.                     ADDRESS
+               ACTIVITY
+
+* Ce formulaire est aussi disponible en français.
+
+PART B — INFORMATION ON THE PROPOSED ACTIVITY
+
+               GENERAL INFORMATION
+
+               13. DESCRIPTION OF THE ACTIVITY — Give a general description of the proposed activity and its
+               purpose.
+
+
+
+
+                                                                        2
+                                    DORS/2001-276 — 6 octobre 2010
+
+
+
+
+14. SUBSTANCE TO BE DISPOSED OF AT SEA — Indicate the 15 TOTAL QUANTITY (m3 or t)
+substance to be disposed of at sea. See the applicable item in Part 1 or .
+2 of Appendix 1 for details of the information that must be included in
+your application.                                                        16 PROPOSED TERM OF
+                                                                         . PERMIT (maximum 1 year)
+
+                                                                               from             year month day
+
+
+                                                                               to               year month day
+
+
+
+17. LOAD SITE(S) — For dredged or inert inorganic geological material, provide a detailed drawing
+showing the boundaries of each site to be dredged or excavated.
+NAME AND LOCATION OF                LATITUDE           LONGITUDE           QUANTITY TO BE LOADED (m3
+SITE                                                                       or t)
+
+
+
+
+18. DISPOSAL SITE(S) — Provide a detailed drawing showing the boundaries of each disposal site.
+DISPOSAL SITE               LATITUDE          LONGITUDE           DEPTH             QUANTITY TO BE
+NAME                                                                                DISPOSED
+(if any)                                                          (m)               (m3 or t)
+
+
+
+Provide an estimate of the movement and dispersion in the water column and on the sea floor of the
+substance disposed of at sea. In the case of disposal at a new disposal site or disposal on ice, see the
+applicable item in Appendix 2 for details of additional information that must be included in your application.
+
+
+                                                                        NUMBER OF PAGES ATTACHED □
+
+19. ROUTE FROM LOAD SITE TO DISPOSAL SITE — Attach a map, chart or good reproducible set
+of drawings that show the location of each load site and each disposal site. If the route is not direct, provide
+reasons and show the intended route on the map, chart or drawings.
+
+
+
+
+                                                         3
+                               SOR/2001-276 — October 6, 2010
+
+
+
+
+                                                                  NUMBER OF PAGES ATTACHED □
+
+20. EQUIPMENT AND METHODS — Describe the equipment and methods to be used at each load site
+and disposal site.
+
+
+
+
+21. METHODS OF PACKAGING AND CONTAINMENT
+
+
+
+
+DISPOSAL SPECIFICATIONS
+
+22. MAXIMUM QUANTITY PER DISPOSAL (m3 or t)
+
+
+
+
+23. RATE (where applicable)                         24. FREQUENCY
+  (m3/h or t/h)                                         (disposals per day, week or month)
+
+
+25. SPEED DURING DISPOSAL                           26. TIME REQUIRED FOR DISCHARGE (or
+                                                    sinking)
+                                                        (min.)
+
+
+27. TRACK FOLLOWED DURING DISPOSAL
+
+
+
+
+CARRIER INFORMATION
+                        — If unknown, this may be provided at a later date but prior to start of operations.
+28. NAME AND ADDRESS OF CARRIER                 29. TELEPHONE            FAX NO.         EMAIL
+                                                NO.                                      ADDRESS
+
+
+
+
+                                                    4
+                                             DORS/2001-276 — 6 octobre 2010
+
+
+
+          30. NAME, TITLE AND ADDRESS OF THE                   31. TELEPHONE            FAX NO.         EMAIL
+          OWNER OF THE SHIP, AIRCRAFT,                         NO.                                      ADDRESS
+          PLATFORM OR STRUCTURE USED TO
+          CARRY OUT THE DISPOSAL
+
+
+
+          32. NAME OF INDIVIDUALS                              33. TELEPHONE            FAX NO.         EMAIL
+          RESPONSIBLE FOR LOADING OR                           NO.                                      ADDRESS
+          DISPOSAL ON BEHALF OF THE
+          APPLICANT (including the master)
+
+
+
+          34. NAME OR NUMBER OF SHIP, AIRCRAFT, PLATFORM OR STRUCTURE USED TO CARRY
+          OUT THE DISPOSAL
+
+
+
+
+          35. APPROVALS — List all permits, licenses and reviews, including environmental impact assessments,
+          required by any federal, provincial, territorial, municipal or local agency for the activity described in this
+          application to be carried out.
+          ISSUING           TYPE OF            ID NO.           DATE OF                DATE OF           DATE OF
+          AGENCY            APPROVAL                            APPLICATION            APPROVAL          REFUSAL
+
+
+
+
+          36. NOTICE OF APPLICATION — Attach proof that notice of this application was published in a
+          newspaper of general circulation in the vicinity of the loading and disposal site described in the application.
+
+          NEWSPAPER CLIPPING ATTACHED □
+
+          NAME OF NEWSPAPER                          PLACE OF PUBLICATION                      DATE OF
+                                                                                               PUBLICATION
+                                                     (CITY AND PROVINCE)
+
+
+
+
+PART C — INFORMATION ON ALTERNATIVES TO DISPOSAL AT SEA
+
+          37. WASTE AUDIT — Refer to sections 1 to 6 of Schedule 6 to CEPA 1999.
+
+
+
+
+                                                                   5
+                                             SOR/2001-276 — October 6, 2010
+
+
+
+
+                                                                              NUMBER OF PAGES ATTACHED □
+
+          38. ALTERNATIVES — Provide a comparative assessment of disposal at sea and the practicable
+          alternatives indicating the following:
+
+          (a) Environmental impact
+          (b) Risk to human health
+          (c) Hazards (including accidents) associated with treatment, packaging, transport and disposal
+          (d) Economics (including energy costs)
+          (e) Conflicting use of resources (potential and actual)
+
+
+
+
+                                                                              NUMBER OF PAGES ATTACHED □
+
+PART D — HISTORICAL DATA
+
+          39. PREVIOUS DISPOSAL METHODS — Describe the methods, if any, other than disposal at sea, that
+          you have previously used to dispose of this type of substance. Indicate dates and locations.
+
+
+
+
+          40. LOAD SITE HISTORY — For dredged material or inert inorganic geological matter, indicate how each
+          dredging or excavation site was used during the last 10 years.
+
+
+
+
+                                                                              NUMBER OF PAGES ATTACHED □
+
+
+
+
+                                                                    6
+                                             DORS/2001-276 — 6 octobre 2010
+
+
+
+PART E — CHEMICAL, BIOLOGICAL AND PHYSICAL INFORMATION
+
+          41. CHEMICAL INFORMATION — Provide a chemical characterization of the substance. Where
+          possible, attach detailed data and methods and the quality assurance and control data and methods. If no data
+          are provided, explain why. See the applicable item in Part 1 or 2 of Appendix 1 for details of additional
+          information that must be included in your application.
+
+
+
+
+                                                                               NUMBER OF PAGES ATTACHED □
+
+          42. BIOLOGICAL INFORMATION — Provide an assessment of the potential effects of the substance,
+          including toxicity, on living marine resources. Where possible, attach detailed bioassessment data and
+          methods, and the quality assurance and control data and methods. If no data are provided, explain why.
+
+
+
+
+                                                                               NUMBER OF PAGES ATTACHED □
+
+          43. PHYSICAL INFORMATION — Provide an assessment of the potential of the substance, once
+          disposed of at sea, to cause long-term physical effects. Where possible, attach detailed physical data and
+          methods, and the quality assurance and control data and methods. If no data are provided, explain why. See
+          the applicable item in Part 1 of Appendix I for details of additional information that must be included in your
+          application.
+
+
+
+
+                                                                  7
+                                              SOR/2001-276 — October 6, 2010
+
+
+
+
+                                                                                 NUMBER OF PAGES ATTACHED □
+
+PART F — PROXIMITY AND MITIGATION
+
+          44. PROXIMITY TO FACILITIES — For dredged or inert inorganic geological material, provide a map
+          for each load site that shows, by means of the symbols indicated below, the location of the major operating
+          and historical facilities in the vicinity of the site. Indicate your sources of information and attach a copy of
+          the information where possible. Where the source is a person, provide the person’s name, address and
+          telephone number.
+                                                                   SYMBOL
+          FACILITIES                                 OPERATING            HISTORICAL SOURCES OF
+                                                                                     INFORMATION
+
+          (a) Oil refineries                         (O)                  (O*)
+          (b) Mills (give type)                      (M)                  (M*)
+          (c) Mines (give type)                      (N)                  (N*)
+          (d) Sewage outfalls                        (S)                  (S*)
+          (e) Storm drains/pipes                     (P)                  (P*)
+          (f) Shipping docks                         (D)                  (D*)
+          (g) Other industries (specify)             (I)                  (I*)
+          (h) Other source of pollution and          (C)                  (C*)
+          contamination (specify)
+
+
+
+                                                                                 NUMBER OF PAGES ATTACHED □
+
+          45. PROXIMITY TO SENSITIVE AREAS — For a new disposal site, provide a map that shows, by
+          means of the symbols indicated below, the location of all sensitive areas in the vicinity of the disposal site.
+          Indicate your sources of information and attach a copy of the information where possible. Where the source
+          is a person, provide the person’s name, address and telephone number.
+                                                                                           SOURCES OF
+          SENSITIVE AREAS                                           SYMBOL                 INFORMATION
+
+
+
+
+                                                                   8
+                                    DORS/2001-276 — 6 octobre 2010
+
+
+
+
+(a) Recreational areas                                    (RA)
+(b) Spawning and nursery areas                            (SN)
+(c) Known migration routes of living marine resources (MR)
+(d) Sport and commercial fishing areas                    (FA)
+(e) Areas of natural beauty or cultural or historical     (BH)
+importance
+(f) Areas of special scientific or biological importance (IS)
+(g) Aquaculture                                           (AC)
+(h) Shipping lanes                                        (SL)
+(i) Areas of the seafloor having engineering uses         (EU)
+(mining, cables, desalination or energy conversion
+sites)
+(j) Other areas (describe use e.g. water intakes)         (XZ)
+
+
+
+                                                                       NUMBER OF PAGES ATTACHED □
+
+46. MITIGATION — Indicate measures intended to minimize the environmental, health, navigational and
+aesthetic impacts during loading, transport and disposal. See the applicable item in Part 2 of Appendix 1 for
+details of additional information that must be included in your application.
+
+
+
+
+47. TIME RESTRICTIONS — If the load site or disposal site will be in the vicinity of spawning areas,
+migration routes or fishing areas, list the major species involved and the periods during which they are the
+most sensitive (active time of year).
+
+
+
+
+Application is hereby made for a permit authorizing the activity described in this application. I certify that I
+have reviewed the information provided in this application and that, to the best of my knowledge and belief,
+the information is true, complete and accurate. I further certify that I am authorized to undertake the activity
+or am acting as a duly authorized agent of the applicant.
+
+
+
+
+                                                         9
+                                          SOR/2001-276 — October 6, 2010
+
+
+
+                   Date                              Name (print)                                Signature
+
+
+
+                                                     Telephone No.                               Fax No.
+
+                                                        APPENDIX 1
+
+                                                             Part 1
+
+MINIMUM INFORMATION REQUIREMENTS (BY TYPE OF SUBSTANCE) FOR DISPOSAL AT SEA OF WASTE AND
+                                   OTHER MATTER
+
+       Each type of substance requires different information. Provide the required information on the form in the
+       square indicated. Attach additional pages as needed. The Minister of the Environment may require, pursuant
+       to paragraph 127(2)(b) or 128(3)(b) of CEPA 1999, further information for the purpose of complying with
+       Schedule 6 to that Act. In the case of disposal at sea by incineration or thermal degradation as referred to in
+       section 128 of that Act, consult Part 2 of this Appendix. The following numbers represent the item of the
+       permit application form.
+
+       A — DREDGED MATERIAL AND INERT, INORGANIC GEOLOGICAL MATTER
+
+       14.   Substance to Be Disposed of at Sea
+               Soil or sediment
+               Other components (e.g., wood waste)
+
+       41.   Chemical Information
+               Chemistry in respect of the following parameters (soil, sediment, pore water as needed):
+                    cadmium
+                    mercury
+                    total polychlorinated biphenyls (PCBs)
+                    total polycyclic aromatic hydrocarbons (PAHs)
+                    total organic carbon
+
+       43.   Physical Information
+               Grain size of soil or sediment
+
+       B — FISHERIES WASTE
+
+       14.   Substance to Be Disposed of at Sea
+               Species
+               Type of waste (e.g., shells, offal)
+               Source of waste
+
+       C — SHIPS, AIRCRAFT, PLATFORMS AND OTHER STRUCTURES
+
+       14.   Substance to Be Disposed of at Sea
+               Name, if applicable
+               Location of registry
+               Model or official number
+               Dimensions
+               Weight (dead weight tonnage)
+               Principal materials of construction
+
+
+
+
+                                                              10
+                                   DORS/2001-276 — 6 octobre 2010
+
+
+
+         Name and address of owner
+         State of seaworthiness, if applicable
+
+41.   Chemical Information
+        Cargo, fuel and hazardous materials, including chemicals, left on board
+
+43.   Physical Information
+        Last cargo
+        Type of engine, if left on board
+        Nature and weight of ballast left on board
+
+D — BULKY SUBSTANCES
+
+14.   Substance to Be Disposed of at Sea
+        Principal components (composition) of substance
+        Dimensions
+        Weight (t)
+
+41.   Chemical Information
+        Contamination by hazardous materials including chemicals
+
+E — OTHER SUBSTANCES
+
+14.   Waste or Other Matter to Be Disposed of at Sea (see Schedule 5 to CEPA 1999)
+       Principal components (composition) of substance
+       Origin of substance and process giving rise to substance
+
+
+                                                     Part 2
+
+                MINIMUM INFORMATION REQUIREMENTS FOR INCINERATION
+
+In the case of an emergency, referred to in section 128 of CEPA 1999, where incineration is necessary,
+provide the required information on the permit application form in the square indicated. Attach additional
+pages as needed. The Minister of the Environment may require, pursuant to paragraph 128(3)(b) of that Act,
+further information for the purpose of complying with Schedule 6 to that Act. For an activity other than
+incineration at sea, see Part 1 of this Appendix. The following numbers represent the item of the permit
+application form.
+
+ALL SUBSTANCES
+
+14.   Substance to Be Incinerated at Sea
+        Principal components (composition) of substance
+        Description of the products of combustion and the rate of their production
+        Origin of substance and process giving rise to substance
+
+20.   Equipment and Methods
+        Description of incineration equipment
+        Description of air pollution control equipment
+        Description of monitoring and control systems in place
+        Stack dimensions
+
+
+
+
+                                                      11
+                                     SOR/2001-276 — October 6, 2010
+
+
+
+           Combustion temperature
+           Retention time
+           Combustion and destruction efficiency
+           Proposed method of loading and storage
+
+  41.   Chemical Information
+          Results of the latest tests on stack emissions (for particulate matter, hydrogen chloride (HCI), carbon
+          monoxide (CO), dioxins and furans)
+
+  46.   Mitigation
+          Methods of complying with applicable noise by-laws
+          Methods of managing ash and minimizing fugitive emissions
+          Methods of managing wastewater to comply with provincial or municipal discharge limits
+          Methods of preventing hazards to other ships
+          Methods of spill response and contingency plans in the event of a spill
+          Methods of emergency shutdown
+          Qualifications of the operating personnel
+
+
+                                                   APPENDIX 2
+
+MINIMUM INFORMATION REQUIREMENTS FOR DISPOSAL AT NEW DISPOSAL SITES AND ON ICE
+
+  Provide the required information on the permit application form in the square indicated. Attach additional
+  pages as needed. The Minister of the Environment may require, pursuant to paragraph 127(2)(b) or 128(3)(b)
+  of CEPA 1999, further information for the purpose of complying with Schedule 6 to that Act. Contact your
+  regional Disposal at Sea Program office prior to collecting data on a new disposal site, as some of the
+  information may already be on file. The following numbers represent the item of the permit application form.
+
+  A — DISPOSAL AT A NEW DISPOSAL SITE
+
+  18.   Disposal Site(s)
+           Bathymetry
+           Sediment transport
+           Salinity
+           Current flow
+           Chemistry in respect of the following parameters (sediment, pore water as needed):
+                 cadmium
+                 mercury
+                 polychlorinated biphenyls (PCBs)
+                 total polycyclic aromatic hydrocarbons (PAHs)
+
+  B — DISPOSAL ON ICE
+
+  18.   Disposal Site(s)
+           Area of ice to be used as the disposal site
+           Thickness of ice at the proposed disposal site (m)
+           Estimated date of ice breakup (year/month/day)
+           Estimated location of ice breakup (lat./long.)
+           Estimated time from breakup to melting (days)
+
+
+
+
+                                                         12
+                                                      DORS/2001-276 — 6 octobre 2010
+
+
+
+                             Estimated depth of water at disposal site (m)
+
+SOR/2009-252, ss. 1(E), 2.
+
+
+
+
+                                                                             13
+                                                  SOR/2001-276 — October 6, 2010
+
+
+
+                                                              ANNEXE
+                                                              (article 1)
+               Environneme Environmen                    DEMANDE DE PERMIS                       Identification de la
+               nt          t                                                                     demande
+               Canada      Canada                       (IMMERSION EN MER)*                      (À L’USAGE DU
+                                                                                                 BUREAU)
+                                                                                                 Nom :
+                                                                                                 Numéro :
+               Les permis sont délivrés en vertu de la partie 7, section 3, de la Loi canadienne sur la protection de
+               l’environnement (1999) (la LCPE 1999). Le terme « immersion » est défini au paragraphe 122(1) de cette loi.
+               Les renseignements fournis dans le présent formulaire serviront à évaluer la demande de permis.
+
+               Les activités suivantes sont visées par la demande (indiquez les activités qui vous concernent) :
+
+               □ 1. Chargement pour immersion                          □ 2. Immersion de déchets ou autres matières
+
+               □ 3. Rejet sur les glaces                               □ 4. Autre :
+
+
+                                                SUBSTANCE À IMMERGER EN MER :
+
+
+
+
+PARTIE A — RENSEIGNEMENTS SUR LE DEMANDEUR
+
+               IDENTIFICATION
+
+               1. NOM DU DEMANDEUR                      2. No DE TÉLÉPHONE                    3. No DE TÉLÉCOPIEUR
+
+
+
+               4. ADRESSE                               5. TYPE D’ENTREPRISE
+
+
+
+               6. PERMIS ANTÉRIEURS —                      No de permis                            Date
+               Inscrivez, le cas échéant, les numéros                                          d’expiration
+               des permis qui ont un rapport avec la                                           (année/mois)
+               présente demande.
+               7. NOM DES PERSONNES                     8. No DE              9. No DE                        ADRESSE
+               RESPONSABLES DE                          TÉLÉPHONE             TÉLÉ-                           ÉLECTRONI
+               L’ACTIVITÉ PROPOSÉE                                            COPIEUR                         QUE
+
+               10. NOM DES PERSONNES-    11. No DE                            12. No DE                       ADRESSE
+               RESSOURCES EN MATIÈRE     TÉLÉPHONE                            TÉLÉ-                           ÉLECTRONI
+               TECHNIQUE POUR L’ACTIVITÉ                                      COPIEUR                         QUE
+               PROPOSÉE
+* This form is also available in English.
+
+PARTIE B — RENSEIGNEMENTS SUR L’ACTIVITÉ PROPOSÉE
+
+               RENSEIGNEMENTS GÉNÉRAUX
+
+               13. DESCRIPTION DE L’ACTIVITÉ — Décrivez de façon générale l’activité proposée et indiquez-en le
+               but.
+
+
+
+
+                                                                      14
+                                  DORS/2001-276 — 6 octobre 2010
+
+
+
+
+14. SUBSTANCE À IMMERGER — Indiquez la substance à                      15 QUANTITÉ TOTALE (m3 ou
+immerger en mer. Pour connaître le détail des renseignements qui        . t)
+doivent être inclus dans votre demande, reportez-vous aux données
+applicables prévues à la partie 1 ou 2 de l’annexe 1.                   16 DURÉE PROPOSÉE DE
+                                                                        . VALIDITÉ DU PERMIS (un
+                                                                           an au maximum)
+                                                                            du             année mois jour
+
+
+                                                                            au             année mois jour
+
+
+
+17. LIEU(X) DE CHARGEMENT — Pour les demandes d’immersion de matières draguées ou de matières
+géologiques inertes et inorganiques, fournissez un dessin détaillé montrant les limites de chaque lieu de
+chargement.
+NOM ET ADRESSE DU LIEU LATITUDE                      LONGITUDE          QUANTITÉ À CHARGER (m3 ou
+                                                                        t)
+
+
+
+
+18. LIEU(X) D’IMMERSION — Fournissez un dessin détaillé montrant les limites de chaque lieu
+d’immersion.
+NOM DU LIEU                    LATITUDE        LONGITUDE PROFONDEU                  QUANTITÉ À
+D’IMMERSION                                              R                          IMMERGER
+(s’il y a lieu)                                                  (m)                (m3 ou t)
+
+
+Fournissez une estimation du déplacement et de la dispersion de la substance dans la colonne d’eau et au
+fond de la mer. Dans le cas d’un nouveau lieu d’immersion ou d’un rejet sur les glaces, reportez-vous aux
+données applicables prévues à l’annexe 2 pour connaître le détail des renseignements qui doivent être inclus
+dans votre demande.
+
+
+                                                                       NOMBRE DE PAGES JOINTES □
+
+19. PARCOURS DU LIEU DE CHARGEMENT AU LIEU D’IMMERSION — Joignez une carte ou
+une série de dessins reproductibles de bonne qualité montrant les lieux de chargement et d’immersion. Si le
+parcours n’est pas direct, expliquez pourquoi et tracez sur la carte ou les dessins le parcours projeté.
+
+
+
+
+                                                      15
+                                  SOR/2001-276 — October 6, 2010
+
+
+
+
+                                                                        NOMBRE DE PAGES JOINTES □
+
+20. ÉQUIPEMENT ET MÉTHODES — Décrivez l’équipement et les méthodes à utiliser à chaque lieu de
+chargement et d’immersion.
+
+
+
+
+21. MÉTHODES D’EMBALLAGE ET DE CONFINEMENT
+
+
+
+
+RENSEIGNEMENTS SUR L’IMMERSION
+
+22. QUANTITÉ MAXIMALE PAR IMMERSION (m3 ou t)
+
+
+
+
+23. CADENCE (s’il y a lieu)                            24. FRÉQUENCE
+  (m3/h ou t/h)                                            (nombre d’immersions par jour, semaine ou
+                                                           mois)
+
+25. VITESSE PENDANT L’IMMERSION                        26. TEMPS NÉCESSAIRE POUR LE REJET (ou
+                                                       pour couler)
+                                                           (min.)
+
+
+27. PARCOURS SUIVI PENDANT L’IMMERSION
+
+
+
+
+RENSEIGNEMENTS SUR LE TRANSPORTEUR
+ — S’ils ne sont pas connus, ces renseignements peuvent être fournis plus tard, avant le début des opérations.
+28. NOM ET ADRESSE DU                              29. No DE               No DE     ADRESSE
+TRANSPORTEUR                                       TÉLÉPHONE               TÉLÉCOPIE ÉLECTRONIQ
+                                                                           UR        UE
+
+
+
+
+                                                      16
+                                           DORS/2001-276 — 6 octobre 2010
+
+
+
+          30. NOM, TITRE ET ADRESSE DU      31. No DE                               No DE     ADRESSE
+          PROPRIÉTAIRE DU NAVIRE, DE        TÉLÉPHONE                               TÉLÉCOPIE ÉLECTRONIQ
+          L’AÉRONEF, DE LA PLATE-FORME OU                                           UR        UE
+          DE L’OUVRAGE D’OÙ L’IMMERSION EST
+          EFFECTUÉE
+
+
+          32. NOM DES PERSONNES                             33. No DE               No DE     ADRESSE
+          RESPONSABLES DU CHARGEMENT OU                     TÉLÉPHONE               TÉLÉCOPIE ÉLECTRONIQ
+          DE L’IMMERSION AU NOM DU                                                  UR        UE
+          DEMANDEUR (indiquez aussi le nom du
+          capitaine)
+
+
+          34. NOM OU NUMÉRO D’IDENTIFICATION DU NAVIRE, DE L’AÉRONEF, DE LA PLATE-
+          FORME OU DE L’OUVRAGE D’OÙ L’IMMERSION EST EFFECTUÉE
+
+
+
+
+          35. AUTORISATIONS — Énumérez les permis, licences et examens, y compris les évaluations des
+          répercussions environnementales, exigés par les organismes fédéraux, provinciaux, territoriaux, municipaux
+          ou locaux pour l’exécution de l’activité visée par la présente demande.
+          ORGANISME TYPE          NUMÉRO         DATE DE LA DATE DE   DATE DU
+          RESPONSABL D’AUTORISATI D’IDENTIFICATI DEMANDE L’AUTORISATI REFUS
+          E          ON           ON                        ON
+
+
+
+
+          36. PRÉAVIS — Joignez une preuve qu’un préavis de la présente demande a été publié dans un journal à
+          grand tirage publié près du lieu de chargement ou d’immersion mentionné dans la demande.
+
+          COUPURE DE JOURNAL JOINTE □
+
+          NOM DU JOURNAL                           LIEU DE PUBLICATION                     DATE DE
+                                                                                           PUBLICATION
+                                                   (VILLE ET PROVINCE)
+
+
+
+
+PARTIE C — RENSEIGNEMENTS SUR LES MÉTHODES AUTRES QUE L’IMMERSION EN MER
+
+          37. GESTION DES DÉCHETS — Voir les articles 1 à 6 de l’annexe 6 de la LCPE 1999.
+
+
+
+
+                                                               17
+                                              SOR/2001-276 — October 6, 2010
+
+
+
+
+                                                                                   NOMBRE DE PAGES JOINTES □
+
+         38. AUTRES MÉTHODES — Fournissez une évaluation comparative de l’immersion en mer et des autres
+         méthodes possibles compte tenu des paramètres suivants :
+
+         a) Répercussions sur l’environnement
+         b) Risques pour la santé humaine
+         c) Dangers (dont les accidents) reliés au traitement, à l’emballage, au transport et à l’élimination
+         d) Aspect économique (dont les coûts énergétiques)
+         e) Conflits d’utilisation (potentiels et réels) des ressources
+
+
+
+
+                                                                                   NOMBRE DE PAGES JOINTES □
+
+PARTIE D — DONNÉES CHRONOLOGIQUES
+
+         39. MÉTHODES D’ÉLIMINATION ANTÉRIEURES — Décrivez, le cas échéant, les méthodes que vous
+         avez utilisées antérieurement, autres que l’immersion en mer, pour éliminer le type de substance à immerger.
+         Indiquez également les dates et les lieux.
+
+
+
+
+         40. ANTÉCÉDENTS DES LIEUX DE CHARGEMENT — Dans le cas des matières draguées ou des
+         matières géologiques inertes et inorganiques, indiquez les utilisations de chaque lieu de dragage ou
+         d’excavation au cours des 10 dernières années.
+
+
+
+
+                                                                   18
+                                             DORS/2001-276 — 6 octobre 2010
+
+
+
+
+                                                                                   NOMBRE DE PAGES JOINTES □
+
+PARTIE E — DONNÉES CHIMIQUES, BIOLOGIQUES ET PHYSIQUES
+
+          41. DONNÉES CHIMIQUES — Indiquez la composition chimique de la substance. Joignez, dans la
+          mesure du possible, les données et les méthodes détaillées ainsi que les données et les méthodes d’assurance
+          et de contrôle de la qualité. Si les données ne sont pas fournies, expliquez pourquoi. Pour connaître le détail
+          des renseignements additionnels qui doivent être inclus dans votre demande, reportez-vous aux données
+          applicables prévues à la partie 1 ou 2 de l’annexe 1.
+
+
+
+
+                                                                                   NOMBRE DE PAGES JOINTES □
+
+          42. DONNÉES BIOLOGIQUES — Fournissez une évaluation des effets possibles, notamment la toxicité,
+          de la substance sur les ressources marines vivantes. Joignez, dans la mesure du possible, les données et les
+          méthodes détaillées d’évaluation biologiques ainsi que les données et les méthodes d’assurance et de contrôle
+          de la qualité. Si les données ne sont pas fournies, expliquez pourquoi.
+
+
+
+
+                                                                 19
+                                  SOR/2001-276 — October 6, 2010
+
+
+
+
+                                                                       NOMBRE DE PAGES JOINTES □
+
+43. DONNÉES PHYSIQUES — Fournissez une évaluation des effets physiques à long terme que pourrait
+avoir la substance une fois immergée. Joignez, dans la mesure du possible, les données et les méthodes
+physiques détaillées ainsi que les données et les méthodes d’assurance et de contrôle de la qualité. Si les
+données ne sont pas fournies, expliquez pourquoi. Pour connaître le détail des renseignements additionnels
+qui doivent être inclus dans votre demande, reportez-vous aux données applicables prévues à la partie 1 de
+l’annexe 1.
+
+
+
+
+                                                                       NOMBRE DE PAGES JOINTES □
+
+
+
+
+                                                      20
+                                                DORS/2001-276 — 6 octobre 2010
+
+
+
+PARTIE F — PROXIMITÉ ET ATTÉNUATION
+
+          44. PROXIMITÉ D’INSTALLATIONS — Dans le cas des matières draguées ou des matières géologiques
+          inertes et inorganiques, fournissez, pour chaque lieu de chargement, une carte sur laquelle est indiqué, au
+          moyen des symboles ci-dessous, l’emplacement des principales installations exploitées et de celles fermées
+          ou ayant existé, situées à proximité du lieu. Indiquez vos sources de renseignements et, dans la mesure du
+          possible, fournissez une copie des renseignements. S’il s’agit d’une personne, donnez ses nom, adresse et
+          numéro de téléphone.
+                                                               SYMBOLE
+          INSTALLATION                             EXPLOITÉE              FERMÉE OU   SOURCES DE
+                                                                          AYANT       RENSEIGNEMENTS
+                                                                          EXISTÉ
+
+          a) Raffinerie de pétrole                 (O)                    (O*)
+          b) Usine (précisez le type)              (M)                    (M*)
+          c) Mine (précisez le type)               (N)                    (N*)
+          d) Émissaire d’évacuation                (S)                    (S*)
+          e) Égouts et canalisations pour les      (P)                    (P*)
+          eaux pluviales
+          f) Quai de chargement                    (D)                    (D*)
+          g) Autre industrie (précisez)            (I)                    (I*)
+          h) Autre source de pollution et de       (C)                    (C*)
+          contamination (précisez)
+
+
+
+                                                                                  NOMBRE DE PAGES JOINTES □
+
+          45. PROXIMITÉ DES ZONES SENSIBLES — Dans le cas d’un nouveau lieu d’immersion, fournissez
+          une carte sur laquelle est indiqué, au moyen des symboles ci-dessous, l’emplacement des zones sensibles
+          situées à proximité du lieu. Indiquez vos sources de renseignements et, dans la mesure du possible,
+          fournissez une copie des renseignements. S’il s’agit d’une personne, donnez ses nom, adresse et numéro de
+          téléphone.
+                                                                                      SOURCES DE
+          ZONE SENSIBLE                                                    SYMBOLE    RENSEIGNEMENTS
+
+          a) Zone récréative                                               (RA)
+          b) Zone de frai et d’alevinage                                   (SN)
+          c) Voie migratoire connue des ressources marines vivantes (MR)
+          d) Zone de pêche sportive ou commerciale                         (FA)
+          e) Zone ayant une valeur esthétique, culturelle ou               (BH)
+          historique importante
+          f) Zone d’intérêt scientifique ou biologique particulier         (IS)
+          g) Aquaculture                                                   (AC)
+          h) Route maritime                                                (SL)
+          i) Zone du fond marin utilisée à des fins techniques             (EU)
+          (exploitation minière, câbles, dessalement ou conversion
+          de l’énergie)
+          j) Autre zone (décrivez son utilisation, par ex. prise d’eau) (XZ)
+
+
+
+
+                                                                     21
+                                    SOR/2001-276 — October 6, 2010
+
+
+
+
+                                                                          NOMBRE DE PAGES JOINTES □
+
+46. ATTÉNUATION — Proposez des mesures visant à réduire au minimum les répercussions sur
+l’environnement, la santé, la navigation et les qualités esthétiques des lieux pendant le chargement, le
+transport et l’immersion. Pour connaître le détail des renseignements additionnels qui doivent être inclus
+dans votre demande, reportez-vous aux données applicables prévues à la partie 2 de l’annexe 1.
+
+
+
+
+47. CONTRAINTES DE TEMPS — Si le lieu de chargement ou d’immersion se trouve à proximité de
+zones de frai, de voies migratoires ou de zones de pêche, indiquez les principales espèces concernées et les
+périodes pendant lesquelles elles sont le plus sensibles (périodes actives de l’année).
+
+
+
+
+La présente demande de permis vise l’autorisation de pratiquer les activités qui y sont décrites. J’atteste que
+j’ai pleine connaissance des renseignements figurant dans la présente demande et que, pour autant que je
+sache, ils sont véridiques, complets et exacts. J’atteste en outre qu’il est en mon pouvoir d’entreprendre
+l’activité proposée ou que je suis dûment autorisé à agir au nom du demandeur.
+
+
+
+            Date                     Nom (caractères d’imprimerie)                        Signature
+
+
+
+                                             No de téléphone                          No de télécopieur
+
+
+
+
+                                                        22
+                                           DORS/2001-276 — 6 octobre 2010
+
+
+
+                                                            ANNEXE 1
+
+                                                             Partie 1
+
+RENSEIGNEMENTS MINIMAUX À FOURNIR (SELON LE TYPE DE SUBSTANCE) POUR L’IMMERSION EN MER DES
+                              DÉCHETS ET AUTRES MATIÈRES
+
+        Chaque type de substance nécessite des renseignements différents qui doivent être inscrits sur le formulaire
+        dans les cases où ils sont demandés. Au besoin, joignez des pages additionnelles. En vertu des alinéas
+        127(2)b) ou 128(3)b) de la LCPE 1999, le ministre de l’Environnement peut exiger que des renseignements
+        additionnels soient fournis en vue de se conformer à l’annexe 6 de cette loi. Dans le cas d’immersion en mer
+        par incinération ou emploi d’autres moyens de dégradation thermique, prévus à l’article 128 de cette loi,
+        consultez la partie 2 de la présente annexe. Les numéros ci-après correspondent aux cases du formulaire de
+        demande de permis.
+
+        A — MATIÈRES DRAGUÉES OU MATIÈRES GÉOLOGIQUES INERTES ET INORGANIQUES
+
+        14.   Substance à immerger
+                Sol ou sédiments
+                Autres composants (ex. : déchets ligneux)
+
+        41.   Données chimiques
+                Composition chimique du sol, des sédiments, ou de l’eau interstitielle compte tenu des paramètres
+                suivants :
+                     cadmium
+                     mercure
+                     biphényles polychlorés (BPC)
+                     hydrocarbures aromatiques polycycliques (HAP) totaux
+                     carbone organique total
+
+        43.   Données physiques
+                Granulométrie du sol ou des sédiments
+
+        B — DÉCHETS DE PÊCHE
+
+        14.   Substance à immerger
+                Espèces
+                Type de déchets (ex. : coquilles, issues)
+                Source des déchets
+
+        C — NAVIRES, AÉRONEFS, PLATES-FORMES ET AUTRES OUVRAGES
+
+        14.   Substance à immerger
+                Nom (s’il y a lieu)
+                Lieu d’enregistrement
+                Modèle ou numéro d’immatriculation officiel
+                Dimensions
+                Poids (port en lourd)
+                Principaux matériaux de construction
+                Nom et adresse du propriétaire
+                Degré de navigabilité (s’il y a lieu)
+
+
+
+
+                                                               23
+                                   SOR/2001-276 — October 6, 2010
+
+
+
+
+41.   Données chimiques
+        Cargaison, combustible et matières dangereuses, y compris les produits chimiques, laissés à bord
+
+43.   Données physiques
+        Dernière cargaison
+        Type de moteur laissé à bord
+        Nature et poids du lest laissé à bord
+
+D — SUBSTANCES VOLUMINEUSES
+
+14.   Substance à immerger
+        Principaux composants (composition)
+        Dimensions
+        Poids (en t)
+
+41.   Données chimiques
+        Contamination par des matières dangereuses, y compris les produits chimiques
+
+E — AUTRES SUBSTANCES
+
+14.   Déchets ou autres matières à immerger (voir l’annexe 5 de la LCPE 1999)
+        Principaux composants (composition)
+        Provenance de la substance et type de transformation qui a donné lieu à sa production
+
+
+                                                   Partie 2
+
+          RENSEIGNEMENTS MINIMAUX À FOURNIR DANS LE CAS D’INCINÉRATION
+
+Dans le cas où l’incinération est nécessaire en raison d’une urgence visée à l’article 128 de la LCPE 1999,
+inscrivez les renseignements exigés sur le formulaire dans les cases où ils sont demandés. Au besoin, joignez
+des pages additionnelles. En vertu de l’alinéa 128(3)b) de cette loi, le ministre de l’Environnement peut
+exiger que des renseignements additionnels soient fournis en vue de se conformer à l’annexe 6 de cette loi.
+Dans le cas d’un rejet autrement que par incinération, consultez la partie 1. Les numéros ci-après
+correspondent aux cases du formulaire de demande de permis.
+
+TOUTES LES SUBSTANCES
+
+14.   Substance à incinérer
+        Principaux composants (composition)
+        Énumération des produits de combustion et indication de leur taux de production
+        Provenance de la substance et type de transformation qui a donné lieu à sa production
+
+20.   Équipement et méthodes
+        Description de l’équipement d’incinération
+        Description du système d’épuration des polluants atmosphériques
+        Description des systèmes de surveillance et de contrôle existants
+        Dimensions de la cheminée
+        Température de combustion
+        Temps de rétention
+
+
+
+
+                                                      24
+                                              DORS/2001-276 — 6 octobre 2010
+
+
+
+                   Rendement des équipements de combustion et de destruction
+                   Méthode proposée de chargement et d’entreposage
+
+          41.   Données chimiques
+                  Émissions de la cheminée - résultats des derniers essais (matières particulaires, chlorure
+                  d’hydrogène [HCI], monoxyde de carbone [CO], dioxines et furannes)
+
+          46.   Atténuation
+                   Méthodes employées pour respecter les règlements applicables sur le bruit
+                   Méthodes de gestion des cendres et de réduction des émissions fugitives
+                   Méthodes de gestion des eaux usées permettant de respecter les normes provinciales ou municipales
+                   en matière de rejet
+                   Méthodes de prévention des dangers pour les autres navires
+                   Méthodes d’intervention et plans d’urgence visant les déversements
+                   Méthodes d’arrêt d’urgence
+                   Compétence du personnel exécutant
+
+
+                                                              ANNEXE 2
+
+RENSEIGNEMENTS MINIMAUX À FOURNIR À L’ÉGARD D’UN REJET DANS UN LIEU D’IMMERSION NOUVEAU ET SUR
+                                         LES GLACES
+
+          Inscrivez les renseignements exigés sur le formulaire dans la case où ils sont demandés. Au besoin, joignez
+          des pages additionnelles. En vertu des alinéas 127(2)b) 128(3)b) de la LCPE 1999, le ministre de
+          l’Environnement peut exiger que des renseignements additionnels soient fournis en vue de se conformer à
+          l’annexe 6 de cette loi. Avant de recueillir des données sur un nouveau lieu d’immersion, communiquez avec
+          le bureau régional responsable du contrôle des immersions en mer, car il est possible que certains
+          renseignements soient déjà fichés. Les numéros ci-après correspondent aux cases du formulaire de demande
+          de permis.
+
+          A — REJET DANS UN LIEU D’IMMERSION NOUVEAU
+
+          18.   Lieu d’immersion
+                   Bathymétrie
+                   Transport des sédiments
+                   Salinité
+                   Courants
+                   Composition des sédiments compte tenu des paramètres suivants :
+                         cadmium
+                         mercure
+                         biphényles polychlorés (BPC)
+                         hydrocarbures aromatiques polycycliques (HAP) totaux
+
+          B — REJET SUR LES GLACES
+
+          18.   Lieu de rejet
+                   Superficie de la glace utilisée pour le rejet
+                   Épaisseur de la glace au lieu proposé (en m)
+                   Date prévue de la rupture de la glace (année/mois/jour)
+                   Emplacement prévu de la rupture de la glace (lat. et long.)
+                   Intervalle estimé entre la rupture et la fonte de la glace (en jours)
+
+
+
+
+                                                                   25
+                                                   SOR/2001-276 — October 6, 2010
+
+
+
+                         Profondeur estimée de l’eau au lieu de rejet (en m)
+
+DORS/2009-252, art. 1(A) et 2.
+
+
+
+
+                                                                      26
+

@@ -1,0 +1,2095 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+     Benzene in Gasoline                                         Règlement sur le benzène
+        Regulations                                                   dans l’essence
+
+                       SOR/97-493                                                        DORS/97-493
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published             31. (1) Every copy of a consolidated statute or            31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies      (3) In the event of an inconsistency between a              (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                               Enregistrement
+SOR/97-493 November 6, 1997                                DORS/97-493 Le 6 novembre 1997
+CANADIAN ENVIRONMENTAL PROTECTION ACT,                     LOI CANADIENNE SUR LA PROTECTION DE
+1999                                                       L’ENVIRONNEMENT (1999)
+
+Benzene in Gasoline Regulations                            Règlement sur le benzène dans l’essence
+
+P.C. 1997-1621 November 6, 1997                            C.P. 1997-1621 Le 6 novembre 1997
+
+   Whereas, pursuant to subsection 48(1) of the Canadi-       Attendu que, conformément au paragraphe 48(1) de la
+an Environmental Protection Acta, the Minister of the      Loi canadienne sur la protection de l’environnementa, la
+Environment published in the Canada Gazette, Part I, on    ministre de l’Environnement a fait publier dans la Ga-
+May 3, 1997, a copy of the proposed Benzene in Gaso-       zette du Canada Partie I, le 3 mai 1997, le projet de rè-
+line Regulations, substantially in the annexed form, and   glement intitulé Règlement sur le benzène dans l’es-
+an opportunity was given to persons to file a notice of    sence, conforme en substance au texte ci-après, et que
+objection to the proposed Regulations with the Minister    les intéressés ont ainsi eu la possibilité de présenter leurs
+of the Environment pursuant to subsection 48(2) of that    observations à cet égard à la ministre de l’Environne-
+Act;                                                       ment, conformément au paragraphe 48(2) de la Loi;
+  And Whereas, in the opinion of the Governor in              Attendu que, selon le gouverneur en conseil et le para-
+Council, pursuant to subsection 34(3) of that Act, the     graphe 34(3) de cette loi, le projet de règlement ne vise
+proposed Regulations do not regulate any aspect of a       pas un point déjà réglementé sous le régime d’une autre
+substance that is regulated by or under any other Act of   loi fédérale,
+Parliament;
+   Therefore, His Excellency the Governor General in         À ces causes, en vertu des articles 34b et 87 de la Loi
+Council, pursuant to sections 34b and 87 of the Canadian   canadienne sur la protection de l’environnementa, sur re-
+Environmental Protection Acta, on the recommendation       commandation de la ministre de l’Environnement et du
+of the Minister of the Environment and the Minister of     ministre de la Santé et après avoir donné au comité
+Health and after the federal-provincial advisory commit-   consultatif fédéro-provincial la possibilité de formuler
+tee has been given an opportunity to provide its advice    ses conseils dans le cadre de l’article 6 de cette loi, Son
+under section 6 of that Act, hereby makes the annexed      Excellence le Gouverneur général en conseil prend le
+Benzene in Gasoline Regulations.                           Règlement sur le benzène dans l’essence, ci-après.
+
+
+
+
+a                                                           a 
+     R.S., c. 16 (4th Supp.)                                     L.R., ch. 16 (4e suppl.)
+b                                                           b 
+     S.C. 1992, c. 1, s. 144, Sch. VII, s. 15                    L.C. 1992, ch. 1, art. 144, ann. VII, art. 15
+BENZENE IN GASOLINE REGULATIONS                                  RÈGLEMENT    SUR              LE     BENZÈNE          DANS
+                                                                    L’ESSENCE
+
+                  INTERPRETATION                                         DÉFINITIONS ET INTERPRÉTATION
+  1. (1) The definitions in this subsection apply in               1. (1) Les définitions qui suivent s’appliquent au pré-
+these Regulations.                                               sent règlement.
+“Act” means the Canadian Environmental Protection                « additif » Substance qui est ajoutée à l’essence sans en
+Act, 1999. (Loi)                                                 modifier la composition physique et dont il a été démon-
+“additive” means a substance that is added to gasoline           tré qu’elle en améliore les caractéristiques, afin d’aug-
+that does not materially affect its composition and that         menter le rendement du moteur. Sont compris dans la
+has been demonstrated to improve the gasoline’s charac-          présente définition les désactivateurs de métaux, les inhi-
+teristics so as to enhance engine performance and in-            biteurs d’oxydation, les inhibiteurs de corrosion, les anti-
+cludes metal deactivators, oxidation inhibitors, corrosion       gels et les détergents pour système d’admission. (addi-
+inhibitors, icing inhibitors and induction system deter-         tive)
+gents. (additif)                                                 « additifs » [Abrogée, DORS/99-204, art. 1]
+“additives” [Repealed, SOR/99-204, s. 1]                         « agent autorisé »
+“aromatics” means benzene and other cyclic hydrocar-               a) Dans le cas d’une personne morale, celui des diri-
+bon compounds that contain one or more benzene rings               geants de cette personne morale autorisé à agir au nom
+as determined by the method specified in subsection                de celle-ci;
+5(2). (aromatiques)                                                b) dans le cas de toute autre personne, cette personne
+“auditor”, in respect of a primary supplier, means a per-          ou la personne autorisée à agir au nom de celle-ci;
+son who                                                            c) dans le cas de toute autre entité, la personne autori-
+  (a) is independent of the primary supplier; and                  sée à agir au nom de celle-ci. (authorized official)
+  (b) is certified, for the purpose of carrying out Inter-       « année » Année civile, sauf en 1999 où ce terme s’ap-
+  national Organization for Standardization quality as-          plique à la période débutant le 1er juillet et se terminant le
+  surance (ISO 9000 series) assessments, by                      31 décembre de l’année. (year)
+     (i) the Standards Council of Canada,                        « approvisionnement » Fabrication en raffinerie, mélange
+     (ii) the International Registrar of Certified Audi-         à une installation de mélange ou importation dans une
+     tors,                                                       province à partir de l’étranger d’essence pour utilisation
+                                                                 ou vente au Canada. (supply)
+     (iii) the Registrar Accreditation Board, or
+                                                                 « aromatiques » Benzène et autres hydrocarbures cy-
+     (iv) any other nationally or internationally recog-         cliques contenant un ou plusieurs anneaux benzéniques
+     nized accreditation organization. (vérificateur)            selon la méthode visée au paragraphe 5(2). (aromatics)
+“authorized official” means                                      « butane pur de qualité commerciale » Butane (C4H10)
+  (a) in respect of a corporation, an officer of the cor-        conforme aux exigences ci-dessous visant les teneurs en
+  poration who is authorized to act on its behalf;               contaminants :
+  (b) in respect of any other person, that person or a             a) concentration de benzène ne dépassant pas 0,03 %
+  person authorized to act on behalf of that person; and           en volume;
+  (c) in respect of any other entity, a person authorized          b) concentration d’aromatiques ne dépassant pas
+  to act on its behalf. (agent autorisé)                           2,0 % en volume;
+
+
+
+                                                             1
+                                            SOR/97-493 — October 6, 2010
+
+
+
+
+“batch” means an identifiable quantity of gasoline that           c) concentration de soufre ne dépassant pas :
+can be characterized by one set of model parameters, as              (i) jusqu’au 31 décembre 2004, 140 mg/kg,
+sampled and measured in accordance with section 5 or 6.
+(lot)                                                                (ii) après le 31 décembre 2004, 40 mg/kg. (com-
+                                                                     mercially pure butane)
+“benzene emissions number” means the number calcu-
+lated in accordance with Schedule 1. (indice des émis-          « camion-citerne » Véhicule automobile ou remorque
+sions de benzène)                                               équipés d’un réservoir à liquide en vrac. (cargo tanker)
+
+“blend” means to manufacture or process a batch by              « composé de base de type essence automobile » Essence
+mixing gasoline or gasoline components, including oxy-          qui est destinée à être raffinée ou mélangée de sorte
+genates. It does not include                                    qu’on obtienne de l’essence conforme et qui est désignée
+                                                                comme telle conformément à l’article 9. Est exclue de la
+  (a) the mixing of only complying gasolines, U.S. re-          présente définition l’essence provenant d’une installation
+  formulated gasolines or California gasolines or any           de ravitaillement. (gasoline-like blendstock)
+  combination of those gasolines; or
+                                                                « essence » Selon le cas :
+  (b) the adding of only additives, commercially pure
+  butane or commercially pure oxygenates to complying             a) tout combustible vendu ou présenté comme de
+  gasoline, U.S. reformulated gasoline or California              l’essence;
+  gasoline. (mélange)                                             b) tout distillat du pétrole, ou tout mélange de distil-
+“blender” means a person who                                      lats du pétrole, de produits oxygénés ou d’additifs, qui
+                                                                  convient au fonctionnement d’un moteur à allumage
+  (a) owns, leases, operates, controls, supervises or             par bougies et qui présente les caractéristiques sui-
+  manages a blending facility; or                                 vantes, selon la méthode d’essai applicable indiquée
+  (b) owns the gasoline in a blending facility. (mélan-           dans la norme nationale du Canada CAN/CG-
+  geur)                                                           SB-3.5-94, intitulée Essence automobile sans plomb:
+“blending facility” means a facility in Canada in which              (i) une tension de vapeur d’au moins 38 kPa,
+blending occurs, and includes a cargo tanker, railway                (ii) un indice antidétonant d’au moins 80,
+car, boat, marine vessel or other type of mobile facility
+in which blending occurs. (installation de mélange)                  (iii) une température de distillation, à laquelle 10 %
+                                                                     du carburant s’est évaporé, d’au moins 35°C et d’au
+“California gasoline” means gasoline that                            plus 70°C,
+  (a) meets the compositional requirements described                 (iv) une température de distillation, à laquelle 50 %
+  in The California Reformulated Gasoline Regulations,               du carburant s’est évaporé, d’au moins 65°C et d’au
+  Title 13, California Code of Regulations, Division 3,              plus 120°C. (gasoline)
+  Chapter 5, Article 1, Subarticle 2; and
+                                                                « essence Californie » Essence qui, à la fois :
+  (b) has been identified as California gasoline under
+  subsection 9(1) of these Regulations. (essence Cali-            a) possède une composition conforme aux exigences
+  fornie)                                                         énoncées dans le règlement intitulé The California Re-
+                                                                  formulated Gasoline Regulations, titre 13, California
+“California Phase     2   gasoline”   [Repealed,   SOR/           Code of Regulations, division 3, chapitre 5, article 1,
+2003-318, s. 1]                                                   paragraphe 2;
+“cargo tanker” means a motor vehicle or trailer on which
+a bulk liquid tank is mounted. (camion-citerne)
+
+
+
+                                                            2
+                                            DORS/97-493 — 6 octobre 2010
+
+
+
+
+“commercially pure butane” means butane (C4H10) that                 b) est désignée comme telle conformément au para-
+meets the following contaminate levels:                              graphe 9(1) du présent règlement. (California gaso-
+                                                                     line)
+  (a) a benzene concentration that does not exceed
+  0.03% by volume;                                                 « essence Californie Phase 2 » [Abrogée, DORS/
+                                                                   2003-318, art. 1]
+  (b) an aromatics concentration that does not exceed
+  2.0% by volume; and                                              « essence conforme » Essence dont la composition est
+                                                                   conforme aux exigences du présent règlement relatives
+  (c) a sulphur concentration that does not exceed
+                                                                   au benzène ainsi qu’à l’indice des émissions de benzène,
+     (i) until December 31, 2004, 140 mg/kg, and                   laquelle essence est désignée :
+     (ii) after December 31, 2004, 40 mg/kg. (butane                 a) soit comme telle conformément aux paragraphes
+     pur de qualité commerciale)                                     9(1) ou (2);
+“commercially pure oxygenate” means an oxygenate that                b) soit comme essence conforme pour l’hiver boréal
+meets the following contaminate levels:                              conformément au paragraphe 9(1). (complying gaso-
+  (a) a benzene concentration that does not exceed                   line)
+  0.25% by volume;                                                 « essence reformulée É.-U. » Essence reformulée au sens
+  (b) an aromatics concentration that does not exceed              du Regulation of Fuels and Fuel Additives : Standards
+  2.5% by volume; and                                              for Reformulated and Conventional Gazoline, du Code
+                                                                   of Federal Regulations des États-Unis, titre 40, partie
+  (c) a sulphur concentration that does not exceed
+                                                                   80, article 80.2, alinéa (ee). (U.S. reformulated gasoline)
+     (i) until December 31, 2004, 170 mg/kg, and
+                                                                   « été » Période commençant le 15 avril et se terminant le
+     (ii) after December 31, 2004, 40 mg/kg. (produit              15 septembre suivant. (summer)
+     oxygéné pur de qualité commerciale)
+                                                                   « fabricant » Toute personne qui est propriétaire d’une
+“competition vehicle” means a vehicle, boat or marine              raffinerie, la loue, l’exploite, la dirige, la contrôle ou la
+vessel that is used exclusively for competition. (véhicule         gère. (manufacturer)
+de compétition)
+                                                                   « fournisseur principal »
+“complying gasoline” means gasoline that meets the
+                                                                     a) Dans le cas d’essence qui est fabriquée dans une
+compositional requirements of these Regulations relating
+                                                                     raffinerie ou mélangée dans une installation de mé-
+to benzene and the benzene emissions number and that
+                                                                     lange, la personne qui est :
+has been identified as
+                                                                        (i) soit propriétaire de la raffinerie ou de l’installa-
+  (a) complying gasoline under subsection 9(1) or (2);
+                                                                        tion ou qui la loue, l’exploite, la dirige, la contrôle
+  or
+                                                                        ou la gère,
+  (b) northern winter complying gasoline under subsec-
+                                                                        (ii) soit propriétaire de l’essence se trouvant dans
+  tion 9(1). (essence conforme)
+                                                                        l’installation de mélange;
+“gasoline” means
+                                                                     b) dans le cas d’essence importée, l’importateur. (pri-
+  (a) a fuel that is sold or represented as gasoline; or             mary supplier)
+  (b) a petroleum distillate, or a mixture of petroleum            « hiver » Période commençant le 16 septembre d’une an-
+  distillates, oxygenates or additives, that is suitable for       née et se terminant le 14 avril de l’année suivante. (win-
+  use in a spark ignition engine and that has the follow-          ter)
+
+
+
+                                                               3
+                                               SOR/97-493 — October 6, 2010
+
+
+
+
+  ing characteristics, as determined from the applicable         « importation » Importation d’essence au Canada, sauf si
+  test method listed in the National Standard of Canada          cette essence est importée dans le réservoir de carburant
+  standard CAN/CGSB-3.5-94, Unleaded Automotive                  d’un moyen de transport pour en alimenter le moteur.
+  Gasoline:                                                      (import)
+     (i) a vapour pressure of at least 38 kPa,                   « indice des émissions de benzène » Indice calculé
+     (ii) an antiknock index of at least 80,                     conformément à l’annexe 1. (benzene emissions number)
+
+     (iii) a distillation temperature, at which 10% of the       « installation de mélange » Installation au Canada où se
+     fuel has evaporated, of not less than 35°C and not          fait le mélange. Sont compris dans la présente définition
+     greater than 70°C, and                                      le camion-citerne, le wagon-citerne, le bateau, le navire
+                                                                 et tout autre type d’installation mobile où se fait le mé-
+     (iv) a distillation temperature, at which 50% of the        lange. (blending facility)
+     fuel has evaporated, of not less than 65°C and not
+     greater than 120°C. (essence)                               « Loi » La Loi canadienne sur la protection de l’environ-
+                                                                 nement (1999). (Act)
+“gasoline-like blendstock” means gasoline, other than
+gasoline dispensed from a refuelling facility, that is in-       « lot » Volume identifiable d’essence pouvant être carac-
+tended to be further refined or blended so as to result in       térisé par un ensemble de paramètres du modèle, échan-
+complying gasoline and that has been identified as gaso-         tillonné et mesuré conformément aux articles 5 ou 6.
+line-like blendstock under section 9. (composé de base           (batch)
+de type essence automobile)                                      « mélange » Fabrication ou traitement d’un lot par le mé-
+“grade” means the differentiation of gasoline by a mini-         lange d’essence ou de composants de l’essence, notam-
+mum antiknock index. (qualité)                                   ment des produits oxygénés. La présente définition ne
+                                                                 vise pas :
+“highway” means a common or public road, street, av-
+enue, parkway, driveway, square, bridge or viaduct, any            a) le mélange uniquement d’essences conformes,
+part of which is intended for or used by the general pub-          d’essences reformulées É.-U. ou d’essences Califor-
+lic for the passage of vehicles, and includes areas be-            nie, ou toute combinaison de celles-ci;
+tween their lateral property lines. (voie publique)                b) l’addition, à de l’essence conforme, à de l’essence
+“import” means to import gasoline into Canada, except              reformulée É.-U. ou à de l’essence Californie, des
+gasoline that is imported in the fuel tank of a conveyance         seuls produits suivants : additifs, butane pur de qualité
+and that is for the use of the conveyance’s engine. (im-           commerciale ou produits oxygénés purs de qualité
+portation)                                                         commerciale. (blend)
+
+“manufacturer” means a person who owns, leases, oper-            « mélangeur » Personne qui :
+ates, controls, supervises or manages a refinery. (fabri-          a) soit est propriétaire d’une installation de mélange,
+cant)                                                              la loue, l’exploite, la dirige, la contrôle ou la gère;
+“model parameters” means                                           b) soit est propriétaire de l’essence qui est dans l’ins-
+  (a) the concentration of oxygen as a percentage of the           tallation de mélange. (blender)
+  gasoline by weight;                                            « moyenne annuelle » Valeur moyenne pondérée en fonc-
+  (b) the concentration of sulphur in mg/kg;                     tion du volume de la concentration de benzène ou de
+                                                                 l’indice des émissions de benzène de l’essence fournie
+  (c) the vapour pressure at 37.8°C (100°F) in kPa;
+
+
+
+
+                                                             4
+                                           DORS/97-493 — 6 octobre 2010
+
+
+
+
+  (d) the evaporative fraction at 93.3°C (200°F) as a             par le fournisseur principal pendant une année. (yearly
+  percentage of the gasoline by volume;                           pool average)
+  (e) the evaporative fraction at 148.9°C (300°F) as a            « oléfines » Hydrocarbures aliphatiques insaturés conte-
+  percentage of the gasoline by volume;                           nant une ou plusieurs liaisons doubles selon la méthode
+  (f) the concentration of aromatics as a percentage of           visée au paragraphe 5(3). (olefins)
+  the gasoline by volume; and                                     « paramètres du modèle » Ensemble des caractéristiques
+  (g) the concentration of benzene as a percentage of             suivantes :
+  the gasoline by volume. (paramètres du modèle)                    a) la concentration d’oxygène en pourcentage de l’es-
+“northern supply area” means the area corresponding to              sence au poids;
+the geographical areas identified in the National Stan-             b) la concentration de soufre en mg/kg;
+dard of Canada standard CAN/CGSB-3.5-94, Unleaded                   c) la tension de vapeur à 37,8 °C (100 °F) en kPa;
+Automotive Gasoline, as areas VII and VIII and the por-
+tion of area V that is north of latitude 49°N. (zone d’ap-          d) la fraction s’évaporant à 93,3 °C (200 °F) en pour-
+provisionnement du Nord)                                            centage de l’essence en volume;
+
+“olefins” means unsaturated aliphatic hydrocarbon com-              e) la fraction s’évaporant à 148,9 °C (300 °F) en
+pounds that contain one or more double bonds as deter-              pourcentage de l’essence en volume;
+mined by the method specified in subsection 5(3). (olé-             f) la concentration d’aromatiques en pourcentage de
+fines)                                                              l’essence en volume;
+“oxygenate” means an oxygen-containing, ashless, or-                g) la concentration de benzène en pourcentage de
+ganic compound that, when added to gasoline, increases              l’essence en volume. (model parameters)
+the oxygen content in the gasoline. (produit oxygéné)
+                                                                  « produit oxygéné » Tout composé organique oxygéné
+“primary supplier” means                                          sans cendre qui, ajouté à l’essence, en augmente la te-
+  (a) in respect of gasoline that is manufactured at a re-        neur en oxygène. (oxygenate)
+  finery or blended at a blending facility, a person who          « produit oxygéné pur de qualité commerciale » Produit
+     (i) owns, leases, operates, controls, supervises or          oxygéné conforme aux exigences ci-dessous visant les
+     manages the refinery or blending facility, or                teneurs en contaminants :
+
+     (ii) owns the gasoline in the blending facility; and           a) concentration de benzène ne dépassant pas 0,25 %
+                                                                    en volume;
+  (b) in respect of gasoline that is imported, the im-
+  porter. (fournisseur principal)                                   b) concentration d’aromatiques ne dépassant pas
+                                                                    2,5 % en volume;
+“quality control program” means a combination of test-
+ing, statistical techniques and inter-laboratory compar-            c) concentration de soufre ne dépassant pas :
+isons used to verify that a laboratory’s analysis of a sam-           (i) jusqu’au 31 décembre 2004, 170 mg/kg,
+ple accurately reflects the composition of the gasoline
+                                                                      (ii) après le 31 décembre 2004, 40 mg/kg. (com-
+from which the sample was taken. (programme de
+                                                                      mercially pure oxygenate)
+contrôle de la qualité)
+                                                                  « programme de contrôle de la qualité » Combinaison
+“refinery” means a facility in Canada that separates and
+                                                                  d’essais, de techniques statistiques et de comparaisons
+converts crude oil or other feedstock into liquid
+                                                                  interlaboratoires servant à vérifier si l’analyse d’un
+petroleum products, and includes any manufacturing,
+
+
+
+                                                              5
+                                           SOR/97-493 — October 6, 2010
+
+
+
+
+processing, blending, shipping and packaging facilities           échantillon effectuée par un laboratoire reflète avec pré-
+located on the property of such a facility. (raffinerie)          cision la composition de l’essence dont provient l’échan-
+“scientific research” does not include research into the          tillon. (quality control program)
+preferences of consumers for differing properties of              « programme statistique d’assurance de la qualité » Com-
+gasoline or marketing research. (recherche scientifique)          binaison de techniques expérimentales et statistiques ser-
+“statistical quality assurance program” means a combi-            vant à déterminer si l’essence satisfait aux exigences de
+nation of testing and statistical techniques used to deter-       composition du présent règlement relatives au benzène et
+mine whether gasoline meets the compositional require-            à l’indice des émissions de benzène. (statistical quality
+ments of these Regulations relating to benzene and the            assurance program)
+benzene emissions number. (programme statistique                  « qualité » Différenciation de l’essence selon un indice
+d’assurance de la qualité)                                        antidétonant minimal. (grade)
+“summer” means the period beginning on April 15 and               « raffinerie » Installation située au Canada qui sépare et
+ending on the following September 15. (été)                       convertit du pétrole brut ou une autre charge d’alimenta-
+“supply” means to manufacture at a refinery, blend in a           tion en produits de pétrole liquide. La définition vise
+blending facility or import into a province from outside          également les installations de fabrication, de traitement,
+Canada, gasoline for use or sale in Canada. (approvi-             de mélange, d’expédition et d’emballage se trouvant
+sionnement)                                                       dans la propriété de la raffinerie. (refinery)
+
+“U.S. reformulated gasoline” means reformulated gaso-             « recherche scientifique » Sont exclues de la recherche
+line as defined in the Regulation of Fuels and Fuel Addi-         scientifique la recherche portant sur les préférences des
+tives: Standards for Reformulated and Conventional                consommateurs pour diverses propriétés de l’essence et
+Gasoline in the U.S. Code of Federal Regulations, Title           les études de marché. (scientific research)
+40, Part 80, section 80.2, paragraph (ee). (essence refor-        « véhicule de compétition » Véhicule, bateau ou navire
+mulée É.-U.)                                                      utilisé exclusivement pour la compétition. (competition
+“winter” means the period beginning on September 16 of            vehicle)
+each year and ending on April 14 of the following year.           « vérificateur » Personne qui est à la fois :
+(hiver)                                                             a) indépendante du fournisseur principal;
+“year” means a calendar year, except during 1999, when              b) accréditée par l’un des organismes suivants pour
+it means the period beginning on July 1 and ending on               effectuer des évaluations d’assurance de la qualité
+December 31. (année)                                                prescrites par l’Organisation internationale de norma-
+“yearly pool average” means the volume-weighted aver-               lisation (série ISO 9000) :
+age value for concentration of benzene or the benzene                  (i) le Conseil canadien des normes,
+emissions number of gasoline supplied by a primary sup-
+plier during a year. (moyenne annuelle)                                (ii) l’International Registrar of Certified Auditors,
+                                                                       (iii) le Registrar Accreditation Board,
+                                                                       (iv) tout autre organisme d’accréditation reconnu à
+                                                                       l’échelle nationale ou internationale. (auditor)
+                                                                  « voie publique » Route commune ou publique, rue, ave-
+                                                                  nue, promenade, allée, place, pont ou viaduc, dont une
+                                                                  partie est prévue pour le passage de véhicules ou utilisée
+
+
+
+                                                              6
+                                                     DORS/97-493 — 6 octobre 2010
+
+
+
+
+                                                                               par le grand public à cette fin, y compris la zone entre les
+                                                                               limites de propriété latérales de ces ouvrages. (highway)
+                                                                               « zone d’approvisionnement du Nord » Zone correspon-
+                                                                               dant aux zones géographiques VII et VIII et à la partie
+                                                                               au nord de 49° de latitude N de la zone V, selon la
+                                                                               norme nationale du Canada CAN/CGSB-3.5-94, intitu-
+                                                                               lée Essence automobile sans plomb. (northern supply
+                                                                               area)
+   (2) Any regulation, standard or method that is incor-                         (2) Dans le présent règlement, tout renvoi à un autre
+porated by reference in these Regulations is incorporated                      règlement, à une norme ou à une méthode s’entend de
+as amended from time to time.                                                  cet autre règlement, de cette norme ou de cette méthode
+SOR/99-204, s. 1; SOR/2000-102, s. 25; SOR/2003-318, s. 1; SOR/2004-252,       avec ses modifications successives.
+s. 1(F).
+                                                                               DORS/99-204, art. 1; DORS/2000-102, art. 25; DORS/2003-318, art. 1;
+                                                                               DORS/2004-252, art. 1(F).
+
+        APPLICATION — TYPES AND USES OF                                          APPLICATION — TYPES ET UTILISATIONS DE
+                   GASOLINE                                                                    L’ESSENCE
+   2. (1) Subject to sections 7 and 9 to 11, these Regula-                       2. (1) Sous réserve des articles 7 et 9 à 11, le présent
+tions do not apply to gasoline for use in                                      règlement ne s’applique pas à l’essence utilisée pour :
+   (a) aircraft;                                                                 a) les aéronefs (essence aviation);
+   (b) competition vehicles, provided that the gasoline                          b) les véhicules de compétition, à condition que cette
+   has an antiknock index of at least 100; or                                    essence ait un indice antidétonant d’au moins 100;
+   (c) scientific research in Canada.                                            c) la recherche scientifique au Canada.
+  (2) Subject to sections 9 to 11, these Regulations do                         (2) Sous réserve des articles 9 à 11, le présent règle-
+not apply to                                                                   ment ne s’applique pas :
+   (a) gasoline in transit through Canada, from a place                          a) à l’essence qui est en transit au Canada, en prove-
+   outside Canada to another place outside Canada, and                           nance et à destination d’un lieu à l’extérieur du
+   accompanied by written evidence establishing that the                         Canada, et qui est accompagnée d’une preuve écrite
+   gasoline is in transit; or                                                    attestant qu’elle est en transit;
+   (b) gasoline produced or sold for export and accom-                           b) à l’essence qui est produite ou vendue pour être ex-
+   panied by written evidence establishing that the gaso-                        portée et qui est accompagnée d’une preuve écrite at-
+   line will be exported.                                                        testant qu’elle sera exportée.
+   (3) Subsection 3(1) and sections 4, 16 and 17 do not                           (3) Le paragraphe 3(1) et les articles 4, 16 et 17 ne
+apply to U.S. reformulated gasoline or California gaso-                        s’appliquent ni à l’essence reformulée É.-U., ni à l’es-
+line.                                                                          sence Californie.
+   (4) Subject to sections 7 and 9 to 13 and subsections                          (4) Sous réserve des articles 7 et 9 à 13 et des para-
+18(4) and 19(3), these Regulations do not apply to gaso-                       graphes 18(4) et 19(3), le présent règlement ne s’ap-
+line-like blendstock.                                                          plique pas aux composés de base de type essence auto-
+                                                                               mobile.
+
+
+
+
+                                                                           7
+                                             SOR/97-493 — October 6, 2010
+
+
+
+
+   (5) Any batch that is supplied during the summer but              (5) Tout lot fourni en été mais destiné à être utilisé en
+is intended for use during the winter in the northern sup-         hiver dans la zone d’approvisionnement du Nord est
+ply area is considered to be supplied during the winter if         considéré comme étant fourni en hiver, à condition que
+the primary supplier identifies the batch under subsec-            le fournisseur principal le désigne comme essence
+tion 9(1) as northern winter complying gasoline.                   conforme pour l’hiver boréal conformément au para-
+                                                                   graphe 9(1).
+   (6) These Regulations do not apply to gasoline that                (6) Le présent règlement ne s’applique pas à l’essence
+has been stored in the northern supply area for the pur-           entreposée dans la zone d’approvisionnement du Nord
+pose of providing gasoline to persons in emergency situ-           en vue de l’alimentation en essence des personnes en si-
+ations if the gasoline was supplied before July 1, 1999            tuation d’urgence, si l’approvisionnement en essence a
+and stored before July 1, 2000.                                    été fait avant le 1er juillet 1999 et que la date de son en-
+SOR/99-204, s. 2; SOR/2003-318, s. 2.                              treposage est antérieure au 1er juillet 2000.
+                                                                   DORS/99-204, art. 2; DORS/2003-318, art. 2.
+
+                               PART 1                                                           PARTIE 1
+
+  REQUIREMENTS PERTAINING TO BENZENE IN                                  EXIGENCES VISANT LE BENZÈNE DANS
+                GASOLINE                                                             L’ESSENCE
+
+                     BENZENE — PROHIBITION                                                BENZÈNE — INTERDICTION
+   3. (1) Effective July 1, 1999 and subject to section               3. (1) À compter du 1er juillet 1999 et sous réserve de
+15, no primary supplier shall supply gasoline that con-            l’article 15, aucun fournisseur principal ne peut fournir
+tains benzene at a concentration that exceeds 1.0% by              de l’essence contenant du benzène en une concentration
+volume.                                                            supérieure à 1,0 % en volume.
+  (2) No person shall sell or offer for sale gasoline that            (2) Nul ne peut vendre ou mettre en vente de l’es-
+contains benzene at a concentration that exceeds 1.5%              sence contenant du benzène en une concentration supé-
+by volume                                                          rieure à 1,5 % en volume :
+   (a) in the northern supply area, effective July 1, 2000;           a) dans la zone d’approvisionnement du Nord, à
+   (b) in all areas identified in an application under para-          compter du 1er juillet 2000;
+   graph 16(3)(b) in respect of which the Minister has                b) dans les zones indiquées dans la demande confor-
+   authorized the use of a temporary alternative limit, ef-           mément à l’alinéa 16(3)b) pour lesquelles le ministre a
+   fective April 1, 2000; and                                         autorisé une limite de remplacement temporaire, à
+   (c) in any other area in Canada not described in para-             compter du 1er avril 2000;
+   graph (a) and (b), effective October 1, 1999.                      c) dans les autres endroits au Canada non visés aux
+SOR/99-204, s. 3.                                                     alinéas a) et b), à compter du 1er octobre 1999.
+                                                                   DORS/99-204, art. 3.
+
+         BENZENE EMISSIONS NUMBER — PROHIBITION                          INDICE DES ÉMISSIONS DE BENZÈNE — INTERDICTION
+   4. Effective July 1, 1999 and subject to section 15, no            4. À compter du 1er juillet 1999 et sous réserve de
+primary supplier shall supply gasoline that has a benzene          l’article 15, aucun fournisseur principal ne peut fournir
+emissions number that exceeds
+
+
+
+
+                                                               8
+                                          DORS/97-493 — 6 octobre 2010
+
+
+
+
+  (a) 71, in the case of a batch supplied during the sum-       de l’essence dont l’indice des émissions de benzène
+  mer; and                                                      dépasse :
+  (b) 92, in the case of a batch supplied during the win-         a) 71, dans le cas d’un lot fourni en été;
+  ter.                                                            b) 92, dans le cas d’un lot fourni en hiver.
+
+    REFERENCE METHODS FOR SAMPLING AND ANALYSIS                      MÉTHODES D’ÉCHANTILLONNAGE ET D’ANALYSE DE
+                                                                                       RÉFÉRENCE
+
+   5. (1) Subject to subsection 6(1), all samples must be         5. (1) Sous réserve du paragraphe 6(1), tous les
+taken in accordance with any one of the American Soci-          échantillons doivent être prélevés conformément à l’une
+ety for Testing and Materials sampling methods specifi-         ou l’autre des méthodes d’échantillonnage de l’Ameri-
+cally set out in section 7 of the National Standard of          can Society For Testing and Materials spécifiquement
+Canada Standard CAN/CGSB-3.5-99, Unleaded Auto-                 énoncées à l’article 7 de la norme nationale du Canada
+motive Gasoline.                                                CAN/CGSB-3.5-99, intitulée Essence automobile sans
+                                                                plomb.
+   (2) The concentration of benzene and that of aromat-            (2) La concentration de benzène et celle d’aroma-
+ics in gasoline referred to in sections 3 and 16 and            tiques dans l’essence mentionnées aux articles 3 et 16 et
+Schedule 1 must be measured in accordance with the Na-          à l’annexe 1 doivent être mesurées conformément à la
+tional Standard of Canada method CAN/CGSB-3.0 No.               méthode énoncée dans la norme nationale du Canada
+14.3-94, Standard Test Method for the Identification of         CAN/CGSB-3.0 no 14.3-94, intitulée Méthode normali-
+Hydrocarbon Components in Automotive Gasoline Us-               sée d’identification des hydrocarbures dans l’essence
+ing Gas Chromatography.                                         automobile par chromatographie en phase gazeuse.
+   (3) Subject to subsection 6(2), the concentration of            (3) Sous réserve du paragraphe 6(2), la concentration
+olefins in gasoline referred to in Schedule 3 must be           d’oléfines dans l’essence mentionnée à l’annexe 3 doit
+measured in accordance with the National Standard of            être mesurée conformément à la méthode énoncée dans
+Canada method CAN/CGSB-3.0 No. 14.3-94, Standard                la norme nationale du Canada CAN/CGSB-3.0 no
+Test Method for the Identification of Hydrocarbon Com-          14.3-94, intitulée Méthode normalisée d’identification
+ponents in Automotive Gasoline Using Gas Chromatog-             des hydrocarbures dans l’essence automobile par chro-
+raphy.                                                          matographie en phase gazeuse.
+   (4) The concentration of sulphur in gasoline referred           (4) La concentration de soufre dans l’essence men-
+to in Schedule 1 must be measured in accordance with            tionnée à l’annexe 1 doit être mesurée :
+  (a) until December 31, 2003, the National Standard              a) jusqu’au 31 décembre 2003, conformément à la
+  of Canada method CAN/CGSB-3.0 No. 16.1-98, Sul-                 méthode énoncée dans la norme nationale du Canada
+  phur in Gasoline by Energy Dispersive X-Ray Fluo-               CAN/CGSB-3.0 no 16.1-98, intitulée Soufre dans l’es-
+  rescence Spectrometry (EDXRF); and                              sence par spectrométrie de fluorescence X à disper-
+  (b) after December 31, 2003, the American Society               sion d’énergie (EDXRF);
+  for Testing and Materials method D 5453-00, Stan-               b) après le 31 décembre 2003, conformément à la mé-
+  dard Test Method for Determination of Total Sulphur             thode D 5453-00 de l’American Society for Testing
+  in Light Hydrocarbons, Motor Fuels and Oils by Ul-              and Materials, intitulée Standard Test Method for De-
+  traviolet Fluorescence.                                         termination of Total Sulfur in Light Hydrocarbons,
+                                                                  Motor Fuels and Oils by Ultraviolet Fluorescence.
+
+
+
+                                                            9
+                                          SOR/97-493 — October 6, 2010
+
+
+
+
+   (5) The vapour pressure of gasoline at 37.8°C (100°F)           (5) La tension de vapeur de l’essence à 37,8 °C
+referred to in Schedule 1 must be measured in accor-             (100 °F) mentionnée à l’annexe 1 doit être mesurée
+dance with the American Society for Testing and Materi-          conformément à la méthode D 5191-01 de l’American
+als method D 5191-01, Standard Test Method for Vapor             Society for Testing and Materials, intitulée Standard
+Pressure of Petroleum Products (Mini Method) and con-            Test Method for Vapor Pressure of Petroleum Products
+verted to “dry vapor pressure equivalent” as described in        (Mini Method), et convertie en tension de vapeur sèche
+that method.                                                     (dry vapor pressure equivalent) conformément à cette
+                                                                 méthode.
+   (6) The evaporative fractions of gasoline at 93.3°C              (6) Les fractions de l’essence s’évaporant à 93,3 °C
+(200°F) and 148.9°C (300°F) referred to in Schedule 1            (200 °F) et à 148,9 °C (300 °F) mentionnées à l’annexe
+must be measured in accordance with the American So-             1 doivent être mesurées conformément à la méthode D
+ciety for Testing and Materials method D 86-01, Stan-            86-01 de l’American Society for Testing and Materials,
+dard Test Method for Distillation of Petroleum Products          intitulée Standard Test Method for Distillation of Petro-
+at Atmospheric Pressure.                                         leum Products at Atmospheric Pressure.
+   (7) The concentration of oxygen in gasoline referred             (7) La concentration d’oxygène dans l’essence men-
+to in Schedule 1 must be measured in accordance with             tionnée à l’annexe 1 doit être mesurée conformément à
+the National Standard of Canada method CAN/                      la méthode énoncée dans la norme nationale du Canada
+CGSB-3.0, No. 14.3-94, Standard Test Method for the              CAN/CGSB-3.0 no 14.3-94, intitulée Méthode normali-
+Identification of Hydrocarbon Components in Automo-              sée d’identification des hydrocarbures dans l’essence
+tive Gasoline Using Gas Chromatography.                          automobile par chromatographie en phase gazeuse.
+   (8) The concentration of benzene and that of aromat-             (8) La concentration de benzène et celle d’aroma-
+ics in oxygenates referred to in the definition “commer-         tiques dans les produits oxygénés visées à la définition
+cially pure oxygenate” in subsection 1(1) must be mea-           de « produit oxygéné pur de qualité commerciale » au
+sured in accordance with the National Standard of                paragraphe 1(1) doivent être mesurées conformément à
+Canada method CAN/CGSB-3.0 No. 14.3-94, Standard                 la méthode énoncée dans la norme nationale du Canada
+Test Method for the Identification of Hydrocarbon Com-           CAN/CGSB-3.0 no 14.3-94, intitulée Méthode normali-
+ponents in Automotive Gasoline Using Gas Chromatog-              sée d’identification des hydrocarbures dans l’essence
+raphy.                                                           automobile par chromatographie en phase gazeuse.
+   (9) The concentration of benzene and that of aromat-             (9) La concentration de benzène et celle d’aroma-
+ics in butane referred to in the definition “commercially        tiques dans le butane visées à la définition de « butane
+pure butane” in subsection 1(1) must be measured in ac-          pur de qualité commerciale » au paragraphe 1(1) doivent
+cordance with the American Society for Testing and Ma-           être mesurées conformément à la méthode D 2163-91 de
+terials method D 2163-91, Standard Test Method for               l’American Society for Testing and Materials, intitulée
+Analysis of Liquefied Petroleum (LP) Gases and                   Standard Test Method for Analysis of Liquefied Petro-
+Propene Concentrates by Gas Chromatography.                      leum (LP) Gases and Propene Concentrates by Gas
+                                                                 Chromatography.
+   (10) The concentration of sulphur in oxygenates re-              (10) La concentration de soufre dans les produits
+ferred to in the definition “commercially pure oxy-              oxygénés visée à la définition de « produit oxygéné pur
+genate” in subsection 1(1) must be measured in accor-            de qualité commerciale » au paragraphe 1(1) doit être
+dance with the American Society for Testing and                  mesurée conformément à la méthode D 5453-00 de
+Materials method D 5453-00, Standard Test Method for             l’American Society for Testing and Materials, intitulée
+
+
+
+                                                            10
+                                          DORS/97-493 — 6 octobre 2010
+
+
+
+
+Determination of Total Sulphur in Light Hydrocarbons,             Standard Test Method for Determination of Total Sulfur
+Motor Fuels and Oils by Ultraviolet Fluorescence.                 in Light Hydrocarbons, Motor Fuels and Oils by Ultra-
+                                                                  violet Fluorescence.
+   (11) The concentration of sulphur in butane referred              (11) La concentration de soufre dans le butane visée à
+to in the definition “commercially pure butane” in sub-           la définition de « butane pur de qualité commerciale » au
+section 1(1) must be measured in accordance with the              paragraphe 1(1) doit être mesurée conformément à la
+American Society for Testing and Materials method D               méthode D 6667-01 de l’American Society for Testing
+6667-01, Standard Test Method for Determination of To-            and Materials, intitulée Standard Test Method for Deter-
+tal Volatile Sulphur in Gaseous Hydrocarbons and Liq-             mination of Total Volatile Sulfur in Gaseous Hydrocar-
+uefied Petroleum Gases by Ultraviolet Fluorescence.               bons and Liquefied Petroleum Gases by Ultraviolet
+SOR/99-204, s. 4; SOR/2003-318, s. 3.                             Fluorescence.
+                                                                  DORS/99-204, art. 4; DORS/2003-318, art. 3.
+
+    EQUIVALENT METHODS FOR SAMPLING AND ANALYSIS                        MÉTHODES ÉQUIVALENTES D’ÉCHANTILLONNAGE ET
+                                                                                        D’ANALYSE
+
+   6. (1) When the sampling method specified in sub-                 6. (1) Lorsque la méthode d’échantillonnage visée au
+section 5(1) cannot be reasonably applied, another sam-           paragraphe 5(1) ne peut raisonnablement être appliquée,
+pling method may be used by the primary supplier if, at           le fournisseur principal peut en utiliser une autre si, au
+least 60 days before the use of the method, the primary           moins 60 jours avant l’utilisation, il envoie au ministre,
+supplier sends the Minister, by registered mail or couri-         par courrier recommandé ou par messager :
+er,                                                                  a) une explication de la cause de la non-application
+   (a) an explanation of why the method specified in                 de la méthode visée au paragraphe 5(1);
+   subsection 5(1) cannot be applied;                                b) une description de la méthode de rechange propo-
+   (b) a description of the proposed alternative method;             sée;
+   and                                                               c) la preuve que la fiabilité et la précision de la mé-
+   (c) evidence that demonstrates that the reliability and           thode de rechange sont comparables à celles de la mé-
+   accuracy of the alternative method are comparable to              thode visée au paragraphe 5(1).
+   those of the method specified in subsection 5(1).
+   (2) For the purposes of sections 8 and 20, either the            (2) Pour l’application des articles 8 et 20, le fournis-
+normally applicable method specified in one of subsec-            seur principal peut utiliser soit la méthode normalement
+tions 5(2) to (7) or an alternative method may be used by         applicable prescrite à l’un des paragraphes 5(2) à (7),
+the primary supplier on the condition that                        soit une méthode de rechange si :
+   (a) the equivalency of the alternative method to the              a) l’équivalence entre la méthode de rechange et la
+   normally applicable method be validated in accor-                 méthode normalement applicable est validée confor-
+   dance with the American Society for Testing and Ma-               mément à l’une ou l’autre des méthodes ci-après de
+   terials method D 4855-97, Standard Practice for                   l’American Society for Testing and Materials : la mé-
+   Comparing Test Methods, or the American Society for               thode D 4855-97, intitulée Standard Practice for
+   Testing and Materials method D 3764-01, Standard                  Comparing Test Methods, et la méthode D 3764-01,
+   Practice for Validation of Process Stream Analyzer                intitulée Standard Practice for Validation of Process
+   Systems; and                                                      Stream Analyzer Systems;
+
+
+
+
+                                                             11
+                                                       SOR/97-493 — October 6, 2010
+
+
+
+
+   (b) the primary supplier sends the Minister, by regis-                  b) au moins 60 jours avant l’utilisation de la méthode
+   tered mail or courier at least 60 days before using the                 de rechange, il envoie au ministre, par courrier recom-
+   alternative method, a description of the alternative                    mandé ou par messager, une description de cette mé-
+   method and evidence that demonstrates that it pro-                      thode et la preuve qu’elle donne des résultats équiva-
+   vides results equivalent to those provided by the nor-                  lents à ceux obtenus avec la méthode normalement
+   mally applicable method.                                                applicable.
+   (3) If the Minister determines that the alternative                     (3) Lorsque le ministre établit que la méthode de re-
+method is not equivalent to the normally applicable                     change proposée n’est pas équivalente à la méthode nor-
+method, the Minister shall reject it and notify the prima-              malement applicable, il la rejette et avise le fournisseur
+ry supplier to that effect.                                             principal de sa décision.
+SOR/99-204, s. 5; SOR/2003-318, s. 4; SOR/2004-252, s. 2(E).            DORS/99-204, art. 5; DORS/2003-318, art. 4; DORS/2004-252, art. 2(A).
+
+                            REGISTRATION                                                          ENREGISTREMENT
+   7. (1) Every primary supplier must submit the infor-                   7. (1) Chaque fournisseur principal doit transmettre
+mation specified in Schedule 2 to the Minister by the lat-              au ministre les renseignements prévus à l’annexe 2 à
+er of                                                                   celle des dates suivantes qui est postérieure à l’autre :
+   (a) November 1, 1998, and                                               a) le 1er novembre 1998;
+   (b) 15 days before the primary supplier starts to sup-                  b) le 15e jour précédant la date à laquelle il a com-
+   ply gasoline.                                                           mencé à fournir de l’essence.
+  (2) The Minister must provide each primary supplier                      (2) Le ministre doit fournir un ou plusieurs numéros
+with one or more registration numbers based on the in-                  d’enregistrement à chaque fournisseur principal d’après
+formation submitted in accordance with subsection (1).                  les renseignements transmis conformément au para-
+                                                                        graphe (1).
+   (3) When the information submitted under subsection                     (3) Lorsque les renseignements transmis conformé-
+(1) changes, other than information on typical annual                   ment au paragraphe (1) changent, sauf ceux concernant
+volumes, the primary supplier must submit the updated                   les volumes annuels types, le fournisseur principal doit
+information to the Minister within five days after the                  transmettre les renseignements à jour au ministre dans
+change.                                                                 les cinq jours qui suivent.
+SOR/99-204, s. 6.                                                       DORS/99-204, art. 6.
+
+                                REPORT                                                                 RAPPORT
+   8. (1) Every primary supplier must submit a report to                  8. (1) Chaque fournisseur principal doit transmettre
+the Minister that is signed by an authorized official of                au ministre un rapport, signé par l’agent autorisé, conte-
+the primary supplier and that contains the information                  nant les renseignements prévus à l’annexe 3.
+set out in Schedule 3.
+   (2) The report must be submitted                                        (2) Le rapport doit être transmis :
+   (a) quarterly, beginning on January 1, 1999 and end-                    a) trimestriellement, à compter du 1er janvier 1999,
+   ing on December 31, 2002, within 45 days after the                      jusqu’au 31 décembre 2002, dans les 45 jours suivant
+   last day of each calendar quarter during which gaso-                    le dernier jour de chaque trimestre au cours duquel de
+   line was supplied; and                                                  l’essence a été fournie;
+
+
+
+                                                                   12
+                                             DORS/97-493 — 6 octobre 2010
+
+
+
+
+   (b) annually, beginning on January 1, 2003, on or be-             b) annuellement, à compter du 1er janvier 2003, au
+   fore February 15 of the year following each year dur-             plus tard le 15 février suivant l’année au cours de la-
+   ing which gasoline was supplied.                                  quelle de l’essence a été fournie.
+  (3) Despite sections 5 and 6, a record of analysis as              (3) Malgré les articles 5 et 6, le rapport visé au para-
+required by the Regulation of Fuels and Fuel Additives:           graphe (1) peut être basé sur les renseignements relatifs à
+Standards for Reformulated and Conventional Gasoline,             la composition de l’essence contenus dans le dossier
+Title 40, Code of Federal Regulations of the United               d’analyse exigé par le règlement intitulé Regulation of
+States, Part 80, section 80.74 or 80.104, or as required          Fuels and Fuel Additives : Standards for Reformulated
+by The California Reformulated Gasoline Regulations,              and Conventional Gasoline, titre 40, Code of Federal
+Title 13, California Code of Regulations, Division 3,             Regulations des États-Unis, partie 80, article 80.74 ou
+Chapter 5, Article 1, Subarticle 2, section 2270, may be          80.104 ou par le règlement intitulé The California Refor-
+used to provide the information on gasoline composition           mulated Gasoline Regulations, titre 13, California Code
+for a report referred to in subsection (1).                       of Regulations, division 3, chapitre 5, article 1, para-
+SOR/2003-318, s. 5.                                               graphe 2, point 2270.
+                                                                  DORS/2003-318, art. 5.
+
+                          RECORDS                                                           REGISTRES
+   9. (1) A primary supplier may, before dispatching a               9. (1) Le fournisseur principal peut, avant d’expédier
+batch from a refinery or blending facility or importing a         un lot d’une raffinerie ou d’une installation de mélange
+batch, identify the gasoline by recording it as one of the        ou d’importer un lot, désigner l’essence comme étant de
+following types:                                                  l’un des types ci-après en la consignant au registre :
+   (a) complying gasoline;                                           a) essence conforme;
+   (b) gasoline for use in aircraft;                                 b) essence aviation;
+   (c) gasoline for use in competition vehicles;                     c) essence pour véhicules de compétition;
+   (d) gasoline for use in scientific research;                      d) essence pour recherche scientifique;
+   (e) gasoline for export;                                          e) essence pour exportation;
+   (f) gasoline in transit through Canada;                           f) essence en transit au Canada;
+   (g) U.S. reformulated gasoline;                                   g) essence reformulée É.-U.;
+   (h) California gasoline;                                          h) essence Californie;
+   (i) gasoline-like blendstock; and                                 i) composé de base de type essence automobile;
+   (j) northern winter complying gasoline.                           j) essence conforme pour l’hiver boréal.
+   (2) Any batch of gasoline dispatched by a primary                 (2) Tout lot — expédié d’une raffinerie ou d’une ins-
+supplier from a refinery or blending facility, or imported        tallation de mélange par le fournisseur principal ou im-
+by a primary supplier, that has not been identified under         porté par celui-ci — qui n’a pas été désigné conformé-
+subsection (1) is considered, for the purposes of these           ment au paragraphe (1) est considéré comme ayant été
+Regulations, to have been identified as complying gaso-           désigné comme essence conforme pour l’application du
+line.                                                             présent règlement.
+
+
+
+
+                                                             13
+                                             SOR/97-493 — October 6, 2010
+
+
+
+
+  (3) Every primary supplier must have a record for                   (3) Le fournisseur principal doit tenir un registre dans
+each batch it dispatches or imports that includes                  lequel il consigne, pour chaque lot qu’il expédie ou im-
+   (a) the type of gasoline as identified under subsection         porte, les renseignements suivants :
+   (1), unless it is complying gasoline;                              a) le type d’essence désigné conformément au para-
+   (b) the date on which the batch was dispatched or im-              graphe (1), sauf s’il s’agit d’essence conforme;
+   ported;                                                            b) la date d’expédition ou d’importation;
+   (c) the volume and the grade of each batch; and                    c) le volume et la qualité du lot;
+   (d) the name and address of the person to whom the                 d) les nom et adresse de la personne à qui l’essence a
+   gasoline was sold or the address of the storage facility           été vendue ou l’adresse de l’installation d’entreposage
+   or refuelling facility to which the gasoline was deliv-            ou de ravitaillement où elle a été livrée.
+   ered.
+   (4) For each batch of complying gasoline received at               (4) Pour chaque lot d’essence conforme reçu à une
+a refinery or non-mobile blending facility, every primary          raffinerie ou à une installation de mélange fixe, le four-
+supplier must record the name and address of the seller            nisseur principal doit consigner au registre les nom et
+or provider, the date of the purchase or transfer of own-          adresse du vendeur ou du fournisseur, la date d’achat ou
+ership, and the volume and the grade of the batch.                 de transfert de propriété, ainsi que le volume et la qualité
+                                                                   du lot.
+   (5) Every primary supplier must have written evi-                 (5) Le fournisseur principal doit avoir la preuve écrite
+dence that establishes that each batch identified under            que chaque lot désigné conformément au paragraphe (1)
+subsection (1) as one of the following types of gasoline           comme étant de l’un des types ci-après a été vendu ou li-
+was sold or delivered for the use appropriate to the iden-         vré pour l’utilisation correspondant au type indiqué :
+tified type:                                                          a) essence aviation;
+   (a) gasoline for use in aircraft;                                  b) essence pour véhicules de compétition;
+   (b) gasoline for use in competition vehicles;                      c) essence pour recherche scientifique;
+   (c) gasoline for use in scientific research;                       d) essence pour exportation;
+   (d) gasoline for export; and                                       e) essence en transit au Canada.
+   (e) gasoline in transit through Canada.
+   (6) For each batch identified under subsection (1) as             (6) Pour chaque lot désigné, conformément au para-
+U.S. reformulated gasoline or California gasoline, every           graphe (1), comme essence reformulée É.-U. ou essence
+primary supplier must have written evidence that estab-            Californie, le fournisseur principal doit avoir la preuve
+lishes that the batch meets the compositional require-             écrite établissant que le lot est conforme aux exigences
+ments for U.S. reformulated gasoline or California gaso-           de composition visant l’essence en cause.
+line, as the case may be.                                          DORS/2003-318, art. 6.
+SOR/2003-318, s. 6.
+
+
+
+
+                                                              14
+                                                DORS/97-493 — 6 octobre 2010
+
+
+
+
+                         RETENTION OF RECORDS                                      CONSERVATION DES REGISTRES
+   10. Every primary supplier must retain in Canada any            10. Le fournisseur principal doit conserver au Canada
+record and any related written evidence referred to in           tout renseignement consigné au registre ainsi que toute
+section 9, 13 or 20                                              preuve écrite connexe visés aux articles 9, 13 ou 20 :
+   (a) for a period of three years from the day on which            a) pour une période de trois ans commençant à la date
+   the record was made, if it was made before January 1,            de consignation au registre, si l’inscription a été faite
+   2004; and                                                        avant le 1er janvier 2004;
+   (b) for a period of five years from the day on which             b) pour une période de cinq ans commençant à la date
+   the record was made, if it was made on or after Jan-             de consignation au registre, si l’inscription a été faite
+   uary 1, 2004.                                                    le 1er janvier 2004 ou après cette date.
+SOR/2003-318, s. 6.                                              DORS/2003-318, art. 6.
+
+             SUBMISSION OF SAMPLES AND RECORDS                        TRANSMISSION DES ÉCHANTILLONS ET DES REGISTRES
+  11. Any person who supplies, sells or offers for sale             11. Toute personne qui fournit, vend ou met en vente
+gasoline must make available to the Minister and, on the         de l’essence doit mettre à la disposition du ministre et, à
+Minister’s request, provide the Minister, at an address          sa demande, lui envoyer à l’adresse et de la manière in-
+and in a manner specified in the request, with,                  diquées dans la demande :
+   (a) a sample of their gasoline;                                  a) un échantillon de son essence;
+   (b) a copy of any records or written evidence required           b) une copie de tout registre et de toute preuve écrite
+   by section 9, 12, 13 or 20; and                                  exigés par les articles 9, 12, 13 ou 20;
+   (c) the names and addresses of the persons who sold              c) les noms et adresses des personnes qui lui ont ven-
+   or provided the gasoline to them and the date of sale            du ou fourni de l’essence, ainsi que la date de la vente
+   or transfer of ownership of the gasoline.                        ou du transfert de propriété de l’essence.
+SOR/2004-252, s. 3(F).                                           DORS/2004-252, art. 3(F).
+
+          ADDITIONAL REQUIREMENTS FOR IMPORTERS                      EXIGENCES SUPPLÉMENTAIRES POUR LES IMPORTATEURS
+   12. (1) Every importer must notify the Minister, at              12. (1) L’importateur doit aviser le ministre de son
+least 12 hours before the time of importation, of the im-        intention d’importer au moins douze heures avant l’im-
+porter’s intention to import in the following circum-            portation, dans les cas suivants :
+stances:                                                            a) l’importation, en une seule fois, de plus de 100 m3
+   (a) the importation, at any one time, of more than 100           d’essence désignée, conformément aux paragraphes
+   m3 of gasoline identified under subsection 9(1) or (2)           9(1) ou (2), comme essence conforme, essence refor-
+   as complying gasoline, U.S. reformulated gasoline,               mulée É.-U., essence Californie ou essence conforme
+   California gasoline or northern winter complying                 pour l’hiver boréal;
+   gasoline;                                                        b) l’importation, en une seule fois, de toute quantité
+   (b) the importation, at any one time, of any amount of           d’essence désignée, conformément au paragraphe
+   gasoline identified under subsection 9(1) as gasoline-           9(1), comme composé de base de type essence auto-
+   like blendstock; or                                              mobile;
+
+
+
+
+                                                            15
+                                            SOR/97-493 — October 6, 2010
+
+
+
+
+   (c) the importation into a province and within any one              c) l’importation, dans une province et en une seule
+   day, of more than 1 000 m3 of gasoline identified un-               journée, de plus de 1 000 m3 d’essence désignée,
+   der subsection 9(1) or (2) as complying gasoline, U.S.              conformément aux paragraphes 9(1) ou (2), comme
+   reformulated gasoline, California gasoline or northern              essence conforme, essence reformulée É.-U., essence
+   winter complying gasoline.                                          Californie ou essence conforme pour l’hiver boréal.
+   (2) The notice required by subsection (1) must in-                  (2) L’avis exigé au paragraphe (1) doit indiquer :
+clude                                                                  a) les nom et numéro d’enregistrement de l’importa-
+   (a) the name and registration number of the importer;               teur;
+   (b) the type of gasoline identified under subsection                b) le type d’essence désigné conformément au para-
+   9(1), unless it is complying gasoline;                              graphe 9(1), sauf s’il s’agit d’essence conforme;
+   (c) the volume of the gasoline that is scheduled to be              c) le volume de l’essence à importer;
+   imported;                                                           d) le point d’entrée de l’essence au Canada, ainsi que
+   (d) the point of entry of the gasoline into Canada and              la date et l’heure prévues pour l’entrée;
+   the estimated date and time that it will enter Canada;              e) l’adresse de la première installation d’entreposage
+   (e) the address of the first storage facility or refu-              ou de ravitaillement à laquelle l’essence doit être li-
+   elling facility to which the gasoline is to be delivered            vrée et la date et l’heure prévues pour sa livraison à
+   and the estimated date and time of its delivery there;              cette installation;
+   and                                                                 f) les nom et numéro de téléphone d’un représentant
+   (f) the name and telephone number of a representative               de l’importateur avec lequel les modalités d’échan-
+   of the importer through whom sampling arrangements                  tillonnage peuvent être établies.
+   can be made.
+   (3) Effective July 1, 1999, no importer shall import                (3) À compter du 1er juillet 1999, l’importateur ne
+gasoline by cargo tanker, railway car, boat, marine ves-            peut importer de l’essence par camion-citerne, wagon-ci-
+sel or aircraft unless the gasoline is accompanied at the           terne, bateau, navire ou aéronef que si celle-ci est ac-
+point of entry into Canada and at the point of delivery,            compagnée, à son point d’entrée au Canada, à son point
+and everywhere between those points, by a record that               de livraison et entre ces points, d’un registre indiquant :
+shows                                                                  a) les nom, adresse et numéro d’enregistrement de
+   (a) the name, address and registration number of the                l’importateur;
+   importer;                                                           b) les nom et adresse de la personne à laquelle l’es-
+   (b) the name and address of the person to whom the                  sence doit être vendue ou la propriété transférée;
+   gasoline is to be sold or ownership transferred;                    c) l’adresse de la première installation d’entreposage
+   (c) the address of the first storage facility or refu-              ou de ravitaillement à laquelle l’essence doit être li-
+   elling facility to which the gasoline is to be delivered;           vrée;
+   (d) the volume of the gasoline; and                                 d) le volume de l’essence;
+   (e) the type of gasoline identified under subsection                e) le type d’essence désigné conformément au para-
+   9(1), unless it is complying gasoline.                              graphe 9(1), sauf s’il s’agit d’essence conforme.
+SOR/2003-318, s. 7.                                                 DORS/2003-318, art. 7.
+
+
+
+
+                                                               16
+                                           DORS/97-493 — 6 octobre 2010
+
+
+
+
+       GASOLINE-LIKE BLENDSTOCK — RECORDS AND                          COMPOSÉ DE BASE DE TYPE ESSENCE AUTOMOBILE —
+                     REQUIREMENTS                                                 REGISTRES ET EXIGENCES
+   13. (1) For every batch identified under subsection                13. (1) Pour chaque lot désigné, conformément au
+9(1) as gasoline-like blendstock, every primary supplier           paragraphe 9(1), comme composé de base de type es-
+must, before dispatching the batch from its refinery or            sence automobile, le fournisseur principal doit, avant de
+blending facility or before importing the batch, record            l’expédier de sa raffinerie ou de son installation de mé-
+the name and address of the person who purchases or re-            lange, ou avant de l’importer, consigner au registre les
+ceives the batch, the date of dispatch or importation and          nom et adresse de la personne qui l’achète ou le reçoit, la
+the volume of the batch that is scheduled to be dis-               date d’expédition ou d’importation, ainsi que le volume
+patched or imported.                                               du lot à expédier ou à importer.
+   (2) Every primary supplier must provide the Minister,             (2) Le fournisseur principal fournit au ministre, en
+as an annex to the report required under section 8 and for         annexe du rapport exigé à l’article 8 et pour chaque lot
+each batch of gasoline-like blendstock that was dis-               de composé de base de type essence automobile expédié
+patched or imported during the period covered by the re-           ou importé au cours de la période visée par le rapport, le
+port, with the information prescribed under subsection             volume du lot qui a été expédié ou importé ainsi que les
+(1), except the scheduled volume, and with the actual              renseignements visés au paragraphe (1), autres que le vo-
+volume of the batch dispatched or imported.                        lume projeté.
+  (3) Effective July 1, 1999, every person who purchas-              (3) À compter du 1er juillet 1999, chaque personne qui
+es or receives a batch of gasoline-like blendstock and             achète ou reçoit un lot de composé de base de type es-
+does not export it must                                            sence automobile et qui ne l’exporte pas doit :
+  (a) subject to subsection (4), refine or blend the batch           a) sous réserve du paragraphe (4), le raffiner ou le
+  to manufacture complying gasoline or gasoline re-                  mélanger pour fabriquer de l’essence conforme ou de
+  ferred to in subsection 2(1); and                                  l’essence visée au paragraphe 2(1);
+  (b) record the name, address and registration number               b) consigner au registre les nom, adresse et numéro
+  of the primary supplier who originally supplied the                d’enregistrement du fournisseur principal qui a en pre-
+  batch of gasoline-like blendstock, the name and ad-                mier lieu fourni le lot de composé de base de type es-
+  dress of the seller or provider of the batch, the date of          sence automobile, ainsi que les nom et adresse du ven-
+  purchase or transfer of ownership of the batch and the             deur ou du fournisseur du lot, la date d’achat ou de
+  volume of the batch.                                               transfert de propriété et le volume.
+   (4) Effective July 1, 1999, a person who has pur-                  (4) À compter du 1er juillet 1999, une personne qui a
+chased or received a batch of gasoline-like blendstock             acheté ou reçu un lot de composé de base de type es-
+may sell or transfer ownership of the batch on condition           sence automobile peut le vendre ou en transférer la pro-
+that the person, before the sale or transfer of ownership,         priété à condition d’avoir au préalable consigné au re-
+makes a record of the name and address of the person               gistre les nom et adresse de la personne qui l’achète ou
+who purchases or receives the batch, the date of sale or           le reçoit, la date de vente ou de transfert de propriété,
+transfer of ownership of the batch and the volume of the           ainsi que le volume.
+batch.
+   (5) Effective July 1, 1999, no person shall, in respect          (5) À compter du 1er juillet 1999, nul ne peut, relative-
+of gasoline-like blendstock,                                       ment à un composé de base de type essence automobile :
+  (a) sell it or offer it for sale                                   a) le vendre ou le mettre en vente :
+
+
+
+                                                              17
+                                             SOR/97-493 — October 6, 2010
+
+
+
+
+      (i) represented as complying gasoline, or                          (i) soit comme de l’essence conforme,
+      (ii) for use in a spark ignition engine; or                        (ii) soit pour utilisation dans un moteur à allumage
+   (b) dispense it for use in a spark ignition engine.                   par bougies;
+SOR/2003-318, s. 8.                                                   b) le distribuer pour utilisation dans un moteur à allu-
+                                                                      mage par bougies.
+                                                                   DORS/2003-318, art. 8.
+
+                          PART 2                                                            PARTIE 2
+
+      OPTION FOR A YEARLY POOL AVERAGE                                  OPTION POUR UNE MOYENNE ANNUELLE
+
+                        APPLICATION                                                         APPLICATION
+   14. (1) Subject to subsection (2), this Part, except for           14. (1) Sous réserve du paragraphe (2), la présente
+subsections 16(2) to (7), applies only to primary suppli-          partie, sauf les paragraphes 16(2) à (7), ne s’applique
+ers who elect under section 15 to meet the requirements            qu’aux fournisseurs principaux qui, en vertu de l’article
+of these Regulations on the basis of a yearly pool aver-           15, choisissent de se conformer au présent règlement sur
+age, and only in respect of the facility or province of im-        la base de la moyenne annuelle et s’applique seulement à
+portation for which the election has been made, for                l’égard de l’installation ou de la province d’importation
+   (a) benzene;                                                    visée par ce choix pour :
+
+   (b) the benzene emissions number; or                               a) soit le benzène;
+
+   (c) both benzene and the benzene emissions number.                 b) soit l’indice des émissions de benzène;
+                                                                      c) soit les deux.
+   (2) The requirements of sections 17 to 22 with respect             (2) Les exigences des articles 17 à 22 relatives à l’in-
+to the benzene emissions number or a model parameter               dice des émissions de benzène ou à tout paramètre du
+other than benzene do not apply to a primary supplier              modèle autre que le benzène ne s’appliquent pas au four-
+who has elected under section 15 to meet only the re-              nisseur principal qui a choisi en vertu de l’article 15 de
+quirements for benzene referred to in paragraph (1)(a).            ne répondre qu’aux exigences relatives au benzène vi-
+SOR/99-204, s. 7.                                                  sées à l’alinéa (1)a).
+                                                                   DORS/99-204, art. 7.
+
+              ELECTION — YEARLY POOL AVERAGE                                         CHOIX — MOYENNE ANNUELLE
+   15. (1) A primary supplier may elect to meet the re-              15. (1) Le fournisseur principal peut choisir de se
+quirements of these Regulations on the basis of the year-          conformer au présent règlement sur la base de la
+ly pool average for                                                moyenne annuelle :
+   (a) benzene instead of the limit specified in subsec-              a) pour le benzène, au lieu de la limite prévue au pa-
+   tion 3(1);                                                         ragraphe 3(1);
+   (b) the benzene emissions number instead of the lim-               b) pour l’indice des émissions de benzène, au lieu des
+   its specified in section 4; or                                     limites prévues à l’article 4;
+
+
+
+
+                                                              18
+                                                 DORS/97-493 — 6 octobre 2010
+
+
+
+
+   (c) benzene and the benzene emissions number in-                     c) pour le benzène et l’indice des émissions de ben-
+   stead of the limits specified in subsection 3(1) and                 zène, au lieu des limites prévues au paragraphe 3(1) et
+   section 4, respectively.                                             à l’article 4 respectivement.
+   (1.1) A primary supplier who elects under subsection                 (1.1) Le fournisseur principal qui effectue le choix vi-
+(1) shall notify the Minister by registered mail or courier          sé au paragraphe (1) doit en aviser le ministre, par cour-
+at least 60 days before the start of the first year for which        rier recommandé ou par messager, au moins 60 jours
+the basis will be a yearly pool average.                             avant le début de la première année pour laquelle la
+                                                                     moyenne annuelle sert de base.
+   (2) A primary supplier may cancel the election by no-                (2) Le fournisseur principal peut annuler son choix à
+tifying the Minister by registered mail or courier any               tout moment avant la période de soixante jours précédant
+time prior to 60 days before the start of the first year for         le début de la première année pour laquelle la moyenne
+which the basis will not be a yearly pool average.                   annuelle ne sert plus de base, en avisant le ministre par
+                                                                     courrier recommandé ou par messager.
+   (3) The Minister may revoke the election of a primary                (3) Le ministre peut révoquer le choix du fournisseur
+supplier who is convicted of an offence under the Act in             principal si ce dernier est reconnu coupable d’une infrac-
+respect of these Regulations.                                        tion à la Loi pour non-conformité au présent règlement.
+SOR/99-204, s. 8; SOR/2003-318, s. 9.                                DORS/99-204, art. 8; DORS/2003-318, art. 9.
+
+   PROHIBITION AND TEMPORARY ALTERNATIVE LIMITS FOR                   INTERDICTIONS ET LIMITES DE REMPLACEMENT TEMPORAIRES
+      BENZENE AND THE BENZENE EMISSIONS NUMBER                         POUR LE BENZÈNE ET L’INDICE DES ÉMISSIONS DE BENZÈNE
+
+                            [SOR/99-204, s. 9]                                                 [DORS/99-204, art. 9]
+
+   16. (1) Effective July 1, 1999, no primary supplier                  16. (1) À compter du 1er juillet 1999, le fournisseur
+who has elected under section 15 to meet the require-                principal qui, en vertu de l’article 15, a choisi de se
+ments for benzene on the basis of a yearly pool average              conformer aux exigences visant le benzène sur la base de
+shall supply gasoline that contains benzene at a concen-             la moyenne annuelle ne peut fournir de l’essence conte-
+tration that exceeds 1.5% by volume or at a yearly pool              nant du benzène en une concentration supérieure à 1,5 %
+average concentration, determined in accordance with                 en volume ou en une concentration de la moyenne an-
+section 18, that exceeds 0.95% by volume.                            nuelle, déterminée en vertu de l’article 18, qui excéderait
+                                                                     0,95 % en volume.
+   (2) Despite subsections (1) and 3(1) and sections 4                  (2) Malgré les paragraphes (1) et 3(1) et les articles 4
+and 17, a primary supplier may apply to the Minister to              et 17, le fournisseur principal peut demander au ministre
+be temporarily subject to limits, established from labora-           d’être assujetti temporairement à des limites de rempla-
+tory and volumetric data for gasoline supplied by the pri-           cement — autres que celles prévues aux paragraphes (1)
+mary supplier during 1994, 1995 or 1996, alternative to              ou 3(1) et aux articles 4 ou 17 — établies à partir des
+those specified in subsection (1) or 3(1) or section 4 or            données de laboratoire et des données volumétriques sur
+17, for                                                              l’essence fournie par lui au cours de 1994, 1995 ou
+   (a) the limits for the yearly pool average, volumetri-            1996, en ce qui concerne :
+   cally weighted to account for the different require-                 a) les limites de la moyenne annuelle, pondérées vo-
+   ments for gasoline supplied during the period begin-                 lumétriquement compte tenu des exigences différentes
+   ning on July 1, 1999 and ending on the date                          pour l’essence fournie au cours de la période du 1er
+
+
+
+
+                                                                19
+                                           SOR/97-493 — October 6, 2010
+
+
+
+
+  established under paragraph (3)(f) and gasoline sup-              juillet 1999 à la date visée à l’alinéa (3)f) et l’essence
+  plied during the remainder of the year; and                       fournie durant le reste de l’année;
+  (b) the limits other than those for the yearly pool av-           b) les limites autres que celles de la moyenne an-
+  erage.                                                            nuelle.
+   (3) An application under subsection (2) shall be sub-             (3) Le fournisseur principal fait la demande visée au
+mitted to the Minister, by registered mail or courier, be-        paragraphe (2) en communiquant au ministre, par cour-
+fore June 4, 1999, and shall contain                              rier recommandé ou par messager, avant le 4 juin 1999,
+  (a) the name and address of the primary supplier and            les renseignements suivants :
+  the location of the refinery or blending facility or, in          a) ses nom et adresse ainsi que l’emplacement de la
+  the case of an importer, the province of importation,             raffinerie ou de l’installation de mélange ou, s’il est
+  for which the primary supplier is unable to meet the              importateur, la province d’importation, pour laquelle
+  requirements of subsection (1) or 3(1) by July 1, 1999;           il ne peut se conformer aux exigences des paragraphes
+  (b) a geographic description of the area where gaso-              (1) ou 3(1) à la date du 1er juillet 1999;
+  line supplied from the refinery or blending facility or           b) une description géographique de la zone où l’es-
+  by the importer is sold to the consumer;                          sence fournie par la raffinerie, l’installation de mé-
+  (c) the limits proposed under subsection (2);                     lange ou l’importateur est vendue aux consomma-
+                                                                    teurs;
+  (d) laboratory and volumetric data on each model pa-
+  rameter, measured using the methods described in sec-             c) les limites proposées aux termes du paragraphe (2);
+  tion 5 or 6, for gasoline supplied by the primary sup-            d) les données de laboratoire et les données volumé-
+  plier during one of the years 1994, 1995 and 1996;                triques sur chaque paramètre du modèle, mesurées se-
+  (e) written evidence that all laboratory and volumetric           lon les méthodes visées aux articles 5 ou 6, pour l’es-
+  data provided have been verified by an auditor;                   sence qu’il a fournie au cours de 1994, 1995 ou 1996;
+
+  (f) a date, not later than December 31, 1999, until               e) une preuve écrite établissant que toutes les données
+  which the primary supplier proposes to use temporary              de laboratoire et les données volumétriques fournies
+  alternative limits;                                               ont été validées par un vérificateur;
+
+  (g) a detailed explanation of why the primary supplier            f) la date, non postérieure au 31 décembre 1999, jus-
+  is unable to meet the requirements of subsection (1)              qu’à laquelle il entend utiliser les limites de remplace-
+  by July 1, 1999, including reasons beyond its control;            ment temporaires;
+
+  (h) the reasons why the area described in paragraph               g) une explication détaillée des raisons pour les-
+  (b) and the date referred to in paragraph (f) are pro-            quelles il ne peut se conformer aux exigences du para-
+  posed;                                                            graphe (1) à la date du 1er juillet 1999, y compris des
+                                                                    raisons indépendantes de sa volonté;
+  (i) a detailed explanation with supporting documenta-
+  tion of the reasons referred to in paragraph (4)(b); and          h) les raisons pour lesquelles la zone visée à l’alinéa
+                                                                    b) et la date visée à l’alinéa f) sont proposées;
+  (j) if a primary supplier has elected to meet a require-
+  ment on the basis of a yearly pool average, an update             i) une explication détaillée, avec preuve à l’appui, des
+  of the compliance plan required under section 21, tak-            motifs visés à l’alinéa (4)b);
+  ing into account the requirements of subsections (5) to           j) une mise à jour du plan de conformité exigé à l’ar-
+                                                                    ticle 21, compte tenu des exigences des paragraphes
+
+
+
+
+                                                             20
+                                           DORS/97-493 — 6 octobre 2010
+
+
+
+
+  (7) and despite the deadline specified in subsection               (5) à (7) et en dépit de la date limite prévue au para-
+  21(3).                                                             graphe 21(3), s’il a choisi de se conformer à une exi-
+                                                                     gence sur la base de la moyenne annuelle.
+   (4) The Minister shall authorize the primary supplier              (4) Le ministre n’autorise le fournisseur principal à
+to use the temporary alternative limits under subsection           utiliser les limites de remplacement temporaires men-
+(2) only if                                                        tionnées au paragraphe (2) que si les conditions sui-
+  (a) the primary supplier has made all reasonable ef-             vantes sont réunies :
+  forts to meet the requirements of subsection (1) or                a) celui-ci a fait tous les efforts raisonnables pour se
+  3(1) by July 1, 1999;                                              conformer aux exigences des paragraphes (1) ou 3(1)
+  (b) the non-authorization of temporary alternative                 à la date du 1er juillet 1999;
+  limits would                                                       b) le fait de ne pas être autorisé à utiliser des limites
+     (i) have a significant effect on the supply of gaso-            de remplacement temporaires :
+     line or other petroleum products in the area identi-               (i) soit aurait une incidence importante sur l’appro-
+     fied under paragraph (3)(b),                                       visionnement en essence ou autres produits pétro-
+     (ii) require the primary supplier to significantly                 liers dans la zone visée à l’alinéa (3)b),
+     curtail operations or cease operating for a period of              (ii) soit l’obligerait à réduire sensiblement ou ces-
+     time and thereby result in financial hardship, or                  ser ses activités temporairement et lui occasionne-
+     (iii) result in the primary supplier going out of                  rait ainsi des difficultés financières,
+     business;                                                          (iii) soit l’obligerait à mettre fin à ses activités;
+  (c) the temporary alternative limits are representative            c) les limites de remplacement temporaires sont re-
+  of or superior to the quality of gasoline supplied by              présentatives de la qualité de l’essence qu’il a fournie
+  the primary supplier during 1994, 1995 or 1996; and                au cours de 1994, 1995 ou 1996, ou lui sont supé-
+  (d) the reasons provided under paragraph (3)(h) are                rieures;
+  well-founded.                                                      d) les raisons données en application de l’alinéa (3)h)
+                                                                     sont bien-fondées.
+  (5) The primary supplier may use the temporary alter-               (5) Le fournisseur principal peut utiliser les limites de
+native limits under subsection (2) for the refinery, blend-        remplacement temporaires mentionnées au paragraphe
+ing facility or province of importation identified under           (2) pour la raffinerie, l’installation de mélange ou la pro-
+paragraph (3)(a)                                                   vince d’importation visée à l’alinéa (3)a) :
+  (a) during the period beginning on July 1, 1999 and                a) durant la période du 1er juillet 1999 au 31 décembre
+  ending on December 31, 1999, for the limits referred               1999, dans le cas des limites visées à l’alinéa (2)a);
+  to in paragraph (2)(a); and                                        b) durant la période du 1er juillet 1999 à la date visée à
+  (b) during the period beginning on July 1, 1999 and                l’alinéa (3)f), dans le cas des limites visées à l’alinéa
+  ending on the date established under paragraph (3)(f),             (2)b).
+  for the limits referred to in paragraph (2)(b).
+   (6) A primary supplier who is subject to temporary                 (6) Le fournisseur principal auquel s’appliquent des
+alternative limits and who, during the period beginning            limites de remplacement temporaires et qui, au cours de
+on July 1, 1999 and ending on the date established under           la période du 1er juillet 1999 à la date visée à l’alinéa
+
+
+
+
+                                                              21
+                                             SOR/97-493 — October 6, 2010
+
+
+
+
+paragraph (3)(f), supplies a batch from a refinery or               (3)f), fournit un lot provenant de la raffinerie ou de l’ins-
+blending facility identified under paragraph (3)(a) or im-          tallation de mélange visée à l’alinéa (3)a) ou en importe
+ports a batch into the province identified under that para-         un dans la province visée à cet alinéa, doit communiquer
+graph, must report to the Minister, in writing, by Febru-           au ministre par écrit, au plus tard le 14 février 2000, pour
+ary 14, 2000, in respect of each batch,                             chaque lot :
+   (a) the values of the model parameters;                             a) les valeurs des paramètres du modèle;
+   (b) the benzene emissions number;                                   b) l’indice des émissions de benzène;
+   (c) the volume and grade; and                                       c) le volume et la qualité;
+   (d) the date or dates on which the batch was dis-                   d) la date ou les dates d’expédition ou d’importation.
+   patched or imported.
+   (7) A primary supplier that uses temporary alternative              (7) Le fournisseur principal qui utilise des limites de
+limits under subsection (2) must meet the limits speci-             remplacement temporaires conformément au paragraphe
+fied in subsection (1) or 3(1) and section 4 or 17                  (2) doit se conformer aux limites prévues aux para-
+   (a) effective January 1, 2000, for the limits on the             graphes (1) ou 3(1) et aux articles 4 ou 17 :
+   yearly pool average; and                                            a) à compter du 1er janvier 2000, dans le cas des li-
+   (b) after the date established under paragraph (3)(f),              mites de la moyenne annuelle;
+   for all other limits.                                               b) après la date visée à l’alinéa (3)f), dans le cas des
+SOR/99-204, s. 10.                                                     autres limites.
+                                                                    DORS/99-204, art. 10.
+
+      BENZENE EMISSIONS NUMBER — PROHIBITION AND                        INDICE DES ÉMISSIONS DE BENZÈNE — INTERDICTION ET
+                  ALTERNATIVE LIMITS                                                    LIMITES DE REMPLACEMENT
+
+   17. (1) Effective July 1, 1999, no primary supplier                 17. (1) À compter du 1er juillet 1999, le fournisseur
+who has elected under section 15 to meet the require-               principal qui, en vertu de l’article 15, a choisi de se
+ments for the benzene emissions number on the basis of              conformer aux exigences visant l’indice des émissions
+a yearly pool average shall supply                                  de benzène sur la base de la moyenne annuelle ne peut
+   (a) a batch during the summer that has a benzene                 fournir :
+   emissions number exceeding 102;                                     a) en été, un lot ayant un indice des émissions de ben-
+   (b) a batch during the winter that has a benzene emis-              zène supérieur à 102;
+   sions number exceeding 132; or                                      b) en hiver, un lot ayant un indice des émissions de
+   (c) gasoline if the yearly pool average for the benzene             benzène supérieur à 132;
+   emissions number, determined in accordance with sec-                c) de l’essence si la moyenne annuelle de l’indice des
+   tion 18, exceeds 59.5.                                              émissions de benzène, déterminée en vertu de l’article
+                                                                       18, dépasse 59,5.
+   (2) Despite subsection (1), a primary supplier may                 (2) Malgré le paragraphe (1), le fournisseur principal
+elect to be subject to limits alternative to those specified        peut choisir de se conformer à des limites de remplace-
+in that subsection if the primary supplier submits to the           ment plutôt qu’aux limites visées à ce paragraphe à
+
+
+
+
+                                                               22
+                                           DORS/97-493 — 6 octobre 2010
+
+
+
+
+Minister, by registered mail or courier, before December           condition de transmettre au ministre, par courrier recom-
+1, 1998,                                                           mandé ou par messager, avant le 1er décembre 1998 :
+  (a) laboratory and volumetric data on each model pa-               a) les données de laboratoire et les données volumé-
+  rameter, measured using the methods described in sec-              triques sur chaque paramètre du modèle, mesurées se-
+  tion 5 or 6, for gasoline supplied by the primary sup-             lon les méthodes visées aux articles 5 ou 6, pour de
+  plier during one of the years 1994, 1995 and 1996;                 l’essence qu’il fournit au cours de l’une des années
+  (b) alternative limits for one or more of the limits               1994, 1995 et 1996;
+  specified in subsection (1) established in accordance              b) les limites de remplacement pour une ou plusieurs
+  with subsection (3); and                                           des limites prévues au paragraphe (1) qui sont établies
+  (c) written evidence that all laboratory and volumetric            conformément au paragraphe (3);
+  data and the alternative limits provided have been ver-            c) une preuve écrite établissant que toutes les données
+  ified by an auditor.                                               de laboratoire et les données volumétriques ainsi que
+                                                                     les limites de remplacement fournies ont été validées
+                                                                     par le vérificateur.
+   (3) The primary supplier must establish the alterna-              (3) Le fournisseur principal doit établir les limites de
+tive limits from the laboratory and volumetric data sub-           remplacement à partir des données de laboratoire et des
+mitted under paragraph (2)(a), adjusted to reflect the             données volumétriques transmises conformément à l’ali-
+compositional requirements of these Regulations for                néa (2)a), rajustées compte tenu des exigences de com-
+benzene, by using one of the following methods:                    position du présent règlement visant le benzène, de la fa-
+  (a) if values for the model parameters exist for each            çon suivante :
+  batch supplied by the primary supplier during the ap-              a) lorsque des valeurs des paramètres du modèle
+  plicable year, the alternative limits must be estab-               existent pour chaque lot fourni pendant l’année appli-
+  lished by                                                          cable, déterminer les limites de remplacement en sui-
+    (i) if the concentration of benzene for a batch ex-              vant les étapes suivantes :
+    ceeds 1.5% by volume, setting the value used for                    (i) si la concentration de benzène d’un lot dépasse
+    the concentration of benzene for that batch to 1.5%                 1,5 % en volume, utiliser pour les calculs de ce lot
+    by volume,                                                          une valeur de concentration de benzène de 1,5 % en
+    (ii) once the adjustment required by subparagraph                   volume,
+    (i) has been made for all batches, calculating the                  (ii) une fois que le rajustement exigé au sous-alinéa
+    benzene emissions number for each batch,                            (i) a été fait pour tous les lots, calculer l’indice des
+    (iii) separately calculating for the summer and for                 émissions de benzène pour chaque lot,
+    the winter the 95th percentile of the benzene emis-                 (iii) calculer séparément, pour l’été et pour l’hiver,
+    sions numbers calculated in accordance with sub-                    le 95e percentile des indices des émissions de ben-
+    paragraph (ii), and using the obtained values as lim-               zène calculés conformément au sous-alinéa (ii) et
+    its alternative to those specified in paragraphs (1)(a)             utiliser les résultats obtenus comme limites de rem-
+    and (b), respectively, for the purposes of paragraph                placement à la place des limites indiquées aux ali-
+    (2)(b),                                                             néas (1)a) et b), respectivement, pour l’application
+    (iv) setting the value used for the concentration for               de l’alinéa (2)b),
+    benzene for each batch to 0.95% by volume,
+
+
+
+
+                                                              23
+                                         SOR/97-493 — October 6, 2010
+
+
+
+
+  (v) once the adjustment required by subparagraph                 (iv) utiliser pour les calculs de chaque lot une va-
+  (iv) has been made for all batches, calculating the              leur de concentration de benzène de 0,95 % en vo-
+  benzene emissions number for each batch, and                     lume,
+  (vi) calculating the primary supplier’s limit alterna-           (v) une fois que le rajustement exigé au sous-alinéa
+  tive to that specified in paragraph (1)(c) by averag-            (iv) a été fait pour tous les lots, calculer l’indice des
+  ing, on a volume-weighted basis, the individual                  émissions de benzène pour chaque lot,
+  benzene emissions numbers calculated under sub-                  (vi) calculer la limite de remplacement, qui doit
+  paragraph (v), and using that value for the purposes             remplacer la limite indiquée à l’alinéa (1)c), en pre-
+  of paragraph (2)(b); and                                         nant la moyenne, pondérée en fonction du volume,
+(b) if values for the model parameters do not exist for            des indices d’émissions de benzène particuliers cal-
+each batch supplied by the primary supplier during the             culés conformément au sous-alinéa (v), et utiliser
+applicable year, the alternative limits must be estab-             cette valeur pour l’application de l’alinéa (2)b);
+lished by                                                        b) lorsque des valeurs des paramètres du modèle
+  (i) calculating the average, on a volume-weighted              n’existent pas pour chaque lot fourni pendant l’année
+  basis, of each of the model parameters for both the            applicable, déterminer les limites de remplacement en
+  summer and the winter of the applicable year,                  suivant les étapes suivantes :
+  (ii) setting the values used for the summer and win-             (i) calculer la moyenne, pondérée en fonction du
+  ter averages for benzene to 0.95% by volume,                     volume, de chacun des paramètres du modèle, tant
+  (iii) calculating the average summer benzene emis-               pour l’été que pour l’hiver de l’année applicable,
+  sions number and the average winter benzene emis-                (ii) utiliser pour les calculs une valeur moyenne
+  sions number using the summer average and winter                 pour le benzène de 0,95 % en volume, tant pour
+  average of each model parameter, respectively, ad-               l’été que pour l’hiver,
+  justed in accordance with subparagraph (ii),                     (iii) calculer l’indice des émissions de benzène
+  (iv) calculating the limits alternative to those speci-          moyen pour l’été et l’indice des émissions de ben-
+  fied in paragraphs (1)(a) and (b) by multiplying by              zène moyen pour l’hiver à l’aide de la moyenne
+  2 the average summer benzene emissions number                    pour l’été et de la moyenne pour l’hiver de chaque
+  and the average winter benzene emissions number,                 paramètre du modèle, respectivement, rajustées
+  respectively, calculated in accordance with subpara-             conformément au sous-alinéa (ii),
+  graph (iii), and using those alternative limits for the          (iv) calculer les limites de remplacement, qui
+  purposes of paragraph (2)(b), and                                doivent remplacer les limites indiquées aux alinéas
+  (v) calculating the limit alternative to that specified          (1)a) et b), en multipliant par 2 l’indice des émis-
+  in paragraph (1)(c) by averaging, on a volume-                   sions de benzène moyen pour l’été et l’indice des
+  weighted basis, the average summer benzene emis-                 émissions de benzène moyen pour l’hiver, respecti-
+  sions number and the average winter benzene emis-                vement, calculés conformément au sous-alinéa (iii),
+  sions number, calculated in accordance with                      et utiliser ces limites de remplacement pour l’appli-
+  subparagraph (iii), and using that value for the pur-            cation de l’alinéa (2)b),
+  poses of paragraph (2)(b).                                       (v) calculer la limite de remplacement, qui doit
+                                                                   remplacer la limite indiquée à l’alinéa (1)c), en pre-
+                                                                   nant la moyenne, pondérée en fonction du volume,
+                                                                   de l’indice des émissions de benzène moyen pour
+
+
+
+                                                            24
+                                          DORS/97-493 — 6 octobre 2010
+
+
+
+
+                                                                       l’été et de l’indice des émissions de benzène moyen
+                                                                       pour l’hiver, calculés conformément au sous-alinéa
+                                                                       (iii), et utiliser cette valeur pour l’application de
+                                                                       l’alinéa (2)b).
+   (4) The primary supplier may use the alternative lim-             (4) Le fournisseur principal peut utiliser les limites de
+its provided under paragraph (2)(b) instead of the limits         remplacement prévues à l’alinéa (2)b) au lieu des limites
+specified in subsection (1) on condition that the Minister        visées au paragraphe (1) à condition que le ministre éta-
+determines that the laboratory and volumetric data pro-           blisse que les données de laboratoire et les données volu-
+vided under paragraph (2)(a) are representative of gaso-          métriques fournies conformément à l’alinéa (2)a) sont
+line supplied by the primary supplier during the applica-         représentatives de l’essence qu’il fournit pendant l’année
+ble year.                                                         applicable.
+   (5) A primary supplier who has elected under subsec-             (5) Tout fournisseur principal qui a choisi en vertu du
+tion (2) to be subject to alternative limits may rescind          paragraphe (2) de se conformer à des limites de rempla-
+that election by notifying the Minister in writing to that        cement peut annuler son choix en en avisant par écrit le
+effect, and thereafter the primary supplier is subject to         ministre et doit se conformer ensuite aux limites visées
+the limits specified in subsection (1).                           au paragraphe (1).
+
+         CALCULATING A YEARLY POOL AVERAGE                                    CALCUL DE LA MOYENNE ANNUELLE
+   18. (1) Effective July 1, 1999 and subject to subsec-            18. (1) À compter du 1er juillet 1999 et sous réserve
+tions (2) to (6), every primary supplier must calculate,          des paragraphes (2) à (6), chaque fournisseur principal
+for the purposes of sections 16 and 17, separate yearly           doit calculer, pour l’application des articles 16 et 17, des
+pool averages for                                                 moyennes annuelles distinctes pour :
+  (a) the gasoline manufactured in each of its refineries;          a) l’essence fabriquée dans chacune de ses raffine-
+  (b) the gasoline blended in each of its blending facili-          ries;
+  ties; and                                                         b) l’essence mélangée dans chacune de ses installa-
+  (c) imported gasoline, on the basis of province of im-            tions de mélange;
+  portation.                                                        c) l’essence importée, par province d’importation.
+  (2) To calculate its yearly pool average, a primary                (2) Pour calculer la moyenne annuelle, le fournisseur
+supplier must                                                     principal doit à la fois :
+  (a) include all batches that it supplied during the year          a) inclure tous les lots qu’il a fournis au cours de
+  that were identified under subsection 9(1) or (2) as              l’année et qui ont été identifiés conformément aux pa-
+  complying gasoline or northern winter complying                   ragraphes 9(1) ou (2) comme étant de l’essence
+  gasoline; and                                                     conforme ou de l’essence conforme pour l’hiver bo-
+  (b) exclude                                                       réal;
+
+     (i) all batches that it supplied during the year that          b) exclure tous les lots :
+     were identified under subsection 9(1) as a type of                (i) qu’il a fournis au cours de l’année et qui ont été
+     gasoline other than complying gasoline or northern                désignés, conformément au paragraphe 9(1),
+     winter complying gasoline,                                        comme essence d’un type autre que l’essence
+
+
+
+
+                                                             25
+                                           SOR/97-493 — October 6, 2010
+
+
+
+
+     (ii) all batches that were exported by the primary                 conforme ou l’essence conforme pour l’hiver bo-
+     supplier or by an agent or affiliate of the primary                réal,
+     supplier, and                                                      (ii) qui ont été exportés par lui ou par son agent ou
+     (iii) all batches of complying gasoline that the pri-              son associé,
+     mary supplier obtained from another person.                        (iii) qui sont de l’essence conforme et qu’il a obte-
+                                                                        nus d’une autre personne.
+   (3) If a batch is imported and delivered to a refinery             (3) Si un lot est importé et livré à une raffinerie ou à
+or a blending facility, the primary supplier may use a             une installation de mélange, le fournisseur principal peut
+combined yearly pool average for the refinery or blend-            utiliser la moyenne annuelle combinée pour la raffinerie
+ing facility and the imported gasoline if the primary sup-         ou l’installation de mélange et l’essence importée, à
+plier describes, in the compliance plan required by sec-           condition de décrire, dans le plan de conformité exigé à
+tion 21, how it will demonstrate that the combined                 l’article 21, comment il va démontrer que la moyenne
+yearly pool average will be met.                                   annuelle combinée sera respectée.
+   (4) If a primary supplier imports, or dispatches from              (4) S’il importe, ou s’il expédie de sa raffinerie, un
+its refinery, a batch of gasoline-like blendstock to a             lot de composé de base de type essence automobile à une
+blending facility where it is subsequently blended result-         installation de mélange où le composé est mélangé de fa-
+ing in complying gasoline, the primary supplier may use            çon à produire de l’essence conforme, le fournisseur
+a combined yearly pool average for the blending facility           principal peut utiliser la moyenne annuelle combinée
+and the refinery, or in the case of an importer, the blend-        pour l’installation de mélange et la raffinerie ou, dans le
+ing facility and its applicable provincial yearly pool av-         cas de l’importateur, pour l’installation de mélange et sa
+erage, if                                                          moyenne annuelle provinciale applicable, si les condi-
+  (a) the primary supplier owns the batch of gasoline-             tions suivantes sont réunies :
+  like blendstock;                                                   a) il est propriétaire du lot de composé de base de
+  (b) the batch of gasoline-like blendstock is segregated            type essence automobile;
+  from all other batches of gasoline stored at the blend-            b) le lot de composé de base de type essence automo-
+  ing facility; and                                                  bile est séparé physiquement de tous les autres lots
+  (c) the primary supplier describes, in the compliance              d’essence stockés dans l’installation de mélange;
+  plan required by section 21, how it will demonstrate               c) dans le plan de conformité exigé à l’article 21, il
+  that the combined yearly pool average will be met.                 décrit comment il va démontrer que la moyenne an-
+                                                                     nuelle combinée sera respectée.
+   (5) If a primary supplier imports, or dispatches from              (5) Si le fournisseur principal importe, ou expédie de
+its refinery, a batch of complying gasoline that is subse-         sa raffinerie, un lot d’essence conforme qui est par la
+quently mixed with a commercially pure oxygenate or                suite mélangé avec des produits oxygénés purs de qualité
+commercially pure butane in a facility, including a mo-            commerciale ou du butane pur de qualité commerciale
+bile facility, the primary supplier may adjust the model           dans une installation, y compris une installation mobile,
+parameters of the batch to reflect the addition of the             il peut rajuster les paramètres du modèle du lot compte
+commercially pure oxygenate or the commercially pure               tenu de l’addition de ces produits oxygénés ou de ce bu-
+butane that is mixed with the batch and may use the ad-            tane et il peut utiliser les paramètres du modèle rajustés,
+justed model parameters, instead of the measured model             au lieu des paramètres du modèle mesurés, pour le calcul
+parameters, in calculating the yearly pool average for its         de la moyenne annuelle de sa raffinerie ou, dans le cas
+
+
+
+                                                              26
+                                            DORS/97-493 — 6 octobre 2010
+
+
+
+
+refinery, or in the case of an importer, its applicable             de l’importateur, pour le calcul de la moyenne annuelle
+provincial yearly pool average, if                                  provinciale applicable, si le conditions suivantes sont
+   (a) the primary supplier owns the batch of complying             réunies :
+   gasoline;                                                           a) il est propriétaire du lot d’essence conforme;
+   (b) the primary supplier’s refinery or source of impor-             b) sa raffinerie ou sa source d’importation est la seule
+   tation is the facility’s sole source of gasoline, unless            source d’essence de l’installation, sauf si cette der-
+   the facility is mobile; and                                         nière est une installation mobile;
+   (c) the primary supplier describes, in the compliance               c) dans le plan de conformité exigé à l’article 21, il
+   plan required by section 21, how it will demonstrate                décrit comment il va démontrer que la moyenne an-
+   that the combined yearly pool average will be met.                  nuelle combinée sera respectée.
+  (6) For the purpose of calculating a yearly pool aver-              (6) Aux fins du calcul de la moyenne annuelle, le
+age, a primary supplier may combine several yearly pool             fournisseur principal peut combiner plusieurs moyennes
+averages calculated under subsection (1) if                         annuelles calculées au paragraphe (1), si à la fois :
+   (a) the combined yearly pool average represents an                  a) la moyenne annuelle combinée représente un vo-
+   annual volume of gasoline of not more than 12 000                   lume annuel d’essence ne dépassant pas 12 000 m3;
+   m3;                                                                 b) les raffineries, installations de mélange et points
+   (b) the refineries, blending facilities and points of im-           d’importation sont tous situés dans la même province;
+   portation are all located in the same province; and                 c) dans le plan de conformité exigé à l’article 21, il
+   (c) the primary supplier describes, in the compliance               décrit comment il va démontrer que la moyenne an-
+   plan required by section 21, how it will demonstrate                nuelle combinée sera respectée.
+   that the combined yearly pool average will be met.               DORS/99-204, art. 11; DORS/2003-318, art. 10.
+SOR/99-204, s. 11; SOR/2003-318, s. 10.
+
+           PROCEDURES FOR SAMPLING AND ANALYSIS                            PROCÉDURES D’ÉCHANTILLONNAGE ET D’ANALYSE
+   19. (1) Effective July 1, 1999 and subject to subsec-               19. (1) À compter du 1er juillet 1999 et sous réserve
+tions (2) and (3), every primary supplier must take a               des paragraphes (2) et (3), chaque fournisseur principal
+sample from each batch supplied by the primary supplier             doit prélever un échantillon de chaque lot fourni par lui
+using a method specified in subsection 5(1) or 6(1).                selon la méthode visée aux paragraphes 5(1) ou 6(1).
+   (2) If a primary supplier receives gasoline for one or              (2) Si le fournisseur principal reçoit à une installation
+more cargo tankers or railway cars from a single batch at           d’entreposage, pour un ou plusieurs camions-citernes ou
+a storage facility and the batch is not blended, mixed              wagons-citernes, de l’essence provenant d’un seul lot et
+with other gasoline or otherwise modified during the pe-            que ce lot n’est ni mélangé, ni combiné à une autre es-
+riod in which the cargo tankers or railway cars receive             sence, ni modifié de quelque façon pendant la période au
+gasoline from the storage facility, the primary supplier            cours de laquelle les camions-citernes ou les wagons-ci-
+may take a sample from the batch instead of taking sam-             ternes reçoivent cette essence de l’installation d’entrepo-
+ples from each of the cargo tankers or railway cars if the          sage, il peut prélever un échantillon du lot au lieu de pré-
+primary supplier describes, in the compliance plan re-              lever des échantillons de chacun des camions-citernes ou
+quired by section 21, how it will demonstrate that the              des wagons-citernes, à condition que, dans le plan de
+sample represents the gasoline in the cargo tankers or              conformité exigé à l’article 21, il décrive comment il en-
+railway cars.                                                       tend démontrer que cet échantillon représente l’essence
+
+
+
+                                                               27
+                                          SOR/97-493 — October 6, 2010
+
+
+
+
+                                                                 contenue dans les camions-citernes ou les wagons-ci-
+                                                                 ternes.
+   (3) If a primary supplier imports, or dispatches from            (3) Le fournisseur principal qui importe, ou qui expé-
+its refinery, to a blending facility gasoline-like blend-        die de sa raffinerie, à une installation de mélange un
+stock for the purpose of manufacturing complying gaso-           composé de base de type essence automobile pour la fa-
+line by blending with a commercially pure oxygenate or           brication d’essence conforme par mélange avec des pro-
+commercially pure butane, the primary supplier may               duits oxygénés purs de qualité commerciale ou avec du
+take a sample of the gasoline-like blendstock instead of         butane pur de qualité commerciale peut prélever un
+taking a sample from the resulting gasoline if the prima-        échantillon du composé de base de type essence automo-
+ry supplier                                                      bile au lieu d’un échantillon de l’essence obtenue, si les
+  (a) is using a combined yearly pool average for the            conditions suivantes sont réunies :
+  facilities under subsection 18(4);                               a) il utilise la moyenne annuelle combinée pour les
+  (b) analyses each sample in accordance with subsec-              installations, conformément au paragraphe 18(4);
+  tion (4);                                                        b) il analyse chaque échantillon conformément au pa-
+  (c) analyses or calculates the effect of blending the            ragraphe (4);
+  gasoline-like blendstock with the commercially pure              c) il analyse ou calcule l’effet du mélange du compo-
+  oxygenate or commercially pure butane on the model               sé de base de type essence automobile avec des pro-
+  parameters of the sample of gasoline-like blendstock             duits oxygénés purs de qualité commerciale ou du bu-
+  analysed under subsection (4);                                   tane pur de qualité commerciale sur les paramètres du
+  (d) computes the model parameters of the resulting               modèle de ce composé dont un échantillon est analysé
+  gasoline according to the effect calculated under para-          conformément au paragraphe (4);
+  graph (c) on the model parameters of the gasoline-like           d) il calcule les paramètres du modèle de l’essence
+  blendstock analysed under paragraph (b);                         obtenue selon l’effet calculé conformément à l’alinéa
+  (e) maintains a record of                                        c) sur les paramètres du modèle du composé de base
+                                                                   de type essence automobile analysé conformément à
+    (i) the values of the model parameters of the gaso-            l’alinéa b);
+    line-like blendstock,
+                                                                   e) il tient un registre des renseignements suivants :
+    (ii) the volumes of the commercially pure oxy-
+    genate and commercially pure butane added to the                  (i) les valeurs des paramètres du modèle du com-
+    gasoline-like blendstock,                                         posé de base de type essence automobile,
+
+    (iii) the volumes of the gasoline-like blendstock                 (ii) les volumes des produits oxygénés purs de qua-
+    and the resulting gasoline,                                       lité commerciale et de butane pur de qualité com-
+                                                                      merciale ajoutés au composé de base de type es-
+    (iv) the calculations performed under paragraph                   sence automobile,
+    (c), and
+                                                                      (iii) les volumes du composé de base de type es-
+    (v) the model parameters computed under para-                     sence automobile et de l’essence obtenue,
+    graph (d); and
+                                                                      (iv) les calculs visés à l’alinéa c),
+  (f) reports the volume of the resulting gasoline and
+  the adjusted model parameters and adjusted benzene                  (v) les paramètres du modèle calculés conformé-
+  emissions number in the report required by section 8.               ment à l’alinéa d);
+
+
+
+
+                                                            28
+                                          DORS/97-493 — 6 octobre 2010
+
+
+
+
+                                                                   f) il indique le volume de l’essence obtenue, ainsi que
+                                                                   les paramètres du modèle rajustés et l’indice des émis-
+                                                                   sions de benzène rajusté dans le rapport exigé à l’ar-
+                                                                   ticle 8.
+   (4) Effective July 1, 1999, for each batch supplied by          (4) À compter du 1er juillet 1999, pour chaque lot
+a primary supplier, the primary supplier must                    qu’il fournit, le fournisseur principal doit, selon le cas :
+  (a) for each sample taken in accordance with this sec-           a) pour chaque échantillon prélevé conformément au
+  tion,                                                            présent article :
+    (i) analyse the sample for each of the model param-               (i) soit analyser l’échantillon pour chacun des para-
+    eters, using one or more laboratories that have a                 mètres du modèle par l’entremise d’un ou de plu-
+    quality control program, and calculate the benzene                sieurs laboratoires dotés d’un programme de
+    emissions number, or                                              contrôle de la qualité et calculer l’indice des émis-
+    (ii) subject to subsection (5), combine it with other             sions de benzène,
+    samples, thoroughly mix the composite sample,                     (ii) soit, sous réserve du paragraphe (5), combiner
+    analyse the composite sample for each of the model                cet échantillon à d’autres échantillons, bien mélan-
+    parameters, using one or more laboratories that                   ger l’échantillon composite, analyser celui-ci pour
+    have a quality control program, and calculate the                 chacun des paramètres du modèle par l’entremise
+    composite value of the benzene emissions number;                  d’un ou de plusieurs laboratoires dotés d’un pro-
+    or                                                                gramme de contrôle de la qualité et calculer la va-
+  (b) obtain records of analysis, as described in subsec-             leur composée de l’indice des émissions de ben-
+  tion 8(3), for each of the model parameters and calcu-              zène;
+  late the benzene emissions number.                               b) obtenir les dossiers d’analyse visés au paragraphe
+                                                                   8(3) pour chacun des paramètres du modèle et calculer
+                                                                   l’indice des émissions de benzène.
+  (5) Samples may only be combined under subpara-                  (5) Les échantillons ne peuvent être combinés confor-
+graph (4)(a)(ii) if                                              mément au sous-alinéa (4)a)(ii) qu’aux conditions sui-
+  (a) the samples are the same grade of gasoline;                vantes :
+
+  (b) the samples are either summer or winter gasoline             a) leur qualité d’essence est la même;
+  but not both;                                                    b) il s’agit soit uniquement d’essence d’été soit uni-
+  (c) the samples are mixed in the proportion of the               quement d’essence d’hiver;
+  volumes of the batches;                                          c) ils sont mélangés dans la même proportion que
+  (d) the primary supplier chooses whichever of the fol-           celle des volumes des lots;
+  lowing compositions that, when combined, requires                d) le fournisseur principal les combine selon celle des
+  the most frequent analysis, namely,                              combinaisons suivantes qui nécessite les analyses les
+    (i) the composition that represents all the batches            plus fréquentes :
+    supplied by the primary supplier for a continuous                 (i) celle qui représente tous les lots qu’il fournit
+    period of up to 30 days, or                                       pour une période continue d’au plus 30 jours,
+
+
+
+
+                                                            29
+                                             SOR/97-493 — October 6, 2010
+
+
+
+
+     (ii) the composition that represents batches sup-                     (ii) celle qui représente les lots qu’il fournit et qui
+     plied by the primary supplier that have a combined                    ont un volume combiné d’au plus 1 000 m3;
+     volume of up to 1 000 m3; and                                      e) ils sont prélevés, manipulés et conservés de façon à
+  (e) the samples are collected, handled and stored in a                minimiser les changements de la composition de l’es-
+  manner that minimizes changes in gasoline composi-                    sence.
+  tion of the sample.
+   (6) Effective January 1, 2002, a primary supplier may                 (6) À compter du 1er janvier 2002, le fournisseur prin-
+use a statistical quality assurance program to replace the            cipal peut utiliser un programme statistique d’assurance
+requirements of paragraph (4)(a) for a model parameter                de la qualité pour remplacer les exigences de l’alinéa
+if                                                                    (4)a) applicables à un paramètre du modèle, si les condi-
+  (a) a report is sent to the Minister, by registered mail            tions suivantes sont réunies :
+  or courier 60 days before the use of the statistical                  a) un rapport, contenant les renseignements suivants,
+  quality assurance program, containing                                 est envoyé au ministre par courrier recommandé ou
+     (i) a description of the statistical quality assurance             par messager 60 jours avant l’application du
+     program,                                                           programme :
+
+     (ii) laboratory and volumetric data on the model                      (i) une description du programme,
+     parameter of the gasoline supplied by the primary                     (ii) des données de laboratoire et des données volu-
+     supplier for the previous two years, and                              métriques sur le paramètre du modèle de l’essence
+     (iii) an analysis of the results of the statistical qual-             fournie par lui au cours des deux dernières années,
+     ity assurance program compared to the results ob-                     (iii) une analyse des résultats du programme com-
+     tained under paragraph (4)(a) for the two years re-                   parés aux résultats obtenus selon l’alinéa (4)a) pour
+     ferred to in subparagraph (ii); and                                   les deux années visées au sous-alinéa (ii);
+  (b) the analysis required by subparagraph (a)(iii)                    b) l’analyse exigée au sous-alinéa a)(iii) démontre
+  demonstrates that the statistical quality assurance pro-              que le programme, pour la plage de valeurs des para-
+  gram, for the range of values of the model parameter                  mètres du modèle applicables à chaque lot et pour la
+  for individual batches and the value of the yearly pool               valeur de la moyenne annuelle :
+  average,                                                                 (i) soit donne des résultats équivalents à ceux obte-
+     (i) provides equivalent results compared to the re-                   nus selon l’alinéa (4)a),
+     sults obtained under paragraph (4)(a), or                             (ii) soit donne une plus grande concentration de
+     (ii) projects a higher concentration of benzene and                   benzène et une valeur plus élevée de l’indice des
+     a higher value for the benzene emissions number                       émissions de benzène par rapport aux résultats ob-
+     compared to that obtained under paragraph (4)(a).                     tenus selon l’alinéa (4)a).
+   (7) No primary supplier shall continue to use the sta-                (7) Aucun fournisseur principal ne peut continuer à
+tistical quality assurance program referred to in subsec-             utiliser le programme statistique d’assurance de la quali-
+tion (6) if                                                           té visé au paragraphe (6) si, selon le cas :
+  (a) the mix of crude oil used to manufacture the gaso-                a) le changement apporté au mélange de pétrole brut
+  line is changed in a way that would result in the re-                 utilisé pour fabriquer l’essence a pour conséquence
+  quirements of paragraph (6)(b) not being met;
+
+
+
+
+                                                                 30
+                                              DORS/97-493 — 6 octobre 2010
+
+
+
+
+   (b) any equipment is installed or modified at the re-              l’impossibilité de respecter les exigences de l’alinéa
+   finery or blending facility that would result in the re-           (6)b);
+   quirements of paragraph (6)(b) not being met; or                   b) l’installation ou la modification d’une pièce
+   (c) the primary supplier is convicted of an offence un-            d’équipement quelconque dans la raffinerie ou l’ins-
+   der the Act in respect of these Regulations.                       tallation de mélange a pour conséquence l’impossibili-
+                                                                      té de respecter les exigences de l’alinéa (6)b);
+                                                                      c) le fournisseur principal est reconnu coupable d’une
+                                                                      infraction à la Loi pour non-conformité au présent rè-
+                                                                      glement.
+ (8) Effective July 1, 1999, every primary supplier                   (8) À compter du 1er juillet 1999, chaque fournisseur
+must retain in Canada                                              principal doit conserver au Canada :
+   (a) any sample collected for the purposes of these                 a) d’une part, tout échantillon prélevé pour l’applica-
+   Regulations until whichever of the following dates the             tion du présent règlement jusqu’à celle des dates sui-
+   primary supplier chooses, namely,                                  vantes qu’il choisit :
+      (i) the 30th day after the date on which the sample                (i) le trentième jour suivant la date d’analyse de
+      was analysed, or                                                   l’échantillon,
+      (ii) the date on which the primary supplier has                    (ii) la date à laquelle il a échantillonné et fourni 20
+      sampled and supplied 20 batches after the sample                   lots après l’analyse de l’échantillon;
+      was analysed; and                                               b) d’autre part, une quantité suffisante — au moins
+   (b) a sufficient quantity, at least 1.7 L, of the sample           1,7 L — de l’échantillon pour que le ministre puisse
+   so that analysis for each model parameter can be per-              analyser tous les paramètres du modèle de l’échan-
+   formed by the Minister.                                            tillon.
+SOR/2003-318, s. 11; SOR/2004-252, s. 4(F).                        DORS/2003-318, art. 11; DORS/2004-252, art. 4(F).
+
+                     RECORD OF COMPOSITION                                            REGISTRE DE LA COMPOSITION
+ 20. Effective July 1, 1999, every primary supplier                   20. À compter du 1er juillet 1999, tout fournisseur
+must make a record for each batch supplied by the pri-             principal doit, pour chaque lot qu’il fournit, consigner au
+mary supplier that includes                                        registre notamment les renseignements suivants :
+   (a) a unique identification number that links the batch            a) un numéro d’identification exclusif permettant de
+   to any samples taken;                                              relier ce lot à tous les échantillons prélevés;
+   (b) the name of any oxygenates added;                              b) le nom de tous les produits oxygénés ajoutés;
+   (c) the values, as determined under subsection 19(4)               c) les valeurs, déterminées conformément aux para-
+   or (6), of the model parameters and the benzene emis-              graphes 19(4) ou (6), des paramètres du modèle et de
+   sions number; and                                                  l’indice des émissions de benzène;
+   (d) the year-to-date volume-weighted average of the                d) la moyenne annuelle cumulée, pondérée en fonc-
+   model parameters and the benzene emissions number.                 tion du volume, des paramètres du modèle et de l’in-
+                                                                      dice des émissions de benzène.
+
+
+
+
+                                                              31
+                                           SOR/97-493 — October 6, 2010
+
+
+
+
+                    COMPLIANCE PLAN                                                   PLAN DE CONFORMITÉ
+  21. (1) Effective 150 days before the beginning of                  21. (1) À compter du 150e jour précédant le début de
+the first year for which a primary supplier has elected to         la première année pour laquelle il a choisi de se confor-
+meet a requirement on the basis of a yearly pool average,          mer sur la base de la moyenne annuelle, le fournisseur
+the primary supplier must put in place a compliance plan           principal doit mettre en place un plan de conformité por-
+that contains                                                      tant sur les éléments suivants :
+  (a) a description of how the primary supplier will                 a) la description de sa façon de procéder pour démon-
+  demonstrate that the yearly pool average will be met;              trer que la moyenne annuelle sera respectée;
+  (b) a description of how the samples required by                   b) les modalités de prélèvement, d’analyse et de
+  these Regulations are to be collected, analysed and                consignation utilisées pour les échantillons exigés par
+  recorded; and                                                      le présent règlement;
+  (c) the location where the samples and records re-                 c) l’endroit où seront conservés les échantillons et re-
+  quired by these Regulations are to be kept.                        gistres exigés par le présent règlement.
+   (2) The compliance plan must be signed by an autho-                (2) Le plan de conformité doit être signé par l’agent
+rized official of the primary supplier and sent to the Min-        autorisé du fournisseur principal et être envoyé au mi-
+ister by registered mail or courier at least 150 days be-          nistre par courrier recommandé ou par messager au
+fore the beginning of the first year for which the primary         moins 150 jours avant le début de la première année au
+supplier has elected to meet a requirement on the basis            cours de laquelle le fournisseur principal a choisi de se
+of a yearly pool average.                                          conformer sur la base d’une moyenne annuelle.
+   (3) At least 45 days before a primary supplier                     (3) Au moins 45 jours avant de changer tout élément
+changes any information provided under subsection (1),             visé au paragraphe (1), le fournisseur principal doit
+the primary supplier must update the compliance plan               mettre à jour le plan de conformité et le transmettre au
+and submit it to the Minister by registered mail or couri-         ministre par courrier recommandé ou par messager.
+er.
+
+                          AUDIT                                                          VÉRIFICATION
+   22. (1) For each year for which the basis is a yearly              22. (1) Pour chaque année pour laquelle la base est la
+pool average elected under section 15, a primary supplier          moyenne annuelle choisie en vertu de l’article 15, le
+must have an auditor perform an audit to verify that the           fournisseur principal doit faire vérifier par un vérifica-
+primary supplier’s systems, practices and procedures are,          teur ses systèmes, pratiques et procédures pour démon-
+in the auditor’s opinion, appropriate to demonstrate com-          trer que, selon l’avis de celui-ci, ils sont en conformité
+pliance with these Regulations and that the records and            avec le présent règlement et que les registres et rapports
+reports required by these Regulations are complete and             exigés par le présent règlement sont complets et exacts.
+accurate.
+   (2) The audit must include the methodical examina-                 (2) La vérification doit comprendre un examen et des
+tion and testing of the primary supplier’s systems, prac-          essais méthodiques des systèmes, pratiques, procédures,
+tices, procedures, records and reports in respect of               registres et rapports du fournisseur principal, portant sur
+  (a) the volumes and composition of batches supplied              les points suivants :
+  by the primary supplier during the year;
+
+
+
+
+                                                              32
+                                              DORS/97-493 — 6 octobre 2010
+
+
+
+
+   (b) the identification of types of batches dispatched or           a) les volumes et la composition des lots qu’il fournit
+   imported by the primary supplier during the year, un-              au cours de l’année;
+   der subsection 9(1) or (2);                                        b) la désignation des types de lots qu’il expédie ou
+   (c) the calculation of the yearly pool average;                    importe au cours de l’année, conformément aux para-
+   (d) the use of the compliance plan required by section             graphes 9(1) ou (2);
+   21;                                                                c) le calcul de la moyenne annuelle;
+   (e) the procedures and standards that are in place for             d) l’application du plan de conformité exigé par l’ar-
+   the storing of records and samples in a manner such                ticle 21;
+   that the Minister, on request under section 11, has                e) les procédures et normes en vigueur pour l’entre-
+   ready access to them;                                              posage des registres et des échantillons de façon telle
+   (f) laboratory procedures and methods of analysis;                 que le ministre, sur demande présentée en vertu de
+   and                                                                l’article 11, y a accès rapidement;
+   (g) the quality control program that the laboratories              f) les procédures de laboratoire et les méthodes d’ana-
+   used.                                                              lyse;
+                                                                      g) le programme de contrôle de la qualité utilisé par
+                                                                      les laboratoires.
+   (3) The primary supplier must submit a report, signed              (3) Le fournisseur principal doit transmettre au mi-
+by the auditor, to the Minister by May 31 after the year           nistre, au plus tard le 31 mai suivant l’année visée par la
+for which the audit was carried out that contains                  vérification, un rapport, signé par le vérificateur, conte-
+   (a) the name, address and registration number of the            nant les renseignements suivants :
+   primary supplier;                                                  a) ses nom, adresse et numéro d’enregistrement;
+   (b) the name, address and qualifications of the audi-              b) les nom, adresse et titres du vérificateur;
+   tor;                                                               c) le nombre de lots qu’il a fournis et le volume total
+   (c) the number of batches supplied by the primary                  de chaque type d’essence, identifié conformément aux
+   supplier and the total volume of each type of gasoline,            paragraphes 9(1) ou (2), qu’il a expédiés ou qu’il a
+   as identified under subsection 9(1) or (2), dispatched             importés;
+   or imported by the primary supplier;                               d) les procédures suivies par le vérificateur pour éva-
+   (d) the procedures followed by the auditor to assess               luer la validité des renseignements exigés par le pré-
+   the validity of the information required by these Regu-            sent règlement;
+   lations;                                                           e) une évaluation, faite par le vérificateur, indiquant
+   (e) an assessment by the auditor of the extent to                  dans quelle mesure le fournisseur principal s’est
+   which the primary supplier has complied with these                 conformé au présent règlement pendant toute l’année
+   Regulations throughout the year of the audit; and                  visée par la vérification;
+   (f) a description of the nature and date of any inaccu-            f) une description de la nature de toutes les inexacti-
+   racies in the records and any other deviations from the            tudes dans ses registres et de tout écart par rapport aux
+   requirements of these Regulations by the primary sup-              exigences du présent règlement qui lui sont attri-
+   plier.                                                             buables ainsi que leur date.
+SOR/2003-318, s. 12; SOR/2004-252, s. 5(F).                        DORS/2003-318, art. 12; DORS/2004-252, art. 5(F).
+
+
+
+
+                                                              33
+                                      SOR/97-493 — October 6, 2010
+
+
+
+
+                     PART 3                                                   PARTIE 3
+          [Repealed, SOR/2000-102, s. 26]                         [Abrogée, DORS/2000-102, art. 26]
+
+                     PART 4                                                  PARTIE 4
+
+            COMING INTO FORCE                                         ENTRÉE EN VIGUEUR
+  24. These Regulations come into force on Novem-          24. Le présent règlement entre en vigueur le 6 no-
+ber 6, 1997.                                             vembre 1997.
+
+
+
+
+                                                    34
+                                                                DORS/97-493 — 6 octobre 2010
+
+
+
+
+                                  SCHEDULE 1                                                                       ANNEXE 1
+                                (Sections 1 and 5)                                                               (articles 1 et 5)
+
+      MODEL FOR CALCULATING BENZENE EMISSIONS                                       MODÈLE DE CALCUL DE L’INDICE DES ÉMISSIONS DE
+                     NUMBERS                                                                         BENZÈNE
+
+                                 INTERPRETATION                                                                     DÉFINITIONS
+  1. The definitions in this section apply in this Schedule.                       1. Les définitions qui suivent s’appliquent à la présente annexe.
+“ARO” means the concentration of aromatics in the gasoline, as a                 « ARO » Concentration d’aromatiques dans l’essence, en pourcentage
+percentage of the gasoline by volume, or the modified value specified            de l’essence en volume, ou la valeur modifiée indiquée au paragraphe
+in subsection 3(1). (ARO)                                                        3(1). (ARO)
+“BENANN” means the yearly pool average of the benzene emissions                  « BENANN » Moyenne annuelle de l’indice des émissions de ben-
+number for gasoline supplied by a primary supplier during a year.                zène pour l’essence fournie par le fournisseur principal au cours
+(BENANN)                                                                         d’une année. (BENANN)
+“BENSUM” means the benzene emissions number for gasoline sup-                    « BENSUM » Indice des émissions de benzène pour l’essence fournie
+plied during the summer. (BENSUM)                                                en été. (BENSUM)
+“BENWIN” means the benzene emissions number for gasoline sup-                    « BENWIN » Indice des émissions de benzène pour l’essence fournie
+plied during the winter. (BENWIN)                                                en hiver. (BENWIN)
+“BZ” means the concentration of benzene in the gasoline, as a per-               « BZ » Concentration de benzène dans l’essence, en pourcentage de
+centage of the gasoline by volume. (BZ)                                          l’essence en volume. (BZ)
+“exp(x)” means ex, the base of the natural logarithm, raised to the              « exp(x) » Ex, soit la base du logarithme naturel élevée à la puissance
+power of x, a variable. (exp(x))                                                 « x », une variable. (exp(x))
+“E200” means the evaporative fraction of the gasoline at 93.3°C                  « E200 » Fraction de l’essence s’évaporant à 93,3 °C (200 °F), en
+(200°F), as a percentage of the gasoline by volume. (E200)                       pourcentage de l’essence en volume. (E200)
+“E300” means the evaporative fraction of the gasoline at 148.9°C                 « E300 » Fraction de l’essence s’évaporant à 148,9 °C (300 °F), en
+(300°F), as a percentage of the gasoline by volume, or the modified              pourcentage de l’essence en volume, ou la valeur modifiée indiquée
+value specified in subsection 3(2). (E300)                                       au paragraphe 3(2). (E300)
+“MTBE” means the concentration of oxygen in the gasoline, as a per-              « MTBE » Concentration d’oxygène dans l’essence, en pourcentage
+centage of the gasoline by weight, after adding methyl tertiary-butyl            de l’essence au poids, après addition d’oxyde de tert-butyle et de mé-
+ether (CH3OC(CH3)3). (MTBE)                                                      thyle (CH3OC(CH3)3). (MTBE)
+“OXY” means the concentration of oxygen in the gasoline, as a per-               « OXY » Concentration d’oxygène dans l’essence, en pourcentage de
+centage of the gasoline by weight. (OXY)                                         l’essence au poids. (OXY)
+“RVP” means the vapour pressure of the gasoline at 37.8°C (100°F),               « RVP » Tension de vapeur de l’essence à 37,8 °C (100 °F), en kPa,
+in kPa, multiplied by 0.14504. (RVP)                                             multipliée par 0,14504. (RVP)
+“SUL” means the concentration of sulphur in the gasoline, in mg/kg.              « SUL » Concentration de soufre dans l’essence, en mg/kg. (SUL)
+(SUL)
+                                                                                 « VOLANN » Volume total de tous les lots, en m3, fournis par le four-
+“VOLANN” means the total volume of all batches, in m3, supplied                  nisseur principal au cours de l’année. (VOLANN)
+during the year by the primary supplier. (VOLANN)
+                                                                                 « VOLBAT » Volume d’un lot, en m3. (VOLBAT)
+“VOLBAT” means the volume of a batch, in m3. (VOLBAT)
+
+                ACCEPTABLE RANGE FOR MODEL PARAMETERS                                       PLAGE ACCEPTABLE POUR LES PARAMÈTRES DU MODÈLE
+  2. (1) Subject to subsection (2) and the compositional require-                   2. (1) Sous réserve du paragraphe (2) et des exigences de compo-
+ments of these Regulations, model parameters that are used in this               sition énoncées dans le présent règlement, les paramètres du modèle
+Schedule must be within the following ranges:                                    utilisés dans la présente annexe doivent être compris dans les plages
+                                                                                 suivantes :
+                                      TABLE                                                                         TABLEAU
+
+ARO.............................................. 0 to 55% by volume             ARO..................................... 0 à 55 % en volume
+BZ................................................. 0.0 to 1.5% by volume        BZ........................................ 0,0 à 1,5 % en volume
+E200.............................................. 30 to 70% by volume           E200..................................... 30 à 70 % en volume
+
+
+
+
+                                                                            35
+                                                                    SOR/97-493 — October 6, 2010
+
+
+
+
+E300..............................................   70 to 100% by volume            E300.....................................   70 à 100 % en volume
+MTBE...........................................      0.0 to 3.7% by weight           MTBE..................................      0,0 à 3,7 % au poids
+OXY.............................................     0.0 to 3.7% by weight           OXY.....................................    0,0 à 3,7 % au poids
+RVP during the summer...............                 44.1 to 75.8 kPa                RVP en été...........................       44,1 à 75,8 kPa
+SUL..............................................    0 to 1 000 mg/kg                SUL......................................   0 à 1 000 mg/kg
+
+   (2) Subject to the compositional requirements of these Regula-                       (2) Sous réserve des exigences de composition énoncées dans le
+tions, a model parameter may be outside a range specified in subsec-                 présent règlement, un paramètre du modèle peut être à l’extérieur
+tion (1) if the primary supplier informs the Minister in writing, by an              d’une plage indiquée au paragraphe (1) si le fournisseur principal in-
+annex to the report required by section 8 of these Regulations, of the               forme le ministre par écrit, dans une annexe jointe au rapport exigé
+reason why the model parameter, except for RVP, is outside the                       en vertu de l’article 8 du présent règlement, de la raison pour laquelle
+range and of the volume of gasoline affected.                                        le paramètre du modèle, à l’exception du RVP, se trouve à l’extérieur
+                                                                                     de la plage, ainsi que du volume d’essence en cause.
+
+                       MODIFICATIONS TO MODEL PARAMETERS                                                MODIFICATIONS DES PARAMÈTRES DU MODÈLE
+  3. (1) If the concentration of aromatics in the gasoline is less than                 3. (1) Si la concentration d’aromatiques dans l’essence est infé-
+10% by volume, the ARO must be set to 10% by volume.                                 rieure à 10 % en volume, la valeur ARO doit être fixée à 10 %.
+   (2) If the evaporative fraction of the gasoline at 148.9°C (300°F)                  (2) Si la fraction de l’essence s’évaporant à 148,9 °C (300 °F), en
+as a percentage of the gasoline by volume is greater than 95% by vol-                pourcentage de l’essence en volume, est supérieure à 95 % en vo-
+ume, the E300 must be set to 95% by volume.                                          lume, la valeur E300 doit être fixée à 95 % en volume.
+
+   CALCULATION OF BENZENE EMISSIONS NUMBER DURING THE SUMMER                                     CALCUL DE L’INDICE DES ÉMISSIONS DE BENZÈNE EN ÉTÉ
+  4. The benzene emissions number of a batch supplied during the                        4. L’indice des émissions de benzène d’un lot fourni en été doit
+summer must be calculated using the following formula:                               être calculé selon la formule suivante :
+       BENSUM = [6.73272 × exp(b1)] + [5.0784 × exp(b2)] + b3                               BENSUM = [6,73272 × exp(b1)] + [5,0784 × exp(b2)] + b3
+where                                                                                où :
+b1 =       (0.0006197 × SUL) - (0.003376 × E200) + (0.02655 × ARO)                   b1 =       (0,0006197 × SUL) - (0,003376 × E200) + (0,02655 × ARO)
+           + (0.22239 × BZ);                                                                    + (0,22239 × BZ);
+b2 =       (-0.096047 × OXY) + (0.000337 × SUL) + (0.011251 ×                        b2 =       (-0,096047 × OXY) + (0,000337 × SUL) + (0,011251 ×
+           E300) + (0.011882 × ARO) + (0.222318 × BZ); and                                      E300) + (0,011882 × ARO) + (0,222318 × BZ);
+b3 =       10 × BZ × {[(0.004775 × RVP2 - 0.05872 × RVP + 0.21306)                   b3 =       10 × BZ × {[(0,004775 × RVP2 - 0,05872 × RVP + 0,21306)
+           × (-0.029 × MTBE - 0.080274 × RVP + 1.3758)] +                                       × (-0,029 × MTBE - 0,080274 × RVP + 1,3758)] +
+           [(0.006078 × RVP2 - 0.07474 × RVP + 0.27117) × (-0.0342 ×                            [(0,006078 × RVP2 - 0,07474 × RVP + 0,27117) × (-0,0342 ×
+           MTBE - 0.080274 × RVP + 1.4448)] + [(0.016169 × RVP2 -                               MTBE - 0,080274 × RVP + 1,4448)] + [(0,016169 × RVP2 -
+           0.17206 × RVP + 0.56724) × (-0.0342 × MTBE - 0.080274 ×                              0,17206 × RVP + 0,56724) × (-0,0342 × MTBE - 0,080274 ×
+           RVP + 1.4448)] + [(0.004767 × RVP + 0.011859) × (-0.0296                             RVP + 1,4448)] + [(0,004767 × RVP + 0,011859) × (-0,0296
+           × MTBE - 0.081507 × RVP + 1.3972)]}                                                  × MTBE - 0,081507 × RVP + 1,3972)]}.
+
+    CALCULATION OF BENZENE EMISSIONS NUMBER DURING THE WINTER                                   CALCUL DE L’INDICE DES ÉMISSIONS DE BENZÈNE EN HIVER
+  5. The benzene emissions number of a batch supplied during the                        5. L’indice des émissions de benzène d’un lot fourni en hiver doit
+winter must be calculated using the following formula:                               être calculé selon la formule suivante :
+         BENWIN = [11.3998 × exp(b1)] + [7.68148 × exp(b2)]                                   BENWIN = [11,3998 × exp(b1)] + [7,68148 × exp(b2)]
+where                                                                                où
+b1 and b2              have the same meaning as in section 4.                        b1 et b2          s’entendent au sens de l’article 4.
+
+CALCULATION OF THE YEARLY POOL AVERAGE OF THE BENZENE EMISSIONS                      CALCUL DE LA MOYENNE ANNUELLE DE L’INDICE DES ÉMISSIONS DE BENZÈNE
+                            NUMBER
+  6. The yearly pool average of the benzene emissions number for                        6. La moyenne annuelle de l’indice des émissions de benzène pour
+gasoline supplied during a year must be calculated using the follow-                 l’essence fournie au cours d’une année doit être calculée selon la for-
+ing formula:                                                                         mule suivante :
+BENANN = {The sum of (BENSUM × VOLBAT) for each batch                                BENANN = {somme de (BENSUM × VOLBAT) pour chaque lot
+          supplied during the summer plus the sum of (BEN-                                     fourni en été plus la somme de (BENWIN × VOL-
+
+
+
+
+                                                                                36
+                                                 DORS/97-493 — 6 octobre 2010
+
+
+
+
+                WIN × VOLBAT) for each batch supplied during the                       BAT) pour chaque lot fourni en hiver} divisées par
+                winter} divided by VOLANN                                              VOLANN
+where                                                                   où :
+BENSUM has the same meaning as in section 4; and                        BENSUM s’entend au sens de l’article 4;
+BENWIN has the same meaning as in section 5.                            BENWIN, au sens de l’article 5.
+SOR/99-204, s. 12; SOR/2003-318, ss. 13 to 15.                          DORS/99-204, art. 12; DORS/2003-318, art. 13 à 15.
+
+
+
+
+                                                                   37
+                                                    SOR/97-493 — October 6, 2010
+
+
+
+
+                           SCHEDULE 2                                                                     ANNEXE 2
+                            (Section 7)                                                                    (article 7)
+
+ REGISTRATION FORM FOR A MANUFACTURER, BLENDER                                FORMULAIRE D’ENREGISTREMENT POUR LE FABRICANT,
+            OR IMPORTER OF GASOLINE                                              LE MÉLANGEUR OU L’IMPORTATEUR D’ESSENCE
+1. Company name                                                               1. Nom de l’entreprise
+  Company address                                                               Adresse de l’entreprise
+
+
+  Type of primary supplier (check one or more):                                 Type de fournisseur principal (cochez une ou plusieurs cases) :
+  [ ] Manufacturer [ ] Blender [ ] Importer                                     [ ] Fabricant [ ] Mélangeur [ ] Importateur
+2. Name and location of each refinery and typical annual volume, in           2. Nom et emplacement de chaque raffinerie et volume annuel type,
+   m3, of each type of gasoline manufactured at each refinery:                  en m3, de chaque type d’essence fabriqué à chaque raffinerie :
+
+
+
+
+3. Name and location of each blending facility, typical blending ma-          3. Nom et emplacement de chaque installation de mélange, pro-
+  terial(s) and typical annual volume, in m3, of each type of gasoline           duit(s) type(s) de mélange, volume annuel type, en m3, de chaque
+   blended at each facility:                                                     type d’essence mélangé à chaque installation* :
+  (For cargo tankers, railway cars, boats, marine vessels or other              (* Pour les camions-citernes, les wagons-citernes, les bateaux, les
+  mobile blending facilities, indicate only the type and number of              navires et autres installations de mélange mobiles, indiquez seule-
+  mobile facilities and the province of operation.)                             ment le type et le nombre des installations mobiles et la province
+                                                                                dans laquelle se déroulent leurs opérations.)
+
+
+
+
+4. Each usual point and mode of importation and typical annual vol-           4. Chaque point et chaque mode habituels d’importation, et volume
+   ume, in m3, of each type of gasoline imported:                                annuel type, en m3, de chaque type d’essence importé :
+
+
+
+
+5. Authorized official               Telephone no. (     )       -            5. Agent autorisé                     Téléphone (       )       -
+  Title                               Fax no. (     )        -                  Poste                              Télécopieur (          )   -
+  Signature                                       Date                          Signature                                      Date
+
+
+
+
+                                                                         38
+                                                          DORS/97-493 — 6 octobre 2010
+
+
+
+
+                                  SCHEDULE 3                                                                       ANNEXE 3
+                                   (Section 8)                                                                      (article 8)
+
+             REPORT ON COMPOSITION OF GASOLINE                                              RAPPORT SUR LA COMPOSITION DE L’ESSENCE
+1. Registration number              Year                                              1. Numéro d’enregistrement          Année
+     Quarter (if before 2003)                                                           Trimestre (avant 2003)
+     Company name                                                                       Nom de l’entreprise
+     Company address                                                                    Adresse de l’entreprise
+     Type of primary supplier (check one or more)                                       Type de fournisseur principal (cochez une ou plusieurs cases) :
+     [ ] Manufacturer   [ ] Blender     [ ] Importer                                    [ ] Fabricant [ ] Mélangeur [ ] Importateur
+     Has a yearly pool average been elected for this year?                              Est-ce que la moyenne annuelle a été choisie pour cette année?
+     [ ] Yes [ ] No                                                                     [ ] Oui [ ] Non
+     If yes, for which parameters?                                                      Dans l’affirmative, pour quels paramètres?
+     [ ] Benzene                                                                        [ ] Benzène
+     [ ] Benzene Emissions Number                                                       [ ] Indice des émissions de benzène
+     If yes, has your compliance plan been updated during the reporting                 Dans l’affirmative, est-ce que votre plan de conformité a été mis à
+     period?                                                                            jour au cours de la période de déclaration?
+     [ ] No [ ] Yes         Note: if yes, an updated compliance plan                    [ ] Non [ ] Oui         Note : Dans l’affirmative, un plan de confor-
+                            must be submitted to the Minister pursuant                                          mité à jour doit être transmis au ministre
+                            to subsection 21(3) of the Benzene in Gaso-                                         conformément au paragraphe 21(3) du Rè-
+                            line Regulations                                                                    glement sur le benzène dans l’essence
+     Name and location of the refinery, blending facility or points of                  Nom et emplacement de la raffinerie, de l’installation de mélange
+     importation in the province, covered by this report*:                              ou des points d’importation dans la province, visés par le présent
+                                                                                        rapport* :
+     (* Refer to Notes A and B at the end of this Schedule.)
+                                                                                        (* Voir les notes A et B à la fin de la présente annexe.)
+
+
+
+
+2. Composition of gasoline supplied during this reporting period:                     2. Composition de l’essence fournie au cours de la période de
+                                                                                         déclaration :
+     Volume of gasoline supplied, in m3
+                                                                                        Volume de l’essence fournie, en m3
+     Number of batches supplied
+                                                                                        Nombre de lots fournis
+     Name of any oxygenates added
+                                                                                        Nom de tout produit oxygéné ajouté
+
+            Column 1               Column 2      Column 3        Column 4                     Colonne 1            Colonne 2      Colonne 3       Colonne 4
+Item        Parameter              Maximum       Quarterly       Year-to-date                                                     Valeur
+                                   value         volume-         volume-                                                          trimestrielle   Valeur
+                                                 weighted        weighted                                                         moyenne,        cumulative
+                                                 average value   average value                                                    pondérée en     annuelle
+                                                 (not to be                                                                       fonction du     moyenne,
+                                                 completed                                                                        volume (ne      pondérée en
+                                                 after 2002)                                                       Valeur         pas remplir     fonction du
+1.          Oxygen                                                                    Article Paramètre            maximale       après 2002)     volume
+            concentration (% by                                                       1.      Concentration
+            weight)                                                                           d’oxygène (% au
+                                                                                              poids)
+
+
+
+
+                                                                                 39
+                                                             SOR/97-493 — October 6, 2010
+
+
+
+
+             Column 1                Column 2     Column 3        Column 4                       Colonne 1          Colonne 2     Colonne 3       Colonne 4
+Item         Parameter               Maximum      Quarterly       Year-to-date                                                    Valeur
+                                     value        volume-         volume-                                                         trimestrielle   Valeur
+                                                  weighted        weighted                                                        moyenne,        cumulative
+                                                  average value   average value                                                   pondérée en     annuelle
+                                                  (not to be                                                                      fonction du     moyenne,
+                                                  completed                                                                       volume (ne      pondérée en
+                                                  after 2002)                                                        Valeur       pas remplir     fonction du
+2.           Sulphur                                                                   Article Paramètre             maximale     après 2002)     volume
+             concentration (mg/                                                        2.      Concentration de
+             kg)                                                                               soufre (mg/kg)
+3.           Vapour pressure at                                                        3.      Tension de vapeur à
+             37.8°C (100°F) (kPa)                                                              37,8 °C (100 °F) en
+4.           Evaporative fraction                                                              kPa
+             at 93.3°C (200°F) (%                                                      4.      Fraction s’évaporant
+             by volume)                                                                        à 93,3 °C (200 °F)
+5.           Evaporative fraction                                                              (% en volume)
+             at 148.9°C (300°F)                                                        5.      Fraction s’évaporant
+             (% by volume)                                                                     à 148,9 °C (300 °F)
+6.           Aromatics                                                                         (% en volume)
+             concentration (% by                                                       6.      Concentration
+             volume)                                                                           d’aromatiques (% en
+7.           Olefins concentration                                                             volume)
+             (% by volume)                                                             7.      Concentration
+8.           Benzene                                                                           d’oléfines (% en
+             concentration (% by                                                               volume)
+             volume)                                                                   8.      Concentration de
+9.           Benzene emissions                                                                 benzène (% en
+             number (Refer to                                                                  volume)
+             Note C at the end of                                                      9.      Indice des émissions
+             this Schedule.)                                                                   de benzène (voir la
+                                                                                               note C à la fin de la
+                                                                                               présente annexe)
+3. Authorized official                          Telephone no. (       )   -            3. Agent autorisé                            Téléphone (       )       -
+     Title                                          Fax no. (     )       -              Poste                                  Télécopieur (     )       -
+     Signature                                         Date                              Signature                                      Date
+                         NOTES FOR SCHEDULE 3                                                                         NOTES
+
+A.  This Report on Composition of Gasoline must be submitted sep-                      A.  Ce rapport sur la composition de l’essence doit être transmis
+    arately for each refinery, blending facility and province of im-                       pour chacune des raffineries, installations de mélange et pro-
+    portation, or any combination of them described under section                          vinces d’importation, ou pour toute combinaison de celles-ci vi-
+    18 of theBenzene in Gasoline Regulations .                                             sée à l’article 18 duRèglement sur le benzène dans l’essence .
+
+B.  For Note A, the name and location for cargo tankers, railway                       B.  Pour la note A, le nom et l’emplacement des camions-citernes,
+    cars, boats, marine vessels or other mobile blending facilities                        des wagons-citernes, des bateaux, des navires et autres installa-
+    are replaced by the type of mobile facilities, their number and                        tions de mélange mobiles sont remplacés par le type d’installa-
+    the province of operation, or the name and location of the non-                        tions mobiles et leur nombre ainsi que la province dans laquelle
+    mobile facility with which they are grouped..                                          se déroulent les opérations, ou le nom et l’emplacement de l’ins-
+                                                                                           tallation fixe dans laquelle ils sont regroupés.
+
+C.  The average benzene emissions number is the volume-weighted                        C.  L’indice moyen des émissions de benzène est la moyenne, pon-
+    average of the benzene emissions numbers for each batch; it is                         dérée en fonction du volume, des indices des émissions de ben-
+    not calculated from the average model parameters..                                     zène pour chaque lot; il n’est pas calculé à partir des para-
+                                                                                           mètres moyens du modèle.
+
+D.  Under subsection 13(2) of the Benzene in Gasoline Regulations,                     D.  Conformément au paragraphe 13(2) duRèglement sur le ben-
+    for each batch of gasoline-like blendstock dispatched or import-                       zène dans l’essence, pour chaque lot de composé de base de type
+    ed by the primary supplier during the period covered by this Re-                       essence automobile qu’il expédie ou importe au cours de la pé-
+    port, the primary supplier must report to the Minister, in an an-                      riode visée par ce rapport, le fournisseur principal doit indiquer
+                                                                                           au ministre, dans une annexe jointe à ce rapport, les nom et
+
+
+
+
+                                                                                  40
+                                                  DORS/97-493 — 6 octobre 2010
+
+
+
+
+     nex to this Report, the name and address of the purchaser or                 adresse de l’acheteur ou du destinataire, la date de l’expédition
+     receiver, the date of dispatch or importation and the volume..               ou de l’importation, ainsi que le volume.
+
+E.  Under subsection 2(2) of Schedule 1 to the Benzene in Gasoline           E.  Conformément au paragraphe 2(2) de l’annexe 1 duRèglement
+    Regulations, the primary supplier must report to the Minister, in            sur le benzène dans l’essence, le fournisseur principal doit indi-
+    an annex to this Report, each occurrence of a model parameter                quer au ministre, dans une annexe jointe à ce rapport, les fois
+    that is outside the acceptable range, the reason for each occur-             où le paramètre du modèle se trouve à l’extérieur de la plage
+    rence and the volume of gasoline affected.                                   acceptable, en en donnant la raison et le volume d’essence tou-
+SOR/2003-318, s. 16.                                                             ché.
+                                                                             DORS/2003-318, art. 16.
+
+
+
+
+                                                                        41
+

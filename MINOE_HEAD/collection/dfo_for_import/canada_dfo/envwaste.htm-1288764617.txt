@@ -1,0 +1,992 @@
+
+
+
+     This consolidation is unofficial and is for reference only.  For the
+     official version of the regulations, consult the original documents
+     on file with the _R_e_g_i_s_t_r_y_ _o_f_ _R_e_g_u_l_a_t_i_o_n_s, or refer to the _R_o_y_a_l
+     _G_a_z_e_t_t_e_ _P_a_r_t_ _I_I.
+     Regulations are amended frequently.  Please check the list of
+     _R_e_g_u_l_a_t_i_o_n_s_ _b_y_ _A_c_t to see if there are any recent amendments to these
+     regulations filed with the Registry that are not yet included in this
+     consolidation.
+     Although every effort has been made to ensure the accuracy of this
+     electronic version, the Registry of Regulations assumes no
+     responsibility for any discrepancies that may have resulted from
+     reformatting.
+     This electronic version is copyright © 2009, _P_r_o_v_i_n_c_e_ _o_f_ _N_o_v_a_ _S_c_o_t_i_a,
+     all rights reserved.  It is for your personal use and may not be
+     copied for the purposes of resale in this or any other form.
+
+     =====================================================================
+     Water and Wastewater Facilities and Public Drinking Water Supplies
+     Regulations
+     made under Sections 66 and 110 of the
+     Environment Act
+     S.N.S. 1994-95, c. 1
+     O.I.C. 2005-426 (September 30, 2005), N.S. Reg. 186/2005
+     as amended by O.I.C. 2009-161 (March 31, 2009, effective April 1,
+     2009), N.S. Reg. 181/2009
+
+     =====================================================================
+
+     Table of Contents
+      
+      
+     _I_n_t_e_r_p_r_e_t_a_t_i_o_n
+     _C_i_t_a_t_i_o_n
+     _D_e_f_i_n_i_t_i_o_n_s
+      
+     _P_a_r_t_ _1_ _-_ _F_a_c_i_l_i_t_y_ _C_l_a_s_s_i_f_i_c_a_t_i_o_n_ _a_n_d_ _O_p_e_r_a_t_o_r_ _C_e_r_t_i_f_i_c_a_t_i_o_n
+     _D_e_f_i_n_i_t_i_o_n_s_ _f_o_r_ _P_a_r_t_ _1
+     _A_d_m_i_n_i_s_t_r_a_t_o_r
+     _A_m_e_n_d_m_e_n_t_ _o_f_ _F_a_c_i_l_i_t_y_ _C_l_a_s_s_i_f_i_c_a_t_i_o_n_ _S_t_a_n_d_a_r_d_s_ _a_n_d_ _T_r_a_n_s_i_t_i_o_n_ _P_l_a_n
+     _G_u_i_d_e
+     _F_a_c_i_l_i_t_y_ _C_l_a_s_s_i_f_i_c_a_t_i_o_n_s
+     _T_y_p_e_s_ _a_n_d_ _c_l_a_s_s_e_s_ _o_f_ _f_a_c_i_l_i_t_i_e_s
+     _F_a_c_i_l_i_t_y_ _m_u_s_t_ _h_a_v_e_ _f_a_c_i_l_i_t_y_ _c_l_a_s_s_i_f_i_c_a_t_i_o_n_ _c_e_r_t_i_f_i_c_a_t_e
+     _A_p_p_l_i_c_a_t_i_o_n_ _a_n_d_ _i_s_s_u_a_n_c_e_ _o_f_ _f_a_c_i_l_i_t_y_ _c_l_a_s_s_i_f_i_c_a_t_i_o_n_ _c_e_r_t_i_f_i_c_a_t_e
+     _C_l_a_s_s_i_f_i_c_a_t_i_o_n_ _o_f_ _w_a_t_e_r_ _t_r_e_a_t_m_e_n_t_ _f_a_c_i_l_i_t_y
+     _C_l_a_s_s_i_f_i_c_a_t_i_o_n_ _o_f_ _w_a_t_e_r_ _d_i_s_t_r_i_b_u_t_i_o_n_ _f_a_c_i_l_i_t_y
+     _C_l_a_s_s_i_f_i_c_a_t_i_o_n_ _o_f_ _w_a_s_t_e_w_a_t_e_r_ _t_r_e_a_t_m_e_n_t_ _f_a_c_i_l_i_t_y
+     _C_l_a_s_s_i_f_i_c_a_t_i_o_n_ _o_f_ _w_a_s_t_e_w_a_t_e_r_ _c_o_l_l_e_c_t_i_o_n_ _f_a_c_i_l_i_t_y
+     _R_e_-_c_l_a_s_s_i_f_i_c_a_t_i_o_n_ _o_f_ _f_a_c_i_l_i_t_y_ _a_f_t_e_r_ _m_o_d_i_f_i_c_a_t_i_o_n_ _o_r_ _e_x_t_e_n_s_i_o_n
+     _O_p_e_r_a_t_o_r_ _C_e_r_t_i_f_i_c_a_t_i_o_n
+     _T_y_p_e_s_ _a_n_d_ _c_l_a_s_s_e_s_ _o_f_ _o_p_e_r_a_t_o_r_ _c_e_r_t_i_f_i_c_a_t_i_o_n_ _c_e_r_t_i_f_i_c_a_t_e_s
+     _D_e_e_m_e_d_ _c_e_r_t_i_f_i_c_a_t_i_o_n_ _o_f_ _o_p_e_r_a_t_o_r
+     _R_e_c_i_p_r_o_c_a_l_ _c_e_r_t_i_f_i_c_a_t_i_o_n_ _o_f_ _o_p_e_r_a_t_o_r
+     _D_e_e_m_e_d_ _c_e_r_t_i_f_i_c_a_t_i_o_n_ _o_f_ _o_p_e_r_a_t_o_r_ _w_i_t_h_ _w_a_t_e_r_ _o_r_ _w_a_s_t_e_w_a_t_e_r_ _t_r_e_a_t_m_e_n_t
+     _c_e_r_t_i_f_i_c_a_t_e
+     _O_p_e_r_a_t_o_r_ _c_e_r_t_i_f_i_c_a_t_i_o_n_ _c_e_r_t_i_f_i_c_a_t_e_ _a_p_p_l_i_c_a_t_i_o_n
+     _E_d_u_c_a_t_i_o_n_ _a_n_d_ _o_p_e_r_a_t_i_n_g_ _e_x_p_e_r_i_e_n_c_e_ _r_e_q_u_i_r_e_m_e_n_t_s_ _f_o_r_ _o_p_e_r_a_t_o_r
+     _c_e_r_t_i_f_i_c_a_t_i_o_n_ _c_e_r_t_i_f_i_c_a_t_e
+     _E_x_a_m_ _r_e_q_u_i_r_e_m_e_n_t_s_ _f_o_r_ _o_p_e_r_a_t_o_r_ _c_e_r_t_i_f_i_c_a_t_i_o_n_ _c_e_r_t_i_f_i_c_a_t_e
+     _S_u_b_s_t_i_t_u_t_i_n_g_ _s_u_r_p_l_u_s_ _e_d_u_c_a_t_i_o_n_ _f_o_r_ _o_p_e_r_a_t_i_n_g_ _e_x_p_e_r_i_e_n_c_e
+     _S_u_b_s_t_i_t_u_t_i_n_g_ _s_u_r_p_l_u_s_ _o_p_e_r_a_t_i_n_g_ _e_x_p_e_r_i_e_n_c_e_ _f_o_r_ _e_d_u_c_a_t_i_o_n
+     _O_p_e_r_a_t_o_r_ _c_e_r_t_i_f_i_c_a_t_i_o_n_ _c_e_r_t_i_f_i_c_a_t_e
+     _R_e_n_e_w_a_l_ _o_f_ _o_p_e_r_a_t_o_r_ _c_e_r_t_i_f_i_c_a_t_i_o_n_ _c_e_r_t_i_f_i_c_a_t_e
+     _E_x_p_i_r_e_d_ _o_p_e_r_a_t_o_r_ _c_e_r_t_i_f_i_c_a_t_i_o_n_ _c_e_r_t_i_f_i_c_a_t_e_s
+     _O_w_n_e_r_ _m_u_s_t_ _p_r_o_v_i_d_e_ _r_e_s_o_u_r_c_e_s_ _t_o_ _g_e_t_ _r_e_q_u_i_r_e_d_ _C_E_U_s
+     _F_a_c_i_l_i_t_y_ _O_p_e_r_a_t_i_o_n
+     _F_a_c_i_l_i_t_y_ _m_u_s_t_ _h_a_v_e_ _q_u_a_l_i_f_i_e_d_ _o_p_e_r_a_t_o_r_ _i_n_ _o_v_e_r_a_l_l_ _d_i_r_e_c_t_ _r_e_s_p_o_n_s_i_b_l_e
+     _c_h_a_r_g_e
+     _Q_u_a_l_i_f_i_c_a_t_i_o_n_s_ _o_f_ _o_p_e_r_a_t_o_r_ _i_n_ _o_v_e_r_a_l_l_ _d_i_r_e_c_t_ _r_e_s_p_o_n_s_i_b_l_e_ _c_h_a_r_g_e
+     _A_b_s_e_n_c_e_ _o_f_ _o_p_e_r_a_t_o_r_ _i_n_ _o_v_e_r_a_l_l_ _d_i_r_e_c_t_ _r_e_s_p_o_n_s_i_b_l_e_ _c_h_a_r_g_e
+     _T_r_a_n_s_i_t_i_o_n_ _p_l_a_n_ _f_o_r_ _f_a_c_i_l_i_t_y_ _w_i_t_h_o_u_t_ _d_e_s_i_g_n_a_t_e_d_ _o_p_e_r_a_t_o_r
+      
+     _P_a_r_t_ _2_ _-_ _M_o_n_i_t_o_r_i_n_g_ _o_f_ _P_u_b_l_i_c_ _D_r_i_n_k_i_n_g_ _W_a_t_e_r_ _S_u_p_p_l_i_e_s
+     _D_e_f_i_n_i_t_i_o_n_s_ _f_o_r_ _P_a_r_t_ _2
+     _R_e_g_i_s_t_r_a_t_i_o_n_ _o_f_ _p_u_b_l_i_c_ _d_r_i_n_k_i_n_g_ _w_a_t_e_r_ _s_u_p_p_l_y
+     _R_e_g_u_l_a_r_ _t_e_s_t_i_n_g_ _a_n_d_ _m_o_n_i_t_o_r_i_n_g
+     _I_m_m_e_d_i_a_t_e_ _n_o_t_i_f_i_c_a_t_i_o_n_ _a_n_d_ _c_o_r_r_e_c_t_i_v_e_ _a_c_t_i_o_n
+     _D_u_t_y_ _t_o_ _p_r_o_v_i_d_e_ _s_a_f_e_ _d_r_i_n_k_i_n_g_ _w_a_t_e_r
+     _C_l_a_s_s_i_f_i_c_a_t_i_o_n_ _o_f_ _p_u_b_l_i_c_ _d_r_i_n_k_i_n_g_ _w_a_t_e_r_ _s_u_p_p_l_i_e_s
+      
+
+      
+
+     =====================================================================
+
+     Interpretation
+
+     Citation
+     1     These regulations may be cited as the Water and Wastewater
+     Facilities and Public Drinking Water Supplies Regulations.
+
+     Definitions
+     2     In these regulations,
+      
+                     (a)    ``Act'' means the Environment Act;
+      
+                     (b)    ``Department'' means the Department of
+     Environment;
+      
+                     (c)    ``facility'' means a water treatment facility,
+     a wastewater treatment facility, a water distribution facility or a
+     wastewater collection facility that must be classified under these
+     regulations;
+      
+                     (d)    ``Minister'' means the Minister of
+     Environment.
+
+     Part 1 - Facility Classification and Operator Certification
+
+     Definitions for Part 1
+     3     In this Part,
+      
+                     (a)    ``administrator'' means, as defined in the
+     Act, a person appointed by the Minister for the purpose of the Act,
+     and includes an acting administrator;
+      
+                     (b)    ``ABC'' means the Association of Boards of
+     Certification, an organization that facilitates communication and co-
+     operation between environmental certifying authorities in the United
+     States and Canada and that is recognized by the Province for
+     recommending standards and guidelines for the classification of water
+     systems and wastewater systems and for the certification of
+     operators;
+      
+                     (c)    ``Atlantic Canada Water and Wastewater
+     Voluntary Certification Board'' means the board established by the
+     constitution of the Atlantic Canada Water and Wastewater Voluntary
+     Certification Program;
+      
+                     (d)    ``CEU'' means a continuing education unit
+     granted for 10 hours of participation in a continuing education
+     program that is relevant to the operation of a facility;
+      
+                     (e)    ``direct responsible charge'' means direct
+     responsibility for a process that controls the effectiveness or
+     efficiency of a facility;
+      
+      
+                     (f)    ``extension'' means an increase in
+      
+                              (i)     the size of a facility, or
+      
+                              (ii)    the volume of water or wastewater
+     treated or received by a facility;
+      
+                     (g)    ``facility classification certificate'' means
+     a certificate issued in accordance with these regulations that states
+     the classification type and class of each facility listed on the
+     certificate;
+      
+                     (h)    ``Facility Classification Standards'' means
+     the most recent version of the standards for classifying water and
+     wastewater facilities published by the Department;
+      
+                     (i)     ``modification'' means an alteration to a
+     facility that does one of the following, but does not change the
+     purpose or function of the facility:
+      
+                              (i)     adds a new structure, equipment or
+     process,
+      
+                              (ii)    eliminates an existing structure,
+     equipment or process;
+      
+                     (j)     ``operator'' means a person who directs,
+     adjusts, inspects, tests or evaluates an operation or a process that
+     controls the effectiveness or efficiency of a facility;
+      
+                     (k)    ``operator certification certificate'' means a
+     certificate of qualification issued or held under these regulations
+     to an operator for a type of facility that states the class of the
+     operator;
+      
+                     (l)     ``operating experience'' means experience as
+     an operator that is acceptable to an administrator and includes
+     experience being in direct responsible charge or overall direct
+     responsible charge;
+      
+                     (m)   ``overall direct responsible charge'' means
+     direct responsibility designated by an owner for the overall
+     operation, repair and maintenance of a facility;
+      
+                     (n)    ``Transition Plan Guide'' means the most
+     recent version of the guide published by the Department for preparing
+     a plan under Section 30 for a facility without a designated operator;
+      
+                     (o)    ``wastewater'' means sewage derived
+     principally from a residential or non-industrial operation, but does
+     not include industrial process wastewater from an activity designated
+     under the Activities Designation Regulations made under the Act.
+
+     Administrator
+     4     The Minister may appoint an administrator to administer these
+     regulations.
+
+     Amendment of Facility Classification Standards and Transition Plan
+     Guide
+     5     The Department must consult with stakeholders before amending
+     the Facility Classification Standards or the Transition Plan Guide.
+
+     Facility Classifications
+
+     Types and classes of facilities
+     6     (1)    The 4 facility types are as follows:
+      
+                     (a)    water treatment facility;
+      
+                     (b)    water distribution facility;
+      
+                     (c)    wastewater treatment facility;
+      
+                     (d)    wastewater collection facility.
+      
+            (2)    The 4 classes of water treatment facilities and
+     wastewater treatment facilities are Class I, Class II, Class III and
+     Class IV.
+      
+            (3)    The 3 classes of water distribution facilities and
+     wastewater collection facilities are Class I, Class II and Class III.
+
+     Facility must have facility classification certificate
+     7     (1)    An owner of a new or non-operational facility must
+     obtain a facility classification certificate for the facility under
+     these regulations before the facility begins operating.
+      
+            (2)    A facility is deemed to have a facility classification
+     certificate issued under these regulations at an equivalent class
+     level if, on the date these regulations come into force, it has an
+     unexpired classification certificate issued
+      
+                     (a)    by the Atlantic Canada Water and Wastewater
+     Voluntary Certification Board; or
+      
+                     (b)    under the Water and Wastewater Facility
+     Classification Regulations, N.S. Reg. 60/95, made by the Governor in
+     Council by Order in Council 95-299 dated April 11, 1995.
+      
+            (3)    Except for an owner of a facility that is deemed to
+     have a facility classification certificate under subsection (2), an
+     owner of a facility that is operational on the date these regulations
+     come into force must obtain a facility classification certificate
+     under these regulations for the facility no later than 1 year after
+     the date these regulations come into force.
+      
+     Application and issuance of facility classification certificate
+     8     (1)    An owner of a facility must apply for a facility
+     classification certificate by submitting all of the following to an
+     administrator:
+      
+                     (a)    a properly completed application on a form
+     approved by the Minister or an administrator;
+      
+                     (b)    the fee established by the Minister.
+      
+            (2)    If a facility must be classified and meets the
+     requirements of these regulations, an administrator must classify the
+     applicants facility as to both type and class in accordance with
+     these regulations and issue the facility an appropriate facility
+     classification certificate.
+      
+            (3)    If an owner has more than one facility, an
+     administrator may issue one facility classification certificate for
+     all the facilities.
+      
+     Classification of water treatment facility
+     9     (1)    A publicly or privately owned system for treating
+     potable water must be classified under these regulations as a water
+     treatment facility.
+      
+            (2)    Despite subsection (1), the following systems are not
+     required to be classified under these regulations:
+      
+                     (a)    a bottled water treatment facility;
+      
+                     (b)    a publicly or privately owned system for
+     treating potable water that is a transient public drinking water
+     supply, as defined in Part 2;
+      
+                     (c)    water treatment equipment used in private
+     residences.
+      
+            (3)    Despite subsection (1), a groundwater supply that only
+     disinfects must be classified as required by Section 10.
+      
+            (4)    Once an administrator has classified a facility as a
+     water treatment facility under subsection (1), an administrator must
+     assign points in accordance with Table 1 of the Facility
+     Classification Standards to the facility and must classify the
+     facility as a Class I, II, III or IV facility in accordance with the
+     points assigned and as shown in the following table:
+      Points Received   Class of Facility
+     30 points or less  Class I
+     31-55 points       Class II
+     56-75 points       Class III
+     76 points or more  Class IV
+      
+     Classification of water distribution facility
+     10   (1)    A publicly or privately owned system for producing,
+     collecting, storing or transmitting potable water must be classified
+     under these regulations as a water distribution facility.
+      
+            (2)    A groundwater supply that only disinfects must be
+     classified under these regulations as a water distribution facility.
+      
+            (3)    Despite subsections (1) and (2), the following systems
+     are not required to be classified under these regulations:
+      
+                     (a)    a publicly or privately owned system for
+     producing, collecting, storing or transmitting potable water that
+     serves less than 500 persons;
+      
+                     (b)    a publicly or privately owned system for
+     producing, collecting, storing or transmitting potable water that is
+     a transient public drinking water supply, as defined in Part 2.
+      
+            (4)    Once an administrator has classified a facility as a
+     water distribution facility under subsection (1) or (2), an
+     administrator must classify the facility as a Class I, II or III
+     facility in accordance with the population it serves and as shown in
+     the following table:
+      
+     Population Served Class of Facility
+     500 - 1500        Class I
+     1501 - 15 000     Class II
+     15 001 or more    Class III
+      
+     Classification of wastewater treatment facility
+     11   (1)    A publicly or privately owned system for treating and
+     disposing of wastewater must be classified under these regulations as
+     a wastewater treatment facility.
+      
+            (2)    Despite subsection (1), an on-site sewage disposal
+     system as defined in the On-site Sewage Disposal Systems Regulations
+     made under the Act is not required to be classified under these
+     regulations.
+      
+            (3)    Despite subsection (1), a wastewater system with only
+     collection pipes, lift stations or disinfection must be classified as
+     required by Section 12.
+      
+            (4)    Once an administrator has classified a facility as a
+     wastewater treatment facility under subsection (1), an administrator
+     must assign points in accordance with Table 2 of the Facility
+     Classification Standards to the facility and must classify the
+     facility as a Class I, II, III or IV facility in accordance with the
+     points assigned and as shown in the following table:
+      
+     Points Received   Class of Facility
+     30 points or less Class I
+     31-55 points      Class II
+     56-75 points      Class III
+     76 points or more Class IV
+      
+     Classification of wastewater collection facility
+     12   (1)    A publicly or privately owned system for collecting or
+     transmitting wastewater must be classified under these regulations as
+     a wastewater collection facility.
+      
+            (2)    A wastewater system with only collection pipes, lift
+     stations or disinfection must be classified under these regulations
+     as a wastewater collection facility.
+      
+            (3)    Despite subsections (1) and (2), the following systems
+     are not required to be classified under these regulations:
+      
+                     (a)    a publicly or privately owned system for
+     collecting or transmitting wastewater that serves less than 500
+     persons;
+      
+                     (b)    an on-site sewage disposal system, as defined
+     in the On-site Sewage Disposal Systems Regulations made under the
+     Act.
+      
+            (4)    Once an administrator has classified a facility as a
+     wastewater collection facility under subsection (1) or (2), an
+     administrator must classify the facility as a Class I, II or III
+     facility in accordance with the population it serves and as shown in
+     the following table:
+      
+     Population Served Class of Facility
+     500 - 1500        Class I
+     1501 - 15 000     Class II
+     15 001 or more    Class III
+      
+     Re-classification of facility after modification or extension
+     13   (1)    If a facility is or will be modified or extended after a
+     facility classification certificate is issued for the facility, the
+     owner of the facility must notify an administrator and provide
+     complete details of the modifications or extensions.
+      
+            (2)    No later than the 30th day after receiving a notice of
+     a modification or extension, an administrator must advise the owner
+     of the facility in writing whether the facilitys current
+     classification must be changed.
+      
+            (3)    If a facilitys classification must be changed because
+     of a modification or extension,
+      
+                     (a)    no later than the 90th day after being advised
+     by an administrator, the owner of the facility must pay a fee
+     established by the Minister for a new facility classification
+     certificate; and
+      
+                     (b)    no later than the 30th day after receiving the
+     required fee, an administrator must classify the facility in
+     accordance with these regulations and issue the facility an
+     appropriate new facility classification certificate.
+      
+     Operator Certification
+      
+     Types and classes of operator certification certificates
+     14   (1)    An administrator may issue the following types of
+     operator certification certificates:
+      
+                     (a)    water treatment operator certification
+     certificate;
+      
+                     (b)    water distribution operator certification
+     certificate;
+      
+                     (c)    wastewater treatment operator certification
+     certificate;
+      
+                     (d)    wastewater collection operator certification
+     certificate.
+      
+     (2)Each type of operator certification certificate must be issued in
+     one of the following classes:
+      
+                     (a)    Operator-in-training;
+      
+                     (b)    Class I;
+      
+                     (c)    Class II;
+      
+                     (d)    Class III;
+      
+                     (e)    Class IV.
+      
+     Deemed certification of operator
+     15   An operator who holds a certificate qualifying them to be an
+     operator issued by one of the following is deemed to hold an operator
+     certification certificate, for the equivalent type of facility and at
+     an equivalent class level, for 2 years after the date these
+     regulations come into force, unless the certificate is sooner
+     replaced, suspended or cancelled by the Minister:
+      
+                     (a)    the Atlantic Canada Water and Wastewater
+     Voluntary Certification Board;
+      
+                     (b)    an administrator.
+      
+     Reciprocal certification of operator
+     16   An operator who is certified by the ABC or by a certification
+     agency recognized by the Department as equivalent to the ABC may be
+     issued an operator certification certificate by an administrator for
+     an equivalent type of facility at a class level at the discretion of
+     an administrator, if the person applies and provides the information
+     requested by an administrator.
+      
+     Deemed certification of operator with water or wastewater treatment
+     certificate
+     17   (1)    Unless the water treatment operator certification
+     certificate states otherwise, an operator who holds a valid Class I,
+     Class II, Class III or Class IV water treatment operator
+     certification certificate is deemed to also hold a Class I water
+     distribution operator certification certificate for the purposes of
+     operating components in a water distribution facility that affect a
+     water treatment facility.
+      
+            (2)    Unless the wastewater treatment operator certification
+     certificate states otherwise, a person who holds a Class I, Class II,
+     Class III or Class IV wastewater treatment operator certification
+     certificate is deemed to also hold a Class I wastewater collection
+     operator certification certificate for the purposes of operating
+     components in a wastewater collection facility that affect a
+     wastewater treatment facility.
+      
+     Operator certification certificate application
+     18   To apply for an operator certification certificate, an applicant
+     must submit all of the following to the Minister:
+      
+                     (a)    a properly completed application, on a form
+     approved by the Minister or an administrator;
+      
+     (b)proof that they have met the education requirements of Section 19;
+      
+                     (c)    proof that they have met the operating
+     experience requirements of Section 19;
+      
+                     (d)    before their certificate is issued, proof that
+     they have passed the exam as required by Section 20;
+      
+                     (e)    before their certificate is issued, the fee
+     established by the Minister.
+      
+     Education and operating experience requirements for operator
+     certification certificate
+     19   (1)    An applicant for an operator certification certificate
+     must meet the education and operating experience requirements for the
+     class of certificate applied for as set out in the following table:
+      
+                     Education and Operating Experience Requirements
+                   for Classes of Operator Certification Certificates
+     Operator-in-training certificate
+     Education                          Operating experience
+     grade 12 high school diploma, or    none
+     general equivalency diploma (GED),
+     or
+     equivalent education
+     Class I operator certification certificate
+     Education                          Operating experience
+     grade 12 high school diploma, or   1 year of operating experience at
+     general equivalency diploma (GED), a Class I or higher facility
+     or
+     equivalent education
+     Class II operator certification certificate
+     Education                          Operating experience
+     grade 12 high school diploma, or   3 years of operating experience at
+     general equivalency diploma (GED), a Class I or higher facility
+     or
+     equivalent education
+     Class III operator certification certificate
+     Education                          Operating experience
+     grade 12 high school diploma, or   4 years of operating experience at
+     general equivalency diploma (GED), a Class II or higher facility,
+     or                                 including 2 years of direct
+     equivalent education               responsible charge experience
+     and
+     2 years of post-secondary
+     education, or
+     90 CEUs of acceptable training
+     Class IV operator certification certificate
+     Education                          Operating experience
+     grade 12 high school diploma, or   4 years of operating experience at
+     general equivalency diploma (GED), a Class III or higher facility,
+     or                                 including 2 years of direct
+     equivalent education               responsible charge experience
+     and
+     4 years of post-secondary
+     education, or
+     180 CEUs of acceptable training
+      
+            (2)    Post-secondary education or CEUs required for an
+     operator certification certificate must be
+      
+                     (a)    in engineering, the water or wastewater field
+     or in a related science; or
+      
+                     (b)    acceptable to an administrator.
+      
+            (3)    Operating experience required for an operator
+     certification certificate must be
+      
+                     (a)    acquired through actual operating experience
+     at the same type of facility as the type of certificate that is
+     applied for; and
+      
+                     (b)    acceptable to an administrator.
+      
+            (4)    Direct responsible charge experience required for an
+     operator certification certificate must be experience acquired while
+     in direct responsible charge or overall direct responsible charge.
+      
+     Exam requirements for operator certification certificate
+     20   (1)    An applicant for a operator certification certificate
+     must write and pass an exam for the type and class of certificate
+     applied for.
+      
+            (2)    An exam for an operator certification certificate must
+     be approved by the Minister or an administrator and the pass mark for
+     the exam must be set by the Minister or an administrator.
+      
+            (3)    An applicant for a Class I, II, III or IV operator
+     certification certificate may write an exam only if all of the
+     following apply:
+      
+                     (a)    they already hold the same type of operator
+     certification certificate in the next lower class;
+      
+                     (b)    their operator certification certificate is
+     valid;
+      
+                     (c)    they have the operating experience and
+     education required by Section 19.
+      
+            (4)    An applicant for an Operator-in-training operator
+     certification certificate may write an exam only for an Operator-in-
+     training certification certificate.
+            (5)    Despite clause (3)(a), an applicant who is deemed to
+     hold a Class I water distribution or Class I wastewater collection
+     operator certification certificate under Section 17 must write and
+     pass an exam for a Class I operator certification certificate before
+     they are permitted to write an exam for a Class II operator
+     certification certificate.
+      
+            (6)    Despite clause (3)(c), an administrator may, in
+     accordance with guidelines and policies established by the
+     Department, allow an applicant to write an exam before the applicant
+     has the operating experience required for the type and class of
+     operator certification certificate applied for if the applicant
+     already holds an operator certification certificate that is valid, of
+     the same type and in the next lower class.
+      
+     Substituting surplus education for operating experience
+     21   (1)    An applicant for a Class II, III or IV operator
+     certification certificate who does not have the operating experience
+     for the class of certificate applied for as set out in Section 19 may
+     substitute surplus education for the required operating experience in
+     accordance with, and up to the maximums set out in the following
+     table:
+      
+                         Surplus Education that may be Substituted
+                             for Required Operating Experience
+     Class of     Surplus Education May be Substituted Maximum
+     Certificate                    for                Substitution
+     Class I      _                 _                  no substitution
+                                                       permitted
+     Class II     1 year of post-   1 year of          Up to 50% of
+                  secondary         operating          operating
+                  education         experience         experience
+                  or
+                  45 CEUs of
+                  acceptable
+                  training
+     Class III or 1 year of post-   1 year of          Up to 50% of
+     Class IV     secondary         operating          operating
+                  education         experience         experience
+                  or                or                 or
+                  45 CEUs of        1 year of direct   Up to 50% of
+                  acceptable        responsible charge direct responsible
+                  training          experience         charge experience
+      
+            (2)    Surplus education that is substituted in accordance
+     with subsection (1) for required operating experience
+      
+                     (a)    must meet the requirements of subsection 19
+     (2); and
+      
+                     (b)    cannot be used as education required for an
+     operator certification certificate.
+      
+     Substituting surplus operating experience for education
+     22   (1)    An applicant for an operator certification certificate
+     who does not have the education for the class of certificate applied
+     for as set out in Section 19 may substitute surplus operating
+     experience for the required education in accordance with, and up to
+     the limits set out in the following table:
+      
+                 Surplus Operating Experience that may be Substituted
+                                for Required Education
+     Class of    Surplus Operating  May be Substituted Maximum
+     Certificate Experience         for                Substitution
+     All Classes 1 year of          2 years of grade   no limit
+                 operating          school (grades 1
+                 experience         to 8)
+     All Classes 1 year of          1 year of high     no limit
+                 operating          school (grades 9
+                 experience         to 12)
+     Class III   1 year of direct   1 year of post-    1 year of post-
+                 responsible charge secondary          secondary education
+                 experience in a    education
+                 Class II or higher
+                 facility
+     Class IV    1 year of direct   1 year of post-    2 years of post-
+                 responsible charge secondary          secondary education
+                 experience in a    education
+                 Class III or
+                 higher facility
+      
+            (2)    Surplus operating experience that is substituted in
+     accordance with subsection (1) for required education
+      
+                     (a)    must meet the requirements of subsections 19
+     (3) and (4); and
+      
+                     (b)    cannot be used as operating experience
+     required for an operator certification certificate.
+      
+     Operator certification certificate
+     23   (1)    An applicant who satisfies the requirements of these
+     regulations for the type and class of operator certification
+     certificate applied for may be issued a certificate under subsection
+     64(1) of the Act.
+      
+            (2)    An operator certification certificate must be in a form
+     approved by the Minister or an administrator.
+      
+            (3)    An operator certification certificates expires 4 years
+     after the date it is issued.
+      
+            (4)    An operator certification certificate is not
+     transferable.
+      
+            (5)    An operator must produce their operator certification
+     certificate to an administrator or inspector on request.
+      
+     Renewal of operator certification certificate
+     24   (1)    A certified operator may renew their operator
+     certification certificate by submitting all of the following to the
+     Minister at least 60 days before the date their certificate expires:
+      
+                     (a)    a properly completed renewal application, on a
+     form approved by the Minister or an administrator;
+      
+                     (b)    the renewal fee established by the Minister;
+      
+                     (c)    for a Class I or II operator,
+      
+                              (i)     if the operator has not been
+     designated in overall direct responsible charge, proof satisfactory
+     to an administrator that the operator completed at least 2.4 CEUs of
+     acceptable training during the term of their current certificate, or
+      
+                              (ii)    if the operator has been designated
+     in overall direct responsible charge, proof satisfactory to an
+     administrator that the operator completed at least 4.8 CEUs of
+     acceptable training during the term of their current certificate;
+      
+                     (d)    for a Class III or Class IV operator, proof
+     satisfactory to an administrator that the operator completed at least
+     4.8 CEUs of acceptable training during the term of their current
+     certificate.
+      
+            (2)    An Operator-in-training operator certification
+     certificate is not renewable.
+      
+     Expired operator certification certificates
+     25   (1)    An operator certification certificate that has expired
+     and has not been renewed under Section 24 may be re-issued for the
+     same type and class of operator certification certificate if the
+     holder submits all of the following to the Minister:
+      
+                     (a)    a properly completed renewal application, on a
+     form approved by the Minister or an administrator;
+      
+                     (b)    the fee established by the Minister;
+      
+                     (c)    proof satisfactory to an administrator that
+     the operator has obtained the CEUs of acceptable training required by
+     clause 24(1)(c) or (d).
+      
+            (2)    An operator who applies to renew an operator
+     certification certificate that has been expired for 3 years or longer
+     must re-write and pass the exam for the type and class of certificate
+     applied for.
+      
+     Owner must provide resources to get required CEUs
+     26   An owner of a facility must provide the resources necessary for
+     an operator to get the CEUs of acceptable training required to renew
+     their operator certification certificate.
+      
+     Facility Operation
+      
+     Facility must have qualified operator in overall direct responsible
+     charge
+     27   (1)    An owner of a new or non-operational facility must
+     designate an operator who meets the requirements of Section 28 to be
+     in overall direct responsible charge before the facility begins
+     operating.
+      
+            (2)    An owner of a facility that is operational on the date
+     these regulations come into force and that has a facility
+     classification certificate must designate an operator who meets the
+     requirements of Section 28 to be in overall direct responsible charge
+     no later than the 30th day after the date these regulations come into
+     force.
+      
+            (3)    Despite subsections (1) and (2), an owner of
+      
+                     (a)    a non-transient public drinking water supply,
+     as defined in Part 2, that must be classified under Section 9 or 10
+     as a water treatment facility or a water distribution facility; or
+      
+                     (b)    a facility that under subsection 7(3) must
+     obtain a facility classification certificate no later than 1 year
+     after the date these regulations come into force,
+      
+     must designate an operator who meets the requirements of Section 28
+     to be in overall direct responsible charge before the applicable date
+     as set out in the following table and in accordance with the
+     facilitys required class:
+      
+                       Deadline for Designating Operator who Meets Section
+     Class of Facility 28 Requirements
+     Class I           October 1, 2008
+     Class II          October 1, 2009
+     Class III         October 1, 2010
+     Class IV          October 1, 2011
+      
+            (4)    Once a facility is required to have an operator
+     designated to be in overall direct responsible charge, the owner of
+     the facility must ensure that there is always an operator who meets
+     the requirements of Section 28 designated and in overall direct
+     responsible charge.
+      
+     Qualifications of operator in overall direct responsible charge
+     28   (1)    An operator who is in overall direct responsible charge
+     must hold a valid operator certification certificate that is
+      
+                     (a)    applicable to the type of facility; and
+      
+                     (b)    at a class level that is equal to or greater
+     than the class of the facility.
+      
+            (2)    An owner must not designate an operator-in-training to
+     be in overall direct responsible charge.
+      
+     Absence of operator in overall direct responsible charge
+     29   (1)    If the operator in overall direct responsible charge is
+     absent or unable to act, an owner must
+      
+                     (a)    designate another operator who meets the
+     requirements of Section 28 to be in overall direct responsible
+     charge; or
+      
+                     (b)    despite subsection 27(4), assign temporary
+     overall direct responsible charge to an operator who holds a valid
+     operator certification certificate that is
+      
+                              (i)     applicable to the type of facility,
+     and
+      
+                              (ii)    at a class level that is no more
+     than one class lower than the class of the facility.
+      
+            (2)    Temporary overall direct responsible charge for a
+     facility must not be assigned under clause (1)(b) for more than 150
+     days in any consecutive 12 months.
+      
+            (3)    An owner must not assign temporary overall direct
+     responsible charge under clause (1)(b) to an operator who holds an
+     Operator-in-training operator certification certificate.
+      
+     Transition plan for facility without designated operator
+     30   (1)    An owner must submit a transition plan to an
+     administrator if
+      
+                     (a)    despite subsection 27(4), they cannot
+     designate an operator who meets the requirements of Section 28 to be
+     in overall direct responsible charge; and
+      
+                     (b)    they cannot assign temporary overall direct
+     responsible charge to an operator who meets the requirements of
+     clause 29(1)(b).
+      
+            (2)    A transition plan must be
+      
+                     (a)    acceptable to an administrator and in
+     accordance with the Transition Plan Guide; and
+      
+                     (b)    submitted to an administrator no later than 90
+     days after the first day that the facility is without an operator who
+     meets the requirements of Section 28 designated and in overall direct
+     responsible charge as required by Section 27.
+      
+     Part 2 - Monitoring of Public Drinking Water Supplies
+      
+     Definitions for Part 2
+     31   In this Part,
+      
+                     (a)    ``Guidelines'' means the most recent version
+     of the Guidelines for Monitoring Public Drinking Water Supplies
+     published by the Department of Environment;
+      
+                     (b)    ``Guidelines for Canadian Drinking Water
+     Quality'' means the most recent version of the drinking water quality
+     guidelines published by the federal Department of Health;
+      
+                     (c)    ``non-transient public drinking water supply''
+     means a public drinking water supply that provides water to at least
+     25 of the same persons at least 6 months of the year;
+      
+                     (d)    ``owner'' means a person who owns, operates or
+     maintains a public drinking water supply;
+      
+                     (e)    ``public drinking water supply'' means a water
+     supply system, including any source, intake, treatment, storage,
+     transmission or distribution, that is intended to provide the public
+     with potable, piped water and that
+      
+                              (i)     has at least 15 service connections,
+      
+                              (ii)    regularly serves 25 or more persons
+     per day for at least 60 days of the year, or
+      
+                              (iii)   serves any of the following for at
+     least 60 days of the year:
+      
+                                       (A)   a day care facility licensed
+     in accordance with the Day Care Act,
+      
+                                       (B)   a permanent food
+     establishment licensed in accordance with the Health Protection Act,
+      
+                                       (C)   a commercial property for the
+     accommodation of the travelling or vacationing public comprising land
+     used for camping or for overnight parking of recreational vehicles or
+     containing a separate building or buildings containing at least 1
+     room to be used as an alternate form of accommodation in a
+     campground,
+      
+                                       (D)   a commercial property for the
+     accommodation of the travelling or vacationing public containing more
+     than 4 rental units, including cottages or cabins;
+     Subclause 31(e)(iii) added: O.I.C. 2009-161, N.S. Reg. 181/2009.
+      
+                     (f)    ``transient public drinking water supply''
+     means a public drinking water supply that regularly provides water in
+     a place where persons do not remain for long periods of time.
+      
+     Registration of public drinking water supply
+     32   (1)    A person must not own, operate or maintain a public
+     drinking water supply unless they register the public drinking water
+     supply with the Department on a form approved by the Minister or an
+     administrator.
+      
+            (2)    A public drinking water supply that has a municipal
+     water works approval issued under the Activities Designation
+     Regulationsmade under the Act is deemed to be registered with the
+     Department.
+      
+     Regular testing and monitoring
+     33   (1)    An owner must regularly sample, test and monitor their
+     public drinking water supply for all of the following:
+      
+                     (a)    microbiological quality;
+      
+                     (b)    general chemical and physical quality;
+      
+                     (c)    disinfection residual, if the owner is using a
+     disinfection system;
+      
+                     (d)    source and treated water turbidity, if the
+     owner is using chemically assisted filtration;
+      
+                     (e)    fluoride concentrations, if the owner is using
+     fluoridation;
+      
+                     (f)    any substances required by the Minister or an
+     administrator.
+      
+            (2)    An owner must ensure that samples collected under
+     subsection (1) are tested in the manner and with the frequency set
+     out in the Guidelines or as otherwise required by the Minister or an
+     administrator.
+      
+            (3)    An owner must record the results of tests performed
+     under subsection (2) and forward them to an administrator in
+     accordance with the Guidelines or as otherwise required by the
+     Minister or an administrator.
+      
+     Immediate notification and corrective action
+     34   (1)    An owner must immediately notify the Minister or an
+     administrator as soon as they are aware of any of the following:
+      
+                     (a)    the public drinking water supply does not meet
+     the microbiological, chemical or physical criteria set out in the
+     Guidelines for Canadian Drinking Water Quality;
+      
+                     (b)    an incident of raw water contamination;
+      
+                     (c)    evidence of an outbreak of waterborne illness;
+      
+                     (d)    suspected cross-connection or negative
+     pressure;
+      
+                     (e)    ineffective disinfection due to high
+     turbidity, equipment malfunctions or high chlorine demand.
+      
+            (2)    If an owner knows of an event listed in subsection (1),
+     the owner must take corrective action as set out in the Guidelines or
+     as otherwise required by the Minister or an administrator.
+      
+     Duty to provide safe drinking water
+     35   An owner must ensure that the microbiological, chemical and
+     physical characteristics of their public drinking water supply do not
+     exceed the maximum acceptable concentration or interim maximum
+     acceptable concentration for substances as set out in the Guidelines
+     for Canadian Drinking Water Quality.
+      
+     Classification of public drinking water supplies
+     36   (1)    A non-transient public drinking water supply must be
+     classified under Part 1 and must comply with Part 1.
+      
+            (2)    A transient public drinking water supply is not
+     required to be classified under Part 1 or to comply with Part 1.
+      
+     =====================================================================

@@ -1,0 +1,253 @@
+
+     This consolidation is unofficial and is for reference only.  For the
+     official version of the regulations, consult the original documents
+     on file with the _R_e_g_i_s_t_r_y_ _o_f_ _R_e_g_u_l_a_t_i_o_n_s, or refer to the _R_o_y_a_l
+     _G_a_z_e_t_t_e_ _P_a_r_t_ _I_I.
+     Regulations are amended frequently.  Please check the list of
+     _R_e_g_u_l_a_t_i_o_n_s_ _b_y_ _A_c_t to see if there are any recent amendments to these
+     regulations filed with the Registry that are not yet included in this
+     consolidation.
+     Although every effort has been made to ensure the accuracy of this
+     electronic version, the Registry of Regulations assumes no
+     responsibility for any discrepancies that may have resulted from
+     reformatting.
+     This electronic version is copyright © 2009, _P_r_o_v_i_n_c_e_ _o_f_ _N_o_v_a_ _S_c_o_t_i_a,
+     all rights reserved.  It is for your personal use and may not be
+     copied for the purposes of resale in this or any other form.
+
+
+      _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+     |_PP_CC_BB_ _MM_aa_nn_aa_gg_ee_mm_ee_nn_tt_ _RR_ee_gg_uu_ll_aa_tt_ii_oo_nn_ss|
+
+      made under Section 84 and other regulation making Sections of the
+                               EEnnvviirroonnmmeenntt AAcctt
+                             S.N.S. 1994-95, c. 1
+               O.I.C. 95-291 (April 11, 1995), N.S. Reg. 52/95
+       as amended by O.I.C. 97-747 (December 2, 1997), N.S. Reg. 163/97
+CCiittaattiioonn
+11 These regulations may be cited as the "PCB Management Regulations".
+DDeeffiinniittiioonnss
+22 In these regulations
+((aa)) "Act" means the Environment Act;
+((bb)) "Administrator" means a person appointed by the Minister for the purpose of
+the Act, and includes an acting Administrator;
+((cc)) "container" means any package, can, drum, tank, or other receptacle
+intended to safely hold a substance;
+((dd)) "Minister" means the Minister of the Environment;
+((ee)) "PCB equipment" means any manufactured item that contains a PCB liquid, a
+PCB solid, or a PCB substance, and includes transformers and capacitors;
+((ff)) "PCB liquid" means any liquid containing more than 50 parts per million by
+weight of PCBs;
+((gg)) "PCB solid" means any material or substance, other than a PCB liquid, that
+is a solid at ambient temperature and pressure and that contains PCBs at a
+concentration greater than 50 parts per million by weight of PCBs;
+CCllaauussee 22((gg)) aammeennddeedd:: OO..II..CC.. 9977--774477,, NN..SS.. RReegg.. 116633//9977..
+((hh)) "PCB substance" means a substance other than a PCB solid or a PCB liquid,
+that contains more than 50 parts per million by weight of PCBs;
+((ii)) "PCB waste" includes a PCB liquid, a PCB solid, a PCB substance, and PCB
+equipment that has been taken out of service for the purpose of disposal;
+((jj)) "PCBs" means those chlorinated biphenyls that have the molecular formula
+C0416667>12 H0416667>10-n Cl0416667>n in which "n" is greater than 2, as
+described in Column 1 of Item 1 of the List of Toxic Substances in Schedule 1
+to the Canadian Environmental Protection Act;
+((kk)) "storage site" means any lands or premises that are used to store PCB
+waste.
+DDeessiiggnnaattiioonn
+33 For the purposes of the Act and these regulations,
+((aa)) PCB liquids, PCB solids, and PCB substances are designated as dangerous
+goods; and
+((bb)) PCB waste is designated as waste dangerous goods.
+AAddmmiinniissttrraattoorr
+44 The Minister may appoint an Administrator to administer these regulations.
+GGeenneerraall
+55 ((11)) Subject to subsection (2), no person shall mix, dilute or adulterate a
+PCB liquid, a PCB solid, or a PCB substance with any other substance without
+the prior written approval of the Minister or an Administrator.
+((22)) PCB wastes having the same physical state may be placed within the same
+storage container if the concentration of PCBs in the combined contents of the
+container do not drop below 50 parts per million by weight of PCBs.
+((33)) No person shall dispose of a PCB liquid, a PCB solid, a PCB substance or a
+PCB waste without the prior written approval of the Minister or an
+Administrator.
+((44)) No person shall store PCB waste that that person did not produce without
+the prior written approval of the Minister or an Administrator.
+SSeeccttiioonn 55 rreeppllaacceedd:: OO..II..CC.. 9977--774477,, NN..SS.. RReegg.. 116633//9977..
+AApppplliiccaattiioonn ooff rreegguullaattiioonnss
+66 ((11)) Subject to subsection (2), these regulations apply to every storage site
+where the stored PCB waste contains more than 0.5 kg of PCBs.
+((22)) Where an adverse effect is being caused or may be caused, the Minister or
+an Administrator may apply these regulations to a storage site containing less
+than the quantity of PCB waste prescribed in subsection (1).
+((33)) Section 15 of these regulations applies to any burial of PCB waste,
+including burial in any industrial landfill designated under Section 25 of the
+AAccttiivviittiieess DDeessiiggnnaattiioonn RReegguullaattiioonnss and any landfill as defined in the SSoolliidd
+WWaassttee--RReessoouurrccee MMaannaaggeemmeenntt RReegguullaattiioonnss.
+SSuubbsseeccttiioonn 66((33)) aaddddeedd:: OO..II..CC.. 9977--774477,, NN..SS.. RReegg.. 116633//9977..
+LLooccaattiioonn ooff ssiittee
+77 An owner, operator or person responsible for a storage site shall provide an
+Administrator with the address and the location of the storage site.
+AAcccceessss ttoo ssiittee
+88 ((11)) An owner, operator or person responsible for a storage site shall ensure
+that
+((aa)) access to the storage site is controlled to prevent entry by unauthorized
+persons;
+((bb)) equipment or material not used for the handling of a PCB waste is not
+stored in or permitted to enter a storage site; and
+((cc)) a registry is maintained that contains the name, address and occupation of
+each person who is authorized to enter the storage site on a continuing basis
+as part of the normal maintenance of the storage site or for a particular
+purpose.
+((22)) No person shall enter a storage site unless that person is authorized to do
+so by the owner, operator or person responsible for the storage site and the
+name, address and occupation of that person are placed in the registry.
+SSttoorraaggee ssiittee
+99 An owner, operator or person responsible for a storage site shall ensure that
+((aa)) the floor or other surface of the storage site on which undrained PCB
+equipment or PCB liquid is stored, whether indoors or outdoors, is constructed
+of steel, concrete or other durable material;
+((bb)) where undrained PCB equipment or PCB liquid is stored on a floor or other
+surface of the storage site, the floor or surface of the storage site is
+provided with curbing or sides sufficient to contain at least twice the volume
+of the PCB liquid contained in the largest item of equipment containing PCB
+liquid on the site or 25% of the volume of all the PCB liquids on the site,
+whichever is the greater;
+((cc)) where the material of the floor or other surface described in clause (b) or
+the curbing or sides of the storage site is capable of absorbing PCBs, the
+floor, surface, curbing or sides are sealed with a durable PCB-resistant
+coating;
+((dd)) any existing floor drains, sumps or other openings in the floor are closed
+and sealed to prevent the escape of a liquid;
+((ee)) stored PCB waste is segregated from any other chemicals and, in the case of
+solvents and other flammable material is segregated by means of a fireproof
+barrier or adequate space separation;
+((ff)) an indoor storage site having a mechanical exhaust system is equipped with
+heat and smoke sensory controls that stop the fan and close the intake and
+exhaust dampers in the event of a fire;
+((gg)) where PCB liquid is stored outside, the storage area or stored item is
+covered by a waterproof roof or barrier which extends beyond the curbing or
+sides;
+((hh)) containers containing a PCB solid or PCB equipment, and all drained PCB
+equipment are structurally sound and sealed from the weather where stored
+outdoors;
+((ii)) drums used to contain PCB solids
+(i) are not of greater capacity than 205 l,
+(ii) are made of steel having a gauge of 18 or heavier,
+(iii) are painted to prevent rusting, and
+(iv) have a securely attached, removable steel lid and a gasket of PCB
+resistant material;
+((jj)) drums used to contain PCB liquids are
+(i) not of greater capacity than 205 l,
+(ii) closed double-bung drums made of steel having a gauge of 16 or heavier,
+and
+(iii) painted to prevent rusting;
+((kk)) all containers of PCB waste and all PCB equipment are placed on pallets
+except
+(i) transformers that are placed on skids,
+(ii) PCB equipment that is permanently secured to the floor or a surface, or
+(iii) PCB solids and PCB equipment placed on a floor or other surface of a
+storage site that meets the requirement of clauses (a), (b) and (c);
+CCllaauussee 99((kk)) rreeppllaacceedd:: OO..II..CC.. 9977--774477,, NN..SS.. RReegg.. 116633//9977..
+((ll)) subject to clause (m), containers of PCB waste are not stacked and are
+located in such a manner as to provide access for visual inspection from all
+sides or, where viewing from all sides is not practical, alternative monitoring
+is provided and approved in writing by an Administrator;
+CCllaauussee 99((ll)) rreeppllaacceedd:: OO..II..CC.. 9977--774477,, NN..SS.. RReegg.. 116633//9977..
+((mm)) drums of PCB waste on pallets and containers which have been specially
+designed for stacking are not stacked more than two high and are located to
+provide access for inspection from all sides.
+FFiirree pprrootteeccttiioonn aanndd eemmeerrggeennccyy pprroocceedduurreess
+1100 An owner, operator, or person responsible for a storage site shall ensure
+that
+((aa)) an emergency procedures plan, approved by an Administrator, is in effect,
+all employees are trained in its application, and a copy of the plan is
+deposited at
+(i) the local fire department,
+(ii) the storage site, and
+(iii) the place of business of the owner, operator, or the person responsible;
+((bb)) every indoor PCB storage site is equipped
+(i) with a fire alarm system, and
+(ii) with portable or flood-type fire extinguishers;
+((cc)) the chief of the local fire department or the chief's designate is provided
+with a copy of the records referred to in Section 14;
+((dd)) materials for clean-up, including adsorbents or solvents, are maintained on
+site; and
+((ee)) adequate safety equipment is available.
+MMaaiinntteennaannccee aanndd iinnssppeeccttiioonn
+1111 An owner, operator, or person responsible for a storage site shall
+((aa)) inspect the storage site monthly, including PCB equipment, floors, drains,
+drainage systems, fire prevention apparatus, personnel protection equipment,
+and security fences, and if necessary, repair or replace immediately any
+damaged or defective items; and
+((bb)) immediately repair or replace any containers or equipment found to be
+leaking PCBs and immediately clean up any contaminated area.
+LLaabbeelllliinngg rreeqquuiirreemmeennttss
+1122 An owner, operator, or person responsible for a storage site shall ensure
+that
+((aa)) capacitors containing 0.5 kg or more of PCBs shall be labelled with either
+Environment Canada's serialized black and white "ATTENTION/ CAUTION contains
+PCB" label, measuring 76 mm by 76 mm, or an alternative approved in writing by
+an Administrator;
+((bb)) electrical transformers, electromagnets and other equipment containing PCBs
+in a concentration exceeding 1% shall be labelled with either Environment
+Canada's serialized black and white "ATTENTION PCB" label, measuring 150 mm by
+150 mm, or an alternative approved in writing by an Administrator;
+((cc)) equipment containing PCBs in a concentration exceeding 50 parts per million
+by weight but not greater than 1% shall be labelled with either Environment
+Canada's "Warning Label for PCB-Contaminated Equipment", or an alterative
+approved in writing by an Administrator;
+((dd)) drums containing PCBs or material containing PCBs in a concentration
+exceeding 50 parts per million by weight shall be labelled with Environment
+Canada's non-serialized black and white "ATTENTION PCB" label, measuring 150 mm
+by 150 mm, or an alternative approved in writing by an Administrator;
+((ee)) doors to storage sites, fencing, and other security barriers enclosing
+storage sites shall be labelled with Environment Canada's non-serialized black
+and white "ATTENTION PCB" label, measuring 150 mm by 150 mm, or an alternative
+approved in writing by an Administrator.
+MMaaiinntteennaannccee ooff bbooookkss aanndd rreeccoorrddss
+1133 An owner, operator, or person responsible for a storage site shall maintain
+books and records respecting
+((aa)) an inventory of PCB waste and the quantity of PCBs contained at the storage
+site as of the effective date of these regulations;
+((bb)) each item of PCB waste received at the storage site after the effective
+date of these regulations, including
+(i) date of receipt,
+(ii) description, including nameplate description, serial number, PCB
+registration number, and quantity,
+(iii) condition,
+(iv) source,
+(v) name of the carrier, and
+(vi) name of the individual who accepted receipt;
+((cc)) each item of PCB waste removed from the storage site, including
+(i) date of removal,
+(ii) description,
+(iii) condition,
+(iv) name of the carrier,
+(v) destination, and
+(vi) name of the individual authorizing the transport; and
+((dd)) reports of monthly inspections and any action taken as required by these
+regulations or an Administrator.
+RReeppoorrttiinngg rreeqquuiirreemmeennttss
+1144 An owner, operator, or person responsible for a storage site shall submit to
+an Administrator
+((aa)) a copy of the records specified under clause 13(a) within 30 days of the
+effective date of these regulations; and
+((bb)) copies of the records specified in clauses 13(b) and 13(c) where PCB waste
+is received or removed,
+(i) on January 1 and July 1 of each year, for receipt or removal of capacitors
+containing less than 0.5 kg of PCBs per item, and not more than 1.0 kg in
+total, and
+(ii) within 30 days after the date of the receipt or removal for any other PCB
+waste.
+NNoo ddiissppoossaall bbyy llaannddffiilllliinngg oorr bbuurriiaall
+1155 ((11)) No person shall dispose of PCB waste by landfilling or burial on, from
+and after the effective date of these regulations.
+((22)) Subsection (1) does not apply to a site contaminated with PCBs for which
+permanent burial or containment, either in situ or within a facility located at
+or adjacent to the site, is approved in writing by an Administrator.
+((33)) No person, including a municipality, shall accept for disposal PCB waste in
+a landfill, on, from and after the effective date of these regulations.
+SSeeccttiioonn 1155 aaddddeedd:: OO..II..CC.. 9977--774477,, NN..SS.. RReegg.. 116633//9977..
+EEffffeeccttiivvee ddaatteess
+1166 These regulations come into force on, from and after [-t-h-e] April 11, 1995.
+OOrriiggiinnaall SSeeccttiioonn 1155 rreennuummbbeerreedd 1166:: OO..II..CC.. 9977--774477,, NN..SS.. RReegg.. 116633//9977..
+===============================================================================

@@ -1,0 +1,1556 @@
+
+
+
+
+
+_[_F_r_a_n_Á_a_i_s_]
+_R_e_t_u_r_n_ _t_o_ _L_i_s_t_ _o_f_ _A_c_t_s
+===============================================================================
+CHAPTER C-6.1
+Clean Water Act
+Assented to May 19, 1989
+Chapter Outline
+Definitions
+1
+air - air
+alteration - modification
+analyst - analyste
+animal - animal
+approval - agr√©ment
+aquifer - nappe d‚Äôeau
+body of water - eau r√©ceptrice
+contaminant - polluant
+costs - frais
+danger of pollution - risque de pollution
+Designation Order - d√©cret de d√©signation
+domestic wastewater - eaux us√©es domestiques
+environment - environnement
+ground water - eaux souterraines
+ground water recharge area - aire d‚Äôalimentation d‚Äôune nappe souterraine
+industrial waste - mati√®res us√©es industrielles
+inspector - inspecteur
+licence - licence
+Minister - Ministre
+Minister of Health - ministre de la Sant√©
+monitoring - surveillance
+municipality - municipalit√©
+order - arr√™t√©
+permit - permis
+person - personne
+pesticide - pesticide
+potable water - eau potable
+public water supply system - installation d‚Äôapprovisionnement public en eau
+recognized fording place - endroit reconnu comme passage √  gu√©
+registration - immatriculation
+release - d√©versement
+sewer - √©gout
+significant health risk - risque important pour la sant√©
+soil - sol
+solid waste - mati√®res us√©es solides
+source - source
+source of contaminant - source de pollution
+storm water - eaux pluviales
+surface water - eau de surface
+waste - mati√®res us√©es
+wastewater - eaux us√©es
+wastewater treatment facility - usine d‚Äô√©puration des eaux us√©es
+water - eau
+water supply system - installation d‚Äôapprovisionnement en eau
+watercourse - cours d‚Äôeau
+waters of the Province - eaux de la Province
+watershed - bassin hydrographique
+waterworks - ouvrage d‚Äôadduction d‚Äôeau
+well - puits
+wetland - terre humide
+
+APPLICATION OF ACT
+Application
+2
+Conflict of law
+3
+
+ACTION BY THE MINISTER
+Orders
+4, 5
+Liability
+6
+Remedial action by Minister
+7
+
+RECOVERY
+Recovery of costs
+8
+
+RESTORATION
+Restoration of land, premises and personal property
+8.1
+
+EFFECT OF ORDER OR ACTION
+Effect of order or action
+8.2
+
+GENERAL
+Crown control of water
+9
+Orders relating to contaminant or waste in or upon water
+10
+Testing of water
+11
+Authority or permission under Act of Legislature
+12(1), (2)
+Pesticides Control Act exemptions
+12(3)
+Significant health risk posed by water
+13
+Potable Water Advisory Committee
+13.1
+Protected areas
+14-14.4
+Alteration of watercourse or wetland
+15
+Well-drilling
+16
+Designation and powers of inspectors
+17
+Assistance to inspectors
+18
+Obstruction or hindrance of inspectors
+19
+Statements to inspectors
+20
+Designation of analysts
+21
+Evidence in prosecution
+22
+Certificate of analyst
+23
+Service
+24
+
+OFFENCES AND PENALTIES
+Offences and penalties
+25, 26
+Absolute liability offence
+27
+Proceedings limitation period
+28
+Restraining action by Minister
+29
+Effect of Act on civil remedy
+30
+
+LAND AND WATER ADVISORY COMMITTEE
+Land and Water Advisory Committee
+31
+Duties and powers of Committee
+32
+
+ADMINISTRATION
+Administration of Act and designation of persons
+33
+Agreements by Minister
+34
+Registrations, licences, permits and approvals
+35
+Registers
+36
+Inspection of registers
+37
+Fees, rentals and charges
+38
+Appeals
+39
+
+REGULATIONS
+Regulations
+40
+
+COMMENCEMENT
+Commencement
+41
+Her Majesty, by and with the advice and consent of the Legislative Assembly of
+New Brunswick, enacts as follows:
+
+1In this Act
+``air'' means the atmosphere but does not include the atmosphere within a
+building or within the underground workings of a mine;
+``alteration'' , when it refers to a watercourse or a wetland, means a
+temporary or permanent change made at, near or to a watercourse or wetland or
+to the water flow in a watercourse or wetland and includes
+(a)any change made to existing structures in the watercourse or wetland
+including repairs, modifications or removal, whether the water flow in the
+watercourse or wetland is altered or not,
+(b)the operation of machinery on the bed of a watercourse other than at a
+recognized fording place,
+(c)the operation of machinery in or on a wetland,
+(d)any deposit or removal of sand, gravel, rock, topsoil, organic matter or
+other material into or from a watercourse or wetland or within thirty meters of
+a wetland or the bank of a watercourse,
+(e)any disturbance of the ground within thirty metres of a wetland or the bank
+of a watercourse, except grazing by animals, the tilling, plowing, seeding and
+harrowing of land, the harvesting of vegetables, flowers, grains and ornamental
+shrubs and any other agricultural activity prescribed by regulation for the
+purposes of this paragraph, that occur more than five metres from a wetland or
+the bank of a watercourse,
+(f)any removal of vegetation from the bed or bank of a watercourse,
+(g)any removal of trees from within thirty metres of the bank of a watercourse,
+and
+(h)any removal of vegetation from a wetland or from within thirty metres of a
+wetland except the harvesting of vegetables, flowers, grains and ornamental
+shrubs and any other agricultural activity prescribed by regulation for the
+purposes of this paragraph, that occur more than five metres from a wetland;
+``analyst'' means an analyst designated under section¬ 21;
+``animal'' means a vertebrate, invertebrate or micro-organism whether living or
+dead, other than a human;
+``approval'' means an approval or certificate of approval granted or issued
+under this Act or the regulations that has not expired or been suspended or
+cancelled;
+``aquifer'' means a geological formation from which ground water can be
+withdrawn;
+``body of water'' means any body of flowing or standing water whether naturally
+or artificially created;
+``Committee''  Repealed: 1992, c.76, s.1.
+``contaminant'' means any solid, liquid, gas, micro-organism, odour, heat,
+sound, vibration, radiation or combination of any of them, present in the
+environment,
+(a)that is foreign to or in excess of the natural constituents of the
+environment,
+(b)that affects the natural, physical, chemical or biological quality or
+constitution of the environment,
+(c)that endangers the health, safety or comfort of a person or the health of
+animal life, that causes damage to property or to plant life or that interferes
+with visibility, the normal conduct of transport or business or the normal
+enjoyment of life or use or enjoyment of property, or
+(d)that is designated by the Minister of Health or the Minister as a
+contaminant under section¬ 10,
+and includes a pesticide or waste;
+``contaminated''  Repealed: 1992, c.76, s.1.
+``contamination''  Repealed: 1992, c.76, s.1.
+``costs'' includes expenses, disbursements, losses, damages and charges;
+``danger of pollution'' means
+(a)an accumulation of material at a particular location,
+(b)an artificial disturbance of land,
+(c)a material storage or disposal facility,
+(d)a transfer operation,
+(e)a transport facility, or
+(f)a pipeline, tank, drum, excavation, depression, pond or impoundment situated
+in or on the ground or in a building, whether natural or artificial and whether
+lined or unlined, for either storage or transport, as the case may be, of
+useful or waste materials,
+that could through use or misuse, seepage, leaching, accidents, leaks, breaks,
+negligence, acts of animals or persons or acts of God release contaminants
+directly or indirectly into or upon the waters of the Province and any
+application or disposal of materials or chemicals that could, directly or
+indirectly, enter the waters of the Province;
+``Designation Order'' means an Order made under subsection¬ 14(1), and includes
+any requirements imposed under subsection¬ 14(3) in relation to that Order and,
+unless otherwise indicated, any description or plan of the protected area that
+is published, registered or filed under section¬ 14 in relation to that Order;
+``domestic wastewater'' means the wastewater discharging from a residential
+building and wastewater of a like nature discharging from other buildings;
+``environment'' means the air, water or soil;
+``ground water'' means any flowing or standing water below the surface of the
+earth;
+``ground water recharge area'' means the surface area of land that acts as a
+catchment to supply a body of water or an aquifer with ground water;
+``industrial waste'' means any liquid, solid or other waste, or any combination
+of liquid, solid or other waste, resulting from a process of industry or
+manufacture or the exploration for or development of a natural resource and
+includes
+(a)storm water that has been contaminated through contact with useful or waste
+materials as a result of human activity, and
+(b)useful or waste material from a danger of pollution that becomes a
+contaminant;
+``inspector'' means an inspector designated under section¬ 17;
+``licence'' means a licence issued under this Act or the regulations that has
+not expired or been suspended or cancelled;
+``Minister'' means the Minister of Environment and includes a person designated
+by the Minister to act on the Minister‚Äôs behalf;
+``Minister of Health'' includes a person designated by the Minister of Health
+to act on that Minister‚Äôs behalf;
+``monitoring'' means auditing of or obtaining and analyzing samples;
+``municipality'' means a city, town, village, rural community or local service
+district and includes a commission that provides water or wastewater services
+normally provided by a municipality;
+``order'' means an order issued under this Act or the regulations, but does not
+include
+(a)an order issued under section 10 or 13, and
+(b)a Designation Order;
+``permit'' means a permit issued under this Act or the regulations that has not
+expired or been suspended or cancelled;
+``person'' , in addition to the meaning ascribed to it by the Interpretation
+Act, includes a municipality, Her Majesty in right of Canada and Her Majesty in
+right of New Brunswick;
+``pesticide'' means a pesticide as defined in the Pesticides Control Act;
+``potable water'' means water at a point of consumption that is being supplied
+from a well, public water supply system or water supply system and is intended
+to be used for cooking or drinking by humans;
+``public water supply system'' means a public water supply system as defined by
+regulation;
+``recognized fording place'' means a ford as indicated on the most recent 1 to
+50,000 scale maps of the National Topographic System or a place where persons
+have been fording a river, stream, creek or other flowing body of water for a
+period of at least five consecutive years;
+``registration'' means a registration under this Act or the regulations that
+has not expired or been suspended or cancelled;
+``release'' , when used with reference to a contaminant or other matter
+regardless of form, includes the discharging, emitting, leaving, depositing or
+throwing of the contaminant or other matter and the doing of or the omission to
+do any other activity in respect of the contaminant or other matter, with the
+direct or indirect result that the contaminant or other matter enters into or
+upon water, whether or not the contaminant or other matter previously existed
+in or upon the water;
+``sewage''  Repealed: 1993, c.19, s.1.
+``sewage treatment facility''  Repealed: 1993, c.19, s.1.
+``sewer'' means a drain, pipe or conduit intended to convey wastewater or storm
+water;
+``significant health risk'' , when it refers to a risk posed by water, means
+the presence in water of a contaminant or a class of contaminant, the amount,
+concentration or level of which, when attained in water by itself or in
+combination with another contaminant or any substance, in the opinion of the
+Minister of Health, endangers the health of a person in the circumstances;
+``soil'' includes land, earth and the terrain;
+``solid waste'' means waste with insufficient liquid content to be free-
+flowing;
+``source'' , when it refers to water, means the body of water from which the
+water is obtained for a well, public water supply system or water supply
+system;
+``source of contaminant'' means any activity or any real or personal property
+that releases or might release a contaminant directly or indirectly into or
+upon water and includes a danger of pollution;
+``storm water'' means rain water, or water resulting from the melting of snow
+and ice, that may contribute to the flow in a sewer;
+``surface water'' means any flowing or standing water on the surface of the
+earth;
+``waste'' includes rubbish, slimes, tailings, effluent, wastewater, fumes,
+smoke, other waste products of any kind and any other matter that is prescribed
+by regulation to be waste;
+``wastewater'' includes any industrial wastewater or domestic wastewater,
+whether treated or untreated, containing human, animal, vegetable or mineral
+matter in liquid or solid form, in suspension or in solution;
+``wastewater treatment facility'' means all or any part of a structure or
+device or any combination of structures or devices that are used or intended to
+be used for the purpose of treating, monitoring or holding wastewater and
+includes pumps, buildings, piping, controls, other equipment and their
+appurtenances;
+``water'' includes
+(a)flowing or standing water whether on or below the surface of the earth, and
+(b)the ice of any body of water;
+``water supply system'' means a works that conveys or is able to convey water
+for human consumption;
+``watercourse'' means the full width and length, including the bed, banks,
+sides and shoreline, or any part, of a river, creek, stream, spring, brook,
+lake, pond, reservoir, canal, ditch or other natural or artificial channel open
+to the atmosphere, the primary function of which is the conveyance or
+containment of water whether the flow be continuous or not;
+``waters of the Province'' means all water in the Province of New Brunswick
+and, without restricting the generality of the foregoing, includes coastal
+water within the jurisdiction of the Province, ground water and surface water;
+``watershed'' means the surface area contained within a divide above a specific
+point on a river, stream, creek or other flowing body of water;
+``waterworks'' means all or any part of a private, public, commercial or
+industrial works for the collection, production, treatment, storage, supply or
+distribution of water;
+``well'' means an artificial opening in the ground from which water is obtained
+or an opening made for the purpose of exploring for or obtaining water.
+``wetland'' means land that
+(a)either periodically or permanently, has a water table at, near or above the
+land‚Äôs surface or that is saturated with water, and
+(b)sustains aquatic processes as indicated by the presence of hydric soils,
+hydrophytic vegetation and biological activities adapted to wet conditions.
+1989, c.53, s.1; 1989, c.55, s.25; 1992, c.76, s.1; 1993, c.19, s.1; 2000,
+c.26, s.44; 2002, c.26, s.1; 2003, c.5, s.1; 2005, c.7, s.11; 2006, c.16, s.30;
+2006, c.16, s.31.
+APPLICATION OF ACT
+
+2Her Majesty in right of Canada and Her Majesty in right of New Brunswick are
+bound by the provisions of this Act.
+1993, c.19, s.2.
+
+3(1)Subject to subsection¬ (2) and except where otherwise specified, if a
+conflict exists between this Act, including, without restricting the generality
+of the foregoing, an order under section¬ 14, or any regulation made under this
+Act, and any other Act of the Legislature, whether public or private, or any
+regulation made under any other Act, this Act, including, without restricting
+the generality of the foregoing, an order under section¬ 14, and any regulation
+made under this Act prevail.
+3(2)If a conflict exists between this Act or any regulation made under this Act
+and the Health Act or any regulation made under the Health Act in a matter
+relating principally to public health, the Health Act and any regulation made
+under it prevail.
+3(3)No order, direction or requirement issued, given or imposed and no
+prosecution commenced under this Act or any regulation made under this Act is
+invalid and no action taken by the Minister under this Act or any regulation
+made under this Act is unauthorized by reason only that it might also have been
+issued, given, imposed, commenced or taken under the Clean Environment Act or
+under any regulation made under the Clean Environment Act.
+1989, c.53, s.2; 1990, c.35, s.1; 2002, c.26, s.2.
+ACTION BY THE MINISTER
+
+4(1)Subject to subsection 12(3), the Minister may, in the circumstances
+described in subsection (2), issue an order requiring the person to whom it is
+directed to do, in accordance with the directions set out in the order, one or
+more of the following:
+(a)to control or reduce the rate of release of any contaminant into or upon
+water;
+(b)to eliminate the release of any contaminant into or upon water
+(i)permanently,
+(ii)for a specified period, or
+(iii)in the circumstances set out in the order;
+(c)to alter the manner of release of any contaminant into or upon water;
+(d)to alter the procedures to be followed in the control, reduction or
+elimination of the release of any contaminant into or upon water;
+(e)to install, replace or alter any equipment or thing designed to control,
+reduce or eliminate the release of any contaminant into or upon water;
+(f)to install, replace or alter a wastewater treatment facility or waterworks
+in order to control, reduce, eliminate or remedy the release of a contaminant
+into or upon water;
+(g)to conduct any investigation, make any tests and prepare and submit to the
+Minister any reports required by the Minister; and
+(h)if a contaminant has been released into or upon water, to carry out clean-
+up, site rehabilitation, restoration of land, premises or personal property or
+other remedial action.
+4(2)The Minister may issue an order in relation to a contaminant if the
+Minister is of the opinion that
+(a)the contaminant has been, is being or may be released into or upon water at
+a rate exceeding the maximum rate established by this Act or the regulations
+for the release of that contaminant,
+(b)the contaminant has been, is being or may be released into or upon water in
+a manner prohibited under this Act or the regulations,
+(c)the release of the contaminant is prohibited under this Act or the
+regulations, or
+(d)it is in the best interests of the public to make the order, in
+circumstances where the release of the contaminant has caused, is causing or
+may cause
+(i)the natural, physical, chemical or biological quality or constitution of
+water to be affected,
+(ii)the health of human, plant or animal life or the safety or comfort of a
+human to be adversely affected,
+(iii)property or plant or animal life to be damaged or rendered unfit for use
+by persons, or
+(iv)visibility, the normal conduct of transport or business or the normal
+enjoyment of life or use or enjoyment of property to be interfered with.
+4(3)An order under subsection (1) may be directed to any one or any combination
+of the following:
+(a)the owner of the contaminant;
+(b)the person having control of the contaminant;
+(c)the person who, in the opinion of the Minister, by the person‚Äôs act or
+omission caused the release, whether directly or indirectly and whether or not
+the act or omission constituted an offence under this Act or the regulations;
+(d)a person who owns, leases, manages or has charge or control of land,
+premises or personal property that has been, is being or may reasonably be
+expected to be adversely affected by the release;
+(e)the authority having jurisdiction over the land or premises where the
+release occurred, is occurring or may occur; or
+(f)any person whose assistance is, in the opinion of the Minister, necessary in
+order to deal effectively with the release or ameliorate the situation.
+4(4)Subject to subsection 12(3), if, in the opinion of the Minister, a person
+has violated or has failed to comply with a provision of this Act or the
+regulations, the Minister may issue an order directing the person to comply
+with the provision in accordance with the directions set out in the order or to
+carry out such other action as the Minister considers necessary, including any
+action that the Minister may order to be done under subsection (1).
+4(5)An order requiring the installation, replacement or alteration of a
+wastewater treatment facility or a waterworks may include
+(a)a requirement that the person to whom the order is directed provide to the
+Minister such drawings, specifications and other information in relation to the
+facility as the Minister requires, and
+(b)a compliance schedule requiring the completion of specified stages of
+construction or specified components or actions by specified dates.
+4(6)A single order may deal with several contaminants or a combination of
+contaminants and may be directed to one or more persons.
+4(7)Except in the case of an emergency situation, an order, including an
+amendment or revocation of an order, shall be in writing and shall include
+reasons for the order.
+4(8)Each person to whom an order is directed is responsible for ensuring and
+shall ensure that all of the work directed to be performed under the order is
+carried out and all of the action directed to be taken under the order is
+taken, at the person‚Äôs own expense, whether the order is directed to one or
+more than one person and whether or not the Minister has given directions by
+order to all of the persons to whom an order may be directed.
+4(9)A person to whom an order is directed and such other persons, materials and
+equipment as that person considers necessary may enter upon any area, land,
+place or premises in order to comply with the order and may take all further
+action reasonably necessary to implement the directions contained in the order,
+and the owner or person in charge of the area, land, place or premises and any
+employees or agents of the owner or person in charge shall immediately permit
+those persons, materials and equipment to have all access reasonably necessary
+in order to implement fully and effectively the directions contained in the
+order.
+4(10)An order remains in effect until
+(a)the Minister has delivered a written notice to the persons to whom the order
+is directed, and to all other persons the Minister considers appropriate, to
+the effect that the order has been fully complied with, or
+(b)the Minister has revoked the order.
+4(11)A person to whom an order is directed may appeal in the manner provided by
+regulation, but the initiation of an appeal does not abrogate the requirement
+to comply with the order.
+4(12)An order is binding upon the heirs, successors, executors, administrators
+and assigns of the persons to whom it is directed.
+1993, c.19, s.3; 2002, c.26, s.3.
+
+5(1)Subject to subsection 12(3), if, in the opinion of the Minister, the action
+taken under an order, this Act or the regulations is not adequate, the Minister
+may order the taking of such remedial action as the Minister considers
+necessary.
+5(2)Subject to subsection 12(3), if a person to whom an order is directed fails
+or refuses to comply in whole or in part with the order or part of the order,
+the Minister, together with such persons, materials and equipment the Minister
+considers necessary, may enter upon any land or premises, using the force the
+Minister considers necessary, and may take such further action the Minister
+considers necessary to effect compliance with or to carry out the order.
+2002, c.26, s.4.
+
+6(1)Upon written demand being made by the Minister, any costs incurred by the
+Minister while taking action under section 5 or 7, including the cost of
+providing water and the cost of all persons, materials and equipment employed
+and the cost of ameliorating any adverse effect of the release of a
+contaminant, of restoring any land, premises or personal property under
+subsection 8.1(2) or of repairing any other damage whatsoever done when taking
+the action, shall be the liability of and paid by all persons
+(a)who failed or refused to comply with any order in which they were directed
+to carry out the action, or
+(b)whose act or omission caused, directly or indirectly, the release to which
+the matter relates.
+6(2)If more than one person is liable to the Minister for costs under
+subsection (1), the Minister may recover all or any portion of the costs from
+any one or any combination of those persons, notwithstanding that any court may
+have determined the distribution of liability for the costs or that those
+persons may have made an agreement establishing a distribution of the costs.
+6(3)Without restricting the generality of the costs that may be awarded in any
+application, action or other proceeding for the recovery of costs arising from
+the release or threat of release of a contaminant into or upon water, no
+defence shall lie and the quantum of costs awarded shall not be limited in any
+way, by reason only that the costs were incurred by a person to whom an order
+was directed under this Act or the regulations respecting the release, in
+relation to performing work or taking action under the order, including the
+costs of
+(a)all persons, materials and equipment employed,
+(b)ameliorating any adverse effect of the release,
+(c)restoring any land, premises or personal property under subsection 8.1(1),
+or
+(d)repairing any other damage whatsoever done in those circumstances.
+6(4)The determination by settlement, by any court or by any other means of any
+responsibility or liability in relation to the release of a contaminant shall
+in no way abrogate from the responsibility of any person to perform work or to
+carry out action in accordance with an order, to restore land, premises or
+personal property under subsection 8.1(1) or to pay the Minister as required
+under subsection (1) or (2).
+1993, c.19, s.4; 2002, c.26, s.5.
+
+7(1)Subject to subsection 12(3), where a contaminant has been, is being or may
+be released into or upon water in the circumstances described in subsection
+(3), the Minister may enter upon any area, land, place or premises, together
+with such persons, materials and equipment as the Minister considers necessary
+and using the force the Minister considers necessary, and may take such further
+action as the Minister considers necessary in order to prevent, control, reduce
+or eliminate the release of the contaminant and ameliorate the situation.
+7(2)The owner or person in charge, and any employees or agents of the owner or
+person in charge, of the area, land, place or premises entered under subsection
+(1) shall immediately permit the persons, materials and equipment to have all
+access reasonably necessary in order to deal fully and effectively with the
+situation.
+7(3)The Minister may take action under subsection (1), whether or not an order
+has previously been issued in relation to the release, if the Minister is of
+the opinion that
+(a)it is in the best interests of the public to take the action, in
+circumstances where the release of the contaminant has caused, is causing or
+may cause
+(i)the natural, physical, chemical or biological quality or constitution of
+water to be affected,
+(ii)the health of human, plant or animal life or the safety or comfort of a
+human to be affected,
+(iii)property or plant or animal life to be damaged or rendered unfit for use
+by persons, or
+(iv)visibility, the normal conduct of transport or business or the normal
+enjoyment of life or use or enjoyment of property to be interfered with,
+(b)the owner or the person having control of the contaminant
+(i)cannot readily be identified,
+(ii)has not dealt or, if so ordered, would not deal effectively with the
+release so as to prevent, control, reduce or eliminate the release or
+ameliorate the situation, or
+(iii)has requested the assistance of the Minister, and
+(c)the release cannot be dealt with effectively by means of an order or a
+further order under this Act or the regulations.
+7(4)Actions taken by the Minister under subsection (1) may include those set
+out in subsection 4(1).
+1993, c.19, s.5; 2002, c.26, s.6.
+RECOVERY
+
+8(1)If
+(a)the Minister has incurred any costs that remain unrecovered in part or in
+whole in relation to the release of a contaminant into or upon water, and
+(b)the Minister has made a written demand under subsection 6(1) where
+applicable,
+the unrecovered costs may be recovered by the Minister by action in a court of
+competent jurisdiction as a debt owed to Her Majesty in right of New Brunswick.
+8(2)No person shall make a claim for or seek to recover any costs incurred in
+relation to the release of a contaminant if the Minister has incurred
+unrecovered costs described in paragraph (1)(a) in relation to that release,
+unless that person first delivers to the Minister written notice of the action
+to be taken.
+8(3)Within sixty days after receipt of a notice under subsection¬ (2), the
+Minister may deliver written directions to the person who delivered the notice,
+requiring the person to amend pleadings where applicable and to take such
+further steps as are set out in the directions to claim and seek to recover any
+costs incurred by the Minister that remains unrecovered.
+8(3.1)If the Minister has incurred costs described in paragraph (1)(a) and the
+Minister has made a written demand under subsection 6(1) where applicable, the
+Minister may issue a certificate setting out the amount of the unrecovered
+costs and the certificate shall be delivered to all persons named in the
+certificate.
+8(3.2)Fifteen days after the day upon which a certificate issued under
+subsection (3.1) has been delivered, the Minister may file the certificate in
+The Court of Queen‚Äôs Bench of New Brunswick, and the certificate shall be
+entered and recorded in the Court, and when it is entered and recorded, the
+certificate becomes a judgment of the Court and may be entered as a judgment
+obtained in the Court against the person named in the certificate for the
+amount set out in the certificate.
+8(3.3)A person named in a certificate issued under subsection (3.1) may appeal
+both his or her liability for the unrecovered costs and the amount of the
+unrecovered costs set out in the certificate in the manner prescribed by
+regulation, and if an appeal is instituted under this subsection, the Minister
+may not file the certificate in accordance with subsection (3.2) until after
+the appeal has been determined in accordance with the regulations.
+8(4)If another person has commenced an action that includes a claim on behalf
+of Her Majesty in right of the Province, the Minister may take the steps
+necessary to assume carriage of the action in order to recover the costs
+referred to in subsection¬ (1).
+8(5)Where the Minister has incurred costs described in paragraph (1)(a) in
+relation to the release of a contaminant and a person to whom an order is
+directed is the insured under an insurance policy that provides for coverage
+for any loss or damage resulting from such a release, the insurer shall pay to
+the Minister any costs incurred by the Minister while acting under section 5 or
+subsection 8.1(2).
+8(6)The Minister may enter into an agreement to share the proceeds of an
+insurance policy to which the Minister is entitled under subsection¬ (5) on a
+pro rata basis or such other basis as the Minister considers appropriate with
+other persons who have incurred any costs in the circumstances described in
+subsection¬ (5) and the insurer shall pay the proceeds in accordance with the
+agreement.
+8(7)If an insurer has made a payment under subsection¬ (5) or (6), the payment
+shall be deemed to be a payment with respect to loss or damage resulting from
+the event for which coverage was in effect.
+8(7.1)Nothing in this section shall be deemed to require an insurer to pay the
+Minister or any other person a sum or sums totalling in excess of the coverage
+limits of an insurance policy.
+8(8)In any claim or action under this section, a certificate purporting to be
+signed by the Minister setting out the amount of the costs referred to in
+paragraph (1)(a) is, without proof of the appointment, authority or signature
+of the person purporting to have signed the certificate, admissible in evidence
+and is, in the absence of evidence to the contrary, proof
+(a)of the amount of the costs set out in the certificate, and
+(b)that the costs were made necessary or caused by the release of a contaminant
+to which the claim or action relates.
+8(9)The provisions of this section apply, with the necessary modifications, to
+any costs incurred by the Minister while
+(a)acting under a regulation under this Act in relation to the actual or
+anticipated release of a contaminant into the water,
+(b)acting in relation to a person‚Äôs failure or refusal to comply with an
+order, or
+(c)carrying out an investigation or inspection in relation to the issuance of
+an order under this Act or the regulations.
+1989, c.53, s.3; 1993, c.19, s.6; 2002, c.26, s.7.
+RESTORATION
+2002, c.26, s.8.
+
+8.1(1)A person who is directed under an order to perform work or take action
+and who does so, whether personally or by an agent, on, over or under land that
+is not owned by the person shall forthwith upon completing the work or action,
+restore the land and any premises and personal property adversely affected by
+the work or action to the condition it was in before the work or action
+commenced, to the extent reasonably practicable and at the expense of the
+person to whom the order is directed.
+8.1(2)The Minister and all persons acting on behalf of the Minister shall,
+forthwith after taking action under section 5 on, over or under land that is
+not owned by the Crown in right of the Province, restore the land and any
+premises and personal property adversely affected by the action to the
+condition it was in before the action commenced, to the extent reasonably
+practicable.
+2002, c.26, s.8.
+EFFECT OF ORDER OR ACTION
+2002, c.26, s.8.
+
+8.2The making of an order, the taking of action by the Minister under
+subsection 5(2) or section 7 or the restoring of land, premises or personal
+property under section 8.1 shall not
+(a)affect the validity or force of any other order that may be made under this
+Act or the regulations before, during or after the issuing of that order or the
+taking of that action,
+(b)be interpreted or deemed by any person or court to indicate that the release
+of a contaminant was caused, directly or indirectly, by any person to whom an
+order is directed under this Act or the regulations,
+(c)be interpreted or deemed by any person or court to bear upon or affect the
+liability in relation to the release of a contaminant of any person to whom an
+order is directed under this Act or the regulations, or
+(d)be interpreted or deemed by any person or court to bear upon or affect the
+liability of any person for any costs related to the release of a contaminant.
+2002, c.26, s.8.
+GENERAL
+
+9The control of all water within the confines of the Province is declared to
+be, and to have been at all times past, vested in the Crown in right of the
+Province and no right to use or divert water can be acquired by prescription.
+
+10(1)The Minister of Health may by order designate as a contaminant a solid,
+liquid, gas, micro-organism, odour, radiation or combination of any of them,
+when in or upon potable water or any class of potable water.
+10(2)The Minister may by order
+(a)designate as a contaminant a solid, liquid, gas, micro-organism, odour,
+heat, cold, sound, vibration, radiation or combination of any of them, when in
+or upon water that is not potable water or a class of water that is not potable
+water, and
+(b)establish the maximum amount, level or concentration of a contaminant or a
+class of contaminant that is permissible, either alone or in combination with
+another contaminant or any other substance, in or upon water that is not
+potable water or a class of water that is not potable water, which maximum
+amount, level or concentration may vary according to the manner in which the
+contaminant is released, according to the area in which it is released or is
+found or according to any other factor.
+10(3)The Regulations Act does not apply to orders made under this section.
+1989, c.55, s.25; 1992, c.76, s.2; 2000, c.26, s.44; 2002, c.26, s.9; 2006,
+c.16, s.30.
+
+11(1)Every person who bores, drills, digs or redrills the well of another
+person shall
+(a)not more than thirty days after the completion of the boring, drilling,
+digging or redrilling, file with the Minister a water well driller‚Äôs report
+in accordance with the regulations, and
+(b)pay the fee prescribed by regulation for the testing required under
+paragraph¬ (2)(a).
+11(2)The owner of a well that has been bored, drilled, dug or redrilled by
+another person shall
+(a)have a sample of the water from the well tested for the presence of
+inorganic substances and micro-organisms, and
+(b)give notice of the test results to consumers and intended consumers of the
+water,
+in accordance with the regulations.
+11(3)Every owner of a public water supply system shall have the water in the
+public water supply system tested in accordance with the regulations.
+2002, c.26, s.10.
+
+12(1)No person shall directly or indirectly release a contaminant or a class of
+contaminant into or upon the water if to do so would or could
+(a)affect the natural, physical, chemical or biological quality or constitution
+of water,
+(b)endanger the health, safety or comfort of a person or the health of animal
+life,
+(c)cause damage to property or plant life, or
+(d)interfere with visibility, the normal conduct of transport or business or
+the normal enjoyment of life or property,
+unless the person is acting under and in compliance with authority or
+permission given under an Act of the Legislature.
+12(2)Subject to subsection (3), an order may be issued and any other action may
+be taken by the Minister under this Act or the regulations respecting the
+release of a contaminant notwithstanding that the release is or may be caused
+or permitted by a person acting under authority or permission given under an
+Act of the Legislature and notwithstanding that such person is or may be acting
+in compliance with such authority or permission.
+12(3)The Minister of Health or the Minister shall not make an order or take
+action respecting the release of a contaminant under subsection 4(1), 4(4), 7
+(1), 13(3), 13(4) or 13(5) or section 14.4 if
+(a)the Minister has made an order under section¬ 25 of the Pesticides Control
+Act,
+(b)an inspector appointed under the Pesticides Control Act has made an order
+under subsection¬ 28(1) of that Act, or
+(c)the Director of Pesticides Control has taken steps under subsection¬ 30.1(2)
+of the Pesticides Control Act,
+respecting the contaminant.
+1989, c.53, s.4; 1992, c.76, s.3; 1993, c.19, s.7; 2000, c.26, s.44; 2002,
+c.26, s.11; 2006, c.16, s.30; 2006, c.16, s.31.
+
+13(1)In this section
+``private well'' means a well from which the water is used only by the owner or
+the owner‚Äôs immediate family for the purposes of the owner or the owner‚Äôs
+immediate family.
+13(2)No person shall supply water or permit water to be supplied to consumers
+from a well, public water supply system or water supply system, except a
+private well, if the water poses a significant health risk.
+13(3)Subject to subsection¬ 12(3), if the Minister of Health determines upon
+testing or believes, on other reasonable and probable grounds, that water in a
+well, public water supply system or water supply system, except a private well,
+poses a significant health risk because of the presence of a contaminant in the
+water at the source, the Minister
+(a)shall make such order as the Minister considers advisable and necessary in
+order to ensure that
+(i)access to the source of the water is closed or barred, temporarily or
+permanently,
+(ii)water is temporarily or permanently provided, and
+(iii)the significant health risk is eliminated, if the Minister is satisfied,
+after consulting with the Minister of Health, that it would be possible and
+practicable to do so, and
+(b)may order the owner of the well, public water supply system or water supply
+system
+(i)to install a new permanent well or to provide an alternate source that
+provides water of a quality and quantity at least equivalent to and that is as
+convenient as the water provided before the significant health risk occurred
+for all consumers of the water, if the Minister is satisfied, after consulting
+with the Minister of Health, that it would be impossible or impracticable to
+eliminate the significant health risk, and
+(ii)to take such further measures as the Minister considers advisable and
+necessary.
+13(4)Subject to subsection¬ 12(3), if the Minister of Health determines upon
+testing or believes, on other reasonable and probable grounds, that water in a
+well, public water supply system or water supply system, except a private well,
+poses a significant health risk because of the presence of a contaminant in the
+water at the point of consumption, the Minister of Health
+(a)shall make such order as that Minister considers advisable and necessary in
+order to ensure that
+(i)access to the source of the water is closed or barred, temporarily or
+permanently,
+(ii)water is temporarily or permanently provided, and
+(iii)the significant health risk is eliminated, if satisfied that it would be
+possible and practicable to do so, and
+(b)may order the owner of the well, public water supply system or water supply
+system
+(i)to give notice to all the consumers of the water of the significant health
+risk posed by it in accordance with directions set out in the order within the
+time period stipulated in the order,
+(ii)to provide safe water temporarily, at the owner‚Äôs expense, to all the
+consumers of the water in amounts sufficient to enable the consumers adequately
+to meet their requirements until the significant health risk is eliminated,
+(iii)to install a new public water supply system or water supply system that
+provides water of a quality and quantity at least equivalent to and that is as
+convenient as the water provided before the significant health risk occurred
+for all consumers of the water, if that Minister is satisfied that it would be
+impossible or impracticable to eliminate the significant health risk, and
+(iv)to take such further measures as the Minister of Health considers advisable
+and necessary.
+13(5)Subject to subsection¬ 12(3), if the Minister of Health determines upon
+testing or believes, on other reasonable and probable grounds, that water in a
+well, public water supply system or water supply system, except a private well,
+may in the circumstances pose a significant health risk in the future
+(a)at the source, the Minister may make such order and take such measures as
+the Minister considers advisable and necessary in order to ensure that the
+possible future significant health risk is prevented, eliminated, minimized or
+otherwise appropriately dealt with and the quality of the water is improved if
+necessary, and
+(b)at the point of consumption, the Minister of Health may make such order and
+take such measures as that Minister considers advisable and necessary in order
+to ensure that the possible future significant health risk is prevented,
+eliminated, minimized or otherwise appropriately dealt with and the quality of
+the water is improved if necessary, including the making of an order described
+in subparagraph¬ (4)(b)(i) or (ii) with the necessary modifications.
+13(6)If the Minister of Health determines upon testing or believes, on other
+reasonable and probable grounds, that water in a private well poses a
+significant health risk, that Minister shall, in accordance with the
+regulations, notify the owner of the well of the results of the testing or the
+other grounds for the belief and of the nature of the significant health risk.
+13(7)If the Minister of Health has given notice in accordance with subsection
+(6) to the owner of a private well that poses a significant health risk, the
+Minister of Health and the Minister shall not be liable for any costs arising
+from the significant health risk, while it is restricted to the water in the
+private well, by reason only that neither Minister has made an order or taken
+other measures under this Act in relation to the significant health risk.
+13(8)Sections 5, 6, 8, 8.1 and 8.2 apply with the necessary modifications to an
+order made under this section.
+1992, c.76, s.4; 2000, c.26, s.44; 2002, c.26, s.12; 2006, c.16, s.30; 2006,
+c.16, s.31.
+
+13.1(1)In this section
+``Chief Medical Officer'' means the Chief Medical Officer referred to in
+section¬ 3 of the Health Act or the person designated by the Minister of Health
+to act on behalf of the Chief Medical Officer;
+``Committee'' means the Potable Water Advisory Committee established under this
+section.
+13.1(2)There shall be a Committee to be known as the Potable Water Advisory
+Committee.
+13.1(3)The Committee shall consist of six persons, of whom
+(a)one shall be the Chief Medical Officer, who shall be chairperson,
+(b)two shall be employees of the Department of Environment, who shall be
+appointed by the Minister,
+(c)two shall be employees of the Department of Health, who shall be appointed
+by the Minister of Health, and
+(d)one shall be a member of the New Brunswick Medical Society, who shall be
+appointed by the Minister of Health.
+13.1(4)The Committee shall make recommendations to the Minister of Health and
+to the Minister
+(a)after taking into consideration the results of sampling and testing, the
+factors relevant to a particular situation, the nature of the contaminant,
+technical information, materials and advice available from expert sources and
+consultations with the owner of a well, public water supply system, water
+supply system or source from which water is obtained, in relation to the
+amount, concentration or level of a contaminant or class of contaminant which,
+when attained in the water by itself or in combination with other substances,
+renders the water a significant health risk,
+(b)in relation to the appropriate measures to be taken by the owner of a well,
+public water supply system, water supply system or source to prevent the state
+of water from developing into a significant health risk or, if a significant
+health risk has developed, to deal effectively and appropriately with the risk,
+(c)in relation to the manner of giving notice by an owner under
+subparagraph¬ 13(4)(b)(i) and the information to be included in the notice, and
+(d)in relation to any other matter established by regulation.
+13.1(5)At its first meeting, the Committee may by a majority of all its members
+establish the number that constitutes a quorum, and may change that number in
+the same manner.
+13.1(6)To carry out its duties, the Committee may make its own rules of
+procedure.
+13.1(7)The Committee may sit when and if it considers it necessary in order to
+perform its duties under this section.
+13.1(8)The Committee may consult with the owner of a well, public water supply
+system, water supply system or source, the water from which is the subject of
+consideration by the Committee, in order to arrive at recommendations in
+relation to the water.
+13.1(9)The Minister of Health and the Minister may from time to time engage as
+advisers to the Committee persons having special knowledge concerning any
+matter relating to water.
+13.1(10)The Minister of Health and the Minister may pay a reasonable
+remuneration to and reasonable travelling and out-of-pocket expenses
+necessarily incurred by members of the Committee who are not employees of the
+Province.
+13.1(11)The Minister of Health and the Minister may pay reasonable travelling
+and out-of-pocket expenses necessarily incurred by persons appearing before the
+Committee.
+1992, c.76, s.5; 2000, c.26, s.44; 2006, c.16, s.30.
+
+14(1)The Minister, with the approval of the Lieutenant-Governor in Council, may
+by a Designation Order designate as a protected area all or any portion of a
+watershed, aquifer or ground water recharge area that is used as a source of
+water for a public water supply system.
+14(2)The Minister shall provide for a commencement date in a Designation Order.
+14(3)The Minister may impose requirements in a Designation Order respecting one
+or more of the following:
+(a)the prohibition, control or limitation of any activity or thing that might
+impair the quality or the quantity of the water in a protected area;
+(b)the allocation of the use of the water in a protected area;
+(c)the prohibition, control or limitation of the use of the land in a protected
+area;
+(d)terms and conditions respecting the land or the water in a protected area;
+or
+(e)standards for the purpose of protecting the quality and quantity of the
+water in a protected area and methods of enforcing the standards.
+14(4)A Designation Order shall include
+(a)a schedule of any requirements imposed under subsection¬ (3), and
+(b)a description or plan of the protected area.
+14(4.1)Notwithstanding the Regulations Act, any publication arising from any
+requirements under that Act of a Designation Order that includes a plan of the
+protected area
+(a)shall include a notice describing the locations referred to in paragraphs
+(5)(a) and (b) where a copy of the Designation Order, including the plan, may
+be found, and
+(b)may include, instead of the plan of the protected area, a description of the
+protected area that contains sufficient detail for persons having an interest
+in property that may be affected by the Designation Order to recognize that
+their property may be so affected.
+14(5)The Minister shall, before the commencement date of a Designation Order,
+(a)file a copy of the Order in the head office of the Department of Environment
+and in the regional office of the Department of Environment situated most
+closely to the protected area,
+(b)register in the registry office of Service New Brunswick for the county or
+counties in which the protected area is situated, a copy of the Order
+accompanied by a plan that bears
+(i)the current Service New Brunswick parcel identifier numbers of every parcel
+of land situated wholly or partially within the boundaries of the protected
+area, and
+(ii)any other information that the Minister considers appropriate, and
+(c)publish a notice at least once in one or more newspapers published in the
+county or counties in which the protected area is situated or, if no newspaper
+is published in that county or counties, in a newspaper published in the
+Province and having general circulation in that county or counties.
+14(6)A notice referred to in paragraph¬ (5)(c) shall include a description or
+plan of the protected area and shall indicate that a schedule of any
+requirements imposed under subsection¬ (3) may be inspected at the head office
+of the Department of Environment and at the regional office of the Department
+of Environment specified in the notice.
+14(7)The Minister shall maintain a general register of Designation Orders at
+the head office of the Department of Environment and shall maintain a regional
+register of Designation Orders at each regional office referred to in notices
+published under paragraph¬ (5)(c) and the general and regional registers shall
+be open for inspection during normal business hours.
+14(8)A person who, on the commencement date of a Designation Order, owns or is
+proposing, developing, constructing, operating or maintaining an activity,
+thing or use that is prohibited, controlled, limited or otherwise affected by
+any requirements imposed under subsection¬ (3) shall begin complying with those
+requirements on the commencement date of the Order and shall continue to comply
+with all requirements except those from which the person has been granted an
+exemption.
+14(9)A person who, after the commencement date of a Designation Order,
+acquires, proposes or commences to develop, construct, operate or maintain an
+activity, thing or use that is prohibited, controlled, limited or otherwise
+affected by any requirements imposed under subsection¬ (3) shall comply with
+all the requirements except those from which the person has been granted an
+exemption.
+1993, c.19, s.8; 1998, c.12, s.11; 2000, c.26, s.44; 2002, c.26, s.13; 2003,
+c.5, s.2; 2006, c.16, s.30.
+
+14.1(1)A person who owns, acquires or is proposing, developing, constructing,
+operating or maintaining an activity, thing or use that is prohibited,
+controlled, limited or otherwise affected by any requirements imposed under
+subsection¬ 14(3) may ask the Minister to grant an exemption by delivering a
+request for an exemption to the Minister, at any time after the Order is made,
+on a form provided by the Minister.
+14.1(2)Upon receipt of a request under subsection¬ (1), the Minister may,
+(a)on a form provided by the Minister, grant an exemption in accordance with
+the regulations, permitting the development, construction, operation or
+maintenance of all or part of an activity, thing or use that is prohibited,
+controlled or limited by a requirement imposed in relation to a Designation
+Order, during a specified or an indefinite period of time as is set out in the
+exemption, subject to such requirements as the Minister may impose,
+(b)acquire all or a portion of the land where the activity, thing or use is
+being developed, constructed, operated or maintained, or
+(c)on a form provided by the Minister, refuse the request.
+14.1(3)The Minister shall specify in an exemption the name of the person or
+persons or the class of persons to whom all or any specified portion of the
+exemption applies, and the exemption or portion of it, as the case may be,
+shall apply
+(a)unless otherwise specified, to the heirs, assigns, successors, executors and
+administrators of those persons, and
+(b)where specified, to the employees and agents of those persons.
+14.1(4)The Minister shall set out in an exemption the Service New Brunswick
+parcel identifier number or numbers of the land to which it relates and any
+requirements imposed in relation to the exemption and shall include in or with
+it a description or plan of the land.
+14.1(5)The Regulations Act does not apply to an exemption.
+14.1(6)Subsection¬ 14(5) does not apply to an exemption.
+14.1(7)Notwithstanding subsection¬ (6), an exemption and the accompanying
+description or plan may be filed in a registry office referred to in
+paragraph¬ 14(5)(b).
+14.1(8)A person who is required to comply with requirements that are imposed in
+relation to an exemption shall comply with the requirements.
+14.1(9)A person who owns, acquires or is proposing, developing, constructing,
+operating or maintaining an activity, thing or use that is prohibited,
+controlled, limited or otherwise affected by a requirement imposed in relation
+to the order filed as New Brunswick Regulation 90-136 may apply for an
+exemption from that requirement in accordance with subsection¬ (1), but the
+person shall continue to comply with all requirements imposed in relation to
+the order except those from which the person has been granted an exemption.
+14.1(10)Subsections (2) to (8) apply with the necessary modifications to
+(a)an exemption applied for under subsection¬ (9),
+(b)a notice requesting an exemption from the order filed as New Brunswick
+Regulation 90-136 that was received by the Minister before the commencement of
+this subsection but more than sixty days after the commencement date of the
+order and to any exemption granted in relation to it after the commencement of
+this subsection, and
+(c)persons, activities, things and uses in relation to which an exemption
+referred to in paragraph¬ (a) or (b) is granted.
+1993, c.19, s.9; 1998, c.12, s.11; 2003, c.5, s.3.
+
+14.11(1)The Minister may delegate to an appropriate municipal employee the
+Minister‚Äôs authority to grant or refuse exemptions under subsection¬ 14.1(2)
+for exemption requests made under subsection¬ 14.1(1).
+14.11(2)A delegation under subsection¬ (1) shall be in writing.
+14.11(3)In a delegation under this section the Minister shall
+(a)establish the manner in which the delegate is to exercise the delegated
+authority, and
+(b)impose on the delegate any limitations, terms, conditions and requirements
+that the Minister considers appropriate.
+14.11(4)A delegate under this section shall exercise the delegated authority in
+the manner established in, and in accordance with any limitations, terms,
+conditions and requirements imposed in the delegation.
+2004, c.22, s.1.
+
+14.2(1)Land shall be deemed not to be injuriously affected by reason only that
+(a)all or any portion of it is designated or is adjacent to land that is
+designated as a protected area under section¬ 14, or
+(b)the Minister imposes any requirement under section¬ 14 in relation to all or
+any portion of it or to land adjacent to all or any portion of it,
+and no compensation shall be paid to the owner of land or any person having any
+interest in land by reason only that the land or any portion of it is, or is
+adjacent to, land that is so designated or in relation to which such a
+requirement is imposed.
+14.2(2)If a conflict exists between this section and any other provision of
+this Act, this section prevails.
+1993, c.19, s.9.
+
+14.3The Minister shall register, in accordance with paragraph¬ 14(5)(b), a copy
+of the order filed as New Brunswick Regulation 90-136 in the registry office of
+Service New Brunswick for the county or counties in which are situated the
+protected areas to which that Regulation relates.
+1993, c.19, s.9; 1998, c.12, s.11.
+
+14.4Subject to subsection 12(3), if the Minister is satisfied, on reasonable
+and probable grounds, that a person is required to comply and is failing or
+refusing to comply, in whole or in part, with a Designation Order or with
+requirements imposed in relation to an exemption or to the order filed as New
+Brunswick Regulation 90-136, the Minister may order the taking of such action
+as the Minister considers necessary to effect compliance with or to carry out
+the order or requirements, as the case may be.
+1993, c.19, s.9; 2002, c.26, s.14.
+
+15(1)A person planning a hydro-electric power project, a control dam, a river
+diversion, a drainage diversion or any other project or structure that alters a
+watercourse or a wetland or diverts all or part of a watercourse or the water
+flowing in a watercourse or a wetland shall, before undertaking or proceeding
+with the project,
+(a)provide the Minister with copies of the plans and such other documents or
+information as the Minister may require, and
+(b)subject to subsection¬ (1.1), obtain a permit issued by the Minister.
+15(1.01)The Minister may impose such terms and conditions as the Minister
+considers appropriate on a permit issued under paragraph¬ (1)(b), including
+those requiring the maintenance of a designated rate of water flow.
+15(1.1)Paragraph¬ (1)(b) does not apply to a person or a member of a class of
+persons who is exempted, in accordance with the regulations, from the
+requirement to obtain a permit or for whom the requirement has been waived in
+accordance with the regulations.
+15(1.2)The owner of a project or structure referred to in subsection¬ (1) shall
+ensure that all the original specifications of the project or structure that
+were provided to the Minister under subsection¬ (1), any terms and conditions
+imposed on any permit issued in relation to the project or structure and any
+additional or amended specifications subsequently approved by the Minister upon
+the request of the holder of the permit, are met at all times.
+15(2)The owner of a project or structure referred to in subsection¬ (1) or any
+other structure that lies within or crosses all or part of a watercourse or
+wetland shall maintain the project or structure in good repair at all times.
+15(3)Subject to the regulations, the Minister at any time may
+(a)order an inspection, by an inspector, of any project or structure referred
+to in subsection¬ (2),
+(b)order the owner or operator of the project or structure to provide such
+drawings, specifications and other documents and information as the Minister
+requires,
+(c)order the owner, operator or another person to carry out, at the expense of
+the owner or operator, such repairs or modifications to the project or
+structure as the Minister considers necessary, and
+(d)order the owner or operator to meet any terms and conditions imposed on any
+permit issued in relation to the project or structure, to meet any of the
+original specifications or to meet any additional or amended specifications
+that were approved by the Minister upon the request of the holder of the
+permit.
+15(4)Where a watercourse or wetland alteration or the work associated with it
+is not commenced, made or carried out in compliance with this Act, the
+regulations, the terms and conditions imposed on any permit that may have been
+issued for the alteration or any order, direction or demand of the Minister,
+the Minister may order the person to whom the permit is issued, or if no permit
+is issued, the person commencing, making or carrying out the alteration
+(a)to cease and desist from further work of commencing, making or carrying out
+the alteration,
+(b)to remove the alteration and any building, structure, works and chattels
+used to commence, make or carry out the alteration,
+(c)to do or cause to be done such things as are considered necessary by the
+Minister to make the alteration conform to this Act, the regulations, the terms
+and conditions imposed on any permit that may have been issued and any order,
+direction or demand of the Minister, or
+(d)to do or cause to be done such things as are considered necessary by the
+Minister to render the alteration in good repair.
+15(5)Notwithstanding subsection 4(8), if the Minister is satisfied that it is
+in the public interest that
+(a)a watercourse or wetland alteration, or
+(b)a structure or thing that lies within or crosses a watercourse or wetland,
+be removed from the watercourse or wetland and the owner cannot, in the
+Minister‚Äôs opinion, be ascertained, the Minister may order the removal of the
+alteration, structure or thing at the expense of the Province.
+1990, c.35, s.2; 1993, c.19, s.10; 2002, c.26, s.15; 2003, c.5, s.4; 2003, c.5,
+s.6.
+
+16Subject to the regulations, no person shall
+(a)engage in the business of well-drilling,
+(b)undertake the boring, drilling, digging or redrilling of a well on lands of
+which that person is not the owner or lessee, or
+(c)undertake an operation incidental to the reconditioning or abandonment of a
+well on lands of which that person is not owner or lessee,
+unless that person is the holder of the appropriate registration, licence,
+permit or approval in accordance with the regulations.
+
+17(1)The Minister may designate persons as inspectors for the purposes of this
+Act.
+17(2)An inspector, at any reasonable time and upon presentation of
+identification on a form provided by the Minister, may, for the purpose of
+administering this Act,
+(a)enter any area, land, place or premises where the inspector reasonably
+believes a contaminant was or is being or will be produced, in, into or from
+which the inspector reasonably believes a contaminant was or is being or will
+be released or that otherwise did pose, poses or could pose a threat to the
+allocation, quality or quantity of water and inspect the area, land, place or
+premises,
+(b)inspect any structure, installation, operation, plant or machinery, inspect
+and test any process of production or manufacture and any raw or manufactured
+substance or material used in or relating to the process that the inspector
+reasonably believes has been, is or will be producing or releasing a
+contaminant or otherwise did pose, poses or could pose a threat to the
+allocation, quality or quantity of water and take samples of discharges,
+deposits, effluents or emissions,
+(c)take samples of any substance or material,
+(d)enter any area, land, place or premises where the inspector reasonably
+believes that water has been, is being or will be used, contaminated or
+diverted contrary to the provisions of this Act or the regulations,
+(e)inspect any structure, installation, operation, plant or machinery and
+inspect and test any process of production or manufacture to determine whether
+water has been, is being or will be used, contaminated or diverted contrary to
+the provisions of this Act or the regulations, and
+(f)enter and inspect any area, land, place or premises that is wholly or partly
+situated on or in an area designated as a protected area under a Designation
+Order or under the order filed as New Brunswick Regulation 90-136 and
+(i)inspect any structure, installation, operation, plant or machinery that is
+situated wholly or partly on or in the area, land, place or premises, or
+(ii)inspect and test any air, water, soil, contaminant, other material
+regardless of form or process of production or manufacture that is situated
+wholly or partly on or in the area, land, place or premises.
+17(3)An inspector shall not enter a private dwelling for the purposes of this
+section unless the inspector
+(a)is acting in an emergency situation,
+(b)has the consent of a person who appears to be an adult and an occupant of
+the dwelling, or
+(c)obtains an entry warrant in accordance with the Entry Warrants Act.
+17(4)An inspector may detain for the purposes of evidence
+(a)any object, substance or material or a sample of any object, substance or
+material, and
+(b)any documentary material regardless of physical form or characteristics,
+which the inspector discovers while acting under this section and believes, on
+reasonable grounds, may afford evidence of a violation of a provision of or a
+failure to comply under this Act or the regulations.
+1989, c.53, s.5; 1993, c.19, s.11; 2002, c.26, s.16.
+
+18The owner or person in charge of any area, land, place or premises and any
+employees or agents of the owner or person in charge shall give all reasonable
+assistance to an inspector to enable the inspector to carry out the
+inspector‚Äôs duties under this Act and shall furnish the inspector with such
+information as the inspector may reasonably require.
+2002, c.26, s.17.
+
+19No person shall obstruct or hinder an inspector in the carrying out of the
+inspector‚Äôs duties under this Act.
+
+20No person shall knowingly make a false or misleading statement, either orally
+or in writing, to inspectors or other persons engaged in carrying out their
+duties under this Act.
+
+21The Minister may designate persons as analysts for the purposes of this Act.
+
+22(1)In a prosecution with respect to an offence under this Act or the
+regulations,
+(a)a statement purporting to be signed by the Minister that a person does not
+hold a registration, licence, permit or approval under this Act or the
+regulations with respect to an activity designated in the statement, or
+(b)a registration, licence, permit, approval, order, notice, certificate, plan
+or any other document purporting to be signed by the Minister or a certified
+copy of the document,
+shall be
+(c)received in evidence by any court in the Province without proof of the
+appointment, authority or signature of the person purporting to have signed it
+or the person purporting to have certified the copy,
+(d)in the absence of evidence to the contrary, proof of the facts stated in the
+document, copy or statement, and
+(e)where the name of the person referred to in the document, copy or statement
+is that of the accused, in the absence of evidence to the contrary, proof that
+the person named in the document, copy or statement is the accused.
+22(2)A document, copy or statement referred to in subsection¬ (1) shall not be
+received in evidence unless the party intending to produce it has, before the
+trial or other proceedings, given to the person against whom it is to be
+produced reasonable notice of the party‚Äôs intention, together with a copy of
+the document, copy or statement.
+22(3)Subject to subsection¬ 23(2), a person against whom a document, copy or
+statement referred to in subsection¬ (1) is produced may, with leave of the
+court, require the attendance of a person designated by the Minister for
+purposes of cross-examination.
+2002, c.26, s.18.
+
+23(1)Subject to this section, a certificate of an analyst stating that the
+analyst has analyzed or examined a sample submitted to the analyst by an
+inspector and stating the result of the analyst‚Äôs analysis or examination is
+admissible in evidence in a prosecution with respect to an offence under this
+Act or the regulations and in the absence of evidence to the contrary is proof
+of the statements contained in the certificate without proof of the
+appointment, authority or signature of the person purporting to have signed the
+certificate.
+23(2)The party against whom a certificate of an analyst is produced under
+subsection¬ (1) may, with leave of the court, require the attendance of the
+analyst for purposes of cross-examination.
+23(3)A certificate shall not be received in evidence under subsection¬ (1)
+unless the party intending to produce it has given reasonable notice of the
+intention, together with a copy of the certificate, to the party against whom
+it is intended to be produced.
+
+24(1)An order, notice or other document that is to be given to or served upon a
+person shall be sufficiently given or served
+(a)if it is served in the manner in which personal service may be made under
+the Rules of Court,
+(b)if it is mailed prepaid registered mail to the last or usual address of that
+person,
+(c)if it is mailed prepaid registered mail to the last address of that person
+reported to the Minister under this Act or the regulations, or
+(d)if it is served in any other manner or place prescribed by the regulations.
+24(2)Service by prepaid registered mail shall be deemed to be effected five
+days after the date of mailing.
+2002, c.26, s.19.
+OFFENCES AND PENALTIES
+
+25(1)Subject to subsection¬ (3), a person who violates any provision of this
+Act or the regulations or fails to comply with an order issued under this Act
+or the regulations, with a term or condition of an approval, registration,
+licence or permit granted or issued under this Act or the regulations or with a
+prohibition, control, requirement, limitation, allocation, term, condition or
+standard relating to a designation made under this Act or the regulations
+commits an offence and is liable, on conviction,
+(a)in the case of an individual, to a fine of not less than five hundred
+dollars and not more than fifty thousand dollars, and
+(b)in the case of a person other than an individual, to a fine of not less than
+one thousand dollars and not more than one million dollars.
+25(2)If a violation of a provision of or a failure to comply under this Act or
+the regulations continues for more than one day, the fine payable shall be the
+product of
+(a)the fine imposed under subsection¬ (1), and
+(b)the number of days on which the violation or failure continues.
+25(3)If a person commits an offence under this Act that is also an offence
+under the Pesticides Control Act, the person, if charged, shall be charged
+under the Pesticides Control Act.
+1993, c.19, s.12; 2002, c.26, s.20; 2008, c.11, s.6.
+
+26(1)Where, in the opinion of a judge, a person charged with an offence under
+this Act or the regulations has committed the offence for financial advantage
+or to avoid the financial burden of compliance with this Act or the
+regulations, the judge may, notwithstanding any maximum fine set for that
+offence under subsection¬ 25(1) or (2),
+(a)where the offence was committed for financial advantage, impose such fine as
+will ensure that no financial advantage is gained from the commission of the
+offence, or
+(b)where the offence was committed to avoid the financial burden of compliance
+with this Act or the regulations, impose such fine as is appropriate in the
+circumstances.
+26(2)A judge shall not impose a fine under subsection¬ (1) unless the
+prosecutor has, before the time set for the person charged to appear in court,
+notified the person that a fine under subsection¬ (1) will be sought if the
+person is convicted.
+
+27Every person other than an individual who commits an offence under this Act
+or the regulations commits an absolute liability offence.
+
+28Proceedings with respect to an offence under this Act or the regulations may
+be instituted at any time within two years after the time when the subject
+matter of the proceedings arose.
+
+29A provision of this Act or the regulations or a direction, determination,
+order, notice, registration, licence, permit, approval or requirement given,
+made, issued, served, granted or imposed by the Minister or the Lieutenant-
+Governor in Council that is contravened may, in addition to any other remedy
+and to any penalty imposed by law, be restrained in an action at the instance
+of the Minister.
+2002, c.26, s.21.
+
+30No civil remedy for an act or omission is suspended or affected by reason
+that the act or omission is an offence under this Act.
+LAND AND WATER
+ADVISORY COMMITTEE
+
+31(0.1)In this section and in section¬ 32
+``Committee'' means the Land and Water Advisory Committee established under
+this section.
+31(1)There shall be a Committee to be known as the Land and Water Advisory
+Committee.
+31(2)The Lieutenant-Governor in Council shall appoint persons who
+(a)are employed by the Province, and
+(b)represent departments, commissions, offices or other bodies that have a
+direct interest in land and water use,
+as members of the Committee.
+31(3)The Lieutenant-Governor in Council shall designate a member of the
+Committee to be chairperson and another member to be vice-chairperson.
+31(4)A majority of the members of the Committee including the chairperson or
+the vice-chairperson constitute a quorum.
+31(5)To carry out its duties, the Committee may make its own rules of
+procedure.
+31(6)The members of the Committee shall be appointed and hold office at the
+pleasure of the Lieutenant-Governor in Council.
+1989, c.53, s.6; 1992, c.76, s.6.
+
+32(1)In this section
+``department'' means a department, commission, office or other body that is
+represented on the Committee by a member.
+32(2)The duties of the Committee are
+(a)to share among its members information respecting the activities of the
+departments that relate to land and water use,
+(b)to make recommendations to the Minister concerning land and water use
+policies,
+(c)to develop methods to avoid and resolve conflicts and problems concerning
+land and water use,
+(d)to review the content and operation of this Act and the regulations and
+recommend to the Minister any amendments that, in the opinion of the Committee,
+would increase its effectiveness,
+(e)at the request of the Minister, to investigate, report on to the Minister
+and advise the Minister concerning any matter coming within this Act, and
+(f)to perform such other duties as are established by regulation.
+32(3)The Committee may sit when and if it considers it necessary to receive
+submissions from any person concerning any matter coming within this Act.
+32(4)The Minister may pay reasonable travelling and out-of-pocket expenses
+necessarily incurred by any person appearing before the Committee.
+32(5)The Minister may from time to time engage the services of persons having
+special knowledge concerning any matter being studied, investigated or reported
+on by the Committee.
+32(6)The Committee shall submit an annual report of its activities to the
+Minister, who shall lay the report before the Legislature.
+ADMINISTRATION
+
+33The Minister is responsible for the administration of this Act and may
+designate persons to act on the Minister‚Äôs behalf.
+
+34(1)The Minister may, with the approval of the Lieutenant-Governor in Council,
+enter into agreements with one or more of the following:
+(a)Canada;
+(b)a province or territory;
+(c)a state of the United States of America;
+(d)a municipality; and
+(e)any person.
+34(2)An agreement under subsection¬ (1) shall carry out the intent of this Act
+and may establish intergovernmental or other committees to co-ordinate and
+implement programs relating to the objectives of this Act and to maintain
+continuing consultation and advise on policies and programs relating to the
+objectives of this Act.
+
+35Where a registration, licence, permit or approval is required under this Act
+or the regulations the Minister may issue, transfer, suspend, cancel, renew or
+reinstate the registration, licence, permit or approval in accordance with the
+regulations.
+
+36The Minister shall maintain a register in the form considered suitable by the
+Minister in which is to be entered, with respect to each application for a
+registration, licence, permit or approval under this Act or the regulations,
+such information as the Minister considers appropriate.
+
+37The register kept under section¬ 36 shall be open for inspection at the
+Minister‚Äôs office during normal business hours by any person on payment of
+the fee established by regulation.
+
+38An applicant, a person who takes any proceedings, a holder of a registration,
+licence, permit or approval and a person who uses or diverts water shall pay
+the fees, rentals and charges established by regulation in the manner
+established by regulation.
+
+39A person whose registration, licence, permit or approval has been suspended
+or cancelled or whose application for a registration, licence, permit or
+approval or for the transfer, renewal or reinstatement of a registration,
+licence, permit or approval has been refused may appeal the suspension,
+cancellation or refusal in accordance with the regulations.
+REGULATIONS
+
+40The Lieutenant-Governor in Council may make regulations
+(a) Repealed: 1992, c.76, s.7.
+(a.1)prescribing agricultural activities for the purposes of paragraph¬ (e) or
+(h) in the definition ‚Äúalteration‚Äù;
+(b)prescribing any matter to be waste;
+(c)respecting the release, handling, disposal or removal of any class of, or
+any, contaminants, wastes, gases, liquids or solids into, from or upon water;
+(d)regulating, controlling, prohibiting, directing or providing for the
+withdrawal, use, storage and handling of water;
+(e)providing for the appeal of an order, designation or decision made under
+this Act or the regulations;
+(f)respecting the manner of appeal from orders, designations or decisions made
+under this Act or the regulations;
+(g)respecting the responsibility for and the payment and recovery of any costs
+incurred by the Minister or any person, including the costs incurred for all
+persons, materials and equipment employed and by repairing any damage done, to
+operate, rectify, control, reduce, eliminate, remove, modify, clean up,
+rehabilitate, remedy or investigate any matter or thing coming within this Act
+or the regulations;
+(h)respecting the carriage, conduct and settlement of claims and actions
+relating to matters coming within this Act and the regulations;
+(i)respecting the procedure for the collection of costs incurred by the
+Minister while acting under this Act or the regulations, including the sharing
+of proceeds where the amount available or the amount collected is not
+sufficient to satisfy all claims;
+(j)regulating, controlling, prescribing and providing for methods, standards or
+tests for determining the amount, concentration, level or presence of any
+contaminant or waste or any class of contaminant or waste in or upon water;
+(k)respecting the establishment of a water classification system;
+(k.1)classifying all or any portion of the water of a watercourse;
+(k.2)excluding all or any portion of the water of a watercourse from
+classification;
+(k.3)providing the Minister with the discretion to determine the suitability of
+classification of the water of a watercourse;
+(k.4)respecting the criteria or standards that a class of water is to meet;
+(k.5)providing the Minister with the discretion to determine whether the water
+of a watercourse meets the criteria or standards of a particular class before
+it is classified;
+(k.6)providing that the water of a watercourse may be classified into a class
+where the water is intended by the Minister to meet or eventually meet the
+standards or criteria applicable to the class of water;
+(k.7)prohibiting any activity that might impair the quality or quantity of the
+water of a watercourse that is classified;
+(k.8)respecting procedures, consultations or evaluations that are to be
+followed or undertaken before the water of a watercourse may be classified or
+excluded from a classification;
+(k.81)respecting conditions to be satisfied before the water of a watercourse
+is classified;
+(k.82)imposing restrictions on the classification of the water of a
+watercourse;
+(k.83)establishing or requiring the Minister to establish a review panel to
+provide advice to the Minister on the classification of the water of a
+watercourse;
+(k.84)prescribing the composition of a review panel, terms of office of members
+of the panel, the election or appointment of officers, the duties and
+responsibilities of the panel, the reimbursement of expenses of and the
+payments of an allowance to members of the panel when carrying out their duties
+and any other matters relating to the operation of a panel;
+(l)respecting insurance coverage or the posting of security as a condition of
+obtaining, continuing to hold, having renewed, having reinstated or
+transferring a registration, licence, permit or approval;
+(l.1)respecting the matters in relation to which the Potable Water Advisory
+Committee makes recommendations under section¬ 13.1;
+(m)respecting the designation of all or any portion of a watershed, aquifer or
+ground water recharge area as a protected area and the prohibition of, control
+of, limitation of, allocation of or imposition of terms, conditions or
+standards respecting any activity, thing or water or land use within the area
+so designated, for the purpose of protecting the quality or quantity of the
+water in the protected area;
+(n)regulating, controlling, prohibiting, directing or providing for the
+location, construction, testing, alteration, modification, use, operation,
+repairing, monitoring, inspection, discharge or removal of sources of
+contaminant, dangers of pollution, waterworks, hydro-electric projects or
+control dams;
+(o)regulating, controlling, prohibiting, directing or providing for river
+diversions, drainage diversions or alterations or diversions of all or part of
+a watercourse or wetland or the water flowing in a watercourse or wetland;
+(p)regulating, controlling or prohibiting the erection or placing of structures
+of any kind on the ice of a body of water, including providing for the removal
+of structures erected or placed contrary to the regulations;
+(q)regulating, controlling, prohibiting, directing or providing for the
+location, construction, testing, alteration, modification, operation,
+repairing, inspection or removal of structures or things that lie within or
+cross or that may lie within or cross a watercourse or wetland;
+(r)designating or authorizing the Minister to designate an area subject to
+flooding as a flood hazard area and prohibiting, restricting or limiting or
+authorizing the Minister to prohibit, restrict or limit any construction or
+development within or any alteration to the area so designated that would
+increase the risk or magnitude of flooding or would in any way alter or divert
+the flow of water within the area at any time;
+(s)establishing an advisory board in relation to
+(i)the location, spacing, construction, testing, alteration, repairing,
+sealing, capping and abandoning of wells, and
+(ii)the issue, transfer, suspension, cancellation, renewal and reinstatement of
+registrations, licences, permits and approvals for the construction, testing,
+altering, reconditioning, repairing, sealing, capping or abandoning of wells;
+(t)respecting the location, spacing, construction, testing, alteration,
+reconditioning, repairing, sealing, capping and abandoning of wells and the
+materials, methods and equipment used in constructing, testing, altering,
+reconditioning, repairing, sealing or capping wells;
+(u)respecting the content of, timing of, publishing of, service of or any other
+matter relating to any notice, order or other document that is required to be
+given or served under this Act or the regulations;
+(v)establishing the duties of the Land and Water Advisory Committee;
+(w)respecting the issue, transfer, suspension, cancellation, renewal and
+reinstatement of registrations, licences, permits and approvals;
+(w.1)respecting the exemption of persons or classes of persons from the
+requirement to obtain a permit under this Act and respecting the waiver for
+persons or classes of persons of the requirement to obtain a permit under this
+Act;
+(x)establishing or authorizing the Minister to impose terms and conditions upon
+which registrations, licences, permits and approvals may be refused, issued,
+transferred, held, suspended, cancelled, renewed and reinstated;
+(y)establishing fees and the manner of payment of fees to be paid upon the
+application for, and upon the issuance, transfer, renewal and reinstatement of,
+registrations, licences, permits and approvals;
+(z)establishing fees, rentals and charges and the manner of payment of fees,
+rentals and charges to be paid under this Act and the regulations;
+(z.1)respecting forms for the purposes of this Act and the regulations;
+(aa)respecting the duties and powers of inspectors and analysts, the taking of
+samples and the analysis of substances for the purposes of this Act and the
+regulations;
+(bb)respecting the records to be kept, the returns to be made and the
+information to be given by an owner or operator, or both, of a source of any
+class of, or any, contaminant, waterworks, well, public water supply system or
+water supply system or by any person or class of person who handles, releases,
+removes or disposes of any class of, or any, contaminant, waste, gas, liquid or
+solid into, from or upon water;
+(cc)respecting the confidentiality of documents and other information filed or
+submitted under this Act and the regulations, the period during which the
+documents and information are to be confidential and the persons to whom the
+documents and information may be disclosed; and
+(dd)defining public water supply system for the purposes of this Act and the
+regulations.
+1989, c.53, s.7; 1990, c.35, s.3; 1992, c.76, s.7; 1993, c.19, s.13; 2002,
+c.26, s.22; 2003, c.5, s.5; 2008, c.47, s.1.
+COMMENCEMENT
+
+41This Act or any provision of it comes into force on a day or days to be fixed
+by proclamation.
+N.B. Sections 1-10, 11(1), 12-40 of this Act were proclaimed and came into
+force July¬ 1, 1990.
+N.B. Subsections 11(2) and (3) of this Act were proclaimed and came into force
+February¬ 15, 1994.
+N.B. This Act is consolidated to November 1, 2009.

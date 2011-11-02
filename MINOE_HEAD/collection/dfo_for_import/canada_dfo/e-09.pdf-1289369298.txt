@@ -1,0 +1,2141 @@
+                         PLEASE NOTE
+This document, prepared by the Legislative Counsel Office, is an office
+consolidation of this Act, current to December 26, 2009. It is intended for
+information and reference purposes only.
+
+This document is not the official version of the Act. The Act and the
+amendments as printed under the authority of the Queen’s Printer for the
+province should be consulted to determine the authoritative statement of the
+law.
+
+For more information concerning the history of this Act, please see the
+Table of Public Acts.
+
+If you find any errors or omissions in this consolidation, please contact:
+
+                         Legislative Counsel Office
+                            Tel: (902) 368-4291
+                        Email: legislation@gov.pe.ca
+                           CHAPTER E-9
+
+                 ENVIRONMENTAL PROTECTION ACT
+
+
+                          INTERPRETATION
+1. In this Act                                                                  Definitions
+
+    (a) repealed by 2008,c.13,s.1;                                              agricultural crop
+
+    (a.1) repealed by 2008,c.13,s.1;                                            animal unit
+
+    (a.2) repealed by 2001,c.34,s.1;                                            basal area
+
+    (a.3) “beach” includes that portion of the shoreline land                   beach
+    commencing at
+       (i) the base of the bank or slope where the terrestrial land meets
+       the shoreline, or
+       (ii) the seaward extremity of a sand dune,
+    as may be relevant in the circumstances and extending seaward a
+    distance of three miles, and containing water, sand, gravel, rock,
+    shale or other earthen material;
+    (a.4) “broadcast” means to cast, spread, spray, or scatter seed,            broadcast
+    pesticides, or other material over an area greater than 2 square
+    metres per application;
+    (a.5) repealed by 2002,c.5,s.1;                                             buffer zone
+
+    (a.6) repealed by 2008,c.13,s.1;                                            cereal crop
+
+    (a.7) repealed by 2008,c.13,s.1;                                            clear-cut
+
+    (b) “contaminant” includes any solid, liquid, gas, waste, odour,            contaminant
+    vibration, radiation, sound, or a combination of them
+       (i) which is foreign to or in excess of the natural constituents of
+       the environment into which it is being introduced,
+       (ii) which will or may adversely affect, either directly or
+       indirectly, the natural, physical, chemical, or biological quality of
+       the environment,
+       (iii) which is or may be injurious to the health or safety of a
+       person or be damaging to property or to plant or animal life,
+       (iv) which interferes with or is likely to interfere with the comfort,
+       well-being, livelihood, or enjoyment of life of a person, or
+       (v) which is declared by regulation to be a contaminant;
+
+
+
+
+                                       1
+2                     Cap. E-9                 Environmental Protection Act
+
+
+
+contaminated site          (b.1) “contaminated site” means an area of the environment
+                           designated as a contaminated site by the Minister under subsection
+                           21.1(3);
+contaminated sites         (b.2) “contaminated sites registry” means the contaminated sites
+registry                   registry established under subsection 21.1(1);
+Department                 (c) “Department” means the Department of Environment, Energy
+                           and Forestry;
+designated material        (c.1) “designated material” means a material or product that
+                              (i) is prescribed as a designated material in the regulations, or
+                              (ii) meets the criteria for a designated material as set out in the
+                              regulations;
+discharge                  (d) “discharge” includes any drainage, deposit, release, spill, leak or
+                           emission;
+Division                   (e) repealed by 1989(2nd),c.1,s.2;
+environment                (f) “environment” includes
+                              (i) air, land and water,
+                              (ii) plant and animal, including human, life,
+                           and any feature, part, component, resource or element thereof;
+environment officer        (g) “environment officer” means a government employee so
+                           designated or appointed by the Minister;
+environmental              (h) “environmental health” means those aspects of human health that
+health                     are or can be affected by contaminants or changes in the
+                           environment;
+excavation pit             (i) “excavation pit” means any excavation in the ground opened for
+                           the purpose of searching for or removing clay, gravel, sand, shale,
+                           subsoil, topsoil, rock or any other surface or subterranean deposit,
+                           but does not include an excavation made within the boundaries of a
+                           highway;
+farm field                 (i.01) repealed by 2008,c.13,s.1;
+forage crop                (i.1) repealed by 2002,c.5,s.1;
+forested riparian          (i.2) repealed by 2008,c.13,s.1;
+zone
+frost seeding              (i.3) repealed by 2008,c.13,s.1;
+headland                   (i.03) repealed by 2002,c.5,s.1;
+heavy equipment            (i.4) repealed by 2008,c.13,s.1;
+intensive livestock        (i.5) repealed by 2008,c.13,s.1;
+operation
+landlocked pond            (i.6) repealed by 2008,c.13,s.1;
+
+                                                              2
+                    Environmental Protection Act               Cap. E-9                         3
+
+
+
+(j) “litter” as a verb, means to discard trash, garbage, rubbish or any
+                                                                          litter
+other objects, and, as a noun, means trash, garbage or other objects
+so discarded;
+                                                                          livestock
+(j.1) “livestock” includes, but is not limited to, animals commonly
+referred to as cows, cattle, swine, horses, sheep, goats and poultry;
+(k) “Minister” means the Minister of Environment, Energy and              Minister
+Forestry;
+(l) “motor vehicle” means a vehicle that is powered, drawn,               motor vehicle
+propelled or driven by any means other than muscular power;
+(m) “municipality” has the same meaning as in the Municipalities          municipality
+Act R.S.P.E.I. 1988, Cap. M-13 but includes the City of
+Charlottetown and the City of Summerside;
+(n) repealed by 1991,c.10,s.1;                                            person
+
+(n.1) repealed by 2008,c.13,s.1;                                          perimeter coastline
+
+(n.11) “recyclable material” means a material or product that             recyclable material
+   (i) is prescribed as a recyclable material in the regulations, or
+   (ii) meets the criteria for a recyclable material as set out in the
+   regulations;
+(n.12) “recycling” means the practice of accepting, collecting,           recycling
+storing, sorting, handling, and preparing for transport or
+transporting, recyclable material for the purpose of the use or
+incorporation of the material in the manufacture of secondary
+products, and includes
+   (i) compacting,
+   (ii) bundling,
+   (iii) baling,
+   (iv) shredding, and
+   (v) crushing;
+(n.13) “recycling facility” means a facility or place where recyclable    recycling facility
+material is
+   (i) accepted and stored, and
+   (ii) handled, collected, sorted or prepared for transport,
+   for the purpose of the use, reuse or incorporation of the material
+   in the manufacture of secondary products;
+(n.2) repealed by 2008,c.13,s.1;                                          row crop
+
+(o) “sand dune” means a wind or wave-deposited formation of               sand dune
+vegetated or drifting wind-blown sand that lies generally parallel to
+and landward of the beach and between the upland limit of the beach
+and the foot of the most inland dune slope;
+
+                                 3
+4                     Cap. E-9                 Environmental Protection Act
+
+
+
+                           (o.1) repealed by 2008,c.13,s.1;
+selection harvest
+source of                  (o.2) “source of contaminant” means anything that discharges a
+contaminant                contaminant into the environment;
+under seeded cereal        (o.3) repealed by 2008,c.13,s.1;
+crop
+undertaking                (p) “undertaking” includes any construction, industry, operation or
+                           other project or any alteration or modification of any existing
+                           undertaking which will or may
+                              (i) cause the emission or discharge of any contaminant into the
+                              environment,
+                              (ii) have an effect on any unique, rare or endangered feature of
+                              the environment,
+                              (iii) have a significant effect on the environment or necessitate
+                              further development which is likely to have a significant effect on
+                              the environment, or
+                              (iv) cause public concern because of its real or perceived effect or
+                              potential effect on the environment,
+                           but excludes all undertakings mentioned in sections 10, 12 and 13;
+waste                      (p.1) “waste” includes materials discarded by persons in the course
+                           of their daily activities at home or at commercial businesses,
+                           industries and institutions or other related activities;
+waste management
+                           (p.2) “waste management” means a system or process for the
+                           collection, transportation, separation, treatment or disposal of waste
+                           and includes disposal sites and landfill sites;
+waste treatment            (q) “waste treatment system” means any plant or installation used, or
+system                     intended to be used to treat a contaminant prior to disposal on land,
+                           or into air or water and includes a sewerage system;
+water                      (r) “water” includes liquid and frozen surface and ground water;
+watercourse                (s) “watercourse” means an area which has a sediment bed and may
+                           or may not contain water, and without limiting the generality of the
+                           foregoing, includes the full length and width of the sediment bed,
+                           bank and shore of any stream, spring, creek, brook, river, lake, pond,
+                           bay, estuary or coastal body, any water therein, and any part thereof,
+                           up to and including the watercourse boundary;
+watercourse                (s.1) repealed by 2001,c.34,s.1;
+boundary
+water supply system        (t) “water supply system” means a water works for the collection,
+                           treatment, purification, storage, supply or distribution of water to
+                               (i) five or more households, or
+                               (ii) a public building or place of assembly;
+well                       (u) “well” means an artificial opening in the ground
+
+                                                              4
+                        Environmental Protection Act               Cap. E-9                      5
+
+
+
+       (i) from which water is obtained, or
+       (ii) made for the purpose of exploring for or obtaining water;
+    (u.1) “well-head protection area” means the surface and sub-surface       well head protection
+    area surrounding a well, supplying any water supply system, through       area
+
+    which contaminants may or are reasonably likely to move toward
+    and reach such well;
+    (v) “wetland” means                                                       wetland
+       (i) an area which contains hydric soil, aquatic or water-tolerant
+       vegetation, and may or may not contain water, and includes any
+       water therein and everything up to and including the wetland
+       boundary, and
+       (ii) without limiting the generality of the foregoing, includes any
+       area identified in the Prince Edward Island Wetland Inventory as
+       open water, deep marsh, shallow marsh, salt marsh, seasonally
+       flooded flats, brackish marsh, a shrub swamp, a wooded swamp, a
+       bog or a meadow;
+    (w) repealed by 2008,c.13,s.1. 1988,c.19,s.1; 1989(2nd),c.1,s.2;          wetland boundary
+    1991,c.10,s.1;    1992,c.21,s.1;     1993,c.29,s.4;    1997,c.20,s.3;
+    1999,c.24,s.1;     2000,c.5,s.3;     2001,c.34,s.1;      2002,c.5,s.1;
+    2004,c.36,s.3; 2004,c.30,s.1; 2008,c.13,s.1; 2009,c.69,s.1.
+
+                               PURPOSE
+2. The purpose of this Act is to manage, protect and enhance the              Purpose
+environment. 1988,c.19,s.2.
+
+                          ADMINISTRATION
+3. (1) The Minister may take such action as he considers necessary in         Powers of Minister
+order to manage, protect or enhance the environment including
+     (a) investigating and inquiring into any activity or situation that
+     causes, appears to be the cause of, or may cause, contamination of
+     the environment;
+     (b) coordinating the work and efforts of public departments, boards,
+     commissions, agencies and interest groups in the province respecting
+     management of the environment;
+     (c) preparing and publishing policies, strategies, objectives and
+     standards;
+     (d) planning, designing, constructing, operating and maintaining
+     works and undertakings;
+     (e) exercising exclusive control over
+
+
+
+
+                                     5
+6                   Cap. E-9                  Environmental Protection Act
+
+
+
+                            (i) the quality, use, protection or alteration of all surface, ground
+                            and shore waters and all beaches, sand dunes, and wetlands
+                            within the jurisdiction of the province,
+                            (ii) the allocation of the use of water,
+                            (iii) preservation of the environment within the jurisdiction of the
+                            province;
+                         (f) entering into agreements;
+                         (g) delegating any of his functions under this Act or the regulations;
+                         (h) performing such other functions as may be assigned to him by
+                         the Lieutenant Governor in Council.
+Environmental         (2) For the purpose of increasing environmental awareness in the
+awareness program   province, the Minister may support and encourage the development of
+                    educational programs respecting environmental management.
+                    1988,c.19,s.3; 1992,c.21,s.2.
+Council             4. (1) The Lieutenant Governor             in   Council   may   appoint   an
+                    Environmental Advisory Council.
+Functions             (2) The Council shall
+                        (a) serve as an advisory board to the Minister;
+                        (b) perform such functions as may be prescribed by regulations.
+Composition            (3) The Council shall consist of not less than ten and not more than
+                    fifteen members appearing to the Minister to be representative of the
+                    public, including representation of the interests of agriculture, tourism,
+                    fisheries and industry and one member nominated by the Federation of
+                    Prince Edward Island Municipalities.
+Powers of Cabinet     (4) The Lieutenant Governor in Council
+                        (a) shall designate a chairman and vice-chairman of the Council
+                        from the membership thereof;
+                        (b) may authorize payment of a daily allowance and expenses to
+                        members of the Council;
+                        (c) may appoint local advisory boards for specified areas, or
+                        designate an existing board, commission, or other body as a local
+                        advisory board.
+Term of office        (5) Members of the Council shall be appointed for such term as the
+                    Lieutenant Governor in Council may determine in the case of each
+                    member and, subject to subsection (6), are eligible for reappointment.
+Reappointment         (6) A person who has served two consecutive terms as a member of the
+                    Council is not, during the twelve months following the completion of his
+                    second term, eligible for reappointment to the Council.
+
+
+
+                                                           6
+                         Environmental Protection Act            Cap. E-9                         7
+
+
+
+  (7) Where a member dies, retires or is removed from office, the
+                                                                            Vacancies
+Lieutenant Governor in Council may appoint a person to serve the
+unexpired term of that member.
+  (8) The Council shall submit annual reports to the Minister on matters    Annual reports
+dealt with by the Council including
+    (a) submissions received by the Council;
+    (b) investigations conducted by the Council;
+    (c) reports made by the Council;
+    (d) recommendations of the Council.
+  (9) Upon receiving an annual report from the Council, the Minister        Tabling report
+shall lay the report before the next ensuing session of the Legislature.
+  (10) The Council may, with the approval of the Minister, engage the       Specialist services
+services of persons having special technical or other knowledge in
+connection with any public hearing, investigation or study under this
+Act. 1988,c.19,s.4; 1992,c.21,s.3.
+5. Repealed by 2008,c.13,s.2. 1988, c.19, s.5; 2008,c.13,s.2.               Environmental
+                                                                            Coordinating
+                                                                            Committee
+
+6. (1) Repealed by 1989(2nd),c.1,s.2.                                       Environmental
+                                                                            Management
+                                                                            Division
+
+  (2) Repealed by 1991,c.10,s.2.                                            Functions
+                                                                            Environment
+ (3) The Minister may designate persons, by notice published in the         officers
+Gazette, as environment officers.
+  (4) The function of an environment officer is to enforce such             Function
+requirements of this Act and the regulations as the Minister may
+authorize.
+  (5) The following persons are environment officers by virtue of their     Environment
+office:                                                                     officers
+
+     (a) any officer or member of the Royal Canadian Mounted Police;
+     (b) a conservation officer appointed under the Wildlife Conservation
+     Act R.S.P.E.I. 1988, Cap. W-4.1;
+     (c) a fisheries officer appointed under the Fisheries Act (Canada)
+     R.S.C. 1985, c. F-14.
+  (6) A copy of an identification card purporting to be signed by the       Identification
+Minister is prima facie proof that the individual named therein is an
+environment officer. 1988,c.19,s.6; 1989(2nd),c.1,s.2; 1991,c.10,s.2;
+2008,c.13,s.3.
+
+
+                                      7
+8                   Cap. E-9                 Environmental Protection Act
+
+
+
+                    7. (1) This section applies to natural persons.
+Application
+Orders                (2) Where the Minister or an environment officer believes, on
+                    reasonable and probable grounds,
+                        (a) that a contaminant has been, is being, or is going to be,
+                        discharged into the environment, or, otherwise, that an act or
+                        omission of a natural person is or may be a contravention of this Act
+                        or the regulations or otherwise be a threat to the environment or
+                        environmental health; and
+                        (b) that it is necessary or advisable for the protection of the
+                        environment or the prevention or control of danger to human life or
+                        health or of damage to property,
+                    the Minister or the environment officer, as the case may be, may issue an
+                    environmental protection order to
+                        (c) the natural person who is the owner or previous owner of the
+                        contaminant or the source of the contaminant;
+                        (d) the natural person who is or was in occupation of the
+                        contaminant or the source of the contaminant;
+                        (e) the natural person who has, or had, the charge, management, or
+                        control of the contaminant or the source of the contaminant;
+                        (f) the natural person whose act or omission is or may be a
+                        contravention of this Act or the regulations or otherwise be a threat
+                        to the environment or environmental health; or
+                        (g) one or more of the above persons.
+Terms, conditions
+and requirements       (3) An environmental protection order issued pursuant to subsection
+                    (2) may specify terms and conditions, including time limits, and may
+                    require the natural person to whom it is directed, at his own cost, if any,
+                    to
+                         (a) meet with a representative of the Department and other persons
+                         for such purposes as may be required by the environmental
+                         protection order;
+                         (a.1) permit inspection;
+                         (b) permit testing and sampling;
+                         (c) carry out inspections, testing, and sampling, including
+                         professional hydro-geological or engineering investigations, to
+                         determine the extent and effects of the contaminant;
+                         (d) cease an activity specified in the environmental protection order
+                         either permanently or for a period of time, as specified in the
+                         environmental protection order;
+                         (e) clean, repair, and restore the area affected by the contaminant to
+                         the extent indicated in the environmental protection order or,
+                         otherwise, to the satisfaction of the Minister;
+                         (f) take specified action to prevent or avoid danger to human life or
+                         health or damage to property or to protect the environment;
+
+                                                          8
+                         Environmental Protection Act               Cap. E-9                        9
+
+
+
+    (g) submit a written report with respect to his activities pursuant to
+    clauses (c), (e) and (f);
+    (h) do any or all of those things specified in clauses (a) to (g) either
+    forthwith or as of the future date specified in the environmental
+    protection order.
+  (4) For the purpose of investigating threats to the environment or           Powers of
+environmental health or otherwise ensuring compliance with this Act or         environment
+                                                                               officers
+the regulations, an environment officer, or a peace officer may
+     (a) subject to subsections (5), (6) and (7), at any reasonable time,
+     enter and inspect any place in which he believes on reasonable
+     grounds there is a contaminant or any other thing in respect of which
+     this Act or the regulations apply;
+     (b) examine any contaminant or suspected contaminant, or any other
+     thing in respect of which this Act or the regulations apply and take
+     samples of it;
+     (c) require any natural person to produce for inspection or copying,
+     in whole or in part, any record or other document that the
+     environment officer or peace officer believes on reasonable grounds
+     contains any information relevant to the administration of this Act or
+     the regulations; and
+     (d) conduct any tests or analyses or take any measurements.
+  (5) An environment officer or a peace officer may not enter a                Entry to dwelling-
+dwelling-place except with the consent of the occupant of the dwelling-        place
+
+place or under the authority of a warrant.
+                                                                               Authority to issue
+  (6) Where on ex parte application a justice is satisfied by information      warrant
+on oath that
+    (a) the conditions for entry described in subsection (4) exist in
+    relation to a dwelling-place;
+    (b) entry to the dwelling-place is necessary for any purpose relating
+    to the administration of this Act or the regulations; and
+    (c) entry to the dwelling-place has been refused or there are
+    reasonable grounds to believe that entry will be refused,
+the justice may at any time sign and issue a warrant authorizing the
+environment or peace officer named in the warrant to enter the dwelling-
+place, subject to any conditions that may be specified in the warrant.
+  (7) An environment officer who executes a warrant shall not use force        Use of force
+unless he is accompanied by a peace officer and the use of force is
+specifically authorized in the warrant.
+  (8) Where an environment officer or a peace officer believes on              Seizure
+reasonable grounds that an offence under this Act or the regulations has
+been committed, he may seize and detain any thing
+
+                                      9
+10                     Cap. E-9                Environmental Protection Act
+
+
+
+                            (a) by means of or in relation to which he believes on reasonable
+                            grounds the offence was committed; or
+                            (b) that he believes on reasonable grounds will afford evidence in
+                            respect of the commission of an offence under this Act or the
+                            regulations.
+Warrant                  (9) Where on ex parte application a justice is satisfied by information
+                       on oath that there are reasonable grounds to believe that there is in any
+                       place any thing
+                           (a) by means of or in relation to which an offence under this Act or
+                           the regulations has been committed or is suspected of having been
+                           committed; or
+                           (b) that there are reasonable grounds to believe will afford evidence
+                           in respect of the commission of an offence under this Act or the
+                           regulations,
+                       the justice may at any time sign and issue a warrant authorizing the
+                       environment officer or peace officer named in the warrant to enter and
+                       search the place for the thing and, subject to any conditions that may be
+                       specified in the warrant, to seize and detain it.
+Things liable to         (10) The environment officer or peace officer who executes a warrant
+seizure                may exercise the powers described in subsection (4) and may seize and
+                       detain, in addition to any thing mentioned in the warrant, any other thing
+                           (a) by means of or in relation to which the inspector believes on
+                           reasonable grounds an offence under this Act or regulations has
+                           been committed; or
+                           (b) that the inspector believes on reasonable grounds will afford
+                           evidence in respect of the commission of an offence under this Act.
+Execution of              (11) A warrant shall be executed by day unless the justice authorizes
+warrant                its execution by night.
+Where warrant not        (12) A peace officer or an environment officer may exercise any of the
+necessary              powers referred to in subsections (9) and (10) without a warrant if the
+                       conditions for obtaining a warrant exist, but, by reason of exigent
+                       circumstances, it would not be practical to obtain a warrant.
+Notice of reason for     (13) A peace officer or environment officer who seizes and detains a
+seizure                thing under this Act or the regulations shall, as soon as is practicable,
+                       advise the owner of the thing or the natural person having possession,
+                       care, or control of it at the time of its seizure, of the reason for the
+                       seizure.
+Storage, removal         (14) A peace officer or environment officer who seizes and detains a
+etc.                   thing under this Act or the regulations or any person designated by such
+                       officer, may
+
+
+                                                           10
+                         Environmental Protection Act               Cap. E-9                      11
+
+
+
+    (a) store, treat, or dispose of the thing at the place where it was
+    seized or move it to any other place for storage, treatment, or
+    disposition; or
+    (b) recommend to the Minister that an environmental protection
+    order be issued pursuant to subsection (2) directing the natural
+    person who owns or had the possession, care, or control of it at the
+    time of its seizure, to store, treat, or dispose of it or move it to any
+    other place and store, treat, or dispose of it, in which case the
+    Minister may make such an environmental protection order.
+  (15) Subject to subsection (16), a thing that is seized and detained         Detention
+under this Act shall not be detained after
+    (a) a determination by a peace officer or an environment officer that
+    the thing or use of it is in conformity with the Act or regulations or
+    will not afford evidence in respect of a commission of an offence
+    under this Act or the regulations; or
+    (b) the expiration of one hundred and eighty days after the day of
+    seizure,
+unless before that time proceedings are instituted in relation to the thing,
+in which case the thing may be detained until the proceedings are finally
+concluded.
+  (16) Where the Minister believes on reasonable and probable grounds          Disposal of
+that a thing is a threat to the environment or environmental health, or        forfeited things
+
+where proceedings mentioned in subsection (15) are instituted within the
+time provided in that subsection, and at the final conclusion thereat the
+court orders the forfeiture of the thing that was seized and detained, the
+Minister may dispose of the thing as he sees fit.
+  (17) Where subsection (16) does not apply, the thing shall be returned       Return of things
+to the natural person who owns the thing or who had the possession, care       seized where no
+                                                                               forfeiture ordered
+or control of it at the time of its seizure.
+  (18) A sample taken under this Act or regulations may be disposed of         Samples,
+in such manner as the Minister considers appropriate.                          disposition of
+
+
+  (19) The Crown, nor any agent or employee thereof is not liable for          Liability
+any costs, loss or damage, resulting from the exercise in good faith of
+powers pursuant to this Act or the regulations.
+  (20) An environmental protection order issued pursuant to subsection         Order to bind
+(2) shall run with the land and shall be binding upon the successor or         successors in title
+
+assignee of the natural person to whom it is directed.
+  (21) Upon the written request of any person as to whether an                 Copies of order on
+environmental protection order has been issued against a particular            request
+
+person, the Minister shall provide the information and if an
+
+                                     11
+12                  Cap. E-9                 Environmental Protection Act
+
+
+
+                    environmental protection order has been issued, make a copy available.
+                    1991,c.10,s.3; 1995,c.11,s.1; 2005,c.32.s.1; 2006,c.5,s.1; 2008,c.13,s.4.
+Application         7.1 (1) This section applies to corporations.
+Orders                (2) Where the Minister or an environment officer believes, on
+                    reasonable and probable grounds,
+                        (a) that a contaminant has been, is being, or is going to be,
+                        discharged into the environment, or, otherwise, that an act or
+                        omission of a corporation is or may be a contravention of this Act or
+                        the regulations or otherwise be a threat to the environment or
+                        environmental health; and
+                        (b) that it is necessary or advisable for the protection of the
+                        environment or the prevention or control of danger to human life or
+                        health or of damage to property,
+                    the Minister or the environment officer, as the case may be, may issue an
+                    environmental protection order to
+                        (c) the corporation which is the owner or previous owner of the
+                        contaminant or the source of the contaminant;
+                        (d) the corporation which is or was in occupation of the contaminant
+                        or the source of the contaminant;
+                        (e) the corporation which has, or had, the charge, management, or
+                        control of the contaminant or the source of the contaminant;
+                        (f) the corporation whose act or omission is or may be a
+                        contravention of this Act or the regulations or otherwise be a threat
+                        to the environment or environmental health; or
+                        (g) one or more of the above persons.
+Terms, conditions     (3) An environmental protection order issued pursuant to subsection
+and requirements    (2) may specify terms and conditions, including time limits, and may
+                    require the corporation to whom it is directed, at its own cost, if any, to
+                        (a) meet with a representative of the Department and other persons
+                        for such purposes as may be required by the environmental
+                        protection order;
+                        (a.1) permit inspection;
+                        (b) permit testing and sampling;
+                        (c) carry out inspections, testing, and sampling, including
+                        professional hydro-geological or engineering investigations, to
+                        determine the extent and effects of the contaminant;
+                        (d) cease an activity specified in the environmental protection order
+                        permanently or for the period of time specified in the environmental
+                        protection order;
+                        (e) clean, repair, and restore the area affected by the contaminant to
+                        the extent indicated in the environmental protection order or,
+                        otherwise, to the satisfaction of the Minister;
+
+
+                                                         12
+                        Environmental Protection Act              Cap. E-9                    13
+
+
+
+    (f) take specified action to prevent or avoid danger to human life or
+    health or damage to property or to protect the environment;
+    (g) submit a written report with respect to its activities pursuant to
+    clauses (c), (e) and (f);
+    (h) do any or all of those things specified in clauses (a) to (g)
+    forthwith or as of the future date specified in the environmental
+    protection order.
+  (4) For the purpose of investigating threats to the environment or         Powers of
+environmental health or otherwise ensuring compliance with this Act or       environment
+                                                                             officers
+the regulations, an environment officer, or a peace officer may,
+     (a) subject to subsections (5), (6) and (7), at any reasonable time,
+     enter and inspect any place in which he believes on reasonable
+     grounds there is a contaminant or any other thing in respect of which
+     this Act or the regulations apply;
+     (b) examine any contaminant or suspected contaminant, or any other
+     thing in respect of which this Act or the regulations apply and take
+     samples of it;
+     (c) require any corporation to produce for inspection or copying, in
+     whole or in part, any record or other document that the environment
+     officer or peace officer believes on reasonable grounds contains any
+     information relevant to the administration of this Act or the
+     regulations; and
+     (d) conduct any tests or analyses or take any measurements.
+  (5) An environment officer or a peace officer may not enter a              Entry to dwelling-
+dwelling-place except with the consent of the occupant of the dwelling-      place
+
+place or under the authority of a warrant.
+  (6) Where on ex parte application a justice is satisfied by information    Authority to issue
+on oath that                                                                 warrant
+
+    (a) the conditions for entry described in subsection (4) exist in
+    relation to a dwelling-place;
+    (b) entry to the dwelling-place is necessary for any purpose relating
+    to the administration of this Act or the regulations; and
+    (c) entry to the dwelling-place has been refused or there are
+    reasonable grounds to believe that entry will be refused,
+the justice may at any time sign and issue a warrant authorizing the
+environment or peace officer named in the warrant to enter the dwelling-
+place, subject to any conditions that may be specified in the warrant.
+  (7) An environment officer who executes a warrant shall not use force      Use of force
+unless he is accompanied by a peace officer and the use of force is
+specifically authorized in the warrant.
+
+
+
+                                    13
+14                     Cap. E-9                 Environmental Protection Act
+
+
+
+                         (8) Where an environment officer or a peace officer believes on
+Seizure
+                       reasonable grounds that an offence under this Act or the regulations has
+                       been committed, he may seize and detain any thing
+                           (a) by means of or in relation to which he believes on reasonable
+                           grounds the offence was committed; or
+                           (b) that he believes on reasonable grounds will afford evidence in
+                           respect of the commission of an offence under this Act or the
+                           regulations.
+Warrant                  (9) Where on ex parte application a justice is satisfied by information
+                       on oath that there are reasonable grounds to believe that there is in any
+                       place any thing
+                           (a) by means of or in relation to which an offence under this Act or
+                           the regulations has been committed or is suspected of having been
+                           committed; or
+                           (b) that there are reasonable grounds to believe will afford evidence
+                           in respect of the commission of an offence under this Act or the
+                           regulations,
+                       the justice may at any time sign and issue a warrant authorizing the
+                       environment officer or peace officer named in the warrant to enter and
+                       search the place for the thing and, subject to any conditions that may be
+                       specified in the warrant, to seize and detain it.
+Things liable to
+seizure                  (10) The environment officer or peace officer who executes a warrant
+                       may exercise the powers described in subsection (4) and may seize and
+                       detain, in addition to any thing mentioned in the warrant, any other thing
+                           (a) by means of or in relation to which the inspector believes on
+                           reasonable grounds an offence under this Act or regulations has
+                           been committed; or
+                           (b) that the inspector believes on reasonable grounds will afford
+                           evidence in respect of the commission of an offence under this Act.
+Execution of              (11) A warrant shall be executed by day unless the justice authorizes
+warrant                its execution by night.
+Where warrant not        (12) A peace officer or an environment officer may exercise any of the
+necessary              powers referred to in subsections (9) and (10) without a warrant if the
+                       conditions for obtaining a warrant exist, but, by reason of exigent
+                       circumstances, it would not be practical to obtain a warrant.
+Notice of reason for     (13) A peace officer or environment officer who seizes and detains a
+seizure                thing under this Act or the regulations shall, as soon as is practicable,
+                       advise the owner of the thing or the corporation having possession, care,
+                       or control of it at the time of its seizure, of the reason for the seizure.
+
+
+
+
+                                                            14
+                         Environmental Protection Act               Cap. E-9                      15
+
+
+
+  (14) A peace officer or environment officer who seizes and detains a
+                                                                               Storage, removal
+thing under this Act or the regulations or any person designated by such       etc.
+officer, may
+     (a) store, treat, or dispose of the thing at the place where it was
+     seized or move it to any other place for storage, treatment, or
+     disposition; or
+     (b) recommend to the Minister that an environmental protection
+     order be issued pursuant to subsection (2) directing the corporation
+     which owns or had the possession, care, or control of it at the time of
+     its seizure, to store, treat, or dispose of it or move it to any other
+     place and store, treat, or dispose of it, in which case the Minister
+     may make such an environmental protection order.
+  (15) Subject to subsection (16), a thing that is seized and detained         Detention
+under this Act shall not be detained after
+    (a) a determination by a peace officer or an environment officer that
+    the thing or use of it is in conformity with the Act or regulations or
+    will not afford evidence in respect of a commission of an offence
+    under this Act or the regulations; or
+    (b) the expiration of one hundred and eighty days after the day of
+    seizure,
+unless before that time proceedings are instituted in relation to the thing,
+in which case the thing may be detained until the proceedings are finally
+concluded.
+                                                                               Disposal of
+  (16) Where the Minister believes on reasonable and probable grounds          forfeited things
+that a thing is a threat to the environment or environmental health, or
+where proceedings mentioned in subsection (15) are instituted within the
+time provided in that subsection, and at the final conclusion thereat the
+court orders the forfeiture of the thing that was seized and detained, the
+Minister may dispose of the thing as he sees fit.
+  (17) Where subsection (16) does not apply, the thing shall be returned       Return of things
+to the corporation which owns the thing or which had the possession,           seized where no
+                                                                               forfeiture ordered
+care or control of it at the time of its seizure.
+  (18) A sample taken under this Act or regulations may be disposed of         Samples,
+in such manner as the Minister considers appropriate.                          disposition of
+
+
+  (19) The Crown, nor any agent or employee thereof is not liable for          Liability
+any costs, loss or damage, resulting from the exercise in good faith of
+powers pursuant to this Act or the regulations.
+  (20) An environmental protection order issued pursuant to subsection         Environmental
+(2) shall run with the land and shall be binding upon the successor or         protection order to
+                                                                               bind successors in
+assignee of the corporation to which it is directed.                           title
+
+
+
+                                     15
+16                    Cap. E-9                 Environmental Protection Act
+
+
+
+                        (21) Upon the written request of any person as to whether an
+Copies of
+environmental
+                      environmental protection order has been issued against a particular
+protection order on   person, the Minister shall provide the information and if an
+request               environmental protection order has been issued, make a copy available.
+                      1991,c.10,s.3; 1995,c.11,s.2; 2005,c.32,s.2; 2006,c.5,s.2; 2008,c.13,s.5.
+Analysis              8. (1) The Minister may, for purposes of this Act or the regulations,
+                      designate any person as an analyst, and the person so designated may,
+                      with respect to any sample analyzed by him, issue a certificate of
+                      analysis.
+Certificate             (2) A certificate of an analyst stating that he has analyzed or examined
+                      a sample submitted by an environment officer or other person authorized
+                      by the Minister and stating the results of his analysis or examination, is
+                      admissible in evidence in any legal proceeding or prosecution under this
+                      Act or the regulations, without proof of the signature or official character
+                      of the person appearing to have signed the certificate of analysis and, in
+                      the absence of any evidence to the contrary, is proof of the statements
+                      contained in the certificate of analysis.
+Attendance of           (3) The party against whom a certificate of analysis is produced under
+analyst in court      subsection (1) may, with leave of the court, require the attendance of the
+                      analyst for purposes of cross-examination. 1988,c.19,s.8.
+
+                                   ENVIRONMENTAL IMPACT ASSESSMENT
+Undertakings          9. (1) No person shall initiate any undertaking unless that person first
+                      files a written proposal with the Department and obtains from the
+                      Minister written approval to proceed with the proposed undertaking.
+Environmental           (2) The Minister, in considering a proposal submitted pursuant to
+impact information    subsection (1), may
+                          (a) require the person submitting it to supply such additional
+                          information as the Minister considers necessary;
+                          (b) require that person to carry out an environmental impact
+                          assessment and submit an environmental impact statement;
+                          (c) notify the public of the proposal and provide opportunity for
+                          comment.
+Form and content        (3) An environmental assessment and environmental impact statement
+                      shall have such content as the Minister may direct.
+Form of statement      (3.1) An environmental impact statement shall be in such form as the
+                      Minister may direct.
+Fees                    (3.2) A person who is required to submit an environmental impact
+                      statement under subsection (2) shall pay such fees as and when may be
+
+                                                           16
+                         Environmental Protection Act               Cap. E-9                       17
+
+
+
+required by the regulations for the Department’s review of the
+environmental impact statement.
+  (4) The approval required by this section is in addition to any other        Saving
+requirement imposed by the province or a municipality. 1988,c.19,s.9;
+2004,c.4,s.1.
+9.1 (1) In this section, “C & D disposal site” means a construction and        C & D disposal site,
+demolition debris disposal site used for the disposal of C & D debris.         defined
+
+
+   (2) On the coming into force of this subsection, no approval may be         Approval may not
+issued by the Minister pursuant to subsection 9(1) of this Act in respect      be issued
+
+of a proposal for a C & D disposal site.
+  (3) For greater certainty, subsection (2) shall not be construed to          Validity of earlier
+    (a) terminate or otherwise affect the validity of any approval issued      approvals
+
+    before the commencement of that subsection; or
+    (b) affect the ability of the Minister to issue permits under the
+    regulations in respect of C & D disposal sites for which an approval
+    was issued under section 9 prior to the commencement of that
+    subsection.
+                                                                               Proposals
+  (4) This section applies to every proposal that was made, and not
+decided by the Minister, before the date this section comes into force,
+including any proposal that has been or is subject to court proceedings.
+  (5) This section is repealed.                                                Repeal
+
+  (6) This section, other than subsection (5), comes into force on assent.     Commencement
+
+  (7) Subsection (5) comes into force on a date that may be fixed by           Idem
+proclamation of the Lieutenant Governor in Council. 2005,c.33,s.1.
+10. Repealed by 2008,c.13.s.6. 1988,c.19,s.10; 1991,c.10,s.4;                  watercourse
+1992,c.21,s.4; 1999,c.24,s.2; 2001,c.34,s.2; 2002,c.5,s.2; 2006,c.5,s.3;       boundary
+
+2008,c.13,s.6.
+11. Repealed by 2008,c.13.s.6. 1991,c.10,s.5; 2008,c.13,s.6.                   Advisory
+                                                                               Committee
+11.1 Repealed by 2008,c.13.s.6. 1999,c.24,s.3, 4.1; 2001,c.34,s.3;             Definitions
+2005,c.32,s.3; 2008,c.13,s.6
+11.2 Repealed     by    2008,c.13.s.6.      2001,c.34,s.4;   2002,c.5,s.5,6;   Prohibition
+2008,c.13,s.7.
+11.3 Repealed by 2008,c.13.s.6. 1999,c.24,s.5;               2001,c.34,s.5;    Forested riparian
+2001,c.5,s.1; 2002,c.5,s.7,8; 2008,c.13,s.6.                                   zone
+
+
+
+
+                                     17
+18                    Cap. E-9                Environmental Protection Act
+
+
+
+                      11.4 Repealed by 2008,c.13.s.6.            1999,c.24,s.5;   2001,c.34,s.6;
+Cutting or removing
+trees
+                      2002,c.5,s.9; 2008,c.13,s.6.
+Permit                11.5 Repealed by 2008,c.13.s.6. 2002,c.5,s.10; 2008,c.13,s.6.
+
+                                                       WELLS
+Wells                 12. Except in accordance with the regulations, no person shall
+                          (a) engage in the business of drilling wells;
+                          (b) undertake the construction of a well; or
+                          (c) undertake any operation incidental to the reconstruction or
+                          abandonment of a well. 1988, c.19, s.12.
+
+                                           BULK WATER REMOVAL
+Water transfer or     12.1 (1) No person shall drill for, extract, take or use groundwater for
+removal               the purpose of transfer or removal from the province.
+Idem                    (2) No person shall extract, remove or withdraw water from any water
+                      basin, watercourse or other surface water body in the province for the
+                      purpose of transfer or removal from the province.
+Exceptions
+                        (3) Subsections (1) and (2) do not apply to water
+                          (a) that is to be used for drinking water purposes and is packaged in
+                          Prince Edward Island in containers having a capacity of not more
+                          than 25 litres; or
+                          (b) that is removed in the ordinary course of carrying water in a
+                          vehicle, vessel or aircraft for use by persons or animals while they
+                          are being transported in it.
+Idem                    (4) Subsections (1) and (2) do not apply to water
+                          (a) that is removed in a vessel, vehicle or aircraft and is necessary
+                          for
+                             (i) the ordinary operation of the vehicle, vessel or aircraft, or
+                             (ii) the transport of food or products in the vehicle, vessel or
+                             aircraft; or
+                          (b) that is removed, with the written permission of the Minister, to
+                          meet short-term safety, security or humanitarian needs.
+                          2001,c.34,s.7.
+
+                            WASTE TREATMENT AND WATER SUPPLY SYSTEMS
+Approval required     13. (1) No person shall undertake the establishment of a waste treatment
+                      system or water supply system, or shall change any existing system,
+                      without first obtaining written approval from the Minister.
+
+
+
+                                                          18
+                         Environmental Protection Act              Cap. E-9                       19
+
+
+
+  (2) An application for approval pursuant to subsection (1) shall be
+                                                                              Plans and detailed
+supported by the plans and specifications of the waste treatment system       information
+or water supply system and the work to be undertaken, and such other
+information as the Minister may require.
+  (3) Where it appears to the Minister that any person has contravened        Investigation and
+subsection (1), the Minister may order an investigation of the violation      remedial action
+
+and may order the person to take such action as the Minister considers
+necessary. 1988,c.19,s.13.
+14. (1) Where the Minister is satisfied that for the purpose of protecting    Minister may order
+the environment or environmental health it is necessary to do so he may,      system
+
+by order, require that an area be served by a water supply system or
+waste treatment system.
+  (2) An order under subsection (1), shall be directed to the person          Idem
+causing or likely to cause the hazard to the environment or
+environmental health. 1988,c.19,s.14.
+15. Repealed by 1992,c.21,s.5.                                                Alterations
+
+16. Waste treatment and water supply systems shall at all times be            Maintenance
+maintained and operated in such manner and with such facilities as the
+Minister may direct. 1988,c.19,s.16.
+                                                                              Entry on private
+17. When the Minister finds it necessary that any public utility locate any   property
+portion of a waste treatment system or water supply system on private
+property and that no agreement can be reached with the owner, the
+Minister may order, subject to the approval of the Lieutenant Governor
+in Council, on such terms and conditions and subject to the payment of
+such compensation, if any, as may seem just, that the public utility have
+leave to enter upon the private property and there locate any portion of a
+system and have access thereto at all times for repairing, operating or
+maintaining the same. 1988,c.19,s.17.
+18. (1) The Lieutenant Governor in Council may, by order, create a body       Water and sewerage
+to acquire, construct, establish, alter, extend, control, manage, maintain,   corporations
+
+or operate any waste treatment system, waste management system or
+water supply system, and may constitute a body so created a body
+corporate for the purposes of the Act and may
+     (a) prescribe its name, composition and functions;
+     (b) prescribe the manner of appointment of its members and their
+     terms of office;
+     (c) prescribe the functions of the corporation; and
+     (d) subject to section 18.1, exempt the corporation and any works
+     operated by it in whole or in part from the provisions of the Island
+
+
+                                     19
+20                    Cap. E-9                 Environmental Protection Act
+
+
+
+                           Regulatory and Appeals Commission Act R.S.P.E.I. 1988, Cap. I-11,
+                           and the Water and Sewerage Act R.S.P.E.I. 1988, Cap. W-2.
+Powers                 (2) A corporation constituted under subsection (1), or the Minister,
+                      may
+                          (a) acquire, construct, establish, alter, extend, control, manage, and
+                          operate waste treatment systems, waste management systems and
+                          water supply systems;
+                          (b) provide and supply water to a municipality or person;
+                          (c) receive, treat, or dispose of sewage for a municipality or person;
+                          (d) make agreements with a municipality or person with respect to
+                          the operation of a waste treatment system or water supply system, or
+                          the reception, treatment and disposal of sewage;
+                          (e) acquire, alienate, hold, dispose of real or personal property;
+                          (f) engage and pay personnel;
+                          (g) subject to section 18.1, assess, charge, and collect fees for
+                          services to a municipality or person;
+                          (h) operate a waste treatment system or water supply system on
+                          behalf of government, municipality or person;
+                          (i) perform any function authorized by the Lieutenant Governor in
+                          Council;
+                          (j) prescribe the remuneration of its members;
+                          (k) establish a system for the collection, transportation, separation,
+                          treatment or disposal of waste.
+Power to levy rates
+                         (3) A corporation constituted under subsection (1) may levy rates in
+                      respect of water and sewerage services and for the collection,
+                      transportation, separation, treatment and disposal of waste.
+Maximum frontage        (4) Rates may be levied by a corporation constituted under subsection
+upon which rate       (1) for water or sewerage services by means of frontage charges and
+may be levied
+                      where rates are so levied, the maximum frontage of any parcel of land in
+                      respect of which rates may be levied is five hundred feet if the parcel
+                      qualifies for a farm assessment under the Real Property Assessment Act
+                      R.S.P.E.I. 1988,Cap. R-4.
+Lien                    (5) Rates levied pursuant to subsection (3) constitute a lien on the real
+                      property on which the rate is levied until payment is made and that lien
+                      has priority over every claim, privilege or encumbrance of every person,
+                      except the Crown against that property.
+Service deemed to       (6) For the purposes of this Act, a person along whose lands run sewer
+be received           or water mains shall be deemed to receive service notwithstanding that
+                      such sewer or water mains are not physically connected by lateral lines to
+                      any residence, building or other structure situate upon the said lands of
+
+
+                                                           20
+                           Environmental Protection Act            Cap. E-9                   21
+
+
+
+such person. 1988,c.19,s.18; 1989,c.9,s.2; 1991,c.10,s.6; 1991,c.18,s.22;
+1995,c.11.s.3; 2005,c.34,s.1.
+18.1 (1) In this section                                                      Definitions
+
+    (a) “Commission” means the Island Regulatory and Appeals                  Commission
+    Commission established under the Island Regulatory and Appeals
+    Commission Act;
+    (b) “Corporation” means the Island Waste Management Corporation           Corporation
+    established by an order made under section 18;
+    (c) “current rate” means a rate that is charged, on the day before this   current rate
+    section comes into force, by the Corporation for a service it
+    provides;
+    (d) “service” means a service respecting the collection,                  service
+    transportation, separation, treatment and disposal of waste.
+  (2) When the Corporation wishes to vary the rates for any existing          Submission of rates
+services, or to establish rates for any new services, the Corporation shall   for review and
+                                                                              approval
+submit for the review and approval of the Commission
+    (a) a schedule of the proposed rates together with a description of
+    the services to which they relate and any conditions or terms of
+    service that are to apply in respect of those rates;
+    (b) a submission justifying or explaining the proposed rates; and
+    (c) such other information concerning the proposed rates and the
+    financial affairs of the Corporation as the Commission may require.
+                                                                              Review by
+  (3) On receipt of a submission by the Corporation made in accordance        Commission
+with subsection (2), the Commission
+    (a) shall cause notice of the submission to be published that invites
+    written submissions from the public; and
+    (b) after allowing such time as the Commission considers
+    appropriate
+    for public submissions to be made, shall review the submission of
+    the Corporation and any written submissions of the public that the
+    Commission has received.
+ (4) After reviewing the submissions referred to in subsection (3), the       Decision of
+Commission may, subject to subsection (9),                                    Commission
+
+   (a) approve the rates proposed by the Corporation;
+   (b) determine and fix new rates; or
+   (c) refuse the rates proposed and confirm the existing rates.
+   (5) The Commission shall make a decision under subsection (5) not          Decision in 60 days
+later than 60 days from the date of the submission by the Corporation
+under subsection (2).
+
+                                       21
+22                     Cap. E-9                 Environmental Protection Act
+
+
+
+                         (6) Subject to subsection (7), the rates that are approved, determined
+Rates chargeable
+                       and fixed or confirmed by the Commissioner under this section are the
+                       lawful rates of the Corporation until altered or modified under this
+                       section.
+Current rates           (7) The current rates of the Corporation are the lawful rates of the
+                       Corporation until altered under this section.
+Lawful rates             (8) The Corporation shall not charge, and shall not be entitled to
+                       collect with respect to the provision of a service, any rate other than one
+                       that is a lawful rate as determined by or under this section.
+Corporation entitled     (9) When making a decision in respect of a submission by the
+to recover costs       Corporation, the Commission shall allow the Corporation to earn,
+                       annually or within such other period as the Commission considers
+                       appropriate, such return from its rates for each type of service the
+                       Corporation provides as the Commission considers is just and reasonable
+                       to recover the costs incurred by the Corporation to provide that type of
+                       service.
+Earnings                 (10) The Commission may allow the Corporation to earn, in addition
+                       to the return required by subsection (8), such amount as the Commission
+                       considers appropriate in respect of the operation of the Corporation.
+                       2005,c.34,s.1
+Saving                 19. The power vested in the Island Regulatory and Appeals Commission
+                       to set sewer and water rates is not affected by this Act except where
+                       otherwise provided under clause 18(1)(d). 1988,c.19,s.19;
+                       1991,c.18,s.22.
+
+                                        DISCHARGE OF CONTAMINANTS
+Spills                 20. Except as permitted by the Pesticides Control Act R.S.P.E.I. 1988, P-
+                       4, the regulations or with the written permission of the Minister no
+                       person shall
+                            (a) discharge, or cause or permit to be discharged;
+                            (b) being the owner or person having control of a contaminant,
+                            discharge or cause or permit to be discharged,
+                       a contaminant into the environment. 1992,c.21,s.6; 2001,c.34,s.8.
+Notice and remedial    21. (1) Every person who, without permission under section 20,
+measures               discharges, or causes or permits to be discharged, a contaminant into the
+                       environment, or who owns or has control of a contaminant which is
+                       discharged into the environment shall
+                            (a) immediately notify the Department; and
+                            (b) take such action as the Minister may direct
+
+
+                                                            22
+                         Environmental Protection Act               Cap. E-9                     23
+
+
+
+       (i) to investigate and define the extent, nature and impact of the
+       contaminant,
+       (ii) to repair, restore and remedy the environment or to confine or
+       contain the effects of the contaminant.
+  (2) Where any person fails to take such action as is directed by the         Injunction
+Minister pursuant to subsection (1), and where the discharge of a
+contaminant into the environment has caused, is causing or may cause a
+threat to the environment or environmental health, the Minister may
+make application to the Supreme Court for an injunction requiring that
+person to carry out that action. 1992,c.21,s.7.
+
+                       CONTAMINATED SITES
+21.1 (1) The Minister shall establish a contaminated sites registry.           Contaminated sites
+                                                                               registry
+  (2) The Minister                                                             Access to registry,
+    (a) shall provide for access by the public to information in the           fees
+
+    registry; and
+    (b) may impose fees, in accordance with the regulations, for
+    providing access to or supplying information from the registry.
+  (3) Subject to this section, where, after considering the evidence,          Designation of
+standards and criteria that the Minister considers relevant, and all           contaminated sites
+
+regulations made under clause 25(1)(w), the Minister is of the opinion
+that an area of the environment is a contaminated site, the Minister may
+designate that area of the environment as a contaminated site.
+                                                                               Entry of
+  (4) The Minister shall cause areas of the environment designated as          contaminated sites
+contaminated sites to be entered into the contaminated sites registry.         in registry
+
+
+  (5) The Minister shall, before designating an area of the environment        Notice of
+as a contaminated site,                                                        designation
+
+     (a) give notice, in writing, to the registered owner, and to any
+     occupier, of the area of the Minister’s intention to designate the area
+     as a contaminated site; and
+     (b) provide a reasonable opportunity for the registered owner, and to
+     any occupier, of the area, to comment on the Minister’s intention to
+     designate the area of the environment as a contaminated site.
+  (6) The Minister may postpone a designation under subsection (3) in          Postponement of
+respect of an area of the environment if                                       designation
+
+    (a) the registered owner, or any occupier, of the area enters into an
+    agreement with the Department, satisfactory to the Minister, for the
+    repair, restoration and remediation of the area; and
+    (b) the registered owner, or any occupier, of the area, as the case
+    may be, complies, to the Minister’s satisfaction, with the agreement.
+
+                                     23
+24                      Cap. E-9                  Environmental Protection Act
+
+
+
+                          (7) The Minister shall, after designating an area of the environment as
+Notice of
+designation
+                        a contaminated site under subsection (3), give written notice of the
+                        designation, together with reasons for the designation, to the registered
+                        owner, and to any occupier, of the area.
+Alteration of             (8) After an area of the environment has been designated as a
+contaminated sites      contaminated site, the registered owner, or any occupier, of the
+                        contaminated site shall not alter the contaminated site unless the
+                        registered owner, or occupier, of the contaminated site, as the case may
+                        be, first obtains the written authorization of the Minister to do so.
+Requirement for           (9) The Minister may, on written application, issue a written
+further research,       authorization referred to in subsection (8) and may require any person
+etc.
+                        who makes the application to provide any information, research, or study
+                        the Minister considers necessary to assess the application.
+Orders relating to        (10) A copy of an environmental protection order issued under this Act
+contaminated sites      in respect of an area of the environment that is designated as a
+                        contaminated site shall be placed in the contaminated sites registry.
+Cancellation of           (11) Where the Minister is of the opinion that the area of the
+designation             environment is no longer a contaminated site, the Minister shall
+                            (a) cancel the designation of a contaminated site made under
+                            subsection (3); and
+                            (b) cause the removal of the designation from the contaminated sites
+                            registry. 2004,c.30,s.2; 2008,c.13,s.7.
+
+                                             SAND DUNES AND BEACHES
+Operation of motor      22. (1) No person shall, without written permission of the Minister,
+vehicles                     (a) operate a motor vehicle on a beach or a sand dune;
+                             (b) carry out any activity that will or may
+                                (i) interfere with the natural supply or movement of sand to or
+                                within a beach or a sand dune,
+                                (ii) alter, remove, or destroy natural stabilizing features, including
+                                vegetation, of a beach or a sand dune.
+Activities related to      (2) Clause (1)(a) does not apply to the operation of a motor vehicle on
+moss harvesting etc.    a beach for the conduct of activities related to the legal harvesting of a
+excepted
+                        fishery resource or the legal removal of beach material. 1991,c.10,s.7.
+Idem                    23. Repealed by 1991,c.10,s.8.
+
+                                                        LITTERING
+Litter                  24. No person shall deposit litter
+                            (a) upon any land not approved by the Minister for this purpose; or
+
+                                                              24
+                         Environmental Protection Act               Cap. E-9                 25
+
+
+
+    (b) into or upon any watercourse or wetland. 1988,c.19,s.24;
+    2001,c.34,s.9.
+
+                            REGULATIONS
+25. (1) The Lieutenant Governor in Council may make such regulations           Regulations
+as the Lieutenant Governor in Council considers necessary or advisable
+for the enhancement and protection of the environment, and without
+limiting the generality of the foregoing, may make regulations,
+     (a) respecting environmental impact assessments and ensuring
+     specific opportunity for public involvement in the screening and
+     assessment of undertakings;
+     (b) establishing environmental quality standards for part or all of the
+     province;
+     (c) respecting the licenses, permits, endorsements on permits,
+     approvals, certificates, exemptions, variances, management plans,
+     material stewardship plans and other authorizations required to be
+     held by persons under this Act or the regulations in respect of the
+     carrying on of an activity or undertaking,
+     including regulations respecting
+        (i) the process for applying for any such an authorization,
+        (ii) the issuance, approval, refusal, renewal, expiration,
+        amendment, suspension or revocation of any such authorization,
+        (iii) the qualifications or requirements for, or the circumstances
+        or standards applicable to, any decision referred to in subclause
+        (ii), and
+        (iv) the imposition of terms and conditions on any such
+        authorization and the alteration of or requirement for compliance
+        with such terms and conditions;
+     (d) respecting the fees that are payable in respect of
+        (i) an application for a license, permit, endorsement on a permit or
+        certificate,
+        (ii) an inspection,
+        (iii) waste management,
+        (iv) a record search,
+        (v) the review of an environmental impact statement, and
+        (vi) such other matters or services provided under the Act or the
+        regulations.
+     (e) respecting the design, location, configuration, construction,
+     adaption, alteration, operation, maintenance and installation of
+     undertakings;
+     (f) respecting plumbing standards, prescribing the use and
+     application of the plumbing standards, and requiring a person to
+     obtain a permit before plumbing is installed or altered;
+
+
+                                     25
+26   Cap. E-9                  Environmental Protection Act
+
+
+
+          (g) respecting the design, construction, adaption, alteration,
+          operation, maintenance and installation of systems, processes or
+          works to abate, manage, dispose of or control contaminants, waste
+          or other environmental damage, and those systems, processes or
+          works may include waste management sites, waste treatment
+          systems and incinerators;
+          (h) regulating or prohibiting the collection, sale, storage, use,
+          treatment, distribution and disposal of contaminants;
+          (i) prescribing limits, terms and conditions on the release of
+          contaminants and the prohibition of release of contaminants from
+          any undertaking;
+          (j) regulating or prohibiting the collection, sale, storage, use,
+          treatment, distribution and disposal of any product, container,
+          including beverage containers, or other substance that may adversely
+          affect the environment;
+          (k) respecting wells and attachments thereto and the licensing of
+          well drillers;
+          (l) regulating, controlling, prohibiting, directing, or providing for the
+          withdrawal, use, quality, quality monitoring, storage and handling of
+          water from any natural or artificial source including any water
+          supply system;
+          (l.1) requiring delineation of well-head protection areas and
+          respecting the implementation of controls on activity within the
+          well-head protection area which may include the restriction and
+          prohibition of any activity in the area;
+          (m) prohibiting the alteration of any watercourse, or wetland, or the
+          water flow therein unless the alteration is
+              (i) authorized by a license or permit issued under the regulations
+              and the alteration is carried out in accordance with any terms or
+              conditions imposed on such a license or permit, or
+              (ii) permitted by an exception or exemption set out in the
+              regulations;
+          (m.1) regulating, controlling, and providing for, the alteration of
+          any watercourse, or wetland, or the water flow therein, including
+          regulations
+              (i) requiring a license or permit issued under the regulations to
+              carry on the alteration, and
+              (ii) respecting    the    manner,     circumstances,     exceptions,
+              exemptions, standards and conditions under which the alteration
+              may be carried on;
+          (m.2) prohibiting the carrying on of any activity specified in the
+          regulations in or on a watercourse or wetland, including
+              (i) the draining, pumping or diverting of water from a
+              watercourse or wetland,
+
+
+                                           26
+                    Environmental Protection Act               Cap. E-9   27
+
+
+
+   (ii) the dredging, excavating or removal of soil, mud, sand,
+   stones, rubbish, rocks, aggregate or other material or objects of
+   any kind from a watercourse or wetland,
+   (iii) the dumping, infilling or deposition of soil, water, mud,
+   sand, stones, rubbish, litter, rocks, aggregate or other material of
+   any kind into a watercourse or wetland,
+   (iv) the construction, placement, repair, replacement, demolition
+   or removal of buildings, structures or obstructions of any kind,
+   including bridges, culverts, breakwaters, dams, docks, slipways
+   and flood or erosion protection works,
+   (v) the operation of any heavy equipment or a motor vehicle on
+   the sediment bed, beach or bank of a watercourse or on a wetland,
+   (vi) the disturbance, removal, alteration, disruption or destruction
+   of the ground, either by excavating or depositing earthen or other
+   material,
+   (vii) the disturbance, alteration, destruction or removal of
+   vegetation of any kind in or on a watercourse or wetland,
+   including but not limited to the cutting down of live trees or live
+   shrubs, or
+   (viii) the carrying on of any type of watercourse or wetland
+   enhancement activity, including but not limited to debris removal,
+   habitat development, or the placement of structures,
+unless the activity is authorized by a license or permit issued under
+the regulations and the activity is carried on in accordance with any
+terms or conditions imposed on such license, permit or certificate, or
+unless the activity is permitted by an exception or exemption set out
+in the regulations;
+(m.3) regulating, controlling or providing for the carrying on of any
+activity specified in the regulations, including any activity referred
+to in clause (m.2), in or on a watercourse or wetland, including
+regulations
+   (i) requiring a license, permit or certificate issued under the
+   regulations to carry on that activity, and
+   (ii) respecting    the    manner,      circumstances,    exceptions,
+   exemptions, standards and conditions under which that activity
+   may be carried on;
+(n) requiring an environmental permit for the construction or
+operation of certain undertakings, and the issuance or withdrawal of
+the permits;
+(o) respecting the methods of analyzing samples and prescribing the
+equipment or apparatus or structures to be used for taking samples;
+(p) respecting chemical or petroleum storage tank systems;
+(q) regulating the disposal of litter;
+(r) prescribing forms;
+
+
+                                27
+28   Cap. E-9                  Environmental Protection Act
+
+
+
+          (s) respecting wastewater emissions;
+          (t) respecting emissions into the air;
+          (u) respecting excavation pits;
+          (v) controlling, restricting or prohibiting any act for the purpose of
+          abating noise or controlling noise levels;
+          (w) respecting the standards and criteria to be used for the purpose
+          of designating an area of the environment as a contaminated site;
+          (x) respecting agreements made under subsection 21.1(6) for the
+          repair, restoration and remediation of contaminated sites pursuant to
+          subsection 21.1(3);
+          (y) respecting the contaminated sites registry and its operation,
+          including the location and hours of the offices of the Registry;
+          (z) respecting assessment and rehabilitation criteria of contaminated
+          sites and contaminant releases pursuant to subclause 21(1)(b)(ii);
+          (aa) for the purposes of subsection 21.1(8), defining the word
+          “alter”, or describing the actions pertaining to, or the uses of, an area
+          of the environment designated as a contaminated site that constitute
+          an alteration of that area;
+          (bb) respecting the cancellation and removal of a designation of a
+          contaminated site from the contaminated sites registry;
+          (cc) defining words, phrases or terms that are used in this Act or the
+          regulations and that are not defined in this Act;
+          (dd) respecting the geographic information system database
+          maintained by the Department that is called the “Prince Edward
+          Island Wetland Inventory”, including regulations respecting
+              (i) the maintenance, amendment, publication, inspection and the
+              proof of the contents of the Inventory,
+              (ii) the identification in the Inventory of areas of the province
+              that are wetlands, and
+              (iii) the categorization of wetlands in the Inventory as open
+              water, deep marsh, shallow marsh, salt marsh, seasonally flooded
+              flats, brackish marsh, shrub swamp, wooded swamp, bog or
+              meadow;
+          (ee) prohibiting the alteration or the disturbance of the ground or
+          soil within a prescribed distance of the landward side of a
+          watercourse boundary or a wetland boundary unless the alteration or
+          disturbance is
+              (i) authorized by a license or permit issued under the regulations
+              and the alteration or disturbance is carried out in accordance with
+              any terms or conditions imposed on such license or permit, or
+              (ii) permitted by an exception or exemption set out in the
+              regulations;
+          (ff) regulating, controlling or providing for the alteration or the
+          disturbance of the ground or soil within a prescribed distance of the
+
+
+                                           28
+                    Environmental Protection Act               Cap. E-9   29
+
+
+
+landward side of a watercourse boundary or a wetland boundary,
+including regulations
+   (i) requiring a license or permit issued under the regulations
+   authorizing the carrying on of that alteration or disturbance, and
+   (i) respecting the manner, circumstances, exceptions, exemptions,
+   standards and conditions under which that alteration or
+   disturbance may be carried on;
+(gg) prohibiting the carrying on of any activity specified in the
+regulations within a prescribed distance of the landward side of a
+watercourse boundary or a wetland boundary, including
+   (i) the draining or pumping of water;
+   (ii) the dredging, excavating or removal of soil, mud, sand,
+   stones, rubbish, rocks, aggregate or other material of any kind,
+   (iii) the dumping, infilling or deposition of soil, water, mud,
+   sand, stones, rubbish, rocks, aggregate or other material or objects
+   of any kind,
+   (iv) the construction, placement, repair, replacement, demolition
+   or removal of buildings, structures or obstructions of any kind,
+   including but not limited to bridges, culverts, breakwaters, dams,
+   wharves, docks, slipways and flood or erosion protection works,
+   (v) the operation of any heavy equipment or a motor vehicle,
+   (vi) the disturbance, removal, alteration, disruption or destruction
+   of the ground, either by excavation or depositing earthen or other
+   material,
+   (vii) the disturbance, removal, alteration, disruption or
+   destruction of vegetation, either by excavation or depositing
+   earthen or other material,
+   (viii) the cutting down of live trees or live shrubs,
+   (ix) the planting and cultivation of an agricultural crop, or
+   (x) the spraying or application of any pesticide in any manner,
+unless the activity is authorized by a license or permit issued under
+the regulations and the activity is carried on in accordance with any
+terms or conditions attached to such license or permit, or unless the
+activity is permitted by an exception or exemption set out in the
+regulations;
+(hh) regulating, controlling or providing for the carrying on of any
+activity specified in the regulations, including any activity referred
+to in clause (gg), in or on a watercourse or wetland, including
+regulations
+   (i) requiring a license or permit issued under the regulations
+   authorizing the carrying on of that activity, and
+   (ii) respecting    the   manner,      circumstances,     exceptions,
+   exemptions, standards and conditions under which that activity
+   may be carried on;
+
+
+                                29
+30   Cap. E-9                 Environmental Protection Act
+
+
+
+          (ii) prohibiting the cultivation of any row crop or any portion
+          thereof within a prescribed distance of the landward side of a
+          watercourse boundary or a wetland boundary, unless the cultivation
+          is authorized by a written exemption or variance issued under, or
+          permitted by an exception set out in, the regulations;
+          (jj) regulating, controlling or providing for the cultivation of any
+          row crop or portion thereof within a prescribed distance of the
+          landward side of a watercourse boundary or a wetland boundary,
+          including regulations
+              (i) requiring a written exemption or variance issued under the
+              regulations authorizing the carrying on of that cultivation, and
+              (ii) respecting the manner, circumstances, exceptions, standards
+              or conditions under which that cultivation may be carried on;
+          (kk) respecting the geographic information system database
+          maintained by the Department that is called the “Prince Edward
+          Island Sloped Land Inventory”, including regulations
+              (i) respecting the maintenance, amendment, publication,
+              inspection and the proof of the contents of the Inventory, and
+              (ii) deeming the areas of land identified in the Inventory as
+              having a slope of greater than 9% and an area of at least one
+              hectare, or as having such other characteristics as the regulations
+              may specify;
+          (ll) prohibiting on a provincial parcel of land, the cultivation of one
+          or more hectares of a row crop on any area of that parcel which has
+          a slope greater than 9%, unless there is a management plan for the
+          provincial parcel of land and the cultivation of the row crop is
+          carried on in accordance with that management plan;
+          (mm) regulating, controlling or providing for, on a provincial parcel
+          of land, the cultivation of one or more hectares of a row crop on any
+          area of that parcel which has a slope greater than 9%, unless there is
+          a management plan for the provincial parcel of land and the
+          cultivation of the row crop is carried on in accordance with that
+          management plan;
+          (nn) respecting management plans, including the contents,
+          components, establishment, approval, terms and conditions,
+          amendment, maintenance, expiry and revocation of management
+          plans;
+          (oo) respecting the appointment of management specialists and
+          respecting their powers and duties in respect of management plans
+          or other matters;
+          (pp) requiring the owner and operator of an intensive livestock
+          operation to ensure that no livestock waste from the intensive
+          livestock operation enters any watercourse or wetland;
+
+
+
+                                          30
+                      Environmental Protection Act                 Cap. E-9   31
+
+
+
+(qq) prohibiting, within a prescribed distance of the landward side
+of a watercourse boundary or a wetland boundary,
+    (i) the construction of an intensive livestock operation, or the
+    construction of any building, structure, facility, or any part
+    thereof, of an intensive livestock operation,
+    (ii) the construction of a new building, structure or facility, or
+    any part thereof, or the expansion or renovation of existing
+    buildings, structures or facilities, of an existing intensive livestock
+    operation, or
+    (iii) the carrying on of any activity connected or associated with,
+    or supporting, an activity referred to in clause (i) or (ii),
+unless such activity or undertaking is carried on under a written
+authorization issued under the regulations, or unless the activity or
+undertaking is permitted by an exception set out in the regulations;
+(rr) regulating, controlling or providing for the carrying on of any
+activity or undertaking referred to in clause (qq) within a prescribed
+distance of the landward side of a watercourse boundary or a
+wetland boundary, including regulations
+    (i) requiring a written authorization issued under the regulations
+    to carry on that activity or undertaking, and
+    (ii) respecting    the     manner,      circumstances,      exceptions,
+    exemptions, standards and conditions under which that activity or
+    undertaking may be carried on;
+(ss) prohibiting the keeping of livestock, in a density greater than
+the maximum prescribed number of animal units per acre of living
+space, within a prescribed distance of the landward side of a
+watercourse boundary or a wetland boundary, unless the keeping of
+livestock in such a density and within such a distance of the
+landward side of a watercourse boundary or a wetland boundary is
+authorized in writing by the Minister, or unless it is permitted by an
+excepting set out in the regulations;
+(tt) regulating, controlling or providing for the keeping of livestock
+within a prescribed distance of the landward side of a watercourse
+boundary or a wetland boundary, respecting the density of livestock,
+as measured in terms of the number of prescribed animal units per
+acre of living space or otherwise, that may be kept within a
+prescribed distance of the landward side of a watercourse boundary
+or wetland boundary, including regulations
+    (i) requiring a written authorization issued under the regulations
+    for the keeping of livestock, in a density in excess of the
+    maximum density established by the regulations, within a
+    prescribed distance of the landward side of a watercourse
+    boundary or a wetland boundary, and
+
+
+
+                                  31
+32   Cap. E-9                  Environmental Protection Act
+
+
+
+              (ii) respecting the manner, circumstances, exceptions, standards
+              and conditions under which the keeping of livestock within such a
+              distance of landward side of watercourse boundary or a wetland
+              boundary may be carried on;
+          (tt.1) respecting recyclable materials, including regulations
+              (i) prescribing recyclable materials,
+              (ii) establishing criteria for determining whether a material is a
+              recyclable material,
+              (iii) creating different classes of recyclable materials for different
+              purposes,
+              (iv) prohibiting or restricting the acceptance, collection, storage,
+              handling, transportation, processing or disposal of recyclable
+              material or classes of recyclable materials,
+              (v) requiring that a recyclable material or any other material or
+              product be recycled or reused, and
+              (vi) prohibiting or restricting the disposal of a recyclable material
+              in a landfill, composting facility, incinerator, recycling facility or
+              other site;
+          (tt.2) respecting designated materials, including regulations
+              (i) prescribing designated materials,
+              (ii) establishing criteria for determining whether a material is a
+              designated material,
+              (iii) creating different classes of designated materials for
+              different purposes,
+              (iv) prohibiting or restricting the manufacture, acceptance,
+              collection, sale, supply, offering for sale or supply, packaging,
+              labelling, storage, handling, distribution, transportation,
+              processing, disposal, recycling, recovery and reuse of designated
+              materials,
+              (v) requiring that a designated material be recycled or reused, and
+              (vi) prohibiting or restricting the disposal of a designated
+              material in a landfill, composting facility, incinerator, recycling
+              facility or other site;
+          (tt.3) respecting material stewardship programs for designated
+          materials, including regulations
+              (i) requiring the development and implementation of material
+              stewardship programs for the management, collection, sale,
+              supply, offering for sale or supply, packaging, labelling, storage,
+              handling, distribution, transportation, processing, disposal, waste
+              minimization, recycling, recovery, reuse and reduction in use of
+              designated materials by manufacturers, distributors, retailers or
+              any other person,
+
+
+
+
+                                           32
+                     Environmental Protection Act                Cap. E-9   33
+
+
+
+    (ii) requiring that a material stewardship program be approved by
+    the Minister, subject to the terms and conditions that the Minister
+    considers appropriate,
+    (iii) establishing standards for material stewardship programs,
+    (iv) requiring participation in a material stewardship program and
+    providing for the exemption of persons from a requirement to
+    participate in a material stewardship program,
+    (v) authorizing a person to designate a third party to operate a
+    material stewardship program on the person’s behalf,
+    (vi) respecting the keeping and inspection of records in respect of
+    a material stewardship program,
+    (vii) requiring the reporting of information in respect of a
+    material stewardship program to the Minister,
+    (viii) requiring the provision and posting of public and
+    educational information and material respecting material
+    stewardship programs, and
+    (ix) requiring a person to provide security to ensure the person’s
+    compliance with the terms of a material stewardship program and
+    respecting the form, amount and content of the security;
+(tt.4) respecting recycling facilities, including regulations
+    (i) prohibiting the operation of a recycling facility unless
+    authorized by a permit issued under the regulations,
+    (ii) establishing standards for the operation, construction and
+    design of recycling facilities, and
+    (iii) prohibiting or restricting the acceptance, collection, storage,
+    handling, processing or disposal of any designated material at a
+    recycling facility unless authorized by an endorsement in respect
+    of the designated material on a recycling facility permit;
+(tt.5) providing for any transitional matters or issues for the
+effective implementation of clauses (tt.1) to (tt.4) as the Lieutenant
+Governor in Council considers necessary or advisable;
+(uu) respecting the entry upon private property and inspection of
+any premises, other than a dwelling-place, by an environment
+officer, conservation officer or inspector for the purpose of ensuring
+compliance with this Act and the regulations;
+(vv) respecting the conducting of tests, and the taking of samples,
+photographs and measurements of water or other liquid, soil,
+vegetation or other thing or matter by an environment officer,
+conservation officer or inspector for the purpose of ensuring
+compliance with this Act and the regulations;
+(ww) requiring any person to produce for inspection, on the request
+of an environment officer, conservation officer or inspector, any
+records or other documents concerning matters relevant to ensuring
+compliance with this Act and the regulations;
+
+
+                                 33
+34   Cap. E-9                  Environmental Protection Act
+
+
+
+          (xx) requiring any person to produce for inspection, on the request
+          of an environment officer, conservation officer or inspector, any
+          certificate, license, permit, variance, exemption, management plan or
+          other authorization required to carry on any activity or undertaking
+          under this Act or the regulations;
+          (yy) respecting the stopping of motor vehicles by an environment
+          officer or conservation officer for the purposes of enforcing this Act
+          and the regulations;
+          (zz) providing that compliance by a person with the provisions of
+          and standards set out in this Act and the regulations, and with the
+          terms and conditions of licenses, permits, endorsements on permits,
+          certificates, management plans, material stewardship plans,
+          exemptions, variances and other authorizations issued under this Act
+          and the regulations, does not preclude the issuance to the person of
+          an environmental protection order under section 7 or 7.1 of this Act
+          or the issuance to the person of an emergency field order referred to
+          in clause (aaa), where the Minister or an environment officer
+          believes, on reasonable and probable grounds, that an activity or
+          undertaking carried on by that person is a threat to the environment
+          or environmental health;
+          (aaa) respecting the issuance of verbal and written emergency field
+          orders by an environment officer to any person who is or was
+          carrying on an activity which is a violation of the regulations, or
+          who is the registered owner of the property on which that activity or
+          undertaking is or was carried on, or to any other person specified in
+          the regulations, requiring that person to cease the activity and to take
+          such remedial action as is specified in the order;
+          (bbb) requiring any person to whom a verbal or written emergency
+          field order referred to in clause (aaa) is issued by an environment
+          officer to comply with the order;
+          (ccc) respecting the delegation by the Minister of any function
+          conferred on the Minister by a regulation to another Minister or to a
+          director or other employee of the Department;
+          (ddd) deeming any person to whom a license, permit, endorsement
+          on a permit, certificate, exemption, variance or other authorization is
+          issued, or for whom a management plan or a material stewardship
+          plan is approved, to have accepted responsibility for all work done
+          pursuant thereto;
+          (eee) exempting the Minister, and any employee or officer of the
+          Crown from liability for any loss or damage caused by
+             (i) any activity or undertaking or other thing done under a
+             license, permit, endorsement on a permit, exemption,
+             management plan, material stewardship plan or other
+             authorization issued under this Act or the regulations,
+
+
+                                           34
+                    Environmental Protection Act               Cap. E-9   35
+
+
+
+    (ii) the revocation of any such license, permit, endorsement on a
+    permit, exemption, management plan, material stewardship plan
+    or other authorization, or
+    (iii) the amendment of any terms and conditions of any such
+    license, permit, endorsement on a permit, exemption,
+    management plan, material stewardship plan or other
+    authorization;
+(fff) providing that no action or other proceeding for damages lies
+or shall be instituted against
+    (i) the Minister,
+    (ii) any person to whom the Minister has delegated one or more
+    of his or her functions under this Act or the regulations,
+    (iii) any environment officer, conservation officer or inspector or
+    any other person acting under the authority of this Act or the
+    regulations, or
+    (iv) any other person lawfully assisting or acting under the
+    direction of any person referred to in subclauses (i) to (iii),
+for anything done or not done, in good faith in the performance or
+intended performance of any duty or exercise or intended exercise of
+any power under this Act or the regulations;
+(ggg) prohibiting the giving of false or misleading information in
+any application, report or statement or any other document submitted
+or made to the Minister, an inspector, an environment officer, a
+conservation officer, management specialist or other employee of
+the Department, under this Act or the regulations;
+(hhh) respecting the grounds for refusing a license, permit,
+endorsement on a permit, variance, certificate, exemption,
+management plan, material stewardship plan or other authorization
+that is the subject of an application, or that has been issued or
+approved, under this Act or the regulations;
+(iii) requiring any person to whom an environment officer or an
+inspector makes a request for assistance or information to provide all
+reasonable assistance and all information reasonably necessary to
+enable the environment officer or inspector to carry out his or her
+functions under this Act and the regulations;
+(jjj) prohibiting the obstruction of, or knowingly making of false or
+misleading statements to, an environment officer or an inspector
+engaged in carrying out his or her functions under this Act or the
+regulations;
+(kkk) prohibiting any person from violating or contravening any
+provision of the regulations or any term of condition of any license,
+permit, endorsement on a permit, variance, certificate, exemption,
+management plan, material stewardship plan or other authorization
+issued under this Act or the regulations;
+
+
+                                35
+36   Cap. E-9                  Environmental Protection Act
+
+
+
+          (lll) respecting the burden of proof on a defendant, in any
+          prosecution of an offence under this Act or the regulations, upon the
+          prosecution establishing a prima facie case, or upon a defendant,
+              (i) to prove due diligence, or
+              (ii) to prove that any exception, exemption, proviso, excuse or
+              qualification provided for or recognized in this Act or the
+              regulations operates in favour of the defendant;
+          (mmm) establishing factors which may be taken into account, in any
+          prosecution of an offence under this Act or the regulations, to
+          determine whether a defendant exercised due diligence;
+          (nnn) deeming, for the purposes of a prosecution of an offence
+          under this Act or the regulations, the registered owner of the
+          property on which any activity or undertaking is or was carried on in
+          contravention of this Act or the regulations to have caused or
+          permitted the activity or undertaking unless the registered owner
+          establishes, on the balance of probabilities, that the registered owner
+          did not do so, and respecting the onus or burden of proof of the
+          registered owner to do so;
+          (ooo) deeming, for the purposes of a prosecution of an offence
+          under this Act or the regulations, the identification in the Prince
+          Edward Island Wetland Inventory of any area of the province as
+          open water, deep marsh, shallow marsh, brackish marsh or salt
+          marsh to be prima facie evidence that the area is such a type of
+          wetland;
+          (ppp) respecting the appeal of any order made under this Act or the
+          regulations, or of any decision made under this Act or the
+          regulations to refuse, revoke or amend a permit, endorsement on a
+          permit, variance, exemption or other authorization or of any decision
+          to refuse to approve a management plan or material stewardship plan
+          or to revoke or amend a management plan or material stewardship
+          plan including
+              (i) providing for the appeal of such order or decision to the Island
+              Regulatory and Appeals Commission,
+              (ii) respecting the procedure for the appeal from such an order or
+              decision, and
+              (iii) providing that the order or decision continues in effect
+              pending the determination of the appeal;
+          (qqq) prescribing the fine or range of fines that a person is liable to,
+          on summary conviction, where the person is found guilty of an
+          offence for contravening a provision of this Act or the regulations;
+          (rrr) establishing that any officer, director or agent of a corporation
+          who directs, authorizes, assents to, acquiesces in, or participates in,
+          the commission of an offence by the corporation is guilty of an
+          offence;
+
+
+                                           36
+                        Environmental Protection Act             Cap. E-9                   37
+
+
+
+    (sss) prescribing or specifying any thing or matter required or
+    permitted by this Act to be, or referred to in this Act as being,
+    prescribed or specified by the regulations, for which a specific
+    power is not otherwise provided in this Act;
+    (ttt) providing for the continuation or revocation of any permit or
+    other authorization issued under sections 10 to 11.5 of this Act that
+    is in force immediately prior to the repeal of those provisions;
+    (uuu) providing for any transitional matters or issues arising out of
+    the repeal of sections 10 to 11.5 of this Act as the Lieutenant
+    Governor in Council considers necessary or advisable, including
+    providing for, the expiry of existing permits issued under section 10
+    of the Act;
+    (vvv) respecting any other matters that the Lieutenant Governor in
+    Council considers necessary or advisable to facilitate the
+    implementation or administration of this Act.
+  (2) A regulation made under subsection (1) may adopt by reference in      Adoption of codes
+whole or in part, with such changes as the Minister considers necessary,
+any code or standard, or any regulation made by any other government in
+Canada or recognized technical organization, and may require
+compliance with any code, standard or regulation so adopted. 1988,c.19,
+s.25;1992,c.21,s.8;     2004,c.30,s.3;   2004,c.4,s.2;    2008,c.13,s.8;
+2009,c.69,s.2.
+
+                               GENERAL
+26. No person shall knowingly give false information in any application,    False information
+return, or statement made to the Minister, an environment officer, or any
+employee of the Department, in respect of any matter under this Act or
+the regulations. 1988,c.19,s.26.
+27. (1) This Act and the regulations may be enforced by                     Enforcement
+     (a) the Minister;
+     (b) an environment officer;
+     (c) repealed by 2008,c.13,s.9;
+     (d) any officer or member of the Royal Canadian Mounted Police;
+     (e) a conservation officer appointed under the Wildlife Conservation
+     Act;
+     (f) a fisheries officer designated under the Fisheries Act (Canada).
+  (2) No person shall obstruct or attempt to obstruct any person lawfully   Obstruction
+carrying out the enforcement of this Act or the regulations.
+1991,c.10,s.9; 2008,c.13,s.9.
+28. The Minister may, as the Minister considers necessary, revoke,          Revocation, terms
+impose terms and conditions on, or alter any terms and conditions of, any   and conditions
+
+
+
+                                    37
+38                    Cap. E-9                 Environmental Protection Act
+
+
+
+                      authorization issued under this Act or the regulations, including the
+                      following:
+                           (a) an order, including an environmental protection order;
+                           (b) a license;
+                           (c) a certificate;
+                           (d) an approval;
+                           (e) a permit or an endorsement on a permit;
+                           (f) a variance;
+                           (g) a management plan;
+                           (h) a material stewardship plan;
+                           (i) an exemption;
+                           (j) a permission. 2002,c.5,s.11; 2006,c.5,s.4; 2008,c.13,s.10;
+                           2009,c.69,s.3.
+Orders - service      29. (1) No person to whom an order, including an environmental
+                      protection order, is directed pursuant to this Act or the regulations is
+                      required to comply with the order until the order has been served on the
+                      person.
+When order              (2) Any order issued pursuant to this Act or the regulations is deemed
+sufficiently served   to be sufficiently served
+                           (a) upon a copy being personally served on the person to whom it is
+                           directed;
+                           (b) upon a copy being sent by facsimile or by other electronic
+                           means to the person to whom it is directed and an acknowledgement
+                           of receipt being received;
+                           (c) five days after a copy is sent by mail addressed to the person to
+                           whom it is directed at the last known address for that person; or
+                           (d) in the case of a registered owner of real property, five days after
+                           a copy is sent by mail to the address for the registered owner shown
+                           on the last revised assessment roll.
+Service of director     (3) Where the person to be served is a corporation, service on a
+or officer of         director, officer or recognized agent of the corporation in accordance
+corporation
+                      with subsection (2) is deemed to be service on the corporation for the
+                      purposes of this Act.
+Order for               (4) Where it is impractical for any reason to serve an order in a
+substituted service   manner referred to prescribed in subsection (2), an ex parte application
+                      may be made to a judge of the Supreme Court who may make an order
+                      for substituted service providing for such steps to be taken to bring the
+                      matter to the attention of the person to be served.
+Evidence                (5) Any order issued pursuant to this Act or the regulations shall be
+                      prima facie proof in proceedings in any court not only that the order was
+                      legally made, but also that every administrative prerequisite necessary to
+
+                                                           38
+                         Environmental Protection Act              Cap. E-9                    39
+
+
+
+enable the making of the order was done and satisfied, and no further
+proof than the mere production of the original order or a copy thereof
+certified by the Minister or his authorized representative, is necessary.
+1988,c.19,s.29; 2005,c.32,s.4; 2008,c.13,s.11.
+29.1 (1) In this section, “Commission” means the Island Regulatory and        Island Regulatory
+Appeals Commission established under section 2 of the Island                  and Appeals
+                                                                              Commission
+Regulatory and Appeals Commission Act R.S.P.E.I. 1988, Cap. I-11.
+  (2) A person to whom an environmental protection order is issued by         Right of appeal to
+the Minister or an environment officer under subsection 7(2) or 7.1(2)        Commission
+
+may, within 21 days from the date the environmental protection order is
+served on the person, appeal the environmental protection order by
+serving a notice of appeal on the Commission.
+  (3) A person to whom an order is issued by the Minister or an               Idem
+environment officer under the regulations may, within 21 days from the
+date the order is served on the person, appeal the order by serving a
+notice of appeal on the Commission, if the regulations indicate that the
+order may be appealed to the Commission in accordance with this
+section.
+  (4) A person who is aggrieved by a decision of the Minister or of any       Idem
+officer or employee of the Department
+     (a) to refuse that person a permit, endorsement on a permit,
+     variance, exemption or other authorization that may be issued under
+     this Act or the regulations;
+     (b) to revoke or amend a permit, endorsement on a permit, variance,
+     exemption or other authorization held by that person under this Act
+     or the regulations; or
+     (c) to refuse to approve a management plan or a material
+     stewardship plan proposed by that person under the regulations, or
+     to revoke or amend a management plan or a material stewardship
+     plan of that person after it was approved,
+may, within 21 days from the date the decision is served on the person,
+appeal the decision by serving a notice of appeal on the Commission, if
+the regulations indicate that the decision may be appealed to the
+Commission in accordance with this section.
+  (5) A notice of appeal served on the Commission under this section          Notice
+shall be in writing, on a form approved by the Commission, and shall
+state the grounds for the appeal, the relief sought, and the name and
+address of the person making the appeal.
+  (6) The service of a written notice of appeal under this section does not   Idem
+operate as a stay of, and shall not in any way affect the environmental
+
+
+                                     39
+40                      Cap. E-9                 Environmental Protection Act
+
+
+
+                        protection order or order referred to in subsection (3) or a decision
+                        referred to in subsection (4), as the case may be, that is the subject matter
+                        of the appeal.
+Notice of hearing         (7) In any appeal under this section, the Commission shall serve notice
+                        upon the person making the appeal and the Minister of the date, time and
+                        place at which the appeal will be heard.
+Idem                      (8) Where a notice is served by the Commission under subsection (7),
+                        the notice may be served personally, or
+                             (a) where the notice is served on the Minister, by mailing the notice
+                             to the business address of the Minister; or
+                             (b) where the notice is served on a person making the appeal, by
+                             mailing the notice to the address on the person’s notice of appeal.
+Deemed service             (9) Where service referred to in subsection (8) is made by mail, the
+                        service shall be deemed to be made on the fifth day after the date of
+                        mailing, unless the person on whom service is being made establishes
+                        that the person, acting in good faith, through the absence, accident,
+                        illness or other cause beyond the person’s control, did not receive the
+                        notice until a later date.
+Procedure                 (10) The Commission shall, when hearing an appeal, determine its own
+                        procedure, subject to adherence to the rules of natural justice.
+Order                     (11) The Commission shall hear and decide an appeal and shall issue
+                        an order giving effect to its disposition.
+Idem                      (12) The Commission may vary, confirm or rescind the order or
+                        decision being appealed.
+Reasons for
+decision                  (13) The Commission shall give written reasons for its decision and
+                        shall provide a certified copy of its decision or order to the person
+                        making the appeal and to the Minister. 2008,c.13,s.12; 2009,c.69,s.4.
+Liability of officers   30. The Minister, environment officers, or any other persons acting
+                        under the authority of this Act or the regulations are not personally liable
+                        for any loss or damage suffered by any person by reason of anything in
+                        good faith done or omitted to be done in the purported exercise of any
+                        powers given by this Act or the regulations. 1988,c.19,s.30.
+Injunction              31. (1) In addition to any other remedy provided by law, any
+                        contravention or violation of this Act or the regulations may be
+                        restrained by injunction at the instance of the Minister upon application
+                        to the Supreme Court, and the court shall grant the injunction upon being
+                        satisfied that the granting of the injunction is advisable to ensure
+                        compliance with this Act or the regulations.
+
+
+                                                             40
+                         Environmental Protection Act               Cap. E-9                       41
+
+
+
+  (2) An injunction granted pursuant to subsection (1) may be
+                                                                               Form
+prohibitive or mandatory in nature, and where mandatory, may require
+the taking of action to clean or restore the environment. 1988, c.19, s.31.
+32. (1) Any natural person who contravenes or violates                         Penalty
+     (a) any provision of this Act or the regulations; or
+     (b) any term, condition or provision of any order, including an
+     environmental protection order, license, certificate, approval, permit,
+     endorsement on a permit, permission or other authorization issued
+     under this Act or the regulations,
+is guilty of an offence and if no penalty is otherwise specifically
+provided in this Act or the regulations, is liable on summary conviction
+to a fine of not less than $200 or more than $10,000, or to imprisonment
+for 90 days, or to both, and to pay such restitution as the judge thinks fit
+to any person aggrieved or affected by the contravention or violation.
+  (2) Repealed by 2008,c.13,s.13.                                              Idem
+
+  (3) Any corporation which contravenes or violates                            Idem
+     (a) any provision of this Act or the regulations; or
+     (b) any term, condition or provision of any order, including an
+     environmental protection order, license, certificate, approval, permit,
+     endorsement on a permit, permission or other authorization issued
+     under this Act or the regulations,
+is guilty of an offence and if no penalty is otherwise specifically
+provided in this Act or the regulations, is liable on summary conviction
+to a fine of not less than $1,000 or more than $50,000, or its directors to
+imprisonment for 90 days, or to both, and to pay such restitution as the
+judge thinks fit to any person aggrieved or affected by the contravention
+or violation.
+  (4) Repealed by 2008,c.13,s.13.                                              Idem
+
+  (5) Any officer, director or agent of a corporation who directs,             Personal liability of
+authorizes, assents to, acquiesces in, or participates in, the commission of   corporate officers
+
+an offence by that corporation under subsection (3) is guilty of an
+offence and is liable, in respect of the commission of an offence by the
+corporation under subsection (3), to any penalty set out in subsection (1).
+  (6) Where a contravention or violation of any provision of the Act or        Continuing offence
+the regulations continues for more than one day, the offender is guilty of
+a separate offence for each day that the contravention or violation
+continues.
+  (7) Proceedings with respect to an offence under this Act or the             Limitation period
+regulations may be instituted at any time within two years after the time
+when the subject matter of the proceedings arose.
+
+                                     41
+42                    Cap. E-9                Environmental Protection Act
+
+
+
+                        (8) For the purposes of subsection (3), Her Majesty in right of the
+Prosecution of
+Crown
+                      province or in right of Canada is deemed to be a corporation.
+                      1991,c.10,s.10;    1994,c.16,s.1;    2002,c.5,s.12;   2008,c.13,s.13,
+                      2009,c.69,s.5.
+Remedial action       33. (1) Where
+authorized by court       (a) pursuant to this Act or the regulations,
+                             (i) the Minister or an environment officer has issued an order,
+                             including an environmental protection order, or
+                             (ii) the Minister has given a direction; and
+                          (b) the person to whom the order is issued, or the direction is given,
+                          has failed to comply with it,
+                      the Minister may apply to the Supreme Court for an order authorizing the
+                      Minister to take such remedial action as may be specified in the order.
+Order for costs of      (2) After taking remedial action under a court order pursuant to
+remediation           subsection (1), the Minister may issue an order for the costs of the
+                      remedial action against the person to whom the original order or
+                      direction was given. 1995,c.11,s.5; 2005,c.32,s.5; 2008,c.13,s.14.
+Immediate action      34. (1) Where
+required, order or        (a) pursuant to this Act or the regulations,
+direction
+                             (i) the Minister or an environment officer has issued an order,
+                             including an environmental protection order, or
+                             (ii) the Minister has given a direction;
+                          (b) the person to whom the order is issued, or the direction is given,
+                          has failed to comply with it; and
+                          (c) the order or direction relates to a matter which in the opinion of
+                          the Minister requires immediate action to prevent further injury to
+                          the environment,
+                      the Minister may take the appropriate remedial action to carry out the
+                      terms of the order or direction.
+Order for costs         (2) After taking remedial action under subsection (1) the Minister may
+                      issue an order for the costs of the remedial action against the person to
+                      whom the original order or direction was given. 1995,c.11,s.5;
+                      2005,c.32,s.6; 2008,c.13,s.15.
+Immediate action      35. (1) Where contamination or damage of any kind is caused by failure
+required, no order    of any person to comply with the provisions of this Act or regulations
+or direction
+                      and where the contamination or damage relates to a matter which in the
+                      opinion of the Minister requires immediate action to prevent further
+                      injury to the environment, the Minister may take the appropriate remedial
+                      action to clean up the contamination or damage.
+
+
+
+
+                                                          42
+                        Environmental Protection Act              Cap. E-9                     43
+
+
+
+   (2) After taking remedial action under subsection (1) the Minister may
+                                                                             Order for costs
+issue an order for the costs of the remedial action against the person who
+has caused the contamination or damage. 1995,c.11,s.5.
+36. An order for cost of remediation under subsection 33(2), 34(2) or        Filed order has
+35(2) may be filed with the Registrar of the Court of Appeal and the         effect as judgment
+
+Supreme Court at any time thirty days after it is issued and, when so
+filed, the order is of the same force and effect as if it were a judgment.
+1995,c.11,s.5; 2008,c.20,s.72(28).
+
+
+
+
+                                    43
+44   Cap. E-9   Environmental Protection Act
+
+
+
+                     APPENDIX 2
+
+
+
+
+                            44
+

@@ -1,0 +1,262 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+    Gasoline Regulations                                             Règlement sur l’essence
+
+                       SOR/90-247                                                        DORS/90-247
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published             31. (1) Every copy of a consolidated statute or            31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies      (3) In the event of an inconsistency between a              (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                                 Enregistrement
+SOR/90-247 April 26, 1990                                    DORS/90-247 Le 26 avril 1990
+CANADIAN ENVIRONMENTAL PROTECTION ACT,                       LOI CANADIENNE SUR LA PROTECTION DE
+1999                                                         L’ENVIRONNEMENT (1999)
+
+Gasoline Regulations                                         Règlement sur l’essence
+
+P.C. 1990-740 April 26, 1990                                 C.P. 1990-740 Le 26 avril 1990
+
+   Whereas, pursuant to subsection 48(1) of the Canadi-         Attendu que, conformément au paragraphe 48(1) de la
+an Environmental Protection Act*, the Minister of the        Loi canadienne sur la protection de l’environnement*, le
+Environment published in the Canada GazettePart I on         ministre de l’Environnement a fait publier dans la Ga-
+July 15, 1989 a copy of the annexed Regulations re-          zette du Canada Partie I, le 15 juillet 1989, le projet de
+specting concentrations of lead and phosphorus in gaso-      règlement concernant la concentration de plomb et de
+line, substantially in the form annexed hereto;              phosphore dans l’essence, conforme en substance au
+   And Whereas, in the opinion of the Governor in            texte ci-après;
+Council, the concentrations of lead and phosphorus in          Attendu que le gouverneur en conseil est d’avis que,
+gasoline prescribed in the annexed Regulations, if ex-       dans des conditions normales de combustion, l’essence
+ceeded, would, on the combustion of the gasoline in or-      contenant une concentration de plomb ou de phosphore
+dinary circumstances, result in a significant contribution   supérieure à celle prescrite dans le règlement ci-après
+to air pollution;                                            contribuerait sensiblement à la pollution atmosphérique,
+   Therefore, His Excellency the Governor General in            À ces causes, sur avis conforme du ministre de l’Envi-
+Council, on the recommendation of the Minister of the        ronnement et en vertu de l’article 47 et du paragraphe
+Environment, pursuant to section 47 and subsection           87(1) de la Loi canadienne sur la protection de l’envi-
+87(1) of the Canadian Environmental Protection Act*, is      ronnement*, il plaît à Son Excellence le Gouverneur gé-
+pleased hereby to revoke the Lead-Free Gasoline Regu-        néral en conseil d’abroger le Règlement sur l’essence
+lations, C.R.C., c. 408 and the Leaded Gasoline Regula-      sans plomb, C.R.C., ch. 408, et le Règlement sur l’es-
+tions, C.R.C., c. 409 and to make the annexed Regula-        sence au plomb, C.R.C., ch. 409, et de prendre en rem-
+tions respecting concentrations of lead and phosphorus       placement le Règlement concernant la concentration de
+in gasoline, in substitution therefor.                       plomb et de phosphore dans l’essence, ci-après.
+
+
+
+
+*                                                             * 
+     R.S., c. 16 (4th Supp.)                                       L.R., ch. 16 (4e suppl.)
+REGULATIONS RESPECTING CONCENTRATIONS                                          RÈGLEMENT       CONCERNANT                                       LA
+   OF LEAD AND PHOSPHORUS IN GASOLINE                                             CONCENTRATION DE PLOMB                                 ET     DE
+                                                                                  PHOSPHORE DANS L’ESSENCE
+
+                          SHORT TITLE                                                                  TITRE ABRÉGÉ
+  1. These Regulations may be cited as the Gasoline                               1. Règlement sur l’essence.
+Regulations.
+
+                      INTERPRETATION                                                                    DÉFINITIONS
+   2. In these Regulations,                                                      2. Les définitions qui suivent s’appliquent au présent
+“Act” means the Canadian Environmental Protection                              règlement.
+Act, 1999; (Loi)                                                               « essence » [Abrogée, DORS/94-355, art. 1]
+“competition vehicle” means a vehicle or boat that is                          « essence au plomb » Essence à laquelle du plomb est
+used exclusively for competition and does not include a                        ajouté durant la production. (leaded gasoline)
+vehicle that is used on a highway or a vehicle or boat                         « essence sans plomb » [Abrogée, DORS/2008-126, art.
+that is used for recreational purposes; (véhicule de com-                      1]
+pétition)
+                                                                               « fournisseur principal » [Abrogée, DORS/2003-106, art.
+“gasoline” [Revoked, SOR/94-355, s. 1]                                         1]
+“highway” means a common or public road, street, av-                           « importation » Importation d’essence au Canada, sauf si
+enue, parkway, driveway, square, place, bridge or                              cette essence est importée dans le réservoir de carburant
+viaduct, any part of which is intended for or used by the                      d’un moyen de transport ou d’un véhicule de compéti-
+general public for the passage of vehicles, and includes                       tion pour en alimenter le moteur. (import)
+the area between the lateral property lines thereof; (voie
+publique)                                                                      « Loi » La Loi canadienne sur la protection de l’environ-
+                                                                               nement (1999). (Act)
+“import” means to import gasoline into Canada, except
+gasoline that is imported in the fuel tank of a conveyance                     « organisme d’accréditation des courses » [Abrogée,
+or a competition vehicle for the use of the conveyance’s                       DORS/98-217, art. 1]
+or the competition vehicle’s engine; (importation)                             « véhicule de compétition » Véhicule ou bateau utilisé
+“leaded gasoline” means gasoline to which lead has been                        uniquement à des fins de compétition. La présente défi-
+added during the production process; (essence au plomb)                        nition exclut tout véhicule utilisé sur une voie publique
+                                                                               et tout véhicule ou bateau utilisé à des fins récréatives.
+“primary supplier” [Repealed, SOR/2003-106, s. 1]                              (competition vehicle)
+“race-sanctioning body” [Repealed, SOR/98-217, s. 1]                           « voie publique » Route commune ou publique, rue, ave-
+“unleaded gasoline” [Repealed, SOR/2008-126, s. 1]                             nue, promenade, allée, place, pont ou viaduc, dont une
+SOR/94-355, s. 1; SOR/98-217, s. 1; SOR/2000-104, s. 2; SOR/2003-106, s.       partie est prévue pour le passage de véhicules ou utilisée
+1; SOR/2008-126, s. 1.
+                                                                               par le grand public à cette fin, y compris la zone entre les
+                                                                               limites de propriété latérales de ces ouvrages. (highway)
+                                                                               DORS/94-355, art. 1; DORS/98-217, art. 1; DORS/2000-104, art. 2; DORS/
+                                                                               2003-106, art. 1; DORS/2008-126, art. 1.
+
+
+
+
+                                                                           1
+                                                          SOR/90-247 — October 6, 2010
+
+
+
+
+                          APPLICATION                                                             CHAMP D’APPLICATION
+  3. (1) These Regulations do not apply in respect of                             3. (1) Le présent règlement ne s’applique pas à l’es-
+gasoline for use in aircraft.                                                   sence utilisée dans les aéronefs.
+  (2) These Regulations, except for sections 2 and 11,                             (2) Le présent règlement, à l’exception des articles 2
+do not apply in respect of gasoline for use in competition                      et 11, ne s’applique pas à l’essence utilisée dans les véhi-
+vehicles.                                                                       cules de compétition.
+SOR/94-355, s. 2; SOR/97-147, s. 1; SOR/98-217, s. 2; SOR/2003-106, s. 2;       DORS/94-355, art. 2; DORS/97-147, art. 1; DORS/98-217, art. 2; DORS/
+SOR/2008-126, s. 2; SOR/2010-134, s. 1.                                         2003-106, art. 2; DORS/2008-126, art. 2; DORS/2010-134, art. 1.
+
+    MAXIMUM CONCENTRATIONS OF LEAD IN                                              CONCENTRATIONS MAXIMALES DE PLOMB
+               GASOLINE                                                                     DANS L’ESSENCE
+  4. The maximum concentration of lead in gasoline                                4. La concentration maximale de plomb dans l’es-
+produced, imported or sold in Canada is 5 mg/L.                                 sence produite, importée ou vendue au Canada est de 5
+SOR/94-355, s. 2; SOR/2008-126, s. 3.                                           mg/L.
+                                                                                DORS/94-355, art. 2; DORS/2008-126, art. 3.
+
+   5. [Repealed, SOR/2008-126, s. 4]                                               5. [Abrogé, DORS/2008-126, art. 4]
+
+            MAXIMUM CONCENTRATION OF                                             CONCENTRATION MAXIMALE DE PHOSPHORE
+             PHOSPHOROUS IN GASOLINE                                                       DANS L’ESSENCE
+  6. The maximum concentration of phosphorus in                                   6. La concentration maximale de phosphore dans l’es-
+gasoline produced, imported or sold in Canada is 1.3                            sence produite, importée ou vendue au Canada est de 1,3
+mg/L.                                                                           mg/L.
+SOR/2008-126, s. 4.                                                             DORS/2008-126, art. 4.
+
+                             ANALYSIS                                                                        ANALYSE
+  7. The concentration of lead in gasoline produced,                               7. La concentration de plomb dans l’essence produite,
+imported or sold in Canada shall be measured in accor-                          importée ou vendue au Canada doit être mesurée confor-
+dance with the National Standard of Canada method                               mément à la norme nationale du Canada CAN/CG-
+CAN/CGSB-3.0 No. 19.5-2004, Methods of Testing                                  SB-3.0 No. 19.5-2004 intitulée Méthodes d’essai des
+Petroleum and Associated Products: Determination of                             produits pétroliers et produits connexes : dosage du
+Lead in Automotive Gasoline (Atomic Absorption), as                             plomb dans l’essence pour automobiles (spectrophoto-
+amended from time to time.                                                      métrie d’absorption atomique), compte tenu de ses mo-
+SOR/94-355, s. 3; SOR/98-217, s. 3; SOR/2008-126, s. 5.                         difications successives.
+                                                                                DORS/94-355, art. 3; DORS/98-217, art. 3; DORS/2008-126, art. 5.
+
+  8. The concentration of phosphorus in gasoline pro-                              8. La concentration de phosphore dans l’essence pro-
+duced, imported or sold in Canada shall be measured in                          duite, importée ou vendue au Canada doit être mesurée
+accordance with the ASTM International method ASTM                              conformément à la méthode ASTM D 3231-07 de
+D 3231-07, Standard Test Method for Phosphorus in                               l’ASTM International intitulée Standard Test Method for
+Gasoline, as amended from time to time.                                         Phosphorus in Gasoline, compte tenu de ses modifica-
+SOR/98-217, s. 4; SOR/2003-106, s. 3; SOR/2008-126, s. 5.                       tions successives.
+                                                                                DORS/98-217, art. 4; DORS/2003-106, art. 3; DORS/2008-126, art. 5.
+
+
+
+
+                                                                            2
+                                           DORS/90-247 — 6 octobre 2010
+
+
+
+
+  9. [Repealed, SOR/2008-126, s. 5]                                 9. [Abrogé, DORS/2008-126, art. 5]
+
+           MAINTENANCE OF RECORDS                                                TENUE DE REGISTRES
+  10. [Repealed, SOR/2008-126, s. 6]                                10. [Abrogé, DORS/2008-126, art. 6]
+   11. (1) Every person who produces, sells or imports               11. (1) Quiconque produit, vend ou importe pour uti-
+for use or sale in Canada leaded gasoline for use in com-         lisation ou vente au Canada de l’essence au plomb desti-
+petition vehicles shall make and retain a record of the           née à être utilisée dans des véhicules de compétition doit
+quantities of leaded gasoline produced, sold or imported          tenir et conserver un registre des quantités d’essence au
+for use or sale in Canada each year and that record shall         plomb produites, vendues ou importées pour utilisation
+show                                                              ou vente au Canada chaque année qui doit indiquer :
+  (a) the gasoline’s brand name;                                    a) la marque de l’essence;
+  (b) the gasoline’s octane rating and the test method              b) l’indice d’octane de l’essence et la méthode utili-
+  by which the rating was determined;                               sée pour la détermination de cet indice;
+  (c) the average lead concentration in milligrams of               c) la concentration moyenne de plomb, en milli-
+  lead per litre of gasoline on a yearly basis;                     grammes de plomb par litre d’essence, par année;
+  (d) the name and address of                                       d) les nom et adresse :
+    (i) the distributor or reseller of the gasoline, if the            (i) soit du distributeur ou du revendeur de l’es-
+    gasoline was sold for distribution or resale, or                   sence, si l’essence a été vendue pour distribution ou
+    (ii) the track or event location where the gasoline                revente,
+    was used, if the gasoline was sold at a particular                 (ii) soit de la piste de course ou des lieux de l’évé-
+    track or event location; and                                       nement au cours duquel l’essence a été utilisée, si
+  (e) the total quantity of leaded gasoline sold to each               l’essence y a été vendue;
+  of the entities specified in subparagraph (d)(i) or at            e) la quantité totale d’essence au plomb vendue à
+  each of the locations specified in subparagraph (d)(ii).          chaque entité visée au sous-alinéa d)(i) ou dans cha-
+                                                                    cun des lieux visés au sous-alinéa d)(ii).
+  (2) The record shall be submitted annually to the                  (2) Le registre doit être transmis chaque année au mi-
+Minister on or before March 31 of the year following              nistre au plus tard le 31 mars suivant l’année au cours de
+each year during which leaded gasoline was produced,              laquelle de l’essence au plomb a été produite, vendue ou
+sold or imported for use or sale in Canada.                       importée pour utilisation ou vente au Canada.
+  (3) The record shall be retained in Canada for a peri-             (3) Le registre doit être conservé au Canada pour une
+od of five years beginning on the date the record is              période de cinq ans à compter de la date de la consigna-
+made.                                                             tion des renseignements.
+  (4) Any record submitted under subsection (2) shall               (4) Tout registre présenté aux termes du paragraphe
+  (a) in the case of a corporation, be signed by an offi-         (2) doit :
+  cer of the corporation who is authorized to act on its            a) dans le cas d’une personne morale, être signé par
+  behalf;                                                           celui des dirigeants de cette personne morale autorisé
+                                                                    à agir au nom de celle-ci;
+
+
+
+
+                                                              3
+                                                     SOR/90-247 — October 6, 2010
+
+
+
+
+   (b) in the case of any other person, be signed by the                          b) dans le cas de toute autre personne, être signée par
+   person submitting the record, or by a person autho-                            la personne qui présente le registre ou la personne au-
+   rized to act on behalf of that person;                                         torisée à agir au nom de celle-ci;
+   (c) in the case of any other entity, be signed by a per-                       c) dans le cas de toute autre entité, être signé par la
+   son authorized to act on its behalf.                                           personne autorisée à agir au nom de celle-ci.
+SOR/94-355, s. 4; SOR/98-217, s. 5; SOR/2003-106, s. 4; SOR/2008-126, s.       DORS/94-355, art. 4; DORS/98-217, art. 5; DORS/2003-106, art. 4; DORS/
+7.                                                                             2008-126, art. 7.
+
+
+
+
+                                                                           4
+                                 DORS/90-247 — 6 octobre 2010
+
+
+
+
+        SCHEDULE                                                       ANNEXE
+
+[Repealed, SOR/2008-126, s. 8]                              [Abrogée, DORS/2008-126, art. 8]
+
+
+
+
+                                              5
+

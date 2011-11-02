@@ -1,0 +1,1289 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+      Federal Halocarbon                                         Règlement fédéral sur les
+       Regulations, 2003                                           halocarbures (2003)
+
+                     SOR/2003-289                                                      DORS/2003-289
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published            31. (1) Every copy of a consolidated statute or             31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies       (3) In the event of an inconsistency between a             (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                                 Enregistrement
+SOR/2003-289 August 13, 2003                                 DORS/2003-289 Le 13 août 2003
+CANADIAN ENVIRONMENTAL PROTECTION ACT,                       LOI CANADIENNE SUR LA PROTECTION DE
+1999                                                         L’ENVIRONNEMENT (1999)
+
+Federal Halocarbon Regulations, 2003                         Règlement fédéral sur les halocarbures (2003)
+
+P.C. 2003-1203 August 13, 2003                               C.P. 2003-1203 Le 13 août 2003
+
+   Whereas, pursuant to subsection 332(1) of the Cana-          Attendu que, conformément au paragraphe 332(1) de
+dian Environmental Protection Act, 1999a, the Minister       la Loi canadienne sur la protection de l’environnement
+of the Environment published in the Canada Gazette,          (1999)a, le ministre de l’Environnement a fait publier
+Part I, on December 7, 2002, a copy of the proposed          dans la Gazette du Canada Partie I, le 7 décembre 2002,
+Regulations under the title Federal Halocarbon Regula-       le projet de règlement intitulé Règlement fédéral sur les
+tions, 2002, substantially in the form set out in the an-    halocarbures (2002), conforme en substance au texte ci-
+nexed Regulations, and persons were given an opportu-        après, et que les intéressés ont ainsi eu la possibilité de
+nity to file comments with respect to the Regulations or     présenter leurs observations à cet égard ou un avis d’op-
+a notice of objection requesting that a board of review be   position motivé demandant la constitution d’une com-
+established and stating the reasons for the objection;       mission de révision,
+   Therefore, Her Excellency the Governor General in            À ces causes, sur recommandation du ministre de
+Council, on the recommendation of the Minister of the        l’Environnement et en vertu du paragraphe 209(1) de la
+Environment, pursuant to subsection 209(1) of the Cana-      Loi canadienne sur la protection de l’environnement
+dian Environmental Protection Act, 1999a, hereby makes       (1999)a, Son Excellence la Gouverneure générale en
+the annexed Federal Halocarbon Regulations, 2003.            conseil prend le Règlement fédéral sur les halocarbures
+                                                             (2003), ci-après.
+
+
+
+
+a                                                             a 
+     S.C. 1999, c. 33                                              L.C. 1999, ch. 33
+FEDERAL HALOCARBON REGULATIONS, 2003                              RÈGLEMENT    FÉDÉRAL                      SUR          LES
+                                                                     HALOCARBURES (2003)
+
+                  INTERPRETATION                                                       DÉFINITIONS
+   1. The definitions in this section apply in these Regu-          1. Les définitions qui suivent s’appliquent au présent
+lations.                                                          règlement.
+“Act” means the Canadian Environmental Protection                 « bromofluorocarbure » Bromofluorocarbure entièrement
+Act, 1999. (Loi)                                                  halogéné dont chaque molécule contient un, deux ou
+“air-conditioning system” means an air-conditioning               trois atomes de carbone et au moins un atome de brome
+system, including any associated equipment, that con-             et un atome de fluor. (bromofluorocarbon)
+tains or is designed to contain a halocarbon refrigerant.         « certificat » Certificat, reconnu par au moins trois pro-
+(système de climatisation)                                        vinces, ou par la province dans laquelle le technicien
+“bromofluorocarbon” means a fully halogenated bro-                d’entretien qui en est le titulaire effectue un travail, qui
+mofluorocarbon each molecule of which contains one,               indique que le titulaire a terminé avec succès un cours de
+two or three carbon atoms and at least one atom of                sensibilisation environnementale portant sur le recy-
+bromine and one atom of fluorine. (bromofluorocarbure)            clage, la récupération et la manutention de frigorigènes
+                                                                  aux halocarbures comme le prévoit le Code de pratique
+“certificate” means a certificate recognized by three or          en réfrigération. (certificate)
+more provinces, or by the province in which the work of
+the service technician who holds the certificate is being         « charger » Ajouter un halocarbure à un système. (charg-
+done, indicating successful completion of an environ-             ing)
+mental awareness course in recycling, recovery and han-           « chlorofluorocarbure » Chlorofluorocarbure entièrement
+dling procedures in respect of halocarbon refrigerants as         halogéné dont chaque molécule contient un, deux ou
+outlined in the Refrigerant Code of Practice. (certificat)        trois atomes de carbone et au moins un atome de chlore
+“certified person”, in respect of a refrigeration system or       et un atome de fluor. (chlorofluorocarbon)
+an air-conditioning system, means a service technician            « Code de pratique en réfrigération » Le Code de pra-
+who holds a certificate. (personne accréditée)                    tiques environnementales pour l’élimination des rejets
+“charging” means to add a halocarbon to a system.                 dans l’atmosphère de fluorocarbures provenant des sys-
+(charger)                                                         tèmes de réfrigération et de conditionnement d’air, pu-
+                                                                  blié par le ministère de l’Environnement en mars 1996,
+“chiller” means an air-conditioning system or refrigera-          avec ses modifications successives. (Refrigerant Code of
+tion system that has a compressor, an evaporator and a            Practice)
+secondary refrigerant. (refroidisseur)
+                                                                  « entretien » S’entend notamment de la maintenance, de
+“chlorofluorocarbon” means a fully halogenated chlo-
+                                                                  la modification, de la charge, de la réparation, du démé-
+rofluorocarbon each molecule of which contains one,
+                                                                  nagement, de la destruction, de la mise hors service, du
+two or three carbon atoms and at least one atom of chlo-
+                                                                  désassemblage, de la mise en service et de l’essai d’un
+rine and one atom of fluorine. (chlorofluorocarbure)
+                                                                  système. Ne sont pas visés par la présente définition les
+“fire-extinguishing system” means fire-extinguishing              essais relatifs à la fabrication et à la production du sys-
+equipment, including portable or fixed equipment and              tème. (service)
+any associated equipment, that contains or is designed to
+                                                                  « extincteur portatif » Bonbonne ou cartouche contenant
+contain a halocarbon fire-extinguishing agent. (système
+                                                                  un halocarbure qui est utilisée pour éteindre les incen-
+d’extinction d’incendie)
+                                                                  dies, a une capacité de charge d’au plus 25 kg et peut
+
+
+
+
+                                                              1
+                                         SOR/2003-289 — October 6, 2010
+
+
+
+“halocarbon” means a substance set out in Schedule 1,            être portée ou roulée sur le lieu de l’incendie. (portable
+whether existing alone or in a mixture, and includes iso-        fire extinguisher)
+mers of any such substance. (halocarbure)                        « fuite » Rejet d’un halocarbure d’un système. (leak)
+“hydrobromofluorocarbon” means a hydrobromofluoro-               « halocarbure » Substance visée à l’annexe 1, y compris
+carbon each molecule of which contains one, two or
+                                                                 ses isomères, qui se présente seule ou dans un mélange.
+three carbon atoms and at least one atom of hydrogen,
+                                                                 (halocarbon)
+one atom of bromine and one atom of fluorine. (hydro-
+bromofluorocarbure)                                              « hydrobromofluorocarbure » Hydrobromofluorocarbure
+                                                                 dont chaque molécule contient un, deux ou trois atomes
+“hydrochlorofluorocarbon” means a hydrochlorofluoro-
+                                                                 de carbone et au moins un atome d’hydrogène, un atome
+carbon each molecule of which contains one, two or
+                                                                 de brome et un atome de fluor. (hydrobromofluorocar-
+three carbon atoms and at least one atom of hydrogen,
+                                                                 bon)
+one atom of chlorine and one atom of fluorine. (hydro-
+chlorofluorocarbure)                                             « hydrochlorofluorocarbure » Hydrochlorofluorocarbure
+                                                                 dont chaque molécule contient un, deux ou trois atomes
+“hydrofluorocarbon” means a hydrofluorocarbon each
+                                                                 de carbone et au moins un atome d’hydrogène, un atome
+molecule of which contains only carbon, hydrogen and
+                                                                 de chlore et un atome de fluor. (hydrochlorofluorocar-
+fluorine atoms. (hydrofluorocarbure)
+                                                                 bon)
+“installation” does not include the reactivation of a sys-
+                                                                 « hydrofluorocarbure » Hydrofluorocarbure dont chaque
+tem by the same owner at the same site. (installation)
+                                                                 molécule ne contient que des atomes de carbone, d’hy-
+“leak” means a release of a halocarbon from a system.            drogène et de fluor. (hydrofluorocarbon)
+(fuite)
+                                                                 « installation » N’est pas comprise dans l’installation la
+“military vehicle” means a vehicle that is designed to be        remise en état de fonctionnement d’un système dans les
+used in combat, or in a combat support role, but does not        mêmes lieux et par le même propriétaire. (installation)
+include an administrative vehicle. (véhicule militaire)
+                                                                 « Loi » La Loi canadienne sur la protection de l’environ-
+“owner” means to hold a right in or to have possession,          nement (1999). (Act)
+control or custody of, to be responsible for the mainte-
+                                                                 « navire » S’entend au sens du paragraphe 122(1) de la
+nance, operation or management of, or to have the power
+                                                                 Loi. (ship)
+to dispose of, a system. (propriétaire)
+                                                                 « perfluorocarbure » Fluorocarbure entièrement fluoré
+“perfluorocarbon” means a fully fluorinated fluorocar-
+                                                                 dont chaque molécule ne contient que des atomes de car-
+bon each molecule of which contains only carbon and
+                                                                 bone et de fluor. (perfluorocarbon)
+fluorine atoms. (perfluorocarbure)
+                                                                 « personne accréditée » Dans le cas d’un système de ré-
+“portable fire extinguisher” means a cylinder or cartridge
+                                                                 frigération ou de climatisation, technicien d’entretien ti-
+containing a halocarbon that is used for extinguishing
+                                                                 tulaire d’un certificat. (certified person)
+fires, that has a charging capacity of 25 kg or less and
+that can be carried or wheeled to the site of a fire. (ex-       « petit système de climatisation » Système de climatisa-
+tincteur portatif)                                               tion qui n’est pas contenu dans un véhicule automobile
+                                                                 et qui, selon le fabricant, a une puissance frigorifique de
+“purge system” means a purge unit on a refrigeration
+                                                                 moins de 19 kW. (small air-conditioning system)
+system or an air-conditioning system, including any as-
+sociated recovery equipment. (système à vidange)                 « petit système de réfrigération » Système de réfrigéra-
+                                                                 tion — autre que celui qui est installé dans un moyen de
+                                                                 transport, est fixé à celui-ci ou est normalement utilisé
+
+
+
+                                                             2
+                                           DORS/2003-289 — 6 octobre 2010
+
+
+
+“reclamation”, in respect of a halocarbon, means the re-            avec lui — qui a une puissance frigorifique nominale de
+covery, re-processing and upgrading through processes               moins de 19 kW. (small refrigeration system)
+such as filtering, drying, distilling and treating chemical-        « propriétaire » Quiconque détient un droit sur un sys-
+ly in order to restore the halocarbon to industry-accepted          tème, en a la possession, la responsabilité ou la garde,
+reuse standards. (régénération)                                     est chargé de son entretien, son exploitation ou sa ges-
+“recovery”, in respect of a halocarbon, means                       tion, ou a le pouvoir de l’aliéner. (owner)
+  (a) collection after it has been used; or                         « récupération » Selon le cas, le fait :
+  (b) collection from machinery, equipment, a system                  a) de recueillir un halocarbure après son utilisation;
+  or a container during servicing or before dismantling,              b) d’extraire un halocarbure de machines, d’équipe-
+  decommissioning or destruction of the machinery,
+                                                                      ments, de systèmes ou de contenants pendant leur en-
+  equipment, system or container. (récupération)
+                                                                      tretien ou avant leur destruction, désassemblage ou
+“recycling”, in respect of a halocarbon, means recovery               mise hors service. (recovery)
+and, if needed, cleaning by a process such as filtering or
+                                                                    « recyclage » La récupération et, au besoin, le nettoyage
+drying, and re-using to charge a system. (recyclage)
+                                                                    d’un halocarbure au moyen d’opérations telles que le fil-
+“Refrigerant Code of Practice” means the Environmental              trage ou le séchage, et sa réutilisation pour charger des
+Code of Practice for Elimination of Fluorocarbon Emis-              systèmes. (recycling)
+sions from Refrigeration and Air-Conditioning Systems,
+                                                                    « refroidisseur » Système de climatisation ou système de
+published by the Department of the Environment in
+                                                                    réfrigération qui comporte un compresseur, un évapora-
+March, 1996, as amended from time to time. (Code de
+                                                                    teur et un frigorigène secondaire. (chiller)
+pratique en réfrigération)
+                                                                    « régénération » La récupération, le retraitement et l’amé-
+“refrigeration system” means a refrigeration system, in-
+                                                                    lioration d’un halocarbure au moyen d’opérations telles
+cluding any associated equipment, that contains or is de-
+                                                                    que le filtrage, le séchage, la distillation et le traitement
+signed to contain a halocarbon refrigerant. (système de
+                                                                    chimique afin qu’il corresponde aux normes de réutilisa-
+réfrigération)
+                                                                    tion acceptées dans l’industrie. (reclamation)
+“service” includes any modification, charging, mainte-
+                                                                    « système » Sauf indication contraire du contexte, s’en-
+nance, repair, moving, dismantling, decommissioning,
+                                                                    tend du système de climatisation, du système d’extinc-
+destruction, start-up and testing of a system, but does not
+                                                                    tion d’incendie, du système de réfrigération ou du sys-
+include testing related to the manufacture and production
+                                                                    tème de solvants. (system)
+of the system. (entretien)
+                                                                    « système à vidange » Unité de vidange d’un système de
+“ship” has the same meaning as in subsection 122(1) of
+                                                                    réfrigération ou de climatisation, y compris tout matériel
+the Act. (navire)
+                                                                    de récupération complémentaire. (purge system)
+“small air-conditioning system” means an air-condition-
+                                                                    « système de climatisation » Système de climatisation, y
+ing system that is not contained in a motor vehicle and
+                                                                    compris le matériel complémentaire, contenant ou conçu
+that has a refrigeration capacity of less than 19 kW as
+                                                                    pour contenir un frigorigène aux halocarbures. (air-con-
+rated by the manufacturer. (petit système de climatisa-
+                                                                    ditioning system)
+tion)
+                                                                    « système de réfrigération » Système de réfrigération, y
+“small refrigeration system” means a refrigeration sys-
+                                                                    compris le matériel complémentaire, contenant ou conçu
+tem, other than one that is installed in, that is attached to
+                                                                    pour contenir un frigorigène aux halocarbures. (refriger-
+or that normally operates in conjunction with a means of
+                                                                    ation system)
+transportation, that has a refrigeration capacity of less
+
+
+
+                                                                3
+                                          SOR/2003-289 — October 6, 2010
+
+
+
+than 19 kW as rated by the manufacturer. (petit système           « système de solvants » Application ou système utilisant
+de réfrigération)                                                 des halocarbures comme solvants, y compris les applica-
+“solvent system” means an application or system that us-          tions de nettoyage et le matériel complémentaire conte-
+es halocarbons as solvents, including cleaning applica-           nant ou conçu pour contenir des solvants aux halocar-
+tions and associated equipment containing or designed to          bures. Ne sont pas visés par la présente définition les
+contain a halocarbon solvent. It does not include those           applications ou systèmes qui utilisent des halocarbures
+applications or systems that use halocarbons as laborato-         comme étalons d’analyse ou réactifs de laboratoire ni
+ry analytical standards or laboratory reagents or in a pro-       ceux qui utilisent des halocarbures dans un procédé par
+cess in which they are converted to another substance or          lequel ces derniers sont convertis en une autre substance
+are generated but ultimately converted to a different sub-        ou sont générés mais sont en fin de compte convertis en
+stance. (système de solvants)                                     une substance différente. (solvent system)
+
+“system”, unless the context requires otherwise, means            « système d’extinction d’incendie » Matériel pour l’ex-
+an air-conditioning system, a fire-extinguishing system,          tinction d’incendie, y compris le matériel portatif ou fixe
+a refrigeration system or a solvent system. (système)             et tout autre matériel complémentaire, contenant ou
+SOR/2009-221, s. 1.
+                                                                  conçu pour contenir un agent extincteur aux halocar-
+                                                                  bures. (fire-extinguishing system)
+                                                                  « véhicule militaire » Tout véhicule conçu en vue d’être
+                                                                  utilisé pour le combat ou d’apporter un soutien lors des
+                                                                  combats. La présente définition ne vise pas les véhicules
+                                                                  administratifs. (military vehicle)
+                                                                  DORS/2009-221, art. 1.
+
+                      APPLICATION                                                   CHAMP D’APPLICATION
+   2. (1) These Regulations apply in respect of systems             2. (1) Le présent règlement s’applique aux systèmes
+located in Canada that are                                        qui sont situés au Canada et, selon le cas :
+   (a) owned by Her Majesty in right of Canada, a board              a) dont sont propriétaires Sa Majesté du chef du
+   or an agency of the Government of Canada, a Crown                 Canada, une commission ou un organisme fédéraux,
+   corporation, as defined in subsection 83(1) of the Fi-            une société d’État au sens du paragraphe 83(1) de la
+   nancial Administration Act, or a federal work or un-              Loi sur la gestion des finances publiques ou une entre-
+   dertaking; or                                                     prise fédérale;
+   (b) located on aboriginal lands or federal lands.                 b) qui se trouvent sur une terre autochtone ou sur le
+                                                                     territoire domanial.
+   (2) These Regulations do not apply to foam products.             (2) Le présent règlement ne s’applique pas aux pro-
+                                                                  duits de mousse.
+
+                      PROHIBITIONS                                                         INTERDICTIONS
+   3. No person shall release, or allow or cause the re-            3. Il est interdit de rejeter un halocarbure — ou d’en
+lease of, a halocarbon that is contained in                       permettre ou d’en causer le rejet — contenu, selon le
+   (a) a refrigeration system or an air-conditioning sys-         cas :
+   tem, or any associated container or device, unless the            a) dans un système de réfrigération ou de climatisa-
+   release results from a purge system that emits less               tion, ou dans tout contenant ou dispositif complémen-
+
+
+
+                                                              4
+                                             DORS/2003-289 — 6 octobre 2010
+
+
+
+   than 0.1 kg of halocarbons per kilogram of air purged                 taire, sauf si le rejet se fait à partir d’un système à vi-
+   to the environment;                                                   dange qui émet moins de 0,1 kg d’halocarbure par
+   (b) a fire-extinguishing system or any associated con-                kilogramme d’air vidangé dans l’environnement;
+   tainer or device, except to fight a fire that is not set for          b) dans un système d’extinction d’incendie ou dans
+   training purposes, or unless the release occurs during                tout contenant ou dispositif complémentaire, sauf pour
+   the recovery of halocarbons under section 7; or                       lutter contre un incendie qui n’est pas allumé à des
+   (c) a container or equipment used in the reuse, recy-                 fins de formation ou si le rejet a lieu durant la récupé-
+                                                                         ration des halocarbures aux termes de l’article 7;
+   cling, reclamation or storage of a halocarbon.
+                                                                         c) dans un contenant ou du matériel servant à la réuti-
+                                                                         lisation, au recyclage, à la régénération ou à l’entrepo-
+                                                                         sage d’un halocarbure.
+   4. (1) No person shall install a system that operates                 4. (1) Il est interdit d’installer un système fonction-
+or is intended to operate with a halocarbon listed in any             nant ou conçu pour fonctionner avec un halocarbure fi-
+of items 1 to 9 of Schedule 1 unless authorized to do so              gurant à l’un des articles 1 à 9 de l’annexe 1 à moins d’y
+by a permit issued under these Regulations.                           être autorisé par un permis délivré au titre du présent rè-
+                                                                      glement.
+  (2) Effective January 1, 2005, no person shall install a               (2) À compter du 1er janvier 2005, il est interdit d’ins-
+solvent system that operates or is intended to operate                taller un système de solvants fonctionnant ou conçu pour
+with a halocarbon listed in item 11 or 12 of Schedule 1               fonctionner avec un halocarbure figurant aux articles 11
+unless authorized to do so by a permit issued under these             ou 12 de l’annexe 1 à moins d’y être autorisé par un per-
+Regulations.                                                          mis délivré au titre du présent règlement.
+  5. (1) No person shall use a halocarbon listed in any                  5. (1) Il est interdit d’utiliser un halocarbure figurant
+of items 1 to 9 of Schedule 1 as a solvent in a solvent               à l’un des articles 1 à 9 de l’annexe 1 comme solvant
+system.                                                               dans un système de solvants.
+  (2) Effective January 1, 2005, no person shall use a                   (2) À compter du 1er janvier 2005, il est interdit d’uti-
+halocarbon listed in item 11 or 12 of Schedule 1 as a sol-            liser un halocarbure figurant aux articles 11 ou 12 de
+vent in a solvent system unless authorized to do so by a              l’annexe 1 comme solvant dans un système de solvants à
+permit issued under these Regulations.                                moins d’y être autorisé par un permis délivré aux termes
+                                                                      du présent règlement.
+   6. (1) No person shall store, transport or purchase a                6. (1) Il est interdit d’entreposer, de transporter ou
+halocarbon unless it is in a container designed and man-              d’acheter un halocarbure qui n’est pas dans un contenant
+ufactured to be refilled and to contain that specific type            conçu et fabriqué pour être réutilisé et pour contenir le
+of halocarbon.                                                        type d’halocarbure en cause.
+   (2) Subsection (1) does not apply in respect of halo-                (2) Le paragraphe (1) ne s’applique pas aux halocar-
+carbons used as laboratory analytical standards or labo-              bures utilisés comme étalons d’analyse ou réactifs de la-
+ratory reagents.                                                      boratoire.
+SOR/2009-221, s. 2(F).                                                DORS/2009-221, art. 2(F).
+
+
+
+
+                                                                  5
+                                           SOR/2003-289 — October 6, 2010
+
+
+
+                      RECOVERY                                                              RÉCUPÉRATION
+   7. (1) Subject to subsection (2), a person who in-                 7. (1) Sous réserve du paragraphe (2), toute personne
+stalls, services, leak tests or charges a refrigeration sys-       qui installe, entretient ou charge un système de réfrigéra-
+tem, an air-conditioning system or a fire-extinguishing            tion, de climatisation ou d’extinction d’incendie, ou ef-
+system, or who does any other work on any of those sys-            fectue sur lui les essais de détection des fuites ou tout
+tems that may result in the release of a halocarbon, shall         autre travail pouvant entraîner le rejet d’un halocarbure,
+recover, into a container designed and manufactured to             doit récupérer tout halocarbure qui serait par ailleurs re-
+be refilled and to contain that specific type of halocar-          jeté durant ces opérations dans un contenant conçu et fa-
+bon, any halocarbon that would otherwise be released               briqué pour être réutilisé et pour contenir le type d’halo-
+during those procedures.                                           carbure en cause.
+   (2) A person who recovers halocarbons from a fire-                 (2) Le matériel de récupération à utiliser, pour la ré-
+extinguishing system shall use recovery equipment with             cupération d’un halocarbure d’un système d’extinction
+a transfer efficiency of at least 99% as referred to in the        d’incendie, doit avoir une efficacité de transfert d’au
+publication ULC/ORD-C1058.5-2004, of the Underwrit-                moins 99 % selon la publication ULC/ADR-
+ers’ Laboratories of Canada, entitled Halon and Halo-              C1058.5-2004 des Laboratoires des assureurs du Canada
+carbon Clean Agent Recovery and Reconditioning                     intitulée Matériel de récupération et de remise en état
+Equipment.                                                         des agents propres à l’halocarbure et au halon.
+  (3) The reference to the publication in subsection (2)              (3) La publication visée au paragraphe (2) doit être
+shall be read as excluding its preface.                            interprétée sans tenir compte de sa préface.
+SOR/2009-221, s. 3.                                                DORS/2009-221, art. 3.
+
+   8. (1) Before dismantling, decommissioning or de-                 8. (1) Toute personne qui se propose de détruire, de
+stroying any system, a person shall recover all halocar-           désassembler ou de mettre hors service un système doit,
+bons contained in the system into a container designed             au préalable, en récupérer les halocarbures dans un
+and manufactured to be refilled and to contain that spe-           contenant conçu et fabriqué pour être réutilisé et pour
+cific type of halocarbon.                                          contenir le type d’halocarbure en cause.
+  (2) Before dismantling, decommissioning or destroy-                (2) Toute personne qui se propose de détruire, de
+ing a system, a person shall affix a notice to the system          désassembler ou de mettre hors service un système doit,
+containing the information set out in column 3 item 1 of           au préalable, y apposer un avis comportant les renseigne-
+Schedule 2.                                                        ments prévus à la colonne 3 de l’article 1 de l’annexe 2.
+   (3) No person shall remove a notice referred to in                (3) Il est interdit d’enlever l’avis à moins de le rem-
+subsection (2) except to replace it with another such no-          placer par un autre comportant les renseignements visés
+tice.                                                              au paragraphe (2).
+  (4) In case of the dismantling, decommissioning or                 (4) En cas de destruction, de désassemblage ou de
+destruction of any system, the owner shall keep a record           mise hors service d’un système, le propriétaire conserve
+of the information contained in the notice referred to in          un document des renseignements contenus dans l’avis.
+subsection (2).
+
+
+
+
+                                                               6
+                                          DORS/2003-289 — 6 octobre 2010
+
+
+
+  INSTALLATION, SERVICING, LEAK TESTING                            INSTALLATION, ENTRETIEN, DÉTECTION DES
+             AND CHARGING                                                    FUITES ET CHARGE
+
+ REFRIGERATION SYSTEMS AND AIR-CONDITIONING SYSTEMS                    SYSTÈMES DE RÉFRIGÉRATION ET DE CLIMATISATION
+   9. (1) Only a certified person may install, service,              9. (1) Seule une personne accréditée peut installer ou
+leak test or charge a refrigeration system or an air-condi-       entretenir un système de réfrigération ou de climatisa-
+tioning system or do any other work on the system that            tion, le charger ou effectuer sur lui des essais de détec-
+may result in the release of a halocarbon.                        tion des fuites ou tout autre travail pouvant entraîner le
+                                                                  rejet d’un halocarbure.
+   (2) A person who does any of the work referred to in              (2) La personne qui exécute une opération mention-
+subsection (1) shall do so in accordance with the Refrig-         née au paragraphe (1) doit se conformer au Code de pra-
+erant Code of Practice.                                           tique en réfrigération.
+   (3) No person shall charge a refrigeration system or              (3) Il est interdit de charger un halocarbure figurant à
+an air-conditioning system with a halocarbon listed in            l’un des articles 1 à 9 de l’annexe 1 dans un système de
+any of items 1 to 9 of Schedule 1 for the purpose of leak         réfrigération ou de climatisation dans le but d’effectuer
+testing the system, except when recommended in the Re-            des essais de détection des fuites, à moins que le Code
+frigerant Code of Practice.                                       de pratique en réfrigération ne le recommande.
+   10. (1) A certified person who conducts a leak test               10. (1) La personne accréditée qui effectue des essais
+on a refrigeration system or an air-conditioning system           de détection des fuites sur un système de réfrigération ou
+shall affix a notice to the system containing the informa-        de climatisation y appose un avis comportant les rensei-
+tion set out in column 3 of item 2 of Schedule 2.                 gnements prévus à la colonne 3 de l’article 2 de l’annexe
+                                                                  2.
+   (2) No person shall remove a notice referred to in               (2) Il est interdit d’enlever l’avis à moins de le rem-
+subsection (1) except to replace it with another such no-         placer par un autre comportant les renseignements visés
+tice.                                                             au paragraphe (1).
+  (3) The owner shall keep a record of the information              (3) Le propriétaire conserve un document des rensei-
+contained in the notice referred to in subsection (1).            gnements contenus dans l’avis.
+   11. (1) The owner shall conduct a leak test, at least             11. (1) Le propriétaire effectue, au moins une fois
+once every 12 months, of all of the components of a re-           tous les douze mois, un essai de détection des fuites de
+frigeration system or an air-conditioning system that             tout composant du système de réfrigération ou de clima-
+come into contact with a halocarbon.                              tisation qui entre en contact avec un halocarbure.
+   (2) Subsection (1) does not apply to small refrigera-            (2) Le paragraphe (1) ne s’applique pas aux petits
+tion systems or small air-conditioning systems, or to air-        systèmes de réfrigération ou de climatisation, ni aux sys-
+conditioning systems that are designed for occupants in           tèmes de climatisation conçus pour les occupants d’un
+motor vehicles.                                                   véhicule automobile.
+   12. Subject to section 14, no person shall charge a re-          12. Sous réserve de l’article 14, il est interdit de char-
+frigeration system or an air-conditioning system unless,          ger un système de réfrigération ou de climatisation à
+before charging it,                                               moins que :
+  (a) a certified person leak-tests the system; and                 a) la personne accréditée n’ait préalablement soumis
+                                                                    le système à un essai de détection des fuites;
+
+
+
+                                                              7
+                                           SOR/2003-289 — October 6, 2010
+
+
+
+  (b) if a leak is detected, the certified person notifies           b) s’il existe une fuite, elle n’en avise le propriétaire
+  the owner and the owner repairs the leak.                          et que celui-ci ne la répare.
+   13. As soon as possible after a leak from a refrigera-            13. Le propriétaire d’un système de réfrigération ou
+tion system or an air-conditioning system is detected,             de climatisation doit, dès que possible après la détection
+and in any case within seven days after the day on which           d’une fuite, mais au plus tard sept jours suivant la date
+the leak is detected, the owner of the system shall                de détection :
+  (a) repair the leak;                                               a) soit réparer la fuite;
+  (b) isolate the leaking portion of the system and re-              b) soit isoler la partie du système qui fuit et récupérer
+  cover the halocarbon from that portion; or                         l’halocarbure qui en provient;
+  (c) recover the halocarbon from the system.                        c) soit récupérer l’halocarbure provenant du système.
+   14. (1) If a leak is detected from a refrigeration sys-            14. (1) Si un système de réfrigération ou de climati-
+tem or an air-conditioning system and it is necessary to           sation présente une fuite et qu’il apparaît nécessaire de le
+charge the system to prevent an immediate danger to hu-            charger afin de prévenir un danger immédiat pour la vie
+man life or health, section 12 does not apply to the sys-          ou la santé humaines, l’application de l’article 12 est
+tem during the period in which the danger persists, up to          suspendue tant que le danger persiste, jusqu’à concur-
+a maximum of seven days after the day on which the                 rence de sept jours suivant la date de détection de la
+leak is detected.                                                  fuite.
+  (2) If a refrigeration system or an air-conditioning               (2) Si le système est chargé dans la situation visée au
+system is charged under the circumstances described in             paragraphe (1), les règles suivantes s’appliquent :
+subsection (1),                                                      a) la personne qui l’a chargé en avise le propriétaire
+  (a) the person who charged the system shall immedi-                sans délai;
+  ately notify its owner of the charge; and                          b) dans les sept jours suivant la réception de l’avis, le
+  (b) the owner shall, within seven days after receiving             propriétaire présente au ministre un compte rendu
+  notice under paragraph (a), submit a written record to             écrit indiquant :
+  the Minister describing
+                                                                        (i) la nature du danger immédiat pour la vie ou la
+     (i) the nature of the immediate danger to human                    santé humaines et les circonstances qui justifient le
+     life or health and the circumstances that justify                  chargement pour prévenir le danger,
+     charging the system in order to prevent the danger,
+                                                                        (ii) la quantité d’halocarbure chargée dans le sys-
+     (ii) the amount of halocarbon charged to the sys-                  tème,
+     tem, and
+                                                                        (iii) la date de la réparation de la fuite ou de la ré-
+     (iii) the date of repair of the leak or recovery of the            cupération de l’halocarbure restant dans le système.
+     remaining halocarbon from the system.
+   15. No person shall charge an air-conditioning system              15. Il est interdit de charger un halocarbure figurant à
+that is designed for occupants in motor vehicles with a            l’un des articles 1 à 9 de l’annexe 1 dans un système de
+halocarbon listed in any of items 1 to 9 of Schedule 1.            climatisation conçu pour les occupants d’un véhicule au-
+                                                                   tomobile.
+  16. Effective 90 days after the day on which these                  16. À compter du quatre-vingt-dixième jour suivant
+Regulations come into force, no person shall charge a re-          l’entrée en vigueur du présent règlement, il est interdit
+
+
+
+
+                                                               8
+                                           DORS/2003-289 — 6 octobre 2010
+
+
+
+frigeration system that is installed in, that is attached to,       de charger un halocarbure figurant à l’un des articles 1 à
+or that normally operates in conjunction with a means of            9 de l’annexe 1 dans un système de réfrigération qui est
+transportation, other than a refrigeration system for use           installé dans un moyen de transport, est fixé à celui-ci ou
+on a military ship or a chiller, with a halocarbon listed in        est normalement utilisé avec lui, exception faite du sys-
+any of items 1 to 9 of Schedule 1.                                  tème de réfrigération utilisé dans un navire militaire et
+SOR/2009-221, s. 4.                                                 d’un refroidisseur.
+                                                                    DORS/2009-221, art. 4.
+
+   17. Effective January 1, 2005, no person shall charge              17. À compter du 1er janvier 2005, il est interdit de
+a system listed below with a halocarbon listed in any of            charger un halocarbure figurant à l’un des articles 1 à 9
+items 1 to 9 of Schedule 1:                                         de l’annexe 1 dans les systèmes suivant :
+   (a) a refrigeration system, other than a chiller, a small              a) un système de réfrigération, exception faite de ce-
+   refrigeration system or a refrigeration system for use                 lui utilisé dans un navire militaire, d’un petit système
+   on a military ship; and                                                de réfrigération et d’un refroidisseur;
+   (b) an air-conditioning system, other than a chiller, a                b) un système de climatisation, exception faite de ce-
+   small air-conditioning system or an air-conditioning                   lui utilisé dans un navire militaire, d’un petit système
+   system for use on a military ship.                                     de climatisation et d’un refroidisseur;
+  18. (1) Subject to subsection (2), effective January 1,              18. (1) Sous réserve du paragraphe (2), à compter du
+2005, no person shall charge a chiller, other than one for          1 janvier 2005, il est interdit de charger un halocarbure
+                                                                     er
+
+
+use on a military ship, that has undergone an overhaul              figurant à l’un des articles 1 à 9 de l’annexe 1 dans un
+that includes the following procedure or repair with a              refroidisseur, exception faite de celui utilisé dans un na-
+halocarbon listed in any of items 1 to 9 of Schedule 1:             vire militaire, qui a fait l’objet d’une révision générale
+   (a) the replacement or modification of an internal               exigeant l’une ou l’autre des opérations ou réparations
+   sealing device;                                                  suivantes :
+
+   (b) the replacement or modification of an internal me-                 a) le remplacement ou la modification d’un dispositif
+   chanical part other than                                               d’étanchéité interne;
+
+      (i) an oil heater,                                                  b) le remplacement ou la modification d’une pièce
+                                                                          mécanique interne quelconque, sauf une des pièces
+      (ii) an oil pump,                                                   suivantes :
+      (iii) a float assembly, and                                           (i) le réchauffeur d’huile,
+      (iv) a vane assembly, in the case of a chiller with a                 (ii) la pompe à huile,
+      single-stage compressor; or
+                                                                            (iii) l’ensemble de flotte,
+   (c) any procedure or repair that resulted from the fail-
+   ure of an evaporator or a condenser heat-exchanger                       (iv) l’ensemble d’aubages pour les refroidisseurs
+   tube.                                                                    munis de compresseurs à un étage;
+                                                                          c) la correction d’une défectuosité d’un tube de
+                                                                          l’échangeur de chaleur dans l’évaporateur ou le
+                                                                          condenseur.
+  (2) From January 1, 2005 to December 31, 2009, an                    (2) Du 1er janvier 2005 au 31 décembre 2009, le pro-
+owner of a chiller referred to in subsection (1) may                priétaire d’un refroidisseur visé au paragraphe (1) peut y
+charge the chiller with a halocarbon listed in any of               charger un halocarbure figurant à l’un des articles 1 à 9
+
+
+
+                                                                9
+                                           SOR/2003-289 — October 6, 2010
+
+
+
+items 1 to 9 of Schedule 1 but no person shall operate               de l’annexe 1, auquel cas il est interdit de faire fonction-
+that chiller later than one year after the day on which it           ner le refroidisseur après un an suivant le jour de son
+was charged, unless it no longer contains any halocarbon             chargement à moins qu’il ne contienne plus cet halocar-
+listed in any of those items.                                        bure.
+   (3) The owner of a chiller charged under subsection                  (3) Le propriétaire d’un refroidisseur chargé en vertu
+(2) shall provide written notice to the Minister within 14           du paragraphe (2) fournit au ministre un avis écrit com-
+days after the chiller is charged, which notice shall con-           portant les renseignements prévus à la colonne 3 de l’ar-
+tain the information set out in column 3 of item 3 of                ticle 3 de l’annexe 2 dans les quatorze jours suivant le
+Schedule 2.                                                          chargement.
+   19. Effective January 1, 2010, no person shall charge                19. À compter du 1er janvier 2010, il est interdit de
+a refrigeration or an air-conditioning system for use on a           charger d’un halocarbure figurant à l’un des articles 1 à
+military ship with a halocarbon listed in any of items 1             9 de l’annexe 1 un système de réfrigération ou de clima-
+to 9 of Schedule 1                                                   tisation utilisé dans un navire militaire.
+  20. Effective January 1, 2015, no person shall operate                20. À compter du 1er janvier 2015, il est interdit de
+or permit the operation of any chiller that contains a               faire fonctionner un refroidisseur qui contient un halo-
+halocarbon listed in any of items 1 to 9 of Schedule 1.              carbure figurant à l’un des articles 1 à 9 de l’annexe 1 ou
+                                                                     d’en permettre le fonctionnement.
+  21. No person shall install or operate or permit the                  21. Il est interdit d’installer ou de faire fonctionner un
+operation of a purge system unless it emits less than 0.1            système à vidange, ou d’en permettre le fonctionnement,
+kg of halocarbons per kilogram of air purged to the envi-            à moins qu’il émette moins de 0,1 kg d’halocarbure par
+ronment.                                                             kilogramme d’air vidangé dans l’environnement.
+
+                  FIRE-EXTINGUISHING SYSTEMS                                        SYSTÈME D’EXTINCTION D’INCENDIE
+   22. (1) Except in accordance with the standards set                  22. (1) Il est interdit d’installer, d’entretenir ou de
+out in the publication ULC/ORD-C1058.18-2004, of the                 charger un système d’extinction d’incendie, d’effectuer
+Underwriters’ Laboratories of Canada, entitled The Ser-              des essais de détection des fuites ou d’exécuter tout autre
+vicing of Halon and Clean Agent Extinguishing Systems,               travail sur lui pouvant entraîner le rejet d’un halocarbure,
+no person shall install, service, leak-test or charge a fire-        sauf en conformité avec les normes énoncées dans la pu-
+extinguishing system, or do any other work on the sys-               blication ULC/ADR-C1058.18-2004 des Laboratoires
+tem that may result in the release of a halocarbon.                  des assureurs du Canada intitulée Entretien des systèmes
+                                                                     d’extinction au halon et aux agents propres.
+  (2) The reference to the publication in subsection (1)                (2) La publication visée au paragraphe (1) doit être
+shall be read as excluding its preface.                              interprétée sans tenir compte de sa préface.
+SOR/2009-221, s. 5.                                                  DORS/2009-221, art. 5.
+
+  23. No person shall charge a fire-extinguishing sys-                  23. Il est interdit de charger un halocarbure figurant à
+tem with a halocarbon listed in any of items 1 to 9 of               l’un des articles 1 à 9 de l’annexe 1 dans un système
+Schedule 1 for the purpose of leak-testing the system.               d’extinction d’incendie pour effectuer des essais de dé-
+                                                                     tection des fuites.
+  24. (1) Every owner of a fire-extinguishing system                    24. (1) Le propriétaire d’un système d’extinction
+shall leak-test the system at least once every 12 months             d’incendie effectue, au moins une fois tous les douze
+                                                                     mois, un essai de détection des fuites sur le système
+
+
+
+                                                                10
+                                           DORS/2003-289 — 6 octobre 2010
+
+
+
+in accordance with the standards set out in the publica-             conformément aux normes énoncées dans le document
+tion referred to in subsection 22(1).                                mentionné à l’article 22.
+   (2) Subsection (1) does not apply to fire-extinguish-                (2) Le paragraphe (1) ne s’applique pas aux systèmes
+ing systems whose cylinder or cartridge has a charging               dont la bonbonne ou la cartouche a une capacité de
+capacity of 10 kg or less and that are located in military           charge d’au plus 10 kg et qui sont installés dans les na-
+vehicles, military ships or military aircraft, or to portable        vires, les véhicules ou les aéronefs militaires, ni aux ex-
+fire extinguishers.                                                  tincteurs portatifs.
+   25. Subject to section 28, no person shall charge a                 25. Sous réserve de l’article 28, il est interdit de char-
+fire-extinguishing system unless, before charging it,                ger un système d’extinction d’incendie à moins que,
+  (a) the system is leak-tested; and                                 préalablement :
+
+  (b) if a leak is detected, the person who conducts the               a) le système n’ait été soumis à un essai de détection
+  test notifies the owner and the owner repairs the leak.              des fuites;
+                                                                       b) s’il existe une fuite, la personne qui a effectué l’es-
+                                                                       sai n’en ait avisé le propriétaire et que celui-ci ne l’ait
+                                                                       réparé.
+   26. (1) Subject to subsection (2) and section 28, no                 26. (1) Sous réserve du paragraphe (2) et de l’article
+person shall service a fire-extinguishing system without             28, il est interdit d’entretenir un système d’extinction
+first                                                                d’incendie sans avoir au préalable :
+  (a) notifying the owner of the intended service; and                 a) avisé le propriétaire de l’entretien prévu;
+  (b) affixing a notice to the control panel of the system             b) apposé un avis sur le panneau de commande du
+  to indicate that it is out of operation during the period            système pour indiquer qu’il sera hors service pendant
+  of service.                                                          la période d’entretien.
+  (2) Paragraph (1)(b) does not apply to portable fire                 (2) L’alinéa (1)b) ne s’applique pas aux extincteurs
+extinguishers.                                                       portatifs.
+  27. As soon as possible after a leak from a fire-extin-               27. Le propriétaire d’un système d’extinction d’in-
+guishing system is detected, and in any case within sev-             cendie doit, dès que possible après la détection de la
+en days after the day on which the leak is detected, the             fuite, mais au plus tard sept jours suivant la date de dé-
+owner of the system shall                                            tection :
+  (a) repair the leak;                                                 a) soit réparer la fuite;
+  (b) isolate the leaking portion of the system and re-                b) soit isoler la partie du système qui fuit et récupérer
+  cover the halocarbon from that portion; or                           l’halocarbure qui en provient;
+  (c) recover the halocarbon from the system.                          c) soit récupérer l’halocarbure provenant du système.
+   28. (1) If a leak is detected from a fire-extinguishing             28. (1) Si un système d’extinction d’incendie pré-
+system and it is necessary to charge the system to pre-              sente une fuite et qu’il apparaît nécessaire de le charger
+vent an immediate danger to human life or health, sec-               pour prévenir un danger immédiat pour la vie ou la santé
+tions 25 and 26 do not apply to the system during the pe-            humaines, l’application des articles 25 et 26 est suspen-
+riod in which the danger persists, up to a maximum of                due tant que le danger persiste, jusqu’à concurrence de
+seven days after the day on which the leak is detected.              sept jours suivant la date de détection de la fuite.
+
+
+
+
+                                                                11
+                                           SOR/2003-289 — October 6, 2010
+
+
+
+   (2) If a fire-extinguishing system is charged under the            (2) Si le système est chargé dans la situation visée au
+circumstances described in subsection (1),                          paragraphe (1), les règles suivantes s’appliquent :
+  (a) the person who charged the system shall immedi-                     a) la personne qui l’a chargé en avise le propriétaire
+  ately notify its owner of the charge; and                               sans délai;
+  (b) the owner shall, within seven days after receiving                  b) dans les sept jours suivant la réception de l’avis, le
+  notice under paragraph (a), submit a written record to                  propriétaire présente au ministre un compte rendu
+  the Minister describing                                                 écrit indiquant :
+     (i) the nature of the immediate danger to human                        (i) la nature du danger immédiat pour la vie ou la
+     life or health and the circumstances that justify                      santé humaines et les circonstances qui justifient le
+     charging the system in order to prevent the danger,                    chargement pour prévenir le danger,
+     (ii) the amount of halocarbon charged to the sys-                      (ii) la quantité d’halocarbure chargée dans le sys-
+     tem, and                                                               tème,
+     (iii) the date of repair of the leak or recovery of the                (iii) la date de la réparation de la fuite ou de la ré-
+     remaining halocarbon from the system.                                  cupération de l’halocarbure restant dans le système.
+   29. No person shall charge a portable fire extinguish-              29. Il est interdit de charger un halocarbure figurant à
+er, other than one for use on an aircraft, a military vehi-         l’un des articles 1 à 9 de l’annexe 1 dans un extincteur
+cle or a military ship, with a halocarbon listed in any of          portatif — exception faite de celui utilisé dans un navire
+items 1 to 9 of Schedule 1, unless authorized to do so by           ou un véhicule militaires ou dans un aéronef — à moins
+a permit issued under these Regulations.                            d’y être autorisé par un permis délivré au titre du présent
+                                                                    règlement.
+   30. (1) Subject to subsection (2), effective January 1,             30. (1) Sous réserve du paragraphe (2), à compter du
+2005, no person shall charge a fire-extinguishing system,           1 janvier 2005, il est interdit de charger un halocarbure
+                                                                     er
+
+
+other than a portable fire extinguisher or a fire-extin-            figurant à l’un des articles 1 à 9 de l’annexe 1 dans un
+guishing system for use on an aircraft, a military vehicle          système d’extinction d’incendie — exception faite de ce-
+or a military ship, with a halocarbon listed in any of              lui utilisé dans un navire ou un véhicule militaires ou
+items 1 to 9 of Schedule 1, unless authorized to do so by           dans un aéronef, et d’un extincteur portatif — à moins
+a permit issued under these Regulations.                            d’y être autorisé par un permis délivré au titre du présent
+                                                                    règlement.
+   (2) From January 1, 2005 to December 31, 2009, an                   (2) Du 1er janvier 2005 au 31 décembre 2009, le pro-
+owner of a system referred to in subsection (1) may                 priétaire d’un système visé au paragraphe (1) peut y
+charge the system with a halocarbon listed in any of                charger un halocarbure figurant à l’un des articles 1 à 9
+items 1 to 9 of Schedule 1 but no person shall operate              de l’annexe 1, auquel cas il est interdit de faire fonction-
+that system later than one year after the day on which the          ner le système après un an suivant le jour de son charge-
+system is charged, unless it no longer contains any halo-           ment à moins qu’il ne contienne plus un tel halocarbure.
+carbon listed in any of those items.
+  (3) The owner of a system charged under subsection                   (3) Le propriétaire d’un système visé au paragraphe
+(2) shall provide written notice to the Minister within 14          (2) fournit au ministre un avis écrit comportant les ren-
+days after the system is charged, which notice shall con-           seignements prévus à la colonne 3 de l’article 4 de l’an-
+                                                                    nexe 2 dans les quatorze jours suivant le chargement.
+                                                                    DORS/2009-221, art. 6(F).
+
+
+
+
+                                                               12
+                                           DORS/2003-289 — 6 octobre 2010
+
+
+
+tain the information set out in column 3 of item 4 of
+Schedule 2.
+SOR/2009-221, s. 6(F).
+
+                          SERVICE LOGS                                            REGISTRE D’ENTRETIEN
+   31. (1) The owner of a refrigeration system, an air-                31. (1) Le propriétaire d’un système de réfrigération,
+conditioning system or a fire-extinguishing system shall            de climatisation ou d’extinction d’incendie enregistre,
+maintain a written record, or a record in an electronic             sur un support papier — ou sur un support électronique
+format compatible with that used by the Minister, in                compatible avec celui utilisé par le ministre — les ren-
+which the information set out in column 3 of item 5 or 6,           seignements prévus à la colonne 3 des articles 5 ou 6 de
+as the case may be, of Schedule 2 is entered whenever               l’annexe 2, selon le cas, au moment de l’installation du
+the system is installed, serviced, leak-tested or charged           système et chaque fois qu’il est entretenu ou chargé ou
+or if any other work is done on it that may result in the           que sont effectués sur lui des essais de détection des
+release of a halocarbon.                                            fuites ou tout autre travail pouvant entraîner le rejet d’un
+                                                                    halocarbure.
+   (2) The owner of a solvent system shall maintain a                  (2) Le propriétaire d’un système de solvants enre-
+written record, or a record in an electronic format com-            gistre, sur un support papier — ou sur un support élec-
+patible with that used by the Minister, in which the in-            tronique compatible avec celui utilisé par le ministre —
+formation set out in column 3 of item 7 of Schedule 2 is            les renseignements prévus à la colonne 3 de l’article 7 de
+entered whenever the system is charged with more than               l’annexe 2 chaque fois que plus de 10 kg d’halocarbure
+10 kg of a halocarbon.                                              est chargé dans le système.
+
+                         RELEASE REPORTS                                           RAPPORT SUR LE REJET
+   32. In the event of a release of 100 kg or more of a               32. En cas de rejet de 100 kg ou plus d’halocarbure
+halocarbon from a system, or from a container or equip-             d’un système ou d’un contenant ou matériel servant à la
+ment used in the reuse, recycling, reclamation or storage           réutilisation, au recyclage, à la régénération ou à l’entre-
+of a halocarbon, the owner of the system, container or              posage d’un halocarbure, le propriétaire du système, du
+equipment shall submit the following reports to the Min-            contenant ou du matériel présente au ministre, dans les
+ister, within the periods indicated:                                délais indiqués, les rapports suivants :
+   (a) within 24 hours after the release is detected, a ver-          a) dans les vingt-quatre heures suivant la détection du
+   bal or written report, or a report in an electronic for-           rejet, un rapport verbal ou écrit — ou un rapport sur
+   mat compatible with that used by the Minister, that in-            un support électronique compatible avec celui utilisé
+   dicates the name of the owner, the type of halocarbon              par le ministre — indiquant le nom du propriétaire, le
+   released and the type of system, container or equip-               type d’halocarbure rejeté ainsi que le type de système,
+   ment from which it was released; and                               de contenant ou de matériel en cause;
+   (b) within 14 days after the release is detected, a writ-          b) dans les quatorze jours suivant la détection du re-
+   ten report, or a report in an electronic format compati-           jet, un rapport écrit — ou un rapport sur un support
+   ble with that used by the Minister, containing the in-             électronique compatible avec celui utilisé par le mi-
+   formation set out in column 3 of item 8 of Schedule 2.             nistre — qui comporte les renseignements prévus à la
+                                                                      colonne 3 de l’article 8 de l’annexe 2.
+  33. (1) In the event of a release of more than 10 kg               33. (1) En cas de rejet de plus de 10 kg mais de
+but less than 100 kg of a halocarbon from a system, or              moins de 100 kg d’halocarbure d’un système ou d’un
+
+
+
+                                                               13
+                                           SOR/2003-289 — October 6, 2010
+
+
+
+from a container or equipment used in the reuse, recy-              contenant ou matériel servant à la réutilisation, au recy-
+cling, reclamation or storage of a halocarbon, the owner            clage, à la régénération ou à l’entreposage d’un halocar-
+of the system, container or equipment shall submit to the           bure, le propriétaire du système, du contenant ou du ma-
+Minister a report in written format, or in an electronic            tériel présente au ministre un rapport écrit — ou un
+format compatible with that used by the Minister, that              rapport sur un support électronique compatible avec ce-
+contains the information set out in column 3 of item 8 of           lui utilisé par le ministre — qui comporte les renseigne-
+Schedule 2.                                                         ments prévus à la colonne 3 de l’article 8 de l’annexe 2.
+   (2) The owner shall submit the release report required              (2) Le rapport est présenté deux fois par année dans
+by subsection (1) twice annually, not later than 30 days            les trente jours suivant le 1er janvier et le 1er juillet.
+after January 1 and July 1.
+
+                        PERMITS                                                              PERMIS
+   34. (1) If no technically and financially feasible alter-           34. (1) S’il n’existe aucune autre solution réalisable
+native to the use of a halocarbon listed in any of items 1          sur les plans technique et financier qui pourrait avoir, sur
+to 9, 11 or 12 of Schedule I, as the case may be, exists            l’environnement et la santé, un impact moins nocif que
+that could have a less harmful impact on the environ-               l’utilisation d’un halocarbure figurant à l’un des articles
+ment and on health, an owner shall submit to the Minis-             1 à 9 ou 11 et 12 de l’annexe 1, selon le cas, le proprié-
+ter an application for a permit on a form that the Minister         taire présente au ministre, sur un formulaire fourni par
+provides, and that contains the information set out in col-         celui-ci, une demande de permis comportant les rensei-
+umn 3 of item 9 or 10, as the case may be, of Schedule              gnements prévus à la colonne 3 des articles 9 ou 10 de
+2, if the owner proposes to                                         l’annexe 2, selon le cas, s’il prévoit :
+  (a) install a fire-extinguishing system that operates or            a) installer un système d’extinction d’incendie fonc-
+  is intended to operate with a halocarbon listed in any              tionnant ou conçu pour fonctionner avec un halocar-
+  of items 1 to 9 of Schedule 1 as a fire-extinguishing               bure figurant à l’un des articles 1 à 9 de l’annexe 1
+  agent;                                                              comme agent extincteur;
+  (b) charge a portable fire extinguisher that is not to be           b) charger un halocarbure figurant à l’un des articles
+  used on an aircraft, military ship or military vehicle              1 à 9 de l’annexe 1 dans un extincteur portatif, à l’ex-
+  with a halocarbon listed in any of items 1 to 9 of                  ception de celui qui est utilisé dans un navire ou un
+  Schedule 1; or                                                      véhicule militaires ou dans un aéronef;
+  (c) effective January 1, 2005                                       c) le 1er janvier 2005 ou après cette date :
+     (i) charge a fire-extinguishing system, other than a                (i) charger un halocarbure figurant à l’un des ar-
+     portable fire-extinguishing system, that is not to be               ticles 1 à 9 de l’annexe 1 dans un système d’extinc-
+     used on an aircraft, military ship or military vehicle              tion d’incendie, exception faite de celui qui est uti-
+     with a halocarbon listed in any of items 1 to 9 of                  lisé dans un navire ou un véhicule militaires ou
+     Schedule 1,                                                         dans un aéronef, et d’un extincteur portatif,
+     (ii) install a solvent system that operates or is in-               (ii) installer un système de solvants fonctionnant
+     tended to operate with a halocarbon listed in item                  ou conçu pour fonctionner avec un halocarbure fi-
+     11 or 12 of Schedule 1, or                                          gurant aux articles 11 ou 12 de l’annexe 1;
+     (iii) use a halocarbon listed in item 11 or 12 of
+     Schedule 1 as a solvent in a solvent system.
+
+
+
+
+                                                               14
+                                          DORS/2003-289 — 6 octobre 2010
+
+
+
+                                                                         (iii) utiliser un halocarbure figurant aux articles 11
+                                                                         ou 12 de l’annexe 1 comme solvant dans un sys-
+                                                                         tème de solvants.
+   (2) Unless the Minister has received notice under                   (2) À moins que le ministre ait déjà reçu l’avis visé
+subsection 30(3) in respect of the same system, the Min-            au paragraphe 30(3) pour le même système, le ministre
+ister shall issue the permit in respect of the system, valid        délivre le permis à l’égard de celui-ci, pour une durée
+for one year beginning on the date of issuance, if the              d’un an à compter de la date de sa délivrance, si le pro-
+owner, on the form,                                                 priétaire, sur le formulaire :
+  (a) declares that no technically and financially feasi-             a) déclare qu’il n’existe aucune autre solution réali-
+  ble alternative to the use of a halocarbon listed in any            sable sur les plans technique et financier qui pourrait
+  of items 1 to 9, 11 or 12 of Schedule 1, as the case                avoir, sur l’environnement et la santé, un impact
+  may be, exists that could have a less harmful impact                moins nocif que l’utilisation d’un halocarbure figurant
+  on the environment and on health; and                               à l’un des articles 1 à 9 ou 11 ou 12 de l’annexe 1, se-
+  (b) provides information in support of the declaration.             lon le cas;
+                                                                      b) fournit des renseignements à l’appui de sa déclara-
+                                                                      tion.
+   35. (1) The Minister may refuse to issue a permit un-              35. (1) Le ministre peut refuser de délivrer un permis
+der subsection 34(2) or may cancel a permit issued under            en vertu du paragraphe 34(2) ou peut annuler un permis
+that subsection if any false or misleading information              délivré en vertu de ce paragraphe si des renseignements
+has been submitted in support of the application for the            faux ou trompeurs ont été donnés à l’appui de la de-
+permit.                                                             mande de permis.
+ (2) The Minister shall not cancel a permit unless the                (2) Le ministre ne peut annuler le permis que s’il :
+Minister                                                              a) a avisé par écrit le titulaire du permis des motifs de
+  (a) has provided the permit holder with written rea-                l’annulation;
+  sons for the cancellation; and                                      b) lui a donné la possibilité de formuler, oralement ou
+  (b) has given the permit holder an opportunity to                   par écrit, ses observations à cet égard.
+  make representations, either verbally or in writing, in
+  respect of the cancellation.
+
+    LOGS, NOTICES, RECORDS AND REPORTS                                   AVIS, COMPTES RENDUS, DOCUMENTS,
+                                                                                RAPPORTS ET REGISTRES
+  36. (1) Owners shall keep all logs, notices, records                 36. (1) Le propriétaire conserve les avis, comptes
+and reports required by these Regulations in Canada for             rendus, documents, rapports et registres exigés par le
+a period of at least five years after the date that they are        présent règlement au Canada pendant au moins cinq ans
+prepared or submitted, respectively.                                suivant la date de leur établissement ou de leur présenta-
+                                                                    tion, selon le cas.
+  (2) Subject to subsections (3) and (4), owners shall                (2) Sous réserve des paragraphes (3) et (4), un exem-
+keep a copy of all logs, notices, records and reports re-           plaire des avis, comptes rendus, documents, rapports et
+quired by these Regulations with respect to a system at             registres est conservé dans le lieu où se trouve le sys-
+the premises or site at which the system is located.                tème visé.
+
+
+
+
+                                                               15
+                                           SOR/2003-289 — October 6, 2010
+
+
+
+   (3) In the case of a system located on a means of                  (3) Un exemplaire des avis, comptes rendus, docu-
+transportation, the owner shall keep a copy of all logs,           ments, rapports et registres afférents à tout système se
+notices, records and reports required by these Regula-             trouvant dans un moyen de transport est conservé dans
+tions with respect to that system at a single location oc-         un même et unique lieu occupé par le propriétaire.
+cupied by the owner.
+  (4) In the case of a system located on unoccupied                  (4) Dans le cas d’un système situé dans un lieu inoc-
+premises or an unoccupied site, the owner shall                    cupé, le propriétaire :
+     (a) keep a copy of all logs, notices, records and re-            a) conserve, dans un même et unique lieu occupé par
+     ports required by these Regulations in respect of that           lui, une copie des avis, comptes rendus, documents,
+     system at a single location that is occupied by the              rapports et registres afférents au système et exigés par
+     owner;                                                           le présent règlement;
+     (b) submit a report containing the information set out           b) présente au ministre un rapport comportant les ren-
+     in column 3 of item 11 of Schedule 2 to the Minister             seignements prévus à la colonne 3 de l’article 11 de
+     no later than January 1, 2004; and                               l’annexe 2 au plus tard le 1er janvier 2004;
+     (c) submit any change in the information required un-            c) présente au ministre tout changement aux rensei-
+     der paragraph (b) to the Minister within 30 days after           gnements visés à l’alinéa b) dans les trente jours du
+     the change.                                                      changement.
+SOR/2009-221, s. 7(F).                                             DORS/2009-221, art. 7(F).
+
+                         REPEAL                                                                ABROGATION
+  37. The Federal Halocarbon Regulations1 are re-                    37. Le Règlement fédéral sur les halocarbures1 est
+pealed.                                                            abrogé.
+
+                   COMING INTO FORCE                                                  ENTRÉE EN VIGUEUR
+  38. These Regulations come into force on the day                   38. Le présent règlement entre en vigueur à la
+on which they are registered.                                      date de son enregistrement.
+
+
+
+
+1                                                                   1 
+     SOR/99-255                                                          DORS/99-255
+
+
+
+                                                              16
+                                                  DORS/2003-289 — 6 octobre 2010
+
+
+
+                            SCHEDULE 1                                                                      ANNEXE 1
+(Sections 1, 4 and 5, subsection 9(3) and sections 15 to 20, 23, 29, 30        (articles 1, 4 et 5, paragraphe 9(3) et articles 15 à 20, 23, 29, 30 et
+                               and 34)                                                                          34)
+
+                    LIST OF HALOCARBONS                                                          LISTE DES HALOCARBURES
+
+Item   Halocarbon                                                              Article Halocarbure
+1.     Tetrachloromethane (carbon tetrachloride)                               1.      Tétrachlorométhane (tétrachlorure de carbone)
+2.     1,1,1-trichloroethane (methyl chloroform), not including                2.      1,1,1-trichloroéthane (méthylchloroforme), sauf le 1,1,2-
+       1,1,2-trichloroethane                                                           trichloroéthane
+3.     Chlorofluorocarbons (CFC)                                               3.      Chlorofluorocarbures (CFC)
+4.     Bromochlorodifluoromethane (Halon 1211)                                 4.      Bromochlorodifluorométhane (Halon 1211)
+5.     Bromotrifluoromethane (Halon 1301)                                      5.      Bromotrifluorométhane (Halon 1301)
+6.     Dibromotetrafluoroethane (Halon 2402)                                   6.      Dibromotétrafluoroéthane (Halon 2402)
+7.     Bromofluorocarbons other than those set out in items 4 to 6             7.      Bromofluorocarbures autres que ceux prévus aux articles 4
+8.     Bromochloromethane (Halon 1011)                                                 à6
+9.     Hydrobromofluorocarbons (HBFC)                                          8.      Bromochlorométhane (Halon 1011)
+
+10.    Hydrochlorofluorocarbons (HCFC)                                         9.      Hydrobromofluorocarbures (HBFC)
+
+11.    Hydrofluorocarbons (HFC)                                                10.     Hydrochlorofluorocarbures (HCFC)
+
+12.    Perfluorocarbons (PFC)                                                  11.     Hydrofluorocarbures (HFC)
+                                                                               12.     Perfluorocarbures (PFC)
+
+
+
+
+                                                                          17
+                                       SOR/2003-289 — October 6, 2010
+
+
+
+                                                       SCHEDULE 2
+(Subsections 8(2), 10(1), 18(3), 30(3), section 31, paragraph 32(b), subsections 33(1) and 34(1) and paragraph 36(4)(b))
+
+                               INFORMATION TO BE CONTAINED IN DOCUMENT
+               Column 1               Column 2                     Column 3
+               Provision of
+    Item       Regulations            Type of Document             Information to be Contained on Form
+    1.         8(2)                   Dismantling,                 (a) name and address of owner of system
+                                      Decommissioning or           (b) name of operator of system
+                                      Destruction Notice for a
+                                      System                       (c) specific location of system before its
+                                                                   Dismantling, Decommissioning or
+                                                                   Destruction
+                                                                   (d) description of system
+                                                                   (e) name of service technician who recovered
+                                                                   halocarbons
+                                                                   (f) certificate number of service technician (if
+                                                                   applicable)
+                                                                   (g) name of employer of service technician (if
+                                                                   applicable)
+                                                                   (h) type and quantity of halocarbon and date
+                                                                   recovered
+                                                                   (i) type and charging capacity of system
+                                                                   (j) final destination of system
+
+    2.         10(1)                  Leak Test Notice for         (a) name and address of owner of system
+                                      Refrigeration System and     (b) name of operator of system
+                                      Air-Conditioning System
+                                                                   (c) specific location of system
+                                                                   (d) description of system
+                                                                   (e) name of certified person
+                                                                   (f) certificate number
+                                                                   (g) name of employer of certified person (if
+                                                                   applicable)
+                                                                   (h) type of halocarbon contained in system
+                                                                   (i) charging capacity of system
+                                                                   (j) date of last two leak tests performed on
+                                                                   system
+
+    3.         18(3)                  Notice of Charging of a      (a) name and address of owner of system
+                                      Chiller that has Undergone   (b) name of operator of system
+                                      an Overhaul with a
+                                      Halocarbon Listed in any     (c) specific location of system
+                                      of items 1 to 9 of           (d) description of system
+                                      Schedule 1
+                                                                   (e) type and quantity of halocarbon charged
+                                                                   (f) date of charge
+                                                                   (g) charging capacity of system
+
+    4.         30(3)                  Notice of Charging of a     (a) name and address of owner of system
+                                      Fire-Extinguishing System (b) name of operator of system
+                                      with a Halocarbon Listed in
+                                      Items 1-9 of Schedule 1     (c) specific location of system
+                                                                  (d) description of system
+
+
+
+
+                                                          18
+                      DORS/2003-289 — 6 octobre 2010
+
+
+
+       Column 1       Column 2                  Column 3
+       Provision of
+Item   Regulations    Type of Document          Information to be Contained on Form
+                                                (e) type and quantity of halocarbon charged
+                                                (f) date of charge
+                                                (g) charging capacity of system
+
+5.     31(1)          Refrigeration System or   (a) name and address of owner of system
+                      Air-Conditioning System   (b) name of operator of system
+                      Service Log
+                                                (c) specific location of system
+                                                (d) description of system
+                                                (e) name of certified person
+                                                (f) certificate number
+                                                (g) name of employer of certified person (if
+                                                applicable)
+                                                (h) dated list of leak tests, leaks detected and
+                                                leak repairs
+                                                (i) type and quantity of halocarbon and date
+                                                recovered
+                                                (j) charging capacity of system
+
+6.     31(1)          Fire-Extinguishing System (a) name and address of owner of system
+                      Service Log               (b) name of operator of system
+                                                (c) specific location of system
+                                                (d) description of system
+                                                (e) name of service technician
+                                                (f) certificate number of service technician (if
+                                                applicable)
+                                                (g) name of employer of service technician (if
+                                                applicable)
+                                                (h) dated list of leak tests, leaks detected and
+                                                leak repairs
+                                                (i) type and quantity of halocarbon and date
+                                                recovered
+                                                (j) charging capacity of system
+
+7.     31(2)          Solvent System Service    (a) name and address of owner of system
+                      Log                       (b) name of operator of system
+                                                (c) specific location of system
+                                                (d) description of system
+                                                (e) name of service technician
+                                                (f) certificate number of service technician (if
+                                                applicable)
+                                                (g) name of employer of service technician (if
+                                                applicable)
+                                                (h) type and quantity of halocarbon and date
+                                                charged to system
+                                                (i) charging capacity of system
+
+
+
+
+                                         19
+                                                  SOR/2003-289 — October 6, 2010
+
+
+
+                                Column 1          Column 2                     Column 3
+                                Provision of
+                Item            Regulations       Type of Document             Information to be Contained on Form
+
+                8.              32(b) and 33(1)   Halocarbon Release Report (a) name and address of owner of system
+                                                                               (b) type and quantity of halocarbon released
+                                                                               (c) date of release
+                                                                               (d) type and description of system
+                                                                               (e) circumstances leading to the release,
+                                                                               corrective action and actions to prevent
+                                                                               subsequent releases
+                9.              34(1)             Request for a Permit to      (a) name and address of applicant
+                                                  Install a Fire-Extinguishing (b) type and quantity of halocarbon
+                                                  System or Solvent System
+                                                                               (c) charging capacity of system
+                                                                               (d) request for confidentiality under
+                                                                               subsection 313(1) of Act
+                                                                               (e) declaration referred to in subsection 34(2)
+                                                                               and supporting information
+
+                10.             34(1)             Request for a Permit to      (a) name and address of applicant
+                                                  Charge a Fire-               (b) type and quantity of halocarbon
+                                                  Extinguishing System or
+                                                  Solvent System with a        (c) charging capacity of system
+                                                  Halocarbon Listed in         (d) request for confidentiality under
+                                                  items 1 to 9, 11 or 12, as   subsection 313(1) of Act
+                                                  the case may be, of
+                                                  Schedule I                   (e) declaration referred to in subsection 34(2)
+                                                                               and supporting information
+
+                11.             36(4)(b)          Report for Systems at     (a) name and address of owner of system
+                                                  Unoccupied Premises or an (b) street address of unoccupied premises or
+                                                  Unoccupied Site           unoccupied site
+                                                                               (c) street address of location of records,
+                                                                               reports and notices referred to in paragraph
+                                                                               36(4)(a)
+SOR/2009-221, ss. 8(F), 9(F).
+
+
+
+
+                                                                       20
+                                  DORS/2003-289 — 6 octobre 2010
+
+
+
+                                                   ANNEXE 2
+ (paragraphes 8(2), 10(1), 18(3)et 30(3), article 31, alinéa 32b), paragraphes 33(1) et 34(1) et alinéa 36(4)b))
+
+                     RENSEIGNEMENTS DEVANT FIGURER SUR LES FORMULAIRES
+              Colonne 1             Colonne 2                    Colonne 3
+              Disposition du
+Article       règlement             Nature du document           Renseignements à fournir
+1.            8(2)                  Avis de destruction, de      a) nom et adresse du propriétaire du système
+                                    désassemblage ou de          b) nom de l’opérateur du système
+                                    mise hors service d’un
+                                    système                      c) emplacement précis du système avant la
+                                                                 destruction, le désassemblage ou la mise hors
+                                                                 service
+                                                                 d) description du système
+                                                                 e) nom du technicien d’entretien qui a
+                                                                 récupéré les halocarbures
+                                                                 f) numéro de certificat du technicien (s’il y a
+                                                                 lieu)
+                                                                 g) nom de l’employeur du technicien (s’il y a
+                                                                 lieu)
+                                                                 h) type et quantité d’halocarbure récupéré, et
+                                                                 date de la récupération
+                                                                 i) type de système et capacité de charge
+                                                                 j) destination finale du système
+
+2.            10(1)                 Avis d’essais de détection a) nom et adresse du propriétaire du système
+                                    des fuites pour les        b) nom de l’opérateur du système
+                                    systèmes de réfrigération
+                                    et de climatisation        c) emplacement précis du système
+                                                               d) description du système
+                                                                 e) nom de la personne accréditée
+                                                                 f) numéro de certificat
+                                                                 g) nom de l’employeur de la personne
+                                                                 accréditée (s’il y a lieu)
+                                                                 h) type d’halocarbure contenu dans le système
+                                                                 i) capacité de charge du système
+                                                                 j) date des deux derniers essais de détection
+                                                                 des fuites
+
+3.            18(3)                 Avis de chargement d’un      a) nom et adresse du propriétaire du système
+                                    halocarbure figurant à       b) nom de l’opérateur du système
+                                    l’un des articles 1 à 9 de
+                                    l’annexe 1 dans un           c) emplacement précis du système
+                                    refroidisseur à la suite     d) description du système
+                                    d’une révision générale
+                                                                 e) type et quantité d’halocarbure chargé
+                                                                 f)date du chargement
+                                                                 g) capacité de charge du système
+
+4.            30(3)                 Avis de chargement d’un a) nom et adresse du propriétaire du système
+                                    halocarbure figurant à     b) nom de l’opérateur du système
+                                    l’un des articles 1 à 9 de
+                                    l’annexe 1 dans un         c) emplacement précis du système
+
+
+
+
+                                                      21
+                           SOR/2003-289 — October 6, 2010
+
+
+
+          Colonne 1        Colonne 2                 Colonne 3
+          Disposition du
+Article   règlement        Nature du document        Renseignements à fournir
+
+                           système d’extinction      d) description du système
+                           d’incendie
+                                                     e) type et quantité d’halocarbure chargé
+                                                     f)date du chargement
+                                                     g) capacité de charge du système
+
+5.        31(1)            Registre d’entretien d’un a) nom et adresse du propriétaire du système
+                           système de réfrigération b) nom de l’opérateur du système
+                           ou de climatisation
+                                                     c) emplacement précis du système
+                                                     d) description du système
+                                                     e) nom de la personne accréditée
+                                                     f) numéro de certificat
+                                                     g) nom de l’employeur de la personne
+                                                     accréditée (s’il y a lieu)
+                                                     h) liste datée des essais de détection, des
+                                                     fuites détectées et de leur réparation
+                                                     i) type et quantité d’halocarbure récupéré, et
+                                                     date de la récupération
+                                                     j) capacité de charge du système
+
+6.        31(1)            Registre d’entretien d’un a) nom et adresse du propriétaire du système
+                           système d’extinction      b) nom de l’opérateur du système
+                           d’incendie
+                                                     c) emplacement précis du système
+                                                     d) description du système
+                                                     e) nom du technicien d’entretien
+                                                     f) numéro de certificat du technicien (s’il y a
+                                                     lieu)
+                                                     g) nom de l’employeur du technicien (s’il y a
+                                                     lieu)
+                                                     h) liste datée des essais de détection, des
+                                                     fuites détectées et de leur réparation
+                                                     i) type et quantité d’halocarbure récupéré, et
+                                                     date de la récupération
+                                                     j) capacité de charge du système
+
+7.        31(2)            Registre d’entretien d’un a) nom et adresse du propriétaire du système
+                           système de solvants       b) nom de l’opérateur du système
+                                                     c) emplacement précis du système
+                                                     d) description du système
+                                                     e) nom du technicien d’entretien
+                                                     f) numéro de certificat du technicien (s’il y a
+                                                     lieu)
+                                                     g) nom de l’employeur du technicien (s’il y a
+                                                     lieu)
+
+
+
+
+                                            22
+                                                 DORS/2003-289 — 6 octobre 2010
+
+
+
+                                Colonne 1         Colonne 2                    Colonne 3
+                                Disposition du
+                Article         règlement         Nature du document           Renseignements à fournir
+                                                                               h) type et quantité d’halocarbure chargé, et
+                                                                               date du chargement
+                                                                               i) capacité de charge du système
+
+                8.              32b) et 33(1)     Rapport sur les rejets       a) nom et adresse du propriétaire du système
+                                                  d’halocarbures               b) type et quantité d’halocarbure rejeté
+                                                                               c) date du rejet
+                                                                               d) type et description du système
+                                                                               e) circonstances ayant mené au rejet et
+                                                                               mesures correctives et préventives qui seront
+                                                                               prises
+
+                9.              34(1)             Demande de permis pour a) nom et adresse du demandeur
+                                                  installer un système      b) type d’halocarbure et quantité
+                                                  d’extinction d’incendie
+                                                  ou un système de solvants c) capacité de charge du système
+                                                                               d) demande de confidentialité prévue au
+                                                                               paragraphe 313(1) de la Loi
+                                                                               e) déclaration visée au paragraphe 34(2) et
+                                                                               renseignements à l’appui
+
+                10.             34(1)             Demande de permis pour       a) nom et adresse du demandeur
+                                                  charger un halocarbure       b) type d’halocarbure et quantité
+                                                  figurant à l’un des
+                                                  articles 1 à 9 ou 11 ou 12   c) capacité de charge du système
+                                                  de l’annexe 1, selon le      d) demande de confidentialité prévue au
+                                                  cas, dans un système         paragraphe 313(1) de la Loi
+                                                  d’extinction d’incendie
+                                                  ou un système de solvants
+                                                                               e) déclaration visée au paragraphe 34(2) et
+                                                                               renseignements à l’appui
+
+                11.             36(4)b)           Rapport pour un système a) nom et adresse du propriétaire
+                                                  situé dans un lieu      b) adresse municipale du lieu inoccupé
+                                                  inoccupé
+                                                                          c) adresse municipale du lieu où se trouvent
+                                                                          les documents visés à l’alinéa 36(4)a)
+DORS/2009-221, art. 8(F) et 9(F).
+
+
+
+
+                                                                     23
+

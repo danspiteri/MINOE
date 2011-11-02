@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
+	<TITLE></TITLE>
+	<META NAME="GENERATOR" CONTENT="OpenOffice.org 2.4  (Win32)">
+	<META NAME="AUTHOR" CONTENT="Daniel Spiteri">
+	<META NAME="CREATED" CONTENT="20081214;13374900">
+	<META NAME="CHANGEDBY" CONTENT="Daniel Spiteri">
+	<META NAME="CHANGED" CONTENT="20081214;15455318">
+	<STYLE TYPE="text/css">
+	<!--
+	        body {font-family: arial, verdana, times; }
+		P { margin-bottom: 0.08in; direction: ltr; color: #000000; widows: 0; orphans: 0; font-family: arial, verdana, times; }
+		H1 { font-family: "Lucida Sans Unicode"; font-size: 16pt; so-language: zxx ; font-family: arial, verdana, times;}
+		A:link { color: #0000ff }
+	-->
+	</STYLE>
+</HEAD>
+<BODY LANG="en-US" TEXT="#000000" LINK="#0000ff" BGCOLOR="#ffffff" DIR="LTR">
+
+<H2 CLASS="western">Import Documents Module</H2>
+
+<p>The Import Documents module, accessed from the main menu, allows you to update, change, or remove the existing document base.  If you have a meta data file, the information in this file will be imported as well.  Otherwise, you can add information after importing through the Meta Data Editor.</p>
+
+<p>After pressing the <i>Import Documents</i> button, a window will appear asking you to select the folder that contains your new documents.  Only documents ending with the extension .txt (text) are processed.</p>
+
+<p><img src="imports1.png" /><p>
+
+<p>After choosing your import folder, MINOE will search this folder and all sub-folders for valid text files, displaying the files to be imported in a new window.</p>
+
+<p><img src="imports2.png" /><p>
+
+<p><b>Erase Entire Collection</b> - Choosing this option will delete the documents currently in the program.  The documents you import will be the only documents left to run analyses on.</p> 
+
+<p><b>Overwrite Existing Files With The Same Name</b> - Use this option if you have newer documents to import and you'd like to overwrite existing documents of the same name. Leave this unchecked if you want to skip importing any files that are already in the program.</p> 
+
+<H2 CLASS="western">Meta Data File</H2>
+
+<p>Meta data is the information that describes the documents that you are importing.  In order for MINOE to recognize the meta data file it must be a comma-separated file, named either "fileinfo.csv" or "fileinfo.txt".  Place the file in the folder containing all of your new documents that you wish to import.</p>
+
+<p>Name the columns in the file as follows (in bold):</p> 
+
+<ul>
+  <li>Column A - <b>File ID*</b> - The file name as it exists in your import folder.</li>
+  <li>Column B - <b>Title*</b> - Title of the document that appears in the search screen.</li>
+  <li>Column C - <b>Description</b> - Optional, not used for anything.</li>
+  <li>Column D - <b>Agencies*</b> - The agencies associated with each document. Uses pipe-separated values.</li>
+  <li>Column E - <b>Retrieval Date</b> - Optional.</li>
+  <li>Column F - <b>Retrieval Source</b> - Optional.</li>
+  <li>Column G - <b>Retrieved By</b> - Optional.</li>
+  <li>Column H - <b>Year*</b> - 2006, 2007, etc.</li>
+  <li>Column I - <b>Location*</b> - State, Jurisdiction, etc.</li>
+  <li>Column J - <b>Type*</b> - Regulation, Statute, etc.</li>
+  <li>Column K - <b>Additional Labels</b> - Custom labels you need for filtering.  Uses pipe-separated values.</li>
+</ul>
+
+<p>* - indicates required values.</p>
+
+<p>Note:  "pipe-separated" means that you may enter multiple values in this field, separated by a "pipe" | character.  (Ex:  ocean|water|river).</p>
+
+<p>If you do not have meta data readily available, you may enter it after importing via the Meta Data Editor.</p>
+
+<p>If you have a large collection of documents, it may take a minute or two to import all of the data and index the collection.</p>
+
+</BODY>
+</HTML>

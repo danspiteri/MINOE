@@ -1,0 +1,1075 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+       Coasting Trade Act                                                 Loi sur le cabotage
+
+                     S.C. 1992, c. 31                                                  L.C. 1992, ch. 31
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (2) of the Legislation               Les paragraphes 31(1) et (2) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published             31. (1) Every copy of a consolidated statute or            31.  (1) Tout exemplaire d'une loi codifiée ou          Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-     comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support    de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+Inconsistencies       (2) In the event of an inconsistency between a             (2) Les dispositions de la loi d'origine avec ses       Incompatibilité
+in Acts            consolidated statute published by the Minister under       modifications subséquentes par le greffier des Parle-      — lois
+                   this Act and the original statute or a subsequent          ments en vertu de la Loi sur la publication des lois
+                   amendment as certified by the Clerk of the Parlia-         l'emportent sur les dispositions incompatibles de la
+                   ments under the Publication of Statutes Act, the orig-     loi codifiée publiée par le ministre en vertu de la pré-
+                   inal statute or amendment prevails to the extent of        sente loi.
+                   the inconsistency.
+                                     1992, c. 31                                             1992, ch. 31
+
+
+
+                   An Act respecting the use of foreign ships and          Loi concernant l’utilisation de navires étrangers
+                       non-duty paid ships in the coasting trade                et de navires non dédouanés pour le
+                                                                                cabotage
+
+                            [Assented to 23rd June 1992]                            [Sanctionnée le 23 juin 1992]
+
+
+
+                      Her Majesty, by and with the advice and                Sa Majesté, sur l’avis et avec le consente-
+                   consent of the Senate and House of Commons              ment du Sénat et de la Chambre des communes
+                   of Canada, enacts as follows:                           du Canada, édicte :
+
+                                   SHORT TITLE                                            TITRE ABRÉGÉ
+Short title          1. This Act may be cited as the Coasting                1. Loi sur le cabotage.                           Titre abrégé
+                   Trade Act.
+
+                                INTERPRETATION                                             DÉFINITIONS
+Definitions          2. (1) In this Act,                                      2. (1) Les définitions qui suivent s’ap-         Définitions
+                                                                           pliquent à la présente loi.
+“Agency”           “Agency” means the Canadian Transportation
+« Office »
+                   Agency;                                                 « agent de l’autorité » Personne qui, en vertu de   « agent de
+                                                                                                                               l’autorité »
+                                                                           l’article 12, est désignée à ce titre pour le
+“Canadian ship”    “Canadian ship” means a ship registered or list-                                                            “enforcement
+« navire                                                                   contrôle d’application de la présente loi.          officer”
+canadien »
+                   ed under Part 2 of the Canada Shipping Act,
+                   2001 and in respect of which all duties and tax-        « cabotage »                                        « cabotage »
+                                                                                                                               “coasting trade”
+                   es imposed under the Customs Tariff and the               a) Le transport de marchandises par navire,
+                   Excise Tax Act have been paid;                            ou par navire et par un autre moyen de trans-
+“Canadian          “Canadian waters” means the inland waters                 port, entre deux lieux situés au Canada ou
+waters”
+« eaux
+                   within the meaning of section 2 of the Customs            au-dessus du plateau continental du Canada,
+canadiennes »      Act, the internal waters of Canada and the terri-         directement ou en passant par un lieu situé à
+                   torial sea of Canada;                                     l’extérieur du Canada; toutefois, dans les
+                                                                             eaux situées au-dessus du plateau continental
+“coasting trade”   “coasting trade” means
+« cabotage »                                                                 du Canada, seul le transport de marchandises
+                     (a) the carriage of goods by ship, or by ship           lié à la recherche, à l’exploitation ou au
+                     and any other mode of transport, from one               transport des ressources minérales ou des
+                     place in Canada or above the continental                autres ressources non biologiques du plateau
+                     shelf of Canada to any other place in Canada            constitue du cabotage;
+                     or above the continental shelf of Canada, ei-
+                                                                             b) sous réserve de l’alinéa c), le transport de
+                     ther directly or by way of a place outside
+                                                                             passagers par navire à partir d’un lieu au
+                     Canada, but, with respect to waters above the
+                                                                             Canada, situé sur un lac ou un cours d’eau à
+                     continental shelf of Canada, includes the car-
+                                                                             destination du même lieu ou vers un autre
+                     riage of goods only in relation to the explo-
+                     ration, exploitation or transportation of the
+
+
+
+                                                                       1
+                                Coasting Trade — October 6, 2010
+
+mineral or non-living natural resources of the           lieu au Canada, directement ou en passant
+continental shelf of Canada,                             par un lieu situé à l’extérieur du Canada;
+(b) subject to paragraph (c), the carriage of            c) le transport de passagers par navire à par-
+passengers by ship from any place in Canada              tir d’un lieu situé sur le fleuve Saint-Laurent
+situated on a lake or river to the same place,           en aval des écluses de Saint-Lambert ou sur
+or to any other place in Canada, either direct-          le fleuve Fraser à l’ouest du pont Mission :
+ly or by way of a place outside Canada,                     (i) soit à destination du même lieu, sans
+(c) the carriage of passengers by ship from                 faire escale dans un port étranger, excep-
+any place situated on the St. Lawrence River                tion faite des escales techniques ou d’ur-
+northeast of the Saint Lambert lock or on the               gence,
+Fraser River west of the Mission Bridge                     (ii) soit vers un autre lieu au Canada, ex-
+  (i) to the same place, without any call at                ception faite des escales de transit, directe-
+  any port outside Canada, other than one or                ment ou en passant par un lieu situé à l’ex-
+  more technical or emergency calls, or                     térieur du Canada;
+  (ii) to any other place in Canada, other               d) le transport de passagers par navire à par-
+  than as an in-transit call, either directly or         tir d’un autre lieu au Canada que ceux visés
+  by way of a place outside Canada,                      par les alinéas b) ou c) :
+(d) the carriage of passengers by ship from                 (i) soit à destination du même lieu, sans
+any place in Canada other than from a place                 faire escale dans un port étranger, excep-
+to which paragraph (b) or (c) applies                       tion faite des escales techniques ou d’ur-
+                                                            gence,
+  (i) to the same place, without any call at
+  any port outside Canada, other than one or                (ii) soit vers un autre lieu au Canada, ex-
+  more technical or emergency calls, or                     ception faite des escales de transit, directe-
+                                                            ment ou en passant par un lieu situé à l’ex-
+  (ii) to any other place in Canada, other
+                                                            térieur du Canada;
+  than as an in-transit call, either directly or
+  by way of a place outside Canada,                      e) le transport de passagers par navire,
+                                                         lorsque ce transport est lié à la recherche, à
+(e) the carriage of passengers by ship
+                                                         l’exploitation ou au transport des ressources
+  (i) from any place in Canada to any place              minérales ou des autres ressources non biolo-
+  above the continental shelf of Canada,                 giques du plateau continental du Canada :
+  (ii) from any place above the continental                 (i) soit à partir d’un lieu au Canada vers
+  shelf of Canada to any place in Canada, or                un lieu au-dessus du plateau,
+  (iii) from any place above the continental                (ii) soit à partir d’un lieu au-dessus du
+  shelf of Canada to the same place or to                   plateau à destination du même lieu ou vers
+  any other place above the continental shelf               un lieu au Canada,
+  of Canada
+                                                            (iii) soit entre deux lieux au-dessus du
+where the carriage of the passengers is in re-              plateau;
+lation to the exploration, exploitation or
+                                                         f) toute autre activité maritime de nature
+transportation of the mineral or non-living
+                                                         commerciale effectuée par navire dans les
+natural resources of the continental shelf of
+                                                         eaux canadiennes ou les eaux situées au-des-
+Canada, and
+                                                         sus du plateau continental du Canada, l’acti-
+(f) the engaging, by ship, in any other ma-              vité devant toutefois, dans ce dernier cas,
+rine activity of a commercial nature in Cana-            être liée à la recherche, à l’exploitation ou au
+dian waters and, with respect to waters above            transport des ressources minérales ou des
+the continental shelf of Canada, in such other           autres ressources non biologiques du plateau.
+marine activities of a commercial nature that
+                                                       « capitaine » À l'égard d'un navire, le capitaine     « capitaine »
+are in relation to the exploration, exploitation                                                             “master”
+                                                       au sens de l'article 2 de la Loi de 2001 sur la
+or transportation of the mineral or non-living
+                                                       marine marchande du Canada.
+
+
+
+                                                   2
+                                                           Cabotage — 6 octobre 2010
+
+                      natural resources of the continental shelf of           « eaux canadiennes » Les eaux internes au sens       « eaux
+                                                                                                                                   canadiennes »
+                      Canada;                                                 de l’article 2 de la Loi sur les douanes, les eaux   “Canadian
+                                                                              intérieures et la mer territoriale du Canada.        waters”
+                    “continental shelf” [Repealed, 1996, c. 31, s.
+                    66]                                                       « escale de transit » S’entend de toute escale,      « escale de
+                                                                                                                                   transit »
+                                                                              autre qu’une escale technique ou d’urgence, à
+“enforcement        “enforcement officer” means a person designat-                                                                 “in-transit call”
+officer”                                                                      l’occasion de laquelle les passagers vont à terre
+« agent de
+                    ed pursuant to section 12 to be an enforcement
+                                                                              temporairement, mais remontent à bord avant
+l’autorité »        officer for the purposes of this Act;
+                                                                              l’appareillage ou sont ramenés, par transport
+“foreign ship”      “foreign ship” means a ship other than a Cana-            terrestre, au même navire pour y remonter à un
+« navire
+étranger »
+                    dian ship or a non-duty paid ship;                        autre endroit.
+“in-transit call”   “in-transit call” means any call, other than an           « escale technique » Escale, à l’exception d’une     « escale
+« escale de                                                                                                                        technique »
+                    emergency or technical call, by a ship at any             escale d’urgence ou d’une escale de transit, non     “technical call”
+transit »
+                    place where passengers go ashore temporarily              destinée à l’embarquement ou au débarquement
+                    but who re-board the vessel before the ship               des passagers.
+                    leaves that place or are transported by land to           « licence » Document délivré sous le régime de       « licence »
+                    another location to re-board the same ship;               la présente loi autorisant un navire étranger ou     “licence”
+
+“licence”           “licence” means a document, issued pursuant to            un navire non dédouané à se livrer au cabotage
+« licence »                                                                   dans les eaux canadiennes ou dans les eaux si-
+                    this Act, authorizing a foreign ship or a non-du-
+                    ty paid ship to engage in the coasting trade              tuées au-dessus du plateau continental du
+                    while in Canadian waters or in waters above               Canada.
+                    the continental shelf of Canada;                          « navire » S'entend au sens de « bâtiment » à        « navire »
+                                                                                                                                   “ship”
+“master”            “master”, in relation to a ship, has the same             l'article 2 de la Loi de 2001 sur la marine mar-
+« capitaine »                                                                 chande du Canada.
+                    meaning as in section 2 of the Canada Shipping
+                    Act, 2001;                                                 « navire canadien » Navire immatriculé ou en-       « navire
+                                                                                                                                   canadien »
+“non-duty paid      “non-duty paid ship” means a ship registered in           registré en vertu de la partie 2 de la Loi de 2001   “Canadian ship”
+ship”                                                                         sur la marine marchande du Canada et à
+« navire non
+                    Canada in respect of which any duties and tax-
+dédouané »          es under the Customs Tariff and the Excise Tax            l'égard duquel tous les droits et taxes imposés
+                    Act have not been paid;                                   par le Tarif des douanes et la Loi sur la taxe
+                                                                              d'accise ont été acquittés.
+“owner”             “owner”, in relation to a ship, includes the per-
+« propriétaire »                                                              « navire étranger » Navire autre qu’un navire
+                    son having for the time being, either by law or                                                                « navire
+                                                                                                                                   étranger »
+                    by contract, the rights of the owner of the ship          canadien ou qu’un navire non dédouané.               “foreign ship”
+                    as regards the possession and use thereof;
+                                                                              « navire non dédouané » Navire immatriculé au        « navire non
+“resident in        “resident in Canada” has the meaning given to             Canada à l’égard duquel tous les droits et taxes     dédouané »
+Canada”                                                                                                                            “non-duty paid
+« résident du
+                    that expression by section 250 of the Income              prévus par le Tarif des douanes et la Loi sur la     ship”
+Canada »            Tax Act;                                                  taxe d’accise n’ont pas été acquittés.
+“ship”              “ship” has the same meaning as “vessel” in sec-           « Office » L’Office des transports du Canada.        « Office »
+« navire »
+                    tion 2 of the Canada Shipping Act, 2001;                                                                       “Agency”
+                                                                              « plateau continental » [Abrogée, 1996, ch. 31,
+“technical call”    “technical call” means any call, other than an            art. 66]
+« escale
+technique »
+                    emergency call or an in-transit call, that is for a
+                                                                              « propriétaire » À l’égard d’un navire, la per-      « propriétaire »
+                    purpose other than the embarking or disem-                                                                     “owner”
+                                                                              sonne qui, aux moments considérés, jouit, en
+                    barking of passengers.
+                                                                              vertu de la loi ou d’un contrat, des droits du
+                                                                              propriétaire quant à la possession et à l’utilisa-
+                                                                              tion du navire.
+                                                                              « résident du Canada » Personne résidant au          « résident du
+                                                                                                                                   Canada »
+                                                                              Canada au sens de l’article 250 de la Loi de         “resident in
+                                                                              l’impôt sur le revenu.                               Canada”
+
+
+
+
+                                                                          3
+                                                      Coasting Trade — October 6, 2010
+
+Meaning of       (2) For the purpose of the definition “coast-                     (2) Pour l’application de la définition de                      Sens de « lieu
+“place”                                                                                                                                            situé au-dessus
+              ing trade” in subsection (1), a place above the                   « cabotage », un lieu situé au-dessus du plateau                   du plateau
+              continental shelf of Canada includes any ship,                    continental du Canada s’entend notamment                           continental du
+                                                                                                                                                   Canada »
+              offshore drilling unit, production platform, arti-                d’un navire, d’une unité de forage en mer,
+              ficial island, subsea installation, pumping sta-                  d’une station de pompage, d’une plate-forme de
+              tion, living accommodation, storage structure,                    chargement, de production ou d’atterrissage,
+              loading or landing platform, dredge, floating                     d’une île artificielle, d’une installation sous-
+              crane, pipelaying or other barge or pipeline and                  marine, d’une unité de logement ou d’entrepo-
+              any anchor, anchor cable or rig pad used in                       sage, d’une drague, d’une grue flottante, d’une
+              connection therewith.                                             barge, d’une unité d’installation de canalisa-
+                                                                                tions, des canalisations elles-mêmes, ainsi que
+                                                                                des ancres, câbles d’ancrage et assises de sonde
+                                                                                utilisés à leur égard.
+Delegation       (3) Any power, duty or function of the Min-                       (3) Les pouvoirs ou fonctions conférés au                       Délégation
+              ister of Public Safety and Emergency Prepared-                    ministre de la Sécurité publique et de la Protec-
+              ness or the Minister of Transport under this Act                  tion civile ou au ministre des Transports par la
+              may be exercised or performed by any person                       présente loi peuvent être exercés par toute per-
+              authorized by that Minister, as the case may be,                  sonne que le ministre en question autorise à
+              to do so and, if so exercised or performed, shall                 agir ainsi. Les pouvoirs ou fonctions ainsi exer-
+              be deemed to have been exercised by that Min-                     cés sont réputés l’avoir été par le ministre.
+              ister.                                                            1992, ch. 31, art. 2; 1996, ch. 10, art. 211, ch. 31, art. 66 et
+              1992, c. 31, s. 2; 1996, c. 10, s. 211, c. 31, ss. 66, 108;       108; 1998, ch. 16, art. 30; 1999, ch. 31, art. 228(F); 2001,
+              1998, c. 16, s. 30; 1999, c. 31, s. 228(F); 2001, c. 26, s.       ch. 26, art. 289; 2005, ch. 38, art. 142 et 145.
+              289; 2005, c. 38, ss. 142, 145.
+
+               REGULATION OF FOREIGN SHIPS AND                                   RÉGLEMENTATION DE L’UTILISATION
+                    NON-DUTY PAID SHIPS                                            DES NAVIRES ÉTRANGERS ET DES
+                                                                                     NAVIRES NON DÉDOUANÉS
+Prohibition      3. (1) Subject to subsections (2) to (5), no                      3. (1) Sauf en conformité avec une licence,                     Interdiction
+              foreign ship or non-duty paid ship shall, except                  un navire étranger ou un navire non dédouané
+              under and in accordance with a licence, engage                    ne peut, sous réserve des paragraphes (2) à (5),
+              in the coasting trade.                                            se livrer au cabotage.
+Application      (2) Subsection (1) does not apply in respect                      (2) Le paragraphe (1) ne s’applique pas à                       Champ
+                                                                                                                                                   d’application
+              of any foreign ship or non-duty paid ship that is                 l’égard des navires étrangers ou des navires non
+                                                                                dédouanés qui, selon le cas, sont utilisés :
+                 (a) used as a fishing vessel, as defined by
+                 the Coastal Fisheries Protection Act, in any                      a) comme bateaux de pêche au sens de la
+                 activity governed by that Act and that does                       Loi sur la protection des pêches côtières
+                 not carry any goods or passengers other than                      dans le cadre d’activités régies par cette loi,
+                 goods or passengers incidental to any activi-                     et ne transportent pas de passagers ou de
+                 ty governed by that Act;                                          marchandises sauf dans le cadre de ces acti-
+                                                                                   vités;
+                 (b) engaged in any ocean research activity
+                 commissioned by the Department of Fish-                           b) pour des activités de recherches océano-
+                 eries and Oceans;                                                 graphiques demandées par le ministère des
+                                                                                   Pêches et des Océans;
+                 (c) operated or sponsored by a foreign gov-
+                 ernment that has sought and received the                          c) pour des activités de recherches océano-
+                 consent of the Minister of Foreign Affairs to                     graphiques conduites ou commanditées par
+                 conduct marine scientific research;                               un gouvernement étranger si celui-ci a obte-
+                                                                                   nu l’autorisation du ministre des Affaires
+                 (d) engaged in salvage operations, except
+                                                                                   étrangères;
+                 where such operations are performed in
+                 Canadian waters; or
+
+
+
+
+                                                                            4
+                                                                      Cabotage — 6 octobre 2010
+
+                       (e) engaged, with the approval of a person                       d) à des opérations de sauvetage, sauf
+                       designated as a pollution prevention officer                     lorsque celles-ci se déroulent dans les eaux
+                       under section 174 of the Canada Shipping                         canadiennes;
+                       Act, 2001 or authorized under paragraph                          e) avec l'approbation d'un agent chargé de la
+                       11(2)(d) of that Act to carry out inspections,                   prévention de la pollution, désigné aux
+                       in activities related to a marine pollution                      termes de l'article 174 de la Loi de 2001 sur
+                       emergency, or to a risk of a marine pollution                    la marine marchande du Canada, ou de la
+                       emergency.                                                       personne autorisée à effectuer des inspec-
+                                                                                        tions en vertu de l'alinéa 11(2)d), pour des
+                                                                                        activités liées à une situation d'urgence cau-
+                                                                                        sée par la pollution marine, réelle ou appré-
+                                                                                        hendée.
+Assistance in          (3) Nothing in this section precludes a for-                     (3) Le présent article n’interdit pas à un na-                Non-interdiction
+cases of distress                                                                                                                                     de porter secours
+                    eign ship or a non-duty paid ship from render-                   vire étranger ou un navire non dédouané de
+                    ing assistance to persons, ships or aircraft in                  porter secours à des personnes, un navire ou un
+                    danger or distress in Canadian waters.                           aéronef en danger ou en détresse dans les eaux
+                                                                                     canadiennes.
+United States         (4) Subsection (1) does not apply in respect                     (4) Le paragraphe (1) ne s’applique pas aux                    Loi sur les
+Wreckers Act                                                                                                                                          bateaux
+                    of operations permitted by the United States                     opérations de sauvetage autorisées par la Loi                    sauveteurs des
+                    Wreckers Act.                                                    sur les bateaux sauveteurs des États-Unis.                       États-Unis
+
+DEW Sites             (5) Subsection (1) does not apply to any ship                    (5) Le paragraphe (1) ne s’applique pas aux                    Exception
+                    that is owned by the Government of the United                    navires du gouvernement des États-Unis qui
+                    States and used for the sole purpose of trans-                   sont utilisés seulement pour le transport des
+                    porting goods of Canadian or United States ori-                  marchandises d’origine canadienne ou améri-
+                    gin owned by the Government of the United                        caine appartenant à ce gouvernement et desti-
+                    States to supply Distant Early Warning Sites.                    nées à approvisionner les postes du réseau
+                    1992, c. 31, s. 3; 1995, c. 5, s. 25; 2001, c. 26, s. 290.       avancé de préalerte.
+                                                                                     1992, ch. 31, art. 3; 1995, ch. 5, art. 25; 2001, ch. 26, art.
+                                                                                     290.
+
+Issuance of            4. (1) Subject to section 7, on application                      4. (1) Sous réserve de l’article 7, sur de-                   Licence : navires
+licence: foreign                                                                                                                                      étrangers
+ship
+                    therefor by a person resident in Canada acting                   mande d’un résident du Canada agissant au
+                    on behalf of a foreign ship, the Minister of Pub-                nom d’un navire étranger, le ministre de la Sé-
+                    lic Safety and Emergency Preparedness shall                      curité publique et de la Protection civile délivre
+                    issue a licence in respect of the foreign ship,                  une licence pour le navire s’il est convaincu à
+                    where the Minister is satisfied that                             la fois :
+                       (a) the Agency has determined that no                            a) que l’Office a déterminé qu’il n’existe
+                       Canadian ship or non-duty paid ship is suit-                     pas de navire canadien ou de navire non dé-
+                       able and available to provide the service or                     douané qui soit à la fois adapté et disponible
+                       perform the activity described in the applica-                   pour assurer le service ou être affecté aux ac-
+                       tion;                                                            tivités visées dans la demande;
+                       (b) where the activity described in the appli-                   b) dans le cas d’activités qui comportent le
+                       cation entails the carriage of passengers by                     transport de passagers par navire, que l’Of-
+                       ship, the Agency has determined that an                          fice a déterminé qu’aucun exploitant de na-
+                       identical or similar adequate marine service                     vires canadiens n’offre un service adéquat —
+                       is not available from any person operating                       identique ou comparable;
+                       one or more Canadian ships;                                      c) que des arrangements ont été pris à
+                       (c) arrangements have been made for the                          l’égard du paiement des droits et taxes pré-
+                       payment of the duties and taxes under the                        vus par le Tarif des douanes et la Loi sur la
+                       Customs Tariff and the Excise Tax Act appli-
+
+
+
+
+                                                                                 5
+                                                               Coasting Trade — October 6, 2010
+
+                      cable to the foreign ship in relation to its                   taxe d’accise applicables à l’utilisation tem-
+                      temporary use in Canada;                                       poraire du navire au Canada;
+                      (d) all certificates and documents relating to                 d) que tous les certificats et documents déli-
+                      the foreign ship issued pursuant to shipping                   vrés à l’égard du navire étranger en vertu de
+                      conventions to which Canada is a party are                     conventions maritimes auxquelles le Canada
+                      valid and in force; and                                        est partie sont en cours de validité;
+                      (e) the foreign ship meets all safety and pol-                 e) que le navire étranger satisfait à toutes les
+                      lution prevention requirements imposed by                      dispositions en matière de sécurité et de pré-
+                      any law of Canada applicable to that foreign                   vention de la pollution prévues par la législa-
+                      ship.                                                          tion canadienne applicable.
+Other laws apply      (2) For greater certainty, the issuance of a li-               (2) Il demeure entendu que la délivrance            Application des
+                                                                                                                                         autres lois
+                   cence pursuant to subsection (1) does not affect               d’une licence ne porte pas atteinte à l’applica-
+                   the application of any law of Canada that im-                  tion de toute autre disposition en matière de sé-
+                   poses safety or pollution prevention require-                  curité ou de prévention de la pollution prévue
+                   ments in respect of ships.                                     par la législation canadienne.
+                   1992, c. 31, s. 4; 2005, c. 38, ss. 142, 145.                  1992, ch. 31, art. 4; 2005, ch. 38, art. 142 et 145.
+
+Issuance of           5. Subject to section 7, on application there-                 5. Sous réserve de l’article 7, sur demande         Licence : navires
+licence: non-                                                                                                                            non dédouanés
+duty paid ship
+                   for by a person resident in Canada acting on be-               d’un résident du Canada agissant au nom d’un
+                   half of a non-duty paid ship, the Minister of                  navire non dédouané, le ministre de la Sécurité
+                   Public Safety and Emergency Preparedness                       publique et de la Protection civile délivre une
+                   shall issue a licence in respect of the non-duty               licence pour le navire s’il est convaincu à la
+                   paid ship, where the Minister is satisfied that                fois :
+                      (a) the Agency has determined that no                          a) que l’Office a déterminé qu’il n’existe
+                      Canadian ship is suitable and available to                     pas de navire canadien qui soit à la fois adap-
+                      provide the service or perform the activity                    té et disponible pour assurer le service ou
+                      described in the application;                                  être affecté aux activités visées dans la de-
+                                                                                     mande;
+                      (b) where the activity described in the appli-
+                      cation entails the carriage of passengers by                   b) dans le cas d’activités qui comportent le
+                      ship, the Agency has determined that an                        transport de passagers par navire, que l’Of-
+                      identical or similar adequate marine service                   fice a déterminé qu’aucun exploitant de na-
+                      is not available from any person operating                     vires canadiens n’offre un service adéquat —
+                      one or more Canadian ships; and                                identique ou comparable;
+                      (c) arrangements have been made for the                        c) que des arrangements ont été pris à
+                      payment of the duties and taxes under the                      l’égard du paiement des droits et taxes pré-
+                      Customs Tariff and the Excise Tax Act appli-                   vus par le Tarif des douanes et la Loi sur la
+                      cable to the non-duty paid ship in relation to                 taxe d’accise applicables à l’utilisation tem-
+                      its temporary use in Canada.                                   poraire du navire au Canada.
+                   1992, c. 31, s. 5; 2005, c. 38, ss. 142, 145.                  1992, ch. 31, art. 5; 2005, ch. 38, art. 142 et 145.
+
+Terms and             6. (1) The Minister of Public Safety and                      6. (1) Le ministre de la Sécurité publique et        Conditions
+conditions of
+licence
+                   Emergency Preparedness may issue a licence                     de la Protection civile peut accorder une licence
+                   subject to any terms and conditions that the                   assortie des conditions qu’il juge indiquées no-
+                   Minister considers appropriate, including, with-               tamment en ce qui concerne :
+                   out restricting the generality of the foregoing,                  a) la nature du service ou des activités dont
+                   terms and conditions respecting                                   peut se charger le navire étranger ou le na-
+                      (a) the service or activity that is to be per-                 vire non dédouané visé par la licence;
+                      formed by the foreign ship or non-duty paid                    b) le ou les lieux où le navire peut assurer le
+                      ship to which the licence relates; and                         service ou être affecté aux activités en ques-
+                                                                                     tion.
+
+
+
+
+                                                                              6
+                                                                   Cabotage — 6 octobre 2010
+
+                      (b) the place or places where the foreign
+                      ship or non-duty paid ship may perform that
+                      service or activity.
+Effective period      (2) Every licence shall set out the period of                  (2) Les licences sont valides pendant la du-        Durée des
+of licence                                                                                                                               licences
+                   time for which it is valid, which period may not               rée — de douze mois au maximum — qui y est
+                   exceed                                                         indiquée ou, dans le cas d’un navire étranger,
+                                                                                  jusqu’à l’expiration de l’un des certificats ou
+                      (a) in the case of a foreign ship, the earlier
+                                                                                  documents mentionnés à l’alinéa 4(1)d), si elle
+                      of twelve months and the expiration of any
+                                                                                  survient plus tôt.
+                      certificate or document referred to in para-
+                      graph 4(1)(d); or
+                      (b) in the case of a non-duty paid ship,
+                      twelve months.
+Suspension,           (3) The Minister of Public Safety and Emer-                    (3) Le ministre de la Sécurité publique et de       Suspension,
+cancellation or                                                                                                                          annulation ou
+variation of
+                   gency Preparedness may, by order, suspend or                   la Protection civile peut, par arrêté, suspendre       modification
+licence            cancel a licence or vary the terms and condi-                  ou annuler une licence ou en modifier les
+                   tions of a licence where                                       conditions dans les cas suivants :
+                      (a) the owner or master of the licensed ship                   a) déclaration de culpabilité du propriétaire
+                      is convicted of an offence under this or any                   ou du capitaine du navire visé par la licence
+                      other Act of Parliament relating to naviga-                    pour infraction à la présente loi ou à une
+                      tion or shipping; or                                           autre loi fédérale sur la navigation ou la ma-
+                                                                                     rine marchande;
+                      (b) there has been a contravention of or fail-
+                      ure to comply with any term or condition to                    b) inobservation des conditions de la li-
+                      which the licence is subject.                                  cence.
+                   1992, c. 31, s. 6; 2005, c. 38, ss. 142, 145.                  1992, ch. 31, art. 6; 2005, ch. 38, art. 142 et 145.
+
+Maximum               7. The Governor in Council may, by regula-                     7. Le gouverneur en conseil peut, par règle-        Nombre
+number of                                                                                                                                maximal de
+licences
+                   tion, fix the maximum number of licences that                  ment, fixer le nombre maximal de licences qui          licences
+                   may be issued pursuant to sections 4 and 5.                    peuvent être délivrées en vertu des articles 4 et
+                                                                                  5.
+
+                     FUNCTION AND POWERS OF AGENCY                                              MISSION DE L’OFFICE
+Function of           8. (1) In relation to an application for a li-                 8. (1) À l’occasion de l’étude d’une de-            Déterminations
+Agency
+                   cence, the Agency shall make the determina-                    mande de licence, l’Office procède aux déter-
+                   tions referred to in paragraphs 4(1)(a) and (b)                minations visées aux alinéas 4(1)a) et b) et 5a)
+                   and 5(a) and (b).                                              et b).
+Regulations           (2) The Governor in Council may make reg-                      (2) Le gouverneur en conseil peut, par règle-       Règlements
+                   ulations prescribing the criteria to be applied by             ment, fixer les critères à appliquer par l’Office
+                   the Agency for the making of the determina-                    lorsqu’il procède aux déterminations visées au
+                   tions referred to in subsection (1).                           paragraphe (1).
+Information          9. In making a determination referred to in                     9. Dans le cadre d’une détermination visée          Renseignements
+                   subsection 8(1), the Agency may request from                   au paragraphe 8(1), l’Office peut demander à
+                   the applicant for the licence to which the deter-              l’auteur de la demande de licence et au proprié-
+                   mination relates, and from the owner of any                    taire de tout navire canadien non dédouané vi-
+                   Canadian ship or non-duty ship to which the                    sés par la demande de lui fournir les renseigne-
+                   determination relates, such information and                    ments et documents qu’il juge nécessaires.
+                   documentation as the Agency deems necessary.
+Collection of         10. In order to carry out its function under                  10. L’Office peut, pour s’acquitter de sa            Recueil de
+information                                                                                                                              renseignements
+                   this Act the Agency may collect information                    mission sous le régime de la présente loi, re-
+                   and keep records concerning the characteristics                cueillir des renseignements et établir des dos-
+
+
+
+
+                                                                              7
+                                                            Coasting Trade — October 6, 2010
+
+                   and uses of Canadian ships and non-duty paid                siers sur les caractéristiques des navires cana-
+                   ships.                                                      diens et des navires non dédouanés ainsi que
+                                                                               sur leur utilisation.
+
+                                   UNFAIR PRACTICES                                           PRATIQUES INJUSTES
+Unfair practices      11. (1) Where the Minister of Transport is                  11. (1) Le ministre des Transports, s’il         Pratiques
+                                                                                                                                   injustes
+                   of the opinion that a government of any country             constate que le gouvernement d’un pays se
+                   has engaged in unfair, discriminatory or restric-           livre à des pratiques injustes, discriminatoires
+                   tive practices with respect to the use of Canadi-           ou restrictives touchant l’utilisation de navires
+                   an ships in commercial activities in waters of              canadiens pour des activités commerciales dans
+                   that country, the Minister of Transport and the             les eaux de ce pays, procède avec le ministre
+                   Minister of Foreign Affairs shall seek elimina-             des Affaires étrangères à des consultations au-
+                   tion of those practices through consultations               près du gouvernement de ce pays en vue de
+                   with the government of that country.                        faire cesser ces pratiques.
+Idem                  (2) Where the consultations referred to in                  (2) En cas d’insuccès des consultations, le      Idem
+                   subsection (1) fail to result in the elimination of         gouverneur en conseil peut, sur recommanda-
+                   the practices referred to in that subsection, the           tion du ministre des Transports et du ministre
+                   Governor in Council may, on the recommenda-                 des Affaires étrangères, prendre les mesures
+                   tion of the Minister of Transport and the Minis-            qu’il estime indiquées.
+                   ter of Foreign Affairs, take such action as the             1992, ch. 31, art. 11; 1995, ch. 5, art. 25.
+                   Governor in Council considers appropriate.
+                   1992, c. 31, s. 11; 1995, c. 5, s. 25.
+
+                                       ENFORCEMENT                                       CONTRÔLE D’APPLICATION
+Enforcement           12. (1) For the purposes of enforcing this                  12. (1) Pour le contrôle d’application de la     Agent de
+officers                                                                                                                           l’autorité
+                   Act, the Minister of Transport may designate                présente loi, le ministre des Transports peut dé-
+                   any person or class of persons as enforcement               signer toute personne ou toute catégorie de per-
+                   officers and shall furnish every enforcement of-            sonnes en qualité d’agents de l’autorité; il re-
+                   ficer with a certificate of that designation.               met à chaque agent un certificat attestant sa
+                                                                               qualité.
+Production of         (2) In carrying out the duties and functions               (2) Dans l’exercice de ses fonctions, l’agent     Présentation du
+certificate of                                                                                                                     certificat
+designation
+                   of an enforcement officer under this Act, an en-            de l’autorité présente, sur demande, son certifi-
+                   forcement officer shall, if so requested, produce           cat à la personne apparemment responsable du
+                   the certificate of designation referred to in sub-          navire qui fait l’objet de son intervention.
+                   section (1) to the person appearing to be in
+                   charge of any ship in respect of which the en-
+                   forcement officer is acting.
+
+                                           OFFENCES                                                 INFRACTIONS
+Offence              13. (1) Where a ship contravenes subsection                  13. (1) Lorsqu’un navire contrevient au pa-      Infraction
+                   3(1), the ship is guilty of an offence and is li-           ragraphe 3(1), le navire est coupable d’une in-
+                   able on summary conviction to a fine not ex-                fraction punissable par procédure sommaire et
+                   ceeding fifty thousand dollars.                             encourt une amende maximale de cinquante
+                                                                               mille dollars.
+Deemed separate      (2) Where an offence is committed by a ship                  (2) Il est compté une infraction distincte       Infraction
+offence                                                                                                                            continue
+                   under subsection (1) on more than one day or is             pour chacun des jours au cours desquels se réa-
+                   continued by the ship for more than one day, it             lise ou se continue la perpétration d’une infrac-
+                   shall be deemed to be a separate offence for                tion prévue au paragraphe (1).
+                   each day on which the offence is committed or
+                   continued.
+
+
+
+
+                                                                           8
+                                                           Cabotage — 6 octobre 2010
+
+Trial of offences      14. (1) Where a ship is charged with an of-                14. (1) Tout tribunal canadien qui aurait eu      Compétence des
+                                                                                                                                    tribunaux
+                    fence under section 13, any court in Canada                compétence à l’égard de l’infraction, visée à
+                    that would have had jurisdiction in respect of             l’article 13, dont est accusé un navire, si celle-
+                    the offence if that offence had been committed             ci avait été commise dans son ressort, est com-
+                    within the limits of the court’s ordinary juris-           pétent pour connaître de cette infraction indé-
+                    diction has jurisdiction to try the offence as if it       pendamment du lieu de perpétration.
+                    had been committed in the court’s jurisdiction.
+Service on ship        (2) Where a ship is charged with an offence                (2) La signification à un navire accusé d’une     Signification au
+and appearance                                                                                                                      navire et
+at trial
+                    under section 13, the summons in relation                  infraction prévue à l’article 13 se fait en remet-   comparution
+                    thereto may be served by leaving it with the               tant la citation à comparaître au capitaine ou à
+                    master or any officer of the ship or by posting            un officier du navire ou en l’affichant à un en-
+                    the summons on a conspicuous part of the ship,             droit bien en vue sur le navire; le navire peut
+                    and the ship may appear by counsel or agent                comparaître par avocat ou agent; en cas de dé-
+                    but, if it does not appear, a court may, on proof          faut de comparution, un tribunal peut, sur
+                    of service of the summons, proceed ex parte to             preuve de la signification, procéder par défaut.
+                    hold the trial.
+
+                                       SEARCHES                                               PERQUISITIONS
+Powers of              15. (1) Where an enforcement officer be-                   15. (1) L’agent de l’autorité qui a des mo-       Pouvoirs de
+enforcement                                                                                                                         l’agent de
+officer
+                    lieves on reasonable grounds that a ship has               tifs raisonnables de croire qu’un navire a           l’autorité
+                    contravened this Act, the enforcement officer              contrevenu à la présente loi peut immobiliser le
+                    may stop and board the ship and, with a war-               navire, monter à bord et, s’il est muni d’un
+                    rant, search the ship and seize anything found             mandat, procéder à toute perquisition; il peut
+                    in or on the ship that the enforcement officer             aussi saisir tout objet se trouvant à bord et dont
+                    believes on reasonable grounds will afford evi-            il a des motifs raisonnables de croire qu’il
+                    dence with respect to any contravention of this            pourra servir à prouver une contravention à la
+                    Act.                                                       présente loi.
+Where warrant          (2) An enforcement officer may carry out                   (2) L’agent de l’autorité peut exercer les        Perquisition sans
+not necessary                                                                                                                       mandat
+                    the powers under subsection (1) without a war-             pouvoirs mentionnés au paragraphe (1) sans
+                    rant if by reason of exigent circumstances it              mandat si des circonstances exceptionnelles
+                    would not be practicable to obtain a warrant.              rendent l’obtention de celui-ci difficilement
+                                                                               réalisable.
+Assistance            (3) While carrying out any of the powers un-               (3) Dans l’exercice de ses pouvoirs au titre       Assistance
+                    der this section, an enforcement officer may               du présent article, l’agent de l’autorité peut :
+                      (a) require the owner, master or any other                 a) exiger que le propriétaire, le capitaine ou
+                      person who may have possession of the offi-                la personne qui a en sa possession le journal
+                      cial log book of the ship, or any other docu-              de bord ou tout autre document qui pourrait
+                      ment or paper that may provide evidence of                 fournir la preuve de la contravention le lui
+                      the contravention, to produce, for inspection              remette pour examen, reproduction ou éta-
+                      or for the purposes of obtaining copies there-             blissement d’extraits;
+                      of or extracts therefrom, the log book or oth-             b) exiger que le capitaine ou toute autre per-
+                      er document or paper; and                                  sonne se trouvant à bord lui prête toute l’as-
+                      (b) require the master or any other person                 sistance possible dans l’exercice de ses fonc-
+                      found on board the ship to give all reason-                tions.
+                      able assistance in the power of the master or
+                      other person, as the case may be, to enable
+                      the enforcement officer to carry out the en-
+                      forcement officer’s duties and functions un-
+                      der this Act.
+
+
+
+
+                                                                           9
+                                                    Coasting Trade — October 6, 2010
+
+                               DETENTION OF SHIP                                   RÉTENTION DU NAVIRE
+Detention of          16. (1) Where an enforcement officer be-             16. (1) L’agent de l’autorité qui a des mo-         Rétention du
+ships                                                                                                                          navire
+                   lieves on reasonable grounds that an offence         tifs raisonnables de croire qu’une infraction à la
+                   under this Act has been committed by or in re-       présente loi a été commise par un navire ou en
+                   spect of a ship, the enforcement officer may         rapport avec lui peut en ordonner la rétention.
+                   make a detention order in respect of the ship.
+Geographical          (2) The power to make a detention order un-          (2) Le pouvoir d’ordonner la rétention peut         Application du
+application of                                                                                                                 présent article
+section
+                   der this section may be exercised in Canadian        être exercé dans les eaux canadiennes et celles
+                   waters and in waters above the continental shelf     qui sont situées au-dessus du plateau continen-
+                   of Canada.                                           tal.
+Order to be in       (3) A detention order made under subsection           (3) L’ordre de rétention visé au paragraphe         Ordre écrit
+writing
+                   (1) shall be in writing and addressed to all per-    (1) est donné par écrit; il est adressé à toutes les
+                   sons who, at the place where the ship to which       personnes qui, dans les lieux où se trouve ou se
+                   the order relates is or will be, are empowered to    trouvera le navire visé, sont autorisées à lui
+                   give a clearance in respect of the ship.             donner congé.
+Notice of             (4) Where a detention order under this sec-          (4) Un avis de l’ordre de rétention est signi-      Signification au
+detention order                                                                                                                capitaine
+to be served on
+                   tion is made in respect of a ship, notice thereof    fié au capitaine de l’une des façons suivantes :
+master             shall be served on the master of the ship                a) par remise personnelle d’un exemplaire;
+                     (a) by delivering a copy thereof personally            b) si la signification ne peut raisonnable-
+                     to the master; or                                      ment se faire de la façon prévue à l’alinéa a) :
+                     (b) if service cannot reasonably be effected             (i) soit par remise, à l’intention du capi-
+                     in the manner provided in paragraph (a),                 taine, à la personne qui a ou semble avoir
+                        (i) by leaving a copy thereof for the mas-            la responsabilité du navire,
+                        ter on board the ship with the person who             (ii) soit par remise au propriétaire du na-
+                        is, or appears to be, in command or charge            vire ou à son mandataire résidant au
+                        of the ship, or                                       Canada ou, si on ne peut les trouver, par
+                        (ii) by leaving a copy thereof with the               l’affichage d’un exemplaire sur une partie
+                        owner or agent of the owner of the ship re-           bien en vue du navire.
+                        siding in Canada or, where no such owner
+                        or agent is known or can be found, by fix-
+                        ing a copy thereof to a prominent part of
+                        the ship.
+Ship under            (5) Where notice of a detention order in re-         (5) Le capitaine ou le propriétaire d’un na-        Interdiction
+detention not to                                                                                                               d’appareiller
+depart
+                   spect of a ship is served under subsection (4)       vire qui donne l’ordre de quitter les eaux cana-
+                   and, during the term of the detention order, the     diennes ou celles qui sont situées au-dessus du
+                   master or owner of the ship gives an order for       plateau continental du Canada, alors qu’a été
+                   the ship to depart from Canadian waters or           donné un ordre de rétention du navire et que
+                   from waters above the continental shelf of           l’avis a été signifié au capitaine, est coupable
+                   Canada, the master or owner, as the case may         d’une infraction et encourt, sur déclaration de
+                   be, is guilty of an offence and liable on summa-     culpabilité par procédure sommaire, une
+                   ry conviction to a fine not exceeding fifty thou-    amende maximale de cinquante mille dollars.
+                   sand dollars.
+Duty of persons       (6) Subject to subsection (7), no person to          (6) Sous réserve du paragraphe (7), il est in-      Obligation des
+empowered to                                                                                                                   personnes
+give clearance
+                   whom a detention order made under subsection         terdit aux personnes à qui un ordre de rétention       autorisées à
+                   (1) is addressed shall, after notice of the order    est donné en conformité avec le paragraphe (3)         donner congé
+                   is received by that person, give clearance in re-    de donner congé, après réception de l’ordre, au
+                   spect of the ship to which the order relates.        navire visé par celui-ci.
+
+
+
+
+                                                                       10
+                                                      Cabotage — 6 octobre 2010
+
+When clearance      (7) A person to whom a detention order               (7) Les personnes à qui un ordre de rétention       Congés
+shall be given
+                 made under subsection (1) is addressed and           est adressé et qui l’ont reçu donnent congé au
+                 who has received notice of the order shall give      navire retenu dans les cas suivants :
+                 clearance in respect of the ship to which the or-        a) un cautionnement d’un montant de cin-
+                 der relates where                                        quante mille dollars, que le ministre des
+                   (a) security satisfactory to the Minister of           Transports juge acceptable, est versé à Sa
+                   Transport in the amount of fifty thousand              Majesté du chef du Canada;
+                   dollars is given to Her Majesty in right of            b) le navire n’a pas été accusé d’une infrac-
+                   Canada;                                                tion à la présente loi dans les trente jours qui
+                   (b) the ship has not been charged with an of-          suivent la rétention;
+                   fence under this Act within thirty days after          c) le navire a été accusé d’une infraction à la
+                   the making of the detention order; or                  présente loi dans le délai mentionné à l’ali-
+                   (c) the ship has been charged with an of-              néa b) et :
+                   fence under this Act within the period re-               (i) ou bien un cautionnement que le mi-
+                   ferred to in paragraph (b) and                           nistre des Transports juge acceptable, d’un
+                      (i) security satisfactory to the Minister of          montant égal à l’amende maximale qui
+                      Transport for payment of the maximum                  peut être infligée ou à une somme infé-
+                      fine that might be imposed as a result of a           rieure approuvée par le ministre, a été ver-
+                      conviction of a ship charged with that of-            sé à Sa Majesté du chef du Canada,
+                      fence, or in such lesser amount as may be             (ii) ou bien les poursuites relatives à cette
+                      approved by the Minister of Transport, is             infraction ont été abandonnées.
+                      given to Her Majesty in right of Canada,
+                      or
+                      (ii) proceedings in respect of the alleged
+                      offence that gave rise to the making of the
+                      detention order are discontinued.
+Sale of ship        (8) Where a ship has been charged with an            (8) Le ministre des Transports peut deman-          Vente du navire
+where no
+appearance and
+                 offence under this Act within thirty days after      der au tribunal de rendre une ordonnance l’au-
+no security      the making of a detention order in respect           torisant à vendre un navire si le navire a été ac-
+                 thereof and, within thirty days after the day on     cusé d’une infraction à la présente loi dans les
+                 which the ship was charged with the offence,         trente jours suivant l’ordre de rétention et si,
+                                                                      dans les trente jours suivant l’accusation, les
+                   (a) no one has appeared on behalf of the
+                                                                      conditions suivantes sont réunies :
+                   ship to answer to the charge, and
+                                                                          a) personne n’a comparu au nom du navire
+                   (b) security referred to in paragraph (7)(c)
+                                                                          pour répondre aux accusations;
+                   has not been given,
+                                                                          b) aucun cautionnement visé à l’alinéa (7)c)
+                 the Minister of Transport may apply to a court
+                                                                          n’a été versé.
+                 for an order authorizing the Minister of Trans-
+                 port to sell the ship.
+Sale of ship       (9) Where a ship has been charged with an             (9) Le ministre des Transports peut deman-          Idem
+where
+appearance but
+                 offence under this Act within thirty days after      der au tribunal de rendre une ordonnance l’au-
+no security      the making of a detention order in respect           torisant à vendre un navire si le navire a été ac-
+                 thereof and                                          cusé d’une infraction à la présente loi dans les
+                                                                      trente jours suivant l’ordre de rétention et si les
+                   (a) within thirty days after the day on which
+                                                                      conditions suivantes sont réunies :
+                   the ship was charged with the offence, some-
+                   one has appeared on behalf of the ship to an-          a) il y a eu comparution dans les trente jours
+                   swer to the charge but security referred to in         de l’accusation mais aucun cautionnement
+                   paragraph (7)(c) has not been given, and               visé à l’alinéa (7)c) n’a été versé;
+
+
+
+
+                                                                     11
+                                                     Coasting Trade — October 6, 2010
+
+                     (b) the ship is convicted and a fine is im-             b) le navire est trouvé coupable et une
+                     posed but not paid forthwith,                           amende est infligée mais n’est pas payée im-
+                                                                             médiatement.
+                   the Minister of Transport may apply to a court
+                   for an order authorizing the Minister of Trans-
+                   port to sell the ship.
+Notice               (10) Forthwith on making an application un-            (10) Dès qu’il présente une demande en ver-        Avis
+                   der subsection (8) or (9), the Minister of Trans-     tu des paragraphes (8) ou (9), le ministre des
+                   port shall, by registered mail, give notice of the    Transports fait parvenir par courrier recomman-
+                   application to                                        dé un avis de la demande aux personnes
+                                                                         suivantes :
+                     (a) the person responsible for maintaining
+                     any register in which the ship is registered,           a) la personne responsable de la tenue de
+                     listed or recorded;                                     tout registre sur lequel le navire est immatri-
+                                                                             culé, enregistré ou inscrit;
+                     (b) the holder of any mortgage against the
+                     ship that is registered on the register referred        b) les détenteurs d’hypothèques sur le navire
+                     to in paragraph (a); and                                inscrits au registre mentionné à l’alinéa a);
+                     (c) the holder of any maritime lien against             c) les personnes qui, à la connaissance du
+                     the ship to which the application relates, and          ministre au moment de la demande, dé-
+                     the holder of any like interest, known to the           tiennent des privilèges maritimes, ou des
+                     Minister of Transport at the time of the mak-           droits semblables, sur le navire visé par la
+                     ing of the application.                                 demande.
+Day notice            (11) A notice sent by registered mail under           (11) L’avis est réputé reçu par son destina-       Présomption
+deemed to be
+given
+                   subsection (10) shall be deemed to have been          taire le jour où le ministre reçoit l’accusé de ré-
+                   given to the person to whom it was sent on the        ception de l’avis.
+                   day on which an acknowledgement of receipt in
+                   respect thereof is received by the Minister of
+                   Transport.
+Court may             (12) Where the court seized of an applica-            (12) S’il est convaincu qu’il est opportun de      Dispense
+relieve Minister
+of giving notice
+                   tion under subsection (8) or (9) is satisfied that    le faire, le tribunal saisi d’une demande en ver-
+                   it is appropriate to do so, the court may relieve     tu des paragraphes (8) ou (9) peut dispenser le
+                   the Minister of Transport of the obligation to        ministre d’envoyer l’avis mentionné au para-
+                   give the notice referred to in subsection (10), or    graphe (10) ou lui permettre de l’envoyer de
+                   authorize the Minister of Transport to give the       toute autre manière que le tribunal estime indi-
+                   notice in such other manner as the court deems        quée.
+                   fit.
+Claiming             (13) Where an application is made under                (13) En cas de demande présentée à l’égard         Revendication
+interest                                                                                                                       de droits
+                   subsection (8) or (9) in respect of a ship,           d’un navire en vertu des paragraphes (8) ou (9),
+                                                                         les personnes mentionnées aux alinéas (10)b)
+                     (a) any person referred to in paragraph
+                                                                         ou c) peuvent, dans les soixante jours suivant
+                     (10)(b) or (c) may, within sixty days after the
+                                                                         l’avis qui leur a été envoyé, demander au tribu-
+                     notice is given to that person, and
+                                                                         nal saisi de rendre une ordonnance sous le ré-
+                     (b) any other person who claims an interest         gime du paragraphe (14); les personnes qui re-
+                     in the ship as mortgagee, or as the holder of a     vendiquent un droit sur le navire en qualité de
+                     maritime lien or as the holder of any like in-      créanciers hypothécaires, de créanciers privilé-
+                     terest, may, within sixty days after the appli-     giés ou en toute autre qualité comparable le
+                     cation is made,                                     peuvent aussi, dans les soixante jours suivant la
+                   apply by notice in writing to the court seized of     demande.
+                   the application for an order referred to in sub-
+                   section (14).
+
+
+
+
+                                                                        12
+                                                          Cabotage — 6 octobre 2010
+
+Order                (14) Where, on the hearing of an application           (14) Lors de l’audition de la demande visée         Ordonnance
+                   made under subsection (13), it is made to ap-          au paragraphe (13), le requérant peut obtenir
+                   pear to the satisfaction of the court                  une ordonnance précisant la nature et l’étendue
+                                                                          de son droit au moment de l’infraction si le tri-
+                     (a) that the applicant acquired the interest in
+                                                                          bunal constate qu’il réunit les conditions
+                     respect of which the applicant is applying in
+                                                                          suivantes :
+                     good faith prior to the commission of the of-
+                     fence in respect of which the ship was de-               a) il a acquis son droit de bonne foi avant
+                     tained, and                                              l’infraction;
+                     (b) that the applicant is innocent of any                b) il est innocent de toute complicité ou col-
+                     complicity or collusion in respect of the of-            lusion dans l’infraction.
+                     fence in respect of which the ship was de-
+                     tained,
+                   the court shall grant to the applicant an order
+                   declaring the nature and extent of the appli-
+                   cant’s interest at the time of the commission of
+                   the offence.
+Appeal                (15) Any person who makes an application               (15) L’ordonnance visée au paragraphe (14)         Appel
+                   under subsection (13), and the Minister of             est susceptible d’appel, de la part du requérant
+                   Transport, may appeal to the court of appeal           ou du ministre des Transports, devant le tribu-
+                   from an order referred to in subsection (14) and       nal d’appel. Le cas échéant, l’affaire est enten-
+                   the appeal shall be asserted, heard and decided        due et jugée selon la procédure ordinaire régis-
+                   according to the ordinary procedure governing          sant les appels interjetés devant cette juridiction
+                   appeals to the court of appeal from orders or          contre les ordonnances ou décisions du tribu-
+                   judgments of a court.                                  nal.
+Applications         (16) A court shall not hear an application              (16) L’audition d’une demande présentée en         Priorité
+under subsection
+(13) to be heard
+                   under subsection (8) or (9) until all applications     vertu des paragraphes (8) ou (9) ne peut avoir
+first              under subsection (13) in relation thereto have         lieu avant celle des demandes qui sont présen-
+                   been heard.                                            tées en vertu du paragraphe (13).
+Court may             (17) A court hearing an application under              (17) Le tribunal saisi d’une demande présen-       Autorisation de
+authorize sale                                                                                                                  vendre
+                   subsection (8) or (9) may authorize the Minister       tée en vertu des paragraphes (8) ou (9) peut au-
+                   of Transport to sell the ship to which the appli-      toriser le ministre des Transports à vendre le
+                   cation relates in such manner and subject to           navire visé de la façon et sous réserve des mo-
+                   such terms and conditions as the court consid-         dalités que le tribunal estime indiquées; le tri-
+                   ers appropriate and, on application by the Min-        bunal peut aussi, à la demande du ministre, lui
+                   ister of Transport, give directions to the Minis-      donner des directives sur le rang des droits des
+                   ter of Transport as to the rank of the interests of    personnes en faveur desquelles une ordonnance
+                   persons who have obtained an order referred to         a été rendue en vertu du paragraphe (14).
+                   in subsection (14).
+Payment of           (18) Where a ship is sold pursuant to this              (18) Une fois déduit le montant de l’amende        Affectation du
+proceeds                                                                                                                        produit de la
+                   section, any surplus remaining from the pro-           maximale qui aurait pu être infligée dans le cas      vente
+                   ceeds of the sale after deducting                      du paragraphe (8), ou celui de l’amende qui a
+                                                                          été infligée dans le cas du paragraphe (9), ainsi
+                     (a) the amount of
+                                                                          que les frais de rétention et de vente, le solde
+                        (i) the maximum fine that could have              créditeur du produit de la vente d’un navire
+                        been imposed for the offence, where sub-          sous le régime du présent article est d’abord ré-
+                        section (8) applies, or                           parti entre les personnes qui ont obtenu une or-
+                        (ii) the fine actually imposed, where sub-        donnance en vertu du paragraphe (14), en
+                        section (9) applies, and                          conformité avec leurs droits respectifs, le reste
+                                                                          étant remis à la personne immatriculée à titre
+                     (b) the cost of the detention and the sale
+
+
+
+
+                                                                         13
+                                                            Coasting Trade — October 6, 2010
+
+                 shall, to the extent of the surplus, be paid in ac-                de propriétaire du navire, ou en l’absence d’im-
+                 cordance with the interests of persons who have                    matriculation, au propriétaire du navire.
+                 obtained an order referred to in subsection (14),
+                 and any surplus remaining thereafter shall be
+                 paid to the person registered as the owner of the
+                 ship or, in the absence of registration, to the
+                 person who owns the ship.
+Clear title         (19) On selling a ship pursuant to this sec-                       (19) Lorsqu’il vend un navire sous le régime                   Titre de
+                                                                                                                                                      propriété
+                 tion, the Minister of Transport may, by bill of                    du présent article, le ministre des Transports
+                 sale, give the purchaser a valid title to the ship                 peut remettre à l’acquéreur un titre de propriété
+                 free from any mortgage or other claim on the                       libéré des hypothèques ou autres créances qui
+                 ship that is in existence at the time of the sale.                 existaient au moment de la vente.
+Registrability      (20) Nothing in subsection (19) shall be                          (20) Le paragraphe (19) n’a pas pour effet                      Enregistrement
+not implied
+                 construed as meaning that the ship may be reg-                     de permettre l’immatriculation du navire au
+                 istered in the name of the purchaser.                              nom de l’acquéreur.
+Not duty paid      (21) No ship sold pursuant to this section                         (21) Un navire vendu sous le régime du pré-                     Absence de
+                                                                                                                                                      présomption
+                 shall be deemed to have been duty paid under                       sent article n’est pas de ce seul fait réputé être
+                 the Customs Tariff by reason only of that sale.                    un navire dédouané pour l’application du Tarif
+                                                                                    des douanes.
+Definitions         (22) In this section,                                             (22) Les définitions qui suivent s’appliquent                   Définitions
+                                                                                    au présent article.
+“court”          “court” means
+« tribunal »
+                                                                                    « tribunal »                                                      « tribunal »
+                    (a) in the Province of Ontario, the Superior                                                                                      “court”
+                    Court of Justice,                                                   a) La Cour supérieure de justice de l’Onta-
+                                                                                        rio;
+                    (b) in the Province of Quebec, the Superior
+                    Court of the Province,                                              b) la Cour supérieure du Québec;
+                    (c) in the Provinces of Prince Edward Island                        c) la Section de première instance de la Cour
+                    and Newfoundland, the trial division of the                         suprême de l’Île-du-Prince-Édouard et de
+                    Supreme Court of the Province,                                      Terre-Neuve;
+                    (d) in the Provinces of New Brunswick,                              d) la Cour du Banc de la Reine du Nouveau-
+                    Manitoba, Saskatchewan and Alberta, the                             Brunswick, du Manitoba, de la Saskatche-
+                    Court of Queen’s Bench for the Province,                            wan et de l’Alberta;
+                    (e) in the Provinces of Nova Scotia and                             e) la Cour suprême de la Nouvelle-Écosse et
+                    British Columbia, the Supreme Court of the                          de la Colombie-Britannique;
+                    Province,                                                           f) la Cour suprême du Yukon, la Cour su-
+                    (f) the Supreme Court of Yukon, the                                 prême des Territoires du Nord-Ouest et la
+                    Supreme Court of the Northwest Territories                          Cour de justice du Nunavut;
+                    and the Nunavut Court of Justice, and                               g) la Cour fédérale.
+                    (g) the Federal Court;                                          « tribunal d’appel » La cour d’appel, au sens de                  « tribunal
+                                                                                                                                                      d’appel »
+“court of        “court of appeal” means, in the province in                        l’article 2 du Code criminel, de la province où                   “court of
+appeal”
+« tribunal
+                 which an order referred to in subsection (14) is                   est rendue l’ordonnance visée au paragraphe                       appeal”
+d’appel »        made, the court of appeal for that province as                     (14) et la Cour d’appel fédérale.
+                 defined in section 2 of the Criminal Code and                      1992, ch. 31, art. 16; 1996, ch. 31, art. 108; 1998, ch. 16,
+                 includes the Federal Court of Appeal.                              art. 31, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 21, ch.
+                                                                                    31, art. 43; 2002, ch. 7, art. 132(A), ch. 8, art. 183.
+                 1992, c. 31, s. 16; 1996, c. 31, s. 108; 1998, c. 16, s. 31, c.
+                 30, ss. 13(F), 15(E); 1999, c. 3, s. 21, c. 31, s. 43; 2002, c.
+                 7, s. 132(E), c. 8, s. 183.
+
+
+
+
+                                                                                   14
+                                                        Cabotage — 6 octobre 2010
+
+                                OTHER OFFENCES                                      AUTRES INFRACTIONS
+Obstruction           17. No person shall obstruct or hinder an en-        17. Il est interdit d’entraver l’action de        Entrave
+                   forcement officer in the carrying out of the en-     l’agent de l’autorité agissant dans l’exercice
+                   forcement officer’s duties and functions under       des fonctions que lui confère la présente loi.
+                   this Act.
+False statements     18. No person shall knowingly make a false           18. Il est interdit de faire sciemment, orale-     Fausse
+                                                                                                                             déclaration
+                   or misleading statement, either orally or in         ment ou par écrit, selon le cas, une déclaration
+                   writing, as the case may be,                         fausse ou trompeuse :
+                     (a) in an application for a licence;                   a) soit dans une demande de licence;
+                     (b) to the Agency pursuant to a request un-            b) soit à l’Office à la suite de la demande de
+                     der section 9; or                                      renseignements qu’il a faite en vertu de l’ar-
+                                                                            ticle 9;
+                     (c) to an enforcement officer while the en-
+                     forcement officer is engaged in carrying out           c) soit à un agent de l’autorité agissant dans
+                     that enforcement officer’s duties and func-            l’exercice des fonctions que lui confère la
+                     tions under this Act.                                  présente loi.
+Summary               19. Every person who contravenes section             19. Toute personne qui contrevient aux ar-        Procédure
+conviction                                                                                                                   sommaire et
+offence and
+                   17 or 18 is guilty of an offence punishable on       ticles 17 ou 18 est coupable d’une infraction        peines
+punishment         summary conviction and is liable to a fine of        punissable par procédure sommaire et passible
+                   not more than fifteen thousand dollars or to im-     d’une amende maximale de quinze mille dol-
+                   prisonment for a term not exceeding twelve           lars et d’un emprisonnement maximal de douze
+                   months or to both.                                   mois ou de l’une de ces peines.
+
+                                     GENERAL                                     DISPOSITIONS GÉNÉRALES
+Minister of           20. Except where otherwise provided for in          20. Sous réserve des dispositions expresses        Ministre des
+Transport                                                                                                                    Transports
+responsible
+                   this Act, the Minister of Transport is responsi-     contraires de la présente loi, le ministre des
+                   ble for the administration of this Act.              Transports est responsable de l’application de
+                                                                        celle-ci.
+Copies or             21. (1) Subject to subsection (2), a copy or         21. (1) Sous réserve du paragraphe (2), les       Admissibilité en
+extracts                                                                                                                     preuve des
+                   extract of any document or paper made or taken       copies ou extraits que l’agent de l’autorité éta-    copies et extraits
+                   pursuant to subsection 15(3) by an enforcement       blit sous le régime du paragraphe 15(3) et cen-
+                   officer and purporting to be certified under the     sés certifiés conformes sous sa signature sont
+                   enforcement officer’s signature as a true copy       admissibles en preuve dans les poursuites enga-
+                   or extract is admissible in evidence in any pros-    gées pour infraction à la présente loi sans qu’il
+                   ecution for an offence under this Act without        soit nécessaire de prouver l’authenticité de la
+                   proof of the signature or official character of      signature qui y est apposée ou la qualité offi-
+                   the person appearing to have signed the copy or      cielle du signataire; sauf preuve contraire, les
+                   extract and, in the absence of any evidence to       copies ou extraits ont la même valeur probante
+                   the contrary, has the same probative force as        qu’un original déposé en preuve de la façon
+                   the original document or paper would have if it      normale.
+                   had been proved in the ordinary way.
+Notice                (2) No copy or extract referred to in subsec-        (2) Les copies ou extraits ne sont recevables     Préavis
+                   tion (1) shall be received in evidence in any        en preuve que si la partie qui entend les pro-
+                   proceedings unless the party intending to pro-       duire donne de son intention à la partie qu’elle
+                   duce it has given to the party against whom it is    vise un préavis d’au moins sept jours accompa-
+                   intended to be produced notice of that intention     gné d’un double des copies ou extraits.
+                   at least seven days prior to the proceedings to-
+                   gether with a duplicate of the copy or extract.
+
+
+
+
+                                                                       15
+                                                         Coasting Trade — October 6, 2010
+
+                      CONSEQUENTIAL AMENDMENTS                                   MODIFICATIONS CORRÉLATIVES
+                  22. to 28. [Amendments]                                    22. à 28. [Modifications]
+
+                                 TRANSITIONAL                                     DISPOSITIONS TRANSITOIRES
+                  29. [Repealed, 2001, c. 26, s. 291]                        29. [Abrogé, 2001, ch. 26, art. 291]
+                  30. [Repealed, 2001, c. 26, s. 291]                        30. [Abrogé, 2001, ch. 26, art. 291]
+
+                             COMING INTO FORCE                                          ENTRÉE EN VIGUEUR
+Coming into      31. (1) Subject to this section, this Act
+                  *
+                                                                            31. (1) La présente loi entre en vigueur à la
+                                                                             *
+                                                                                                                                   Entrée en
+force                                                                                                                              vigueur
+              shall come into force on a day to be fixed by              date fixée par décret du gouverneur en conseil.
+              order of the Governor in Council.
+                  (2) [Repealed, 2001, c. 26, s. 292]                        (2) [Abrogé, 2001, ch. 26, art. 292]
+              *
+                [Note: Act in force December 1, 1992, see SI/92-175.]    *
+                                                                           [Note : Loi en vigueur le 1er décembre 1992, voir TR/
+                                                                         92-175.]
+              1992, c. 31, s. 31; 2001, c. 26, s. 292.
+                                                                         1992, ch. 31, art. 31; 2001, ch. 26, art. 292.
+
+
+
+
+                                                                        16
+                                                        Cabotage — 6 octobre 2010
+
+                             RELATED PROVISIONS                                    DISPOSITIONS CONNEXES
+
+                 — 1998, c. 30, s. 10                                    — 1998, ch. 30, art. 10
+Transitional —      10. Every proceeding commenced before the              10. Les procédures intentées avant l'entrée en vi-   Procédures
+proceedings      coming into force of this section and in respect of     gueur du présent article et auxquelles s'appliquent
+                 which any provision amended by sections 12 to 16        des dispositions visées par les articles 12 à 16 se
+                 applies shall be taken up and continued under and in    poursuivent sans autres formalités en conformité
+                 conformity with that amended provision without any      avec ces dispositions dans leur forme modifiée.
+                 further formality.
+
+
+
+
+                                                                        17
+

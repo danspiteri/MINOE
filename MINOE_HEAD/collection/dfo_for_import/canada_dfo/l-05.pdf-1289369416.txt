@@ -1,0 +1,662 @@
+                         PLEASE NOTE
+This document, prepared by the Legislative Counsel Office, is an office
+consolidation of this Act, current to November 1, 2003. It is intended for
+information and reference purposes only.
+
+This document is not the official version of the Act. The Act and the
+amendments as printed under the authority of the Queen’s Printer for the
+province should be consulted to determine the authoritative statement of the
+law.
+
+For more information concerning the history of this Act, please see the
+Table of Public Acts.
+
+If you find any errors or omissions in this consolidation, please contact:
+
+                          Legislative Counsel Office
+                             Tel: (902) 368-4291
+                         Email: legislation@gov.pe.ca
+                          CHAPTER L-5
+
+     PRINCE EDWARD ISLAND LANDS PROTECTION ACT
+
+
+                         INTERPRETATION
+1. (1) In this Act                                                           Definitions
+
+    (a) repealed by 1995,c.22,s.1;                                           agriculture
+
+    (b) “aggregate land holding”                                             aggregate land
+       (i) in relation to a person, includes                                 holding
+
+           (A) all land holdings of that person, and of the person’s minor
+           children,
+           (B) the relevant amount of land holdings of any corporation in
+           which the person, or any of them, hold more than 5 per cent of
+           the shares, and
+           (C) the relevant amount of land holdings of any other
+           corporation in which more than 5 per cent of the shares are
+           held by a corporation in which the shareholder or the
+           shareholder’s minor children own more than 5 per cent of the
+           shares,
+       (ii) in relation to a corporation, includes
+           (A) all land holdings of that corporation,
+           (B) all land holdings of any person, and of the person’s minor
+           children, who holds more than 5 per cent of the shares in that
+           corporation,
+           (C) all land holdings of any other corporation that holds more
+           than 5 per cent of the shares in that corporation, and
+           (D) the relevant amount of land holdings of any other
+           corporation in which more than 5 per cent of the shares are
+           held by
+              (I) that corporation,
+              (II) a person referred to in paragraph (B), or
+              (III) a corporation referred to in paragraph (C).
+    (c) “Commission” means the Island Regulatory and Appeals                 Commission
+    Commission established under section 2 of the Island Regulatory
+    and Appeals Commission Act, R.S.P.E.I. 1988, Cap. I-11;
+    (d) “corporation” includes a partnership, cooperative association or     corporation
+    body corporate whether formed or incorporated under the law of this
+    province or any other province or of Canada or outside of Canada,
+    and for the purposes of this Act a corporation and other corporations
+
+
+
+
+                                     1
+2                    Cap. L-5            Prince Edward Island Lands Protection Act
+
+
+
+                          directly or indirectly controlled by the same person, group or
+                          organization shall be deemed to be one corporation;
+farm corporation
+                          (e) repealed by 1990,c.28,s.1;
+hold                      (e.1) “hold”, in relation to shares, includes shares held by any
+                          trustee, legal representative, agent or other intermediary, as well as a
+                          person or corporation that has beneficial ownership of such shares;
+land                      (f) “land” means real property in the province but does not include
+                          any parcel of land, existing on May 1, 1995, of less than one acre
+                          that is situated within a city or town;
+land holding              (g) “land holding” means, subject to subsection (3), an interest
+                          conferring the right to use, possession or occupation of land, but
+                          does not include land or an interest in land acquired by a bank, trust
+                          company or other financial institution in the ordinary course of its
+                          business by way of security for a debt or other obligation;
+Minister                  (h) “Minister” means that member of the Executive Council charged
+                          by order of the Lieutenant Governor in Council with the
+                          administration of this Act;
+municipality              (i) repealed by 1995,c.22,s.1;
+person                    (j) “person” means a natural person;
+resident person           (k) “resident person” means a person who resides in the province for
+                          one hundred and eighty-three days or more a year;
+share                     (l) “share” means
+                              (i) in relationship to a partnership or co-operative association, a
+                              unit representing a proportion of the ownership of the partnership
+                              or association;
+                              (ii) in relation to a corporation, an issued share carrying voting
+                              rights under all circumstances or by reason of the occurrence of
+                              an event that has occurred and that is continuing, and includes
+                                  (A) a security currently convertible into such a share, and
+                                  (B) currently exercisable options and rights to acquire such a
+                                  share or such a convertible security.
+Deemed interest in     (1.1) Any person or corporation that holds shares in a corporation is
+land                 deemed to have an interest in land to the extent of the relevant amount of
+                     land holdings as prescribed by subsection (2).
+Relevant amount,       (2) For the purposes of clause (1)(b), the relevant amount is
+calculation of       determined by multiplying the total land holding of the corporation by
+                     the proportion that the number of shares in that corporation held by the
+                     shareholder and, if the shareholder is a person by his minor children
+
+
+
+                                                            2
+                   Prince Edward Island Lands Protection Act       Cap. L-5                        3
+
+
+
+bears to the total number of shares in the corporation but where the total
+land holding of a corporation exceeds the limit imposed by clause 2(b),
+the amount of the excess shall, subject to section 6.2, be excluded in the
+calculation of the relevant amount in respect of a person or corporation
+that owns shares in that corporation.
+  (3) For the purpose of calculating the aggregate land holding of any        Calculation of
+person or corporation                                                         aggregate land
+                                                                              holding
+    (a) at any time before January 1, 1996, land under lease to another
+    person or corporation shall be deemed to be in the possession of that
+    other person or corporation;
+    (b) on or after January 1, 1996, land under lease to another person or
+    corporation shall be deemed to be in the possession of both the
+    lessor and lessee.
+  (4) For the purpose of calculating the aggregate land holding of any        Land held on trust
+person or corporation land held on trust shall be deemed to be in the
+possession of both the trustee and the beneficiary.
+  (5) For the purpose of calculating the aggregate land holding of any        Attribution, tenants
+person or corporation                                                         in common and
+                                                                              joint tenants
+    (a) where land is held by tenants in common, the land holding
+    attributed to each tenant in common shall be equal to the proportion
+    of each tenant’s interest in the land;
+    (b) where land is held by joint tenants, the land holding attributed to
+    each joint tenant shall be deemed to be equal to the proportion of
+    each tenant’s interest in the land as if the land were held by tenancy
+    in common;
+    (c) where shore frontage is held by tenants in common, the shore
+    frontage attributed to each tenant in common shall be equal to the
+    proportion of each tenant’s interest in the land;
+    (d) where shore frontage is held by joint tenants, the shore frontage
+    attributed to each joint tenant shall be deemed to be equal to the
+    proportion of each tenant’s interest in the land as if the land were
+    held by tenancy in common. 1982,c.16,s.1; 1990,c.28,s.1;
+    1995,c.22,s.1; 1996,c.22,s.1; 1998,c.79,s.1; 2002,c.32,s.1.
+
+                                 PURPOSE
+1.1 The purpose of this Act is to provide for the regulation of property      Purpose
+rights in Prince Edward Island, especially the amount of land that may be
+held by a person or corporation. This Act has been enacted in the
+recognition that Prince Edward Island faces singular challenges with
+regard to property rights as a result of several circumstances, including
+
+
+
+
+                                      3
+4                     Cap. L-5           Prince Edward Island Lands Protection Act
+
+
+
+                           (a) historical difficulties with absentee land owners, and the
+                           consequent problems faced by the inhabitants of Prince Edward
+                           Island in governing their own affairs, both public and private;
+                           (b) the province’s small land area and comparatively high population
+                           density, unique among the provinces of Canada; and
+                           (c) the fragile nature of the province’s ecology, environment, and
+                           lands and the resultant need for the exercise of prudent, balanced,
+                           and steadfast stewardship to ensure the protection of the province’s
+                           ecology, environment, and lands. 1998,c.79,s.20.
+
+                                        CONTROL OF LAND HOLDINGS
+Maximum land          2. Subject to section 6.1,
+holdings                  (a) no person shall have an aggregate land holding in excess of 1000
+                          acres;
+                          (b) no corporation shall have an aggregate land holding in excess of
+                          3000 acres. 1982,c.16,s.2; 1995,c.22,s.2,16.
+Computation of        3. For the avoidance of doubt it is declared that a land holding acquired
+aggregate             before May 7, 1982 shall be taken into account in determining the
+                      aggregate land holding of any person or corporation for the purposes of
+                      this Act. 1982,c.16,s.3; 1998,c.79,s.3.
+Non-resident person   4. A person who is not a resident person shall not have an aggregate land
+                      holding in excess of five acres or having a shore frontage in excess of
+                      one hundred and sixty-five feet unless he first receives permission to do
+                      so from the Lieutenant Governor in Council. 1982,c.16,s.4;
+                      1988,c.37,s.1; 1995,c.22,s.2,16.
+Corporations          5. (1) A corporation shall not have an aggregate land holding in excess of
+                      five acres or having a shore frontage in excess of one hundred and sixty-
+                      five feet unless it first receives permission to do so from the Lieutenant
+                      Governor in Council.
+Idem                    (2) Repealed by 1990,c.28,s.2.
+Transitional          5.1 Where an aggregate land holding not exceeding ten acres in area or
+provisions            having a shore frontage of less than three hundred and thirty feet has
+                      been lawfully acquired by a non-resident person or corporation in
+                      accordance with the law in force at the time of acquisition, it shall be
+                      deemed to be held in compliance with this Act as if a permit therefor had
+                      been granted under section 4 or 5, as the case may be. 1995,c.22,s.3.
+Transitional          5.2 Where an aggregate land holding in excess of five acres or having a
+provisions            shore frontage in excess of one hundred and sixty-five feet has been
+                      acquired by a resident person who subsequently ceases to be a resident
+
+
+
+                                                            4
+                   Prince Edward Island Lands Protection Act      Cap. L-5                      5
+
+
+
+person, he or she may continue to have and hold that hand holding
+without obtaining a permit under section 4. 1995,c.22,s.3.
+                                                                             Application to lease
+5.3 (1) Where a person or corporation intends to acquire by lease a land     land
+holding for which permission is required pursuant to section 4 or section
+5, the person or corporation shall
+     (a) apply pursuant to section 4 or 5 for permission to acquire by
+     lease that specific land holding; or
+     (b) apply for permission pursuant to this section to acquire by lease
+     and to continue to hold a certain number of acres of land as part of
+     the applicant’s aggregate land holding.
+   (2) Where permission has been granted by the Lieutenant Governor in       Annual statement
+Council for a lease of land pursuant to an application made under clause
+(1)(b), the person or corporation shall
+     (a) within one year of receiving permission; and
+     (b) in every subsequent year, prior to December 31,
+file a statement disclosing information prescribed by subsection (3).
+  (3) The statement required by subsection (2) shall disclose                Information
+     (a) the parcel number;                                                  required in
+                                                                             statement
+     (b) the acreage leased; and
+     (c) the term of the lease or leases;
+for each parcel leased during the reporting period covered by the
+statement.
+  (4) Where a person or corporation permitted to hold land pursuant to       Increase in land
+this section intends to increase the amount of land held beyond the          holding
+
+amount previously permitted by the Lieutenant Governor in Council, a
+new application shall be made by the person or corporation.
+  (5) Where a person or corporation permitted to hold land pursuant to       Variance of land
+this section intends to vary the amount of land held, but not to increase    holding
+
+the amount of land held beyond the amount previously permitted by the
+Lieutenant Governor in Council, no new application need be made
+pursuant to this section. 1998,c.79,s.4.
+6. For the avoidance of doubt it is declared that where a person or          Subsequent
+corporation has an aggregate land holding for which permission is            acquisitions
+
+required under section 4 or 5, any subsequent acquisition of a land
+holding by that person or corporation similarly requires such permission
+except where the aggregate land holding, including the land holding
+proposed to be acquired, is less than the maximum prescribed by that
+section. 1982,c.16,s.6; 1995,c.22,s.16.
+6.1 (1) Where a person or corporation has on December 31, 1994, an           Transitional
+aggregate land holding that exceeds the limit set out in section 2           provisions
+
+
+
+
+                                      5
+6                  Cap. L-5            Prince Edward Island Lands Protection Act
+
+
+
+                        (a) as a result of the change in the method of calculation effected by
+                        clause 1(3)(b);
+                        (b) by virtue of a special permit held by the person or corporation; or
+                        (c) for any other reason;
+                   the person or corporation shall, before June 1, 1996,
+                        (d) submit a land holding disclosure statement to the Commission in
+                        the form prescribed in the regulations; and
+                        (e) apply for a permit under this section.
+Late filing          (1.1) Notwithstanding subsection (1), the Commission shall consider
+                   any application filed pursuant to subsection (1) that is filed
+                       (a) after June 1, 1996; and
+                       (b) within thirty days of the coming into force of this section.
+Existing land        (2) Upon application for a permit under subsection (1), the Lieutenant
+holding, permit    Governor in Council may issue a permit authorizing the holder to have
+                   and continue to have an aggregate land holding in excess of the limit set
+                   out in section 2, subject to
+                        (a) the divestiture schedule;
+                        (b) clause (4)(a); and
+                        (c) any other conditions the Lieutenant Governor in Council may
+                        place on the permit.
+Effect of permit     (3) A permit issued under subsection (2) shall include a divestiture
+                   schedule that requires the divestiture of that portion of the aggregate land
+                   holding of the holder in excess of the limit set out in section 2, as
+                   follows:
+                        (a) at least fifty per cent of the excess land holding shall be divested
+                        within five years from the date the permit was issued;
+                        (b) at least eighty per cent of the excess land holding shall be
+                        divested within seven years from the date the permit was issued; and
+                        (c) the holder shall comply with the limit set out in section 2 within
+                        nine years from the date the permit was issued.
+Conditions           (4) A permit issued under subsection (2)
+                       (a) shall be issued subject to the condition that the holder of the
+                       permit shall ensure that the amount of land in excess of the limit set
+                       out in section 2 shall at all times prior to divestiture be leased to
+                       another person or corporation;
+                       (b) may be issued subject to any other conditions that the Lieutenant
+                       Governor in Council may determine; and
+                       (c) shall not authorize an aggregate land holding in excess of the
+                       aggregate land holding of the applicant on December 31, 1994,
+                       taking into account the calculation under clause 1(3)(b).
+Permit transfer      (5) A permit issued under subsection (2) is
+
+
+                                                          6
+                    Prince Edward Island Lands Protection Act         Cap. L-5                      7
+
+
+
+    (a) in the case of a person, not transferable except to a spouse,
+    sibling or direct descendant or ancestor of that person in accordance
+    with any conditions the Lieutenant Governor in Council may
+    prescribe; and
+    (b) in the case of a corporation, not transferable. 1998,c.79,s.5.
+6.2 Where a person or corporation that holds shares in a corporation (the        Transitional
+parent corporation) has an aggregate land holding that would have                provision, re lease-
+                                                                                 out and divestiture
+exceeded the limit set out in section 2 except for the exclusion in the          of land
+determination of the relevant amount pursuant to subsection 1(2) of
+excess land owned by the parent corporation, the person or corporation
+shall ensure that the amount of land that is in excess of the limit set out in
+section 2 shall at all times be leased to another person or corporation and
+divested in the same way as if a permit had been issued under section
+6.1. 1998,c.79,s.6.
+7. Repealed by 1992,c.38,s.1.                                                    Special permits
+
+8. (1) The Commission shall                                                      Review of
+     (a) review all applications under sections 4, 5, and 5.3;                   applications
+
+     (b) obtain information pertinent to the application;
+     (c) recommend to the Lieutenant Governor in Council on the
+     disposition of the application; and
+     (d) recommend to the Lieutenant Governor in Council on a
+     divestiture schedule for each applicant pursuant to section 6.1.
+  (2) Recommendations made by the Commission under subsection (1)                Basis for review
+shall be based on the following considerations:
+     (a) an assessment of the best use of the land based on the guidelines
+     and policies established by the Lieutenant Governor in Council
+     under clause 7(a) of the Planning Act R.S.P.E.I. 1988, Cap. P-8;
+     (b) the most effective manner of ensuring the best land use;
+     (c) such other matters in relation to the economic and cultural needs
+     of the people of the province as may be specified in policies adopted
+     under section 8.1.
+  (3) The Lieutenant Governor in Council, in determining whether or not          Consideration of
+to grant a permit under section 4 or 5, shall consider the                       Commission’s
+                                                                                 recommendation
+recommendations of the Commission. 1982,c.16,s.9; 1991,c.18,s.22;
+1992,c.38,s.3; 1995,c.22,s.5; 1996,c.22,s.4; 1998,c.79,s.7.
+8.1 The Lieutenant Governor in Council may adopt policies regarding              Policies
+the ownership, possession, occupation or use of land and such policies
+shall be published in the Gazette. 1995,c.22,s.6.
+
+
+
+
+                                       7
+8                     Cap. L-5           Prince Edward Island Lands Protection Act
+
+
+
+                      9. (1) The Lieutenant Governor in Council may impose such conditions
+Conditions of
+permit under
+                      on a permit issued under section 4 or 5 as he may consider expedient
+section 4 or 5        including a condition
+                           (a) that the land not be subdivided except for
+                              (i) use for the purposes of agricultural, forestry or fisheries
+                              production,
+                              (ii) conservation use pursuant to a designation as a natural area
+                              under the Natural Areas Protection Act R.S.P.E.I. 1988, Cap. N-
+                              2, an archaeological site under the Archaeological Sites
+                              Protection Act R.S.P.E.I. 1988, Cap. A-17 or a heritage place
+                              under the Heritage Places Protection Act R.S.P.E.I. 1998, Cap.
+                              H-3.1,
+                              (iii) parks use by the Federal, provincial or a municipal
+                              government,
+                              (iv) residential use by the owner;
+                           (b) that the land be identified under the land identification program;
+                           (c) that the land be consolidated with an adjoining parcel or parcels
+                           of land;
+                           (d) that the applicant become a resident within such period of time
+                           as may be specified in the permit.
+Variation, etc.         (2) Subject to subsection (3), the Lieutenant Governor in Council may
+                      cancel, suspend, or amend any condition imposed under subsection (1)
+                      upon receipt of an application by a permit holder.
+Notice required for     (3) Every application made by a permit holder pursuant to subsection
+variation             (2) shall be supported by a notice that shall
+application
+                           (a) be in the form prescribed by regulation;
+                           (b) have been published in a newspaper circulating in the area where
+                           the land is located, with the publication to have occurred at least
+                           seven days prior to receipt of the application by the Commission;
+                           and
+                           (c) state to the Commission the intent to make the application and
+                           the details of the variation applied for. 1998,c.79,s.8.
+
+                                        ADMINISTRATIVE PROVISIONS
+Disclosure            10. (1) The Minister or the Commission may request any person or
+statement, on         corporation believed to have an aggregate land holding
+request
+                           (a) in the case of a person, of more than 750 acres; or
+                           (b) in the case of a corporation, of more than 2,250 acres,
+                      to make a land holding disclosure statement in the form prescribed in the
+                      regulations.
+Annual disclosure       (2) Without prejudice to subsection (1), any person or corporation
+statement             having an aggregate land holding in excess of the limit specified in
+
+
+                                                            8
+                    Prince Edward Island Lands Protection Act        Cap. L-5                        9
+
+
+
+subsection (1) shall, not later than December 31 of each year, file a
+disclosure statement with the Commission.
+  (3) Repealed by 1998,c,79,s.9.                                                Penalty
+                                                                                Contents of
+11. (1) A disclosure statement shall include particulars of the following:      disclosure statement
+     (a) the acreage of each parcel comprised in the aggregate land
+     holding;
+     (b) the parcel number as set out on the most recent assessment notice
+     under the Real Property Assessment Act R.S.P.E.I. 1988, Cap. R-4;
+     (c) the nature of the interest held and where that interest is a
+     leasehold interest, the term of lease, and where the interest is held on
+     trust, the name and address of the beneficial owner,
+and in the case of a corporation,
+     (d) the classes of shares, and the number of shares in each class;
+     (e) the name and address of each shareholder holding more than 5
+     per cent of the shares and the proportion to the total number of
+     voting shares held by each such shareholder;
+     (f) any transfer of 10 per cent or more of the shares which has been
+     made since the last disclosure statement.
+  (2) Where a disclosure statement has been made under section 10 by a          Changes in
+person or corporation in any year, the disclosure statement delivered in        particulars
+
+any subsequent year shall disclose only any changes to the particulars
+provided in the original statement.
+  (3) Repealed by 1998,c.79,s.10.                                               Exception
+
+11.1 Where the Minister, upon request of a person or corporation, is            Sufficient
+satisfied that it is not in the public interest for the shareholdings of        compliance
+
+individual shareholders to be disclosed, the Minister may accept as
+sufficient compliance with the requirement for a land holding disclosure
+statement under section 6.1 or sections 10 and 11, or for the purposes of
+an application for permission under sections 4 or 5, a statement that
+indicates
+     (a) the aggregate land holding of the corporation certified by an
+     officer of the corporation; and
+     (b) the names and addresses of each shareholder holding more than
+     5 per cent of the shares of the corporation. 1998,c.79,s.11.
+12. (1) Where he has reasonable and probable grounds to believe that            Orders by Minister
+any person or corporation has contravened section 2, 4, 5, 5.3, 6.1, or 6.2
+of this Act, the Minister may issue an order requiring that person or
+corporation
+     (a) to reduce his aggregate land holding to the maximum permitted
+     by section 2;
+
+
+                                       9
+10                   Cap. L-5            Prince Edward Island Lands Protection Act
+
+
+
+                          (b) to make application for and obtain any permit required by section
+                          4 or section 5; or
+                          (c) repealed by 1998,c.79,s.12.
+Enforcement
+                       (2) Where any person or corporation fails to comply with an order of
+                     the Minister under subsection (1) within three months of the date on
+                     which the order is served, the Minister may apply to a judge of the
+                     Supreme Court, who shall enforce compliance with this Act and may
+                     make one or more of the following orders:
+                         (a) an order declaring null and void any instrument or document by
+                         which a land holding is or may be had in contravention of this Act;
+                         (b) an order for the sale of the land holding held in contravention of
+                         this Act and the distribution of the proceeds from the sale to such
+                         persons as may be entitled thereto;
+                         (c) an order directing the registrar to cancel the registration of a deed
+                         of conveyance or other document registered under the Registry Act
+                         R.S.P.E.I. 1988, Cap. R-10;
+                         (d) an order to return any consideration given under an instrument or
+                         a document made in contravention of this Act;
+                         (e) an order for possession of the land holding to be given to such
+                         persons as may be entitled thereto;
+                         (e.1) an order declaring null and void a permit issued pursuant to
+                         subsection 6.1(2);
+                         (f) an order respecting costs;
+                         (g) such other order as may be necessary to give effect to the
+                         provisions of this Act or as to him seems just. 1982,c.16,s.13;
+                         1995,c.22,s.16; 1998,c.79,s.12.
+Offences             13. (1) Subject to the provisions of this Act, a person or corporation that
+                          (a) has contravened section 2, 4, 5, or 5.3;
+                          (b) fails to make a land holding disclosure statement when required
+                          to do so under subsection 10(1) or (2); or
+                          (c) fails to comply with the divestiture schedule or other conditions
+                          of a permit issued under section 6.1
+                     is guilty of an offence and is liable on summary conviction to a fine not
+                     exceeding $250,000 or to imprisonment for a term not exceeding two
+                     years, or both.
+Order of Supreme       (2) Where a person or corporation has been convicted of an offence
+Court                under subsection (1), a judge of the Supreme Court may, on the
+                     application of the Minister, order the person or corporation to divest such
+                     amount of land as may be specified in the order for the purpose of
+                     ensuring compliance with this Act. 1995,c.22,s.10; 1998,c.79,s.13.
+Liability of         14. Where a corporation has committed an offence against this Act,
+corporate officers   every officer, director or agent of the corporation who directed,
+
+
+                                                            10
+                   Prince Edward Island Lands Protection Act        Cap. L-5                    11
+
+
+
+authorized, assented to or acquiesced or participated in the commission
+of the offence is guilty of an offence and liable on summary conviction
+to a fine of not more than $250,000 or to imprisonment for a term of not
+more than two years, or to both such fine and imprisonment, whether or
+not the corporation has been prosecuted or convicted. 1982,c.16,s.15;
+1995,c.22,s.11.
+15. (1) The Minister, the Commission or any person authorized by the           Minister may
+Minister may request information and conduct an investigation for the          conduct
+                                                                               investigations
+purpose of determining whether a person or corporation has contravened
+this Act or the regulations.
+   (2) The person conducting the investigation under subsection (1) may        Production of
+at all reasonable times demand the production of and inspect all or any of     documents
+
+the books, documents, papers or records of the person or corporation in
+respect of which the investigation or inquiry is being made or any record
+of the Commission relating to that person or corporation.
+  (3) A person or corporation failing to comply with a demand under            Offence
+subsection (2) is guilty of an offence and liable on summary conviction
+to a fine of not more than $250,000 or to imprisonment for a term not
+exceeding two years, or to both such fine and imprisonment.
+  (4) Where a person or corporation fails to comply with a request under       Order of Supreme
+subsection (1), a judge of the Supreme Court may, on the application of        Court
+
+the Minister, make an order
+    (a) requiring the production of all books, documents, papers or
+    records of the person or corporation;
+    (b) otherwise appearing to the court to be necessary. 1982,c.16,s.16;
+    1995,c.22,s.10; 1996,c.22,s.6; 1998,c.79,s.14.
+15.1 (1) Notwithstanding any other provision of the Act, a person or           Penalty
+corporation that
+    (a) has contravened section 2, 4, 5, 5.3, 6.1 or 6.2;
+    (b) fails to comply with a divestiture schedule or any other condition
+    of a permit issued pursuant to section 6.1;
+    (c) fails to make a land holding disclosure statement when requested
+    to do so under subsection 10(1);
+    (d) fails to file a disclosure statement pursuant to subsection 10(2);
+    (e) fails to comply with a demand under subsection 15(2);
+    (f) fails, neglects, omits or refuses to do any act or thing required of
+    that person or corporation by this Act, the regulations, any order of
+    the Commission or any order of the Minister; or
+    (g) violates this Act, the regulations, any order of the Commission or
+    any order of the Minister
+
+
+
+                                      11
+12                 Cap. L-5            Prince Edward Island Lands Protection Act
+
+
+
+                   is liable to a penalty imposed by the Commission of not more than
+                   $10,000.
+Separate daily
+liability            (2) Each day during which a prohibited activity subject to a penalty
+                   pursuant to subsection (1) is continued gives rise to a separate liability to
+                   a penalty imposed by the Commission not exceeding $500 for each day.
+Application to       (3) If any person or corporation fails to pay any penalty imposed by
+Supreme Court      the Commission within the time fixed by the Commission for the
+                   payment of the penalty, the Commission may make application, without
+                   notice to the person or corporation, to a judge of the Supreme Court for
+                   an order that judgment for the amount of the penalty or any unpaid
+                   portion of the penalty may be entered in the court against the person or
+                   corporation.
+Order                (4) The judge shall grant the order referred to in subsection (3) on
+                   proof by affidavit of the order imposing the penalty and the amount of
+                   the penalty remaining unpaid.
+Execution             (5) On any judgment entered under this section, execution may be
+                   issued as on any other final judgment of the Supreme Court.
+                   1998,c.79,s.15.
+Proof              16. In any proceeding under this Act, the onus of proving that a person is
+                   a resident person is upon that person. 1998,c.79,s.16.
+Regulations        17. (1) The Lieutenant Governor in Council may make regulations for
+                   giving effect to the intent of this Act and without prejudice to the
+                   generality thereof regulations may be made
+                        (a) defining any word or expression used in this Act and not defined
+                        herein;
+                        (b) exempting persons or corporations or classes of corporations or
+                        land holdings or classes of land holdings from this Act or any
+                        provision thereof and attaching conditions to any such exemptions;
+                        (c) prescribing forms to be used and the information to be required
+                        in disclosure statements;
+                        (d) establishing a land identification program;
+                        (e) prescribing conditions respecting the transferability of a permit
+                        pursuant to subsection 6.1(5);
+                        (f) authorizing the use of any kind of form required for the better
+                        administration of this Act or the regulations.
+Exemptions to be     (2) Where any exemption is granted by regulations under clause (1)(b)
+laid before        the Minister shall table in the Legislative Assembly a statement
+Legislative
+Assembly           indicating the reasons therefor. 1982,c.16,s.18; 1986,c.15,s.1;
+                   1991,c.18,s.22; 1995,c.22,s.14; 1998,c.79,s.17.
+
+
+
+                                                          12
+                   Prince Edward Island Lands Protection Act     Cap. L-5                       13
+
+
+
+17.1. The Commission may make regulations
+                                                                            Registration of
+    (a) prescribing the procedure in respect of applications for permits;   leases
+    (b) prescribing a processing fee in respect of an application for a
+    permit. 1991,c.18,s.22; 1992,c.38,s.6.
+17.2 The Commission may, with the approval of the Lieutenant                Administration,
+Governor in Council, administer regulations made under clause 17(1)(d).     land identification
+
+1996,c.22,s.7.
+18. Repealed by 1995,c.22,s.15.                                             Lease registration
+
+19. This Act does not bind the Crown or a Crown corporation named in        Crown
+Schedule B or C of the Financial Administration Act R.S.P.E.I. 1988,
+Cap. F-9. 1982,c.16,s.21.
+20. Where a person or corporation is required to divest land holdings       No entitlement to
+pursuant to this Act                                                        compensation or
+                                                                            damages
+    (a) the person or corporation is not entitled to compensation of any
+    kind from the Government of Prince Edward Island;
+    (b) the person or corporation is not entitled to any damages for loss
+    of property or breach of any lease or contract made necessary by
+    divesting land holdings pursuant to the divestiture schedule;
+    (c) the person or corporation is precluded from bringing any action
+    for recovery of damages in any court; and
+    (d) the Expropriation Act R.S.P.E.I. 1988, Cap. E-13 does not apply
+    to the divestiture. 1998,c.79,s.18.
+21. (1) Any land conveyed by the Crown or any of the Crown’s agencies       Presumption
+is presumed to be identified for non-development use under the Land
+Identification Program established under this Act, unless the Lieutenant
+Governor in Council otherwise determines.
+  (2) Notwithstanding subsection (1), land conveyed by the Crown or an      Exemption
+agent of the Crown is not presumed to be land identified for non-
+development use if the regulations provide that the Land Identification
+Program does not apply to that land. 1998,c.79,s.19; 2002,c.15,s.1.
+
+
+
+
+                                      13
+

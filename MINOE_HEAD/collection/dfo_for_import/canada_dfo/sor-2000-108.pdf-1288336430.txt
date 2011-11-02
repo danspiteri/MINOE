@@ -1,0 +1,179 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+   Export Control List    Règlement sur le préavis
+ Notification Regulations d’exportation (substances
+                           d’exportation contrôlée)
+
+                     SOR/2000-108                                                      DORS/2000-108
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published            31. (1) Every copy of a consolidated statute or             31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies       (3) In the event of an inconsistency between a             (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                               Enregistrement
+SOR/2000-108 March 23, 2000                                DORS/2000-108 Le 23 mars 2000
+CANADIAN ENVIRONMENTAL PROTECTION ACT,                     LOI CANADIENNE SUR LA PROTECTION DE
+1999                                                       L’ENVIRONNEMENT (1999)
+
+Export Control List Notification Regulations               Règlement sur le préavis d’exportation (substances
+                                                           d’exportation contrôlée)
+
+P.C. 2000-349 March 23, 2000                               C.P. 2000-349 Le 23 mars 2000
+
+   Whereas, pursuant to subsection 332(1) of the Cana-        Attendu que, conformément au paragraphe 332(1) de
+dian Environmental Protection Act, 1999a, the Minister     la Loi canadienne sur la protection de l’environnement
+of the Environment published in the Canada Gazette,        (1999)a, le ministre de l’Environnement a fait publier
+Part I, on December 11, 1999, a copy of the proposed       dans la Gazette du Canada Partie I, le 11 décembre
+Export Control List Notification Regulations, substan-     1999, le projet de règlement intitulé Règlement sur le
+tially in the annexed form, and persons were given an      préavis d’exportation (substances d’exportation contrô-
+opportunity to file comments with respect to the Regula-   lée), conforme en substance au texte ci-après, et que les
+tions or to file a notice of objection requesting that a   intéressés ont ainsi eu la possibilité de présenter leurs
+board of review be established and stating the reasons     observations à cet égard ou un avis d’opposition motivé
+for the objection;                                         demandant la constitution d’une commission de révision,
+   Therefore, Her Excellency the Governor General in          À ces causes, sur recommandation du ministre de
+Council, on the recommendation of the Minister of the      l’Environnement et du ministre de la Santé et en vertu du
+Environment and the Minister of Health, pursuant to        paragraphe 102(1) de la Loi canadienne sur la protection
+subsection 102(1) of the Canadian Environmental Pro-       de l’environnement (1999)a, Son Excellence la Gouver-
+tection Act, 1999a, hereby makes the annexed Export        neure générale en conseil prend le Règlement sur le pré-
+Control List Notification Regulations.                     avis d’exportation (substances d’exportation contrôlée),
+                                                           ci-après.
+
+
+
+
+a                                                           a 
+     S.C. 1999, c. 33                                            L.C. 1999, ch. 33
+EXPORT  CONTROL                LIST      NOTIFICATION              RÈGLEMENT SUR LE PRÉAVIS D’EXPORTATION
+   REGULATIONS                                                        (SUBSTANCES           D’EXPORTATION
+                                                                      CONTRÔLÉE)
+
+                  INTERPRETATION                                                       DÉFINITIONS
+   1. The definitions in this section apply in these Regu-           1. Les définitions qui suivent s’appliquent au présent
+lations.                                                           règlement.
+“Act” means the Canadian Environmental Protection                  « document d’expédition » Document relatif à l’exporta-
+Act, 1999. (Loi)                                                   tion d’une substance comportant la désignation de la
+“CAS registry number” means the identification number              substance ou des renseignements sur celle-ci, ainsi que
+assigned to a chemical substance by the Chemical Ab-               des renseignements sur sa manutention, son transport et
+stracts Service Division of the American Chemical Soci-            l’offre de transport. (shipping document)
+ety. (numéro d’enregistrement CAS)                                 « Liste des substances d’exportation contrôlée » La Liste
+“Export Control List” means the Export Control List in             des substances d’exportation contrôlée figurant à l’an-
+Schedule 3 to the Act. (Liste des substances d’exporta-            nexe 3 de la Loi. (Export Control List)
+tion contrôlée)                                                    « Loi » La Loi canadienne sur la protection de l’environ-
+“shipping document” means a document that relates to               nement (1999). (Act)
+the export of a substance and contains information on its          « numéro d’enregistrement CAS » Le numéro d’identifi-
+handling, offer for transport or transport and that de-            cation qui est attribué à une substance chimique par la
+scribes the substance or contains information relating to          Chemical Abstracts Service Division de l'American Che-
+it. (document d’expédition)                                        mical Society. (CAS registry number)
+
+                 NOTICE OF EXPORT                                              PRÉAVIS D’EXPORTATION
+   2. (1) The notice to be provided under subsection                 2. (1) Le préavis d’exportation visé au paragraphe
+101(1) of the Act shall, for proposed exports of a sub-            101(1) de la Loi est donné au moins une fois à l’égard
+stance in a given year, be provided at least once in re-           des exportations projetées d’une substance au cours
+spect of all the proposed exports in that year and shall           d’une année donnée et comporte, pour chaque envoi, les
+contain, for each export, the following information:               renseignements suivants :
+  (a) the name, address and phone number of the ex-                  a) les nom, adresse et numéro de téléphone de l’ex-
+  porter;                                                            portateur;
+  (b) the name of the substance set out in the Export                b) le nom de la substance tel qu’il est inscrit sur la
+  Control List;                                                      Liste des substances d’exportation contrôlée;
+  (c) the country of destination; and                                c) le pays de destination;
+  (d) the expected date of export and quantity of the                d) la date projetée de l’envoi et la quantité de sub-
+  substance.                                                         stance prévue.
+   (2) The notice under subsection (1) shall be sent by               (2) Le préavis est envoyé par télécopieur ou par cour-
+facsimile communication or registered mail at least sev-           rier recommandé au moins sept jours avant la date du
+en days before the date of the first export indicated in the       premier envoi indiqué dans le préavis.
+notice.
+
+
+
+
+                                                               1
+                                           SOR/2000-108 — October 6, 2010
+
+
+
+   (3) The exporter shall notify the Minister in writing              (3) L’exportateur avise le ministre par écrit des cor-
+of any corrections to be made to the information provid-           rections à apporter aux renseignements fournis dans le
+ed in the notice within 30 days after learning of them.            préavis au plus tard trente jours après en avoir pris
+                                                                   connaissance.
+
+                    ANNUAL REPORT                                                      RAPPORT ANNUEL
+   3. (1) Every person who exports a substance speci-                 3. (1) L’exportateur doit, au plus tard le 31 janvier de
+fied in the Export Control List in a particular year shall         l’année suivant celle au cours de laquelle il a exporté une
+provide the Minister, on or before January 31 of the fol-          substance figurant dans la Liste des substances d’expor-
+lowing year, with a report that contains for each export           tation contrôlée, présenter au ministre un rapport com-
+     (a) the name of the substance as it appears in the Ex-        portant, pour chaque envoi, les renseignements suivants :
+     port Control List, the common name and trade name,              a) le nom de la substance tel qu’il est inscrit sur la
+     if known, the CAS registry number of the substance if           Liste des substances d’exportation contrôlée, ses ap-
+     the number is specified in the Export Control List, the         pellations courante et commerciale, si elles sont
+     commodity code from the Harmonized Commodity                    connues, son numéro d’enregistrement CAS s’il figure
+     Description and Coding System, and the name of the              dans la Liste des substances d’exportation contrôlée,
+     preparation, if known;                                          son code selon le Système harmonisé de désignation et
+     (b) the date of export and the actual quantity of the           de codification des marchandises, ainsi que le nom du
+     substance exported;                                             mélange, s’il est connu;
+
+     (c) the country of destination; and                             b) la date de l’envoi ainsi que la quantité de la sub-
+                                                                     stance qu’il comporte;
+     (d) the name and address of the importer.
+                                                                     c) le pays de destination;
+                                                                     d) les nom et adresse de l’importateur.
+  (2) The exporter shall keep, at the exporter’s principal            (2) L’exportateur conserve pendant cinq ans à son
+place of business in Canada, a copy of the report and              principal établissement au Canada une copie du rapport
+copies of all shipping documents relating to the exports           et des documents d’expédition des envois qu’il men-
+mentioned in it for a period of five years.                        tionne.
+
+                          REPEAL                                                        ABROGATION
+   4. The Toxic Substances Export Notification Regu-                  4. Le Règlement sur le préavis d’exportation de sub-
+lations1 are repealed.                                             stances toxiques1 est abrogé.
+
+                  COMING INTO FORCE                                                ENTRÉE EN VIGUEUR
+  5. These Regulations come into force on March 31,                 5. Le présent règlement entre en vigueur le 31
+2000.                                                              mars 2000.
+
+
+
+
+1                                                                   1 
+     SOR/92-634                                                          DORS/92-634
+
+
+
+                                                               2
+

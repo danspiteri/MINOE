@@ -1,0 +1,173 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+          Persistence and                                                    Règlement sur la
+          Bioaccumulation                                                    persistance et la
+            Regulations                                                      bioaccumulation
+
+                     SOR/2000-107                                                      DORS/2000-107
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published            31. (1) Every copy of a consolidated statute or             31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies       (3) In the event of an inconsistency between a             (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                                Enregistrement
+SOR/2000-107 March 23, 2000                                 DORS/2000-107 Le 23 mars 2000
+CANADIAN ENVIRONMENTAL PROTECTION ACT,                      LOI CANADIENNE SUR LA PROTECTION DE
+1999                                                        L’ENVIRONNEMENT (1999)
+
+Persistence and Bioaccumulation Regulations                 Règlement sur la persistance et la bioaccumulation
+
+P.C. 2000-348 March 23, 2000                                C.P. 2000-348 Le 23 mars 2000
+
+   Whereas, pursuant to subsection 332(1) of the Cana-         Attendu que, conformément au paragraphe 332(1) de
+dian Environmental Protection Act, 1999a, the Minister      la Loi canadienne sur la protection de l’environnement
+of the Environment published in the Canada Gazette,         (1999)a, le ministre de l’Environnement a fait publier
+Part I, on December 11, 1999, a copy of the proposed        dans la Gazette du Canada Partie I, le 11 décembre
+Persistence and Bioaccumulation Regulations, substan-       1999, le projet de règlement intitulé Règlement sur la
+tially in the annexed form, and persons were given an       persistance et la bioaccumulation, conforme en sub-
+opportunity to file comments with respect to the Regula-    stance au texte ci-après, et que les intéressés ont ainsi eu
+tions or to file a notice of objection requesting that a    la possibilité de présenter leurs observations à cet égard
+board of review be established and stating the reasons      ou un avis d’opposition motivé demandant la constitu-
+for the objection;                                          tion d’une commission de révision;
+   And whereas, pursuant to subsection 67(2) of that Act,      Attendu que, conformément au paragraphe 67(2) de
+the Minister of the Environment and the Minister of         cette loi, le ministre de l’Environnement et le ministre de
+Health are of the opinion that the natural occurrence,      la Santé sont d’avis que l’origine naturelle des minéraux
+properties and characteristics of minerals and metals in    et des métaux, leurs propriétés et leurs particularités,
+the environment have been taken into consideration;         dans l’environnement, ont été prises en considération,
+   Therefore, Her Excellency the Governor General in           À ces causes, sur recommandation du ministre de
+Council, on the recommendation of the Minister of the       l’Environnement et du ministre de la Santé et en vertu de
+Environment and the Minister of Health, pursuant to sec-    l’article 67 de la Loi canadienne sur la protection de
+tion 67 of the Canadian Environmental Protection Act,       l’environnement (1999)a, Son Excellence la Gouverneure
+1999a, hereby makes the annexed Persistence and Bioac-      générale en conseil prend le Règlement sur la persis-
+cumulation Regulations.                                     tance et la bioaccumulation, ci-après.
+
+
+
+
+a                                                            a 
+     S.C. 1999, c. 33                                             L.C. 1999, ch. 33
+PERSISTENCE  AND                   BIOACCUMULATION                  RÈGLEMENT SUR LA PERSISTANCE ET LA
+   REGULATIONS                                                         BIOACCUMULATION
+
+                   INTERPRETATION                                                         DÉFINITIONS
+   1. The definitions in this section apply in these Regu-            1. Les définitions qui suivent s’appliquent au présent
+lations.                                                            règlement.
+“bioaccumulation factor” means the ratio of the concen-             « coefficient de partage octanol-eau » Pour un mélange
+tration of a substance in an organism to the concentra-             octanol-eau, rapport entre la concentration d’une sub-
+tion in water, based on uptake from the surrounding                 stance dans l’octanol et sa concentration dans l’eau. (oc-
+medium and food. (facteur de bioaccumulation)                       tanol-water partition coefficient)
+“bioconcentration factor” means the ratio of the concen-            « demi-vie » Temps nécessaire à la réduction de moitié,
+tration of a substance in an organism to the concentra-             par transformation, de la concentration d’une substance
+tion in water, based only on uptake from the surrounding            dans un milieu donné. (half-life)
+medium. (facteur de bioconcentration)
+                                                                    « facteur de bioaccumulation » Rapport entre la concen-
+“half-life” means the period it takes the concentration of          tration d’une substance à l’intérieur d’un organisme et sa
+a substance to be reduced by half, by transformation, in a          concentration dans l’eau, compte tenu de l’absorption
+medium. (demi-vie)                                                  par voie alimentaire et de l’absorption provenant du mi-
+“octanol-water partition coefficient” means the ratio of            lieu ambiant. (bioaccumulation factor)
+the concentration of a substance in an octanol phase to             « facteur de bioconcentration » Rapport entre la concen-
+the concentration of the substance in the water phase of            tration d’une substance à l’intérieur d’un organisme et sa
+an octanol-water mixture. (coefficient de partage octa-             concentration dans l’eau, compte tenu seulement de l’ab-
+nol-eau)                                                            sorption provenant du milieu ambiant. (bioconcentration
+                                                                    factor)
+
+                     APPLICATION                                                   CHAMP D’APPLICATION
+   2. These Regulations apply to any substance, other                 2. Le présent règlement s’applique à toute substance
+than a living organism within the meaning of Part 6 of              autre qu’un organisme vivant au sens de la partie 6 de la
+the Canadian Environmental Protection Act, 1999.                    Loi canadienne sur la protection de l’environnement
+                                                                    (1999).
+
+     PERSISTENCE AND BIOACCUMULATION                                 DÉTERMINATION DE LA PERSISTANCE ET DE
+              DETERMINATION                                                  LA BIOACCUMULATION
+   3. A substance is persistent when it has at least one of           3. Est persistante la substance qui présente au moins
+the following characteristics:                                      une des particularités suivantes :
+  (a) in air,                                                         a) dans l’air, selon le cas :
+     (i) its half-life is equal to or greater than 2 days, or            (i) sa demi-vie est égale ou supérieure à 2 jours,
+     (ii) it is subject to atmospheric transport from its                (ii) elle est susceptible d’être transportée dans l’at-
+     source to a remote area;                                            mosphère jusqu’à des régions éloignées de sa
+  (b) in water, its half-life is equal to or greater than                source;
+  182 days;                                                           b) dans l’eau, sa demi-vie est égale ou supérieure à
+                                                                      182 jours;
+
+
+
+                                                                1
+                                           SOR/2000-107 — October 6, 2010
+
+
+
+  (c) in sediments, its half-life is equal to or greater             c) dans les sédiments, sa demi-vie est égale ou supé-
+  than 365 days; or                                                  rieure à 365 jours;
+  (d) in soil, its half-life is equal to or greater than 182         d) dans le sol, sa demi-vie est égale ou supérieure à
+  days.                                                              182 jours.
+  4. A substance is bioaccumulative                                  4. Une substance est bioaccumulable dans les cas sui-
+  (a) when its bioaccumulation factor is equal to or               vants :
+  greater than 5 000;                                                a) son facteur de bioaccumulation est égal ou supé-
+  (b) if its bioaccumulation factor cannot be determined             rieur à 5 000;
+  in accordance with a method referred to in section 5,              b) si son facteur de bioaccumulation ne peut pas être
+  when its bioconcentration factor is equal to or greater            déterminé selon une méthode visée à l’article 5, son
+  than 5 000; and                                                    facteur de bioconcentration est égal ou supérieur à
+  (c) if neither its bioaccumulation factor nor its bio-             5 000;
+  concentration factor can be determined in accordance               c) si son facteur de bioaccumulation et son facteur de
+  with a method referred to in section 5, when the loga-             bioconcentration ne peuvent être déterminés selon une
+  rithm of its octanol-water partition coefficient is equal          méthode visée à l’article 5, le logarithme de son coef-
+  to or greater than 5.                                              ficient de partage octanol-eau est égal ou supérieur à
+                                                                     5.
+   5. The determination of persistence and bioaccumula-               5. La détermination de la persistance et de la bioaccu-
+tion with respect to a substance under sections 3 and 4            mulation visée aux articles 3 et 4 se fait, à l’égard d’une
+must be made in accordance with generally recognized               substance, selon les méthodes de l’Organisation de co-
+methods of the Organisation for Economic Co-operation              opération et de développement économiques (OCDE) ou
+and Development (OECD) or of some other similar or-                de toute autre organisation semblable ou, faute de telles
+ganisation or, if no such methods exist, in accordance             méthodes, selon les méthodes généralement reconnues
+with generally recognized methods within the scientific            par la communauté scientifique et compte tenu des pro-
+community and taking into account the intrinsic proper-            priétés intrinsèques de la substance, de l’écosystème
+ties of the substance, the ecosystem under consideration           concerné ainsi que des conditions de l’environnement.
+and the conditions in the environment.
+
+               COMING INTO FORCE                                                  ENTRÉE EN VIGUEUR
+  6. These Regulations come into force on March 31,                 6. Le présent règlement entre en vigueur le 31
+2000.                                                              mars 2000.
+
+
+
+
+                                                               2
+

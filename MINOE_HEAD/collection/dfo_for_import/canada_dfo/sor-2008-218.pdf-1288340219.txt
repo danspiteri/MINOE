@@ -1,0 +1,201 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+Polybrominated Diphenyl     Règlement sur les
+   Ethers Regulations   polybromodiphényléthers
+
+                     SOR/2008-218                                                      DORS/2008-218
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published            31. (1) Every copy of a consolidated statute or             31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies       (3) In the event of an inconsistency between a             (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                                 Enregistrement
+SOR/2008-218 June 19, 2008                                   DORS/2008-218 Le 19 juin 2008
+CANADIAN ENVIRONMENTAL PROTECTION ACT,                       LOI CANADIENNE SUR LA PROTECTION DE
+1999                                                         L’ENVIRONNEMENT (1999)
+
+Polybrominated Diphenyl Ethers Regulations                   Règlement sur les polybromodiphényléthers
+
+P.C. 2008-1271 June 19, 2008                                 C.P. 2008-1271 Le 19 juin 2008
+
+   Whereas, pursuant to subsection 332(1)a of the Cana-         Attendu que, conformément au paragraphe 332(1)a de
+dian Environmental Protection Act, 1999b, the Minister       la Loi canadienne sur la protection de l’environnement
+of the Environment published in the Canada Gazette,          (1999)b, la ministre de l’Environnement a fait publier
+Part I, on December 16, 2006 a copy of the proposed          dans la Gazette du Canada Partie I, le 16 décembre
+Polybrominated Diphenyl Ethers Regulations, substan-         2006, le projet de règlement intitulé Règlement sur les
+tially in the annexed form, and persons were given an        polybromodiphényléthers, conforme en substance au
+opportunity to file comments with respect to the pro-        texte ci-après, et que les intéressés ont ainsi eu la possi-
+posed Regulations or to file a notice of objection re-       bilité de présenter leurs observations à cet égard ou un
+questing that a board of review be established and stat-     avis d’opposition motivé demandant la constitution
+ing the reasons for the objection;                           d’une commission de révision;
+  Whereas, pursuant to subsection 93(3) of that Act, the        Attendu que, conformément au paragraphe 93(3) de
+National Advisory Committee has been given an oppor-         cette loi, le comité consultatif national s’est vu accorder
+tunity to provide its advice under section 6c of that Act;   la possibilité de formuler ses conseils dans le cadre de
+                                                             l’article 6c de celle-ci;
+   And whereas, in the opinion of the Governor in Coun-        Attendu que la gouverneure en conseil est d’avis que,
+cil, pursuant to subsection 93(4) of that Act, the pro-      aux termes du paragraphe 93(4) de cette loi, le projet de
+posed Regulations do not regulate an aspect of a sub-        règlement ne vise pas un point déjà réglementé sous le
+stance that is regulated by or under any other Act of        régime d’une autre loi fédérale de manière à offrir une
+Parliament in a manner that provides, in the opinion of      protection suffisante pour l’environnement et la santé
+the Governor in Council, sufficient protection to the en-    humaine,
+vironment and human health;
+   Therefore, Her Excellency the Governor General in            À ces causes, sur recommandation du ministre de
+Council, on the recommendation of the Minister of the        l’Environnement et du ministre de la Santé et en vertu du
+Environment and the Minister of Health, pursuant to          paragraphe 93(1) de la Loi canadienne sur la protection
+subsection 93(1) of the Canadian Environmental Protec-       de l’environnement (1999)b, Son Excellence la Gouver-
+tion Act, 1999b, hereby makes the annexed Polybromi-         neure générale en conseil prend le Règlement sur les po-
+nated Diphenyl Ethers Regulations.                           lybromodiphényléthers, ci-après.
+
+
+
+
+a                                                             a 
+   S.C. 2004, c. 15, s. 31                                       L.C. 2004, ch. 15, art. 31
+b                                                             b 
+   S.C. 1999, c. 33                                              L.C. 1999, ch. 33
+c                                                             c 
+   S.C. 2002, c. 7, s. 124                                       L.C. 2002, ch. 7, art. 124
+POLYBROMINATED                DIPHENYL          ETHERS           RÈGLEMENT          SUR                                 LES
+   REGULATIONS                                                      POLYBROMODIPHÉNYLÉTHERS
+
+                     APPLICATION                                                CHAMP D’APPLICATION
+   1. Subject to sections 2 to 5, these Regulations apply           1. Sous réserve des articles 2 à 5, le présent règlement
+to polybrominated diphenyl ethers that have the molecu-          s’applique aux polybromodiphényléthers dont la formule
+lar formula C12H(10–n)BrnO in which 4≤n≤10 and that are          moléculaire est C12H(10–n)BrnO, où 4≤n≤10, lesquels sont
+specified on the List of Toxic Substances in Schedule 1          inscrits sur la liste des substances toxiques de l’annexe 1
+to the Canadian Environmental Protection Act, 1999.              de la Loi canadienne sur la protection de l’environne-
+                                                                 ment (1999).
+
+                     EXCEPTIONS                                                       EXCEPTIONS
+   2. These Regulations do not apply to any polybromi-             2. Le présent règlement ne s’applique pas aux poly-
+nated diphenyl ether referred to in section 1 that is con-       bromodiphényléthers visés à l’article 1 qui sont contenus
+tained in a pest control product within the meaning of           dans tout produit antiparasitaire au sens du paragraphe
+subsection 2(1) of the Pest Control Products Act.                2(1) de la Loi sur les produits antiparasitaires.
+   3. These Regulations do not apply to any polybromi-             3. Le présent règlement ne s’applique pas aux poly-
+nated diphenyl ether referred to in section 1, or to any         bromodiphényléthers visés à l’article 1 ni aux résines,
+resin, polymer or other mixture containing a polybromi-          polymères ou autres mélanges qui contiennent un poly-
+nated diphenyl ether set out in the schedule, that is for        bromodiphényléther mentionné à l’annexe, s’ils sont
+use                                                              destinés à être utilisés :
+  (a) in a laboratory for analysis;                                a) pour des analyses en laboratoire;
+  (b) in scientific research; or                                   b) pour la recherche scientifique;
+  (c) as a laboratory analytical standard.                         c) en tant qu’étalon analytique de laboratoire.
+   4. These Regulations do not apply to a product that is           4. Le présent règlement ne s’applique pas aux pro-
+formed into a specific physical shape or design during its       duits dotés d’une forme ou de caractéristiques maté-
+manufacture and that has, for its final use, a function or       rielles précises lors de leur fabrication qui ont, pour leur
+functions dependent in whole or in part on its shape or          utilisation finale, une ou plusieurs fonctions en dépen-
+design, if that product contains a polybrominated                dant en tout ou en partie, et ce même s’ils contiennent un
+diphenyl ether referred to in section 1.                         polybromodiphényléther visé à l’article 1.
+  5. These Regulations do not apply to any polybromi-              5. Le présent règlement ne s’applique pas aux poly-
+nated diphenyl ether referred to in section 1 that is            bromodiphényléthers visés à l’article 1 qui sont présents
+present as a contaminant in a chemical feedstock used in         comme contaminants dans une matière première chi-
+a process from which there are no releases of the poly-          mique utilisée au cours d’un procédé n’occasionnant pas
+brominated diphenyl ether, provided that the polybromi-          le rejet de polybromodiphényléthers, pourvu qu’ils
+nated diphenyl ether is destroyed or completely convert-         soient, au cours de ce procédé, détruits ou totalement
+ed in that process to a substance that is not a                  convertis en toute substance autre qu’un polybromodi-
+polybrominated diphenyl ether.                                   phényléther.
+
+
+
+
+                                                             1
+                                          SOR/2008-218 — October 6, 2010
+
+
+
+                    PROHIBITIONS                                                      INTERDICTIONS
+  6. No person shall manufacture any polybrominated                  6. Il est interdit de fabriquer des polybromodiphény-
+diphenyl ether referred to in section 1 or any resin, poly-       léthers visés à l’article 1 ou des résines, polymères ou
+mer or other mixture containing a polybrominated                  autres mélanges qui contiennent un polybromodiphény-
+diphenyl ether set out in the schedule.                           léther mentionné à l’annexe.
+  7. (1) No person shall use, sell, offer for sale or im-            7. (1) Il est interdit d’utiliser, de vendre, de mettre en
+port a polybrominated diphenyl ether set out in the               vente ou d’importer des polybromodiphényléthers men-
+schedule or any resin, polymer or other mixture contain-          tionnés à l’annexe ou des résines, polymères ou autres
+ing such a substance.                                             mélanges qui contiennent de tels polybromodiphénylé-
+                                                                  thers.
+   (2) Subsection (1) does not apply to any polybromi-              (2) Le paragraphe (1) ne s’applique pas aux polybro-
+nated diphenyl ether or resin, polymer or other mixture           modyphényléthers ou aux résines, polymères ou autres
+that is to be                                                     mélanges qui sont :
+  (a) re-processed on-site in a process from which there            a) soit destinés à un retraitement sur place au cours de
+  are no releases of the substance; or                              tout procédé n’occasionnant pas le rejet de polybro-
+  (b) disposed of in accordance with the laws of the ju-            modiphényléthers mentionnés à l’annexe;
+  risdiction where the disposal is to take place.                   b) soit destinés à être éliminés en conformité avec les
+                                                                    règles de droit du lieu de l’élimination.
+
+   ANALYSIS BY ACCREDITED LABORATORY                               ANALYSE PAR UN LABORATOIRE ACCRÉDITÉ
+   8. The presence of any polybrominated diphenyl ether              8. La présence de polybromodiphényléthers est déter-
+shall be determined by a laboratory that is accredited un-        minée par un laboratoire qui est accrédité selon la norme
+der the International Organization for Standardization            ISO/CEI 17025 : 2005 de l’Organisation internationale
+standard ISO/IEC 17025: 2005, entitled General re-                de normalisation, intitulée Exigences générales concer-
+quirements for the competence of testing and calibration          nant la compétence des laboratoires d’étalonnages et
+laboratories, as amended from time to time, and whose             d’essais, avec ses modifications successives, et dont
+accreditation includes the analysis of polybrominated             l’accréditation prévoit un champ d’essai couvrant l’ana-
+diphenyl ethers within its scope of testing.                      lyse des polybromodiphényléthers.
+
+                COMING INTO FORCE                                                 ENTRÉE EN VIGUEUR
+  9. These Regulations come into force on the day on                9. Le présent règlement entre en vigueur à la date de
+which they are registered.                                        son enregistrement.
+
+
+
+
+                                                              2
+                                                 DORS/2008-218 — 6 octobre 2010
+
+
+
+                            SCHEDULE                                                                    ANNEXE
+                        (Sections 3, 6 and 7)                                                       (articles 3, 6 et 7)
+
+     POLYBROMINATED DIPHENYL ETHERS WHOSE                                   POLYBROMODYPHÉNYLÉTHERS DONT LA FABRICATION,
+     MANUFACTURE, USE, SALE, OFFER FOR SALE OR                                 L’UTILISATION, LA VENTE, LA MISE EN VENTE OU
+           IMPORTATION IS PROHIBITED                                                   L’IMPORTATION EST INTERDITE
+1.   Benzene, 1,1′-oxybis-, tetrabromo derivative that has the molec-       1. Oxyde de diphényle, dérivé tétrabromé (tétraBDE) dont la formule
+     ular formula C12H6Br4O (tetraBDE)                                         moléculaire est C12H6Br4O
+2.   Benzene, 1,1′-oxybis-, pentabromo derivative that has the              2. Oxyde de diphényle, dérivé pentabromé (pentaBDE) dont la for-
+     molecular formula C12H5Br5O (pentaBDE)                                    mule moléculaire est C12H5Br5O
+3.   Benzene, 1,1′-oxybis-, hexabromo derivative that has the molec-        3. Oxyde de diphényle, dérivé hexabromé (hexaBDE) dont la formule
+     ular formula C12H4Br6O (hexaBDE)                                          moléculaire est C12H4Br6O
+
+
+
+
+                                                                        3
+

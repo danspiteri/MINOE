@@ -1,0 +1,532 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+Asbestos Mines and Mills Règlement sur le rejet
+  Release Regulations   d’amiante par les mines et
+                           usines d’extraction
+                               d’amiante
+
+                       SOR/90-341                                                        DORS/90-341
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published             31. (1) Every copy of a consolidated statute or            31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies      (3) In the event of an inconsistency between a              (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                                 Enregistrement
+SOR/90-341 June 14, 1990                                     DORS/90-341 Le 14 juin 1990
+CANADIAN ENVIRONMENTAL PROTECTION ACT,                       LOI CANADIENNE SUR LA PROTECTION DE
+1999                                                         L’ENVIRONNEMENT (1999)
+
+Asbestos Mines and Mills Release Regulations                 Règlement sur le rejet d’amiante par les mines et
+                                                             usines d’extraction d’amiante
+
+P.C. 1990-1111 June 14, 1990                                 C.P. 1990-1111 Le 14 juin 1990
+
+   Whereas, pursuant to subsection 48(1) of the Canadi-         Attendu que, conformément au paragraphe 48(1) de la
+an Environmental Protection Act*, the Minister of the        Loi canadienne sur la protection de l’environnement*, le
+Environment published in the Canada Gazette Part I on        ministre de l’Environnement a fait publier dans la Ga-
+April 29, 1989 a copy of the proposed Regulations re-        zette du Canada Partie I le 29 avril 1989, le projet de
+specting the release into the ambient air of asbestos        Règlement concernant le rejet d’amiante dans l’air am-
+from asbestos mills and mines, substantially in the form     biant par les mines et usines d’extraction d’amiante,
+annexed hereto;                                              conforme en substance au texte ci-après;
+   And Whereas, in the opinion of the Governor in              Attendu que, conformément au paragraphe 34(3) de
+Council, pursuant to subsection 34(3) of that Act, the an-   cette Loi, le gouverneur en conseil est d’avis que le rè-
+nexed Regulations do not regulate an aspect of a sub-        glement ci-après ne vise pas un point déjà réglementé
+stance that is regulated by or under any other Act of Par-   sous le régime d’une autre loi fédérale,
+liament;                                                        À ces causes, en vertu du paragraphe 34(1)** de la Loi
+   Therefore, His Excellency the Governor General in         canadienne sur la protection de l’environnement*, sur re-
+Council, pursuant to subsection 34(1)** of the Canadian      commandation du ministre de l’Environnement et du mi-
+Environmental Protection Act*, on the recommendation         nistre de la Santé nationale et du Bien-être social et après
+of the Minister of the Environment and the Minister of       avoir donné au comité consultatif fédéro-provincial la
+National Health and Welfare, and after the federal-          possibilité de formuler ses conseils dans le cadre de l’ar-
+provincial advisory committee has been provided an op-       ticle 6 de cette Loi, il plaît à Son Excellence le Gouver-
+portunity to render its advice under section 6 of the Act,   neur général en conseil d’abroger le Règlement sur les
+is pleased hereby to revoke the Asbestos Mining and          normes nationales de dégagement pour les mines et
+Milling National Emission Standards Regulations,             usines d’extraction d’amiante, C.R.C., ch. 405, et de
+C.R.C., c. 405, and to make the annexed Regulations re-      prendre en remplacement le Règlement concernant le re-
+specting the release into the ambient air of asbestos        jet d’amiante dans l’air ambiant par les mines et usines
+from asbestos mines and mills, in substitution therefor.     d’extraction d’amiante, ci-après.
+
+
+
+
+*                                                             * 
+     R.S., c. 16 (4th Supp.)                                       L.R., ch. 16 (4e Suppl.)
+**                                                            ** 
+     S.C. 1989, c. 9, s. 2                                         L.C. 1989, ch. 9, art. 2
+REGULATIONS RESPECTING THE RELEASE INTO                            RÈGLEMENT    CONCERNANT      LE   REJET
+   THE AMBIENT AIR OF ASBESTOS FROM                                   D’AMIANTE DANS L’AIR AMBIANT PAR LES
+   ASBESTOS MINES AND MILLS                                           MINES   ET   USINES    D’EXTRACTION
+                                                                      D’AMIANTE
+
+                     SHORT TITLE                                                       TITRE ABRÉGÉ
+  1. These Regulations may be cited as the Asbestos                  1. Règlement sur le rejet d’amiante par les mines et
+Mines and Mills Release Regulations.                               usines d’extraction d’amiante.
+
+                  INTERPRETATION                                                        DÉFINITIONS
+  2. In these Regulations,                                           2. Les définitions qui suivent s’appliquent au présent
+“ambient air” means the atmosphere surrounding the                 règlement.
+earth but does not include the atmosphere within a struc-          « air ambiant » L’atmosphère qui entoure la terre. La pré-
+ture or within any underground space; (air ambiant)                sente définition ne vise pas l’atmosphère se trouvant à
+“asbestos fibre” means a fibre of asbestos with a length           l’intérieur d’une structure ou dans un espace souterrain.
+of more than five microns and a ratio of length to                 (ambient air)
+breadth of three or more to one; (fibre d’amiante)                 « à sec » Absence d’eau non liée. (dry)
+“dry” means a condition that does not include uncom-               « centimètre cube normal » ou « cm3 norm. » Quantité de
+bined water; (à sec)                                               gaz occupant un volume d’un centimètre cube à une tem-
+“mine or mill” means an asbestos mine or mill; (mine ou            pérature de 25 °C et à une pression de 760 mm de mer-
+usine)                                                             cure. (normal cubic centimetre or norm. cm3)
+
+“normal cubic centimetre” or “norm. cm3” means, in re-             « fibre d’amiante » S’entend d’une fibre d’amiante d’une
+spect of a gas, the quantity of the gas that occupies a vol-       longueur de plus de cinq microns pour laquelle le rap-
+ume of one cubic centimetre at 25°C and at a pressure of           port entre sa longueur et sa largeur est d’au moins trois à
+760 mm of mercury; (centimètre cube normal ou cm3                  un. (asbestos fibre)
+norm.)                                                             « mètre cube normal » ou « m3 norm. » Quantité de gaz
+“normal cubic metre” or “norm. m3” means, in respect of            qui occupe un volume d’un mètre cube à une tempéra-
+a gas, the quantity of the gas that occupies a volume of           ture de 25 °C et à une pression de 760 mm de mercure.
+one cubic metre at 25°C and at a pressure of 760 mm of             (normal cubic metre or norm. m3)
+mercury; (mètre cube normal or cm3 norm.)                          « mine ou usine » Mine ou usine d’extraction d’amiante.
+“qualified person” means a person who because of his or            (mine or mill)
+her knowledge, training and experience is qualified to             « non dilué » S’entend du rejet qui ne contient ni air ni
+count asbestos fibres for the purposes of paragraphs               autre gaz en quantité supérieure à celle nécessaire aux
+3(4)(c), (5)(b) and (6)(c); (personne qualifiée)                   opérations de transformation d’une mine ou d’une usine.
+“undiluted” means a condition that does not include air            (undiluted)
+or other gases in excess of the quantity necessary for the         « personne qualifiée » Personne qui de par ses connais-
+processing requirements at a mine or mill. (non dilué)             sances, sa formation et son expérience est qualifiée pour
+                                                                   compter les fibres d’amiante pour l’application des ali-
+                                                                   néas 3(4)c), (5)b) et (6)c). (qualified person)
+
+
+
+
+                                                               1
+                                           SOR/90-341 — October 6, 2010
+
+
+
+
+          RELEASE OF ASBESTOS FIBRES                                        REJET DE FIBRES D’AMIANTE
+   3. (1) The concentration of asbestos fibres contained            3. (1) La concentration de fibres d’amiante dans les
+in any gases that the owner or operator of a mine or mill        gaz rejetés dans l’air ambiant par le propriétaire ou l’ex-
+may release into the ambient air from                            ploitant d’une mine ou d’une usine ne doit pas dépasser
+  (a) crushing, drying or milling operations,                    deux fibres d’amiante par centimètre cube normal de gaz
+                                                                 lorsque le rejet provient, selon le cas :
+  (b) dry rock storage, or
+                                                                   a) des opérations de concassage, de séchage ou d’ex-
+  (c) primary dry drilling operations in an open pit               traction à cette mine ou usine;
+at that mine or mill, shall not exceed two asbestos fibres         b) de l’entreposage, à cette mine ou à cette usine, du
+per normal cubic centimetre of the gases.                          minerai séché;
+                                                                   c) du forage primaire à sec et à ciel ouvert à cette
+                                                                   mine ou à cette usine.
+   (2) The concentration of asbestos fibres referred to in          (2) Dans le cas d’un rejet visé aux alinéas (1)a) ou b),
+paragraph (1)(a) or (b) shall be measured dry and undi-          la concentration de fibres d’amiante est mesurée à sec et
+luted, under normal operating conditions, in accordance          à l’état non dilué dans les conditions normales d’exploi-
+with the applicable method described in Standard Refer-          tation, conformément à la méthode applicable décrite
+ence Methods for Source Testing: Measurements of                 dans le rapport EPS-1-AP-75-1 du ministère des Pêches
+Emissions of Asbestos from Mining and Milling Opera-             et de l’Environnement, en date de décembre 1976,
+tions; Department of Fisheries and Environment Report            intitulé : Méthodes de référence normalisées en vue du
+EPS-1-AP-75-1 dated December 1976, as amended from               contrôle des sources : mesure des émissions d’amiante
+time to time.                                                    provenant des opérations d’extraction et de broyage de
+                                                                 l’amiante, dans sa version modifiée.
+   (3) The concentration of asbestos fibres referred to in           (3) Dans le cas d’un rejet visé à l’alinéa (1)c), la
+paragraph (1)(c) shall be measured dry and undiluted,            concentration de fibres d’amiante est mesurée à sec et à
+under normal operating conditions, in accordance with            l’état non dilué dans des conditions normales d’exploita-
+the method described in Standard Reference Methods for           tion, conformément à la méthode décrite dans le rapport
+Source Testing: Measurement of Emissions of Asbestos             EPS-1-AP-75-1A du ministère des Pêches et de l’Envi-
+from Asbestos Mining and Milling Operations Method               ronnement, en date de mars 1978, intitulé : Méthodes de
+S-3 Sampling of Drill Baghouse Exhaust Emissions, De-            référence normalisées en vue du contrôle des sources :
+partment of Fisheries and the Environment Canada Re-             mesure des émissions d’amiante provenant des opéra-
+port EPS-1-AP-75-1A dated March 1978, as amended                 tions d’extraction et de broyage de l’amiante, Méthode
+from time to time.                                               S-3 échantillonnage des substances retenues par les
+                                                                 filtres à manche des foreuses, dans sa version modifiée.
+   (4) Where Method S.1 described in the Report re-                (4) Lorsqu’est utilisée la méthode S.1 décrite dans le
+ferred to in subsection (2) is used,                             rapport visé au paragraphe (2) :
+  (a) three release measurements shall be made;                    a) trois mesures de rejet sont effectuées;
+  (b) each release measurement shall be made during a              b) chaque mesure de rejet est effectuée durant une pé-
+  minimum continuous process operational period of 30              riode d’exploitation continue d’au moins 30 minutes;
+  minutes;
+
+
+
+
+                                                             2
+                                         DORS/90-341 — 6 octobre 2010
+
+
+
+
+  (c) the asbestos fibres on each filter shall be counted         c) le nombre de fibres d’amiante sur chaque filtre est
+  by two qualified persons, one counting the odd num-             compté par deux personnes qualifiées, l’une faisant le
+  bered sectors and the other counting the even num-              dénombrement sur les secteurs impairs du filtre et
+  bered sectors;                                                  l’autre, sur les secteurs pairs;
+  (d) each release measurement shall be determined by             d) chaque mesure de rejet se détermine par le calcul
+  taking the arithmetic average of the two sets of fibre          de la moyenne arithmétique des résultats des deux dé-
+  counts conducted in accordance with paragraph (c);              nombrements effectués conformément à l’alinéa c);
+  and                                                             e) la concentration de fibres d’amiante contenues
+  (e) the concentration of asbestos fibres contained in           dans les gaz rejetés dans l’air ambiant est la moyenne
+  gases released into the ambient air shall be the arith-         arithmétique des résultats des trois mesures effectuées
+  metic average of the three measurements conducted in            conformément aux alinéas a) à d).
+  accordance with paragraphs (a) to (d).
+   (5) Where Method S.2 described in the Report re-               (5) Lorsqu’est utilisée la méthode S.2 décrite dans le
+ferred to in subsection (2) is used,                            rapport visé au paragraphe (2) :
+  (a) one release measurement shall be made;                      a) une mesure de rejet est effectuée;
+  (b) the asbestos fibres on each filter shall be counted         b) le nombre de fibres d’amiante sur chaque filtre est
+  by two qualified persons, one counting the odd num-             compté par deux personnes qualifiées, l’une faisant le
+  bered sectors and the other counting the even num-              dénombrement sur les secteurs impairs du filtre et
+  bered sectors; and                                              l’autre, sur les secteurs pairs;
+  (c) the release measurement shall be determined by              c) la mesure de rejet se détermine par le calcul de la
+  taking the arithmetic average of the two sets of fibre          moyenne arithmétique des résultats des deux dénom-
+  counts conducted in accordance with paragraph (b).              brements effectués conformément à l’alinéa b).
+   (6) Where Method S.3 described in the Report re-               (6) Lorsqu’est utilisée la méthode S.3 décrite dans le
+ferred to in subsection (3) is used,                            rapport visé au paragraphe (3) :
+  (a) three release measurements shall be made;                   a) trois mesures de rejet sont effectuées;
+  (b) each release measurement shall be made during a             b) chaque mesure de rejet est effectuée durant une pé-
+  period of continuous active drilling;                           riode continue de forage actif;
+  (c) the asbestos fibres on each filter shall be counted         c) le nombre de fibres d’amiante sur chaque filtre est
+  by two qualified persons, one counting the odd num-             compté par deux personnes qualifiées, l’une faisant le
+  bered sectors and the other counting the even num-              dénombrement sur les secteurs impairs du filtre et
+  bered sectors;                                                  l’autre, sur les secteurs pairs;
+  (d) each release measurement shall be determined by             d) chaque mesure de rejet se détermine par le calcul
+  taking the arithmetic average of the two sets of fibre          de la moyenne arithmétique des résultats des deux dé-
+  counts conducted in accordance with paragraph (c);              nombrements effectués conformément à l’alinéa c);
+  and                                                             e) la concentration de fibres d’amiante contenues
+  (e) the concentration of asbestos fibres contained in           dans les gaz rejetés dans l’air ambiant est la moyenne
+  gases released into the ambient air shall be the arith-
+
+
+
+
+                                                            3
+                                            SOR/90-341 — October 6, 2010
+
+
+
+
+   metic average of the three measurements conducted in              arithmétique des résultats des trois mesures effectuées
+   accordance with paragraphs (a) to (d).                            conformément aux alinéas a) à d).
+SOR/93-231, s. 2; SOR/94-364, s. 2.                               DORS/93-231, art. 2; DORS/94-364, art. 2.
+
+ ASBESTOS RELEASES DURING MALFUNCTION                                 REJET D’AMIANTE DURANT UN MAUVAIS
+             OR BREAKDOWN                                                FONCTIONNEMENT OU UNE PANNE
+   4. Notwithstanding section 3, the concentration of as-            4. Par dérogation à l’article 3, la concentration de
+bestos fibres referred to in paragraph 3(1)(a) or (b) may,        fibres d’amiante dans le cas d’un rejet visé aux alinéas
+in the event of a malfunction or breakdown in the air             3(1)a) ou b) peut être dépassée lors du mauvais fonction-
+pollution control equipment or the process equipment as-          nement ou d’une panne du matériel de lutte contre la
+sociated with the operations or storage referred to in that       pollution atmosphérique ou de l’équipement de produc-
+paragraph, be exceeded for not more than                          tion servant aux opérations ou à l’entreposage visés à ces
+   (a) 30 minutes, in the case of a single malfunction or         alinéas, et ce, pendant une période maximale :
+   breakdown;                                                        a) de 30 minutes, dans le cas d’un seul mauvais fonc-
+   (b) a total of one hour per month, in the case of crush-          tionnement ou d’une seule panne;
+   ing or milling operations or dry rock storage; and                b) d’une heure par mois, dans le cas des opérations de
+   (c) a total of two hours per month, in the case of dry-           concassage ou d’extraction ou de l’entreposage du mi-
+   ing operations.                                                   nerai séché;
+                                                                     c) de deux heures par mois, dans le cas des opérations
+                                                                     de séchage.
+
+              INFORMATION AND SAMPLES                                    RENSEIGNEMENTS ET ÉCHANTILLONS
+  5. The Minister may request the owner or operator of               5. Le ministre peut demander au propriétaire ou à
+a mine or mill to submit to the Minister                          l’exploitant d’une mine ou d’une usine de lui fournir, se-
+   (a) information and samples respecting the operation           lon le cas :
+   of the mine or mill;                                              a) des renseignements et des échantillons relative-
+   (b) information respecting the malfunction or break-              ment à l’exploitation de la mine ou de l’usine;
+   down of the air pollution control equipment or process            b) des renseignements sur le mauvais fonctionnement
+   equipment of the mine or mill; or                                 ou les pannes du matériel de lutte contre la pollution
+   (c) information respecting the air pollution control              atmosphérique ou de l’équipement de production de la
+   equipment of the mine or mill.                                    mine ou de l’usine;
+                                                                     c) des renseignements sur le matériel de lutte contre
+                                                                     la pollution atmosphérique de la mine ou de l’usine.
+
+        MINE OR MILL OPERATIONS REPORTS                           RAPPORT SUR L’EXPLOITATION DE LA MINE OU
+                                                                                 DE L’USINE
+   6. (1) Where, pursuant to paragraph 5(a), the Minis-             6. (1) Lorsque le ministre demande, en vertu de l’ali-
+ter requests information respecting the operation of a            néa 5a), des renseignements sur l’exploitation d’une
+mine or mill, the owner or operator of the mine or mill           mine ou d’une usine, le propriétaire ou l’exploitant de
+shall submit to the Minister the information required by          celle-ci doit lui soumettre le Rapport sur la mesure des
+
+
+
+
+                                                              4
+                                           DORS/90-341 — 6 octobre 2010
+
+
+
+
+the Mine or Mill Release Measurement Report set out in           rejets provenant d’une mine ou d’une usine figurant à
+Schedule I.                                                      l’annexe I, dûment rempli.
+   (2) The report referred to in subsection (1) shall be            (2) Le rapport visé au paragraphe (1) porte sur des
+submitted in respect of samples taken from the appropri-         échantillons prélevés des diverses sources de rejet à la
+ate sources at the mine or mill during the 60 days imme-         mine ou à l’usine au cours des 60 jours précédant la date
+diately preceding the date on which the information is           à laquelle le rapport doit être soumis au ministre confor-
+required to be submitted to the Minister pursuant to sub-        mément au paragraphe (3).
+section (3).
+  (3) The report referred to in subsection (1) shall be            (3) Le rapport visé au paragraphe (1) doit, à compter
+submitted at intervals of                                        de l’expiration d’un délai de trois mois suivant la de-
+   (a) six months, in respect of milling operations, and         mande du ministre, être soumis aux intervalles suivants :
+
+   (b) 12 months, in respect of crushing and drying op-             a) tous les six mois, dans le cas des opérations d’ex-
+   erations, dry rock storage and primary dry drilling,             traction;
+
+such intervals to commence three months after the re-               b) tous les 12 mois, dans le cas des opérations de
+quest is made by the Minister.                                      concassage et de séchage, de l’entreposage du minerai
+                                                                    séché et du forage primaire à sec.
+   (4) For the purposes of this section, samples shall be           (4) Les échantillons visés au présent article sont pré-
+taken in accordance with the applicable method de-               levés conformément à la méthode applicable mentionnée
+scribed in subsections 3(2) to (6).                              aux paragraphes 3(2) à (6).
+  (5) For the purposes of this section, and at the request          (5) Les échantillons visés au présent article sont, à la
+of the Minister, the samples shall be taken in the pres-         demande du ministre, prélevés en présence d’un agent de
+ence of an enforcement officer.                                  l’autorité.
+SOR/2000-102, s. 2.                                              DORS/2000-102, art. 2.
+
+     SUBMISSION OF SAMPLES AND RELATED                                   FOURNITURE DES ÉCHANTILLONS ET
+                INFORMATION                                                RENSEIGNEMENTS CONNEXES
+   7. (1) Where, pursuant to section 5, the Minister re-            7. (1) Lorsque le ministre demande, en vertu de l’ar-
+quests samples of gas streams released into the ambient          ticle 5, des échantillons des gaz rejetés dans l’air am-
+air from a mine or mill and such related information as          biant par une mine ou une usine et les renseignements
+will enable the Minister to cause analyses to be made of         connexes lui permettant de faire analyser la concentra-
+the concentration of asbestos fibres in the gas streams,         tion de fibres d’amiante dans de tels gaz, le propriétaire
+the owner or operator of the mine or mill shall obtain the       ou l’exploitant de la mine ou de l’usine doit prélever ces
+samples at regular six month intervals in accordance             échantillons à intervalles de six mois, conformément à la
+with the appropriate method described in Standard Ref-           méthode applicable décrite dans le rapport EPS-1-
+erence Methods for Source Testing: Measurement of                AP-75-1 du ministère des Pêches et de l’Environnement,
+Emissions of Asbestos from Mining and Milling Opera-             en date de décembre 1976, intitulée Méthodes de réfé-
+tions; Department of Fisheries and Environment Report            rence normalisées en vue du contrôle des sources : me-
+EPS-1-AP-75-1 dated December 1976, as amended from               sure des émissions d’amiante provenant des opérations
+time to time and shall forthwith submit the samples and          d’extraction et de broyage de l’amiante, dans sa version
+related information to the Minister.
+
+
+
+
+                                                             5
+                                            SOR/90-341 — October 6, 2010
+
+
+
+
+                                                                 modifiée, et les lui soumettre sans délai avec les rensei-
+                                                                 gnements connexes.
+  (2) For the purposes of subsection (1), at the request            (2) Les échantillons visés au paragraphe (1) sont, à la
+of the Minister, the samples shall be obtained in the            demande du ministre, prélevés en présence d’un agent de
+presence of an enforcement officer.                              l’autorité.
+SOR/2000-102, s. 2.                                              DORS/2000-102, art. 2.
+
+    MALFUNCTION OR BREAKDOWN REPORTS                              RAPPORT DE MAUVAIS FONCTIONNEMENT OU
+                                                                                DE PANNE
+   8. Where, pursuant to paragraph 5(b), the Minister re-           8. Lorsque le ministre demande, en vertu de l’alinéa
+quests information respecting the malfunction or break-          5b), des renseignements sur le mauvais fonctionnement
+down of air pollution control equipment or process               ou les pannes du matériel de lutte contre la pollution at-
+equipment, the owner or operator of the mine or mill             mosphérique ou de l’équipement de production, le pro-
+shall, not later than two months after the request is made       priétaire ou l’exploitant de la mine ou de l’usine doit lui
+by the Minister, submit to the Minister, for any month in        soumettre, pour tout mois au cours duquel se produit un
+which a malfunction or breakdown occurs, the informa-            mauvais fonctionnement ou une panne, le Rapport de
+tion required by the Malfunction or Breakdown Report             mauvais fonctionnement ou de panne figurant à l’annexe
+set out in Schedule II.                                          II, dûment rempli, dans les deux mois suivant la de-
+                                                                 mande.
+
+       AIR POLLUTION CONTROL EQUIPMENT                           RAPPORT SUR LE MATÉRIEL DE LUTTE CONTRE
+                   REPORTS                                            LA POLLUTION ATMOSPHÉRIQUE
+   9. Where, pursuant to paragraph 5(c), the Minister re-           9. Lorsque le ministre demande, en vertu de l’alinéa
+quests information respecting air pollution control equip-       5c), des renseignements sur le matériel de lutte contre la
+ment at a mine or mill, the owner or operator of the mine        pollution atmosphérique d’une mine ou d’une usine, le
+or mill shall submit to the Minister, for each operation         propriétaire ou l’exploitant de celle-ci doit lui soumettre,
+referred to in paragraphs 3(1)(a) to (c), the information        pour chaque opération visée aux alinéas 3(1)a) à c), le
+required by the Air Pollution Control Equipment Report           Rapport sur le matériel de lutte contre la pollution atmo-
+set out in Schedule III, not later than two months after         sphérique figurant à l’annexe III, dûment rempli, dans
+the request is made by the Minister and at such times            les deux mois suivant la demande et, par la suite, lorsque
+thereafter as any change occurs in respect of the air pol-       des changements sont apportés à ce matériel.
+lution control equipment.
+
+                       SIGNING OF REPORTS                                       SIGNATURE DES RAPPORTS
+   10. Any report submitted under section 6, 8 or 9, by a           10. Le rapport visé aux articles 6, 8 ou 9 que présente
+corporation shall be signed by an officer of the corpora-        une personne morale est signé par un dirigeant de celle-
+tion authorized to sign the report on its behalf.                ci autorisé à le faire.
+SOR/93-231, s. 2(F).                                             DORS/93-231, art. 2(F).
+
+
+
+
+                                                             6
+                                                   DORS/90-341 — 6 octobre 2010
+
+
+
+
+                            SCHEDULE I                                                                   ANNEXE I
+                           (Subsection 6(1))                                                          (paragraphe 6(1))
+
+     MINE OR MILL RELEASE MEASUREMENT REPORT                                   RAPPORT SUR LA MESURE DES REJETS PROVENANT
+                                                                                        D’UNE MINE OU D’UNE USINE
+Name of Owner or Operator
+                                                                           Nom du propriétaire ou de l’exploitant
+Address of Mine or Mill
+                                                                           Adresse de la mine ou de l’usine
+Telephone Number (Mine or Mill)
+                                                                           Numéro de téléphone (mine ou usine)
+Unit or Process
+                                                                           Unité ou procédé
+Measurement Method
+                                                                           Méthode de mesure
+Date of Measurement
+                                                                           Date de la mesure
+Names of Qualified Persons       A
+                                                                           Nom des personnes qualifiées : A
+                                 B
+                                                                                                             B
+Results: (Detailed data and calculations to be appended)
+                                                                           Résultats : (joindre les données et calculs détaillés.)
+Measurement Number                             1       2       3           Mesure no                                           1       2           3
+Production at time of measurement                                          Production au moment de la mesure
+(tonnes/h)                                                                 (tonnes/h)
+Average volume of gases released during                                    Débit moyen des gaz rejetés durant la
+measurement (norm. m3/min)                                                 mesure (m3 norm./min)
+Asbestos fibres released (fibres/                                          Fibres d’amiante rejetées (fibres/cm3 norm.)
+norm. cm3                                                                  Personne qualifiée A
+Qualified Person A                                                         Personne qualifiée B
+Qualified Person B
+Average (fibres/norm. cm3)                                                 Moyenne (fibres/cm3 norm.)
+
+          (Signature)                                                                 (Signature)
+
+          (Title)                                                                    (Titre)
+
+          (Date)                                                                     (Date)
+
+          Signature of Attending Enforcement Officer (if applicable)                 (Signature de l’agent de l’autorité présent, s’il y a lieu)
+SOR/93-231, s. 2(E); SOR/2000-102, s. 2.                                   DORS/93-231, art. 2(A); DORS/2000-102, art. 2.
+
+
+
+
+                                                                       7
+                                                 SOR/90-341 — October 6, 2010
+
+
+
+
+                             SCHEDULE II                                                              ANNEXE II
+                              (Section 8)                                                              (article 8)
+
+          MALFUNCTION OR BREAKDOWN REPORT                                RAPPORT DE MAUVAIS FONCTIONNEMENT OU DE PANNE
+During the month of                                        19            Mois                                                        19
+Name of Owner or Operator                                                Nom du propriétaire ou de l’exploitant
+Address of Mine or Mill                                                  Adresse de la mine ou de l’usine
+Telephone Number (Mine or Mill)                                          Numéro de téléphone (mine ou usine)
+Unit or Process                                                          Unité ou procédé
+Date of Malfunction or Breakdown                                         Date du mauvais fonctionnement ou de la panne
+Time                                                                     Heure
+Duration (min)                                                           Durée (min)
+Production Rate (tonnes/h)                                               Rythme de production (tonnes/h)
+Nature of Malfunction or Breakdown                                       Nature du mauvais fonctionnement ou de la panne
+Corrective Action Taken
+Estimated asbestos fibre release rate during malfunction or break-       Mesures correctives prises
+down (fibres/norm. cm3)
+                                                                         Rejet estimatif de fibres d’amiante au cours du mauvais fonctionne-
+                                                                         ment ou de la panne (fibres/cm3 norm.)
+          (Signature)
+
+          (Title)
+                                                                                   (Signature)
+
+          (Date)
+                                                                                  (Titre)
+SOR/93-231, s. 2(E).
+
+                                                                                   (Date)
+                                                                         DORS/93-231, art. 2(A).
+
+
+
+
+                                                                     8
+                                                    DORS/90-341 — 6 octobre 2010
+
+
+
+
+                           SCHEDULE III                                                                ANNEXE III
+                             (Section 9)                                                                (article 9)
+
+      AIR POLLUTION CONTROL EQUIPMENT REPORT                                 RAPPORT SUR LE MATÉRIEL DE LUTTE CONTRE LA
+                                                                                     POLLUTION ATMOSPHÉRIQUE
+Name of Owner or Operator
+                                                                         Nom du propriétaire ou de l’exploitant
+Address of Mine or Mill
+                                                                         Adresse de la mine ou de l’usine
+Unit or Process
+                                                                         Unité ou procédé
+Volume of Inlet Gas (norm. m3/min)
+                                                                         Débit des gaz d’alimentation (m3 norm./min)
+Temperature of Inlet Gas (°C)
+                                                                         Température des gaz d’alimentation ( °C)
+Type of Air Pollution Control Equipment
+                                                                         Type de matériel de lutte contre la pollution atmosphérique
+Supplier of Air Pollution Control Equipment
+Schedule of Installation
+                                                                         Fournisseur du matériel
+  Engineering Design Initiated (date)
+                                                                         Calendrier d’installation :
+  Air Pollution Control Equipment Ordered (date)
+                                                                           Conception technique commencée le (date)
+  Air Pollution Control Equipment Delivery (date)
+                                                                           Matériel commandé le (date)
+  Field Construction Initiated (date)
+                                                                           Matériel livré le (date)
+  Field Construction Completed (date)
+                                                                           Construction sur le terrain commencée le (date)
+  Installation of Air Pollution Control Equipment Completed (date)
+                                                                           Construction sur le terrain achevée le (date)
+  Start-up of Air Pollution Control Equipment (date)
+                                                                           Installation du matériel achevée le (date)
+(Attach copy of air pollution control equipment specifications and
+purchase order when order is placed or amended)                            Matériel mis en service le (date)
+                                                                         (Joindre copie des spécifications du matériel et de la commande dans
+          (Signature)                                                    le cas d’une commande nouvelle ou modifiée.)
+
+          (Title)                                                                   (Signature)
+
+          (Date)                                                                   (Titre)
+
+                                                                                   (Date)
+
+
+
+
+                                                                     9
+

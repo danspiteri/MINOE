@@ -1,0 +1,855 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+Chromium Electroplating,      Règlement sur
+Chromium Anodizing and l’électrodéposition du
+    Reverse Etching      chrome, l’anodisation au
+      Regulations          chrome et la gravure
+                                inversée
+
+                     SOR/2009-162                                                      DORS/2009-162
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published            31. (1) Every copy of a consolidated statute or             31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies       (3) In the event of an inconsistency between a             (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+Registration                                                 Enregistrement
+SOR/2009-162 June 4, 2009                                    DORS/2009-162 Le 4 juin 2009
+CANADIAN ENVIRONMENTAL PROTECTION ACT,                       LOI CANADIENNE SUR LA PROTECTION DE
+1999                                                         L’ENVIRONNEMENT (1999)
+
+Chromium Electroplating, Chromium Anodizing and              Règlement sur l’électrodéposition du chrome,
+Reverse Etching Regulations                                  l’anodisation au chrome et la gravure inversée
+
+P.C. 2009-863 June 4, 2009                                   C.P. 2009-863 Le 4 juin 2009
+
+   Whereas, pursuant to subsection 332(1)a of the Cana-         Attendu que, conformément au paragraphe 332(1)a de
+dian Environmental Protection Act, 1999b, the Minister       la Loi canadienne sur la protection de l’environnement
+of the Environment published in the Canada Gazette,          (1999)b, le ministre de l’Environnement a fait publier
+Part I, on November 6, 2004, a copy of the proposed          dans la Gazette du Canada Partie I, le 6 novembre 2004,
+Chromium Electroplating, Chromium Anodizing and Re-          le projet de règlement intitulé Règlement sur l’électrodé-
+verse Etching Regulations, substantially in the annexed      position du chrome, l’anodisation au chrome et la gra-
+form, and persons were given an opportunity to file com-     vure inversée, conforme en substance au texte ci-après,
+ments with respect to the proposed Regulations or to file    et que les intéressés ont ainsi eu la possibilité de présen-
+a notice of objection requesting that a board of review be   ter leurs observations à cet égard ou un avis d’opposition
+established and stating the reasons for the objection;       motivé demandant la constitution d’une commission de
+                                                             révision;
+   Whereas, pursuant to subsection 93(3) of that Act, the       Attendu que, aux termes du paragraphe 93(3) de cette
+Minister of the Environment, before recommending the         loi, le ministre de l’Environnement a, avant de recom-
+making of the Regulations, has given the National Advi-      mander la prise du règlement, donné au comité consulta-
+sory Committee an opportunity to advise the Minister of      tif national la possibilité de formuler ses conseils au mi-
+the Environment and the Minister of Health;                  nistre de l’Environnement et à la ministre de la Santé;
+   And whereas, in the opinion of the Governor in Coun-        Attendu que la gouverneure en conseil est d’avis que,
+cil, pursuant to subsection 93(4) of that Act, the pro-      aux termes du paragraphe 93(4) de cette loi, le projet de
+posed Regulations do not regulate an aspect of a sub-        règlement ne vise pas un point déjà réglementé sous le
+stance that is regulated by or under any other Act of        régime d’une autre loi fédérale de manière à offrir une
+Parliament in a manner that provides, in the opinion of      protection suffisante pour l’environnement et la santé
+the Governor in Council, sufficient protection to the en-    humaine,
+vironment and human health;
+  Therefore, Her Excellency the Governor General in             À ces causes, sur recommandation du ministre de
+Council, on the recommendation of the Minister of the        l’Environnement et de la ministre de la Santé et en vertu
+Environment and the Minister of Health, pursuant to          du paragraphe 93(1) et de l’article 97 de la Loi cana-
+subsection 93(1) and section 97 of the Canadian Envi-        dienne sur la protection de l’environnement (1999)b, Son
+ronmental Protection Act, 1999b, hereby makes the an-        Excellence la Gouverneure générale en conseil prend le
+nexed Chromium Electroplating, Chromium Anodizing            Règlement sur l’électrodéposition du chrome, l’anodisa-
+and Reverse Etching Regulations.                             tion au chrome et la gravure inversée, ci-après.
+
+
+a                                                             a 
+     S.C. 2004, c. 15, s. 31                                       L.C. 2004, ch. 15, art. 31
+b                                                             b 
+     S.C. 1999, c. 33                                              L.C. 1999, ch. 33
+CHROMIUM ELECTROPLATING, CHROMIUM                                RÈGLEMENT SUR L’ÉLECTRODÉPOSITION DU
+   ANODIZING AND REVERSE ETCHING                                    CHROME, L’ANODISATION AU CHROME ET
+   REGULATIONS                                                      LA GRAVURE INVERSÉE
+
+                  INTERPRETATION                                                       DÉFINITIONS
+   1. The following definitions apply in these Regula-             1. Les définitions qui suivent s’appliquent au présent
+tions.                                                           règlement.
+“Act” means the Canadian Environmental Protection                « air de dilution » Air qui est introduit dans les émissions
+Act, 1999. (Loi)                                                 produites par l’électrodéposition du chrome, l’anodisa-
+“chromium anodizing” means the passage of an electric            tion au chrome ou la gravure inversée, ou pendant ces
+current through a solution containing a hexavalent               activités, et qui dilue ces émissions. (dilution air)
+chromium compound, in a tank connected to a rectifier,           « anodisation au chrome » Passage d’un courant élec-
+in order to produce an oxide layer on the surface of a           trique dans une solution contenant un composé de
+metal or other substrate. (anodisation au chrome)                chrome hexavalent se trouvant dans une cuve reliée à un
+“chromium electroplating” means the passage of an elec-          redresseur afin de produire une couche d’oxyde sur la
+tric current through a solution containing a hexavalent          surface d’un métal ou d’un autre substrat. (chromium an-
+chromium compound, in a tank connected to a rectifier,           odizing)
+in order to produce a layer of chromium on the surface           « chrome hexavalent » Chrome à l’état d’oxydation de
+of a metal or other substrate. (électrodéposition du             +6. (hexavalent chromium)
+chrome)
+                                                                 « chrome total » Somme du chrome hexavalent et de
+“control device” means equipment used to control emis-           toute autre forme de chrome. (total chromium)
+sions of hexavalent chromium compounds produced
+                                                                 « conditions d’exploitation représentatives » Conditions
+from or during chromium electroplating, chromium an-
+                                                                 permettant d’obtenir une intensité électrique à la sortie
+odizing or reverse etching. (dispositif de contrôle)
+                                                                 du redresseur d’une cuve où l’électrodéposition du
+“dilution air” means air that is introduced into emissions       chrome, l’anodisation au chrome ou la gravure inversée
+produced from or during chromium electroplating,                 est en cours qui est égale à l’intensité électrique
+chromium anodizing or reverse etching and that dilutes           moyenne à la sortie du redresseur au cours des trente
+those emissions. (air de dilution)                               jours d’utilisation précédant des essais sur les rejets.
+“dscm” means a dry standard cubic metre of sample gas            (representative operating conditions)
+referenced to 25°C and 101.325 kPa. (dscm)                       « cuve » Contenant servant à l’électrodéposition du
+“evacuation device” means equipment that is attached to          chrome, à l’anodisation au chrome ou à la gravure inver-
+a tank cover that contains a HEPA filter and that is used        sée. (tank)
+to remove any hexavalent chromium compounds remain-              « dispositif de contrôle » Dispositif servant à contrôler les
+ing in the volume of air beneath the closed tank cover at        rejets de composés de chrome hexavalent produits par
+the completion of chromium electroplating, chromium              l’électrodéposition du chrome, l’anodisation au chrome
+anodizing or reverse etching and before the tank cover is        ou la gravure inversée, ou pendant ces activités. (control
+opened. (dispositif d’évacuation)                                device)
+“facility” means a place at which chromium electroplat-          « dispositif d’évacuation » Dispositif fixé au couvercle
+ing, chromium anodizing or reverse etching is per-               d’une cuve, qui est doté d’un filtre HEPA et qui sert à
+formed. (installation)                                           évacuer tout composé de chrome hexavalent resté dans
+                                                                 le volume d’air sous le couvercle fermé à la fin de l’élec-
+
+
+
+
+                                                             1
+                                          SOR/2009-162 — October 6, 2010
+
+
+
+“HEPA filter” means a high-efficiency particulate air fil-        trodéposition du chrome, de l’anodisation au chrome et
+ter. (filtre HEPA)                                                de la gravure inversée, avant l’ouverture du couvercle.
+“hexavalent chromium” means chromium in an oxida-                 (evacuation device)
+tion state of +6. (chrome hexavalent)                             « dscm » Correspond à 1 m3 normalisé d’échantillon de
+“point source” means a stack or vent that is the outlet to        gaz sec, mesuré à 25 °C et à 101,325 kPa. (dscm)
+the environment from the emission collection system               « électrodéposition du chrome » Passage d’un courant
+connected to one or more tanks. (source ponctuelle)               électrique dans une solution contenant un composé de
+“representative operating conditions” means the condi-            chrome hexavalent se trouvant dans une cuve reliée à un
+tions for obtaining an electrical output from a tank’s rec-       redresseur afin de produire une couche de chrome sur la
+tifier while chromium electroplating, chromium anodiz-            surface d’un métal ou d’un autre substrat. (chromium
+ing or reverse etching is taking place that is equal to the       electroplating)
+average of the rectifier’s output for the 30 days of use          « filtre HEPA » Filtre à haute efficacité pour les parti-
+before a release test is performed. (conditions d’exploita-       cules d’air. (HEPA filter)
+tion représentatives)
+                                                                  « gravure inversée » Passage d’un courant électrique dans
+“reverse etching” means the passage of an electric cur-           une solution contenant un composé de chrome hexa-
+rent through a solution containing a hexavalent chromi-           valent se trouvant dans une cuve reliée à un redresseur
+um compound, in a tank connected to a rectifier, in order         afin de produire une gravure sur un métal ou un autre
+to produce an etch on a metal or other substrate. (gra-           substrat. (reverse etching)
+vure inversée)
+                                                                  « installation » Lieu où des activités d’électrodéposition
+“surface tension” means the molecular force, measured             du chrome, d’anodisation au chrome ou de gravure in-
+in dynes per centimetre (dyn/cm), that exists at the inter-       versée sont effectuées. (facility)
+face between the solution containing a hexavalent
+                                                                  « Loi » La Loi canadienne sur la protection de l’environ-
+chromium compound and the air. (tension superficielle)
+                                                                  nement (1999). (Act)
+“tank” means the container in which chromium electro-
+                                                                  « source ponctuelle » Cheminée ou évent qui constitue le
+plating, chromium anodizing or reverse etching is car-
+                                                                  point de rejet dans l’environnement du système de col-
+ried out. (cuve)
+                                                                  lecte des émissions, lequel est relié à au moins une cuve.
+“total chromium” means the sum of hexavalent chromi-              (point source)
+um and all other species of chromium. (chrome total)
+                                                                  « tension superficielle » Force moléculaire, exprimée en
+                                                                  dynes par centimètre (dyn/cm), qui s’exerce à l’interface
+                                                                  entre la solution contenant un composé de chrome hexa-
+                                                                  valent et l’air. (surface tension)
+
+                     APPLICATION                                                CHAMP D’APPLICATION
+   2. These Regulations apply to any person that uses a              2. Le présent règlement s’applique à toute personne
+solution containing a hexavalent chromium compound                qui utilise une solution contenant un composé de chrome
+for chromium electroplating, chromium anodizing or re-            hexavalent pour l’électrodéposition du chrome, l’anodi-
+verse etching in a tank located at a facility where 50 kg         sation au chrome ou la gravure inversée dans une cuve
+or more of chromium trioxide (CrO3) is used per calen-            située dans une installation où une quantité de 50 kg ou
+dar year.                                                         plus de trioxyde de chrome (CrO3) est utilisée par année
+                                                                  civile.
+
+
+
+
+                                                              2
+                                         DORS/2009-162 — 6 octobre 2010
+
+
+
+            GENERAL REQUIREMENTS                                             OBLIGATIONS GÉNÉRALES
+   3. (1) Every person referred to in section 2 must con-           3. (1) La personne visée à l’article 2 contrôle les re-
+trol the release of hexavalent chromium compounds                jets de composés de chrome hexavalent provenant de
+from each tank by one of the following methods:                  chaque cuve en appliquant l’une ou l’autre des méthodes
+  (a) using a point source in accordance with sections 4         suivantes :
+  to 6;                                                            a) l’utilisation d’une source ponctuelle, conformé-
+  (b) limiting the surface tension of the solution in the          ment aux articles 4 à 6;
+  tank in accordance with section 7; or                            b) la limitation de la tension superficielle de la solu-
+  (c) using a tank cover in accordance with sections 8             tion dans la cuve, conformément à l’article 7;
+  to 10.                                                           c) l’utilisation d’un couvercle de cuve, conformément
+                                                                   aux articles 8 à 10.
+  (2) The person must, for each facility, submit a notice           (2) Elle transmet au ministre, pour chaque installa-
+to the Minister indicating, for each tank, the method            tion, un avis indiquant, à l’égard de chaque cuve, la mé-
+used to control the release of hexavalent chromium com-          thode qu’elle applique pour contrôler les rejets de com-
+pounds,                                                          posés de chrome hexavalent :
+  (a) in the case of a facility at which chromium elec-            a) dans le cas d’une installation où des activités
+  troplating, chromium anodizing or reverse etching is             d’électrodéposition du chrome, d’anodisation au
+  carried out on the coming into force of this section,            chrome ou de gravure inversée sont effectuées à la
+  within 30 days after the day on which this section               date d’entrée en vigueur du présent article, dans les
+  comes into force; and                                            trente jours suivant cette date;
+  (b) in any other case, at least 30 days before begin-            b) dans les autres cas, au moins trente jours avant le
+  ning to carry out any of those activities.                       début de l’une ou l’autre de ces activités.
+   (3) If the release of hexavalent chromium compounds              (3) Si les rejets de chrome hexavalent provenant
+from a tank is controlled by limiting the surface tension        d’une cuve sont contrôlés en limitant la tension superfi-
+of the solution, the notice must state whether a tensiome-       cielle de la solution, l’avis précise lequel d’un tensio-
+ter or a stalagmometer is or will be used to measure sur-        mètre ou d’un stalagmomètre est ou sera utilisé pour me-
+face tension.                                                    surer la tension.
+   (4) Every person that intends to change either the               (4) La personne qui prévoit changer soit de méthode
+method of controlling the release of hexavalent chromi-          de contrôle des rejets de composés de chrome hexavalent
+um compounds from a tank or the surface tension mea-             provenant d’une cuve, soit d’instrument de mesure de la
+surement method for a tank must notify the Minister of           tension superficielle pour une cuve en avise le ministre
+that intention at least 30 days before the day on which          au moins trente jours avant la date prévue du change-
+the change is to be implemented.                                 ment.
+
+              USE OF A POINT SOURCE                                 UTILISATION D’UNE SOURCE PONCTUELLE
+
+                       CONDITIONS                                                       CONDITIONS
+  4. (1) Every person that controls the release of hex-            4. (1) Toute personne qui contrôle les rejets de com-
+avalent chromium compounds from a tank by using a                posés de chrome hexavalent provenant d’une cuve selon
+point source
+
+
+
+
+                                                             3
+                                          SOR/2009-162 — October 6, 2010
+
+
+
+  (a) must use a control device in the emission collec-           la méthode de l’utilisation d’une source ponctuelle est
+  tion system; and                                                tenue :
+  (b) subject to subsection (2), must not release more              a) d’une part, de se servir d’un système de collecte
+  than 0.03 mg/dscm of hexavalent chromium, if mea-                 des émissions muni d’un dispositif de contrôle;
+  sured separately, or, in any other case, of total chromi-         b) d’autre part, sous réserve du paragraphe (2), de ne
+  um, from any point source.                                        rejeter de chaque source ponctuelle qu’au plus
+                                                                    0,03 mg/dscm de chrome hexavalent, si celui-ci est
+                                                                    mesuré séparément, ou de chrome total, dans tout
+                                                                    autre cas.
+   (2) If a point source is being used to control the re-            (2) Si une source ponctuelle est utilisée pour contrô-
+lease of hexavalent chromium compounds from a tank                ler les rejets de composés de chrome hexavalent prove-
+located at a facility at which chromium electroplating,           nant d’une cuve située dans une installation où des acti-
+chromium anodizing or reverse etching is carried out on           vités d’électrodéposition du chrome, d’anodisation au
+the day on which this section comes into force, para-             chrome ou de gravure inversée sont effectuées à la date
+graph (1)(b) applies 30 months after that day.                    d’entrée en vigueur du présent article, l’alinéa (1)b) ne
+                                                                  s’applique que trente mois après cette date.
+
+                      RELEASE TEST                                                   ESSAIS SUR LES REJETS
+  5. (1) Subject to subsections (2) and (3), every per-              5. (1) Sous réserve des paragraphes (2) et (3), toute
+son required to comply with paragraphs 4(1)(a) and (b)            personne tenue de se conformer aux alinéas 4(1)a) et b)
+must, at each point source,                                       est tenue, à chaque source ponctuelle :
+  (a) perform a release test establishing compliance                a) de procéder à un essai sur les rejets qui établit la
+  with paragraph 4(1)(b); and                                       conformité à l’alinéa 4(1)b);
+  (b) thereafter, perform a new release test at least ev-           b) par la suite, de procéder à un nouvel essai au
+  ery five years after the day on which the most recent             moins tous les cinq ans après la date où le dernier es-
+  test establishing compliance with paragraph 4(1)(b)               sai établissant la conformité à l’alinéa 4(1)b) a été ef-
+  was performed.                                                    fectué.
+   (2) Subject to subsection (3), if, within 24 months be-           (2) Sous réserve du paragraphe (3), si la personne a
+fore the day on which this section comes into force, the          procédé à un essai sur les rejets dans les vingt-quatre
+person has performed a release test, they may perform a           mois précédant l’entrée en vigueur du présent article,
+new release test every five years after the day on which          elle peut procéder à un nouvel essai tous les cinq ans
+that test was performed if the following conditions are           après la date où cet essai a été effectué, si les conditions
+met:                                                              suivantes sont réunies :
+  (a) the test performed before the coming into force of            a) l’essai réalisé avant l’entrée en vigueur du présent
+  this section was conducted in accordance with subsec-             article a été effectué conformément au paragraphe (4),
+  tion (4) at each point source;                                    à chaque source ponctuelle;
+  (b) the average of three sampling runs from that test             b) la moyenne des trois prélèvements d’échantillon
+  did not exceed 0.03 mg/dscm of hexavalent chromi-                 effectués à chaque source ponctuelle n’a pas dépassé
+  um, if measured separately, or, in any other case, of             0,03 mg/dscm de chrome hexavalent, si celui-ci est
+  total chromium, from any point source; and
+
+
+
+
+                                                              4
+                                          DORS/2009-162 — 6 octobre 2010
+
+
+
+  (c) within 60 days after the coming into force of this            mesuré séparément, ou de chrome total, dans tout
+  section, the person submits to the Minister a report of           autre cas;
+  the results of that test together with the information            c) dans les soixante jours suivant l’entrée en vigueur
+  required under paragraphs 11(1)(b) to (k).                        du présent article, la personne transmet au ministre un
+                                                                    rapport contenant les résultats de l’essai et les rensei-
+                                                                    gnements exigés au titre des alinéas 11(1)b) à k).
+   (3) Every person that performs one of the following               (3) Toute personne qui effectue l’une ou l’autre des
+operations must, within 75 days after completing the op-          opérations ci-après est tenue, dans les soixante-quinze
+eration, perform a release test at each point source estab-       jours suivant la fin de l’opération, de procéder à un essai
+lishing compliance with paragraph 4(1)(b) and there-              sur les rejets qui établit la conformité à l’alinéa 4(1)b) à
+after, perform a new release test at least every five years       chaque source ponctuelle et, par la suite, de procéder à
+after the day on which the most recent test establishing          un nouvel essai au moins tous les cinq ans après la date
+compliance with paragraph 4(1)(b) was performed:                  où le dernier essai établissant la conformité à cet alinéa a
+  (a) replacing a control device;                                 été effectué :
+
+  (b) increasing by more than 25% the total surface                 a) le remplacement d’un dispositif de contrôle;
+  area of the solution in one or more tanks connected to            b) l’augmentation de plus de 25 % de la surface totale
+  a control device;                                                 de la solution dans une ou plusieurs cuves reliées à un
+  (c) installing one or more tanks to increase by more              dispositif de contrôle;
+  than 25% the total surface area of the solution in the            c) l’installation d’une ou de plusieurs cuves pour aug-
+  tanks connected to a control device; or                           menter de plus de 25 % la surface totale de la solution
+  (d) making changes to the ventilation system connect-             dans les cuves reliées à un dispositif de contrôle;
+  ed to a tank that affect the velocity or the flow rate of         d) tout changement au système de ventilation relié
+  the ventilation other than a change that results from             aux cuves ayant un effet sur la vélocité ou le débit de
+  removing or isolating a tank from that system if the              la ventilation, autre que le changement produit par
+  release of hexavalent chromium compounds from that                l’isolement ou le retrait de cuves du système dont les
+  tank is not controlled by using a point source.                   rejets ne sont pas contrôlés par la méthode de l’utilisa-
+                                                                    tion d’une source ponctuelle.
+  (4) The following conditions apply in respect of ev-              (4) Les conditions ci-après s’appliquent à tout essai
+ery release test performed under this section:                    sur les rejets effectué au titre du présent article :
+  (a) the test must be performed under representative               a) l’essai est effectué dans des conditions d’exploita-
+  operating conditions without using dilution air;                  tion représentatives, sans application d’air de dilution;
+  (b) the sampling must                                             b) l’échantillonnage est à la fois :
+     (i) be performed in accordance with generally ac-                 (i) effectué conformément aux normes générale-
+     cepted standards of good scientific practice at the               ment reconnues régissant les bonnes pratiques
+     time of the sampling by a sampler trained to per-                 scientifiques au moment de l’échantillonnage par
+     form release sampling for chromium using a docu-                  un échantillonneur formé pour réaliser l’échan-
+     mented and validated method, and                                  tillonnage d’émissions de chrome, selon une mé-
+                                                                       thode documentée et validée,
+
+
+
+
+                                                              5
+                                         SOR/2009-162 — October 6, 2010
+
+
+
+    (ii) consist of three two-hour sampling runs, each                (ii) composé de trois prélèvements d’échantillon de
+    of which results in a minimum sample volume of                    deux heures, dont chacun produit un échantillon
+    1.7 dscm;                                                         d’un volume minimal de 1,7 dscm;
+  (c) the analysis of the sample from each of the three            c) l’analyse de l’échantillon provenant de chacun des
+  sampling runs must be performed in accordance with               trois prélèvements d’échantillon est effectuée confor-
+  generally accepted standards of good scientific prac-            mément aux normes généralement reconnues régissant
+  tice at the time of the analysis by a laboratory located         les bonnes pratiques scientifiques au moment de
+  in Canada                                                        l’analyse par un laboratoire situé au Canada :
+    (i) that is accredited by a Canadian accrediting                  (i) qui, d’une part, est accrédité par un organisme
+    body under the International Organization for Stan-               d’accréditation canadien selon la norme de l’Orga-
+    dardization standard ISO/IEC 17025: 2005 entitled                 nisation internationale de normalisation ISO/
+    General requirements for the competence of testing                CEI 17025 : 2005, intitulée Exigences générales
+    and calibration laboratories, as amended from time                concernant la compétence des laboratoires d’éta-
+    to time, and                                                      lonnages et d’essais, avec ses modifications succes-
+    (ii) whose accreditation includes the analysis of                 sives,
+    chromium within its scope of testing;                             (ii) dont, d’autre part, l’accréditation prévoit un
+  (d) the analysis of the sample from each of the three               champ d’essai qui couvre l’analyse du chrome;
+  sampling runs must be performed with an analytical               d) l’analyse de l’échantillon provenant de chacun des
+  method whose precision and accuracy are based on a               trois prélèvements d’échantillon est effectuée confor-
+  minimum of seven replicate samples and that has                  mément à une méthode analytique dont la précision et
+    (i) a method detection limit of at least 8 µg/L of             le degré d’exactitude ont été établis selon au moins
+    chromium,                                                      sept subdivisions d’échantillon et qui :
+
+    (ii) a precision of 5% relative standard deviation at             (i) possède un seuil de détection d’au moins 8 µg/L
+    10 times the method detection limit, and                          de chrome,
+
+    (iii) an accuracy of 100% ± 5% based on analyte                   (ii) à dix fois le seuil de détection, a une précision
+    recovery at least 10 times the method detection lim-              fournissant un écart-type relatif de 5 %,
+    it; and                                                           (iii) possède un degré d’exactitude de 100 %, avec
+  (e) the average of three sampling runs must not ex-                 une marge de plus ou moins 5 %, en fonction d’une
+  ceed the chromium release limit prescribed in para-                 récupération d’analyte équivalente à au moins
+  graph 4(1)(b).                                                      dix fois le seuil de détection;
+                                                                   e) la moyenne des trois prélèvements d’échantillon ne
+                                                                   dépasse pas la limite de rejet de chrome précisée à
+                                                                   l’alinéa 4(1)b).
+  (5) Every person that intends to perform a release test           (5) Toute personne qui prévoit procéder à un essai sur
+under this section must notify the Minister at least             les rejets en vertu du présent article en donne un préavis
+30 days before performing the test, specifying the civic         d’au moins trente jours au ministre, dans lequel elle in-
+address of the facility at which and the three-day period        dique l’adresse municipale de l’installation visée et la
+within which the test will be performed.                         période de trois jours au cours de laquelle l’essai doit
+                                                                 avoir lieu.
+
+
+
+
+                                                             6
+                                         DORS/2009-162 — 6 octobre 2010
+
+
+
+   INSPECTION AND MAINTENANCE OF CONTROL DEVICES                    INSPECTION ET ENTRETIEN DES DISPOSITIFS DE CONTRÔLE
+  6. (1) Subject to subsection (3), in relation to each             6. (1) Sous réserve du paragraphe (3), la personne vi-
+control device used, every person referred to in section 4       sée à l’article 4 est tenue, relativement à chaque disposi-
+must prepare and implement an inspection and mainte-             tif de contrôle utilisé, d’élaborer et de mettre en œuvre
+nance plan requiring an inspection at least every three          un plan d’inspection et d’entretien qui prévoit qu’au
+months to verify that                                            moins tous les trois mois il faut vérifier :
+  (a) the control device’s internal and external surfaces          a) si les surfaces internes et externes du dispositif de
+  and its external components, including its control pan-          contrôle et ses composants externes, dont le tableau de
+  el, are free from any fracture or deformation;                   contrôle, sont exempts de fracture ou de déformation;
+  (b) the ductwork between the control device and any              b) si les conduites reliant le dispositif de contrôle à
+  tank does not leak and is not broken;                            une cuve sont étanches et ne sont pas brisées;
+  (c) the filtering media within the control device are            c) si les médias filtrants du dispositif de contrôle ne
+  free of any blockage and there is no buildup that                sont pas obstrués et que rien ne s’y accumule qui
+  would affect the operation of the device; and                    puisse nuire au fonctionnement du dispositif;
+  (d) there are no visible signs of hexavalent chromium            d) s’il n’y a aucun signe visible de composé de
+  compounds at the exit of the control device.                     chrome hexavalent à la sortie du dispositif de
+                                                                   contrôle.
+  (2) In relation to each control device used with a                (2) À l’égard de tout dispositif de contrôle utilisé qui
+composite mesh pad system, the inspection and mainte-            est doté d’un système de tampons multicouches, le plan
+nance plan must also include the following tasks:                d’inspection et d’entretien prévoit aussi les tâches sui-
+  (a) verifying that there is no buildup on the mesh             vantes :
+  pads; and                                                        a) la vérification de l’absence d’accumulation sur les
+  (b) if the mesh pads are not continuously washed,                tampons;
+  washing the mesh pads for at least 20 minutes                    b) s’il s’agit d’un système dont les tampons ne sont
+     (i) if the manufacturer’s recommendations provide             pas lavés de façon continue, un lavage d’au moins
+     for less frequent washing than twice during every             vingt minutes :
+     eight hours of operation, in accordance with the                 (i) dans le cas où les recommandations du fabricant
+     manufacturer’s recommendations, or                               prévoient une fréquence de lavage inférieure à deux
+     (ii) in any other case, at least twice during every              fois au cours de huit heures de fonctionnement,
+     eight hours of operation with an interval of at least            conformément aux recommandations du fabricant,
+     three hours between washes.                                      (ii) dans les autres cas, au moins deux fois au cours
+                                                                      de huit heures de fonctionnement, avec un inter-
+                                                                      valle d’au moins trois heures entre les lavages.
+   (3) If a point source is being used to control the re-           (3) Si une source ponctuelle est utilisée pour contrô-
+lease of hexavalent chromium compounds from a tank               ler les rejets de composés de chrome hexavalent prove-
+located at a facility at which chromium electroplating,          nant d’une cuve située dans une installation où des acti-
+chromium anodizing or reverse etching is carried out on          vités d’électrodéposition du chrome, d’anodisation au
+the day on which this section comes into force, subsec-          chrome ou de gravure inversée sont effectuées à la date
+tion (1) applies 30 months after that day.
+
+
+
+
+                                                             7
+                                           SOR/2009-162 — October 6, 2010
+
+
+
+                                                                   d’entrée en vigueur du présent article, le paragraphe (1)
+                                                                   ne s’applique que trente mois après cette date.
+  (4) Every person implementing the inspection and                   (4) Toute personne qui met en œuvre le plan d’ins-
+maintenance plan must                                              pection et d’entretien est tenue de prendre les mesures
+  (a) if they identify any defect in the course of imple-          suivantes :
+  menting the plan, cease any chromium electroplating,               a) si elle constate un défaut lors de la mise en œuvre
+  chromium anodizing or reverse etching, correct the                 du plan, cesser l’électrodéposition du chrome, l’anodi-
+  defect and verify that the defect has been corrected be-           sation au chrome et la gravure inversée, corriger le dé-
+  fore resuming any of those activities; and                         faut et vérifier s’il a été corrigé avant de reprendre les
+  (b) keep a record that contains the following informa-             activités;
+  tion:                                                              b) tenir un registre dans lequel elle consigne les ren-
+     (i) the date on which each inspection and mainte-               seignements suivants :
+     nance task was performed,                                          (i) les dates auxquelles les inspections et les tra-
+     (ii) a description of each inspection and mainte-                  vaux d’entretien ont été effectués,
+     nance task performed,                                              (ii) une description des inspections et des travaux
+     (iii) the date on which each defect was identified,                d’entretien effectués,
+     and                                                                (iii) les dates auxquelles des défauts ont été consta-
+     (iv) a description of the measures taken to correct                tés,
+     the defect.                                                        (iv) une description des mesures correctives appor-
+                                                                        tées.
+
+         LIMITING THE SURFACE TENSION                                LIMITATION DE LA TENSION SUPERFICIELLE
+   7. (1) Subject to subsection (2), every person that                7. (1) Sous réserve du paragraphe (2), toute personne
+controls the release of hexavalent chromium compounds              qui contrôle les rejets de composés de chrome hexa-
+from a tank by limiting the surface tension of the solu-           valent provenant d’une cuve selon la méthode de limita-
+tion containing a hexavalent chromium compound must                tion de la tension superficielle de la solution contenant le
+maintain that surface tension in the tank at a value of less       composé maintient la tension dans la cuve à une valeur
+than                                                               inférieure à :
+  (a) 35 dyn/cm if the surface tension is measured with              a) 35 dyn/cm, si la tension est mesurée au moyen
+  a tensiometer; or                                                  d’un tensiomètre;
+  (b) 45 dyn/cm if the surface tension is measured with              b) 45 dyn/cm, si elle est mesurée au moyen d’un sta-
+  a stalagmometer.                                                   lagmomètre.
+   (2) If surface tension limiting is being used to control           (2) Si la limitation de la tension superficielle est utili-
+the release of hexavalent chromium compounds from a                sée pour contrôler les rejets de composés de chrome
+tank located at a facility at which chromium electroplat-          hexavalent provenant d’une cuve située dans une instal-
+ing, chromium anodizing or reverse etching is carried              lation où des activités d’électrodéposition du chrome,
+out on the day on which this section comes into force,             d’anodisation au chrome ou de gravure inversée sont ef-
+subsection (1) applies three months after that day.                fectuées à la date d’entrée en vigueur du présent article,
+
+
+
+
+                                                               8
+                                           DORS/2009-162 — 6 octobre 2010
+
+
+
+                                                                le paragraphe (1) ne s’applique que trois mois après cette
+                                                                date.
+  (3) Every person referred to in subsection (1) must              (3) La personne visée au paragraphe (1) est tenue, à
+measure and record, for each tank, the surface tension of       l’égard de chaque cuve, de mesurer et d’enregistrer la
+the solution containing the hexavalent chromium com-            tension superficielle de la solution contenant le composé
+pound once every day during which the tank is used, and         de chrome hexavalent une fois par jour d’utilisation
+the measurements must be taken at least 16 hours apart.         d’une cuve, les mesures devant être effectuées à au
+                                                                moins seize heures d’intervalle.
+  (4) The surface tension must be measured in accor-              (4) La tension superficielle est mesurée :
+dance with                                                        a) conformément à la méthode ASTM D 1331-89 (ré-
+  (a) the ASTM International method ASTM                          approuvée en 2001) intitulée Standard Test Methods
+  D 1331-89 (Reapproved 2001), Standard Test Meth-                for Surface and Interfacial Tension of Solutions of
+  ods for Surface and Interfacial Tension of Solutions of         Surface-Active Agents, de l’ASTM International, sauf
+  Surface-Active Agents, except Method B, as amended              la méthode B, avec ses modifications successives, si
+  from time to time, if measured with a tensiometer; or           un tensiomètre est utilisé;
+  (b) the manufacturer’s instructions, if measured with           b) conformément aux instructions du fabricant, si un
+  a stalagmometer.                                                stalagmomètre est utilisé.
+   (5) If a tank is unused for more than 24 consecutive            (5) Si une cuve est inutilisée pendant plus de vingt-
+hours, every person referred to in subsection (1) must,         quatre heures consécutives, la personne visée au para-
+before resuming chromium electroplating, chromium an-           graphe (1) est tenue, avant la reprise de l’électrodéposi-
+odizing or reverse etching, measure the surface tension         tion du chrome, de l’anodisation au chrome ou de la
+of the solution containing the hexavalent chromium              gravure inversée, d’y mesurer la tension superficielle de
+compound in the tank and, if necessary, reduce the sur-         la solution contenant le composé de chrome hexavalent
+face tension to less than the value prescribed in para-         et, si nécessaire, de la réduire en deçà des valeurs pré-
+graphs (1)(a) or (b), as applicable.                            vues aux alinéas (1)a) ou b), selon le cas.
+
+               USE OF A TANK COVER                                 UTILISATION D’UN COUVERCLE DE CUVE
+
+                        CONDITIONS                                                     CONDITIONS
+   8. Every person that controls the release of hexava-            8. Toute personne qui contrôle les rejets de composés
+lent chromium compounds from a tank by using a tank             de chrome hexavalent provenant d’une cuve selon la mé-
+cover must ensure that the cover is closed while chromi-        thode de l’utilisation d’un couvercle de cuve veille à ce
+um electroplating, chromium anodizing or reverse etch-          que le couvercle soit fermé lors de l’électrodéposition du
+ing is taking place and that the cover has the following        chrome, l’anodisation au chrome ou la gravure inversée
+characteristics:                                                et à ce qu’il ait les caractéristiques suivantes :
+  (a) it completely encloses the open surface area of the         a) il couvre toute la surface de l’ouverture de la cuve;
+  tank;                                                           b) il est muni d’un joint d’étanchéité qui le relie à la
+  (b) it has a seal that joins the cover to the tank;             cuve;
+                                                                  c) il est muni d’une membrane qui est encastrée dans
+                                                                  le couvercle et qui possède une surface minimale de
+
+
+
+
+                                                            9
+                                          SOR/2009-162 — October 6, 2010
+
+
+
+  (c) it has a membrane that is inset in the cover, that            0,28 m2/kA de courant et des pores d’une taille maxi-
+  has a minimum surface area of 0.28 m2/kA of current               male de 1 µm;
+  and that has pore openings not larger than 1 µm; and              d) il est muni d’un dispositif d’évacuation qui est fixé
+  (d) it has an evacuation device that is attached to the           à l’extérieur du couvercle et qui est doté d’un filtre
+  outside of the cover and that has a HEPA filter with              HEPA aux pores d’une taille maximale de 0,1 µm.
+  pore openings not larger than 0.1 µm.
+
+     INSPECTION AND MAINTENANCE OF TANK COVERS                        INSPECTION ET ENTRETIEN DES COUVERCLES DE CUVE
+   9. (1) Subject to subsection (2), every person referred          9. (1) Sous réserve du paragraphe (2), la personne vi-
+to in section 8 must prepare and implement an inspection          sée à l’article 8 élabore et met en œuvre un plan d’ins-
+and maintenance plan that                                         pection et d’entretien qui :
+  (a) is in accordance with the instructions of the manu-           a) est conforme aux instructions fournies par le fabri-
+  facturer of the tank cover; and                                   cant du couvercle de cuve;
+  (b) includes at least the following tasks:                        b) prévoit au moins les tâches suivantes :
+     (i) induction of an external pressure on the mem-                (i) lorsque le couvercle est fermé et que la cuve est
+     brane while the tank cover is closed and the tank is             en marche, l’exercice d’une pression externe sur la
+     in operation to verify that the membrane moves out-              membrane pour vérifier qu’elle bombe vers l’exté-
+     ward, each day that the cover is used,                           rieur, chaque jour où le couvercle est utilisé,
+     (ii) drainage of the air inlet by purging the air                (ii) le drainage de l’entrée d’air en effectuant une
+     valves at the end of each day during which the per-              purge au niveau des valves à la fin de chaque jour
+     son operates the tank or at the end of each plating,             au cours duquel la cuve est utilisée ou à la fin de
+     anodizing or reverse etching cycle and, if the mem-              chaque cycle de déposition, d’anodisation ou de
+     brane does not move inward during the purge, veri-               gravure inversée et, si la membrane ne bombe pas
+     fication of the seal of the tank cover,                          vers l’intérieur au cours de la purge, la vérification
+     (iii) inspection of the access doors and membranes               du joint d’étanchéité du couvercle,
+     at least once per week to determine whether the                  (iii) l’inspection des portes d’accès et des mem-
+     tank cover leaks and whether there are any tears in              branes pour relever la présence de fuites au niveau
+     the membrane,                                                    du couvercle ou de déchirures dans la membrane,
+     (iv) drainage of the evacuation device into the tank             au moins une fois par semaine,
+     at least once per week,                                          (iv) le drainage du dispositif d’évacuation dans la
+     (v) inspection of the membrane for perforations at               cuve, au moins une fois par semaine,
+     least once per month using a light source that illu-             (v) l’inspection de la membrane pour relever la
+     minates the membrane,                                            présence de perforations, à l’aide d’une source lu-
+     (vi) inspection, at least once per month, of all                 mineuse dirigée sur la membrane, au moins une fois
+     clamps that hold the tank cover closed in order to               par mois,
+     verify that they keep the cover closed, and replace-             (vi) l’inspection, au moins une fois par mois, de
+     ment of any defective clamps,                                    tous les dispositifs de fixation qui servent à garder
+     (vii) inspection of all piping to and all piping from            le couvercle fermé pour vérifier leur fonctionne-
+     the evacuation device at least once every three                  ment et le remplacement des dispositifs défectueux,
+
+
+
+
+                                                             10
+                                          DORS/2009-162 — 6 octobre 2010
+
+
+
+     months to verify that there are no leaks and no evi-               (vii) l’inspection de toute la tuyauterie reliée au
+     dence of deterioration, and                                        dispositif d’évacuation pour déceler la présence de
+     (viii) replacement of the HEPA filter on the evacu-                fuites ou de signes de détérioration, au moins une
+     ation device at least once per year.                               fois tous les trois mois,
+                                                                        (viii) le remplacement du filtre HEPA du dispositif
+                                                                        d’évacuation, au moins une fois par année.
+   (2) If a tank cover is being used to control the release           (2) Si un couvercle de cuve est utilisé pour contrôler
+of hexavalent chromium compounds from a tank located               les rejets de composés de chrome hexavalent provenant
+at a facility at which chromium electroplating, chromium           d’une cuve située dans une installation où des activités
+anodizing or reverse etching is carried out on the day on          d’électrodéposition du chrome, d’anodisation au chrome
+which this section comes into force, subsection (1) ap-            ou de gravure inversée sont effectuées à la date d’entrée
+plies six months after that day.                                   en vigueur du présent article, le paragraphe (1) ne s’ap-
+                                                                   plique que six mois après cette date.
+  (3) Every person performing an inspection or mainte-                (3) Toute personne qui effectue une inspection ou un
+nance task under the inspection and maintenance plan               travail d’entretien prévus au plan d’inspection et d’entre-
+must                                                               tien prend les mesures suivantes  :
+  (a) if they identify any defect in the course of the in-           a) si elle constate un défaut lors de l’inspection ou du
+  spection or maintenance task, cease any chromium                   travail d’entretien, cesser l’électrodéposition du
+  electroplating, chromium anodizing or reverse etch-                chrome, l’anodisation au chrome et la gravure inver-
+  ing, correct the defect and verify that the defect has             sée, corriger le défaut et vérifier qu’il est corrigé avant
+  been corrected before resuming any of those activities;            de reprendre les activités;
+  and                                                                b) tenir un registre dans lequel elle consigne les ren-
+  (b) keep a record that contains the following informa-             seignements suivants :
+  tion:
+                                                                        (i) les dates auxquelles les inspections et les tra-
+     (i) the date on which each inspection and mainte-                  vaux d’entretien ont été effectués,
+     nance task was performed,
+                                                                        (ii) une description des inspections et des travaux
+     (ii) a description of each inspection and mainte-                  d’entretien effectués,
+     nance task performed,
+                                                                        (iii) les dates auxquelles des défauts ont été consta-
+     (iii) the date on which each defect was identified,                tés,
+     and
+                                                                        (iv) une description des mesures correctives appor-
+     (iv) a description of the measures taken to correct                tées.
+     the defect.
+   10. (1) Subject to subsection (2), every person re-                10. (1) Sous réserve du paragraphe (2), la personne
+ferred to in section 8 must, before the first use of the           visée à l’article 8 est tenue, avant la première utilisation
+tank cover, and every three months after that, conduct a           du couvercle de cuve et par la suite à tous les trois mois,
+smoke test while the cover is closed to determine                  d’effectuer un essai à la fumée lorsque le couvercle est
+whether it leaks.                                                  en position fermée afin d’en vérifier l’étanchéité.
+   (2) If a tank cover is being used to control the release           (2) Si un couvercle de cuve est utilisé pour contrôler
+of hexavalent chromium compounds from a tank located               les rejets de composés de chrome hexavalent provenant
+
+
+
+
+                                                              11
+                                          SOR/2009-162 — October 6, 2010
+
+
+
+at a facility at which chromium electroplating, chromium           d’une cuve située dans une installation où des activités
+anodizing or reverse etching is carried out on the day on          d’électrodéposition du chrome, d’anodisation au chrome
+which this section comes into force, the person must               ou de gravure inversée sont effectuées à la date d’entrée
+conduct the smoke test no later than six months after that         en vigueur du présent article, la personne effectue l’essai
+day and every three months after that.                             à la fumée au plus tard six mois après cette date et par la
+                                                                   suite à tous les trois mois.
+   (3) The smoke test must be conducted using a smoke                 (3) L’essai à la fumée est effectué au moyen d’un dis-
+test device that generates 15 to 30 m3 of smoke for every          positif d’essai à la fumée qui produit de 15 à 30 m3 de
+2 m2 of tank surface and using a process that allows the           fumée par surface de 2 m2 de la cuve et selon un proces-
+smoke test device to burn completely inside the tank               sus qui permet au dispositif de brûler entièrement à l’in-
+while the tank cover is closed and to fill the space under         térieur de la cuve dont le couvercle est fermé et de rem-
+the cover with smoke.                                              plir l’espace sous le couvercle de fumée.
+   (4) If the smoke test detects a release of smoke from              (4) Si l’essai à la fumée révèle des fuites dans le cou-
+the tank cover, the person must, before using the tank for         vercle de cuve, la personne les répare avant d’utiliser la
+chromium electroplating, chromium anodizing or reverse             cuve pour l’électrodéposition du chrome, l’anodisation
+etching, perform the necessary repairs and repeat the test         au chrome ou la gravure inversée et elle répète l’essai
+until there are no leaks of smoke from the cover.                  jusqu’à ce que la situation soit corrigée.
+   (5) The person must record the dates on which the                  (5) La personne consigne dans un registre les dates
+smoke tests were conducted, the results of those tests,            auxquelles les essais à la fumée ont été effectués et les
+the name of the manufacturer of the smoke test device, a           résultats obtenus, le nom du fabricant du dispositif d’es-
+description of the steps taken in conducting each test and         sai à la fumée, une description des étapes de chaque es-
+the sequence in which those steps were performed and, if           sai ainsi que l’ordre dans lequel ces étapes se sont dérou-
+applicable, the location of any leaks and the measures             lées et, le cas échéant, l’emplacement des fuites et les
+taken to correct any defects.                                      mesures prises pour les réparer.
+
+                      REPORTING                                                           RAPPORTS
+   11. (1) Every person that performed a release test un-              11. (1) Toute personne qui procède à un essai sur les
+der section 5 must, within 75 days after the last sample is        rejets au titre de l’article 5 est tenue, dans les soixante-
+taken for the test, submit to the Minister a report con-           quinze jours suivant le prélèvement du dernier échan-
+taining the following information respecting each point            tillon de l’essai, de transmettre au ministre un rapport
+source and those tanks using the point source control              contenant les renseignements ci-après, pour chaque
+method:                                                            source ponctuelle et à l’égard des cuves dont les rejets
+  (a) the date the sampling was performed, the time at             sont contrôlés par la méthode de l’utilisation d’une
+  which the sampling was started and the time at which             source ponctuelle :
+  it was completed;                                                  a) la date à laquelle l’échantillonnage est effectué et
+  (b) the test results;                                              l’heure du début et de la fin de l’échantillonnage;
+
+  (c) the location on a floor plan of the point source and           b) les résultats de l’essai;
+  of any tanks, control devices and fans that were con-              c) l’emplacement, sur un plan d’étage, de la source
+  nected to the point source at the time the sampling                ponctuelle ainsi que des cuves, des dispositifs de
+  was performed;                                                     contrôle et des ventilateurs qui étaient rattachés à cette
+                                                                     source au moment où l’échantillonnage a été effectué;
+
+
+
+                                                              12
+                                          DORS/2009-162 — 6 octobre 2010
+
+
+
+  (d) the test method used;                                           d) la méthode d’essai appliquée;
+  (e) in respect of tanks connected to the point source at            e) à l’égard des cuves rattachées à cette source au mo-
+  the time of the sampling, the number of tanks in use                ment de l’échantillonnage, le nombre de cuves qui
+  and the number of tanks that were not in use, if any;               étaient en usage et, le cas échéant, le nombre de cuves
+  (f) a description of the ventilation system for each                qui ne l’étaient pas;
+  tank in use and connected to the point source at the                f) une description du système de ventilation de
+  time the sampling was performed;                                    chaque cuve en usage et rattachée à cette source au
+  (g) the respective diameters of the ducts linking each              moment où l’échantillonnage a été effectué;
+  tank in use to a control device at the time the sampling            g) le diamètre respectif des conduits reliant chacune
+  was performed;                                                      des cuves en usage à un dispositif de contrôle au mo-
+  (h) the electrical output setting for each tank’s rectifi-          ment où l’échantillonnage a été effectué;
+  er at the time the sampling was performed;                          h) l’intensité électrique à laquelle est réglé le redres-
+  (i) if a stack was used at the time the sampling was                seur de chaque cuve au moment où l’échantillonnage
+  performed, the dimensions of the stack, the diameter                a été effectué;
+  and location of each sampling port in relation to the               i) si une cheminée a été utilisée au moment où
+  point of release from the stack and, if an extension                l’échantillonnage a été effectué, ses dimensions, ainsi
+  was required to conduct the three sampling runs of the              que le diamètre et l’emplacement, par rapport au point
+  test, the type of extension, its dimensions and the lo-             de rejet de la cheminée, de chaque point d’échantillon-
+  cation on the extension of each sampling port;                      nage et, si une rallonge a été nécessaire pour effectuer
+  (j) the dimensions, type and the name of the manufac-               les trois prélèvements d’échantillon de l’essai, le type
+  turer of each control device in use at the time the sam-            et les dimensions de la rallonge, ainsi que l’emplace-
+  pling was performed and the model and the name of                   ment sur celle-ci de chaque point d’échantillonnage;
+  the manufacturer of each control device fan in use at               j) les dimensions, le type et le nom du fabricant de
+  the time the sampling was performed and its rated ca-               chaque dispositif de contrôle utilisé au moment de
+  pacity as established by its manufacturer; and                      l’échantillonnage, ainsi que le modèle de ventilateur
+  (k) the concentration, in mg/dscm, of hexavalent                    utilisé en conjonction avec chaque dispositif de
+  chromium, if measured separately, or, in any other                  contrôle, le nom du fabricant et la capacité nominale
+  case, of total chromium, released during each of the                attribuée au ventilateur par celui-ci;
+  three sampling runs required and the average concen-                k) la concentration, en mg/dscm, de chrome hexa-
+  tration calculated for those runs.                                  valent, dans le cas où celui-ci est mesuré séparément,
+                                                                      ou, dans tout autre cas, de chrome total, rejeté au
+                                                                      cours de chacun des trois prélèvements d’échantillon
+                                                                      nécessaires, ainsi que la concentration moyenne calcu-
+                                                                      lée pour ces prélèvements.
+   (2) Every person referred to in section 7 must submit               (2) Au plus tard le 31 juillet de chaque année, toute
+to the Minister, no later than July 31 of every calendar            personne visée à l’article 7 transmet au ministre un rap-
+year, a report setting out the surface tension recorded             port établissant les tensions superficielles enregistrées du
+from January 1 to June 30 of the year in question, and              1er janvier au 30 juin de l’année civile en cause. Au plus
+must submit, no later than January 31 of the next calen-            tard le 31 janvier suivant, la personne transmet au mi-
+dar year, a report setting out the surface tension recorded         nistre un rapport établissant les tensions superficielles
+
+
+
+
+                                                               13
+                                           SOR/2009-162 — October 6, 2010
+
+
+
+from July 1 to December 31 of the preceding calendar                enregistrées du 1er juillet au 31 décembre de l’année ci-
+year.                                                               vile précédente.
+   (3) For the year in which this section comes into                   (3) L’année où le présent article entre en vigueur, un
+force, only one report must be submitted, setting out the           seul rapport établissant les tensions superficielles enre-
+surface tension recorded during the remainder of that               gistrées pour la période qui débute à la date d’entrée en
+year, no later than January 31 of the year following the            vigueur de l’article et qui se termine au 31 décembre sui-
+year this section comes into force.                                 vant doit être transmis au plus tard le 31 janvier de l’an-
+                                                                    née suivant celle de l’entrée en vigueur.
+   (4) The reports required under this section must be in             (4) Les rapports exigés aux termes du présent article
+a form determined by the Minister.                                  sont en la forme établie par le ministre.
+  12. For the purposes of paragraph 95(1)(a) of the Act,              12. Pour l’application de l’alinéa 95(1)a) de la Loi, en
+where there occurs or is a likelihood of a release into the         cas de rejet dans l’environnement — effectif ou probable
+environment of a hexavalent chromium compound in                    — d’un composé de chrome hexavalent en violation du
+contravention of these Regulations, the written report              présent règlement, le rapport écrit comporte les rensei-
+must contain the following information:                             gnements suivants :
+  (a) the name, civic address and telephone number of                 a) les nom, adresse municipale et numéro de télé-
+  the person submitting the report;                                   phone de la personne qui transmet le rapport;
+  (b) the civic address of the facility where the release             b) l’adresse municipale de l’installation où le rejet a
+  occurred or is likely to occur;                                     eu lieu ou pourrait avoir lieu;
+  (c) in the case of a release, the date, time, duration              c) s’il s’agit d’un rejet effectif, les date, heure et du-
+  and exact location of the release;                                  rée du rejet, ainsi que l’endroit exact où il s’est pro-
+  (d) in the case of the likelihood of a release, the date,           duit;
+  time and location where the release is likely to occur;             d) s’il s’agit d’un rejet probable, les date, heure et en-
+  (e) the estimated quantity of hexavalent chromium                   droit où le rejet pourrait avoir lieu;
+  compound that was released or is likely to be released;             e) la quantité approximative de composé de chrome
+  (f) a description of the circumstances leading to the               hexavalent qui a été ou pourrait être rejetée;
+  release or likely release, including identification of its          f) les circonstances ayant mené au rejet ou qui pour-
+  cause, if known, and any corrective action taken;                   raient mener à un rejet, notamment sa cause, si elle est
+  (g) a description of measures taken to remedy, reduce               connue et les mesures correctives prises;
+  or mitigate any danger that results from the release or             g) une description des mesures prises pour supprimer
+  that may reasonably be expected to result if the release            ou atténuer le danger résultant ou pouvant résulter du
+  were to occur; and                                                  rejet probable, ou pour y remédier;
+  (h) the identification of all persons and agencies noti-            h) le nom des personnes et organismes qui ont été
+  fied as a result of the release or likely release.                  avisés du rejet effectif ou probable.
+  13. (1) Any notice or report submitted to the Minister              13. (1) Tout avis ou rapport transmis au ministre en
+under these Regulations must be dated and signed                    application du présent règlement doit être daté et signé :
+  (a) in the case of a corporation, by a person autho-                a) dans le cas d’une société, par une personne qui y
+  rized to do so; and                                                 est autorisée;
+
+
+
+
+                                                               14
+                                          DORS/2009-162 — 6 octobre 2010
+
+
+
+  (b) in any other case, by the person submitting the no-             b) dans tout autre cas, par la personne qui transmet
+  tice or report or by a person authorized to act on their            l’avis ou le rapport ou par une personne autorisée à la
+  behalf.                                                             représenter.
+   (2) The person submitting the notice or report must                (2) La personne qui transmet l’avis ou le rapport y
+include the following information:                                  consigne les renseignements suivants :
+  (a) their telephone number and fax number, if any, in-              a) ses numéros de téléphone et, le cas échéant, de té-
+  cluding the area code;                                              lécopieur, y compris les indicatifs régionaux;
+  (b) their e-mail address, if any;                                   b) le cas échéant, son adresse électronique;
+  (c) the name of the owner or operator of the chromi-                c) le nom du propriétaire ou de l’exploitant du maté-
+  um electroplating, chromium anodizing or reverse                    riel d’électrodéposition du chrome, d’anodisation au
+  etching equipment;                                                  chrome ou de gravure inversée;
+  (d) the civic address at which the equipment is locat-              d) l’adresse municipale du lieu où se trouve le maté-
+  ed;                                                                 riel;
+  (e) the postal address, if different from the civic ad-             e) l’adresse postale du lieu où se trouve le matériel, si
+  dress; and                                                          elle diffère de l’adresse municipale;
+  (f) the name and title of the person who signed the                 f) les nom, fonction et, le cas échéant, adresse électro-
+  notice or report and their e-mail address, if any.                  nique du signataire de l’avis ou du rapport.
+
+                  RECORD KEEPING                                                           REGISTRES
+   14. (1) The owner or operator of chromium electro-                  14. (1) Le propriétaire ou l’exploitant du matériel
+plating, chromium anodizing or reverse etching equip-               d’électrodéposition du chrome, d’anodisation au chrome
+ment must keep all records, reports, inspection and                 ou de gravure inversée conserve, à l’installation où se
+maintenance plans, floor plans depicting the location of            trouve le matériel ou en tout autre lieu au Canada dont le
+tanks and, if applicable, the location of control devices           ministre a été avisé et où les documents peuvent être
+and fans, test results and other information required by            examinés, tous les registres, rapports, plans d’inspection
+these Regulations at the facility where that equipment is           et d’entretien, plans d’étage indiquant l’emplacement des
+located or, on notification to the Minister, at any other           cuves et, le cas échéant, des dispositifs de contrôle et des
+place in Canada where the documents can be inspected                ventilateurs, résultats d’essais et autres renseignements
+for a period of at least five years beginning on the date           exigés par le présent règlement pendant au moins cinq
+of their creation.                                                  ans à compter de la date de leur création.
+   (2) The person submitting the notice must specify the               (2) La personne qui transmet au ministre un avis
+civic address at which the records, reports, plans, test re-        d’autre lieu précise dans l’avis l’adresse municipale où
+sults and other information can be inspected and identify           les registres, rapports, plans, résultats d’essais et autres
+each facility to which each of those records, reports,              renseignements peuvent être examinés ainsi que l’instal-
+plans, test results and other information pertains.                 lation à laquelle ils se rapportent.
+
+                COMING INTO FORCE                                                   ENTRÉE EN VIGUEUR
+  15. (1) Subject to subsection (2), these Regulations                 15. (1) Sous réserve du paragraphe (2), le présent rè-
+come into force 30 days after the day on which they are             glement entre en vigueur trente jours après la date de son
+registered.                                                         enregistrement.
+
+
+
+
+                                                               15
+                                         SOR/2009-162 — October 6, 2010
+
+
+
+   (2) The definitions “chromium anodizing”, “chromi-               (2) Les définitions de « anodisation au chrome »,
+um electroplating”, “representative operating condi-             « conditions d’exploitation représentatives », « cuve »,
+tions”, “reverse etching” and “tank” in section 1 come           « électrodéposition du chrome » et « gravure inversée », à
+into force on the day on which these Regulations are reg-        l’article 1, entrent en vigueur à la date d’enregistrement
+istered.                                                         du présent règlement.
+
+
+
+
+                                                            16
+

@@ -1,0 +1,102 @@
+Agriculture, Pêche et Aquaculture *Department of Agriculture and Aquaculture* *
+*Home | *
+www.gnb.ca/0027/index-e.asp> *Français* <0173300012-f.asp>* New Brunswick's
+Provincial Flower: The Violet (Viola cucullata) New Brunswick's Provincial
+Bird: The Chickadee (Parus atricapillus) * Terrace* *1.0* *DEFINITION* Terraces
+are earth embankments, channels or combination of embankment and channels
+constructed across the slope to reduce the slope length at suitable spacing and
+with acceptable grades for one or more of the following purposes: * To reduce
+soil erosion by water * To provide for maximum retention of moisture for crop
+use * To remove surface water at a non-erosive velocity * To improve
+topographic conditions and farmability * To reduce sediment content in runoff
+water * To reduce peak runoff rates to installations downstream * To improve
+water quality *2.0* *GENERAL* 2.1 All terrace system design and construction
+shall be in accordance with the American Society of Agricultural Engineers
+Engineering Practice - ASAE S268.3 - Design, Layout, Construction and
+Maintenance of Terrace Systems and as specified in the following. 2.2 The NB
+Department of Environment Watercourse Alteration Regulations and Guidelines
+will apply to all projects including Regulation 90-80 and 90-120 under the
+Clean Water Act as revised in 1993. 2.3 To adequately control erosion on
+sloping land terraces are used in conjunction with other water control systems,
+such as: grassed waterways, underground outlets, drop structures, and sediment
+control basins. Complementary conservation practices are usually recommended in
+conjunction with terrace systems such as: contour farming, crop rotation,
+contour strip cropping, conservation tillage, residue management and good soil
+management. 2.4 The most common type of terrace system used in New Brunswick is
+the Parallel Variable Grade Diversion Terrace (PVGDT) system. This system
+concept was adapted to New Brunswick and is very similar to the narrow-base-
+terrace recommended in the ASAE standard: ASAE S268.3. Design, layout,
+construction and maintenance of terrace systems are also in accordance with
+Chapter 8, "Terraces" of the USDA-SCS, Engineering Field Manual Handbook for
+Conservation Practices. 2.5 Parallel Bench Terraces (PBT) and Parallel Rigeless
+Diversion Terraces (PRDT) are constructed occasionally where conditions apply.
+PRDT's may be used on uniform slopes (<6%) and for short lengths. These types
+of terrace systems are also combined with grassed or rock-lined waterway
+outlets, or specially designed pipe outlets. *3.0* *SPACING* 3.1 Terraces shall
+be constructed at recommended spacing using the Universal Soil Loss Equation
+(USLE) to meet acceptable soil loss tolerance levels which were set for New
+Brunswick at a maximum of 9t/ha/yr (4 t/ac/yr). 3.2 Terrace spacing design
+shall consider the soil - crop management and conservation practices used by
+the landowner. Where no comprehensive crop management exists, use the most
+intensive land use rotation for spacing design. 3.3 Terraces shall not be
+constructed at a spacing less than 36 meters (40 rows - 36" per row). 3.4 Final
+spacing must be adjusted to multiples of present and expected future row crop
+equipment widths (i.e. 4-row planter, 20-row sprayer). Ideally, spacing should
+allow for an even number of passes of each piece of equipment. *4.0*
+*ALIGNMENT* 4.1 Terrace system alignment shall be planned for compatibility
+with modern farm equipment and beneficial to soil and water conservation. The
+design must consider the natural features, permanent boundaries, runoff
+disposal outlets, and location of auxiliary factors, such as fences, and field
+roads. 4.2 The farmable row lengths in a terrace system shall be a minimum of
+200 meters to maintain a high efficiency of machinery operation. 4.3 Diversion
+terraces shall be parallel to each other. Curves should be long and gentle to
+accommodate farm machinery. Land forming, necessary cuts and fills and
+variations in grade shall be used to maintain proper alignment and a parallel
+system. *5.0* *CHANNEL GRADE * 5.1 Channel grades shall range from 0.5% to 2%
+for the key-diversion terrace line in the terrace system. The slope may be
+increased up to 3% for a length less than 75 m (250 ft) when required to
+improve alignment and farmability. *6.0* *CAPACITY & CROSS SECTION * 6.1 The
+diversion terrace shall have enough capacity to control runoff from a 1 in 10
+year frequency, 24-hour storm without overl topping Terrace systems designed
+for sediment or flood control shall have enough capacity to control a storm of
+higher frequency consistent with the potential hazard involved. The S.C.S. -
+E.F.M.H. method, or any equivalent method, is recommended for designing
+capacity and cross-section. 6.2 The design discharge used to determine the
+terrace capacity shall be calculated using the USDA-SCS EFM2 method or the TR55
+method. 6.3 PVGDT's shall have a minimum freeboard of 0.3 meter and PRDT's a
+minimum freeboard of 0.1 meter to prevent over topping 6.4 Terrace cross-
+sections shall be as shown in figures 1 and 2. Terrace width shall range from 4
+to 8 metres; width may be adjusted for slippage and other topographic
+conditions to improve farmability. *7.0* *PLANNING SYSTEM LAYOUT * 7.1 Terrace
+systems should be planned with the aid of a topographic survey used to generate
+a topographic contour map with maximum 1.0 meter contours. If a survey cannot
+be completed topographic maps at scales 1:1000, 1:1200, or 1:2400 shall be used
+to determine the optimum system layout. The recommended contour interval for
+design purposes will vary from 0.5 to 1.0 meter. If topographic maps at these
+scales are not available the minimum scale to be used shall be 1:4800 or better
+for general layout pattern. *8.0* *CONSTRUCTION AND MAINTENANCE * 8.1 Terraces
+shall be properly limed, fertilized and seeded with a conservation grass
+mixture and maintained with a permanent, weed-free sod. 8.2 Terrace outlets
+shall be protected with an erosion control mat where required to prevent damage
+to the terrace channel. 8.3 Topsoil shall be saved during construction and
+placed over the terrace in the final construction phase to facilitate good
+grass growth/sod cover. 8.4 Terraces shall be properly compacted at low,
+critical areas to prevent breaching and erosion of berm. *9.0* *PROJECT
+COMPLETION * 9.1 Upon notification of project completion, the project engineer
+or designate will carry out final inspection and report of the conservation
+site. 9.2 Terrace projects will only be consider complete if they meet these
+standards and work is suitable to the project engineer or designate. *10.0*
+*REFERENCES* 10.1 The Atlantic Committee on Agricultural Engineering (A.C.A.E.)
+Publication No. 26, 1992 - Integrated Erosion Control on Potato Land in
+Atlantic Canada contains additional information on rationale, methods and
+equipment and should be referred to prior to commencing a terracing project.
+10.1 Watercourse Alteration Guidelines issued by the N.B. Department of
+Environment. *The New Brunswick Department of Agriculture, Fisheries and
+Aquaculture reserves the right to revise the above standard at any time.* *Fig.
+1 & 2. Typical Diversion Terrace Cross Sections* ------------------------------
+------------------------------------------ ** Agriculture and Aquaculture E-
+mail
+www.gnb.ca/0027/sendmail-e.asp> | Contacts
+www2.gnb.ca/content/gnb/en/contacts/dept_renderer.137.html> | ** *Disclaimer
+www2.gnb.ca/content/gnb/en/admin/disclaimer.html>* | *Privacy Statement
+www2.gnb.ca/content/gnb/en/admin/privacy.html>*

@@ -1,0 +1,521 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+    Chlor-Alkali Mercury                                         Règlement sur le mercure
+       Liquid Effluent                                           des effluents de fabriques
+        Regulations                                                       de chlore
+
+                      C.R.C., c. 811                                                    C.R.C., ch. 811
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published             31. (1) Every copy of a consolidated statute or            31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies      (3) In the event of an inconsistency between a              (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+CHAPTER 811                                                        CHAPITRE 811
+
+FISHERIES ACT                                                      LOI SUR LES PÊCHES
+
+Chlor-Alkali Mercury Liquid Effluent Regulations                   Règlement sur le mercure des effluents de fabriques
+                                                                   de chlore
+REGULATIONS  RESPECTING    DELETERIOUS                             RÈGLEMENT CONCERNANT LES SUBSTANCES
+   SUBSTANCES IN LIQUID EFFLUENTS FROM                                NOCIVES PRÉSENTES DANS LES EFFLUENTS
+   CHLOR-ALKALI PLANTS                                                DES FABRIQUES DE CHLORE
+
+                     SHORT TITLE                                                       TITRE ABRÉGÉ
+ 1. These Regulations may be cited as the Chlor-Alkali               1. Le présent règlement peut être cité sous le titre :
+Mercury Liquid Effluent Regulations.                               Règlement sur le mercure des effluents de fabriques de
+                                                                   chlore.
+
+                  INTERPRETATION                                                     INTERPRÉTATION
+  2. (1) In these Regulations,                                       2. (1) Dans le présent règlement,
+“Act” means the Fisheries Act; (Loi)                               « eaux pluviales » désigne les eaux de ruissellement pro-
+“composite sample” means a sample obtained in accor-               venant des précipitations de toute sorte qui tombent sur
+dance with section 7; (échantillon composite)                      une fabrique, la traversent ou y circulent, y compris les
+                                                                   eaux souterraines en provenant, qui peuvent entrer en
+“day” means any period of 24 consecutive hours; (jour)             contact avec des eaux fréquentées par le poisson; (storm
+“deposit” means to deposit or permit the deposit into wa-          water)
+ter frequented by fish; (rejeter)                                  « échantillon composite » désigne un échantillon obtenu
+“effluent” means any water or waters discharged from a             en vertu de l’article 7; (composite sample)
+plant, storm water, run-off and seepage from land used             « effluent » Les eaux rejetées par une fabrique, les eaux
+for the deposit of wastewater and sludges associated               pluviales, les eaux de ruissellement et les eaux d’infiltra-
+with the operation of a plant, but does not include                tion provenant de terrains où sont rejetées les eaux usées
+  (a) storm water that is protected from contamination             et les boues liées à l’exploitation de la fabrique. Sont ex-
+  by mercury that originates from the plant, where the             clues de la présente définition :
+  average concentration of mercury in at least 3 samples             a) les eaux pluviales protégées de la contamination
+  of the storm water, taken at intervals of 15 minutes,              par le mercure provenant de la fabrique et dont la
+  does not exceed 0.5 µg/L, or                                       concentration moyenne en mercure dans au moins 3
+  (b) wastewater from the plant that, prior to being de-             échantillons de ces eaux, prélevés à intervalles de 15
+  posited, is treated at a site outside a plant for the pur-         minutes, ne dépasse pas 0,5 µg/L;
+  pose of removing mercury from it, in such a manner                 b) les eaux usées provenant de la fabrique qui, avant
+  that the quantity of mercury remaining in that wastew-             d’être rejetées, sont traitées à l’extérieur d’une fa-
+  ater after treatment, when added to the quantity of                brique afin d’en extraire le mercure, de manière que la
+  mercury deposited directly, does not exceed the de-                quantité de mercure restant dans les eaux usées après
+  posit authorized under section 5; (effluent)                       traitement, lorsqu’elle est ajoutée à la quantité de mer-
+“mercury” means elemental mercury and all chemical                   cure rejetée directement, ne dépasse pas le rejet autori-
+forms thereof; (mercure)                                             sé en vertu de l’article 5. (effluent)
+
+
+
+                                                               1
+                                          C.R.C., c. 811 — October 6, 2010
+
+
+
+
+“Minister” [Repealed, SOR/95-427, s. 1]                           « fabrique » désigne des installations conçues ou exploi-
+“owner” of a plant means the owner or operator or his             tées en vue de la production de chlore et d’hydroxydes
+authorized representative; (propriétaire)                         alcalins par un procédé industriel comportant l’électro-
+                                                                  lyse d’une saumure de chlorure alcalin à l’aide d’une
+“plant” means facilities designed or operated for the pro-        cellule à mercure, et tout appareillage auxiliaire utilisé
+duction of chlorine and alkali metal hydroxide by means           pour la concentration de tels hydroxydes, ainsi que tous
+of any industrial process involving the electrolysis of an        les terrains et tout le matériel utilisés pour leur exploita-
+alkali metal chloride brine using a mercury cell, and any         tion; (plant)
+ancillary equipment that is used for the further concen-
+tration of the alkali metal hydroxide produced by the             « jour » désigne 24 heures consécutives; (day)
+mercury cell and includes all properties used for the op-         « Loi » désigne la Loi sur les pêcheries; (Act)
+eration of those facilities; (fabrique)                           « mercure » désigne le mercure élémentaire sous toutes
+“rated capacity” means the maximum daily design ca-               ses formes chimiques; (mercury)
+pacity of a plant as specified by the manufacturer;               « ministre » [Abrogée, DORS/95-427, art. 1]
+(rythme de production théorique)
+                                                                  « propriétaire » désigne le propriétaire ou l’exploitant
+“reference production rate” means the quantity of chlo-           d’une fabrique ou son représentant autorisé; (owner)
+rine, expressed in tonnes per day, determined to be the
+reference production rate of that plant in accordance             « rejeter » désigne rejeter ou permettre le rejet dans des
+with section 8; (rythme de production)                            eaux fréquentées par le poisson; (deposit)
+
+“storm water” means, subject to subsection (2), water             « rythme de production » désigne la quantité de chlore,
+run-off resulting from precipitation of any kind that falls       en tonnes métriques par jour, produite par une fabrique;
+on a plant or that passes over or through a plant and in-         (reference production rate)
+cludes groundwater from within a plant that may reach             « rythme de production théorique », désigne le potentiel
+waters frequented by fish. (eaux pluviales)                       de production journalière maximum d’une fabrique, in-
+                                                                  diqué par le constructeur. (rated capacity)
+   (2) and (3) [Repealed, SOR/95-427, s. 1]                          (2) et (3) [Abrogés, DORS/95-427, art. 1]
+SOR/95-427, s. 1.                                                 DORS/95-427, art. 1.
+
+                     APPLICATION                                                         APPLICATION
+   3. These Regulations apply to every plant.                        3. Le présent règlement s’applique à chaque fabrique.
+
+   SUBSTANCE PRESCRIBED AS DELETERIOUS                              SUBSTANCE DÉSIGNÉE COMME SUBSTANCE
+               SUBSTANCE                                                          NOCIVE
+   4. For the purpose of the definition “deleterious sub-            4. Pour l’application de la définition de « substance
+stance” in subsection 34(1) of the Act, mercury resulting         nocive », au paragraphe 34(1) de la Loi, le mercure attri-
+from the operations or processes of a plant is hereby pre-        buable à l’exploitation ou aux procédés d’une fabrique
+scribed as a deleterious substance.                               est désigné comme substance nocive.
+SOR/95-427, s. 2.                                                 DORS/95-427, art. 2.
+
+
+
+
+                                                              2
+                                          C.R.C., ch. 811 — 6 octobre 2010
+
+
+
+
+    AUTHORIZED DEPOSIT OF DELETERIOUS                               REJET AUTORISÉ DE SUBSTANCE NOCIVE
+               SUBSTANCE
+   5. Subject to these Regulations, the owner of a plant           5. Le propriétaire peut rejeter un effluent contenant
+may deposit mercury contained in effluent if the actual          du mercure, à condition que le rejet journalier réel de
+deposit of mercury in any day does not exceed 0.00250            mercure ne dépasse pas 0,00250 kilogramme par tonne
+kilogram per tonne of chlorine times the reference pro-          métrique de chlore produit multiplié par le rythme de
+duction rate of that plant.                                      production.
+
+ADDITIONAL CONDITIONS OF AUTHORIZATION                                      ÉCHANTILLONNAGE REQUIS
+   6. (1) The owner of a plant shall, for each type of ef-          6. (1) Pour chaque type d’effluent rejeté par une fa-
+fluent deposited by the plant,                                   brique, le propriétaire
+  (a) install and maintain facilities, including sampling          a) installe et entretient des appareils d’échantillon-
+  connections and flow measuring devices, of such type             nage et d’analyse des effluents, y compris des rac-
+  as the Minister may approve in writing for sampling              cords d’échantillonnage et des débitmètres, du type
+  and analysing the effluent for the purpose of enabling           approuvé par écrit par le ministre et permettant à ce
+  the Minister to determine whether the owner is com-              dernier de juger si les limites visées à l’article 5 sont
+  plying with the limits of the authorized deposits pre-           respectées;
+  scribed by section 5;                                            b) y prélève, chaque jour, des échantillons compo-
+  (b) take a composite sample each day;                            sites;
+  (c) analyse the sample referred to in paragraph (b) in           c) analyse l’échantillon mentionné à l’alinéa b) selon
+  accordance with section 9;                                       l’article 9;
+  (d) accurately and continuously measure and record               d) en mesure avec exactitude et en continu le débit et
+  the flow each day;                                               l’enregistre chaque jour;
+  (e) retain the records of measurements made under                e) tient des registres de ces mesures prises en vertu de
+  paragraph (d) for a period of 12 months; and                     l’alinéa d) et les conserve pendant 12 mois; et
+  (f) calculate each day the actual deposit of mercury as          f) calcule chaque jour le rejet réel de mercure selon
+  prescribed by section 10.                                        l’article 10.
+   (2) The owner of a plant shall, where mercury in ef-             (2) Lorsque l’effluent contenant du mercure est rejeté
+fluent is discharged into any place under any conditions         dans un endroit et dans des conditions où le mercure
+where such mercury may be deposited by seepage or any            peut, par infiltration ou autrement, parvenir à des eaux
+other means, and where a composite sample from the               fréquentées par le poisson, et lorsqu’un échantillon com-
+place cannot be obtained and the flow of the effluent            posite des eaux sortant de cet endroit ne peut être obtenu
+from the place cannot be measured                                et que leur débit ne peut y être mesuré, le propriétaire
+  (a) take a composite sample of the effluent dis-                 a) prélève, chaque jour, un échantillon composite de
+  charged into the place each day;                                 l’effluent rejeté en cet endroit;
+  (b) analyse the sample referred to in paragraph (a) in           b) analyse l’échantillon mentionné à l’alinéa a) selon
+  accordance with section 9;                                       l’article 9;
+
+
+
+
+                                                             3
+                                          C.R.C., c. 811 — October 6, 2010
+
+
+
+
+  (c) accurately and continuously measure and record                c) en mesure avec exactitude et en continu le débit et
+  the flow of the effluent discharged into the place each           l’enregistre chaque jour;
+  day;                                                              d) tient des registres des mesures prises en vertu de
+  (d) retain the records of measurements made under                 l’alinéa c) et les conserve pendant 12 mois; et
+  paragraph (c) for a period of 12 months; and                      e) calcule chaque jour la quantité de mercure rejeté en
+  (e) calculate each day the amount of mercury dis-                 cet endroit et utilise cette quantité dans tous les cal-
+  charged into the place and include the amount in any              culs effectués selon l’alinéa (1)f).
+  calculations made pursuant to paragraph (1)(f).
+   (3) The owner of a plant shall, within 30 days after              (3) Dans les 30 jours de la fin de chaque mois, le pro-
+the end of each month, send to the Minister the informa-          priétaire fait parvenir au ministre les renseignements vi-
+tion required by Schedules I and II, in the forms set out         sés aux annexes I et II, selon la forme qui y est établie ou
+in those Schedules or in such other form as the Minister          celle approuvée par écrit par le ministre.
+may approve in writing.
+
+       METHOD OF COLLECTING SAMPLES                                        FRÉQUENCE DES ÉCHANTILLONS
+   7. A composite sample shall be obtained by collecting            7. L’échantillon composite est prélevé
+effluent discharged from a plant during a day                       a) à des intervalles ne dépassant pas 10 minutes et à
+  (a) at intervals not longer than 10 minutes and at a              un débit proportionnel à celui de l’effluent rejeté; ou
+  rate in proportion to the flow rate of the effluent dis-          b) de telle sorte que des volumes égaux d’effluent
+  charged; or                                                       soient recueillis dans un récipient à des intervalles de
+  (b) in such a manner that equal volumes of effluent               temps égaux ne dépassant pas 10 minutes.
+  are delivered into a receptacle at equal intervals not
+  longer than 10 minutes.
+
+         REFERENCE PRODUCTION RATE                                DÉTERMINATION DU RYTHME DE PRODUCTION
+                                                                              DE LA FABRIQUE
+  8. (1) For the purposes of section 5, the reference                8. (1) Pour chaque mois, aux fins de l’article 5, le
+production rate of a plant during any month is                    rythme de production d’une fabrique est équivalent
+  (a) the rated capacity of the plant where                         a) au rythme de production théorique
+    (i) the arithmetic mean of the actual daily produc-                (i) lorsque la différence entre ce dernier et la
+    tion rate of chlorine during the previous three                    moyenne arithmétique du rythme journalier réel de
+    months, excluding days on which there was no pro-                  production de chlore des trois mois précédents, cal-
+    duction, deviated from the rated capacity of the                   culée en excluant les jours de non-production, est
+    plant by less than 15 per cent,                                    moindre que 15 pour cent,
+    (ii) the plant was shut down for all of the previous               (ii) lorsque la fabrique est fermée pendant les trois
+    three months, or                                                   mois précédents, ou
+    (iii) the plant is in its first 12 months of operation;            (iii) lorsque la fabrique en est dans ses 12 premiers
+    and                                                                mois d’exploitation; et
+
+
+
+
+                                                              4
+                                           C.R.C., ch. 811 — 6 octobre 2010
+
+
+
+
+  (b) where none of the conditions of subparagraphs                  b) lorsqu’aucune des conditions des sous-alinéas a)(i)
+  (a)(i) to (iii) are applicable, the arithmetic mean of the         à (iii) sont applicables, la moyenne arithmétique du
+  actual daily production rate of chlorine during the pre-           rythme de production journalière réelle de chlore du-
+  vious three months, excluding days on which there                  rant les trois mois précédents, calculée en excluant les
+  was no production.                                                 jours de non-production.
+  (2) The actual daily production rate of chlorine may                (2) La production journalière réelle de chlore peut
+be calculated from power consumption or from any other             être calculée à partir de la consommation d’énergie ou
+method approved by the Minister.                                   par toute autre méthode approuvée par le ministre.
+
+           ANALYTICAL TEST METHOD                                                 DOSAGE DU MERCURE
+  9. For the purposes of section 6, the concentration of             9. Aux fins de l’article 6, le dosage du mercure dans
+mercury in effluent shall be determined using                      un effluent doit être déterminé
+  (a) the test method described in Schedule III; or                  a) selon la méthode visée à l’annexe III; ou
+  (b) any other equivalent method, approved in writing               b) selon toute autre méthode équivalente, approuvée
+  by the Minister, the results of which can be confirmed             par écrit par le ministre et dont les résultats peuvent
+  by the method referred to in Schedule III.                         être confirmés par la méthode visée à l’annexe III.
+
+       CALCULATION OF ACTUAL DEPOSIT                                     CALCUL DU REJET RÉEL DE MERCURE
+  10. (1) For the purposes of section 6, the actual daily             10. (1) Aux fins de l’article 6, le rejet journalier réel
+deposit of mercury from a plant shall be calculated using          de mercure d’une fabrique est calculé en tenant compte
+the measurements of total effluent flow determined in              de tous les débits visés aux alinéas 6(1)d) et 6(2)c) et le
+accordance with paragraphs 6(1)(d) and 6(2)(c), and the            dosage du mercure obtenu d’un échantillon composite
+measurement of mercury concentration obtained from a               est analysé selon l’article 9.
+composite sample shall be analysed in accordance with
+section 9.
+  (2) Where a plant accumulates, for treatment by a                   (2) Lorsqu’une fabrique retient pendant plus d’une
+batch process, all or a portion of the effluent discharged         journée la totalité ou une partie de l’effluent, en vue de
+by the plant over a period of more than one day and de-            son traitement en discontinu, et rejette au cours d’une
+posits the treated effluent on one day, the owner may, for         même journée tout l’effluent traité, le propriétaire peut,
+the purposes of section 5, attribute the mercury deposit-          aux fins de l’article 5, répartir également la quantité de
+ed in that day equally to those days on which the effluent         mercure rejeté ce jour-là entre les jours où l’effluent a
+was accumulated.                                                   été retenu.
+
+
+
+
+                                                               5
+                                                                             C.R.C., c. 811 — October 6, 2010
+
+
+
+
+                                        SCHEDULE I                                                                                                             ANNEXE I
+                                           (s. 6)                                                                                                               (art. 6)
+
+                    MONTHLY DATA TO BE REPORTED                                                                                                       RAPPORT MENSUEL
+
+During the Month of .................................. 19 ...................................                      Mois .......................................................... 19 ...................................
+Company Name .........................................                                                             Nom de la société ......................................
+Location of Plant ....................................... Phone .............................                      Adresse de la fabrique .............................. Téléphone........................
+
+1. Reference Production Rate ................................................                         tpd          1.    Rythme de production ........................................................                      t/j
+2. Declared chlorine production .............................................                             t        2.    Production de chlore déclarée ............................................                            t
+3. Net input of mercury to the plant .......................................                           kg          3.    Alimentation nette de la fabrique en mercure ....................                                  kg
+4. Mercury disposition ...........................................................                     kg          4.    Sorties et pertes de mercure ...............................................                       kg
+     (a)     mercury deposited with effluents .............................                            kg                a)      dans les effluents .......................................................                 kg
+     (b)     mercury in products leaving the plant ......................                              kg                b)      dans les produits quittant la fabrique ........................                            kg
+             (i)       mercury in the caustic soda produced ............                               kg                        (i)        dans la soude caustique ...................................                     kg
+             (ii)      mercury in sodium hypochlorite produced (if                                                               (ii)       dans l’hypochlorite de sodium (s’il y a lieu) . .                               kg
+                       applicable) ......................................................              kg                        (iii)      dans l’acide chlorhydrique (s’il y a lieu) ........                             kg
+             (iii) mercury in hydrochloric acid produced (if                                                                     (iv)       autres ...............................................................          kg
+                   applicable) ......................................................                  kg
+                                                                                                                         c)      mercure contenu dans les matières solides ...............                                  kg
+             (iv)      others ..............................................................           kg
+                                                                                                                         d)      autres .........................................................................           kg
+     (c)     mercury impounded with solids ...............................                             kg
+                                                                                                                                         .. .........................................................................       kg
+     (d)     others ........................................................................           kg
+                                                                                                                                         .. .........................................................................       kg
+                    .. .........................................................................       kg
+                                                                                                                                                 Total du mercure utilisé ou disposé ...........                            kg
+                    .. .........................................................................       kg
+                                                                                                                   5.    Quantité totale de mercure en stock                                                                kg
+                            Total mercury used or disposed of ............                             kg
+                                                                                                                         a)      au début du mois........................................................                   kg
+5. Total mercury in stores
+                                                                                                                         b)      à la fin du mois...........................................................                kg
+     (a)     at the beginning of the month ...................................                         kg
+                                                                                                                   6.    Mercure ajouté au matériel d’exploitation .........................                                kg
+     (b)     at the end of the month .............................................                     kg
+6. Mercury added to capital inventory ...................................                              kg
+I hereby certify that the statement and quantities listed above                                                    J’atteste que les renseignements ci-dessus sont exacts au
+are correct to the best of my knowledge and belief.                                                                meilleur de ma connaissance.
+
+                                            ................................................................                                                     ................................................................
+                                            Signature of the responsible                                                                                         Signature du responsable de la société
+                                            Officer of the Company
+
+
+
+
+                                                                                                               6
+                                           C.R.C., ch. 811 — 6 octobre 2010
+
+
+
+
+                                                         SCHEDULE II
+                                                            (s. 6)
+
+                                             DAILY DATA TO BE REPORTED
+Name of Company                              Location of Plant                                                             Month of
+
+                                  1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+
+1.     Total actual quantity of
+       mercury in effluent(s)
+       deposited (in kilograms
+       per day).
+
+2.     Attributable quantity of
+       mercury in effluent(s)
+       deposited (in kilograms
+       per day and when
+       applicable).
+
+3.     Declared chlorine
+       production (in tonnes
+       per day).
+
+4.     Kilograms of mercury
+       deposited per reference
+       tonnes of chlorine.
+
+5.     Concentration of
+       mercury in each liquid
+       effluent (in mg/l).
+
+6.     Quantity of each liquid
+       effluent discharged (in
+       cubic meters per day).
+
+
+                                                   I hereby certify that the information provided here is correct to the
+                                                   best of my knowledge and belief.
+
+                                                   .....................................................................................................................................
+                                                   Signature of the Responsible Officer of the Company
+
+
+
+
+                                                                    7
+                                                C.R.C., c. 811 — October 6, 2010
+
+
+
+
+                                                                ANNEXE II
+                                                                  (art. 6)
+
+                                                     DONNÉES JOURNALIÈRES
+Nom de la société                                Adresse de la fabrique                                                               Mois
+
+                                     1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+
+1.      Quantité totale réelle de
+        mercure rejetée avec les
+        effluents (kilogrammes
+        par jour)
+
+2.      Quantité de mercure
+        rejeté avec les effluents
+        retenus (kilogrammes
+        par jour et s’il y a lieu)
+
+3.      Production de chlore
+        déclarée (tonnes
+        métriques par jour)
+
+4.      Kilogrammes de
+        mercure rejeté par tonne
+        métrique de chlore de la
+        production de référence
+
+5.      Concentration de
+        mercure dans chaque
+        effluent (mg/1)
+
+6.      Débit de chaque effluent
+        rejeté (mètres cubes par
+        jour)
+
+
+                                                        J’atteste que les renseignements ci-dessus sont exacts au meilleur
+                                                        de ma connaissance.
+
+                                                        .....................................................................................................................................
+                                                        Signature du responsable de la société
+
+
+
+
+                                                                         8
+                                                    C.R.C., ch. 811 — 6 octobre 2010
+
+
+
+
+                          SCHEDULE III                                                                     ANNEXE III
+                             (s. 9)                                                                          (art. 9)
+
+    METHOD FOR TOTAL MERCURY IN CHLOR-ALKALI                                    MÉTHODE DE DOSAGE DU MERCURE TOTAL DANS LES
+                   EFFLUENTS                                                         EFFLUENTS DES FABRIQUES DE CHLORE
+   1. Total mercury in chlor-alkali effluents shall be determined us-           1. La quantité totale de mercure dans les effluents des fabriques de
+ing the test method prescribed in the chapter entitled Mercury in Wa-         chlore se détermine selon la méthode indiquée au chapitre intitulé
+ter, Storet No. Total 71900 in the publication “Methods for Chemical          Mercury in Water, Storet No. Total 71900 dans la publication « Me-
+Analysis of Water and Wastes”, 1974, published by the U.S. Environ-           thods for Chemical Analysis of Water and Wastes », 1974, de l’U.S.
+mental Protection Agency, with the following modifications:                   Environmental Protection Agency, ainsi modifiée :
+  (a) section 3.1 under the heading ”Sample Handling and Preser-                a) l’article 3.1 sous le titre « Sample Handling and Preservation »
+  vation” shall be replaced by the following:                                   est remplacé par ce qui suit :
+       “3.1 Composite samples shall be collected in nitric acid                       « 3.1 Les échantillons composites sont recueillis dans des
+    cleaned glass carboys and representative portions transferred to              ballons de verre nettoyés à l’acide nitrique, et des portions repré-
+    nitric acid cleaned glass bottles with Teflon lined caps or in high           sentatives, transvasées dans des flacons de verre nettoyés de
+    density polyethylene bottles. Prior to sampling, the carboys shall            même et munis d’un bouchon à revêtement de Teflon ou dans
+    be prepared by one of the following methods using the quantity                des flacons de polyéthylène de haute densité. Avant l’échan-
+    of reagents required as determined from past experience with                  tillonnage, les ballons sont préparés par l’une des méthodes sui-
+    that particular type of sample.                                               vantes à l’aide de la quantité empiriquement déterminée de réac-
+                                                                                  tifs, requise pour chaque type d’échantillon.
+    Chlor-Alkali Plants Using Fresh Water:
+                                                                                   Fabriques de chlore utilisant de l’eau douce
+    Method A or Method B
+                                                                                   Méthodes A ou B
+    A — add sufficient nitric acid to lower pH of the total sample                A — Ajouter assez d’acide nitrique pour abaisser le pH à 1 ou
+        to 1 or less and an excess of saturated potassium                             moins et un excès d’une solution saturée de permanganate
+        permanganate solution to maintain a purple colour,                            de potassium pour donner une couleur mauve et la fixer,
+    B — add sufficient nitric acid to lower pH of the total sample                B — Ajouter assez d’acide nitrique pour abaisser le pH à 0,5 et
+        to 0.5 and add sufficient potassium dichromate to make                        assez de bichromate de potassium pour en obtenir une
+        the sample contain 0.05 per cent potassium dichromate                         concentration de 0,05 pour cent en poids dans
+        by wt.                                                                        l’échantillon.
+    Chlor-Alkali Plants Using Natural Sea Water:                                  Fabriques de chlore utilisant de l’eau de mer naturelle
+    Add sufficient nitric acid to lower the pH to 0.5 or less.                    Ajouter assez d’acide nitrique pour abaisser le pH à 0,5 ou
+                                                                                  moins.
+    In either case a representative portion of the composite sample
+    of a suitable volume should be carefully transferred.”                        Dans les deux cas, un volume représentatif et approprié de
+                                                                                  l’échantillon composite doit être transvasé avec soin. »
+  (b) section 4.3 under the heading “Interference” shall be replaced
+  by the following:                                                             b) l’article 4.3 sous le titre « Interference » est remplacé par ce qui
+                                                                                suit :
+       “4.3 Chlorides: Since free chlorine also absorbs radiation at
+    253 nm, assurance must be made that free chlorine is absent be-                  « 4.3 Chlorures : Comme le chlore à l’état libre absorbe éga-
+    fore the mercury is reduced. The type of sample being tested                   lement les rayonnements à 253 nm, on doit s’assurer de son ab-
+    will determine the procedure to be followed:                                   sence avant de détruire le mercure. Le type d’échantillon déter-
+                                                                                   minera la méthode à suivre.
+    Chlor-Alkali Plants Using Fresh Water:
+                                                                                   Fabriques de chlore utilisant de l’eau douce
+    Potassium permanganate oxidation converts Cl to Cl2. This free
+    chlorine is removed by re-conversion with excess hydroxy-                     L’oxydation par le permanganate de potassium convertit le Cl en
+    lamine sulfate and subsequent purging of the dead air space in                Cl2. Le Cl2 est éliminé par reconversion avec un excès de sulfate
+    the sample bottle prior to the addition of stannous sulfate. Some             d’hydroxylamine et évacuation subséquente de l’air au haut du
+    mercury losses may be attributed to the possible formation of                 flacon, avant l’addition du sulfate stanneux. Un peu de mercure
+    volatile mercury-chlorine compounds and mercury-hydroxy-                      pourra être perdu à cause de la formation de composé volatil du
+    lamine reduction compounds.                                                   mercure avec le chlore et du mercure avec l’hydroxylamine.
+    Chlor-Alkali Plants Using Natural Sea Water:                                   Fabriques de chlore utilisant l’eau de mer naturelle
+    Sulfuric acid, nitric acid and potassium persulfate as oxidation              L’acide sulfurique, l’acide nitrique et le persulfate de potassium
+    reactants are sufficient since mercury in natural sea water is in             sont des agents d’oxydation suffisants, car le mercure inorga-
+    the inorganic form in equilibrium between HgCl2, HgCl3-, Hg-                  nique dans l’eau de mer naturelle est en équilibre entre les
+
+
+
+
+                                                                          9
+                                            C.R.C., c. 811 — October 6, 2010
+
+
+
+
+Cl4-2. Consequently, the problems associated with Cl2 generated        formes HgCl2, HgCl3- et HgCl4-2. Par conséquent les problèmes
+are eliminated.”                                                       dûs[sic] à la production de Cl2 sont éliminés. »
+
+
+
+
+                                                                  10
+

@@ -1,0 +1,9 @@
+MINOE Release Notes and Changes.
+
+1.01
+Corrected flicker that appeared in the graphing module while the progress window was working.
+Minor bug fixes.
+
+1.02
+Added term document matrix export option under file menu.
+Fixed UTF-8 encoding when opening a file for viewing.

@@ -1,0 +1,2204 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+      Coastal Fisheries                                                 Règlement sur la
+   Protection Regulations                                            protection des pêcheries
+                                                                             côtières
+
+                      C.R.C., c. 413                                                    C.R.C., ch. 413
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published             31. (1) Every copy of a consolidated statute or            31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies      (3) In the event of an inconsistency between a              (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+CHAPTER 413                                                      CHAPITRE 413
+
+COASTAL FISHERIES PROTECTION ACT                                 LOI SUR LA PROTECTION DES PÊCHES CÔTIÈRES
+
+Coastal Fisheries Protection Regulations                         Règlement sur la protection des pêcheries côtières
+REGULATIONS RESPECTING THE PROTECTION                            RÈGLEMENT CONCERNANT LA PROTECTION
+   OF THE COASTAL FISHERIES OF CANADA                               DES PÊCHERIES CÔTIÈRES DU CANADA
+
+                     SHORT TITLE                                                     TITRE ABRÉGÉ
+  1. These Regulations may be cited as the Coastal                 1. Le présent règlement peut être cité sous le titre :
+Fisheries Protection Regulations.                                Règlement sur la protection des pêcheries côtières.
+
+                  INTERPRETATION                                                   INTERPRÉTATION
+  2. In these Regulations,                                         2. Dans le présent règlement,
+“Act” means the Coastal Fisheries Protection Act; (Loi)          « capitaine » désigne toute personne ayant le commande-
+“applicant” means a person signing an application for a          ment ou la responsabilité d’un bateau de pêche, à l’ex-
+licence pursuant to section 6; (requérant)                       clusion du pilote; (master)
+
+“CASPO Convention” means the Convention for the                  « Code international de signaux » Le Code international
+Conservation of Anadromous Stocks in the North Pacific           de signaux publié par le ministère des Transports. (Inter-
+Ocean; (convention CPAPN)                                        national Code of Signals)
+
+“crew” means, in relation to a foreign fishing vessel, any       « convention CPAPN » La Convention pour la conserva-
+person on board that vessel other than a protection offi-        tion des stocks de poissons anadromes de l’océan Paci-
+cer, observer or other representative of the Government          fique nord. (CASPO Convention)
+of Canada on board the vessel in the course of his duties;       « directeur général régional » désigne le directeur général
+(membre de l’équipage)                                           du ministère des Pêches et des Océans pour la région du
+“Division 3L” means Division 3L as described in para-            Pacifique, la région du Québec, la région du Golfe, la ré-
+graph 4(b) of Note A of Schedule III to the Atlantic             gion de Terre-Neuve ou la région Scotia-Fundy, selon le
+Fishery Regulations, 1985; (division 3L)                         cas; (Regional Director-General)
+
+“Division 3M” means Division 3M as described in para-            « division 3L » Division décrite à l’alinéa 4b) de la re-
+graph 4(b) of Note A of Schedule III to the Atlantic             marque A de l’annexe III du Règlement de pêche de l’At-
+Fishery Regulations, 1985; (division 3M)                         lantique de 1985. (Division 3L)
+
+“Division 3N” means Division 3N as described in para-            « division 3M » Division décrite à l’alinéa 4b) de la re-
+graph 4(b) of Note A of Schedule III to the Atlantic             marque A de l’annexe III du Règlement de pêche de l’At-
+Fishery Regulations, 1985; (division 3N)                         lantique de 1985. (Division 3M)
+
+“Division 3NO” means Division 3NO as described in                « division 3N » Division décrite à l’alinéa 4b) de la re-
+section 3 of note B of Schedule III to the Atlantic Fish-        marque A de l’annexe III du Règlement de pêche de l’At-
+ery Regulations, 1985; (division 3NO)                            lantique de 1985. (Division 3N)
+
+“Division 3O” means Division 3O as described in para-            « division 3NO » La division décrite à l’alinéa 3 de la re-
+graph 4(b) of Note A of Schedule III to the Atlantic             marque B de l’annexe III du Règlement de pêche de l’At-
+Fishery Regulations, 1985; (division 3O)                         lantique de 1985. (Division 3NO)
+
+
+
+
+                                                             1
+                                          C.R.C., c. 413 — October 6, 2010
+
+
+
+
+“Fishing Zone 4”, “Fishing Zone 5” or “Fishing Zone 6”            « division 3O » Division décrite à l’alinéa 4b) de la re-
+means the area of the sea described as Fishing Zone 4,            marque A de l’annexe III du Règlement de pêche de l’At-
+Fishing Zone 5 or Fishing Zone 6 in the Fishing Zones             lantique de 1985. (Division 3O)
+of Canada (Zones 4 and 5) Order and the Fishing Zones             « échelle de pilote » désigne une échelle de pilote telle
+of Canada (Zone 6) Order; (Zone de pêche 4, Zone de               que définie dans le Règlement sur les échelles de pilote
+pêche 5, Zone de pêche 6)                                         et le hissage des pilotes établi selon la Loi sur la marine
+“flag state” of a foreign fishing vessel means the state in       marchande du Canada; (pilot ladder)
+which the vessel is registered or, where the vessel is not        « État du pavillon » d’un bateau de pêche étranger signi-
+registered, the state whose flag the vessel is entitled to        fie l’État dans lequel le bateau de pêche est immatriculé
+fly; (État du pavillon)                                           ou, lorsque le bateau de pêche n’est pas immatriculé,
+“International Code of Signals” means the International           l’État dont le bateau de pêche est autorisé à battre le pa-
+Code of Signals published by the Department of Trans-             villon; (flag state)
+port; (Code international de signaux)                             « licence » désigne une licence émise en vertu de l’article
+“licence” means a licence issued pursuant to section 5;           5; (licence)
+(licence)                                                         « Loi » la Loi sur la protection des pêches côtières. (Act)
+“master” includes every person having command or                  « membre de l’équipage » désigne, dans le cas d’un ba-
+charge of a fishing vessel but does not include a pilot;          teau de pêche étranger, toute personne qui se trouve à
+(capitaine)                                                       bord du bateau de pêche, autre qu’un garde-pêche, un
+“NAFO” means the Northwest Atlantic Fisheries Orga-               observateur ou un représentant du gouvernement du
+nization; (OPAN)                                                  Canada se trouvant à bord du bateau de pêche au cours
+“NAFO Measures” means the Conservation and En-                    de l’exercice de ses fonctions; (crew)
+forcement Measures adopted by NAFO, as amended                    « mesures de l’OPAN » Les mesures intitulées Conserva-
+from time to time; (mesures de l’OPAN)                            tion and Enforcement Measures et adoptées par l’OPAN,
+“observer” means                                                  compte tenu de leurs modifications successives. (NAFO
+                                                                  Measures)
+  (a) for the purposes of sections 37 and 38, a person
+  placed on board a fishing vessel of a participating             « observateur » Selon le cas :
+  state pursuant to Measure VI.A of the NAFO Mea-                   a) pour l’application des articles 37 et 38, personne
+  sures, or                                                         qui est placée à ce titre à bord d’un bateau de pêche
+  (b) for any other purpose, a person who is designated             d’un État assujetti à l’accord en application de la me-
+  as such by a Regional Director-General and is in pos-             sure de l’OPAN VI.A;
+  session of an identification card indicating that desig-          b) personne nommée à ce titre par le directeur général
+  nation; (observateur)                                             régional et détentrice d’une carte d’identité en faisant
+“permit” [Repealed, SOR/85-527, s. 1]                               foi. (observer)
+
+“pilot ladder” means a pilot ladder as described in the           « OPAN » L’Organisation des pêches de l’Atlantique
+Pilot Ladder Regulations; (échelle de pilote)                     nord-ouest. (NAFO)
+
+“processing” includes cleaning, filleting, tubing, icing,         « pêche sportive » désigne la pêche pratiquée pour le
+packing, canning, freezing, smoking, salting, cooking,            plaisir et non pour la vente ou le troc; (sport fishing)
+                                                                  « permis » [Abrogée, DORS/85-527, art. 1]
+
+
+
+
+                                                              2
+                                                     C.R.C., ch. 413 — 6 octobre 2010
+
+
+
+
+pickling, drying, or preparing fish for market in any oth-                       « poids entier » désigne le poids d’un poisson entier à sa
+er manner; (traitement)                                                          sortie de l’eau, avant tout traitement; (round weight)
+“Regional Director-General” means the Director-Gener-                            « requérant » désigne une personne qui signe une de-
+al of the Department of Fisheries and Oceans for the Pa-                         mande de licence en vertu de l’article 6; (applicant)
+cific, Quebec, Gulf, Scotia-Fundy or Newfoundland Re-                            « signal L » Signal qui, dans le Code international de si-
+gion, as may be appropriate; (Directeur général                                  gnaux, signifie « Stoppez votre navire immédiate-
+régional)                                                                        ment. ». (Signal L)
+“round weight” means with respect to fish, the weight of                         « signal SQ 1 » Signal qui, dans le Code international de
+whole unprocessed fish as it is taken from the water;                            signaux, signifie « Stoppez, ou mettez en panne, sinon
+(poids entier)                                                                   j’ouvre le feu sur vous. ». (Signal SQ 1)
+“Signal L” means the signal prescribed in the Interna-                           « signal SQ 3 » Signal qui, dans le Code international de
+tional Code of Signals to mean “You should stop your                             signaux, signifie « Stoppez, ou mettez en panne. Je vais
+vessel instantly.”; (signal L)                                                   monter à votre bord. ». (Signal SQ 3)
+“Signal SQ 1” means the signal prescribed in the Inter-                          « sous-zone » s’entend au sens du Règlement de pêche de
+national Code of Signals to mean “You should stop or                             l’Atlantique de 1985; (Subarea)
+heave to, otherwise I shall open fire on you.”; (signal SQ
+1)                                                                               « traitement » comprend le nettoyage, le filetage, la mise
+                                                                                 en tubes, la mise en glace, l’emballage, la mise en
+“Signal SQ 3” means the signal prescribed in the Inter-                          conserve, la congélation, le fumage, le salage, la cuisson,
+national Code of Signals to mean “You should stop, or                            le saumurage, le séchage et toute autre façon de préparer
+heave to; I am going to board you”.; (signal SQ 3)                               le poisson pour sa mise en marché; (processing)
+“sport fishing” means fishing for pleasure and not for                           « Zone de pêche 4, Zone de pêche 5, Zone de pêche 6 »
+sale or barter; (pêche sportive)                                                 désigne les régions maritimes décrites comme étant la
+“Subarea” has the same meaning as the Atlantic Fishery                           Zone de pêche 4 et la Zone de pêche 5 dans le Décret sur
+Regulations. (sous-zone)                                                         les zones de pêche du Canada (Zones 4 et 5) et la Zone
+SOR/79-713, s. 1; SOR/81-729, s. 1; SOR/83-264, s. 1; SOR/85-527, s. 1;          de pêche 6 dans le Décret sur les zones de pêche du
+SOR/86-939, s. 1(E); SOR/94-362, ss. 1, 4(F), 7(F); SOR/99-313, s. 1; SOR/
+2004-110, s. 1.
+                                                                                 Canada (Zone 6). (Fishing Zone 4, Fishing Zone 5 or
+                                                                                 Fishing Zone 6)
+                                                                                 DORS/79-713, art. 1; DORS/81-729, art. 1; DORS/83-264, art. 1; DORS/
+                                                                                 85-527, art. 1; DORS/86-939, art. 1(A); DORS/94-362, art. 1, 4(F) et 7(F);
+                                                                                 DORS/99-313, art. 1; DORS/2004-110, art. 1.
+
+            PRESCRIBED RESPONSE PERIOD                                                                           DÉLAI
+   3. For the purpose of subsection 16.2(3) of the Act,                             3. Pour l’application du paragraphe 16.2(3) de la Loi,
+the prescribed period is three working days.                                     le délai est de trois jours ouvrables.
+SOR/99-313, s. 2.                                                                DORS/99-313, art. 2.
+
+   4. [Repealed, SOR/85-527, s. 2]                                                  4. [Abrogé, DORS/85-527, art. 2]
+
+                             LICENCES                                                                         LICENCES
+   5. (1) The Minister may, on receipt of an application                           5. (1) Le ministre peut, sur réception d’une demande,
+for a licence, issue a licence authorizing                                       délivrer une licence autorisant
+
+
+
+
+                                                                             3
+                                        C.R.C., c. 413 — October 6, 2010
+
+
+
+
+(a) a foreign fishing vessel and its crew to enter              a) un bateau de pêche étranger et les membres de son
+Canadian fisheries waters for any of the following              équipage à pénétrer dans les eaux de pêche cana-
+purposes:                                                       diennes aux fins suivantes :
+  (i) to engage in commercial fishing or fishing for              (i) pratiquer la pêche commerciale ou pêcher à des
+  purposes of scientific research,                                fins de recherche scientifique,
+  (ii) to tranship or take on board any fish, outfit or           (ii) transborder ou embarquer, en mer, du poisson,
+  supplies while at sea,                                          des agrès ou des fournitures,
+  (iii) to process fish at sea,                                   (iii) traiter le poisson en mer,
+  (iv) to transport fish from fishing grounds,                    (iv) transporter le poisson à partir des zones de
+  (v) to provision, service, repair or maintain any               pêche,
+  other foreign fishing vessel while at sea,                      (v) approvisionner, desservir, réparer ou entretenir,
+  (vi) to purchase or obtain bait, outfits or supplies at         en mer, un autre bateau de pêche étranger,
+  a Canadian port,                                                (vi) acheter ou obtenir de la boëtte, des fournitures
+  (vii) to effect repairs at a Canadian port,                     ou des agrès dans un port canadien,
+
+  (viii) to purchase, load, unload, transship, sell or            (vii) effectuer des réparations dans un port cana-
+  process fish or fish products at a Canadian port,               dien,
+
+  (ix) to unload, land, re-embark or tranship at a                (viii) acheter, charger, décharger, transborder,
+  Canadian port any equipment of that vessel or of                vendre ou traiter du poisson ou des produits de la
+  any other fishing vessel of the same flag state,                pêche dans un port canadien,
+
+  (x) to grant shore leave to the crew of that vessel at          (ix) décharger, débarquer, rembarquer ou transbor-
+  a Canadian port, and                                            der, dans un port canadien, du matériel de ce bateau
+                                                                  de pêche ou d’un autre bateau de pêche du même
+  (xi) to discharge or take on board at a Canadian                État du pavillon,
+  port a member of the crew of that vessel or of any
+  other fishing vessel of the same flag state.                    (x) accorder à l’équipage de ce bateau de pêche un
+                                                                  congé à terre dans un port canadien, et
+(b) a foreign fishing vessel and its crew to pass
+through any of the following Canadian fisheries wa-               (xi) débarquer ou embarquer, dans un port cana-
+ters during the course of a voyage to a destination out-          dien, un membre de l’équipage de ce bateau de
+side Canadian fisheries waters, namely,                           pêche ou d’un autre bateau de pêche du même État
+                                                                  du pavillon;
+  (i) the waters between Vancouver Island and the
+  mainland of British Columbia bounded on the south             b) un bateau de pêche étranger et les membres de son
+  by the 49th parallel of latitude and bounded on the           équipage à traverser les eaux de pêche canadiennes
+  north by a straight line from Cape Sutil on the               suivantes dans le cadre d’un voyage vers une destina-
+  northern end of Vancouver Island to Cape Caution              tion située à l’extérieur de ces eaux :
+  on the mainland of British Columbia,                            (i) les eaux entre l’île de Vancouver et la terre
+  (ii) Fitz Hugh Sound bounded on the south by a                  ferme de la Colombie-Britannique délimitées au
+  straight line from Cape Calvert on Calvert Island to            sud par le 49e parallèle et au nord par une ligne
+  Cape Caution on the mainland of British Columbia                droite tirée du cap Sutil, à l’extrémité nord de l’île
+
+
+
+
+                                                            4
+                                     C.R.C., ch. 413 — 6 octobre 2010
+
+
+
+
+and bounded on the north by a straight line from            de Vancouver, jusqu’au cap Caution, sur la terre
+Carpenter Point on Hunter Island to Bernhardt               ferme de la Colombie-Britannique,
+Point on King Island,                                       (ii) les eaux du détroit Fitz Hugh délimitées au sud
+(iii) Finlayson Channel bounded on the south by a           par une ligne droite tirée du cap Calvert, sur l’île
+straight line from Jorkins Point on Swindle Island          Calvert, jusqu’au cap Caution, sur la terre ferme de
+to Keith Point on Dowager Island and bounded on             la Colombie-Britannique, et au nord par une ligne
+the north by a straight line from Ohio Rock off             droite tirée de la pointe Carpenter, sur l’île Hunter,
+Sarah Island to Finlayson Head on the mainland of           jusqu’à la pointe Bernhardt, sur l’île King,
+British Columbia,                                           (iii) les eaux du chenal Finlayson délimitées au sud
+(iv) Laredo Channel bounded on the south by a               par une ligne droite tirée de la pointe Jorkins, sur
+straight line from Tildesley Point on Aristazabal Is-       l’île Swindle, jusqu’à la pointe Keith, sur l’île Do-
+land to Dallain Point on Princess Royal Island and          wager, et au nord par une ligne droite tirée du ro-
+bounded on the north by a straight line from Ulric          cher Ohio, au large de l’île Sarah, jusqu’au cap Fin-
+Point on Aristazabal Island to McPhee Point on              layson, sur la terre ferme de la Colombie-
+Princess Royal Island,                                      Britannique,
+(v) Princess Royal Channel bounded on the south             (iv) les eaux du chenal Laredo délimitées au sud
+by a straight line from Quarry Point on Princess            par une ligne droite tirée de la pointe Tildesley, sur
+Royal Island to Netherby Point on the mainland of           l’île Aristazabal, jusqu’à la pointe Dallain, sur l’île
+British Columbia and bounded on the north by a              Princess Royal, et au nord par une ligne droite tirée
+straight line from Nelly Point on Princess Royal Is-        de la pointe Ulric, sur l’île Aristazabal, jusqu’à la
+land to Point Cumming on Gribbell Island,                   pointe McPhee, sur l’île Princess Royal,
+(vi) Principe Channel bounded on the south by a             (v) les eaux du chenal Princess Royal délimitées au
+straight line from Deer Point on Banks Island to            sud par une ligne droite tirée de la pointe Quarry,
+Ring Point on Pitt Island and bounded on the north          sur l’île Princess Royal, jusqu’à la pointe Netherby,
+by a straight line true west from Keswar Point on           sur la terre ferme de la Colombie-Britannique, et au
+McCauley Island to the shore of Banks Island, and           nord par une ligne droite tirée de la pointe Nelly,
+(vii) Grenville Channel bounded on the south by a           sur l’île Princess Royal, jusqu’à la pointe Cum-
+straight line from Yolk Point on Farrant Island to          ming, sur l’île Gribbell,
+Sainty Point on the mainland of British Columbia            (vi) les eaux du chenal Principe délimitées au sud
+and bounded on the north by a straight line from            par une ligne droite tirée de la pointe Deer, sur l’île
+Rippon Point on Pitt Island to Buckley Point on the         Banks, jusqu’à la pointe Ring, sur l’île Pitt, et au
+mainland of British Columbia.                               nord par une ligne droite tirée franc ouest de la
+                                                            pointe Keswar, sur l’île McCauley, jusqu’au littoral
+                                                            de l’île Banks,
+                                                            (vii) les eaux du chenal Grenville délimitées au sud
+                                                            par une ligne droite tirée de la pointe Yolk, sur l’île
+                                                            Farrant, jusqu’à la pointe Sainty, sur la terre ferme
+                                                            de la Colombie-Britannique, et au nord par une
+                                                            ligne droite tirée de la pointe Rippon, sur l’île Pitt,
+
+
+
+
+                                                        5
+                                           C.R.C., c. 413 — October 6, 2010
+
+
+
+
+                                                                        jusqu’à la pointe Buckley, sur la terre ferme de la
+                                                                        Colombie-Britannique.
+   (1.1) The Minister may, on receipt of an application              (1.1) Le ministre peut, sur réception d’une demande,
+for a licence, issue a licence authorizing a foreign fishing       délivrer une licence autorisant un bateau de pêche étran-
+vessel and its crew to enter Canadian fisheries waters for         ger et les membres de son équipage à pénétrer dans les
+any of the following purposes:                                     eaux de pêche canadiennes aux fins suivantes :
+  (a) to provide supplies to a Canadian fishing vessel or            a) apporter des fournitures à un bateau de pêche cana-
+  a foreign fishing vessel while it is at sea; and                   dien ou à un bateau de pêche étranger qui sont en mer;
+  (b) for the purpose described in paragraph (a), to pur-            b) à cette fin, acheter des fournitures dans un port ca-
+  chase supplies at a Canadian port.                                 nadien.
+  (1.11) The Minister shall not issue a licence under                 (1.11) Le ministre ne délivre de licence aux termes de
+paragraph (1)(a) or subsection (1.1) unless the Minister           l’alinéa (1)a) ou du paragraphe (1.1) que s’il conclut que
+determines that the Government of Canada has                       le gouvernement du Canada a de bonnes relations en ma-
+favourable fisheries relations with the government of the          tière de pêche avec l’État du pavillon du bateau.
+vessel’s flag state.
+  (1.12) The Minister shall not issue a licence under                 (1.12) Le ministre ne délivre pas de licence aux
+paragraph (1)(a) or subsection (1.1) if there are reason-          termes de l’alinéa (1)a) ou du paragraphe (1.1) s’il y a
+able grounds to believe that                                       des motifs raisonnables de croire, selon le cas, que :
+  (a) the vessel is not licensed or otherwise authorized             a) le bateau n’est pas dûment autorisé par l’État du
+  by its flag state to engage in fisheries activities;               pavillon, en vertu d’une licence ou autrement, à prati-
+  (b) the vessel is not in compliance with relevant con-             quer des activités de pêche;
+  servation and management measures;                                 b) le bateau ne respecte pas les mesures de conserva-
+  (c) the vessel is providing supplies to a foreign fish-            tion et de gestion applicables;
+  ing vessel that is not in compliance with relevant con-            c) le bateau apporte des fournitures à un bateau de
+  servation and management measures;                                 pêche étranger qui ne respecte pas les mesures de
+  (d) the proposed activity is not compatible with or                conservation et de gestion applicables;
+  will undermine relevant conservation and manage-                   d) l’activité proposée n’est pas compatible avec les
+  ment measures; or                                                  mesures de conservation et de gestion applicables ou
+  (e) the proposed activity is not consistent with the               compromet celles-ci;
+  sustainable use of fisheries resources or will con-                e) l’activité proposée n’est pas compatible avec l’uti-
+  tribute to excess harvesting or processing capacity.               lisation durable des ressources halieutiques ou en-
+                                                                     traîne une surcapacité excédentaire de récolte ou de
+                                                                     transformation.
+   (1.2) The Minister shall, on receipt of an application             (1.2) Le ministre doit, sur réception d’une demande,
+for a licence and in accordance with the Procès-Verbal             délivrer en conformité avec le Procès-verbal d’applica-
+applying the March 27, 1972 Agreement between                      tion de l’Accord relatif aux relations réciproques entre
+Canada and France on their Mutual Fishing Relations,               le Canada et la France en matière de pêche du 27 mars
+signed on December 2, 1994, issue a licence authorizing            1972, signé le 2 décembre 1994, une licence autorisant
+
+
+
+
+                                                               6
+                                                      C.R.C., ch. 413 — 6 octobre 2010
+
+
+
+
+a French fishing vessel and its crew to enter Canadian                            un bateau de pêche de la France et les membres de son
+fisheries waters for any of the purposes set out in that                          équipage à pénétrer dans les eaux de pêche canadiennes
+Procès-Verbal.                                                                    aux fins visées dans ce procès-verbal.
+   (1.3) The Minister shall, on receipt of an application                            (1.3) Le ministre doit, sur réception d’une demande,
+for a licence and in accordance with the Treaty between                           délivrer en conformité avec le Traité entre le gouverne-
+the Government of Canada and the Government of the                                ment du Canada et le gouvernement des États-Unis
+United States of America on Pacific Coast Albacore Tu-                            d’Amérique concernant les thoniers (thon blanc) du Pa-
+na Vessels and Port Privileges, signed on May 26, 1981,                           cifique et leurs privilèges portuaires, signé le 26 mai
+issue a licence authorizing a United States fishing vessel                        1981, une licence autorisant un bateau de pêche des
+and its crew to enter Canadian fisheries waters for any of                        États-Unis et les membres de son équipage à pénétrer
+the purposes set out in that Treaty.                                              dans les eaux de pêche canadiennes aux fins visées dans
+                                                                                  ce traité.
+   (1.4) The Minister shall, on receipt of an application                            (1.4) Le ministre doit, sur réception d’une demande,
+for a licence and in accordance with the Convention be-                           délivrer en conformité avec la Convention entre le
+tween Canada and the United States of America for the                             Canada et les États-Unis d’Amérique concernant l’oc-
+Extension of Port Privileges to Halibut Fishing Vessels                           troi de privilèges d’escale aux navires de pêche au flétan
+on the Pacific Coasts of the United States of America                             dans les ports des côtes du Pacifique des États-Unis
+and Canada, signed on March 24, 1950, issue a licence                             d’Amérique et du Canada, signée le 24 mars 1950, une
+authorizing a United States fishing vessel and its crew to                        licence autorisant un bateau de pêche des États-Unis et
+enter Canadian fisheries waters for any of the purposes                           les membres de son équipage à pénétrer dans les eaux de
+set out in that Convention.                                                       pêche canadiennes aux fins visées dans cette convention.
+   (1.5) [Repealed, SOR/2003-391, s. 1]                                              (1.5) [Abrogé, DORS/2003-391, art. 1]
+   (1.6) [Repealed, SOR/99-474, s. 1]                                                (1.6) [Abrogé, DORS/99-474, art. 1]
+   (2) The fees payable for a licence issued pursuant to                             (2) Les droits exigés pour une licence délivrée en ver-
+this section are as set out in Schedule I.                                        tu du présent article sont prévus à l’annexe I.
+  (3) The licence fees for foreign fishing vessels shall                            (3) Les droits exigés pour la délivrance de la licence à
+be paid within 45 days from the date of billing.                                  un bateau de pêche étranger doivent être payés dans les
+                                                                                  45 jours suivant la date de facturation.
+   (4) The Minister may, at the request of the master of a                           (4) Le ministre peut, à la demande du capitaine d’un
+foreign fishing vessel that is in Canadian fisheries waters                       bateau de pêche étranger qui se trouve dans les eaux de
+in the circumstances referred to in section 14 or 15, issue                       pêche canadiennes dans les circonstances visées aux ar-
+a licence authorizing that vessel and its crew to engage                          ticles 14 ou 15, délivrer une licence pour autoriser ce ba-
+in all or any of the activities described in subparagraphs                        teau et les membres de son équipage à exercer toute acti-
+(1)(a)(vi) to (xi) and paragraph (1)(b).                                          vité visée aux sous-alinéas (1)a)(vi) à (xi) et à l’alinéa
+SOR/78-447, s. 1; SOR/78-795, s. 1; SOR/79-138, s. 1; SOR/79-713, s. 4;           (1)b).
+SOR/80-186, s. 1; SOR/85-527, s. 3; SOR/86-939, s. 2; SOR/94-362, ss. 4(F),
+                                                                                  DORS/78-447, art. 1; DORS/78-795, art. 1; DORS/79-138, art. 1; DORS/
+5(F); SOR/94-444, s. 1; SOR/95-261, s. 1; SOR/95-356, s. 1; SOR/96-309, s.
+                                                                                  79-713, art. 4; DORS/80-186, art. 1; DORS/85-527, art. 3; DORS/86-939, art.
+1; SOR/98-410, s. 1; SOR/99-474, s. 1; SOR/2000-36, s. 1; SOR/2001-204, s.
+                                                                                  2; DORS/94-362, art. 4(F) et 5(F); DORS/94-444, art. 1; DORS/95-261, art.
+1; SOR/2003-391, s. 1.
+                                                                                  1; DORS/95-356, art. 1; DORS/96-309, art. 1; DORS/98-410, art. 1; DORS/
+                                                                                  99-474, art. 1; DORS/2000-36, art. 1; DORS/2001-204, art. 1; DORS/
+                                                                                  2003-391, art. 1.
+
+
+
+
+                                                                              7
+                                                      C.R.C., c. 413 — October 6, 2010
+
+
+
+
+               APPLICATION FOR LICENCE                                                      DEMANDE DE LICENCE
+   6. (1) Subject to subsection (3), the representative of                  6. (1) Sous réserve du paragraphe (3), le représentant
+the flag state of a foreign fishing vessel mentioned in                  de l’État du pavillon mentionné à l’alinéa 7f) peut de-
+paragraph 7(f) may apply for a licence referred to in sec-               mander la licence visée à l’article 5 pour un bateau de
+tion 5 in respect of that vessel and its crew by filing an               pêche étranger et son équipage, en faisant parvenir une
+application, signed by the representative, at the regional               demande portant sa signature au bureau régional du mi-
+headquarters of the Department of Fisheries and Oceans                   nistère des Pêches et Océans chargé de délivrer les li-
+responsible for issuing such licences for that flag state.               cences pour l’État du pavillon.
+   (2) An application referred to in subsection (1) shall                   (2) Une demande visée au paragraphe (1) doit être
+be filed not less than 30 days prior to the first day on                 présentée au moins 30 jours avant le premier jour pour
+which the licence is required except that the Minister                   lequel la licence est requise sauf que le ministre peut,
+may, in order to prevent hardship, accept an application                 afin d’éviter des difficultés majeures, accepter une de-
+at any time.                                                             mande à n’importe quel moment.
+   (3) Where an application for a licence is in respect of                  (3) Lorsqu’une demande de licence concerne un ba-
+a foreign fishing vessel that is under a charter to                      teau de pêche étranger qui est affrété par
+   (a) an individual resident and domiciled in Canada,                      a) un individu qui réside et est domicilié au Canada,
+   (b) a corporation incorporated under the laws of                         b) une société légalement constituée en vertu des lois
+   Canada or a province, or                                                 du Canada ou d’une province, ou
+   (c) Her Majesty in right of Canada or a province,                        c) Sa Majesté du chef du Canada ou d’une province,
+the application shall be signed by the charterer who                     la demande doit être signée par l’affréteur du bateau de
+shall, in respect of that vessel, be regarded as the repre-              pêche qui est considéré comme le représentant du bateau
+sentative designated pursuant to paragraph 7(f).                         de pêche selon l’alinéa 7f).
+SOR/80-186, s. 2; SOR/85-527, s. 4; SOR/94-362, s. 4(F).                 DORS/80-186, art. 2; DORS/85-527, art. 4; DORS/94-362, art. 4(F).
+
+   7. The following information shall be furnished and                      7. En présentant la demande visée au paragraphe 6(1)
+forwarded with an application referred to in subsection                  relativement à un bateau de pêche étranger, les rensei-
+6(1) in respect of a foreign fishing vessel:                             gnements suivants doivent être fournis :
+   (a) the name and description of the vessel, its equip-                   a) le nom et la description du bateau de pêche, de son
+   ment and complement;                                                     matériel et de son équipage;
+   (b) the flag state and home port of the vessel;                          b) l’État du pavillon et le port d’attache du bateau de
+   (c) the name of the owner and master of the vessel                       pêche;
+   and, where applicable, its charterer;                                    c) le nom du propriétaire et du capitaine du bateau de
+   (d) the side number of the vessel, its radio frequen-                    pêche et, s’il y a lieu, de l’affréteur;
+   cies and call sign;                                                      d) le matricule latéral du bateau de pêche, ses fré-
+   (e) a description of the proposed purpose and the pe-                    quences radio et son indicatif d’appel;
+   riod for which the licence is required;                                  e) un exposé du but recherché et une mention de la
+   (f) the name and address of a person resident in                         période pour laquelle la licence est requise;
+   Canada having a permanent office or establishment in
+
+
+
+
+                                                                     8
+                                                     C.R.C., ch. 413 — 6 octobre 2010
+
+
+
+
+   Canada who is authorized by the flag state to represent                          f) le nom et l’adresse d’un résident du Canada qui y
+   that flag state for the purpose of providing liaison with                        possède un bureau ou un établissement permanent et
+   the appropriate officials of the Government of                                   qui est autorisé par l’État du pavillon à représenter ce
+   Canada;                                                                          dernier pour assurer la liaison avec les autorités com-
+   (f.1) in the case of an application for a licence re-                            pétentes du gouvernement du Canada;
+   ferred to in paragraph 5(1)(a) or subsection 5(1.1),                             f.1) dans le cas d’une demande de licence visée à
+   any information or document that is relevant to the                              l’alinéa 5(1)a) ou au paragraphe 5(1.1), tout rensei-
+   matters referred to in paragraphs 5(1.12)(a) to (e); and                         gnement ou document portant sur les questions visées
+   (g) any information the Minister considers necessary                             aux alinéas 5(1.12)a) à e);
+   to clarify or complete the information furnished by the                          g) tout renseignement que le ministre juge nécessaire
+   applicant.                                                                       pour compléter ou éclaircir les renseignements reçus.
+SOR/80-186, s. 3; SOR/85-527, s. 5; SOR/94-362, s. 4(F); SOR/98-410, s. 2;       DORS/80-186, art. 3; DORS/85-527, art. 5; DORS/94-362, art. 4(F); DORS/
+SOR/99-474, s. 2; SOR/2003-391, s. 2.                                            98-410, art. 2; DORS/99-474, art. 2; DORS/2003-391, art. 2.
+
+  7.1 (1) An application for a licence may be made on                              7.1 (1) Une demande de licence peut être faite pour
+behalf of pair trawlers and shall contain the information                        des chalutiers-bœuf; elle doit alors contenir, pour les
+required by section 7 in respect of both vessels.                                deux bateaux de pêche, l’information visée à l’article 7.
+   (2) Where a licence is issued in respect of pair                                 (2) La licence délivrée pour des chalutiers-bœuf ne
+trawlers, it shall be issued in respect of the vessel desig-                     l’est que pour le bateau de pêche désigné dans la de-
+nated in the application as the command vessel and shall                         mande comme bateau de pêche de commande; elle doit
+be carried on board that vessel.                                                 être conservée à bord de ce dernier.
+SOR/79-713, s. 5; SOR/94-362, s. 4(F).                                           DORS/79-713, art. 5; DORS/94-362, art. 4(F).
+
+   8. (1) Every licence shall                                                       8. (1) Une licence
+   (a) apply only to the foreign fishing vessel described                           a) s’applique uniquement au bateau de pêche étranger
+   therein and where applicable to the crew of that ves-                            qui y est désigné et, s’il y a lieu, aux membres de son
+   sel;                                                                             équipage;
+   (b) be valid only for the period specified therein; and                          b) est valide uniquement pour la période qui y est sti-
+   (c) cease to be valid on any change in the flag state                            pulée; et
+   registry or ownership of the vessel described in the li-                         c) cesse d’être valide aussitôt qu’il y a changement
+   cence.                                                                           d’État du pavillon ou changement de propriétaire du
+                                                                                    bateau de pêche étranger désigné dans la licence.
+   (2) [Repealed, SOR/85-527, s. 6]                                                 (2) [Abrogé, DORS/85-527, art. 6]
+   (3) The Minister may                                                            (3) Le ministre peut modifier toute disposition énon-
+   (a) on receipt of an application from the representa-                         cée dans la licence,
+   tive designated pursuant to paragraph 7(f), or                                   a) sur réception d’une demande du représentant visé à
+   (b) on his own initiative, where an error has been                               l’alinéa 7f), ou
+   made in a licence,                                                               b) de sa propre initiative en cas d’erreur.
+amend any provision set out in the licence.
+
+
+
+
+                                                                             9
+                                                        C.R.C., c. 413 — October 6, 2010
+
+
+
+
+   (4) An application referred to in subsection (3) shall                            (4) Les demandes de modification de licence doivent
+be filed not less than 14 days prior to the first day on                          être présentées au moins 14 jours avant la date à laquelle
+which the amendment is required except that the Minis-                            la modification est demandée. Cependant le ministre
+ter may, in order to prevent hardship, accept an applica-                         peut, pour que soient évités des inconvénients graves, ne
+tion at any time.                                                                 pas tenir compte de ce délai.
+  (5) An amendment referred to in subsection (3) is not                              (5) Une modification selon le paragraphe (3) lie le ca-
+binding on the master of the vessel to which the licence                          pitaine du bateau de pêche auquel elle s’applique, dès sa
+applies until it is received by the representative in                             réception par le représentant visé à l’alinéa 7f).
+Canada designated pursuant to paragraph 7(f).
+  (6) The fees payable for amendment of a licence is-                                (6) Les droits exigés pour modifier une licence
+sued pursuant to subsection (3) are set out in Schedule I.                        conformément au paragraphe (3) sont prévus à l’annexe
+SOR/79-713, s. 6; SOR/80-186, s. 4; SOR/85-527, s. 6; SOR/94-362, s. 4(F).        I.
+                                                                                  DORS/79-713, art. 6; DORS/80-186, art. 4; DORS/85-527, art. 6; DORS/
+                                                                                  94-362, art. 4(F).
+
+   9. (1) Subject to subsection (2), every licence shall                             9. (1) Sous réserve du paragraphe (2), chaque licence
+be kept on board the foreign fishing vessel described in                          doit être conservée à bord du bateau de pêche étranger
+the licence while that vessel is in Canadian fisheries wa-                        décrit sur la licence pendant que ce bateau de pêche se
+ters and shall be produced for examination by a protec-                           trouve dans les eaux de pêche canadiennes et doit être
+tion officer at his request.                                                      produite pour vérification sur demande d’un garde-
+                                                                                  pêche.
+   (2) Where a licence has been issued but not delivered,                            (2) Le directeur général régional doit autoriser un ba-
+a Regional Director-General shall authorize the foreign                           teau de pêche étranger visé par une licence qui a été déli-
+fishing vessel described in the licence to enter Canadian                         vrée mais non remise au titulaire à pénétrer dans les eaux
+fisheries waters and proceed directly to the Canadian                             de pêche canadiennes et à se rendre directement au port
+port designated by him for the purpose of obtaining the                           canadien qu’il désigne pour aller chercher la licence, à la
+licence if                                                                        condition que
+   (a) all fishing gear on board the vessel is stowed be-                            a) tous les engins de pêche à bord du bateau de pêche
+   low deck or otherwise removed from the place where                                soient arrimés sous le pont ou autrement retirés de
+   it is normally used for fishing and placed where it is                            leur position normale de manœuvre et placés de ma-
+   not readily available for fishing; and                                            nière à ne pas être prêts pour la pêche; et
+   (b) the master of the vessel complies with any direc-                             b) le capitaine du bateau de pêche se conforme aux
+   tion given to him by a protection officer.                                        instructions reçues d’un garde-pêche.
+SOR/85-527, s. 7; SOR/86-939, s. 3; SOR/94-362, ss. 4(F), 5(F), 7(F).             DORS/85-527, art. 7; DORS/86-939, art. 3; DORS/94-362, art. 4(F), 5(F) et
+                                                                                  7(F).
+
+   10. [Repealed, SOR/79-713, s. 7]                                                  10. [Abrogé, DORS/79-713, art. 7]
+
+      TERMS AND CONDITIONS OF A LICENCE                                                         MODALITÉS D’UNE LICENCE
+  11. (1) Every licence in respect of a foreign fishing                             11. (1) Chaque licence émise à l’égard d’un bateau
+vessel is subject to the following terms and conditions:                          de pêche étranger est assujettie aux modalités suivantes :
+   (a) [Repealed, SOR/85-527, s. 8]                                                  a) [Abrogé, DORS/85-527, art. 8]
+
+
+
+
+                                                                             10
+                                        C.R.C., ch. 413 — 6 octobre 2010
+
+
+
+
+(b) the vessel and its crew shall engage only in the ac-         b) le bateau de pêche et son équipage ne doivent
+tivities that are authorized by the licence;                     s’adonner qu’aux activités autorisées en vertu de la li-
+(c) the activities authorized by the licence shall be            cence;
+carried out only at the times and in the areas of Cana-          c) les activités autorisées en vertu de la licence ne
+dian fisheries waters or ports set out in the licence;           doivent avoir lieu qu’aux moments et dans les secteurs
+(d) where fishing is authorized by the licence                   des eaux de pêche canadiennes ou dans les ports indi-
+                                                                 qués sur la licence;
+  (i) the crew of the vessel shall fish only for a
+  species of fish specified in the licence,                      d) dans les secteurs où la pêche est autorisée par la li-
+                                                                 cence
+  (ii) the crew of the vessel shall not catch and retain
+  any fish of a species, size or age set out in the li-            (i) les membres de l’équipage du bateau de pêche
+  cence as prohibited catches, and where such fish are             ne doivent pêcher que les espèces de poissons spé-
+  caught they shall be returned to the water, alive if             cifiées dans la licence,
+  possible,                                                        (ii) l’équipage du bateau de pêche ne peut pas
+  (iii) and (iv) [Repealed, SOR/79-713, s. 8]                      prendre ou garder de poisson d’une espèce, de la
+                                                                   taille ou de l’âge indiqués sur la licence comme
+  (v) the crew of the vessel shall fish only by means              prises interdites et, lorsque du poisson de cette na-
+  of fishing equipment and gear of a kind set out in               ture est pris, il doit être rejeté à l’eau, vivant si pos-
+  the licence, and                                                 sible,
+  (vi) where a quantity of gear and equipment is set               (iii) et (iv) [Abrogés, DORS/79-713, art. 8]
+  out in a licence, the crew of the vessel shall not fish
+  with a quantity of gear and equipment that exceeds               (v) l’équipage du bateau de pêche ne doit pêcher
+  the quantity set out in the licence;                             qu’au moyen du matériel et des engins de pêche in-
+                                                                   diqués sur la licence, et
+(e) where the transporting of fish from fishing
+grounds is authorized by the licence                               (vi) les membres de l’équipage du bateau de pêche
+                                                                   ne doivent pas utiliser pour la pêche une quantité
+  (i) only the species and quantities of fish set out in           d’engins et d’équipement de pêche supérieure à
+  the licence shall be taken on board the vessel for               celle prévue, le cas échéant, dans la licence;
+  that purpose,
+                                                                 e) lorsque le transport de poisson à partir des zones
+  (ii) the fish may be taken on board only from ves-             de pêche est autorisé par la licence
+  sels of a class set out in the licence, and
+                                                                   (i) le bateau de pêche ne doit embarquer à cette fin
+  (iii) the master of the vessel shall cause written               que les espèces et les quantités de poisson indiquées
+  records to be maintained on a daily basis of the fish            sur la licence,
+  taken on board the vessel for transportation;
+                                                                   (ii) le poisson ne doit être embarqué qu’à partir de
+(f) and (g) [Repealed, SOR/85-527, s. 8]                           bateau de pêche d’une catégorie indiquée sur la li-
+(h) the vessel shall have on board at all times during             cence, et
+the period it is in Canadian fisheries waters equipment            (iii) le capitaine du bateau de pêche doit veiller à
+and gear, including communications equipment, de-                  faire enregistrer quotidiennement et par écrit les
+scribed in the licence as “required equipment”;                    données relatives au poisson ainsi embarqué à bord
+(i) [Repealed, SOR/85-527, s. 8]                                   du bateau de pêche en vue du transport;
+
+
+
+
+                                                            11
+                                                      C.R.C., c. 413 — October 6, 2010
+
+
+
+
+   (j) [Repealed, SOR/82-289, s. 1]                                                  f) et g) [Abrogés, DORS/85-527, art. 8]
+   (k) and (l) [Repealed, SOR/85-527, s. 8]                                          h) le bateau de pêche doit toujours avoir à son bord
+   (m) where the Minister requests the flag state of the                             pendant la période où il se trouve dans les eaux de
+   vessel to carry out, from time to time, a program of                              pêche canadiennes le matériel et les engins, y compris
+   sampling, observation or research in connection with                              le matériel de communication, décrit sur la licence
+   fisheries in Canadian fisheries waters, the master shall                          comme « matériel obligatoire »;
+   comply with instructions issued to him by the autho-                              i) [Abrogé, DORS/85-527, art. 8]
+   rized officials of that flag state in respect of that pro-                        j) [Abrogé, DORS/82-289, art. 1]
+   gram;
+                                                                                     k) et l) [Abrogés, DORS/85-527, art. 8]
+   (n) to (t) [Repealed, SOR/85-527, s. 8]
+                                                                                     m) lorsque le ministre demande à l’État du pavillon
+   (u) the master or crew of the vessel shall not carry out                          du bateau de pêche d’effectuer de temps en temps un
+   any activity in any area of Canadian fisheries waters                             programme d’échantillonnage, d’observation ou de re-
+   that is contrary to the Fisheries Act or regulations                              cherche relativement aux pêcheries dans les eaux de
+   made under that Act.                                                              pêche canadiennes, le capitaine doit se conformer aux
+                                                                                     instructions qu’il reçoit des autorités compétentes du-
+                                                                                     dit État du pavillon concernant ce programme;
+                                                                                     n) à t) [Abrogés, DORS/85-527, art. 8]
+                                                                                     u) le capitaine ou l’équipage du navire ne doivent se
+                                                                                     livrer à aucune activité, dans un secteur quelconque
+                                                                                     des eaux de pêche canadiennes, qui irait à l’encontre
+                                                                                     de la Loi sur les pêcheries ou des règlements établis
+                                                                                     en vertu de cette loi.
+   (2) The master of a foreign vessel in respect of which                             (2) Il est interdit au capitaine d’un bateau de pêche
+a licence has been issued shall not contravene or fail to                          étranger faisant l’objet d’une licence de déroger aux
+comply with any condition set out in that licence.                                 conditions de la licence.
+SOR/79-713, s. 8; SOR/82-289, s. 1; SOR/85-527, s. 8; SOR/94-362, ss. 4(F),        DORS/79-713, art. 8; DORS/82-289, art. 1; DORS/85-527, art. 8; DORS/
+5(F).                                                                              94-362, art. 4(F) et 5(F).
+
+   11.1 [Repealed, SOR/85-527, s. 9]                                                 11.1 [Abrogé, DORS/85-527, art. 9]
+
+REQUIREMENTS OF THE MASTERS OF FOREIGN                                                  EXIGENCES VISANT LE CAPITAINE D’UN
+           FISHING VESSELS                                                                  BATEAU DE PÊCHE ÉTRANGER
+                          [SOR/94-362, s. 4(F)]                                                          [DORS/94-362, art. 4(F)]
+
+  12. (1) The master of a foreign fishing vessel operat-                             12. (1) Le capitaine d’un bateau de pêche étranger
+ing under the authority of a licence shall                                         qui agit en vertu d’une licence doit :
+   (a) at least 24 hours or such shorter period as may be                            a) aviser le directeur général régional désigné dans la
+   approved by the Regional Director-General prior to                                licence, au moins 24 heures à l’avance ou dans un dé-
+   the entry of that vessel into Canadian fisheries waters                           lai plus court si ce dernier l’autorise,
+   notify the Regional Director-General designated in the                               (i) de l’heure prévue pour l’entrée du bateau de
+   licence of                                                                           pêche dans les eaux de pêche canadiennes,
+
+
+
+                                                                              12
+                                         C.R.C., ch. 413 — 6 octobre 2010
+
+
+
+
+  (i) the estimated time of entry of the vessel into                (ii) du lieu précis de cette entrée,
+  such waters,                                                      (iii) du programme des activités auxquelles il
+  (ii) the location of such entry,                                  compte se livrer dans ces eaux, et
+  (iii) the approximate schedule of activities to be                (iv) de la quantité de poisson, en tonnes métriques,
+  conducted while in such waters, and                               par espèce et par type de produit, qui se trouve à
+  (iv) the quantity in metric tons of fish by species               bord du bateau de pêche;
+  and product form on board the vessel;                           b) si la licence autorise l’entrée dans un port cana-
+(b) when authorized by the licence to enter a Canadi-             dien, aviser le directeur général régional, au moins 24
+an port, notify the Regional Director-General of the              heures à l’avance, des heures prévues pour l’entrée du
+estimated time of entry into and departure from that              bateau de pêche dans le port et sa sortie du même port;
+port not less than 24 hours prior to those estimated              c) si le bateau de pêche se trouve dans les eaux de
+times;                                                            pêche canadiennes, aviser le directeur général régio-
+(c) where the vessel is in Canadian fisheries waters,             nal, au moins 72 heures à l’avance ou dans un délai
+notify the Regional Director-General of the estimated             plus court si ce dernier l’autorise, de l’heure prévue
+time of departure from such waters not less than 72               pour le départ du bateau de pêche de ces eaux;
+hours prior to that estimated time or such shorter peri-          d) si, à un moment donné, le bateau de pêche se
+od as may be approved by the Regional Director-Gen-               trouve dans un secteur des eaux de pêche canadiennes
+eral;                                                             où la licence n’autorise pas la pêche à ce moment-là,
+(d) where the vessel is in an area of Canadian fish-              veiller à ce que tous les engins de pêche à bord du ba-
+eries waters and is not authorized by the licence to en-          teau soient rangés sous le pont ou soient enlevés de
+gage in fishing at that time in that area, ensure that all        l’endroit où ils sont normalement utilisés pour la
+fishing gear on board the vessel is stored below deck             pêche et mis dans un endroit où ils ne sont pas facile-
+or otherwise removed from the place where it is nor-              ment accessibles pour servir à la pêche;
+mally used for fishing and placed where it is not readi-          e) recevoir à bord du bateau, à la demande du direc-
+ly available for fishing;                                         teur général régional, des observateurs au moment et
+(e) permit, when requested by the Regional Director-              pour la période mentionnés dans la demande, afin que
+General, observers to go on board and remain on                   ceux-ci puissent faire des constatations, recueillir des
+board the vessel at a time and for a period specified in          données scientifiques ou prélever des échantillons;
+the request for the purposes of recording scientific da-          f) embarquer ou débarquer des observateurs au mo-
+ta, making observations and taking samples;                       ment et à l’endroit mentionnés sur la demande visée à
+(f) embark or disembark the observers at a time and               l’alinéa e);
+place specified in a request made under paragraph (e);            g) prendre toutes les précautions raisonnables pour
+(g) take all reasonable precautions to ensure the safe-           assurer la sécurité des gardes-pêche ou des observa-
+ty of any protection officer or observer boarding or              teurs qui montent à bord ou débarquent du bateau de
+leaving the vessel at sea including the observance of             pêche en mer, y compris le respect des pratiques na-
+practices of good seamanship and, where necessary,                vales appropriées et, au besoin, l’installation d’une
+the placing of a pilot ladder over the side of the ves-           échelle de pilote sur le flanc du bateau de pêche;
+sel;                                                              h) si un garde-pêche ou un observateur demeure à
+                                                                  bord du bateau de pêche pendant plus de quatre heures
+
+
+
+
+                                                             13
+                                       C.R.C., c. 413 — October 6, 2010
+
+
+
+
+(h) where a protection officer or an observer is on             consécutives, lui offrir des privilèges de gîte et de
+board the vessel and remains on board the vessel for a          couvert équivalents à ceux dont jouissent les officiers
+period of more than four consecutive hours, provide             du bateau de pêche;
+the protection officer or observer with food and ac-            i) fournir au garde-pêche ou à l’observateur qui se
+commodation equivalent to that received by officers             trouve à bord du bateau de pêche une aide raisonnable
+of the vessel;                                                  pour lui permettre de s’acquitter de ses fonctions, no-
+(i) provide all reasonable assistance in his power to           tamment,
+enable a protection officer or an observer on board the           (i) lui fournir un lieu de travail approprié, y com-
+vessel to carry out his duties and in particular, but             pris une table et un éclairage suffisant pour qu’il
+without restricting the generality of the foregoing,              puisse effectuer son travail,
+shall
+                                                                  (ii) lui donner accès aux registres et livres de bord
+  (i) provide him with a suitable work area including             ayant trait aux activités de pêche du bateau de
+  a table and sufficient lighting to carry out his work,          pêche,
+  (ii) provide him with access to the vessel records              (iii) lui donner, sur demande, la position du bateau
+  and logs pertaining to its fishing activities,                  de pêche, en indiquant la latitude et la longitude,
+  (iii) provide him, on request, with the position of             (iv) envoyer et recevoir des messages en son nom,
+  the vessel in latitude and longitude,                           au moyen du matériel de communication se trou-
+  (iv) send and receive messages on his behalf by                 vant à bord du bateau de pêche,
+  means of the communications equipment on board                  (v) lui donner accès à toutes les parties du bateau
+  the vessel,                                                     de pêche qui servent à la pêche, au traitement et à
+  (v) provide him with access to all areas of the ves-            l’entreposage,
+  sel involved in the fishing, processing and storage             (vi) lui permettre de prélever des échantillons et lui
+  operations,                                                     fournir une aide raisonnable à cette fin,
+  (vi) permit him to take samples and provide him                 (vii) lui fournir des installations d’entreposage
+  with all reasonable assistance in his doing so,                 convenables pour ses échantillons,
+  (vii) provide him with suitable storage facilities for          (viii) lui permettre d’examiner et de mesurer tout
+  his samples,                                                    engin de pêche se trouvant à bord du bateau de
+  (viii) permit him to examine and measure any fish-              pêche et lui fournir une aide raisonnable à cette fin,
+  ing gear on board the vessel and provide him with               (ix) lui permettre de prendre des photographies des
+  all reasonable assistance in his doing so,                      activités de pêche, ainsi que de l’équipement et des
+  (ix) permit him to take photographs of the fisheries            engins de pêche, et
+  operations, including fishing gear and equipment,               (x) lui permettre d’emporter à son départ du bateau
+  and                                                             de pêche les renseignements, les échantillons, les
+  (x) permit him to remove from the vessel samples,               photographies ou les films pris pendant son séjour à
+  information, photographs or film taken or made                  bord; ou
+  during his time on board the vessel;                          j) dans les cas où il a reçu un livre de bord dans le-
+(j) where supplied with a log book requiring the                quel il doit consigner les activités de pêche, les prises
+recording of the fishing activities, catch, production          et les transferts de poissons et de produits de la pêche
+
+
+
+
+                                                           14
+                                           C.R.C., ch. 413 — 6 octobre 2010
+
+
+
+
+  and transfer of fish and fish products in accordance                conformément aux instructions contenues dans ce
+  with the instructions contained in that log book                    livre,
+    (i) fully and accurately complete that log book on a                (i) remplir quotidiennement le livre de bord, en y
+    daily basis, and                                                    inscrivant avec précision tous les détails pertinents,
+    (ii) provide the Regional Director-General with a                   et
+    copy of the information entered in that log book;                   (ii) fournir au directeur général régional les rensei-
+  (k) send the original of the log book required to be                  gnements inscrits dans le livre de bord;
+  completed under paragraph (j)                                       k) envoyer l’original du livre de bord rempli confor-
+    (i) upon request, to a protection officer or a Re-                mément à l’alinéa j)
+    gional Director-General as soon as the request is                   (i) au garde-pêche ou au directeur général régional
+    made, or                                                            dès qu’il lui en fait la demande, ou
+    (ii) where a request has not been made under sub-                   (ii) lorsqu’une demande n’a pas été faite, confor-
+    paragraph (i), to the Regional Director-General des-                mément au sous-alinéa (i), au directeur général ré-
+    ignated in the licence not later than 60 days after                 gional désigné dans la licence, au plus tard 60 jours
+    the expiration date of the licence;                                 après la date d’expiration de la licence;
+  (l) cause reports to be made containing such informa-               l) voir à l’établissement des rapports devant être pré-
+  tion, at such times, to such persons and by such means              sentés dans les délais, aux personnes et de la manière
+  as are set out in the licence;                                      indiqués sur la licence et contenant les renseignements
+  (m) while in Canadian fisheries waters, at the request              qui y sont précisés;
+  of a Regional Director-General or a protection officer              m) s’il se trouve dans les eaux de pêche canadiennes,
+  proceed forthwith to the place at sea or the port speci-            se diriger sur-le-champ vers l’endroit en mer ou le
+  fied in the request for the purpose of inspection; and              port que désigne le directeur général régional ou le
+  (n) ensure that the vessel at all times while in Canadi-            garde-pêche qui lui en fait la demande pour fins d’ins-
+  an fisheries waters is flying the flag of its flag state.           pection; et
+                                                                      n) s’assurer que le bateau de pêche porte un drapeau
+                                                                      aux couleurs de l’État du pavillon, tant qu’il se trouve
+                                                                      dans les eaux de pêche canadiennes.
+   (2) The master of a foreign fishing vessel in respect               (2) Le capitaine d’un bateau de pêche étranger faisant
+of which a licence has been issued shall not operate or             l’objet d’une licence ne doit pas utiliser ni permettre à
+cause to be operated that vessel for fishing unless the             une autre personne d’utiliser le bateau de pêche dans le
+side number set out in the licence is painted on the ves-           cadre de la pêche, sauf si le numéro latéral mentionné
+sel or affixed permanently to the vessel by some other              sur la licence est peint ou autrement fixé en permanence
+means and                                                           sur le bateau de pêche et qu’il est
+  (a) is legible and visible from an aircraft in flight, an-          a) lisible et visible à partir d’un aéronef en vol, d’un
+  other vessel or the shore;                                          autre bateau de pêche ou de la rive;
+  (b) is in solid block Arabic numerals without orna-                 b) inscrit en chiffres arabes pleins, sans fioritures;
+  mentation;                                                          c) blanc sur un fond noir ou noir sur un fond blanc;
+                                                                      d) aligné horizontalement; et
+
+
+
+                                                               15
+                                                          C.R.C., c. 413 — October 6, 2010
+
+
+
+
+     (c) is white on a black background or black on a                                    e) de dimensions conformes à celles prévues au ta-
+     white background;                                                                   bleau du présent paragraphe et apposé à l’endroit qui y
+     (d) is in alignment and in a horizontal line; and                                   est spécifié.
+
+     (e) is located on the vessel and in dimensions speci-
+     fied in the table to this subsection.
+                                                                             TABLE
+
+                 Column I             Column II             Column III           Column IV            Column V                   Column VI
+                                                                           Thickness of Line          Spacing of Numerals
+                 Overall Length of    Height of Numerals Width of Numerals of Numerals and            and Letters and
+Item             Vessel               and Letters        and Letters       Letters                    Width of Border*    Location on Vessel
+1.               Less than 30.48 m 50 cm                    15 cm                5 cm                 5 cm                       As high as practical on both sides of
+                                                                                                                                 superstructure and as high as
+                                                                                                                                 practical on the superstructure
+                                                                                                                                 facing directly upwards.
+2.               30.48 m or more      1m                    30 cm                10 cm                10 cm                      As high as practical on both sides of
+                                                                                                                                 superstructure and as high as
+                                                                                                                                 practical on the superstructure
+                                                                                                                                 facing directly upwards.
+*
+   Space between extremities of numerals and the outer edge of the black or white background, where the part of the vessel on which the number is located is not
+painted black or white.
+
+                                                                           TABLEAU
+
+                 Colonne I            Colonne II           Colonne III           Colonne IV            Colonne V                 Cononne VI
+                                    Hauteur des                                 Épaisseur des          Espace entre les
+                 Longueur hors tout chiffres et des        Largeur des chiffres chiffres et des        chiffres et les lettres
+Article          du bateau de pêche lettres                et des lettres       lettres                et largeur du cadre*      Emplacement sur le bateau de pêche
+1.               Moins de 30,48 m     50 cm                15 cm                 5 cm                  5 cm                      Le plus haut possible de part et
+                                                                                                                                 d’autre de la superstructure et sur la
+                                                                                                                                 surface la plus élevée de la
+                                                                                                                                 superstructure, directement face au
+                                                                                                                                 ciel.
+2.               30,48 m ou plus      1m                   30 cm                 10 cm                 10 cm                     Le plus haut possible de part et
+                                                                                                                                 d’autre de la superstructure et sur la
+                                                                                                                                 surface la plus élevée de la
+                                                                                                                                 superstructure, directement face au
+                                                                                                                                 ciel.
+*
+   Le cadre est l’espace entre l’extrémité des chiffres et le pourtour du fond noir ou blanc. (Ne s’applique qu’aux cas où la partie du bateau sur laquelle figure le
+numéro est peinte en une couleur autre que le noir ou le blanc.)
+SOR/78-795, s. 2; SOR/81-976, s. 1; SOR/85-527, s. 9; SOR/86-939, s. 4;              DORS/78-795, art. 2; DORS/81-976, art. 1; DORS/85-527, art. 9; DORS/
+SOR/89-29, s. 1; SOR/94-362, ss. 4(F), 5(F), 7(F); SOR/96-390, s. 1(F); SOR/         86-939, art. 4; DORS/89-29, art. 1; DORS/94-362, art. 4(F), 5(F) et 7(F);
+2003-137, s. 1.                                                                      DORS/96-390, art. 1(F); DORS/2003-137, art. 1.
+
+   12.1 (1) Subject to subsection (3), the master of a                                  12.1 (1) Sous réserve du paragraphe (3), le capitaine
+foreign fishing vessel entering Canadian fisheries waters                            d’un bateau de pêche étranger qui pénètre dans les eaux
+shall, as soon as is reasonably possible, notify a protec-                           de pêche canadiennes doit, dès qu’il est raisonnablement
+tion officer or Regional Director-General of the name,                               possible de le faire, communiquer à un garde-pêche ou
+flag state, location, route and destination of the vessel                            au directeur général régional le nom, l’État du pavillon,
+and of the circumstances under which it entered Canadi-                              le lieu, le trajet et la destination du bateau, ou les cir-
+an fisheries waters.
+
+
+
+                                                                                16
+                                                   C.R.C., ch. 413 — 6 octobre 2010
+
+
+
+
+                                                                      constances qui l’ont amené à pénétrer dans les eaux de
+                                                                      pêche canadiennes.
+   (2) Subject to subsection (3), the master of a foreign               (2) Sous réserve du paragraphe (3), le capitaine d’un
+fishing vessel that has entered Canadian fisheries waters             bateau de pêche étranger doit, pendant qu’il se trouve
+shall, while in those waters,                                         dans les eaux de pêche canadiennes :
+   (a) ensure that all fishing gear on board the vessel is               a) veiller à ce que tous les engins de pêche à bord du
+   stowed below deck or otherwise removed from the                       bateau soient rangés sous le pont ou soient enlevés de
+   place where it is normally used for fishing and placed                l’endroit où ils sont normalement utilisés pour la
+   where it is not readily available for fishing; and                    pêche et mis dans un endroit où ils ne sont pas facile-
+   (b) at the request of a protection officer, proceed to a              ment accessibles pour servir à la pêche;
+   location indicated by the officer for the purpose of                  b) à la demande d’un garde-pêche, diriger le bateau à
+   carrying out an inspection of the vessel.                             l’endroit indiqué par celui-ci afin qu’une visite du ba-
+                                                                         teau soit effectuée.
+   (3) Subsections (1) and (2) do not apply to a foreign                 (3) Les paragraphes (1) et (2) ne s’appliquent pas au
+fishing vessel in respect of which a licence has been is-             bateau de pêche étranger pour lequel une licence a été
+sued under these Regulations or a United States sport                 délivrée sous le régime du présent règlement ni au ba-
+fishing vessel authorized to enter Canadian fisheries wa-             teau de pêche sportive des États-Unis qui pénètre dans
+ters pursuant to section 16.                                          les eaux de pêche canadiennes en vertu de l’article 16.
+SOR/96-390, s. 2.                                                     DORS/96-390, art. 2.
+
+    AUTHORIZATION FOR CANADIAN FISHING                                AUTORISATION POUR LES BATEAUX DE PÊCHE
+    VESSELS TO LAND FISH RECEIVED FROM                                CANADIENS DE DÉBARQUER DU POISSON REÇU
+             FOREIGN VESSELS                                              DE BATEAUX DE PÊCHE ÉTRANGERS
+                           [SOR/94-362, s. 4(F)]                                               [DORS/94-362, art. 4(F)]
+
+   13. The Minister may, at the request of the owner or                  13. Le ministre peut, à la demande du propriétaire ou
+master of a Canadian fishing vessel, issue a licence au-              du capitaine d’un bateau de pêche canadien, délivrer une
+thorizing the master to bring into Canadian fisheries wa-             licence autorisant le capitaine à apporter dans les eaux de
+ters fish, of a species and quantity specified in the li-             pêche canadiennes l’espèce et la quantité de poisson spé-
+cence, received outside Canadian fisheries waters from a              cifiées dans la licence, qu’il reçoit d’un bateau de pêche
+foreign fishing vessel.                                               étranger en dehors desdites eaux.
+SOR/85-527, s. 9; SOR/94-362, ss. 4(F), 5(F).                         DORS/85-527, art. 9; DORS/94-362, art. 4(F) et 5(F).
+
+ SUSPENSION OR CANCELLATION OF LICENCES                                SUSPENSION OU ANNULATION DES LICENCES
+              AND PERMITS                                                            ET PERMIS
+  13.1 (1) The Minister may suspend or cancel any li-                    13.1 (1) Le ministre peut suspendre ou annuler une
+cence or permit.                                                      licence ou un permis.
+  (2) Where a licence or permit has been suspended or                   (2) Après suspension ou annulation d’une licence ou
+cancelled pursuant to subsection (1), the Minister                    d’un permis selon le paragraphe (1), le ministre
+   (a) shall, if requested, furnish reasons for the cancel-              a) donne, sur demande, les raisons qui ont motivé
+   lation or suspension to the consular or the diplomatic                cette annulation ou cette suspension soit aux autorités
+
+
+
+
+                                                                 17
+                                                       C.R.C., c. 413 — October 6, 2010
+
+
+
+
+   authorities of the flag state of the foreign fishing ves-                      consulaires ou diplomatiques de l’État du pavillon qui
+   sel described in the licence or permit or the represen-                        parait à la licence ou au permis, soit au représentant
+   tative in Canada designated pursuant to paragraph                              visé à l’alinéa 7f);
+   7(f);                                                                          b) examine tout exposé de griefs quant à cette suspen-
+   (b) shall consider any written representation made                             sion ou cette annulation, de la part du propriétaire du
+   with respect to the suspension or cancellation by or on                        bateau de pêche ou présenté en son nom; et
+   behalf of the owner of the vessel; and                                         c) peut révoquer la suspension ou l’annulation.
+   (c) may rescind the suspension or cancellation.                             DORS/79-713, art. 10; DORS/94-362, art. 4(F).
+SOR/79-713, s. 10; SOR/94-362, s. 4(F).
+
+                     AUTHORIZED ENTRY                                                          PÉNÉTRATION AUTORISÉE
+   14. A foreign fishing vessel may, without the authori-                        14. Un bateau de pêche étranger peut, sans licence,
+ty of a licence, enter Canadian fisheries waters for the                       pénétrer dans les eaux de pêche canadiennes aux fins
+purpose of                                                                     suivantes :
+   (a) where the vessel is in distress, ensuring the safety                       a) assurer sa sécurité et celle des membres de son
+   of the vessel and its crew;                                                    équipage, lorsqu’il est en détresse;
+   (b) rendering assistance to a vessel described in para-                        b) aider un bateau de pêche en détresse;
+   graph (a); or                                                                  c) obtenir, dans un port canadien, des soins médicaux
+   (c) obtaining emergency medical assistance for a                               d’urgence pour un membre de l’équipage.
+   member of the crew at a Canadian port.                                      DORS/85-527, art. 10; DORS/94-362, art. 4(F), 5(F) et 7(F); DORS/96-390,
+                                                                               art. 3.
+SOR/85-527, s. 10; SOR/94-362, ss. 4(F), 5(F), 7(F); SOR/96-390, s. 3.
+
+   15. A foreign fishing vessel may, without the authori-                         15. Un bateau de pêche étranger peut, sans licence,
+ty of a licence, enter the territorial sea of Canada or Fish-                  pénétrer dans la mer territoriale du Canada, la Zone de
+ing Zone 4, Fishing Zone 5 or Fishing Zone 6 for the                           pêche 4, la Zone de pêche 5 ou la Zone de pêche 6 dans
+purpose of passing through such waters during the                              le cadre d’un voyage vers une destination située hors des
+course of a voyage to a destination outside Canadian                           eaux de pêche canadiennes.
+fisheries waters.                                                              DORS/79-713, art. 11; DORS/81-193, art. 1; DORS/85-527, art. 11; DORS/
+                                                                               94-362, art. 4(F), 5(F) et 7(F); DORS/96-390, art. 3.
+SOR/79-713, s. 11; SOR/81-193, s. 1; SOR/85-527, s. 11; SOR/94-362, ss.
+4(F), 5(F), 7(F); SOR/96-390, s. 3.
+
+   16. Subject to the Fisheries Act and Regulations                               16. Sous réserve de la Loi sur les pêcheries et de ses
+made thereunder, a United States sport fishing vessel                          règlements d’application, un bateau de pêche sportive
+and its crew may, without a licence, enter Canadian fish-                      des États-Unis et les membres de son équipage peuvent,
+eries waters for the purpose of sport fishing and while in                     sans licence, pénétrer dans les eaux de pêche cana-
+Canadian fisheries waters carry out the activities de-                         diennes pour y pratiquer la pêche sportive et exercer,
+scribed in subparagraphs 5(1)(a)(vi), (vii) and (x).                           pendant qu’ils s’y trouvent, les activités visées aux sous-
+SOR/85-527, s. 12; SOR/94-362, ss. 4(F), 5(F).                                 alinéas 5(1)a)(vi), (vii) et (x).
+                                                                               DORS/85-527, art. 12; DORS/94-362, art. 4(F) et 5(F).
+
+   17. [Repealed, SOR/94-444, s. 2]                                               17. [Abrogé, DORS/94-444, art. 2]
+
+
+
+
+                                                                          18
+                                           C.R.C., ch. 413 — 6 octobre 2010
+
+
+
+
+                              SIGNALS                                                           SIGNAUX
+   18. For the purposes of the Act and these Regula-                  18. Pour l’application de la Loi et du présent règle-
+tions, the signal requiring a fishing vessel to bring to is        ment, le signal ordonnant à un bateau de pêche d’arrêter
+Signal L.                                                          est le signal L.
+SOR/81-76, s. 1; SOR/94-362, s. 2.                                 DORS/81-76, art. 1; DORS/94-362, art. 2.
+
+   18.1 When a protection officer on board an inspection              18.1 Le signal à employer par un bateau d’inspection
+vessel intends to board a fishing vessel of a participating        lorsqu’un garde-pêche s’y trouvant projette de monter à
+state, the signal to be used by the inspection vessel is           bord d’un bateau de pêche d’un État assujetti à l’accord
+Signal SQ 3.                                                       est le signal SQ 3.
+SOR/2004-110, s. 2.                                                DORS/2004-110, art. 2.
+
+  19. Where a protection officer or an observer on                    19. Le signal à employer par un bateau de l’État lors-
+board a government vessel intends to board a fishing               qu’un garde-pêche ou un observateur s’y trouvant pro-
+vessel at sea, the signal to be used by the government             jette de monter à bord d’un bateau de pêche en mer est le
+vessel is Signal SQ 3.                                             signal SQ 3.
+SOR/94-362, s. 2.                                                  DORS/94-362, art. 2.
+
+   19.1 For the purposes of the Act and these Regula-                 19.1 Pour l’application de la Loi et du présent règle-
+tions, the flying by a vessel of a pennant in the shape,           ment, le fanion hissé dont la forme, la taille et les cou-
+size and colours set out in Schedule III identifies that           leurs sont conformes à l’annexe III constitue la marque
+vessel as a government vessel.                                     d’identification d’un bateau de l’État.
+SOR/80-186, s. 6; SOR/94-362, s. 2.                                DORS/80-186, art. 6; DORS/94-362, art. 2.
+
+  19.2 The following methods of signalling may be                     19.2 Les méthodes de signalisation suivantes peuvent
+used to send signals to fishing vessels:                           être utilisées pour transmettre des signaux aux bateaux
+   (a) flag signalling using alphabetical flags;                   de pêche :
+
+   (b) flashing light signalling using Morse symbols;                 a) signalisation par pavillons alphabétiques;
+
+   (c) sound signalling using Morse symbols;                          b) signalisation lumineuse selon le code Morse;
+
+   (d) Morse signalling using hand-flags or arms;                     c) signalisation sonore selon le code Morse;
+
+   (e) voice with or without using loud hailer;                       d) signalisation manuelle, avec ou sans pavillons, se-
+                                                                      lon le code Morse;
+   (f) radiotelegraphy; and
+                                                                      e) signalisation vocale avec ou sans porte-voix;
+   (g) radiotelephony.
+                                                                      f) radiotélégraphie;
+SOR/94-362, s. 2.
+                                                                      g) radiotéléphonie.
+                                                                   DORS/94-362, art. 2.
+
+                          USE OF FORCE                                                    USAGE DE LA FORCE
+   19.3 A protection officer may use force under section              19.3 Le garde-pêche ne peut employer la force en ap-
+8.1 of the Act only where the protection officer is pro-           plication de l’article 8.1 de la Loi que lorsqu’il procède
+ceeding lawfully and in accordance with the manner set             légalement et de la manière prévue aux articles 19.4 et
+out in sections 19.4 and 19.5 to arrest the master or other        19.5 à l’arrestation du capitaine ou du responsable d’un
+
+
+
+
+                                                              19
+                                           C.R.C., c. 413 — October 6, 2010
+
+
+
+
+person in command of a foreign fishing vessel for the               bateau de pêche étranger à l’égard d’une infraction à
+commission of an offence under section 3, paragraph                 l’article 3, à l’alinéa 4(1)a) ou à l’article 5.2 de la Loi ou
+4(1)(a) or section 5.2 of the Act or of an offence set out          d’une infraction visée au sous-alinéa 17a)(ii) de la Loi.
+in subparagraph 17(a)(ii) of the Act.                               DORS/94-362, art. 2.
+SOR/94-362, s. 2.
+
+  19.4 Before using force referred to in section 19.3, a               19.4 Avant d’employer la force visée à l’article 19.3,
+protection officer shall                                            le garde-pêche doit :
+   (a) consider all less violent means reasonable in the               a) prendre en considération tous les moyens moins
+   circumstances to have the foreign fishing vessel bring              violents qu’il serait raisonnable d’utiliser dans les cir-
+   to, including                                                       constances pour arrêter le bateau de pêche étranger,
+      (i) interrupting the fishing operations of the vessel,           notamment :
+      including cutting the warps of a trawl net being                    (i) interrompre ses opérations de pêche, y compris
+      towed by the vessel, and                                            couper les funes du chalut qu’il traîne,
+      (ii) boarding the vessel; and                                       (ii) monter à son bord;
+   (b) be satisfied that the foreign fishing vessel cannot             b) être convaincu qu’aucun de ces moyens ne peut
+   be made to bring to by those means.                                 réussir à arrêter le bateau de pêche étranger.
+SOR/94-362, s. 2; SOR/95-136, s. 1.                                 DORS/94-362, art. 2; DORS/95-136, art. 1.
+
+   19.5 A protection officer who has met the require-                  19.5 Le garde-pêche qui satisfait aux exigences de
+ments of section 19.4 shall, before using force referred to         l’article 19.4 doit, avant d’employer la force visée à l’ar-
+in section 19.3,                                                    ticle 19.3 :
+   (a) fire a warning shot or, if the protection officer               a) tirer un coup de semonce ou, s’il le juge indiqué,
+   considers it advisable, a series of warning shots in the            une série de coups de semonce aux alentours du ba-
+   vicinity of the foreign fishing vessel but at a safe dis-           teau de pêche étranger à une distance sans danger et
+   tance and give the master or other person on board a                laisser au capitaine ou à une autre personne à bord la
+   reasonable opportunity to bring to; and                             possibilité d’arrêter le bateau;
+   (b) signal the foreign fishing vessel by Signal SQ 1                b) transmettre au bateau de pêche étranger le signal
+   and give the master or other person on board a reason-              SQ 1 et laisser au capitaine ou à une autre personne à
+   able opportunity to bring to.                                       bord la possibilité d’arrêter le bateau.
+SOR/94-362, s. 2.                                                   DORS/94-362, art. 2.
+
+           RETURN OF PROHIBITED SPECIES                                REMISE À L’EAU DES ESPÈCES INTERDITES
+   20. The master of a foreign fishing vessel in respect               20. Le capitaine d’un bateau de pêche étranger faisant
+of which a licence has been issued shall, where fish of a           l’objet d’une licence doit faire remettre immédiatement à
+species, size or age set out in the licence as prohibited           l’eau, de façon qu’il soit blessé le moins possible, tout
+species is caught from the vessel, cause forthwith the re-          poisson pris à partir du bateau de pêche et appartenant,
+turn of that fish to the water in a manner that causes the          en raison de son espèce, de sa taille ou de son âge, à une
+least possible harm to that fish.                                   espèce interdite désignée dans la licence.
+SOR/85-527, s. 14; SOR/94-362, s. 4(F).                             DORS/85-527, art. 14; DORS/94-362, art. 4(F).
+
+
+
+
+                                                               20
+                                          C.R.C., ch. 413 — 6 octobre 2010
+
+
+
+
+FISHING BY FOREIGN FISHING VESSELS IN THE                           PÊCHE PRATIQUÉE PAR DES BATEAUX DE
+         NAFO REGULATORY AREA                                        PÊCHE ÉTRANGERS DANS LA ZONE DE
+                                                                        RÉGLEMENTATION DE L’OPAN
+ 21. (1) [Repealed, SOR/99-313, s. 3]                              21. (1) [Abrogé, DORS/99-313, art. 3]
+ (2) For the purposes of section 5.2 of the Act,                   (2) Pour l’application de l’article 5.2 de la Loi :
+ (a) straddling stocks are,                                        a) constituent des stocks chevauchants :
+   (i) in Division 3L, Division 3N and Division 3O,                  (i) dans la division 3L, la division 3N et la division
+   the stocks of fish set out in Table I to this section,            3O, les stocks de poissons mentionnés au tableau I
+   and                                                               du présent article,
+   (ii) in Division 3M, the stocks of fish set out in Ta-            (ii) dans la division 3M, les stocks de poissons
+   ble II to this section;                                           mentionnés au tableau II du présent article;
+ (b) the following classes of foreign fishing vessels are          b) les classes réglementaires de bateaux de pêche
+ prescribed classes, namely                                        étrangers sont :
+   (i) [Repealed, SOR/99-313, s. 3]                                  (i) [Abrogé, DORS/99-313, art. 3]
+   (ii) foreign fishing vessels that fly the flag of any             (ii) les bateaux de pêche étrangers qui naviguent
+   state set out in Table III to this section, and                   sous le pavillon d’un État visé au tableau III du pré-
+   (iii) foreign fishing vessels that fly the flag of any            sent article,
+   state set out in Table IV to this section;                        (iii) les bateaux de pêche étrangers qui naviguent
+ (c) in respect of a foreign fishing vessel of a class               sous le pavillon d’un État visé au tableau IV du pré-
+ prescribed by subparagraph (b)(ii), prohibitions                    sent article;
+ against fishing for the straddling stocks set out in Ta-          c) en ce qui concerne les bateaux de pêche étrangers
+ ble I or II to this section, against preparing to fish for        de la classe visée au sous-alinéa b)(ii), l’interdiction
+ those straddling stocks and against catching and re-              de pêcher des stocks chevauchants figurant aux ta-
+ taining those straddling stocks are hereby prescribed             bleaux I ou II du présent article, l’interdiction de se
+ as conservation and management measures; and                      préparer à les pêcher et l’interdiction de les prendre et
+ (d) in respect of a foreign fishing vessel of a class             de les garder constituent des mesures de conservation
+ prescribed by subparagraph (b)(iii), the measures set             et de gestion;
+ out in Table V to this section are prescribed conserva-           d) en ce qui concerne les bateaux de pêche étrangers
+ tion and management measures.                                     de la classe visée au sous-alinéa b)(iii), constituent des
+                                                                   mesures de conservation et de gestion les mesures vi-
+                                                                   sées au tableau V du présent article.
+
+
+
+
+                                                              21
+                                                C.R.C., c. 413 — October 6, 2010
+
+
+
+
+                             TABLE I                                                             TABLEAU I
+
+         STRADDLING STOCKS LOCATED IN                                            STOCKS CHEVAUCHANTS DANS LA
+      DIVISION 3L, DIVISION 3N OR DIVISION 3O                                    DIVISION 3L, LA DIVISION 3N OU LA
+                                                                                            DIVISION 3O
+                              PART A                                                               PARTIE A
+
+                         GROUNDFISH                                                            POISSONS DE FOND
+
+          Column I                     Column II                                    Colonne I                 Colonne II
+Item      Common Name                  Scientific Name                 Article      Nom commun                Nom scientifique
+1.        American angler              Lophius americanus              1.           Baudroie d’Amérique Lophius americanus
+2.        American plaice              Hippoglossoides                 2.           Plie d’Amérique           Hippoglossoides
+                                       platessoides                                                           platessoides
+3.        American sand lance          Ammodytes americanus            3.           Lançon d’Amérique         Ammodytes americanus
+4.        Atlantic argentine           Argentina silus                 4.           Grande argentine          Argentina silus
+5.        Atlantic cod                 Gadus morhua                    5.           Morue franche             Gadus morhua
+6.        Atlantic halibut             Hippoglossus                    6.           Flétan atlantique         Hippoglossus
+                                       hippoglossus                                                           hippoglossus
+7.        Atlantic redfish             Sebastes fasciatus,             7.           Sébaste d’Acadie,         Sebastes fasciatus,
+          (Acadian, Golden,            Sebastes marinus and                         sébaste orangé,           Sebastes marinus et
+          Deepwater)                   Sebastes mentella                            sébaste atlantique        Sebastes mentella
+8.        Atlantic wolffish            Anarhichas lupus                8.           Loup de l’Atlantique Anarhichas lupus
+9.        Barndoor skate               Raja laevis                     9.           Grande raie               Raja laevis
+10.       Greenland halibut            Reinhardtius                    10.          Flétan du Grœnland        Reinhardtius
+                                       hippoglossoides                                                        hippoglossoides
+11.       Haddock                      Melanogrammus                   11.          Aiglefin                  Melanogrammus
+                                       aeglefinus                                                             aeglefinus
+12.       Pollock                      Pollachius virens               12.          Goberge                   Pollachius virens
+13.       Red hake                     Urophycis chuss                 13.          Merluche rouge            Urophycis chuss
+14.       Roughhead grenadier          Macrourus berglax               14.          Grenadier berglax         Macrourus berglax
+15.       Roundnose grenadier          Coryphaenoides rupestris        15.          Grenadier de roche        Coryphaenoides rupestris
+16.       Silver hake                  Merluccius bilinearis           16.          Merlu argenté             Merluccius bilinearis
+17.       Spotted wolffish             Anarhichas minor                17.          Loup tacheté              Anarhichas minor
+18.       Thorny skate                 Raja radiata                    18.          Raie épineuse             Raja radiata
+19.       White hake                   Urophycis tenuis                19.          Merluche blanche          Urophycis tenuis
+20.       Witch flounder               Glyptocephalus                  20.          Plie grise                Glyptocephalus
+                                       cynoglossus                                                            cynoglossus
+21.       Yellowtail flounder          Limanda ferruginea              21.          Limande à queue           Limanda ferruginea
+                                                                                    jaune
+
+
+
+
+                                                                  22
+                                             C.R.C., ch. 413 — 6 octobre 2010
+
+
+
+
+                           PART B                                                              PARTIE B
+
+              FISH OTHER THAN GROUNDFISH                                    POISSONS AUTRES QUE LES POISSONS DE FOND
+
+         Column I                   Column II                                   Colonne I                 Colonne II
+Item     Common Name                Scientific Name               Article       Nom commun                Nom scientifique
+1.       Capelin                    Mallotus villosus             1.            Capelan                   Mallotus villosus
+2.       Dogfish                    Squalus acanthias             2.            Aiguillat commun          Squalus acanthias
+3.       Greenland cockle           Serripes groenlandicus        3.            Coque du Grœnland         Serripes groenlandicus
+4.       Northern sand lance        Ammodytes dubius              4.            Lançon du nord            Ammodytes dubius
+5.       Northern shrimp            Pandalus borealis             5.            Crevette nordique         Pandalus borealis
+6.       Sharks                     Squaliformes                  6.            Requins                   Squaliformes
+7.       Short-finned squid         Illex illecebrosus            7.            Encornet rouge            Illex illecebrosus
+                                                                                nordique
+
+                        TABLE II                                                            TABLEAU II
+
+       STRADDLING STOCKS IN DIVISION 3M                                     STOCKS CHEVAUCHANTS DANS LA
+                                                                                     DIVISION 3M
+
+         Column I                   Column II                                   Colonne I                 Colonne II
+Item     Common Name                Scientific Name               Article       Nom commun                Nom scientifique
+1.       Greenland halibut          Reinhardtius                  1.            Flétan du Grœnland        Reinhardtius
+                                    hippoglossoides                                                       hippoglossoides
+
+                        TABLE III                                                          TABLEAU III
+
+                          STATES                                                               ÉTATS
+
+Item     States                                                   Article       État
+1.       Belize                                                   1.            Belize
+2.       Cayman Islands                                           2.            Îles Cayman
+3.       Honduras                                                 3.            Honduras
+4.       Panama                                                   4.            Panama
+5.       Saint-Vincent and the Grenadines                         5.            Saint-Vincent-et-Grenadines
+6.       Sierra Leone                                             6.            Sierra Leone
+
+                        TABLE IV                                                          TABLEAU IV
+
+                          STATES                                                               ÉTATS
+
+Item     States                                                   Article       États
+1. and 2. [Repealed, SOR/95-222, s. 1]                            1. et 2. [Abrogés, DORS/95-222, art. 1]
+
+
+
+
+                                                             23
+                                            C.R.C., c. 413 — October 6, 2010
+
+
+
+
+                       TABLE V                                                           TABLEAU V
+
+       PRESCRIBED CONSERVATION AND                                    MESURES DE CONSERVATION ET DE GESTION
+          MANAGEMENT MEASURES
+
+Item   Measure                                                       Article   Mesure
+1.     Prohibitions against fishing for, or catching and             1.        Interdiction de pêcher ou de prendre et de garder
+       retaining, Greenland halibut in Division 3L,                            du flétan du Grœnland dans la division 3L, la
+       Division 3M, Division 3N or Division 3O during                          division 3M, la division 3N et la division 3O
+       the period commencing on March 3 and terminating                        pendant la période commençant le 3 mars et se
+       on December 31 in any year.                                             terminant le 31 décembre de chaque année.
+2.     Prohibitions against fishing for, or catching and             2.        Interdictions de pêcher ou de prendre et de
+       retaining, (a) American plaice in Division 3L,                          garder : a) de la plie d’Amérique dans la division
+       Division 3N or Division 3O; (b) Atlantic cod in                         3L, la division 3N et la divison 3O; b) de la
+       Division 3L, Division 3N or Division 3O; (c)                            morue franche dans la division 3L, la division
+       Capelin in Division 3N or Division 3O; (d)                              3N et la division 3O; c) du capelan dans la
+       Northern shrimp in Division 3L, Division 3N or                          division 3N et la division 3O; d) de la crevette
+       Division 3O; (e) Witch flounder in Division 3N or                       nordique dans la division 3L, la division 3N et la
+       Division 3O; and (f) Yellowtail flounder in                             division 3O; e) de la plie grise dans la division
+       Division 3L, Division 3N or Division 3O.                                3N et la division 3O; f) de la limande à queue
+3.     Prohibitions, when fishing for any straddling stocks                    jaune dans la division 3L, la division 3N et la
+       set out in Part A of Table I or in Table II, against                    division 3O.
+       fishing with or having on board the foreign fishing           3.        Interdiction, lors de la pêche de tout stock
+       vessel a trawl net that has a mesh size, in any part                    chevauchant figurant à la partie A du tableau I
+       of the net, that is (a) in the case of a net made from                  ou au tableau II, d’avoir à bord du bateau de
+       Caprolan, Dederon or Kapron, less than 120 mm;                          pêche ou de pêcher avec un chalut dont le
+       and (b) in any other case, less than 130 mm.                            maillage, en quelque partie que ce soit, est
+4.     Prohibition against fishing with a trawl net that has                   inférieur : a) à 120 mm, dans le cas d’un chalut
+       any of its meshes obstructed in any manner, other                       en Caprolan, Dederon ou Kapron; b) à 130 mm,
+       than a manner allowed under section 31 of the                           dans les autres cas.
+       Fishery General Regulations.                                  4.        Interdiction de pêcher avec un chalut dont l’une
+5.     Prohibition against having on board the foreign                         de ses mailles est obstruée autrement que des
+       fishing vessel in Division 3L, Division 3N or                           façons permises aux termes de l’article 31 du
+       Division 3O any (a) Atlantic cod less than 41 cm in                     Règlement de pêche (dispositions générales).
+       fork length; or (b) American plaice or Yellowtail             5.        Interdiction, dans la division 3L, la division 3N
+       flounder less than 25 cm in total length.                               et la division 3O, d’avoir à bord du bateau de
+6.     Requirement to keep, and produce on the demand                          pêche étranger : a) la morue franche d’une
+       of a protection officer, accurate daily logs that set                   longueur à la fourche de moins de 41 cm; b) la
+       out (a) all catches, by species and area of capture;                    plie d’Amérique ou la limande à queue jaune
+       and (b) all production, by species and product form.                    d’une longueur totale de moins de 25 cm.
+
+7.     Prohibition against removing fishing gear from the            6.        Obligation de tenir un registre quotidien
+       water during the 30 minute period after a Signal SQ                     indiquant de façon précise ce qui suit, et de le
+       3 is sent from a government vessel to the foreign                       produire sur demande d’un garde-pêche : a)
+       fishing vessel.                                                         toutes les prises, par espèce et par zone de
+                                                                               capture; b) toute la production, par espèce et par
+                                                                               produit.
+
+
+
+
+                                                                24
+                                                      C.R.C., ch. 413 — 6 octobre 2010
+
+
+
+
+                                                                               Article        Mesure
+                                                                               7.             Interdiction d’enlever les engins de pêche de
+                                                                                              l’eau pendant les 30 minutes après que le signal
+                                                                                              SQ 3 a été donné au bateau de pêche étranger
+                                                                                              par un bateau de l’État.
+SOR/94-362, s. 3; SOR/95-136, s. 2; SOR/95-222, s. 1; SOR/99-313, s. 3.        DORS/94-362, art. 3; DORS/95-136, art. 2; DORS/95-222, art. 1; DORS/
+                                                                               99-313, art. 3.
+
+        PRESCRIBED PARTICIPATING STATES                                                    ÉTATS ASSUJETTIS À L’ACCORD
+   22. The foreign states and organizations of foreign                           22. Les États et les organisations d’États étrangers as-
+states set out in Schedule IV are hereby prescribed as                         sujettis à l’accord sont ceux figurant à l’annexe IV.
+participating states.                                                          DORS/99-313, art. 4.
+SOR/99-313, s. 4.
+
+      IMPLEMENTATION OF THE AGREEMENT                                                       MISE EN ŒUVRE DE L’ACCORD
+
+       NORTHWEST ATLANTIC FISHERIES ORGANIZATION                                 ORGANISATION DES PÊCHES DE L’ATLANTIQUE NORD-OUEST
+  23. (1) The NAFO Regulatory Area is hereby desig-                               23. (1) Pour l’application de l’article 5.3 de la Loi,
+nated as an area of the sea regulated by NAFO for the                          est un espace maritime tombant sous la compétence de
+purposes of section 5.3 of the Act.                                            l’OPAN la zone de réglementation de l’OPAN.
+   (2) The NAFO Regulatory Area is hereby designated                              (2) Pour l’application de l’article 5.5 de la Loi, est un
+as an area of the sea regulated by NAFO for the purposes                       espace maritime tombant sous la compétence de l’OPAN
+of paragraph 5.5(a) of the Act.                                                la zone de réglementation de l’OPAN.
+SOR/99-313, s. 4.                                                              DORS/99-313, art. 4.
+
+   24. Subject to section 25, sections 26 to 38 apply to                          24. Sous réserve de l’article 25, les articles 26 à 38
+fishing vessels of a participating state that are engaged in                   s’appliquent à tout bateau de pêche d’un État assujetti à
+fishing in the NAFO Regulatory Area for a straddling                           l’accord qui pêche, dans la zone de réglementation de
+stock set out in Table I or II to section 21.                                  l’OPAN, des stocks chevauchants visés aux tableaux I
+SOR/99-313, s. 4.                                                              ou II de l’article 21.
+                                                                               DORS/99-313, art. 4.
+
+   25. A provision of these Regulations that is set out in                        25. Les dispositions du présent règlement mention-
+column 1 of an item of the table to this section does not                      nées à la colonne 1 du tableau du présent article ne s’ap-
+apply in respect of a fishing vessel of a participating                        pliquent pas aux bateaux de pêche d’un État assujetti à
+state that, by virtue of Article XII of the Convention on                      l’accord, lequel, en application de l’article XII de la
+Future Multilateral Cooperation in the Northwest At-                           Convention sur la future coopération multilatérale dans
+lantic Fisheries, is not bound by the provision of the                         les pêches de l’Atlantique nord-ouest, n’est pas tenu de
+NAFO Measures that is set out in column 2.                                     se conformer à la disposition des mesures de l’OPAN
+                                                                               mentionnée à la colonne 2.
+
+
+
+
+                                                                          25
+                                                     C.R.C., c. 413 — October 6, 2010
+
+
+
+
+                                TABLE                                                                   TABLEAU
+
+           Column 1                     Column 2                                        Colonne 1                  Colonne 2
+           Provision of these           Provision of the NAFO                           Disposition du             Disposition des mesures de
+Item       Regulations                  Measures                          Article       présent règlement          l’OPAN
+1.         subsection 27(1)             paragraph 2 of Article 3          1.            Paragraphe 27(1)           Paragraphe 2 de l’article 3
+2.         subsection 27(2)             Article 5                         2.            Paragraphe 27(2)           Article 5
+3.         subsection 28(1)             paragraph 3 of Article 3          3.            Paragraphe 28(1)           Paragraphe 3 de l’article 3
+4.         subsection 28(3)             paragraph 5 of Article 3          4.            Paragraphe 28(3)           Paragraphe 5 de l’article 3
+5.         paragraph 29(a)              paragraph 2 of Article 19         5.            Alinéa 29a)                Paragraphe 2 de l’article 19
+6.         paragraph 29(b)              paragraph 4 of Article 19         6.            Alinéa 29b)                Paragraphe 4 de l’article 19
+7.         section 30                   paragraph 1 of Article 19         7.            Article 30                 Paragraphe 1 de l’article 19
+8.         subsection 31(1)             Annex I.A                         8.            Paragraphe 31(1)           Annexe I.A
+9.         paragraph 31(2)(a)           paragraph 2 of Article 12         9.            Alinéa 31(2)a)             Paragraphe 2 de l’article 12
+10.        paragraph 31(2)(b)           paragraph 1 of Article 12         10.           Alinéa 31(2)b)             Paragraphe 1 de l’article 12
+11.        paragraph 32(1)(a)           paragraph 6a of Annex             11.           Alinéa 32(1)a)             Alinéa 6a de l’annexe XIV
+                                        XIV                               12.           Article 33                 Paragraphe 6 de l’article 10
+12.        section 33                   paragraph 6 of Article 10         13.           Article 34                 Article 22
+13.        section 34                   Article 22                        14.           Article 35                 Alinéa 1h de l’article 32
+14.        section 35                   paragraph 1h of Article 32        15.           Article 37                 Alinéa 1j de l’article 32
+15.        section 37                   paragraph 1j of Article 32        16.           Article 37.1               Paragraphe 3 de l’article 28
+16.        section 37.1                 paragraph 3 of Article 28         17.           Article 38                 Paragraphe 7 de l’article 23
+17.        section 38                   paragraph 7 of Article 23
+SOR/99-313, s. 4; SOR/2004-110, s. 3.                                     DORS/99-313, art. 4.; DORS/2004-110, art. 3.
+
+   26. Every fishing vessel of a participating state shall                  26. Les bateaux de pêche d’un État assujetti à l’ac-
+comply with the provision of the NAFO Measures that                       cord doivent se conformer aux dispositions des mesures
+are set out in the table to this section, except those to                 de l’OPAN mentionnées au tableau du présent article,
+which, by virtue of Article XII of the Convention on Fu-                  sauf celles auxquelles, en application de l’article XII de
+ture Multilateral Cooperation in the Northwest Atlantic                   la Convention sur la future coopération multilatérale
+Fisheries, the participating state is not bound.                          dans les pêches de l’Atlantique nord-ouest, l’État n’est
+                                                                          pas tenu de se conformer.
+                                TABLE                                                                   TABLEAU
+
+Item        Provision of the NAFO Measures                                Article         Disposition des mesures de l’OPAN
+1.          paragraphs 2 to 6 of Article 9                                1.              Paragraphes 2 à 6 de l’article 9
+2.          Article 11                                                    2.              Article 11
+3.          paragraph 5 of Article 9                                      3.              Paragraphe 5 de l’article 9
+4.          paragraph 1 of Article 10                                     4.              Paragraphe 1 de l’article 10
+5.          paragraph 7 of Article 10                                     5.              Paragraphe 7 de l’article 10
+
+
+
+
+                                                                     26
+                                             C.R.C., ch. 413 — 6 octobre 2010
+
+
+
+
+Item        Provision of the NAFO Measures                            Article        Disposition des mesures de l’OPAN
+6.          paragraph 5 of Article 9                                  6.             Paragraphe 5 de l’article 9
+SOR/99-313, s. 4; SOR/2004-110, s. 3.                                 DORS/99-313, art. 4; DORS/2004-110, art. 3.
+
+  26.1 Every master of a fishing vessel of a participat-                26.1 Il est interdit à tout capitaine d’un bateau de
+ing state shall not engage in a directed fishery within the           pêche d’un État assujetti à l’accord de se livrer à une
+meaning of paragraph 1 of Article 9 of the NAFO Mea-                  pêche sélective au sens du paragraphe 1 de l’article 9 des
+sures for species for which a catch limit applies.                    mesures de l’OPAN d’une espèce de poisson pour la-
+SOR/2004-110, s. 3.                                                   quelle une limite de prise est prévue.
+                                                                      DORS/2004-110, art. 3.
+
+   27. (1) Where in any calendar year a participating                    27. (1) Lorsque, dans une année civile, un État assu-
+state notifies the Executive Secretary of NAFO of the                 jetti à l’accord avise le secrétaire général de l’OPAN de
+date that it will close its fishery for a fish stock allocated        la date à laquelle il cessera la pêche d’un stock de pois-
+to that state for that calendar year, no fishing vessel of            sons qui lui a été attribué pour cette année, il est interdit
+that state shall, in any part of that calendar year after that        à tout bateau de pêche de cet État de se livrer à la pêche
+date, engage in a directed fishery for fish of that stock.            sélective du poisson de ce stock pendant le reste de cette
+                                                                      année.
+   (2) Where in any calendar year a participating state                  (2) Lorsque, dans une année civile, un État assujetti à
+closes its fishery in shrimp in Division 3M, as defined in            l’accord cesse sa pêche de crevettes dans la division 3M,
+Article 5 of the NAFO Measures, because it has exhaust-               au sens de l’article 5 des mesures de l’OPAN, parce qu’il
+ed its fishing days under that Article, no fishing vessel of          a épuisé ses jours de pêche aux termes de cet article, il
+that state shall, in any part of that calendar year after that        est interdit à tout bateau de pêche de cet État de se livrer
+date, engage in a directed fishery for shrimp in Division             à la pêche sélective de crevettes dans cette division pen-
+3M.                                                                   dant le reste de cette année.
+SOR/99-313, s. 4; SOR/2004-110, s. 4.                                 DORS/99-313, art. 4; DORS/2004-110, art. 4.
+
+  28. (1) Subject to subsection (2), no fishing vessel of                28. (1) Sous réserve du paragraphe (2), il est interdit
+a participating state that has not been allocated a quota             à tout bateau de pêche d’un État assujetti à l’accord au-
+of a particular stock set out in Annex I.A of the NAFO                quel n’a pas été attribué de contingent pour un stock de
+Measures shall fish for fish of that stock.                           poissons mentionné à l’annexe I.A des mesures de l’O-
+                                                                      PAN de pêcher le poisson de ce stock.
+   (2) Subject to subsection (3), a fishing vessel of a par-             (2) Sous réserve du paragraphe (3), le bateau de
+ticipating state that is a contracting party to the Conven-           pêche d’un État assujetti à l’accord qui est une partie
+tion on Future Multilateral Cooperation in the Northwest              contractante à la Convention sur la future coopération
+Atlantic Fisheries and that has not been allocated a quota            multilatérale dans les pêches de l’Atlantique nord-ouest
+of a particular stock set out in Annex I.A of the NAFO                et auquel n’a pas été attribué de contingent pour un stock
+Measures may fish for fish of that stock if                           particulier mentionné à l’annexe I.A des mesures de l’O-
+     (a) a quota for that stock has been allocated to “Oth-           PAN peut pêcher le poisson de ce stock à l’une ou
+     ers” in that Annex and the participating state has noti-         l’autre des conditions suivantes :
+     fied the Executive Secretary of NAFO that its vessels                 a) un contingent pour ce stock a été attribué à
+     intend to fish for that stock;                                        « Others » dans cette annexe et l’État a avisé le secré-
+
+
+
+
+                                                                 27
+                                           C.R.C., c. 413 — October 6, 2010
+
+
+
+
+   (b) the vessel is fishing, wholly or partly, a quota or            taire général de l’OPAN de l’intention du bateau de
+   shrimp fishing day allocated to another contracting                pêche de se livrer à cette pêche;
+   party in accordance with                                           b) le bateau pêche, en tout ou en partie, un contingent
+      (i) a transfer of the quota or shrimp fishing day to            ou un jour de pêche à la crevette attribués à une autre
+      the participating state that has been authorized un-            partie contractante conformément :
+      der the relevant NAFO process, or                                  (i) soit à un transfert de contingent ou de jour de
+      (ii) a chartering arrangement that meets the re-                   pêche à la crevette à cet État, transfert qui a été au-
+      quirements of Article 14 of the NAFO Measures; or                  torisé en vertu de la procédure de l’OPAN appli-
+   (c) the participating state is not bound by the quota                 cable,
+   set out in that Annex allocated for that stock by virtue              (ii) soit à un accord d’affrètement conforme aux
+   of Article XII of that Convention.                                    conditions de l’article 14 des mesures de l’OPAN;
+                                                                      c) l’État assujetti à l’accord n’est pas tenu, en applica-
+                                                                      tion de l’article XII de cette convention, au contingent
+                                                                      prévu à cette annexe qui a été attribué pour ce stock.
+   (3) No fishing vessel referred to in subsection (2)                (3) Il est interdit au bateau de pêche visé au para-
+shall fish for fish of a stock for which a quota has been          graphe (2) de pêcher le poisson d’un stock pour lequel
+allocated to “Others” more than seven days after the day           un contingent a été attribué à « Others » après le sep-
+the Executive Secretary of NAFO notifies the participat-           tième jour suivant celui où le secrétaire général de l’O-
+ing state that the quota for that fish stock has been              PAN a avisé l’État assujetti à l’accord que le contingent
+reached.                                                           a été atteint.
+SOR/99-313, s. 4; SOR/2004-110, s. 5.                              DORS/99-313, art. 4; DORS/2004-110, art. 5.
+
+   28.1 No fishing vessel of a participating state shall              28.1. Il est interdit à tout bateau de pêche d’un État
+fish in the NAFO Regulatory Area for any stock set out             assujetti à l’accord de pêcher dans la zone de réglemen-
+in Annex II of the NAFO Measures unless it has a valid             tation de l’OPAN tout stock de poissons mentionné à
+authorization to do so issued by the participating state.          l’annexe II des mesures de l’OPAN, à moins d’y être au-
+SOR/2004-110, s. 6.                                                torisé par cet État.
+                                                                   DORS/2004-110, art. 6.
+
+   29. Every fishing vessel of a participating state shall           29. Tout bateau de pêche d’un État assujetti à l’ac-
+   (a) maintain an accurate fishing logbook, in the man-           cord doit :
+   ner specified in paragraphs 2 and 3 of Article 19 of the           a) d’une part, tenir avec précision un journal de pêche
+   NAFO Measures; and                                                 en conformité avec les paragraphes 2 et 3 de l’article
+   (b) either                                                         19 des mesures de l’OPAN;
+
+      (i) maintain an accurate production logbook, in ac-             b) d’autre part :
+      cordance with paragraph 4 of Article 19 of the                     (i) soit tenir avec précision un journal de produc-
+      NAFO Measures, or                                                  tion en conformité avec le paragraphe 4 de l’article
+      (ii) stow all processed catch in the hold separately               19 des mesures de l’OPAN,
+      by species and maintain an accurate stowage plan                   (ii) soit répartir par espèces, dans la cale, le poisson
+      showing the location of the products in the hold.                  transformé et tenir un plan de chargement indiquant
+SOR/99-313, s. 4; SOR/2004-110, s. 7.
+
+
+
+
+                                                              28
+                                           C.R.C., ch. 413 — 6 octobre 2010
+
+
+
+
+                                                                          avec précision l’endroit où chacune d’entre elles se
+                                                                          trouve.
+                                                                    DORS/99-313, art. 4; DORS/2004-110, art. 7.
+
+   30. No fishing vessel of a participating state shall en-            30. Il est interdit à tout bateau de pêche d’un État as-
+ter the NAFO Regulatory Area without having an accu-                sujetti à l’accord de pénétrer dans la zone de réglementa-
+rate record in its fishing logbook of the amount of each            tion de l’OPAN à moins que, au moment de son entrée,
+species of fish on board at the time of entry.                      le journal de pêche n’indique avec précision la quantité
+SOR/99-313, s. 4.                                                   de poissons de chaque espèce à bord.
+                                                                    DORS/99-313, art. 4.
+
+   31. (1) No fishing vessel of a participating state shall           31. (1) Il est interdit à tout bateau de pêche d’un État
+fish for shrimp in Division 3NO.                                    assujetti à l’accord de pêcher la crevette dans la division
+                                                                    3NO.
+   (2) No fishing vessel of a participating state shall fish           (2) Il est interdit à tout bateau de pêche d’un État as-
+for shrimp in Division 3L as defined in Article 6 of the            sujetti à l’accord de pêcher la crevette dans la division
+NAFO Measures, unless the fishing takes place both                  3L au sens de l’article 6 des mesures de l’OPAN, sauf
+   (a) in the area in which fishing is permitted under              s’il le fait à la fois :
+   paragraph 2 of Article 12 of the NAFO Measures; and                 a) dans la zone où le paragraphe 2 de l’article 12 des
+   (b) at a time when fishing is not prohibited by para-               mesures de l’OPAN l’y autorise;
+   graph 1 of Article 12 of the NAFO Measures.                         b) durant une période où la pêche n’est pas interdite
+SOR/99-313, s. 4; SOR/2004-110, s. 8.                                  par le paragraphe 1 de l’article 12 des mesures de l’O-
+                                                                       PAN.
+                                                                    DORS/99-313, art. 4; DORS/2004-110, art. 8.
+
+   31.1 No fishing vessel of a participating state shall               31.1 Il est interdit à tout bateau de pêche d’un État as-
+fish for Atlantic cod or witch flounder in Division 3L.             sujetti à l’accord de pêcher la morue franche et la plie
+SOR/2004-110, s. 8.                                                 grise dans la division 3L.
+                                                                    DORS/2004-110, art. 8.
+
+   32. (1) No fishing vessel of a participating state shall           32. (1) Il est interdit à tout bateau de pêche d’un État
+   (a) fish using a net that has meshes that do not meet            assujetti à l’accord :
+   the requirements of paragraph 6a of Annex XIV of the                a) de pêcher au moyen d’un filet dont le maillage
+   NAFO Measures;                                                      n’est pas conforme aux exigences prévues à l’alinéa
+   (b) except in the circumstances set out in paragraphs               6a de l’annexe XIV des mesures de l’OPAN;
+   3 and 4 of Article 10 of the NAFO Measures, when                    b) sauf dans les cas prévus aux paragraphes 3 et 4 de
+   fishing for a particular species of fish, have on board a           l’article 10 des mesures de l’OPAN, d’avoir à bord,
+   net with a mesh size smaller than that authorized for               lorsqu’il pêche une espèce de poisson particulière, un
+   that species under paragraph 1 of that Article; or                  filet dont le maillage est inférieur au maillage minimal
+   (c) except in the circumstances set out in paragraph 3              autorisé pour cette espèce selon le paragraphe 1 de cet
+   of Article 10 of the NAFO Measures, fish for a                      article;
+   species of fish set out in paragraph 1 of that Article              c) sauf dans les cas prévus au paragraphe 3 de l’ar-
+   using a net having, in any part, meshes of a size less              ticle 10 des mesures de l’OPAN, de pêcher une espèce
+
+
+
+
+                                                               29
+                                           C.R.C., c. 413 — October 6, 2010
+
+
+
+
+   than that specified for that species in that paragraph 1,           mentionnée au paragraphe 1 de cet article au moyen
+   as measured wet after use by inserting into the meshes              d’un filet dont le maillage en tout point est inférieur
+   an appropriate gauge, described in Annex XIV of the                 au maillage prévu au paragraphe 1 pour cette espèce,
+   NAFO Measures.                                                      le maillage étant mesuré par insertion d’un calibre ap-
+                                                                       proprié dans les mailles lorsque le filet est mouillé,
+                                                                       conformément à l’annexe XIV des mesures de l’O-
+                                                                       PAN.
+   (2) If, by virtue of Article XII of the Convention on               (2) Les alinéas (1)b) et c) ne s’appliquent pas au ba-
+Future Multilateral Cooperation in the Northwest At-                teau de pêche d’un État assujetti à l’accord lorsqu’il
+lantic Fisheries, a participating state is not bound by the         pêche une espèce particulière prévue au paragraphe 1 de
+minimum mesh size requirement set out in paragraph 1                l’article 10 des mesures de l’OPAN, si cet État n’est pas
+of Article 10 of the NAFO Measures for a particular                 tenu au maillage minimal prévu à cet article pour cette
+species of fish, paragraphs (1)(b) and (c) of this section          espèce en application de l’article XII de la Convention
+do not apply to a fishing vessel of that participating state        sur la future coopération multilatérale dans les pêches de
+when fishing for that species of fish.                              l’Atlantique nord-ouest.
+SOR/99-313, s. 4; SOR/2004-110, s. 9.                               DORS/99-313, art. 4; DORS/2004-110, art.9.
+
+   33. (1) No fishing vessel of a participating state shall            33. (1) Il est interdit à tout bateau de pêche d’un État
+fish for a species of fish, for which the NAFO Measures             assujetti à l’accord de pêcher une espèce de poissons —
+prescribe a minimum mesh size, with a net in which the              pour laquelle les mesures de l’OPAN prévoient un
+mesh size in any part of the net, other than the underside          maillage minimal — au moyen d’un filet dont le
+of a trawl codend, is obstructed so as to diminish the size         maillage, dans toute partie autre que la partie inférieure
+of the meshes.                                                      au cul de chalut, est obstrué de façon à réduire la dimen-
+                                                                    sion des mailles.
+  (2) Subsection (1) does not apply where the vessel                  (2) Le paragraphe (1) ne s’applique pas au bateau de
+has attached a device described in Annex XV of the                  pêche qui a attaché un dispositif décrit à l’annexe XV
+NAFO Measures to the upper side of the codend, provid-              des mesures de l’OPAN à la partie supérieure du cul de
+ed that the device is attached in such a manner that it             chalut, pourvu que le dispositif n’obstrue pas les mailles
+does not obstruct the meshes of the codend, including               du cul de chalut, ni les rallonges.
+any extension used to lengthen that codend.                         DORS/99-313, art. 4; DORS/2004-110, art.10.
+SOR/99-313, s. 4; SOR/2004-110, s. 10.
+
+  34. Every fishing vessel of a participating state shall              34. Tout bateau de pêche d’un État assujetti à l’ac-
+comply with the catch communication requirements set                cord doit se conformer aux exigences prévues à l’article
+out in Article 22 of the NAFO Measures.                             22 des mesures de l’OPAN concernant la communica-
+SOR/99-313, s. 4; SOR/2004-110, s. 11.                              tion des prises.
+                                                                    DORS/99-313, art. 4; DORS/2004-110, art. 11.
+
+   35. No fishing vessel of a participating state shall in-           35. Il est interdit à tout bateau de pêche d’un État as-
+terfere with a satellite tracking system on board the ves-          sujetti à l’accord d’entraver le fonctionnement du sys-
+sel.                                                                tème de localisation par satellite qui se trouve à son
+SOR/99-313, s. 4.                                                   bord.
+                                                                    DORS/99-313, art. 4.
+
+   36. [Repealed, SOR/2004-110, s. 12]                                 36. [Abrogé, DORS/2004-110, art. 12]
+
+
+
+                                                               30
+                                            C.R.C., ch. 413 — 6 octobre 2010
+
+
+
+
+  37. No fishing vessel of a participating state shall pre-            37. Il est interdit à tout bateau de pêche d’un État as-
+vent an observer from carrying out his or her duties.                sujetti à l’accord d’empêcher l’observateur d’exercer ses
+SOR/99-313, s. 4.                                                    fonctions.
+                                                                     DORS/99-313, art. 4.
+
+   37.1 When an inspection vessel sends Signal SQ 3 to                 37.1 Lorsqu’un bateau d’inspection envoie le signal
+a fishing vessel of a participating state that has begun or          SQ 3 au bateau de pêche d’un État assujetti à l’accord
+is about to begin hauling its nets, the fishing vessel shall         qui a commencé à haler ses filets ou qui est sur le point
+ensure that the nets are not hauled for a period of at least         de le faire, le bateau de pêche veille à ce que les filets ne
+30 minutes after the signal has been sent.                           soient pas halés pour une période d’au moins trente mi-
+SOR/2004-110, s. 13.                                                 nutes après l’envoi du signal.
+                                                                     DORS/2004-110, art. 13.
+
+   38. A fishing vessel of a participating state that is car-          38. Tout bateau de pêche d’un État assujetti à l’ac-
+rying an observer shall                                              cord ayant un observateur à bord doit :
+   (a) provide suitable food and lodging for the observer               a) fournir à celui-ci les repas et l’hébergement conve-
+   while the observer remains on the vessel; and                        nables pour la durée de son séjour à bord;
+   (b) ensure that all necessary cooperation is extended                b) veiller à ce qu’il reçoive toute l’aide nécessaire à
+   to the observer to enable the observer to carry out his              l’exercice de ses fonctions, notamment en lui donnant
+   or her duties, including providing access to the re-                 accès aux prises gardées ou à rejeter.
+   tained catch and to catch that is intended to be dis-             DORS/99-313, art. 4.
+   carded.
+SOR/99-313, s. 4.
+
+   INTERNATIONAL COMMISSION FOR THE CONSERVATION OF                    COMMISSION INTERNATIONALE POUR LA CONSERVATION DES
+                   ATLANTIC TUNAS                                                   THONIDÉS DE L’ATLANTIQUE
+
+   39. (1) All waters of the Atlantic Ocean and its adja-               39. (1) Pour l’application de l’article 5.3 de la Loi,
+cent seas beyond 200 nautical miles from the baselines               sont des espaces maritimes tombant sous la compétence
+from which the territorial sea of a state is measured are            de la Commission internationale pour la conservation
+hereby designated as areas of the sea regulated by the In-           des thonidés de l’Atlantique toutes les eaux de l’océan
+ternational Commission for the Conservation of Atlantic              Atlantique et de ses mers adjacentes au-delà de 200
+Tunas for the purposes of section 5.3 of the Act.                    milles marins de la ligne de base servant à la délimita-
+                                                                     tion de la mer territoriale d’un État.
+   (2) All waters of the Atlantic Ocean and its adjacent                (2) Pour l’application de l’article 5.5 de la Loi, sont
+seas beyond 200 nautical miles from the baselines from               des espaces maritimes tombant sous la compétence de la
+which the territorial sea of a state is measured are hereby          Commission internationale pour la conservation des tho-
+designated as areas of the sea regulated by the Interna-             nidés de l’Atlantique toutes les eaux de l’océan Atlan-
+tional Commission for the Conservation of Atlantic Tu-               tique et de ses mers adjacentes au-delà de 200 milles ma-
+nas for the purposes of paragraph 5.5(a) of the Act.                 rins de la ligne de base servant à la délimitation de la
+SOR/99-313, s. 4.                                                    mer territoriale d’un État.
+                                                                     DORS/99-313, art. 4.
+
+
+
+
+                                                                31
+                                                 C.R.C., c. 413 — October 6, 2010
+
+
+
+
+   40. No fishing vessel of a participating state that is              40. Il est interdit à tout bateau de pêche d’un État as-
+fishing in the waters referred to in subsection 39(1) shall         sujetti à l’accord qui pêche dans les eaux visées au para-
+have on board a bluefin tuna that is less than 3.2 kg in            graphe 39(1) d’avoir à bord un thon rouge d’un poids in-
+weight.                                                             férieur à 3,2 kg.
+SOR/99-313, s. 4; SOR/2004-110, s. 14.                              DORS/99-313, art. 4; DORS/2004-110, art. 14.
+
+  41. Sections 25 to 38 and 40 are hereby designated as               41. Les articles 25 à 38 et 40 sont des dispositions
+regulations the contravention of which is prohibited un-            dont la contravention est interdite par l’alinéa 5.3a) de la
+der paragraph 5.3(a) of the Act.                                    Loi.
+SOR/99-313, s. 4.                                                   DORS/99-313, art. 4.
+
+  ENFORCEMENT ACTION IN RESPECT OF CANADIAN FISHING                   MESURES D’EXÉCUTION RELATIVES AUX BATEAUX DE PÊCHE
+                      VESSELS                                                                     CANADIENS
+
+   42. The Minister may authorize a participating state               42. Le ministre peut autoriser un État assujetti à l’ac-
+to take enforcement action in respect of a Canadian fish-           cord à prendre des mesures d’exécution à l’égard d’un
+ing vessel if there are reasonable grounds to believe the           bateau de pêche canadien s’il y a des motifs raisonnables
+fishing vessel has contravened any measure                          de croire que le bateau a enfreint une mesure établie :
+     (a) established by NAFO for the conservation or                     a) soit par l’OPAN pour conserver ou gérer des
+     management of a straddling fish stock; or                           stocks de poissons chevauchants;
+     (b) established by the International Commission for                 b) soit par la Commission internationale pour la
+     the Conservation of Atlantic Tunas for the conserva-                conservation des thonidés de l’Atlantique pour conser-
+     tion or management of a highly migratory fish stock                 ver ou gérer des stocks de poissons grands migrateurs
+     set out in the table to this section.                               mentionnés au tableau du présent article.
+
+                               TABLE                                                             TABLEAU
+
+          HIGHLY MIGRATORY FISH STOCKS                                STOCKS DE POISSONS GRANDS MIGRATEURS
+
+Item        Species                                                 Article       Espèce
+1.          Yellowfin tuna (Thunnus albacares)                      1.            Albacore à nageoires jaunes (Thunnus albacares)
+2.          Skipjack tuna (Euthynnus pelamis)                       2.            Thonine à ventre rayé (Euthynnus pelamis)
+3.          Bluefin tuna (Thunnus thynnus)                          3.            Thon rouge (Thunnus thynnus)
+4.          Albacore tuna (Thunnus alalunga)                        4.            Germon (Thunnus alalunga)
+5.          Bigeye tuna (Thunnus obesus)                            5.            Thon ventru (Thunnus obesus)
+6.          Bonito tuna (Sarda sarda)                               6.            Bonite à dos rayé (Sarda sarda)
+7.          Sailfish (Istiophorus albicans)                         7.            Voilier de l’Atlantique (Istiophorus albicans)
+8.          Blue marlin (Makaira nigricans)                         8.            Makaire bleu (Makaira nigricans)
+9.          White marlin (Tetrapturus albidus)                      9.            Makaire blanc (Tetrapturus albidus)
+10.         Longbill spearfish (Tetrapturus pfluegeri)              10.           Makaire bécune (Tetrapturus pfluegeri)
+SOR/99-313, s. 4.                                                   DORS/99-313, art. 4.
+
+
+
+
+                                                               32
+                                          C.R.C., ch. 413 — 6 octobre 2010
+
+
+
+
+          IMPLEMENTATION OF THE CASPO                               MISE EN ŒUVRE DE LA CONVENTION CPAPN
+                 CONVENTION
+   43. (1) The waters of the North Pacific Ocean and its            43. (1) Pour l’application de l’article 5.4 de la Loi,
+adjacent seas north of 33° N. latitude beyond 200 nauti-          sont des espaces maritimes régis par la convention
+cal miles from the baselines from which the territorial           CPAPN les eaux de l’océan Pacifique nord et de ses
+sea of a state is measured are hereby designated as an            mers adjacentes situées au nord du trente-troisième degré
+area of the sea regulated by the CASPO Convention for             de latitude nord au-delà de 200 milles marins de la ligne
+the purposes of section 5.4 of the Act.                           de base servant à la délimitation de la mer territoriale
+                                                                  d’un État.
+   (2) The waters of the North Pacific Ocean and its ad-             (2) Pour l’application de l’article 5.5 de la Loi, sont
+jacent seas north of 33° N. latitude beyond 200 nautical          des espaces maritimes régis par la convention CPAPN
+miles from the baselines from which the territorial sea of        les eaux de l’océan Pacifique nord et de ses mers adja-
+a state is measured are hereby designated as an area of           centes situées au nord du trente-troisième degré de lati-
+the sea regulated by the CASPO Convention for the pur-            tude nord au-delà de 200 milles marins de la ligne de
+poses of paragraph 5.5(b) of the Act.                             base servant à la délimitation de la mer territoriale d’un
+SOR/99-313, s. 4.                                                 État.
+                                                                  DORS/99-313, art. 4.
+
+   44. (1) No fishing vessel of a state that is a party to          44. (1) Il est interdit à un bateau de pêche d’un État
+the CASPO Convention shall                                        partie à la convention CPAPN, dans les eaux visées au
+   (a) engage in directed fishing for anadromous fish in          paragraphe 43(1) :
+   the waters referred to in subsection 43(1); or                    a) de pratiquer la pêche sélective des poissons ana-
+   (b) retain any anadromous fish taken as an incidental             dromes;
+   taking while fishing for non-anadromous fish in the               b) de garder des poissons anadromes capturés acci-
+   waters referred to in subsection 43(1).                           dentellement au cours de la pêche de poissons non
+                                                                     anadromes.
+   (2) Subsection (1) does not apply to fishing for scien-           (2) Le paragraphe (1) ne s’applique pas à la pêche
+tific research purposes in accordance with Article VII of         pratiquée pour la recherche scientifique conformément à
+the CASPO Convention.                                             l’article VII de la convention CPAPN.
+   (3) Subsection (1) is hereby designated as a regula-             (3) Le paragraphe (1) est une disposition dont la
+tion the contravention of which is prohibited under sec-          contravention est interdite par l’article 5.4 de la Loi.
+tion 5.4 of the Act.                                              DORS/99-313, art. 4.
+SOR/99-313, s. 4.
+
+   45. A protection officer may, in enforcing section 44,            45. Le garde-pêche peut, pour la mise à exécution de
+exercise the powers referred to in section 16.1 of the Act        l’article 44, exercer les pouvoirs visés à l’article 16.1 de
+to the extent that they are consistent with the CASPO             la Loi dans la mesure où ils sont compatibles avec la
+Convention.                                                       convention CPAPN.
+SOR/99-313, s. 4.                                                 DORS/99-313, art. 4.
+
+   46. The Minister may authorize a state that is a party            46. Le ministre peut autoriser un État qui est partie à
+to the CASPO Convention to take enforcement action in             la convention CPAPN à prendre des mesures d’exécu-
+
+
+
+
+                                                             33
+                                          C.R.C., c. 413 — October 6, 2010
+
+
+
+
+respect of a Canadian fishing vessel if there are reason-         tion à l’égard d’un bateau de pêche canadien, s’il y a des
+able grounds to believe that the fishing vessel contra-           motifs raisonnables de croire que le bateau a contrevenu
+vened any measure referred to in section 44.                      à l’article 44.
+SOR/99-313, s. 4.                                                 DORS/99-313, art. 4.
+
+                    RECOVERY OF COSTS                                            RECOUVREMENT DES FRAIS
+   47. Where a fishing vessel of a participating state is            47. Lorsqu’un bateau de pêche d’un État assujetti à
+seized and, following a further investigation in port, the        l’accord est saisi et que, après avoir mené une enquête
+protection officer continues to have reasonable grounds           plus poussée au port, le garde-pêche continue d’avoir des
+to believe an offence has been committed under any of             motifs raisonnables de croire à la perpétration d’une in-
+sections 27 to 38 and 40, Her Majesty in right of Canada          fraction prévue à l’un des articles 27 à 38 et 40, les frais
+may recover                                                       suivants constituent des créances de Sa Majesté du chef
+   (a) any reasonable costs incurred for berthage of the          du Canada :
+   fishing vessel;                                                   a) les frais raisonnablement exposés pour l’accostage
+   (b) any reasonable costs incurred for the security and            du bateau;
+   maintenance of the fishing vessel; and                            b) les frais raisonnablement exposés pour assurer la
+   (c) any reasonable costs incurred for the repatriation            sécurité et l’entretien du bateau;
+   of the crew of the fishing vessel.                                c) les frais raisonnablement exposés pour le rapatrie-
+SOR/99-313, s. 4.                                                    ment des membres de l’équipage du bateau.
+                                                                  DORS/99-313, art. 4.
+
+        SERVING OR GIVING OF DOCUMENTS                               SIGNIFICATION OU REMISE DE DOCUMENTS
+   48. In any proceeding against a fishing vessel in re-             48. Dans toute action intentée contre un bateau de
+spect of an offence under any of sections 5.3 to 5.5 of           pêche relativement à une infraction prévue à l’un des ar-
+the Act, a notice, statement, summons or other document           ticles 5.3 à 5.5 de la Loi, tout avis, déclaration, citation
+may be given or served                                            ou autre document peut être :
+   (a) personally to a person who appears to be in charge            a) soit remis ou signifié personnellement à la per-
+   of the fishing vessel;                                            sonne qui semble responsable du bateau;
+   (b) by mailing the document to the agent for the fish-            b) soit envoyé par la poste au représentant du bateau;
+   ing vessel; or                                                    c) soit affiché à un endroit bien en vue à bord du ba-
+   (c) by posting the document in a conspicuous location             teau.
+   on the fishing vessel.                                         DORS/99-313, art. 4.
+SOR/99-313, s. 4.
+
+
+
+
+                                                             34
+                                                        C.R.C., ch. 413 — 6 octobre 2010
+
+
+
+
+                             SCHEDULE I                                                                       ANNEXE I
+                           (ss. 5(2) and 8(6))                                                             (par. 5(2) et 8(6))
+
+       LICENCE FEES FOR FOREIGN FISHING VESSELS                                    DROITS EXIGÉS POUR LES LICENCES DÉLIVRÉES AUX
+                                                                                           BATEAUX DE PÊCHE ÉTRANGERS
+                                  PART I                                                                          PARTIE I
+
+       LICENCES AUTHORIZING FISHING, PROCESSING,                              LICENCES AUTORISANT LA PÊCHE, LE TRAITEMENT ET LE
+          TRANSSHIPPING OR SUPPORT ACTIVITIES                                       TRANSBORDEMENT DU POISSON AINSI QUE
+                                                                               L’APPROVISIONNEMENT ET L’ENTRETIEN DES BATEAUX
+                                                                                                 DE PÊCHE
+
+       Column I                  Column II                  Column III                  Colonne I                 Colonne II                 Colonne III
+                                                            Fee for                                                                          Droit pour la
+Item   Vessels                   Licence Fee                Amendment                                             Droit pour la délivrance   modification
+                                                                              Article   Bateaux de pêche          de la licence              de la licence
+1.     All vessels not           $3.77 per ton, gross        $594
+       otherwise provided for    tonnage and (a)$0.46 per                     1.        Tous les bateaux de       3,77 $ le tonneau, tonnage 594 $
+       in this Schedule in       ton, gross tonnage, per day                            pêche qui ne sont pas     brut, et a)0,46 $ le tonneau,
+       Canadian fisheries        on ground when licensed                                visés ailleurs dans la    tonnage brut, pour chaque
+       waters of the Atlantic    for any species other than                             présente annexe, dans     jour de présence sur les
+       Ocean other than          cod, squid and tuna, (b)                               les eaux de pêche         lieux de pêche, avec
+       Subarea 0.                $0.63 per ton, gross                                   canadiennes de            licence autorisant la pêche
+                                 tonnage, per day on ground                             l’océan Atlantique        d’une espèce autre que la
+                                 when licensed for cod, (c)                             autres que la sous-       morue, le calmar ou le
+                                 $0.39 per ton, gross                                   zone 0.                   thon. b)0,63 $ le tonneau,
+                                 tonnage, per day on ground                                                       tonnage brut, pour chaque
+                                 when licensed for squid.                                                         jour de présence sur les
+2.     All vessels not           $3.77 per ton, gross        594                                                  lieux de pêche, avec
+       otherwise provided for    tonnage, and $0.46 per ton,                                                      licence autorisant la pêche
+       in this Schedule in       gross tonnage, per day                                                           de la morue. c)0,39 $ le
+       Canadian fisheries        when fishing.                                                                    tonneau, tonnage brut, pour
+       waters of the Pacific                                                                                      chaque jour de présence
+       Ocean.                                                                                                     sur les lieux de pêche, avec
+                                                                                                                  licence autorisant la pêche
+3.     Vessels, other than      $9,889 per vessel.          $594                                                  du calmar.
+       vessels of the United
+                                                                              2.        Tous les bateaux de       3,77 $ le tonneau, tonnage 594
+       States, fishing for tuna
+                                                                                        pêche qui ne sont pas     brut, et 0,46 $ le tonneau,
+       in any Canadian
+                                                                                        visés ailleurs dans la    tonnage brut pour chaque
+       fisheries waters.
+                                                                                        présente annexe, dans     jour de pêche.
+4.     Vessels of France      $0.23 per ton, gross       528                            les eaux de pêche
+       registered in Saint-   tonnage, per day on ground                                canadiennes de
+       Pierre-et-Miquelon, in when fishing.                                             l’océan Pacifique.
+       Divisions 4R, 4S,
+                                                                              3.        Bateaux de pêche,      9 889 $ pour chaque bateau 594
+       Subdivisions 3Pn or
+                                                                                        autres que les bateaux de pêche.
+       4Vn.
+                                                                                        de pêche des États-
+5.     Vessels of the United Nil                            Nil                         Unis, qui pêchent le
+       States in any Canadian                                                           thon dans les eaux de
+       fisheries waters.                                                                pêche canadiennes
+6.     Vessels of flag states                                                 4.        Bateaux de pêche de       0,23 $ par tonneau tonnage 528
+       that are not members                                                             la France enregistrés à   brut pour chaque jour de
+       of the European                                                                  Saint-Pierre-et-          présence sur les lieux de
+       Economic Community                                                               Miquelon dans les         pêche, chaque jour de
+       other than the United                                                            divisions 4R, 4S, les     pêche.
+       States in Canadian                                                               sous-divisions 3Pn ou
+       fisheries waters in                                                              4Vn
+       Subarea 0 in respect of
+                                                                              5.        Bateaux de pêche des Aucun                           Aucun
+       which
+                                                                                        États-Unis dans les
+                                                                                        eaux de pêche
+                                                                                        canadiennes.
+
+
+
+
+                                                                         35
+                                                          C.R.C., c. 413 — October 6, 2010
+
+
+
+
+        Column I                 Column II                    Column III                          Colonne I                 Colonne II                 Colonne III
+                                                              Fee for                                                                                  Droit pour la
+Item    Vessels                  Licence Fee                  Amendment                                                     Droit pour la délivrance   modification
+                                                                                        Article   Bateaux de pêche          de la licence              de la licence
+        (a) a licence to fish has (a) $2,473 and $3.77 per    (a) 594
+        not been issued in        ton, gross tonnage.                                   6.        Bateaux de pêche
+        respect of Canadian                                                                       battant pavillon d’un
+        fisheries waters not in                                                                   État qui n’est pas
+        Subarea 0.                                                                                membre de la
+                                                                                                  Communauté
+        (b) a licence to fish has (b) $2,473                  (b) 594
+                                                                                                  économique
+        been issued in respect
+                                                                                                  européenne, autre que
+        of Canadian fisheries
+                                                                                                  les États-Unis, dans la
+        waters not in Subarea
+                                                                                                  sous-zone 0 des eaux
+        0.
+                                                                                                  de pêche canadiennes,
+7.      Vessels of flag states Nil                            Nil                                 à l’égard desquels
+        that are members of the
+                                                                                                  a) une licence n’a pas a) 2 473 $ et 3,77 $ le       (a) 594
+        European Economic
+                                                                                                  été délivrée pour la   tonneau, tonnage brut.
+        Community in
+                                                                                                  pêche dans les eaux
+        Canadian fisheries
+                                                                                                  de pêche canadiennes
+        waters in Subarea 0.
+                                                                                                  autres que la sous-
+8.      Scientific and research Nil                           Nil                                 zone 0.
+        vessels engaged in
+                                                                                                  b) une licence a été   2 473 $                       (b) 594
+        fisheries research of
+                                                                                                  délivrée pour la pêche
+        material benefit to
+                                                                                                  dans les eaux de
+        Canada or the United
+                                                                                                  pêche canadiennes
+        States.
+                                                                                                  autres que la sous-
+9.      Vessels engaged in       Nil                          Nil                                 zone 0.
+        developmental
+                                                                                        7.        Bateaux de pêche      Aucun                          Aucun
+        arrangements of
+                                                                                                  battant pavillon d’un
+        material benefit to
+                                                                                                  État de la
+        Canada.
+                                                                                                  Communauté
+10.     Vessels authorized to Nil                             Nil                                 économique
+        load, unload or                                                                           européenne, dans la
+        transship fish or fish                                                                    sous-zone 0 des eaux
+        products at a Canadian                                                                    de pêche canadiennes.
+        port.
+                                                                                        8.        Bateaux de pêche    Aucun                            Aucun
+                                                                                                  scientifiques et de
+                                                                                                  recherche qui
+                                                                                                  effectuent, dans le
+                                                                                                  domaine des pêches,
+                                                                                                  des recherches
+                                                                                                  procurant des
+                                                                                                  avantages au Canada
+                                                                                                  ou aux États-Unis.
+                                                                                        9.        Bateaux de pêche     Aucun                           Aucun
+                                                                                                  participant à des
+                                                                                                  activités de
+                                                                                                  développement
+                                                                                                  procurant des
+                                                                                                  avantages au Canada.
+                                                                                        10.       Bateaux de pêche       Aucun                         Aucun
+                                                                                                  autorisés à charger, à
+                                                                                                  décharger ou à
+                                                                                                  transborder du
+                                                                                                  poisson ou des
+                                                                                                  produits de la pêche
+                                                                                                  dans un port
+                                                                                                  canadien.
+NOTE: In this part “day on ground” means any day during which a foreign                 REMARQUE : Dans cette partie « jour de présence sur les lieux de pêche »
+fishing vessel has its licence on board and that vessel is in Canadian fisheries        désigne un jour au cours duquel un bateau de pêche étranger a sa licence à
+waters but does not include a day during which that vessel
+
+
+
+
+                                                                                   36
+                                                         C.R.C., ch. 413 — 6 octobre 2010
+
+
+
+
+  (a) is in a Canadian port;                                                        bord et se trouve dans les eaux de pêche canadiennes, mais n’inclut pas un
+                                                                                    jour pendant lequel ce bateau de pêche :
+  (b) transits to a Canadian port as a result of a medical emergency;
+                                                                                      (a) se trouve dans un port canadien;
+  (c) embarks or disembarks observers upon request of a Regional Director-
+  General;                                                                            (b) se rend à un port canadien par suite d’une urgence médicale;
+  (d) proceeds to a specified position for the purpose of an inspection upon          (c) embarque ou débarque des observateurs à la demande d’un directeur
+  request of a Regional Director-General or a protection officer;                     général régional;
+  (e) enters Canadian fisheries waters after 2300 Greenwich mean time;                (d) se rend à une position précise aux fins d’inspection, sur demande d’un
+                                                                                      directeur général régional ou d’un garde-pêche
+  (f) leaves Canadian fisheries waters prior to 0100 Greenwich mean time; or
+                                                                                      (e) pénètre dans les eaux de pêche canadiennes après 23 h, heure de Green-
+  (g) is under seizure by a protection officer.                                       wich;
+                                                                                      (f) quitte les eaux de pêche canadiennes avant une heure, heure de Green-
+                                                                                      wich; ou
+                                                                                      (g) fait l’objet d’une saisie par un garde-pêche.
+
+                                   PART II                                                                           PARTIE II
+
+                        [Repealed, SOR/86-939, s. 5]                                                     [Abrogée, DORS/86-939, art. 5]
+                                  PART III                                                                           PARTIE III
+
+      LICENCES AUTHORIZING ACTIVITIES OTHER THAN                                    LICENCES AUTORISANT LES ACTIVITÉS AUTRES QUE LES
+      FISHING, PROCESSING, TRANSHIPPING OR SUPPORT                                  SUIVANTES : PÊCHE, TRAITEMENT ET TRANSBORDEMENT
+                        ACTIVITIES                                                  DU POISSON ET APPROVISIONNEMENT ET ENTRETIEN DES
+                                                                                                    BATEAUX DE PÊCHE
+
+              Column I           Column II               Column III                              Colonne I             Colonne II               Colonne III
+Item          Vessels            Licence Fee             Amendment Fee                                                 Droits pour la           Droits pour la
+1.            Vessels of any     Nil                     Nil                                                           délivrance de la         modification
+              flag state                                                            Article      Bateaux de pêche      licence                  de la licence
+                                                                                    1.           Bateaux de pêche aucun                         aucun
+                                                                                                 battant pavillon de
+                                                                                                 tout État
+
+                                  PART IV                                                                            PARTIE IV
+
+               EXEMPTION FROM AMENDMENT FEES                                                  CAS OÙ AUCUN DROIT N’EST EXIGÉ POUR LA
+                                                                                                   MODIFICATION D’UNE LICENCE
+   1. No fee shall be charged for an amendment to a licence where                      1. Aucun droit n’est exigé pour la modification d’une licence dans
+the amendment results from any of the following circumstances:                      les circonstances suivantes :
+     (a) non-arrival of a vessel into Canadian fisheries waters due to                   (a) bateau de pêche n’entrant pas dans les eaux de pêche cana-
+     extenuating circumstances;                                                          diennes en raison de circonstances exceptionnelles;
+     (b) early or late arrival of a vessel into Canadian fisheries waters                (b) bateau de pêche arrivant pour la première fois de l’année dans
+     within 14 days of the originally requested starting date on the ini-                les eaux de pêche canadiennes, dans les 14 jours qui précèdent ou
+     tial entry of that vessel each year;                                                suivent la date initialement prévue;
+     (c) sea accident while in Canadian fisheries waters affecting ship                  (c) accident en mer survenu dans les eaux de pêche canadiennes et
+     safety;                                                                             portant atteinte à la sécurité du bateau de pêche;
+     (d) allocations of quotas after the issuing of the licence;                         (d) allocation des contingents après la délivrance de la licence;
+     (e) closure of a fishery on scientific advice for the conservation of               (e) fermeture d’une pêcherie, sur la recommandation d’experts,
+     fish stocks;                                                                        pour assurer la conservation des stocks de poisson;
+     (f) port visits for less than 24 hours for other than routine reasons;              (f) séjour dans un port durant moins de 24 heures pour des raisons
+                                                                                         extraordinaires;
+     (g) port visits for emergency vessel repairs related to ship safety;
+                                                                                         (g) séjour dans un port pour que des réparations d’urgence soient
+                                                                                         apportées au bateau de pêche par souci de sécurité;
+
+
+
+
+                                                                               37
+                                                        C.R.C., c. 413 — October 6, 2010
+
+
+
+
+     (h) port visits for less than 24 hours for the embarkation or disem-                 (h) séjour de moins de 24 heures dans un port, pour l’embarque-
+     barkation of an observer;                                                            ment ou le débarquement d’un observateur;
+     (i) entry of a vessel into a special project with a Canadian compa-                  (i) participation d’un bateau de pêche à un projet spécial mené par
+     ny where the project is of a material benefit to Canada;                             une société canadienne, qui apporte au Canada des avantages signi-
+                                                                                          ficatifs;
+     (j) loss of fishing days as a result of court action resulting in an ac-
+     quittal; and                                                                         (j) jours de pêche perdus en raison de poursuites judiciaires se sol-
+                                                                                          dant par un acquittement; et
+     (k) amendments initiated by the Minister of Fisheries and Oceans.
+                                                                                          (k) modifications apportées par le ministère des Pêches et des
+                                                                                          Océans.
+
+                                  PART V                                                                             PARTIE V
+
+      LICENCES AUTHORIZING THE ACTIVITY SET OUT IN                                              LICENCES AUTORISANT L’ACTIVITÉ VISÉE À
+         PARAGRAPH 5(1)(B) OF THESE REGULATIONS                                                  L’ALINÉA 5(1)B) DU PRÉSENT RÈGLEMENT
+
+              Column 1                                   Column 2                                     Colonne I                            Colonne II
+Item          Licence                                    Licence Fee                                                                       Droits pour la
+1.            Authorizing the activity set out in    $1,500                                                                                délivrance de la
+              paragraph 5(1)(b) of these Regulations                                 Article          Licence                              licence
+                                                                                     1.               Autorisation de l’activité visée à   1 500 $
+                                                                                                      l’alinéa 5(1)b) du présent
+                                                                                                      règlement
+SOR/78-447, s. 2; SOR/78-795, s. 3; SOR/79-713, s. 12; SOR/80-186, s. 7;             DORS/78-447, art. 2; DORS/78-795, art. 3; DORS/79-713, art. 12; DORS/
+SOR/81-729, s. 2; SOR/82-289, s. 3; SOR/83-264, s. 2; SOR/85-527, s. 15;             80-186, art. 7; DORS/81-729, art. 2; DORS/82-289, art. 3; DORS/83-264, art.
+SOR/86-939, s. 5; SOR/86-1091, s. 1; SOR/89-34, ss. 1 to 3; SOR/90-55, s. 1;         2; DORS/85-527, art. 15; DORS/86-939, art. 5; DORS/86-1091, art. 1;
+SOR/90-57, ss. 1, 2; SOR/94-362, ss. 4(F), 5(F), 8(F); SOR/94-444, s. 3.             DORS/89-34, art. 1 à 3; DORS/90-55, art. 1; DORS/90-57, art. 1 et 2; DORS/
+                                                                                     94-362, art. 4(F), 5(F) et 8(F); DORS/94-444, art. 3.
+
+
+
+
+                                                                                38
+                                C.R.C., ch. 413 — 6 octobre 2010
+
+
+
+
+       SCHEDULE II                                                      ANNEXE II
+
+[Repealed, SOR/85-527, s. 15]                                  [Abrogée, DORS/85-527, art. 15]
+
+
+
+
+                                              39
+               C.R.C., c. 413 — October 6, 2010
+
+
+
+
+SCHEDULE III                                      ANNEXE III
+  (s. 19.1)                                        (art. 19.1)
+
+   PART I                                          PARTIE I
+
+
+
+
+                             40
+                                      C.R.C., ch. 413 — 6 octobre 2010
+
+
+
+
+                                              PART II/PARTIE II
+
+
+
+
+SOR/80-186, s. 8; SOR/83-264, s. 3.                       DORS/80-186, art. 8; DORS/83-264, art. 3.
+
+
+
+
+                                                     41
+                                              C.R.C., c. 413 — October 6, 2010
+
+
+
+
+                      SCHEDULE IV                                                          ANNEXE IV
+                       (Section 22)                                                         (article 22)
+
+Item   Participating State                                        Article   État assujetti à l’accord
+1.     Australia                                                  1.        L’Australie
+2.     The Republic of Austria                                    2.        La République d’Autriche
+3.     The Commonwealth of the Bahamas                            3.        Le Commonwealth des Bahamas
+4.     Barbados                                                   4.        La Barbade
+5.     The Kingdom of Belgium                                     5.        Le Royaume de Belgique
+6.     The Federal Republic of Brazil                             6.        La République fédérative du Brésil
+7.     Cook Islands                                               7.        Les Îles Cook
+8.     The Republic of Costa Rica                                 8.        La République du Costa Rica
+9.     The Republic of Cyprus                                     9.        La République de Chypre
+10.    The Kingdom of Denmark                                     10.       Le Royaume du Danemark
+11.    The Kingdom of Denmark (in respect of the Faeroe           11.       Le Royaume du Danemark (à l’égard des îles Féroé et
+       Islands and Greenland)                                               du Grœnland)
+12.    The European Community                                     12.       La Communauté européenne
+13.    The Republic of Fiji                                       13.       La République des Fidji
+14.    The Republic of Finland                                    14.       La République de Finlande
+15.    The French Republic                                        15.       La République française
+16.    The French Republic (in respect of Saint-Pierre and        16.       La République française (à l’égard de Saint-Pierre-et-
+       Miquelon)                                                            Miquelon)
+17.    The Federal Republic of Germany                            17.       La République fédérale d’Allemagne
+18.    The Hellenic Republic                                      18.       La République hellénique
+19.    The Republic of Iceland                                    19.       La République d’Islande
+20.    The Islamic Republic of Iran                               20.       La République islamique d’Iran
+21.    Ireland                                                    21.       L’Irlande
+22.    The Italian Republic                                       22.       La République italienne
+23.    The Grand Duchy of Luxembourg                              23.       Le Grand-Duché de Luxembourg
+24.    The Republic of Maldives                                   24.       La République des Maldives
+25.    The Republic of Malta                                      25.       La République de Malte
+26.    The Republic of the Marshall Islands                       26.       La République des Îles Marshall
+27.    The Republic of Mauritius                                  27.       La République de Maurice
+28.    The Federated States of Micronesia                         28.       Les États fédérés de Micronésie
+29.    The Principality of Monaco                                 29.       La Principauté de Monaco
+30.    The Republic of Namibia                                    30.       La République de Namibie
+31.    The Republic of Nauru                                      31.       La République de Nauru
+32.    The Kingdom of the Netherlands                             32.       Le Royaume des Pays-Bas
+33.    New Zealand                                                33.       La Nouvelle-Zélande
+34.    The Kingdom of Norway                                      34.       Le Royaume de Norvège
+35.    Papua New Guinea                                           35.       La Papouasie-Nouvelle-Guinée
+36.    The Portuguese Republic                                    36.       La République portugaise
+37.    The Russian Federation                                     37.       La Fédération de Russie
+38.    Saint Lucia                                                38.       Sainte-Lucie
+
+
+
+
+                                                             42
+                                                 C.R.C., ch. 413 — 6 octobre 2010
+
+
+
+
+Item        Participating State                                            Article        État assujetti à l’accord
+39.         The Independent State of Samoa                                 39.            L’État indépendant du Samoa
+40.         The Republic of Senegal                                        40.            La République du Sénégal
+41.         The Republic of Seychelles                                     41.            La République des Seychelles
+42.         Solomon Islands                                                42.            Les Îles Salomon
+43.         The Kingdom of Spain                                           43.            Le Royaume d’Espagne
+44.         The Democratic Socialist Republic of Sri Lanka                 44.            La République socialiste démocratique de Sri Lanka
+45.         The Kingdom of Sweden                                          45.            Le Royaume de Suède
+46.         The Kingdom of Tonga                                           46.            Le Royaume des Tonga
+47.         Ukraine                                                        47.            L’Ukraine
+48.         The United Kingdom of Great Britain and Northern               48.            Le Royaume-Uni de Grande-Bretagne et d’Irlande du
+            Ireland                                                                       Nord
+49.         The United Kingdom on behalf of Pitcairn, Henderson,           49.            Le Royaume-Uni au nom des Îles Pitcairn,
+            Ducie and Oeno Islands, Falkland Islands, South Georgia                       Henderson, Ducie et Œno, des Îles Malouines, de la
+            and South Sandwich Islands, Bermuda, Turks and Caicos                         Géorgie du Sud et des Îles Sandwich du Sud, des
+            Islands, British Indian Ocean Territory, British Virgin                       Bermudes, des Îles Turks et Caicos, du Territoire
+            Islands and Anguilla                                                          britannique de l’océan Indien, des Îles Vierges
+50.         The United States                                                             britanniques et d’Anguilla
+
+51.         The Eastern Republic of Uruguay                                50.            Les États-Unis
+                                                                           51.            La République orientale de l’Uruguay
+SOR/99-313, s. 5; SOR/2004-110, s. 15.                                     DORS/99-313, art. 5; DORS/2004-110, art. 15.
+
+
+
+
+                                                                      43
+

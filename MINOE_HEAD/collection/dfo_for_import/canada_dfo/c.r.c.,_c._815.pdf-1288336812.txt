@@ -1,0 +1,1310 @@
+                                                            CANADA
+
+
+
+
+                  CONSOLIDATION                                                        CODIFICATION
+
+
+
+
+  Foreign Vessel Fishing                                                  Règlement sur les
+       Regulations                                                        bâtiments de pêche
+                                                                               étrangers
+
+                      C.R.C., c. 815                                                    C.R.C., ch. 815
+
+
+
+
+                 Current to October 6, 2010                                          À jour au 6 octobre 2010
+
+
+
+
+Published by the Minister of Justice at the following address:       Publié par le ministre de la Justice à l’adresse suivante :
+                http://laws-lois.justice.gc.ca                                     http://lois-laws.justice.gc.ca
+                                 OFFICIAL STATUS                                          CARACTÈRE OFFICIEL
+                                OF CONSOLIDATIONS                                          DES CODIFICATIONS
+
+
+                     Subsections 31(1) and (3) of the Legislation               Les paragraphes 31(1) et (3) de la Loi sur la
+                   Revision and Consolidation Act, in force on                révision et la codification des textes législatifs,
+                   June 1, 2009, provide as follows:                          en vigueur le 1er juin 2009, prévoient ce qui
+                                                                              suit :
+Published             31. (1) Every copy of a consolidated statute or            31.  (1) Tout exemplaire d'une loi codifiée ou         Codifications
+consolidation is   consolidated regulation published by the Minister          d'un règlement codifié, publié par le ministre en ver-    comme élément
+evidence           under this Act in either print or electronic form is ev-   tu de la présente loi sur support papier ou sur support   de preuve
+                   idence of that statute or regulation and of its contents   électronique, fait foi de cette loi ou de ce règlement
+                   and every copy purporting to be published by the           et de son contenu. Tout exemplaire donné comme
+                   Minister is deemed to be so published, unless the          publié par le ministre est réputé avoir été ainsi pu-
+                   contrary is shown.                                         blié, sauf preuve contraire.
+                     ...                                                        [...]
+
+Inconsistencies      (3) In the event of an inconsistency between a              (3) Les dispositions du règlement d'origine avec       Incompatibilité
+in regulations     consolidated regulation published by the Minister          ses modifications subséquentes enregistrées par le        — règlements
+                   under this Act and the original regulation or a subse-     greffier du Conseil privé en vertu de la Loi sur les
+                   quent amendment as registered by the Clerk of the          textes réglementaires l'emportent sur les dispositions
+                   Privy Council under the Statutory Instruments Act,         incompatibles du règlement codifié publié par le mi-
+                   the original regulation or amendment prevails to the       nistre en vertu de la présente loi.
+                   extent of the inconsistency.
+CHAPTER 815                                                    CHAPITRE 815
+
+FISHERIES ACT                                                  LOI SUR LES PÊCHES
+
+Foreign Vessel Fishing Regulations                             Règlement sur les bâtiments de pêche étrangers
+REGULATIONS    RESPECTING   FISHING                  IN        RÈGLEMENT CONCERNANT LA PÊCHE PAR LES
+   CANADIAN     FISHERIES  WATERS                   BY            BÂTIMENTS DE PÊCHE ÉTRANGERS DANS
+   FOREIGN FISHING VESSELS                                        LES EAUX DES PÊCHERIES CANADIENNES
+
+                    SHORT TITLE                                                    TITRE ABRÉGÉ
+  1. These Regulations may be cited as the Foreign               1. Le présent règlement peut être cité sous le titre :
+Vessel Fishing Regulations.                                    Règlement sur les bâtiments de pêche étrangers.
+
+                 INTERPRETATION                                                  INTERPRÉTATION
+  2. (1) In these Regulations,                                   2. (1) Dans le présent règlement,
+“blackcod trap” or “blackcod pot” [Revoked, SOR/               « année » désigne l’année civile; (year)
+82-771, s. 1]                                                  « bâtiment de pêche étranger » Bateau de pêche étranger
+“Canadian fisheries waters” [Revoked, SOR/93-62, s. 1]         au sens du paragraphe 2(1) de la Loi sur la protection
+“cod-end” means a bag-like extension attached to the af-       des pêches côtières. (foreign fishing vessel)
+ter end of the belly of a trawl net and used to retain a       « chalut » désigne un grand filet en forme de sac traîné
+catch; (cul de chalut)                                         dans la mer par un ou plusieurs bâtiments afin de
+“Convention area” has the same meaning as in subsec-           prendre du poisson; (trawl net)
+tion 2(1) of the Atlantic Fishery Regulations, 1985;           « chalut pélagique » désigne un chalut conçu de façon
+(zone de la Convention)                                        qu’il ne touche pas le fond marin quand il est en place;
+“Division” has the same meaning as in subsection 2(1)          (midwater trawl)
+of the Atlantic Fishery Regulations, 1985; (division)          « cul » [Abrogée, DORS/93-62, art. 1]
+“finfish” [Revoked, SOR/93-62, s. 1]                           « cul de chalut » Poche attachée à la rallonge du ventre
+“Fishing Zone 3” means the area of the sea described as        d’un chalut et servant à retenir les prises. (cod-end)
+such in the Fishing Zones of Canada (Zones 1, 2, and 3)        « directeur général régional » [Abrogée, DORS/93-62,
+Order; (zone de pêche 3)                                       art. 1]
+“Fishing Zone 4” means the area of the sea described as        « division » S’entend au sens du paragraphe 2(1) du Rè-
+such in the Fishing Zones of Canada (Zones 4 and 5)            glement de pêche de l’Atlantique de 1985. (Division)
+Order; (Zone de pêche 4)                                       « eaux des pêcheries canadiennes » [Abrogée, DORS/
+“Fishing Zone 5” means the area of the sea described as        93-62, art. 1]
+such in the Fishing Zones of Canada (Zones 4 and 5)            « État d’immatriculation » désigne l’État où le bâtiment
+Order; (Zone de pêche 5)                                       de pêche étranger a été immatriculé ou, lorsque le bâti-
+“Fishing Zone 6” means the area of the sea described as        ment n’est pas immatriculé, l’État qui a autorisé le bâti-
+such in the Fishing Zones of Canada (Zone 6) Order;            ment à arborer ses couleurs; (flag state)
+(Zone de pêche 6)
+
+
+
+
+                                                           1
+                                           C.R.C., c. 815 — October 6, 2010
+
+
+
+
+“flag state” means a state in which a foreign fishing ves-         « licence » désigne une licence délivrée en vertu du Rè-
+sel is registered and a state whose flag a foreign fishing         glement sur la protection des pêcheries côtières; (li-
+vessel that is not registered in a state is entitled to fly;       cence)
+(État d’immatriculation)                                           « maillage » désigne,
+“foreign fishing vessel” has the same meaning as in the              a) dans le cas d’un chalut, la moyenne des dimen-
+Coastal Fisheries Protection Act; (bâtiment de pêche                 sions de 20 mailles de filet mesurée par insertion dans
+étranger)                                                            les mailles d’un calibre cunéiforme de 2,3 mm
+“incidental catch” [Revoked, SOR/94-293, s. 1]                       d’épaisseur décroissant à raison de 2 cm par longueur
+“licence” means a licence issued pursuant to the Coastal             de 8 cm et auquel est fixé un poids de 5 kg;
+Fisheries Protection Regulations; (licence)                          b) dans les autres cas, la distance entre les angles ex-
+“mesh size” means in respect of netting                              trêmes d’une maille simple, mesurée à l’intérieur des
+                                                                     nœuds du filet étiré de manière à former deux lignes
+  (a) in a trawl net, the average of the measurements of             droites parallèles; (mesh size)
+  any 20 meshes made by inserting into the meshes a
+  flat wedge-shaped gauge having a taper of 2 cm in                « palangre » désigne une ligne ancrée au fond marin et
+  8 cm and a thickness of 2.3 mm with a weight of 5 kg             munie d’une série d’hameçons; (set-line)
+  attached, and                                                    « poisson » [Abrogée, DORS/93-62, art. 1]
+  (b) in any other case, the distance between the ex-              « prises accidentelles » [Abrogée, DORS/94-293, art. 1]
+  treme angles of a single mesh measured inside the                « seine à poche » [Abrogée, DORS/82-771, art. 1]
+  knots after being stretched to form two parallel
+  straight lines; (maillage)                                       « sous-division » S’entend au sens du paragraphe 2(1) du
+                                                                   Règlement de pêche de l’Atlantique de 1985. (Subdivi-
+“midwater trawl” means a trawl net that is designed so             sion)
+as not to come into contact with the sea-bed while in op-
+eration; (chalut pélagique)                                        « sous-secteur » désigne un sous-secteur visé à l’an-
+                                                                   nexe I; (Sub-Zone)
+“purse seine net” [Revoked, SOR/82-771, s. 1]
+                                                                   « sous-zone » S’entend au sens du paragraphe 2(1) du
+“Regional Director-General” [Revoked, SOR/93-62,                   Règlement de pêche de l’Atlantique de 1985. (Subarea)
+s. 1]
+                                                                   « trappe à morue charbonnière » ou « nasse à morue char-
+“sablefish trap” or “sablefish pot” means a metal framed           bonnière » désigne une enceinte de métal recouverte de
+enclosure that is covered with netting or expanded metal           filet ou de métal déployé, ayant une ou plusieurs ouver-
+and has one or more openings through which fish enter              tures par lesquelles le poisson peut entrer; (sablefish trap
+the enclosure; (trappe à morue charbonnière ou nasse à             ou sablefish pot)
+morue charbonnière)
+                                                                   « turlutte à calmar » désigne un leurre muni d’hameçons
+“set-line” means a line that is anchored to the sea-bed            disposés en rayons; (squid jigger)
+and has a series of fish hooks attached; (palangre)
+                                                                   « zone de la Convention » S’entend au sens du para-
+“squid jigger” means a lure that has attached a number             graphe 2(1) du Règlement de pêche de l’Atlantique de
+of fish hooks arranged radially; (turlutte à calmar)               1985. (Convention area)
+“Statistical Area” [Revoked, SOR/82-771, s. 1]
+
+
+
+
+                                                               2
+                                                  C.R.C., ch. 815 — 6 octobre 2010
+
+
+
+
+“stock area”, in respect of a species of fish set out in                     « zone de pêche 3 » désigne la zone maritime définie
+Column II of an item of Schedule VII, means the stock                        dans le Décret sur les zones de pêche du Canada
+area set out in Column III of that item and, in respect of                   (zones 1, 2 et 3); (Fishing Zone 3)
+a species of fish set out in Column I of an item of Sched-                   « Zone de pêche 4 » désigne la zone maritime définie
+ule X, means the stock area set out in Column II of that                     dans le Décret sur les zones de pêche du Canada
+item; (zone de stock)                                                        (Zones 4 et 5); (Fishing Zone 4)
+“Subarea” has the same meaning as in subsection 2(1) of                      « Zone de pêche 5 » désigne la zone maritime définie
+the Atlantic Fishery Regulations, 1985; (sous-zone)                          dans le Décret sur les zones de pêche du Canada
+“Subdivision” has the same meaning as in subsec-                             (Zones 4 et 5); (Fishing Zone 5)
+tion 2(1) of the Atlantic Fishery Regulations, 1985;                         « Zone de pêche 6 » désigne la zone maritime définie
+(sous-division)                                                              dans le Décret sur les zones de pêche du Canada
+“Sub-Zone” means a Sub-Zone described in Schedule I;                         (Zone 6); (Fishing Zone 6)
+(sous-secteur)                                                               « zone de stock » relativement à une espèce visée à la co-
+“trawl net” means any large bag net dragged in the sea                       lonne II de l’annexe VII, désigne les eaux mentionnées à
+by a vessel or vessels for the purpose of taking fish;                       la colonne III et relativement à une espèce visée à la co-
+(chalut)                                                                     lonne I de l’annexe X, désigne les eaux mentionnées à la
+“year” means a calendar year. (année)                                        colonne II. (stock area)
+                                                                             « zone statistique » [Abrogée, DORS/82-771, art. 1]
+   (2) A reference in these Regulations to a species or                        (2) Dans le présent règlement, la désignation d’une
+group of species of fish by its common name as set out                       espèce ou d’un groupe d’espèces de poissons par son
+in Column I of an item of Schedule VIII shall be con-                        nom commun visé à un article de l’annexe VIII, dans la
+strued as a reference to the species or group of species                     colonne I, s’interprète comme la désignation de l’espèce
+whose scientific name is set out in Column II of that                        ou du groupe d’espèces dont le nom scientifique figure
+item.                                                                        dans la colonne II du même article.
+   (3) A reference in these Regulations to a quantity of                        (3) Dans le présent règlement, la désignation d’une
+fish by weight shall be construed as a reference to the                      quantité de poissons par son poids s’interprète comme la
+weight of the fish in a completely unprocessed state.                        désignation du poids du poisson avant toute transforma-
+                                                                             tion.
+   (4) and (5) [Revoked, SOR/93-62, s. 1]                                      (4) et (5) [Abrogés, DORS/93-62, art. 1]
+SOR/79-715, s. 1; SOR/82-771, s. 1; SOR/87-185, s. 1; SOR/93-62, s. 1;       DORS/79-715, art. 1; DORS/82-771, art. 1; DORS/87-185, art. 1; DORS/
+SOR/94-293, s. 1.                                                            93-62, art. 1; DORS/94-293, art. 1.
+
+                              PART I                                                                    PARTIE I
+
+                      ATLANTIC COAST                                                         CÔTE DE L’ATLANTIQUE
+
+                         INTERPRETATION                                                               INTERPRÉTATION
+   3. In this Part,                                                            3. Dans la présente partie,
+“authorized topside chafer” [Revoked, SOR/93-62, s. 2]                       « contingent » [Abrogée, DORS/82-771, art. 2]
+“extension measure” [Revoked, SOR/87-185, s. 2]
+
+
+
+                                                                         3
+                                                   C.R.C., c. 815 — October 6, 2010
+
+
+
+
+“gill net” means a net by which fish are caught by being                      « directeur général régional » [Abrogée, DORS/82-771,
+enmeshed but that does not enclose an area of water; (fi-                     art. 2]
+let maillant)                                                                 « en extension complète » [Abrogée, DORS/87-185,
+“quota” [Revoked, SOR/82-771, s. 2]                                           art. 2]
+“quota period” [Revoked, SOR/82-771, s. 2]                                    « espèce réglementée » désigne une espèce de poissons
+“quota table” [Revoked, SOR/82-771, s. 2]                                     visée à l’annexe III, dans la colonne II; (regulated
+                                                                              species)
+“Regional Director-General” [Revoked, SOR/82-771,
+s. 2]                                                                         « filet maillant » désigne un filet qui prend un poisson en
+                                                                              l’emmaillant, mais qui ne forme pas, dans l’eau, une en-
+“regulated species” means a species of fish set out in                        ceinte; (gill net)
+Column II of Schedule III. (espèce réglementée)
+                                                                              « saison de pêche » [Abrogée, DORS/82-771, art. 2]
+SOR/78-753, s. 1; SOR/79-715, s. 2; SOR/82-771, s. 2; SOR/87-185, s. 2;
+SOR/93-62, s. 2.
+                                                                              « tableau des contingents » [Abrogée, DORS/82-771,
+                                                                              art. 2]
+                                                                              « tablier autorisé pour le dessus du cul » [Abrogée,
+                                                                              DORS/93-62, art. 2]
+                                                                              DORS/78-753, art. 1; DORS/79-715, art. 2; DORS/82-771, art. 2; DORS/
+                                                                              87-185, art. 2; DORS/93-62, art. 2.
+
+                            APPLICATION                                                                 APPLICATION
+  4. This Part applies in Canadian fisheries waters adja-                       4. La présente partie s’applique, dans les eaux de
+cent to the Atlantic coast of Canada to                                       pêche canadiennes adjacentes à la côte atlantique du
+   (a) a foreign fishing vessel other than a foreign fish-                    Canada,
+   ing vessel engaged exclusively in scientific research;                        a) à un bâtiment de pêche étranger ne se livrant pas
+   and                                                                           uniquement à la recherche scientifique; et
+   (b) any person on board, being a member of the crew                           b) à quiconque se trouve à bord d’un bâtiment visé à
+   of, attached to or employed on a vessel described in                          l’alinéa a), qu’il soit membre d’équipage, affecté au
+   paragraph (a).                                                                bâtiment ou employé sur ce dernier.
+SOR/93-62, s. 20(F).                                                          DORS/93-62, art. 20(F).
+
+                            CLOSE TIME                                                              PÉRIODE DE FERMETURE
+   5. (1) Subject to subsections (3) and (5), no person                          5. (1) Sous réserve des paragraphes (3) et (5), il est
+who is on board a foreign fishing vessel of a flag state                      interdit à quiconque se trouve à bord d’un bâtiment de
+set out in Schedule II shall fish for or catch and retain                     pêche étranger d’un État d’immatriculation visé à l’an-
+fish of a species set out in column I of an item of Sched-                    nexe II de pêcher ou de prendre et de garder des poissons
+ule X in a stock area set out in column II of that item                       de toute espèce nommée à la colonne I de l’annexe X,
+during the close time set out in column III of that item.                     dans la zone de stock indiquée à la colonne II, durant la
+                                                                              période de fermeture prévue à la colonne III.
+   (2) A close time set out in column III of an item of                          (2) Toute période de fermeture prévue à la colonne III
+Schedule X applies individually and separately to each                        de l’annexe X s’applique individuellement à chaque État
+flag state set out in Schedule II.                                            d’immatriculation visé à l’annexe II.
+
+
+
+                                                                          4
+                                                       C.R.C., ch. 815 — 6 octobre 2010
+
+
+
+
+   (3) Subject to subsection (4), subsection (1) does not                   (3) Sous réserve du paragraphe (4), le paragraphe (1)
+apply to a person fishing for squid by means of squid                     ne s’applique pas aux personnes qui pêchent le calmar au
+jiggers.                                                                  moyen de turluttes à calmar.
+   (4) No person shall fish for squid by means of squid                      (4) Il est interdit de pêcher le calmar au moyen de tur-
+jiggers in                                                                luttes à calmar dans :
+   (a) Subarea 3 from December 30 to December 31; or                         a) la sous-zone 3, durant la période du 30 décembre
+   (b) Subarea 4 from December 30 to December 31.                            au 31 décembre;
+                                                                             b) la sous-zone 4, durant la période du 30 décembre
+                                                                             au 31 décembre.
+   (5) Where, pursuant to subsection (1), fishing for a                      (5) Lorsque la pêche d’une espèce de poisson est in-
+species of fish is prohibited in a stock area, a person                   terdite dans une zone de stock en vertu du para-
+fishing in that stock area for a species of fish other than a             graphe (1), une personne qui pêche d’autres espèces dans
+species to which the prohibition applies may catch and                    cette zone peut prendre et garder des poissons de l’es-
+retain an incidental catch of the prohibited species if the               pèce interdite à titre de prises accidentelles, à la condi-
+quantity of the incidental catch does not exceed the                      tion que celles-ci n’excèdent pas les quantités prévues à
+quantities referred to in section 9.                                      l’article 9.
+SOR/82-771, s. 3; SOR/87-185, s. 3; SOR/93-62, s. 3.                      DORS/82-771, art. 3; DORS/87-185, art. 3; DORS/93-62, art. 3.
+
+                       SWORDFISH SIZE LIMITS                                               LIMITES DE TAILLE DE L’ESPADON
+   5.1 (1) In this section, “length”, in relation to a                      5.1 (1) Dans le présent article, « longueur » désigne,
+swordfish, means the distance, measured in a straight                     dans le cas de l’espadon, la distance mesurée en ligne
+line, from the tip of the lower jaw to the fork of the tail.              droite de l’extrémité de la mâchoire inférieure à la
+                                                                          fourche de la nageoire caudale.
+   (2) Subject to subsection (3), no person shall be in                      (2) Sous réserve du paragraphe (3), il est interdit
+possession of any swordfish that is less than 125 cm in                   d’avoir en sa possession tout espadon dont la longueur
+length.                                                                   est inférieure à 125 cm.
+   (3) Subsection (2) does not apply to a person fishing                    (3) Le paragraphe (2) ne s’applique pas à une per-
+from a foreign fishing vessel for swordfish under the au-                 sonne qui pêche l’espadon à partir d’un bâtiment de
+thority of a licence where                                                pêche étranger en vertu d’un permis lorsque :
+   (a) the catching of swordfish that are less than                          a) d’une part, l’espadon mesurant moins de 125 cm
+   125 cm in length is incidental to the catching of longer                  de longueur a été pris accidentellement avec d’autres
+   swordfish; and                                                            espadons plus longs;
+   (b) the number of swordfish that are less than 125 cm                     b) d’autre part, le nombre d’espadons mesurant moins
+   in length that are retained during any one fishing trip                   de 125 cm de longueur qui sont gardés durant l’expé-
+   does not exceed a fishing quota of 15 per cent of the                     dition de pêche ne dépasse pas un contingent égal à 15
+   number of longer swordfish that are retained during                       pour cent du nombre d’espadons plus longs pris du-
+   that fishing trip.                                                        rant la même expédition.
+SOR/94-293, s. 2.                                                         DORS/94-293, art. 2.
+
+
+
+
+                                                                      5
+                                                       C.R.C., c. 815 — October 6, 2010
+
+
+
+
+                          TUNA SIZE LIMITS                                                     LIMITES DE TAILLE DU THON
+   6. (1) Subject to subsections (2) and (3), no person                         6. (1) Sous réserve des paragraphes (2) et (3), il est
+shall be in possession of any bigeye or yellowfin tuna                       interdit d’avoir en sa possession un thon à nageoires
+that weigh less than 3.2 kg.                                                 jaunes ou un thon ventru qui pèse moins de 3,2 kg.
+   (2) Subsection (1) does not apply to a person fishing                        (2) Le paragraphe (1) ne s’applique pas à une per-
+from a foreign fishing vessel for bigeye tuna under the                      sonne qui pêche le thon à nageoires jaunes à partir d’un
+authority of a licence where                                                 bâtiment de pêche étranger en vertu d’un permis
+   (a) the catching of bigeye tuna weighing less than                        lorsque :
+   3.2 kg is incidental to the catching of larger bigeye tu-                   a) d’une part, le thon à nageoires jaunes pesant moins
+   na; and                                                                     de 3,2 kg a été pris accidentellement avec d’autres
+   (b) the number of bigeye tuna weighing less than                            thons à nageoires jaunes plus gros;
+   3.2 kg that are retained during any one fishing trip                        b) d’autre part, le nombre de thons à nageoires jaunes
+   does not exceed a fishing quota of 15 per cent of the                       pesant moins de 3,2 kg qui sont gardés durant l’expé-
+   number of larger bigeye tuna that are retained during                       dition de pêche ne dépasse pas un contingent égal à 15
+   that fishing trip.                                                          pour cent du nombre de thons à nageoires jaunes plus
+                                                                               gros pris durant la même expédition.
+   (3) Subsection (1) does not apply to a person fishing                       (3) Le paragraphe (1) ne s’applique pas à une per-
+from a foreign fishing vessel for yellowfin tuna under                       sonne qui pêche à partir d’un bâtiment de pêche étranger
+the authority of a licence where                                             en vertu d’un permis lorsque :
+   (a) the catching of yellowfin tuna weighing less than                       a) d’une part, le thon ventru pesant moins de 3,2 kg a
+   3.2 kg is incidental to the catching of larger yellowfin                    été pris accidentellement avec d’autres thons ventrus
+   tuna; and                                                                   plus gros;
+   (b) the number of yellowfin tuna weighing less than                         b) d’autre part, le nombre de thons ventrus pesant
+   3.2 kg that are retained during any one fishing trip                        moins de 3,2 kg qui sont gardés durant l’expédition de
+   does not exceed a fishing quota of 15 per cent of the                       pêche ne dépasse pas un contingent égal à 15 pour
+   number of larger yellowfin tuna that are retained dur-                      cent du nombre de thons ventrus plus gros pris durant
+   ing that fishing trip.                                                      la même expédition.
+  (4) No person shall be in possession of any bluefin                          (4) Il est interdit d’avoir en sa possession un thon
+tuna that weighs less than 30 kg.                                            rouge qui pèse moins de 30 kg.
+SOR/80-631, s. 1; SOR/87-185, s. 3; SOR/93-62, s. 4; SOR/94-293, s. 3.       DORS/80-631, art. 1; DORS/87-185, art. 3; DORS/93-62, art. 4; DORS/
+                                                                             94-293, art. 3.
+
+   7. and 8. [Revoked, SOR/82-771, s. 3]                                       7. et 8. [Abrogés, DORS/82-771, art. 3]
+
+                     INCIDENTAL CATCH LIMITS                                                LIMITES DE PRISES ACCIDENTELLES
+   9. Subject to subsection 10(2), where a person is fish-                     9. Sous réserve du paragraphe 10(2), il est interdit à
+ing for a species of fish in a stock area under the authori-                 quiconque pêche une espèce dans une zone de stock en
+ty of a licence, that person shall not retain an incidental                  vertu d’une licence de garder une quantité de prises acci-
+catch of a species of fish, other than a species set out in                  dentelles d’une espèce non visée par la licence qui est
+the licence, that exceeds a fishing quota of                                 supérieure aux contingents suivants, laquelle quantité est
+                                                                             calculée en pourcentage du poids total des poissons de
+
+
+
+                                                                         6
+                                                       C.R.C., ch. 815 — 6 octobre 2010
+
+
+
+
+   (a) in respect of haddock                                              l’espèce prise dans cette zone de stock en vertu de la
+      (i) in Division 4VW, one per cent,                                  licence :
+
+      (ii) in Division 4X, one per cent, and                                 a) pour l’aiglefin pris :
+
+      (iii) in Subarea 5, one per cent,                                         (i) dans la division 4VW, un pour cent,
+
+   (b) in respect of cod in Division 4X, one per cent, and                      (ii) dans la division 4X, un pour cent,
+
+   (c) in respect of any species in any stock area not                          (iii) dans la sous-zone 5, un pour cent;
+   mentioned in paragraph (a) or (b), 10 per cent                            b) pour la morue prise dans la division 4X, un pour
+of the weight of the species taken in that stock area un-                    cent;
+der the authority of the licence.                                            c) pour toute espèce prise dans une zone de stock non
+SOR/80-631, s. 2; SOR/87-185, s. 4; SOR/93-62, s. 5.                         visée aux alinéas a) et b), 10 pour cent.
+                                                                          DORS/80-631, art. 2; DORS/87-185, art. 4; DORS/93-62, art. 5.
+
+   10. (1) For the purposes of this section, “annual fish-                   10. (1) Pour l’application du présent article, « plan de
+ing plan” means a document that the Minister sends to a                   pêche annuel » s’entend du document que le ministre en-
+flag state setting out the species of fish that vessels of                voie à l’État d’immatriculation et dans lequel sont spéci-
+that flag state may be licensed to take in a stock area in a              fiés les espèces de poissons que les bâtiments de cet État
+calendar year and the aggregate number of days for                        d’immatriculation peuvent être autorisés à pêcher, en
+which vessels of that flag state may be authorized to fish                vertu d’une licence, dans une zone de stock au cours
+for those species in that stock area.                                     d’une année civile et le nombre total de jours où ils
+                                                                          peuvent être autorisés à pêcher ces espèces dans cette
+                                                                          zone de stock.
+   (2) Section 9 does not apply in respect of an inciden-                   (2) L’article 9 ne s’applique pas à l’égard des prises
+tal catch of a species of fish taken by a vessel of a flag                accidentelles d’une espèce donnée effectuées par un bâti-
+state in a stock area where the aggregate number of fish-                 ment d’un État d’immatriculation dans une zone de stock
+ing days set out in the annual fishing plan for that                      dans les cas où les jours alloués dans le plan de pêche
+species in that stock area has not been utilized.                         annuel pour cette espèce dans cette zone de stock n’ont
+SOR/80-631, s. 3; SOR/87-185, s. 4; SOR/93-62, s. 6.                      pas été épuisés.
+                                                                          DORS/80-631, art. 3; DORS/87-185, art. 4; DORS/93-62, art. 6.
+
+   11. and 12. [Revoked, SOR/94-61, s. 1]                                    11. et 12. [Abrogés, DORS/94-61, art. 1]
+   13. [Revoked, SOR/87-185, s. 4]                                           13. [Abrogé, DORS/87-185, art. 4]
+   14. [Revoked, SOR/79-715, s. 7]                                           14. [Abrogé, DORS/79-715, art. 7]
+
+                    CLOSED AREAS AND SEASONS                                       ZONES INTERDITES ET PÉRIODES DE FERMETURE
+   15. No person shall fish in any part of an area de-                      15. Il est interdit de pêcher dans une partie d’une
+scribed in Column I of an item of Schedule V during the                   zone décrite à la colonne I d’un article de l’annexe V, au
+close time set out in Column II of that item.                             cours d’une période de fermeture précisée à la colonne II
+SOR/79-715, s. 8.                                                         du même article.
+                                                                          DORS/79-715, art. 8.
+
+
+
+
+                                                                      7
+                                                       C.R.C., c. 815 — October 6, 2010
+
+
+
+
+   16. No person shall fish for or catch capelin inside or                  16. Il est interdit de pêcher ou de capturer du capelan
+shoreward of a line beginning at Cape Freels in the                       en deçà, c’est-à-dire en direction du rivage, d’une ligne
+Province of Newfoundland, THENCE to a point at                            commençant au cap Fréhel, dans la province de Terre-
+49°15′N. latitude and 52°54′W. longitude, THENCE to a                     Neuve; DE LÀ, jusqu’à un point situé par 49°15′ de lati-
+point 48°20′N. latitude and 52°00′W. longitude,                           tude nord et 52°54′ de longitude ouest; DE LÀ, jusqu’à
+THENCE to a point at 47°28′N. latitude and 52°00′W.                       un point situé par 48°20′ de latitude nord et 52°00′ de
+longitude, THENCE to a point at 46°42′N. latitude and                     longitude ouest; DE LÀ, jusqu’à un point situé par
+52°22′W. longitude, THENCE to a point at 46°12′N. lat-                    47°28′ de latitude nord et 52°00′ de longitude ouest; DE
+itude and 52°52′W. longitude, THENCE to a point at                        LÀ, jusqu’à un point situé par 46°42′ de latitude nord et
+46°12′N. latitude and 54°24′W. longitude and THENCE                       52°22′ de longitude ouest; DE LÀ, jusqu’à un point situé
+to Cape St. Mary’s in the Province of Newfoundland.                       par 46°12′ de latitude nord et 52°52′ de longitude ouest;
+                                                                          DE LÀ, jusqu’à un point situé par 46°12′ de latitude
+                                                                          nord et 54°24′ de longitude ouest; et DE LÀ, jusqu’au
+                                                                          cap St. Marys, dans la province de Terre-Neuve.
+   16.1 No person shall fish with a trawl net for squid,                     16.1 Il est interdit de pêcher le calmar, le merlu ar-
+silver hake or argentine in Division 4VWX except in the                   genté ou l’argentine avec un chalut dans la divi-
+portion of the Division that is enclosed by straight lines                sion 4VWX, sauf dans la partie bornée par les lignes
+joining the following points, in the order in which they                  droites reliant les points suivants, dans l’ordre de
+are listed:                                                               présentation :
+
+Point                 North Latitude           West Longitude             Point                Latitude nord            Longitude ouest
+1.                    42°10′00″                65°30′00″                  1.                   42°10′00″                65°30′00″
+2.                    42°49′00″                64°11′00″                  2.                   42°49′00″                64°11′00″
+3.                    43°00′00″                63°30′00″                  3.                   43°00′00″                63°30′00″
+4.                    43°04′00″                62°30′00″                  4.                   43°04′00″                62°30′00″
+5.                    43°04′00″                62°00′00″                  5.                   43°04′00″                62°00′00″
+6.                    43°22′00″                61°09′00″                  6.                   43°22′00″                61°09′00″
+7.                    43°39′00″                60°00′00″                  7.                   43°39′00″                60°00′00″
+8.                    43°43′00″                59°40′00″                  8.                   43°43′00″                59°40′00″
+9.                    43°54′00″                59°00′00″                  9.                   43°54′00″                59°00′00″
+10.                   39°00′00″                59°00′00″                  10.                  39°00′00″                59°00′00″
+11.                   39°00′00″                61°51′00″                  11.                  39°00′00″                61°51′00″
+12.                   42°10′00″                65°30′00″                  12.                  42°10′00″                65°30′00″
+SOR/78-753, s. 2; SOR/79-715, s. 9; SOR/93-62, s. 8.                      DORS/78-753, art. 2; DORS/79-715, art. 9; DORS/93-62, art. 8.
+
+     16.2 [Revoked, SOR/82-771, s. 5]                                          16.2 [Abrogé, DORS/82-771, art. 5]
+   17. No person shall, during the period commencing                        17. Il est interdit de pêcher, du 1er mars au 31 mai de
+on March 1st and terminating on May 31st in any year,                     chaque année, au moyen d’engins pouvant prendre
+fish with gear that is capable of taking any demersal                     quelque espèce de poissons de fond dans l’une ou l’autre
+species of fish in either of the areas bounded by straight                des zones limitées par les droites reliant les coordonnées
+
+
+
+
+                                                                      8
+                                            C.R.C., ch. 815 — 6 octobre 2010
+
+
+
+
+lines joining the geographical coordinates set out in             géographiques visées à l’annexe VI, dans l’ordre indiqué
+Schedule VI, in the order listed in each case.                    pour chaque cas.
+   18. [Revoked, SOR/82-771, s. 6]                                   18. [Abrogé, DORS/82-771, art. 6]
+   19. and 20. [Revoked, SOR/79-715, s. 10]                          19. et 20. [Abrogés, DORS/79-715, art. 10]
+
+                                PART II                                                         PARTIE II
+
+                         PACIFIC COAST                                                   CÔTE DU PACIFIQUE
+
+                           INTERPRETATION                                                    INTERPRÉTATION
+   21. In this Part,                                                 21. Dans la présente partie,
+“gill net” means a net that                                       « filet maillant » désigne un filet
+   (a) is weighted at its bottom and floated at the surface          a) lesté à son extrémité inférieure et muni d’une ligne
+   of the water by a cork line, and                                  de flotteurs à la surface de l’eau, et
+   (b) is used to catch fish by enmeshing them,                      b) utilisé pour capturer le poisson en l’emmaillant,
+but does not enclose an area of water.                            mais qui ne forme pas une enceinte dans l’eau.
+SOR/82-771, s. 7.                                                 DORS/82-771, art. 7.
+
+                             APPLICATION                                                       APPLICATION
+   22. This Part applies in Canadian fisheries waters ad-           22. La présente partie s’applique, dans les eaux de
+jacent to the Pacific coast of Canada to                          pêche canadiennes adjacentes à la côte du Pacifique du
+   (a) a foreign fishing vessel other than a foreign fish-        Canada,
+   ing vessel engaged exclusively in scientific research;            a) à un bâtiment de pêche étranger ne se livrant pas
+   and                                                               exclusivement à la recherche scientifique; et
+   (b) any person on board, being a member of the crew               b) à quiconque se trouve à bord d’un bâtiment visé à
+   of, attached to or employed on a vessel described in              l’alinéa a), qu’il soit membre d’équipage, affecté au
+   paragraph (a).                                                    bâtiment ou employé sur ce dernier.
+SOR/93-62, s. 20(F).                                              DORS/93-62, art. 20(F).
+
+                              CLOSE TIME                                                 PÉRIODE DE FERMETURE
+   23. No person who is on board a foreign fishing ves-              23. Il est interdit à quiconque se trouve à bord d’un
+sel of a flag state set out in column I of an item of             bâtiment de pêche étranger d’un État d’immatriculation
+Schedule VII shall fish for the species of fish set out in        visé à la colonne I de l’annexe VII de pêcher toute es-
+column II of that item in the stock area set out in col-          pèce de poisson visée à la colonne II, dans la zone de
+umn III of that item during the close time set out in col-        stock indiquée à la colonne III, durant la période de fer-
+umn V of that item.                                               meture prévue à la colonne V.
+SOR/82-771, s. 8; SOR/93-62, s. 9.                                DORS/82-771, art. 8; DORS/93-62, art. 9.
+
+   24. and 25. [Revoked, SOR/82-771, s. 8]                           24. et 25. [Abrogés, DORS/82-771, art. 8]
+
+
+
+
+                                                              9
+                                                      C.R.C., c. 815 — October 6, 2010
+
+
+
+
+                     INCIDENTAL CATCH LIMITS                                             LIMITES DE PRISES ACCIDENTELLES
+   26. Where a person is fishing for Pacific hake in sub-                   26. Il est interdit à quiconque pêche le merlu du Paci-
+zone 5-1 or 5-2, he shall not catch and retain an inciden-               fique dans le sous-secteur 5-1 ou 5-2 de prendre et de
+tal catch of a species of fish other than Pacific hake that              garder des prises accidentelles d’une autre espèce, dont
+exceeds 20 per cent of the weight of the Pacific hake on                 le poids dépasse 20 pour cent ou les proportions ci-après
+board the vessel or that exceeds:                                        du poids du merlu du Pacifique se trouvant à bord du
+   (a) in respect of walleye pollock, 10 per cent,                       bâtiment :
+
+   (b) in respect of rockfish, two per cent,                                a) 10 pour cent, dans le cas de la morue du Pacifique
+                                                                            occidental;
+   (c) in respect of Pacific cod and ling cod in the aggre-
+   gate, one per cent, or                                                   b) deux pour cent, dans le cas de scorpènes;
+
+   (d) in respect of sablefish, one per cent,                               c) un pour cent au total, dans le cas de la morue du
+                                                                            Pacifique et d’ophiodon;
+of the said weight.
+                                                                            d) un pour cent, dans le cas de la morue charbonnière.
+SOR/82-771, s. 9; SOR/87-185, s. 5.
+                                                                         DORS/82-771, art. 9; DORS/87-185, art. 5.
+
+   27. [Revoked, SOR/82-771, s. 9]                                          27. [Abrogé, DORS/82-771, art. 9]
+
+                         GEAR RESTRICTIONS                                          RESTRICTIONS À L’UTILISATION DES ENGINS
+   28. (1) No person on board or operating from a for-                      28. (1) Il est interdit à quiconque se trouve à bord ou
+eign fishing vessel of a flag state set out in Column I of               pêche à partir d’un bâtiment de pêche étranger d’un État
+an item of Schedule VII shall fish for a species of fish                 d’immatriculation visé à la colonne I de l’annexe VII, de
+set out in Column II of that item in a stock area set out in             pêcher une espèce de poisson mentionnée à la co-
+Column III of that item except with the gear type set out                lonne II, dans une zone de stock indiquée à la co-
+in Column IV of that item.                                               lonne III, sauf au moyen d’un type d’engin précisé à la
+                                                                         colonne IV.
+   (2) No person shall fish for, or catch and retain, Pacif-               (2) Il est interdit de pêcher ou de prendre et de garder
+ic hake by means of a trawl net that has a mesh size                     du merlu du Pacifique au moyen d’un chalut dont le
+   (a) greater than 100 mm or less than 76 mm in the                     maillage :
+   cod-end; or                                                              a) est supérieur à 100 mm ou inférieur à 76 mm dans
+   (b) less than 89 mm in any part of the net that is not                   le cul de chalut;
+   the cod-end.                                                             b) est inférieur à 89 mm dans toute partie du filet
+                                                                            autre que le cul de chalut.
+   (3) No person fishing for a species of fish other than                  (3) Il est interdit à quiconque pêche une espèce de
+Pacific hake shall use a trawl net that has a mesh size of               poisson autre que le merlu du Pacifique d’utiliser un
+less than 89 mm.                                                         chalut dont le maillage est inférieur à 89 mm.
+SOR/82-771, s. 10; SOR/87-185, s. 6; SOR/93-62, s. 10(F).                DORS/82-771, art. 10; DORS/87-185, art. 6; DORS/93-62, art. 10(F).
+
+
+
+
+                                                                    10
+                                               C.R.C., ch. 815 — 6 octobre 2010
+
+
+
+
+                               PART III                                                            PARTIE III
+
+                         ENFORCEMENT                                                        MISE EN VIGUEUR
+
+                   POWERS OF FISHERY OFFICERS                                 POUVOIRS DES FONCTIONNAIRES DES PÊCHERIES
+   29. [Revoked, SOR/93-62, s. 11]                                      29. [Abrogé, DORS/93-62, art. 11]
+
+                      SEALS AND CERTIFICATES                                               CACHETS ET CERTIFICATS
+   30. (1) A fishery officer may                                        30. (1) Un agent des pêches peut
+   (a) place a numbered identification mark or seal on                  a) apposer une marque numérique ou un cachet à tout
+   any equipment or gear that he has inspected on board                 matériel et à tout engin qu’il a inspecté à bord d’un
+   a foreign fishing vessel; and                                        bâtiment de pêche étranger; et
+   (b) where he is of the opinion that equipment or gear                b) s’il est d’avis que le matériel et les engins à bord
+   on board a foreign fishing vessel that he has inspected              d’un bâtiment de pêche étranger qu’il a inspecté sont
+   is in compliance with these Regulations, issue a cer-                conformes au présent règlement, délivrer au capitaine
+   tificate of inspection to the master of the vessel setting           du bâtiment un certificat portant
+   out                                                                     (i) la date de l’inspection, et
+      (i) the date of the inspection, and                                  (ii) une description du matériel et des engins qu’il a
+      (ii) a description of the equipment or gear he has                   inspectés.
+      inspected.
+   (2) Where a fishery officer has placed a mark or seal               (2) Lorsqu’un agent des pêches a apposé une marque
+on any equipment or gear in accordance with subsec-                  ou un cachet aux engins ou au matériel selon le para-
+tion (1), that mark or seal shall not be removed, altered            graphe (1), la marque ou le cachet ne peut être enlevé ou
+or tampered with by any person other than a fishery offi-            modifié que par un agent des pêches tant que le bâtiment
+cer while the foreign fishing vessel is in Canadian fish-            de pêche étranger se trouve dans les eaux de pêche cana-
+eries waters.                                                        diennes.
+SOR/93-62, ss. 20(F), 21(F).                                         DORS/93-62, art. 20(F) et 21(F).
+
+   31. and 32. [Revoked, SOR/93-62, s. 12]                              31. et 32. [Abrogés, DORS/93-62, art. 12]
+
+                               PART IV                                                             PARTIE IV
+
+                               GENERAL                                               DISPOSITIONS GÉNÉRALES
+
+                      AVOIDANCE OF SET GEAR                                            DISTANCE DES ENGINS MOUILLÉS
+   33. (1) The master of a foreign fishing vessel in                    33. (1) Le capitaine d’un bâtiment de pêche étranger
+Canadian fisheries waters shall ensure at all times that             naviguant dans les eaux de pêche canadiennes s’assure
+there is maintained a distance of at least 1/2 nautical              en tout temps qu’une distance d’au moins 1/2 mille ma-
+mile between his vessel and any equipment and gear at-               rin est maintenue entre son bâtiment, ainsi que tout ma-
+tached thereto and any set fishing gear that has been                tériel et engins qui y sont fixés, et tout engin de pêche
+marked so as to be visible to persons on board vessels               mouillé qui a été muni d’un indicateur signalant sa pré-
+navigating in the vicinity.
+
+
+
+
+                                                                11
+                                             C.R.C., c. 815 — October 6, 2010
+
+
+
+
+                                                                    sence à quiconque se trouve à bord d’un bâtiment navi-
+                                                                    guant à proximité.
+  (2) For the purposes of this section, “set”, in respect             (2) Aux fins du présent article, un engin de pêche
+of fishing gear, means that the fishing gear has been               « mouillé » est un engin qui a été submergé de façon
+placed in the sea in such manner that                                  a) que chaque extrémité de l’engin soit ancrée en
+   (a) each end of the gear is anchored in the sea;                    mer;
+   (b) one end of the gear is anchored in the sea and the              b) qu’une extrémité de l’engin soit ancrée en mer et
+   other end of the gear is attached to a fishing vessel;              que l’autre soit fixée à un bâtiment de pêche;
+   (c) the gear is drifting in the sea; or                             c) que l’engin dérive librement en mer; ou
+   (d) one end of the gear is drifting free in the sea while           d) qu’une extrémité de l’engin dérive librement en
+   the other end of the gear is attached to a fishing ves-             mer et que l’autre soit fixée à un bâtiment de pêche.
+   sel.                                                             DORS/93-62, art. 20(F).
+SOR/93-62, s. 20(F).
+
+   34. to 37. [Revoked, SOR/93-62, s. 13]                              34. à 37. [Abrogés, DORS/93-62, art. 13]
+
+
+
+
+                                                               12
+                                                   C.R.C., ch. 815 — 6 octobre 2010
+
+
+
+
+                           SCHEDULE I                                                                     ANNEXE I
+                              (s. 2)                                                                       (art. 2)
+
+                 SUB-ZONES — PACIFIC COAST                                              SOUS-SECTEURS — CÔTE DU PACIFIQUE
+
+1. (a) Sub-Zone 5-1A is comprised of that portion of Fishing Zone            1. a) le sous-secteur 5-1A comprend la partie de la Zone de
+   5 that is east of a line beginning at 49°00′N. latitude, 126°15′W.           pêche 5 située à l’est d’une droite tirée à partir de 49°00′ de
+   longitude, THENCE to 48°30′N. latitude, 125°55′W. longitude                  latitude nord et 126°15′ de longitude ouest; DE LÀ, jusqu’à
+   and THENCE in a southerly direction to a point of intersection               48°30′ de latitude nord et 125°55′ de longitude ouest et; DE LÀ,
+   with the outer perimeter of Fishing Zone 5 at 48°21.2′N.                     vers le sud, jusqu’au point d’intersection avec le périmètre
+   latitude, 125°20.85′W. longitude;                                            extérieur de la Zone de pêche 5, par 48°21,2′ de latitude nord et
+    (b) Sub-Zone 5-1B is comprised of that portion of Fishing Zone              125°20,85′ de longitude ouest;
+    5 that is west of Sub-Zone 5-1A, and east of a line beginning in             b) le sous-secteur 5-1B comprend la partie de la Zone de
+    49°00′N. latitude, 126°15′W. longitude, THENCE to 48°30′N.                   pêche 5 située à l’ouest du sous-secteur 5-1A, et à l’est d’une
+    latitude, 126°00′W. longitude and THENCE due south to the                    droite tirée à partir de 49°00′ de latitude nord et 126°15′ de
+    outer perimeter of Fishing Zone 5.                                           longitude ouest; DE LÀ, jusqu’à 48°30′ de latitude nord et
+2. Sub-Zone 5-2 is comprised of that portion of Fishing Zone 5                   126°00′ de longitude ouest et; DE LÀ, vers le sud, jusqu’au
+   that is south of 49°23′N. latitude, exclusive of Sub-Zone 5-1.                périmètre extérieur de la Zone de pêche 5.2.
+
+3. Sub-Zone 5-3 is comprised of that portion of Fishing Zone 5               2. Le sous-secteur 5-2 comprend la partie de la Zone de pêche 5
+   that is north of 49°23′N. latitude and south of 50°30′N. latitude.           située au sud de 49°23′ de latitude nord, à l’exclusion du sous-
+                                                                                secteur 5-1.
+4. Sub-Zone 5-4 is comprised of that portion of Fishing Zone 5
+   that is north of 50°30′N. latitude and south of 52°00′N. latitude.        3. Le sous-secteur 5-3 comprend la partie de la Zone de pêche 5
+                                                                                située au nord de 49°23′ de latitude nord et au sud de 50°30′ de
+5. Sub-Zone 5-5 is comprised of that portion of Fishing Zone 5                  latitude nord.
+   that is north of 52°00′N. latitude.
+                                                                             4. Le sous-secteur 5-4 comprend la partie de la Zone de pêche 5
+                                                                                située au nord de 50°30′ de latitude nord et au sud de 52°00′ de
+                                                                                latitude nord.
+                                                                             5. Le sous-secteur 5-5 comprend la partie de la Zone de pêche 5
+                                                                                située au nord de 52°00′ de latitude nord.
+SOR/82-771, s. 12.                                                           DORS/82-771, art. 12.
+
+
+
+
+                                                                        13
+                                                     C.R.C., c. 815 — October 6, 2010
+
+
+
+
+                            SCHEDULE II                                                                      ANNEXE II
+                             (Section 5)                                                                      (article 5)
+
+           FOREIGN FISHING VESSEL FLAG STATES                                           ÉTATS D’IMMATRICULATION DES BÂTIMENTS
+                                                                                                     ÉTRANGERS
+
+         Column I                                                                        Colonne I
+Item     Flag State                                                              Article État d’immatriculation
+1.       Bulgaria                                                                1.      Bulgarie
+2.       Cuba                                                                    2.      Cuba
+3.       Denmark                                                                 3.      Danemark
+4.       Estonia                                                                 4.      Estonie
+5.       Faeroe Islands                                                          5.      Îles Féroé
+6.       France                                                                  6.      France
+7.       Germany                                                                 7.      Allemagne
+8.       Iceland                                                                 8.      Islande
+9.       Ireland                                                                 9.      Irlande
+10.      Italy                                                                   10.     Italie
+11.      Japan                                                                   11.     Japon
+12.      Latvia                                                                  12.     Lettonie
+13.      Lithuania                                                               13.     Lithuanie
+14.      Norway                                                                  14.     Norvège
+15.      Poland                                                                  15.     Pologne
+16.      Portugal                                                                16.     Portugal
+17.      Romania                                                                 17.     Roumanie
+18.      Russia                                                                  18.     Russie
+19.      Spain                                                                   19.     Espagne
+20.      United Kingdom                                                          20.     Royaume-Uni
+21.      United States                                                           21.     États-Unis
+SOR/78-753, s. 3; SOR/79-715, s. 13; SOR/82-771, s. 12; SOR/83-886, s. 1;        DORS/78-753, art. 3; DORS/79-715, art. 13; DORS/82-771, art. 12; DORS/
+SOR/87-185, s. 8; SOR/93-62, s. 14.                                              83-886, art. 1; DORS/87-185, art. 8; DORS/93-62, art. 14.
+
+
+
+
+                                                                            14
+                             C.R.C., ch. 815 — 6 octobre 2010
+
+
+
+
+     SCHEDULE III                                                       ANNEXE III
+
+[Revoked, SOR/94-61, s. 2]                                      [Abrogée, DORS/94-61, art. 2]
+
+
+
+
+                                           15
+                              C.R.C., c. 815 — October 6, 2010
+
+
+
+
+     SCHEDULE IV                                                     ANNEXE IV
+
+[Revoked, SOR/93-62, s. 15]                                  [Abrogée, DORS/93-62, art. 15]
+
+
+
+
+                                            16
+                                                C.R.C., ch. 815 — 6 octobre 2010
+
+
+
+
+                           SCHEDULE V                                                           ANNEXE V
+                              (s. 15)                                                            (art. 15)
+
+                        CLOSED AREAS                                                       ZONES INTERDITES
+
+       Column I                                    Column II                Colonne I                                     Colonne II
+Item   Area                                        Close Time                                                             Période de
+1.     The waters off White Head in the Province January 1 to        Article Zone                                         fermeture
+       of Nova Scotia that are enclosed by straight June 30          1.     Les eaux situées au large de White Head       1er janvier au
+       lines joining the following points, in the                           dans la province de la Nouvelle-Écosse,       30 juin
+       order in which they are listed:                                      bornées par les lignes droites reliant les
+                                                                            points suivants, dans l’ordre de
+                                                                            présentation :
+       Point   North Latitude    West Longitude
+       1.      44°36′00″         61°04′00″
+                                                                            Point   Latitude nord      Longitude ouest
+       2.      44°46′00″         61°20′00″
+                                                                            1.      44°36′00″          61°04′00″
+       3.      45°00′00″         61°06′00″
+                                                                            2.      44°46′00″          61°20′00″
+       4.      45°06′00″         60°51′00″
+                                                                            3.      45°00′00″          61°06′00″
+       5.      44°56′00″         60°45′00″
+                                                                            4.      44°06′00″          60°51′00″
+       6.      44°36′00″         61°04′00″
+                                                                            5.      44°56′00″          60°45′00″
+2.     The waters off Fogo-Twillingate in the    June 1 to
+       Province of Newfoundland enclosed by a    November 30                6.      44°36′00″          61°04′00″
+       line drawn from a point at 50°06′N. lat.,                     2.     Les eaux situées au large de Fogo et de        1er juin au
+       53°35′W. long.; THENCE to a point at                                 Twillingate dans la province de Terre-         30 novembre
+       49°58′N. lat., 53°49′W. long.; THENCE to                             Neuve, délimitées par une ligne tirée d’un
+       a point at 50°10′N. lat., 55°02′W. long.;                            point situé par 50°06′ de latitude nord et
+       THENCE to a point at 50°16′N. lat.,                                  53°35′ de longitude ouest; DE LÀ, jusqu’à
+       54°50′W. long.; THENCE to the said point                             un point situé par 49°58′ de latitude nord et
+       at 50°06′N. lat., 53°35′W. long.                                     53°49′ de longitude ouest; DE LÀ, jusqu’à
+3.     The waters off Cabot Island-Funk Island,     May 1 to                un point situé par 50°10′ de latitude nord et
+       Newfoundland enclosed by straight lines      Nov. 30                 55°02′ de longitude ouest; DE LÀ, jusqu’à
+       joining the following points in the order in                         un point situé par 50°16′ de latitude nord et
+       which they are listed:                                               54°50′ de longitude ouest; DE LÀ, jusqu’au
+                                                                            dit point situé par 50°06′ de latitude nord et
+                                                                            53°35′ de longitude ouest.
+       Point   North Latitude    West Longitude                      3.     Les eaux situées au large des îles Cabot et   1er mai au
+       1.      50°05′            53°15′                                     Funk, Terre-Neuve, bornées par les lignes     30 novembre
+                                                                            droites reliant les points suivants dans
+       2.      50°05′            52°35′                                     l’ordre où ils sont énumérés :
+       3.      49°15′            52°35′
+       4.      49°15′            53°15′                                     Point   Latitude nord      Longitude ouest
+       5.      49°43′30″         53°38′                                     1.      50°05′             53°15′
+       6.      50°05′            53°15′                                     2.      50°05′             52°35′
+4.     The waters off Bonavista — St. John’s in June 1 to                   3.      49°15′             52°35′
+       the Province of Newfoundland enclosed by November 30
+       a line drawn from a point at 47°36′N. lat.,                          4.      49°15′             53°15′
+       52°00′W. long.; THENCE to a point at                                 5.      49°43′30″          53°38′
+       47°34′N. lat., 52°20′W. long.; THENCE to
+       a point at 48°44′N. lat., 52°37′W. long.;                            6.      50°05′             53°15′
+       THENCE to a point at 48°46′N. lat.,
+       52°27′W. long.; THENCE to the said point
+       at 47°36′N. lat., 52°00′W. long.
+
+
+
+
+                                                                17
+                                                       C.R.C., c. 815 — October 6, 2010
+
+
+
+
+                                                                                          Colonne I                                    Colonne II
+                                                                                                                                       Période de
+                                                                                  Article Zone                                         fermeture
+                                                                                  4.      Les eaux situées au large de Bonavista et      1er juin au
+                                                                                          de Saint-Jean dans la province de Terre-       30 novembre
+                                                                                          Neuve, délimitées par une ligne tirée d’un
+                                                                                          point situé par 47°36′ de latitude nord et
+                                                                                          52°00′ de longitude ouest; DE LÀ, jusqu’à
+                                                                                          un point situé par 47°34′ de latitude nord et
+                                                                                          52°20′ de longitude ouest; DE LÀ, jusqu’à
+                                                                                          un point situé par 48°44′ de latitude nord et
+                                                                                          52°37′ de longitude ouest; DE LÀ, jusqu’à
+                                                                                          un point situé par 48°46′ de latitude nord et
+                                                                                          52°27′ de longitude ouest; DE LÀ, jusqu’au
+                                                                                          dit point situé par 47°36′ de latitude nord et
+                                                                                          52°00′ de longitude ouest.
+SOR/79-715, s. 14; SOR/90-466, s. 1; SOR/93-62, s. 16; SOR/94-48, s. 1(F).        DORS/79-715, art. 14; DORS/90-466, art. 1; DORS/93-62, art. 16; DORS/
+                                                                                  94-48, art. 1(F).
+
+
+
+
+                                                                             18
+                                           C.R.C., ch. 815 — 6 octobre 2010
+
+
+
+
+                            SCHEDULE VI                                                    ANNEXE VI
+                               (s. 17)                                                      (art. 17)
+
+              AREAS REFERRED TO IN SECTION 17                             ZONES MENTIONNÉES À L’ARTICLE 17
+
+                                Column I   Column II                                          Colonne I   Colonne II
+                                Latitude   Longitude                                          Latitude    Longitude
+Area I        (1)               42°04′N    65°44′W            Zone I        (1)               42°04′N     65°44′O
+              (2)               42°40′N    64°30′W                          (2)               42°40′N     64°30′O
+              (3)               43°00′N    64°30′W                          (3)               43°00′N     64°30′O
+              (4)               43°00′N    66°32′W                          (4)               43°00′N     66°32′O
+              (5)               42°20′N    66°32′W                          (5)               42°20′N     66°32′O
+              (6)               42°20′N    66°00′W                          (6)               42°20′N     66°00′O
+              (7)               42°04′N    65°44′W                          (7)               42°04′N     65°44′O
+Area II       (1)               42°20′N    67°00′W            Zone II       (1)               42°20′N     67°00′O
+              (2)               41°15′N    67°00′W                          (2)               41°15′N     67°00′O
+              (3)               41°15′N    65°40′W                          (3)               41°15′N     65°40′O
+              (4)               42°00′N    65°40′W                          (4)               42°00′N     65°40′O
+              (5)               42°20′N    66°00′W                          (5)               42°20′N     66°00′O
+              (6)               42°20′N    67°00′W                          (6)               42°20′N     67°00′O
+SOR/79-715, s. 14; SOR/94-48, s. 2.                           DORS/79-715, art. 14; DORS/94-48, art. 2.
+
+
+
+
+                                                         19
+                                                       C.R.C., c. 815 — October 6, 2010
+
+
+
+
+                                                                   SCHEDULE VII
+                                                                (Sections 2, 23 and 28)
+
+                                                        CLOSE TIMES — PACIFIC COAST
+
+
+            Column I                    Column II               Column III                Column IV        Column V
+Item        Flag State                  Species                 Stock Area                Gear Type        Close Time
+1.          Japan                       Pacific hake            Sub-zones 5-1A, 5-1B,     Midwater trawl   November 30 to December 31
+                                                                and 5-2
+2.          Japan                       Rockfish                Fishing Zone 5            Trawl net        January 1 to December 31
+3.          Japan                       Squid                   Fishing Zone 5            Gill net         January 1 to December 31
+4.          Japan                       Squid                   Fishing Zone 5            Squid jigger     January 1 to December 31
+5.          Japan                       Sablefish               Fishing Zone 5            Set lines        January 1 to December 31
+6.          Japan                       Walleye pollock         Fishing Zones 3 & 5       Midwater trawl   January 1 to December 31
+7.          Japan                       Spiny dogfish           Fishing Zones 3 & 5       Trawl net        January 1 to December 31
+8.          Poland                      Pacific hake            Sub-Zones 5-1A, 5-1B      Midwater trawl   November 30 to December 31
+                                                                and 5-2
+9.          Poland                      Rockfish                Fishing Zone 5            Trawl net        January 1 to December 31
+10.         Poland                      Squid                   Fishing Zone 5            Gill net         January 1 to December 31
+11.         Poland                      Squid                   Fishing Zone 5            Squid jigger     January 1 to December 31
+12.         Poland                      Sablefish               Fishing Zone 5            Set lines        January 1 to December 31
+13.         Poland                      Walleye pollock         Fishing Zones 3 & 5       Midwater trawl   January 1 to December 31
+14.         Poland                      Spiny dogfish           Fishing Zones 3 & 5       Trawl net        January 1 to December 31
+15.         Union of Soviet             Pacific hake            Sub-Zones 5-1A, 5-1B      Midwater trawl   November 30 to December 31
+            Socialist Republics                                 and 5-2
+16.         Union of Soviet             Rockfish                Fishing Zone 5            Trawl net        January 1 to December 31
+            Socialist Republics
+17.         Union of Soviet             Squid                   Fishing Zone 5            Gill net         January 1 to December 31
+            Socialist Republics
+18.         Union of Soviet             Squid                   Fishing Zone 5            Squid jigger     January 1 to December 31
+            Socialist Republics
+19.         Union of Soviet             Sablefish               Fishing Zone 5            Set lines        January 1 to December 31
+            Socialist Republics
+20.         Union of Soviet             Walleye pollock         Fishing Zones 3 & 5       Midwater trawl   January 1 to December 31
+            Socialist Republics
+21.         Union of Soviet             Spiny dogfish           Fishing Zones 3 & 5       Trawl net        January 1 to December 31
+            Socialist Republics
+22.         All other Countries         Pacific hake            Sub-zones 5-1A, 5-1B      Midwater trawl   November 30 to December 31
+                                                                and 5-2
+23.         All other Countries         Rockfish                Fishing Zone 5            Trawl net        January 1 to December 31
+24.         All other Countries         Squid                   Fishing Zone 5            Gill net         January 1 to December 31
+25.         All other Countries         Squid                   Fishing Zone 5            Squid jigger     January 1 to December 31
+26.         All other Countries         Sablefish               Fishing Zone 5            Set lines        January 1 to December 31
+27.         All other Countries         Walleye pollock         Fishing Zones 3 & 5       Midwater trawl   January 1 to December 31
+28.         All other Countries         Spiny dogfish           Fishing Zones 3 & 5       Trawl net        January 1 to December 31
+SOR/78-753, s. 4; SOR/79-715, s. 14; SOR/82-771, s. 13; SOR/87-185, s. 10.
+
+
+
+
+                                                                             20
+                                                 C.R.C., ch. 815 — 6 octobre 2010
+
+
+
+
+                                                             ANNEXE VII
+                                                          (articles 2, 23 et 28)
+
+                                        PÉRIODES DE FERMETURE — CÔTE DU PACIFIQUE
+
+
+          Colonne I                 Colonne II           Colonne III               Colonne IV          Colonne V
+Article   État d’immatriculation    Espèces              Zone de stock             Type d’engin        Période de fermeture
+1.        Japon                     Merlu du Pacifique   Sous-secteurs 5-1A, 5-1B Chalut pélagique     Du 30 novembre au
+                                                         et 5-2                                        31 décembre
+2.        Japon                     Scorpènes            Zone de pêche 5           Chalut              Du 1er janvier au 31 décembre
+3.        Japon                     Calmar               Zone de pêche 5           Filet maillant      Du 1er janvier au 31 décembre
+4.        Japon                     Calmar               Zone de pêche 5           Turlutte à calmar   Du 1er janvier au 31 décembre
+5.        Japon                     Morue charbonnière Zone de pêche 5             Ligne fixe          Du 1er janvier au 31 décembre
+6.        Japon                     Morue du Pacifique Zones de pêche 3 et 5       Chalut pélagique    Du 1er janvier au 31 décembre
+                                    occidental
+7.        Japon                     Aiguillat            Zones de pêche 3 et 5     Chalut              Du 1er janvier au 31 décembre
+8.        Pologne                   Merlu du Pacifique   Sous-secteurs 5A-1, 5-1B Chalut pélagique     Du 30 novembre au
+                                                         et 5-2                                        31 décembre
+9.        Pologne                   Scorpènes            Zone de pêche 5           Chalut              Du 1er janvier au 31 décembre
+10.       Pologne                   Calmar               Zone de pêche 5           Filet maillant      Du 1er janvier au 31 décembre
+11.       Pologne                   Calmar               Zone de pêche 5           Turlutte à calmar   Du 1er janvier au 31 décembre
+12.       Pologne                   Morue charbonnière Zone de pêche 5             Ligne fixe          Du 1er janvier au 31 décembre
+13.       Pologne                   Morue du Pacifique Zones de pêche 3 et 5       Chalut pélagique    Du 1er janvier au 31 décembre
+                                    occidental
+14.       Pologne                   Aiguillat            Zones de pêche 3 et 5     Chalut              Du 1er janvier au 31 décembre
+15.       Union des républiques     Merlu du Pacifique   Sous-secteurs 5-1A, 5-1B Chalut pélagique     Du 30 novembre au
+          socialistes soviétiques                        et 5-2                                        31 décembre
+16.       Union des républiques     Scorpènes            Zone de pêche 5           Chalut              Du 1er janvier au 31 décembre
+          socialistes soviétiques
+17.       Union des républiques     Calmar               Zone de pêche 5           Filet maillant      Du 1er janvier au 31 décembre
+          socialistes soviétiques
+18.       Union des républiques     Calmar               Zone de pêche 5           Turlutte à calmar   Du 1er janvier au 31 décembre
+          socialistes soviétiques
+19.       Union des républiques     Morue charbonnière Zone de pêche 5             Ligne fixe          Du 1er janvier au 31 décembre
+          socialistes soviétiques
+20.       Union des républiques     Morue du Pacifique Zones de pêche 3 et 5       Chalut pélagique    Du 1er janvier au 31 décembre
+          socialistes soviétiques   occidental
+21.       Union des républiques     Aiguillat            Zones de pêche 3 et 5     Chalut              Du 1er janvier au 31 décembre
+          socialistes soviétiques
+22.       Tous les autres États     Merlu du Pacifique   Sous-secteurs 5-1A, 5-1B Chalut pélagique     Du 30 novembre au
+          d’immatriculation                              et 5-2                                        31 décembre
+23.       Tous les autres États     Scorpènes            Zone de pêche 5           Chalut              Du 1er janvier au 31 décembre
+          d’immatriculation
+24.       Tous les autres États     Calmar               Zone de pêche 5           Filet maillant      Du 1er janvier au 31 décembre
+          d’immatriculation
+25.       Tous les autres États     Calmar               Zone de pêche 5           Turlutte à calmar   Du 1er janvier au 31 décembre
+          d’immatriculation
+
+
+
+
+                                                                   21
+                                                     C.R.C., c. 815 — October 6, 2010
+
+
+
+
+            Colonne I                  Colonne II              Colonne III               Colonne IV         Colonne V
+Article     État d’immatriculation     Espèces                 Zone de stock             Type d’engin       Période de fermeture
+26.         Tous les autres États      Morue charbonnière Zone de pêche 5                Ligne fixe         Du 1er janvier au 31 décembre
+            d’immatriculation
+27.         Tous les autres États      Morue du Pacifique Zones de pêche 3 et 5          Chalut pélagique   Du 1er janvier au 31 décembre
+            d’immatriculation          occidental
+28.         Tous les autres États      Aiguillat               Zones de pêche 3 et 5     Chalut             Du 1er janvier au 31 décembre
+            d’immatriculation
+DORS/78-753, art. 4; DORS/79-715, art. 14; DORS/82-771, art. 13; DORS/87-185, art. 10.
+
+
+
+
+                                                                          22
+                                                 C.R.C., ch. 815 — 6 octobre 2010
+
+
+
+
+                        SCHEDULE VIII                                                                 ANNEXE VIII
+                         (ss. 2 and 36)                                                                (art. 2 et 36)
+
+                SCIENTIFIC AND COMMON NAMES                                            NOMS COMMUNS ET SCIENTIFIQUES
+
+     Column I                Column II                                        Colonne I                    Colonne II
+     Common Names            Scientific Names                                 Nom commun                   Nom scientifique
+1.   American plaice         Hippoglossoides platessoides               1.    Plie du Canada               Hippoglossoides platessoides
+2.   Argentine               Argentina silus                            2.    Argentine                    Argentina silus
+3.   Arctic Cod              Boreogadus saida                           3.    Saïda                        Boreogadus saida
+4.   Billfish                Scomberesox saurus                         4.    Balaou                       Scomberesox saurus
+5.   Butterfish              Peprilus triacanthus                       5.    Stromatée à fossettes        Peprilus triacanthus
+6.   Capelin                 Mallotus villosus                          6.    Capelan                      Mallotus villosus
+7.   Cod                     Gadus morhua                               7.    Morue                        Gadus morhua
+8.   [Revoked, SOR/87-185, s. 11]                                       8.    [Abrogé, DORS/87-185, art. 11]
+9.   Flounder                Fish of the order heterosomata             9.    Flet                         Poisson de l’ordre des
+10. Turbot                   Reinhardtius hippoglossoides                                                  heterosomata
+
+11. Haddock                  Melanogrammus aeglefinusi                  10.   Flétan du Grœnland           Reinhardtius hippoglossoides
+
+12. Hake                     Merluccius productus                       11.   Aiglefin                     Melanogrammus aeglefinus
+
+13. Halibut                  Hippoglossus hippoglossus                  12.   Merlu                        Merluccius productus
+
+14. Herring                  Clupea harengus                            13.   Flétan                       Hippoglossus hippoglossus
+
+15. Lingcod                  Ophiodon elongatus                         14.   Hareng                       Clupea harengus
+
+16. Mackerel                 Scomber scombrus                           15.   Ophiodon                     Ophiodon elongatus
+
+17. Menhaden                 Brevoortia tyrannus                        16.   Maquereau                    Scomber scombrus
+
+18. Pacific Cod              Gadus macrocephalusi                       17.   Alose tyran                  Brevoortia tyrannus
+
+19. Pacific hake             Merluccius productus                       18.   Morue du Pacifique           Gadus macrocephalus
+
+20. Pacific Ocean perch      Sebastes alutus                            19.   Merlu du Pacifique           Merluccius productus
+
+21. Pollock or Saithe        Pollachius virens                          20.   Sébaste du Pacifique         Sebastes alutus
+
+22. Redfish                  Sebastes Spp.                              21.   Goberge                      Pollachius virens
+
+23. Red hake                 Urophycis chuss                            22.   Sébaste                      Sebastes Spp.
+
+24. River herring            Alosa pseudoharengus and A.                23.   Merluche écureuil            Urophycis chuss
+    (Gaspereau)              aestivalis                                 24.   Gaspareau                    Alosa pseudoharengus et A.
+25. Rockfish                 Fish of any of the Sebastes species                                           aestivalis
+
+26. Roughhead grenadier      Macrourus berglax                          25.   Scorpènes                    Poisson de toutes les espèces
+                                                                                                           Sebastes
+27. Roundnose grenadier      Macrourus rupestris
+                                                                        26.   Grenadier berglax            Macrourus berglax
+28. Sablefish (Black Cod)    Anoplopoma fimbria
+                                                                        27.   Grenadier de roche           Macrourus rupestris
+29. Salmon                   Fish of the family of Salmonidae
+                                                                        28.   Morue charbonnière           Anoplopoma fimbria
+30. Sandlance                Ammodytes Americanus
+                                                                        29.   Saumon                       Tout poisson de la famille des
+31. Scallops (Sea)           Placopecten magellanicus                                                      Salmonidae
+32. Shark (other than        Squaliformes (other than squalidae)        30.   Lançon                       Ammodytes Americanus
+    dogfish)
+                                                                        31.   Pétoncles (géants)           Placopecten magellanicus
+33. Shrimp                   Pandalus borealis
+                                                                        32.   Requin (autre que            Squaliformes (autres que les
+34. Silver hake              Merluccius bilinearis                            l’aiguillat)                 squalidae)
+                                                                        33.   Crevette                     Pandalus borealis
+
+
+
+
+                                                                   23
+                                                      C.R.C., c. 815 — October 6, 2010
+
+
+
+
+      Column I                     Column II                                            Colonne I                  Colonne II
+      Common Names                 Scientific Names                                     Nom commun                 Nom scientifique
+35. Squid                          Any of: Loligo opalescens,                     34.   Merlu argenté              Merluccius bilinearis
+                                   Omastrephas bartramii,                         35.   Calmar                     Toutes les espèces suivantes :
+                                   Onychoteuthis borealyaponicce,                                                  Loligo opalescens, Omastrephas
+                                   Berryteuthis magister, Illex                                                    bartramii, Onychoteuthis
+                                   illecebrosus, Logigo pealei                                                     borealyaponicce, Berryteuthis
+36. Swordfish                      Xiphias gladius                                                                 magister, Illex illecebrosus, Logigo
+37. Tuna                           Any of: Thunnus albacares, T.                                                   pealei
+                                   Thynnus, T. atlanticus, T. alalunga,           36.   Espadon                    Xiphias gladius
+                                   T. obesus, Euthynnus pelamis,                  37.   Thon                       Toutes les espèces suivantes :
+                                   Sarda sarda, S. Chiliensis and                                                  Thunnus albacares, T. Thynnus, T.
+                                   Euthynnus alletteratus                                                          atlanticus, T. alalunga, T. obesus,
+38. Walleye pollock                Theragra chalcogramma                                                           Euthynnus pelamis, Sarda sarda, S.
+39. White hake                     Urophycis tenuis                                                                Chiliensis et Euthynnus alletteratus
+40. Windowpane flounder            Scophthalmus aquosus                           38.   Morue du Pacifique         Theragra chalcogramma
+                                                                                        occidental
+41. Winter flounder                Pseudopleuronectes americanus
+                                                                                  39.   Merluche blanche           Urophycis tenuis
+42. Witch flounder                 Glyptocephalus cynoglossus
+                                                                                  40.   Turbot de sable            Scophthalmus aquosus
+43. Yellowtail flounder            Limanda ferruginea
+                                                                                  41.   Plie rouge                 Pseudopleuronectes americanus
+                                                                                  42.   Plie grise                 Glyptocephalus cynoglossus
+                                                                                  43.   Limande à queue jaune      Limanda ferruginea
+SOR/79-715, s. 14; SOR/82-771, s. 13; SOR/87-185, s. 11; SOR/94-293, s. 4.        DORS/79-715, art. 14; DORS/82-771, art. 13; DORS/87-185, art. 11; DORS/
+                                                                                  94-293, art. 4.
+
+
+
+
+                                                                             24
+                              C.R.C., ch. 815 — 6 octobre 2010
+
+
+
+
+     SCHEDULE IX                                                     ANNEXE IX
+
+[Revoked, SOR/93-62, s. 17]                                  [Abrogée, DORS/93-62, art. 17]
+
+
+
+
+                                            25
+                                                C.R.C., c. 815 — October 6, 2010
+
+
+
+
+                         SCHEDULE X                                                           ANNEXE X
+                        (Sections 2 and 5)                                                   (articles 2 et 5)
+
+                CLOSE TIMES ATLANTIC COAST                              PÉRIODES DE FERMETURE — CÔTE DE L’ATLANTIQUE
+
+      Column I           Column II           Column III                     Colonne I        Colonne II          Colonne III
+Item Species             Stock Area          Close Time                    Espèce de
+1.    American plaice    Subarea 2 and       December 30 to        Article poisson           Zone de stock       Période de fermeture
+                         Division 3K         December 31           1.       Plie du Canada   Sous-zone 2 et      Du 30 décembre au
+2.    American plaice    Division 3LNO       December 30 to                                  division 3K         31 décembre
+                                             December 31           2.       Plie du Canada   Division 3LNO       Du 30 décembre au
+3.    American plaice    Subdivision 3Ps     December 30 to                                                      31 décembre
+                                             December 31           3.       Plie du Canada   Sous-division 3Ps Du 30 décembre au
+4.    American plaice    Division 4T         January 1 to                                                      31 décembre
+                                             December 31           4.       Plie du Canada   Division 4T         Du 1er janvier au
+5.    American plaice    Division 4VWX       December 30 to                                                      31 décembre
+                                             December 31           5.       Plie du Canada   Division 4VWX       Du 30 décembre au
+6.    Argentine          Division 4VWX       November 16 to                                                      31 décembre
+                                             April 14              6.       Argentine        Division 4VWX       Du 16 novembre au
+7.    Capelin            Subarea 2 and 3K December 30 to                                                         14 avril
+                                          December 31              7.       Capelan          Sous-zone 2 et      Du 30 décembre au
+8.    Capelin            Division 3L         January 1 to                                    division 3K         31 décembre
+                                             December 31           8.       Capelan          Division 3L         Du 1er janvier au
+9.    Capelin            Division 3Ps        January 1 to                                                        31 décembre
+                                             December 31           9.       Capelan          Division 3Ps        Du 1er janvier au
+10.   Capelin            Divisions 4R, 4S    January 1 to                                                        31 décembre
+                         and 4T              December 31           10.      Capelan          Divisions 4R, 4S    Du 1er janvier au
+11.   Cod                Division 2GH        December 30 to                                  et 4T               31 décembre
+                                             December 31           11.      Morue            Division 2GH        Du 30 décembre au
+12.   Cod                Division 2J         December 30 to                                                      31 décembre
+                                             December 31           12.      Morue            Division 2J         Du 30 décembre au
+12.1 Cod                 Division 3K         December 30 to                                                      31 décembre
+                                             December 31           12.1     Morue            Division 3K         Du 30 décembre au
+12.2 Cod                 Division 3L         December 30 to                                                      31 décembre
+                                             December 31           12.2     Morue            Division 3L         Du 30 décembre au
+13.   Cod                Division 3NO        December 30 to                                                      31 décembre
+                                             December 31           13.      Morue            Division 3NO        Du 30 décembre au
+14.   Cod                Subdivision 3Ps     December 30 to                                                      31 décembre
+                                             December 31           14.      Morue            Sous-division 3Ps Du 30 décembre au
+15.   Cod                Subdivision 3Pn     December 30 to                                                    31 décembre
+                         and Divisions 4R    December 31           15.      Morue            Sous-division 3Pn Du 30 décembre au
+                         and 4S                                                              et divisions 4R et 31 décembre
+16.   Cod                Division 4TVn       May 1 to                                        4S
+                                             December 31           16.      Morue            Division 4TVn       Du 1er mai au
+17.   Cod                Subdivision 4Vn     December 30 to                                                      31 décembre
+                                             December 31           17.      Morue            Sous-division 4Vn Du 30 décembre au
+18.   Cod                Division 4VsW       December 30 to                                                    31 décembre
+                                             December 31           18.      Morue            Division 4VsW       Du 30 décembre au
+19.   Cod                Division 4X         December 30 to                                                      31 décembre
+                                             December 31
+
+
+
+
+                                                              26
+                                                 C.R.C., ch. 815 — 6 octobre 2010
+
+
+
+
+      Column I             Column II          Column III                   Colonne I       Colonne II          Colonne III
+Item Species               Stock Area         Close Time                    Espèce de
+20.   Flounder             Division 4VWX      December 30 to        Article poisson        Zone de stock       Période de fermeture
+                                              December 31           19.    Morue           Division 4X         Du 30 décembre au
+21.   Greenland halibut Subarea 0             December 30 to                                                   31 décembre
+                                              December 31           20.    Flet            Division 4VWX       Du 30 décembre au
+22.   Greenland halibut Division 2GH          December 30 to                                                   31 décembre
+                                              December 31           21.    Flétan du       Sous-zone 0         Du 30 décembre au
+23.   Greenland halibut Divisions 2J and      December 30 to               Grœnland                            31 décembre
+                        3KL                   December 31           22.    Flétan du       Division 2GH        Du 30 décembre au
+24.   Greenland halibut Divisions 4R, 4S      December 30 to               Grœnland                            31 décembre
+                        and 4T                December 31           23.    Flétan du       Divisions 2J et     Du 30 décembre au
+25.   Haddock              Division 4VW       December 30 to               Grœnland        3KL                 31 décembre
+                                              December 31           24.    Flétan du       Divisions 4R, 4S    Du 30 décembre au
+26.   Haddock              Division 4X        December 30 to               Grœnland        et 4T               31 décembre
+                                              December 31           25.    Aiglefin        Division 4VW        Du 30 décembre au
+27.   Other fish not set   Subarea 3          December 30 to                                                   31 décembre
+      out in this                             December 31           26.    Aiglefin        Division 4X         Du 30 décembre au
+      schedule                                                                                                 31 décembre
+28.   Other fish not set   Subarea 4          December 30 to        27.    Autres poissons Sous-zone 3         Du 30 décembre au
+      out in this                             December 31                  non mentionnés                      31 décembre
+      schedule                                                             dans la présente
+29.   Other fish not set   Subarea 5          January 1 to                 annexe
+      out in this                             December 31           28.    Autres poissons Sous-zone 4         Du 30 décembre au
+      schedule                                                             non mentionnés                      31 décembre
+30.   Pollock              Division 4VW and December 30 to                 dans la présente
+                           Subarea 5        December 31                    annexe
+
+31.   Redfish              Subarea 2 and      December 30 to        29.    Autres poissons Sous-zone 5         Du 1er janvier au
+                           Division 3K        December 31                  non mentionnés                      31 décembre
+                                                                           dans la présente
+32.   Redfish              Division 3LN       December 30 to               annexe
+                                              December 31
+                                                                    30.    Goberge         Division 4VW et     Du 30 décembre au
+33.   Redfish              Division 3O        December 30 to                               sous-zone 5         31 décembre
+                                              December 31
+                                                                    31.    Sébaste         Sous-zone 2 et      Du 30 décembre au
+34.   Redfish              Division 3P        December 30 to                               division 3K         31 décembre
+                                              December 31
+                                                                    32.    Sébaste         Division 3LN        Du 30 décembre au
+35.   Redfish              Divisions 4R, 4S   December 30 to                                                   31 décembre
+                           and 4T             December 31
+                                                                    33.    Sébaste         Division 3O         Du 30 décembre au
+36.   Redfish              Division 4VWX      December 30 to                                                   31 décembre
+                                              December 31
+                                                                    34.    Sébaste         Division 3P         Du 30 décembre au
+37.   Roundnose            Subarea 0          December 30 to                                                   31 décembre
+      grenadier                               December 31
+                                                                    35.    Sébaste         Divisions 4R, 4S    Du 30 décembre au
+38.   Roundnose            Subareas 2 and 3   December 30 to                               et 4T               31 décembre
+      grenadier                               December 31
+                                                                    36.    Sébaste         Division 4VWX       Du 30 décembre au
+39.   Shark                Any Subarea        December 30 to                                                   31 décembre
+                                              December 31
+                                                                    37.    Grenadier de    Sous-zone 0         Du 30 décembre au
+40.   Shrimp               Subarea 0          December 30 to               roche                               31 décembre
+                                              December 31
+                                                                    38.    Grenadier de    Sous-zones 2 et 3   Du 30 décembre au
+41.   Silver hake          Division 4VWX      November 16 to               roche                               31 décembre
+                                              April 14
+
+
+
+
+                                                               27
+                                                     C.R.C., c. 815 — October 6, 2010
+
+
+
+
+       Column I             Column II            Column III                                Colonne I         Colonne II           Colonne III
+Item Species                Stock Area           Close Time                               Espèce de
+42.    Squid                Subarea 3            January 1 to June 30             Article poisson            Zone de stock        Période de fermeture
+
+43.    Squid                Subarea 4            November 16 to                   39.      Requin            Toute sous-zone      Du 30 décembre au
+                                                 June 30                                                                          31 décembre
+
+44.    Swordfish            Divisions 3K, April 1 to May 31                       40.      Crevette          Sous-zone 0          Du 30 décembre au
+                            3LNO and 4VWX                                                                                         31 décembre
+
+45.    Tuna                 Divisions 3K, April 1 to May 31                       41.      Merlu argenté     Division 4VWX        Du 16 novembre au
+                            3LNO and 4VWX                                                                                         14 avril
+
+46.    White hake           Division 3NO         December 30 to                   42.      Calmar            Sous-zone 3          Du 1er janvier au
+                                                 December 31                                                                      30 juin
+47.    White hake           Division 4VWX        December 30 to                   43.      Calmar            Sous-zone 4          Du 16 novembre au
+                                                 December 31                                                                      30 juin
+
+48.    Witch flounder       Divisions 2J and     December 30 to                   44.      Espadon           Divisions 3K,        Du 1er avril au 31 mai
+                            3KL                  December 31                                                 3LNO et 4VWX
+
+49.    Witch flounder       Division 3NO         December 30 to                   45.      Thon              Divisions 3K,        Du 1er avril au 31 mai
+                                                 December 31                                                 3LNO et 4VWX
+
+50.    Witch flounder       Subdivision 3Ps      December 30 to                   46.      Merluche          Division 3NO         Du 30 décembre au
+                                                 December 31                               blanche                                31 décembre
+
+51.    Witch flounder       Divisions 4R and     December 30 to                   47.      Merluche          Division 4VWX        Du 30 décembre au
+                            4S                   December 31                               blanche                                31 décembre
+
+52.    Yellowtail           Division 3LNO        December 30 to                   48.      Plie grise        Divisions 2J et      Du 30 décembre au
+       flounder                                  December 31                                                 3KL                  31 décembre
+
+53.    Yellowtail           Division 4VWX        December 30 to                   49.      Plie grise        Division 3NO         Du 30 décembre au
+       flounder                                  December 31                                                                      31 décembre
+                                                                                  50.      Plie grise        Sous-division 3Ps Du 30 décembre au
+                                                                                                                               31 décembre
+                                                                                  51.      Plie grise        Divisions 4R et 4S Du 30 décembre au
+                                                                                                                                31 décembre
+                                                                                  52.      Limande à queue Division 3LNO          Du 30 décembre au
+                                                                                           jaune                                  31 décembre
+                                                                                  53.      Limande à queue Division 4VWX          Du 30 décembre au
+                                                                                           jaune                                  31 décembre
+SOR/80-276, s. 2; SOR/87-185, s. 12; SOR/93-62, ss. 18, 19(E); SOR/94-293,        DORS/80-276, art. 2; DORS/87-185, art. 12; DORS/93-62, art. 18 et 19(A);
+s. 5.                                                                             DORS/94-293, art. 5.
+
+
+
+
+                                                                             28
+

@@ -1,0 +1,2522 @@
+
+
+
+
+
+_[_F_r_a_n_Á_a_i_s_]
+_R_e_t_u_r_n_ _t_o_ _L_i_s_t_ _o_f_ _A_c_t_s
+===============================================================================
+NEW BRUNSWICK
+REGULATION 87-97
+under the
+_C_l_e_a_n_ _E_n_v_i_r_o_n_m_e_n_t_ _A_c_t
+(O.C. 87-646)
+Filed July 30, 1987
+Under section¬ 32 of the Clean Environment Act, the Lieutenant-Governor in
+Council makes the following Regulation:
+
+1This Regulation may be cited as the Petroleum Product Storage and Handling
+Regulation - Clean Environment Act.
+
+2In this Regulation
+``aboveground storage tank'' means a storage tank other than an underground
+storage tank;
+``Act'' means the Clean Environment Act;
+``atmospheric storage tank'' means a storage tank designed to operate at
+pressures from atmospheric pressure to three and one-half kilopascals above
+atmospheric pressure;
+``body of water'' means a creek, stream, river, ocean, pond, lake, aquifer,
+well, reservoir, water pipe, ground water occurrence or any other such
+accumulation of or conduit of water whether above or below ground and includes
+a dry watercourse;
+``boiler'' means an appliance intended to supply hot water or steam for space
+heating, processing or power purposes;
+``building'' means a structure used or intended to be used for supporting or
+sheltering any use or occupancy;
+``bulk plant'' means a system used or intended to be used by a wholesaler for
+the primary purpose of storage of a petroleum product that is to be delivered
+to a retail outlet or directly to a consumer by pipeline, tank vessel, tank
+vehicle or other container;
+``cathodic protection'' means a method of preventing corrosion to a metal
+surface by causing the surface to act as the cathode of an electrochemical
+cell;
+``commence operations'' means to begin dispensing a petroleum product from a
+storage tank for the purpose for which the petroleum product is intended;
+``crude oil'' means unrefined petroleum product;
+``dispenser'' means a stationary device used to deliver or pump a petroleum
+product from a storage tank;
+``dispensing unit'' means a dispenser;
+``distillery'' means an industrial occupancy where flammable liquids produced
+by fermentation are concentrated and where the concentrated products may be
+mixed, stored or packaged;
+``drum'' means a container having a capacity of less than two hundred and
+thirty litres but more than thirty litres;
+``emergency situation'' means an unforeseen circumstance in which the
+excavation of a storage tank is required without delay in order to protect the
+environment or the safety, health or welfare of the public;
+``flash point'' means the minimum temperature at which a liquid within a
+container gives off vapour in sufficient concentration to form an ignitable
+mixture with air near the surface of the liquid;
+``freeboard'' means the vertical distance between the maximum elevation of the
+surface of the liquid in a dike and the minimum top elevation of the sides of a
+dike;
+``industrial occupancy'' means the occupancy or use of a building or property
+or part of a building or property for assembling, fabricating, manufacturing,
+processing, repairing or storing of goods and materials;
+``low pressure storage tank'' means a storage tank designed to operate at gauge
+pressures from three and one-half kilopascals to one hundred kilopascals;
+``lubricating oil'' means a petroleum based oil that is being or is intended to
+be used primarily as a lubricant in combustion engines, turbines,
+transmissions, gearboxes, hydraulic equipment and other similar equipment;
+``marina'' means a premises at which a petroleum product is put or intended to
+be put into the fuel tank of water-craft or aircraft equipped to float on
+water;
+``nominal capacity'' means the capacity established by the manufacturer for a
+storage tank;
+``non-combustible construction'' means that type of construction in which a
+degree of fire safety is attained by the use of materials for structural
+members and other building assemblies that cannot be burned;
+``operator'' means the person responsible for the day-to-day maintenance and
+operation or who has the care, control or management of a system;
+``out of service'' in reference to a storage tank or system means a storage
+tank or system that has ceased to be used for activities that may be undertaken
+with the tank or system as set out on the most recent licence issued under this
+Regulation or on a registration, relating to that tank or system, or a storage
+tank or system for which no valid licence has been issued as required under
+this Regulation and no valid registration has been issued;
+``owner'' means the person who has possessory right to a system;
+``petroleum product'' means a mixture of hydrocarbons or their by-products, of
+any kind and in any form, including airplane fuel, asphalt, bunker ‚ÄúC‚Äù oil,
+crude oil, diesel fuel, engine oil, fuel oil, gasoline, kerosene, lubricants,
+mineral spirits, naptha, petroleum based solvents regardless of specific
+gravity, transformer oil and waste petroleum products and excluding propane and
+paint;
+``portable container'' means a reusable container that has a capacity of thirty
+litres or less, but excludes a container that is an integral part of or
+permanently attached to any appliance, equipment or vehicle;
+``prepackaged container'' means a container not intended for reuse;
+``pressure vessel'' means a storage tank designed to operate at pressures
+greater than one hundred kilopascals above atmospheric pressure;
+``refinery'' means an industrial occupancy in which refined petroleum products
+are produced on a commercial scale from crude petroleum, natural gas or other
+hydrocarbon sources;
+``registration'' means a registration under the Water Quality Regulation;
+``retail outlet'' means a place where petroleum products are kept or stored in
+order to be sold directly to the user and includes a self-service outlet and a
+service station;
+``self-service outlet'' means a place where the consumer handles the dispensing
+unit;
+``service station'' means a place at which petroleum products are put or
+intended to be put into motor vehicles and includes a self-service outlet;
+``storage tank'' means a closed container with a capacity greater than two
+hundred and thirty litres, used or intended to be used for containing a
+petroleum product and located in a stationary location and includes a temporary
+arrangement on cradles, skids or wheels;
+``storage tank system'' means a storage tank or tanks including valves, piping,
+pumps, dispensers and other components connected to the tank or tanks and
+includes any dike or diked area, drainage channels and drainage piping and a
+storage tank or tanks at a marina unless otherwise specifically dealt with;
+``street'' means any highway, road, boulevard, square or other improved
+thoroughfare nine metres or more in width that has been dedicated or conveyed
+for public use and is accessible to fire department vehicles and equipment;
+``system'' means a storage tank system;
+``transfer facility'' means a place used or intended to be used to transfer a
+petroleum product from a transport vehicle to a bulk plant, from a bulk plant
+to a transport vehicle or from one vehicle to another;
+``underground storage tank'' means a storage tank that has ten per cent or more
+of its volume, including the volume of attached underground piping, below
+adjacent ground level;
+``unstable liquid'' means a liquid, including a liquid petroleum product, that
+is chemically reactive to the extent that it will vigorously react or decompose
+at or near normal temperature and pressure conditions or that is chemically
+unstable when subjected to impact;
+``used lubricating oil'' means lubricating oil that has become unsuitable for
+its original purpose because of the presence of impurities or the loss of its
+original properties.
+``vapour pressure'' means the pressure exerted by a liquid as determined by
+ASTM D323-82, ‚ÄúStandard Test Method for Vapour Pressure of Petroleum Products
+(Reid Method)‚Äù;
+``waste petroleum product'' means a petroleum product, whether used or not,
+that is no longer suitable for use and includes a petroleum product being
+stored for the purpose of recycling;
+``water-craft'' means a craft designed to operate on water and includes
+aircraft equipped to float on water;
+``Water Quality Regulation'' means the Water Quality Regulation - Clean
+Environment Act, being New Brunswick Regulation 82-126 under the Clean
+Environment Act.
+93-14; 2002-20
+PART I
+APPLICATION
+
+3This Regulation
+(a)applies to
+(i)the storage, handling and use of petroleum products as classified in
+section¬ 5,
+(ii)aboveground storage tank systems and underground storage tank systems,
+including valves, piping, pumps, dispensers and other components ancillary to
+the systems,
+(iii)portable containers or prepackaged containers used to store or carry
+petroleum products,
+(iv)bulk plants,
+(v)marinas,
+(vi)transfer facilities, and
+(vii)dispensing units,
+and associated equipment used in the operation of storage tank systems
+including, without restricting the foregoing, petroleum storage tank systems at
+bulk plants, industrial occupancies, refineries, chemical plants, distilleries,
+marinas, remote woodland operations and retail outlets,
+(b)applies to the refusal, issue, transfer, suspension, cancellation, renewal
+and reinstatement of registrations, licences, permits and approvals relating to
+the storage, packaging, handling, dispensing, transfer, offering for sale and
+sale of petroleum products, and
+(c)applies to the construction, alteration, modification, operation, location,
+repair, monitoring, testing, inspection, reactivation, reuse, removal and
+disposal of storage tank systems.
+
+4This Regulation does not apply to
+(a)oil-burning appliances within the scope of CAN/CGA-B139, ‚ÄúInstallation
+Code for Oil Burning Equipment‚Äù (March, 1976), other than piping, remote
+pumps and other components ancillary to the storage tank system of the
+appliances,
+(b)liquefied petroleum gas-burning appliances and equipment within the scope of
+CAN/CGA-B149.2-M86, ‚ÄúPropane Installation Code‚Äù,
+(c)the production, storage, handling and use of liquefied natural gas within
+the scope of CSA Z276-M1981, ‚ÄúLiquefied Natural Gas (LNG) - Production,
+Storage and Handling‚Äù, and
+(d)liquids such as certain halogenated hydrocarbons and mixtures containing
+hydrocarbons that are without flash points but that may be flammable under
+certain conditions.
+
+5(1)For the purposes of this Regulation, a petroleum product is classified as
+(a)a combustible liquid, being a liquid at atmospheric pressure and having a
+flash point at or above 37.8¬ degrees Celsius, or
+(b)a flammable liquid, being a liquid at atmospheric pressure and having a
+flash point below 37.8¬ degrees Celsius and having a vapour pressure not
+exceeding 278.8¬ kilopascals absolute at 34.8¬ degrees Celsius.
+5(2)A liquid having a viscosity of less than six centistokes at 37.8¬ degrees
+Celsius and a flash point below 93.3¬ degrees Celsius shall have its flash
+point determined in conformance with ASTM D56-82, ‚ÄúStandard Test Method for
+Flash Point By Tag Closed Tester‚Äù.
+5(3)A liquid having a viscosity of six centistokes or more at above
+37.8¬ degrees Celsius shall have its flash point determined in conformance with
+ASTM D93-85, ‚ÄúFlash Point By Pensky-Martens Closed Tester‚Äù.
+5(4) Repealed: 2002, c.25, s.19
+2002, c.25, s.19
+PART II
+LICENSING
+
+6(1)Subject to section¬ 30, the owner of every system, except a marina, with a
+total capacity of two thousand litres or more and every marina having a system
+with a total capacity of two hundred litres or more shall apply to the Minister
+on a form provided by the Minister for one of the following licences:
+(a)a Class 1 retail outlet licence, for a business enterprise that has a system
+for the primary purpose of operating as a retail outlet, on or before
+October¬ 1, 1988, and the system has a total capacity of not more than 50,000
+litres;
+(a.1)a Class 2 retail outlet licence, for a business enterprise that has a
+system for the primary purpose of operating as a retail outlet, on or before
+October¬ 1, 1988, and the system has a total capacity of more than 50,000
+litres;
+(b)a government licence, for the Province, in relation to a system for the
+primary purpose of storing petroleum product for the Province, on or before
+October¬ 1, 1988;
+(c)a bulk plant licence, for a business enterprise that has a system for the
+primary purpose of operating as a bulk plant, on or before October¬ 1, 1988;
+(d)a marina licence, for a business enterprise that has a system for the
+primary purpose of operating as a marina, on or before October¬ 1, 1988;
+(e)a commercial industrial woodlands licence, for a business enterprise that
+has a system for the primary purpose of providing fuel for vehicles or
+equipment used by the enterprise or for heating premises used by the
+enterprise, on or before October¬ 1, 1988;
+(f)a farm licence, for an operation that has agriculture, silviculture, animal
+husbandry or aquaculture as its primary purpose and that has a system for the
+primary purpose of providing fuel for vehicles and equipment used in that
+operation or for heating a premises used by that operation, other than a
+residence, on or before April¬ 1, 1989;
+(g)a residential licence, for a building used or intended to be used for one or
+two separate dwelling units that has a system for the primary purpose of
+heating the premises, on or before April¬ 1, 1992;
+(h)a municipal government licence, for a municipal government that has a system
+for the primary purpose of storing petroleum product for that government, on or
+before October¬ 1, 1988; or
+(i)a not-for-profit licence, for a not-for-profit society or corporation that
+has a system for the primary purpose of providing fuel for heating premises
+used by the society or corporation, on or before October¬ 1, 1988.
+6(1.1)The total capacity of a system referred to in subsection¬ (1) shall be
+determined by
+(a)establishing the New Brunswick Geographic Information Corporation parcel
+index number of the parcel of land in or on which the system is located, and
+(b)adding the capacities of all storage tanks at least fifty per cent of the
+volume of which is located inside the boundaries of the land to which the
+number applies,
+regardless of whether all the storage tanks are owned by one owner or by more
+than one owner.
+6(2)An applicant under subsection¬ (1) shall provide such additional
+information as requested by the Minister.
+6(3)Subject to subsection¬ (4), no owner or operator of a system referred to in
+subsection¬ (1) shall place or keep a petroleum product in the system unless
+the owner has obtained the appropriate licence referred to in subsection¬ (1),
+valid for that system, for the specific location, for the activities to be
+undertaken and for the owner and operator as indicated on the licence.
+6(4)Subsection¬ (3) does not apply until after April¬ 1, 1992 to a system
+described in paragraph¬ (1)(g) for which a valid registration has been
+obtained.
+88-51; 90-139; 93-14; 2005-10
+
+7(1)Subject to subsection¬ (3), the owner of a system to which an application
+relates shall submit with the application a certificate of public liability
+insurance for a term of at least one year, valid for the year for which the
+licence to which the application relates will be valid, providing coverage that
+is acceptable to the Minister for any damage caused to third parties by
+activities to be undertaken and the petroleum products to be handled by the
+applicant and for the applicable amount required in Schedule A.
+7(2)The Minister may, in the Minister‚Äôs discretion, increase the amount of
+insurance required under subsection¬ (1) where the Minister is satisfied that
+(a)the system poses a serious threat of pollution, or
+(b)the system is or will be used for more than one of the purposes referred to
+in paragraphs 6(1)(a) to (i).
+7(3)Subsection¬ (1) does not apply where the owner of the entire system that is
+the subject of an application is the Province or an agent of the Province.
+88-51; 93-14; 2009-120
+
+8The Minister may cause an inspector to inspect a system to which an
+application for a licence relates.
+
+9(1)After receiving an application for a licence the Minister shall, within a
+reasonable time
+(a)issue to the applicant a licence subject to such terms and conditions as the
+Minister may require, including, without restricting the foregoing:
+(i)specifying the activity or activities that may be undertaken under the
+licence;
+(ii)requiring the regular reporting of the names, mailing addresses,
+residential addresses and telephone numbers of all operators of the system;
+(iii)requiring the completion of specified work within a specified time period;
+(iv)requiring specified testing, monitoring or maintenance work; and
+(v)requiring the regular reporting of testing or monitoring data to the
+Minister,
+(b)refuse to issue a licence, setting out in writing such terms and conditions
+as the Minister requires the applicant to meet in order for a licence to be
+issued under paragraph¬ (a), or
+(c)refuse to issue a licence, setting out the reasons in writing.
+9(2)The Minister, if satisfied that a premises will be used for more than one
+of the purposes referred to in paragraphs 6(1)(a) to (i) after the applicable
+deadlines established under subsection¬ 6(1), may issue a licence on which is
+designated, in the Minister‚Äôs discretion, one primary purpose and one or more
+secondary purposes.
+9(3)For the purposes of sections 7 and 13, a licence that is issued for more
+than one purpose is deemed to have been issued for the primary purpose
+designated on the licence.
+9(4)An applicant who has received a refusal under paragraph¬ (1)(b) may reapply
+for a licence when the applicant can demonstrate that the terms and conditions
+required by the Minister have been met.
+9(5)A licence issued under this section shall be on a form provided by the
+Minister.
+88-51; 88-215; 93-14
+
+10(1)An insurer who has provided a certificate of public liability insurance
+under subsection¬ 7(1) shall notify the Minister not less than thirty days
+before the cancellation of the insurance referred to in the certificate.
+10(2)Insurance referred to in subsection¬ (1) shall not be cancelled until
+notice has been given in accordance with subsection¬ (1).
+10(3)The Minister may cancel or suspend a licence where the insurance required
+under section¬ 7 ceases to be in effect or where the holder of the licence
+violates or fails to comply with a term or condition of the licence or a
+provision of the Act or this Regulation.
+10(4)Upon application by the holder of a licence cancelled or suspended by the
+Minister under subsection¬ (3) and upon compliance with any term or condition
+referred to in subsection¬ (3), with any term or condition imposed by the
+Minister and with the Act and this Regulation, as the case may be, the Minister
+may reinstate the licence.
+93-14
+
+11A licence shall be issued in the name of the owner of the system to which it
+relates and is not transferrable except in accordance with section¬ 21.
+93-14
+
+12A system shall be deemed to be licensed when the owner receives a licence
+from the Minister.
+93-14
+
+13(1)The fee to be paid for the issue of a licence referred to in paragraph¬ 6
+(1)(a) is two hundred dollars per year.
+13(1.1)The fee to be paid for the issue of a licence referred to in
+paragraph¬ 6(1)(a.1) is five hundred dollars per year.
+13(2)The fee to be paid for the issue of a licence referred to in paragraph¬ 6
+(1)(b) is fifty dollars per year.
+13(3)The fee to be paid for the issue of a licence referred to in paragraph¬ 6
+(1)(c) is two thousand dollars per year.
+13(4)The fee to be paid for the issue of a licence referred to in paragraph¬ 6
+(1)(d) or (e) is fifty dollars per year.
+13(5)The fee to be paid for the issue of a licence referred to in paragraph¬ 6
+(1)(f) or (g) is ten dollars per year.
+13(5.1)The fee to be paid for the issue of a licence referred to in
+paragraph¬ 6(1)(h) is fifty dollars per year.
+13(5.2)The fee to be paid for the issue of a licence referred to in
+paragraph¬ 6(1)(i) is ten dollars per year.
+13(6)A fee required under this section shall be paid to the Minister no later
+than the thirty-first day of March in each year.
+13(7) Repealed: 93-14
+13(8) Repealed: 93-14
+88-215; 88-273; 93-14; 2005-10
+
+14Subject to subsection¬ 21(1) and subsection¬ 237(1), the holder of a licence
+shall notify the Minister in writing of a change in any of the particulars
+appearing on the licence within seven days after the change and shall give full
+particulars of the change.
+
+15The holder of a licence shall at all times display the licence in a
+conspicuous public location on the premises where the system to which the
+licence relates is located.
+2008-4
+
+16The owner of a retail outlet shall identify the operation by displaying on
+the front of the premises a sign bearing the operator‚Äôs name and the business
+name and nature of the business.
+88-51
+
+17A licence
+(a)expires on the date indicated on the licence,
+(b)is valid only for the system at the specific location set out on the
+application and indicated on the licence,
+(c)is valid only for the activities to be undertaken as indicated on the
+licence, and
+(d)is valid only for the owner indicated on the licence.
+93-14
+
+18No person shall place a petroleum product in a system referred to in
+subsection¬ 6(1) unless that person has been shown the appropriate licence
+referred to in subsection¬ 6(1) that is valid for that system, for the specific
+location, for the activities to be undertaken and for the owner as indicated on
+the licence or, on or before April¬ 1, 1992, where the system is one described
+in paragraph¬ 6(1)(g), has been shown a registration valid for that system.
+90-139; 93-14
+
+19The owner of every operation that delivers heating fuel oil shall, no later
+than the thirty-first day of August in each year, deliver to the Minister a
+list containing the name, address and system capacity of each customer who,
+during the previous twelve months, has received heating fuel oil from the
+operation and has stored it in a system having a total capacity of two thousand
+litres or more.
+
+20(1)Not less than thirty days before the expiry of a licence, the owner of the
+system to which the licence relates shall, if the system is to be operated
+after the expiry date, deliver to the Minister an application for a new
+licence, accompanied by the applicable fee provided for under section¬ 13.
+20(2)Sections 7 to 12 apply to an application made under subsection¬ (1).
+88-51
+
+21(1)Where there is to be a change in the nature of the activities undertaken
+at a system or in the name of the owner or operator of the system, the holder
+of the licence shall notify the Minister in writing not less than thirty days
+before the change is to be effective, giving the licence number and describing
+the change in the nature of the activities to be undertaken at the system or
+giving the name, mailing address and residential address of the new owner or
+operator, as the case may be.
+21(2)The Minister may cause an inspector to inspect the system to which a
+notification under subsection¬ (1) relates and the inspector may submit an
+inspection report to the Minister.
+21(3)After receiving a notification under subsection¬ (1) and after considering
+any inspection report submitted under subsection¬ (2), the Minister shall,
+within a reasonable time
+(a)issue a new licence subject to such terms and conditions as the Minister may
+require,
+(b)refuse to issue a new licence, setting out in writing such terms and
+conditions as the Minister may require the holder of the licence or, where
+applicable, the new owner or operator to meet in order for a licence to be
+issued, or
+(c)refuse to issue a new licence, setting out in writing the reasons.
+
+22The fee for the issue of a new licence under section¬ 21 is fifteen dollars.
+PART III
+ENVIRONMENTAL APPROVAL
+
+23(1)Subject to section¬ 28, no person shall construct, install, alter, modify,
+change the capacity of, reactivate, excavate, disassemble, destroy or dispose
+of a system, except a system at a marina, with a total capacity of two thousand
+litres or more or a system at a marina with a total capacity of two hundred
+litres or more unless the owner of the system or the person who will be in
+charge of performing the work applies for and obtains a site approval and an
+environmental approval from the Minister.
+23(2)The total capacity of a system referred to in subsection¬ (1) shall be
+determined in accordance with subsection¬ 6(1.1).
+93-14
+
+24(1)An application for a site approval shall be on a form provided by the
+Minister.
+24(2)An application for a site approval shall be completed and submitted to the
+Minister in the manner and at the time set out in the application.
+24(3)An application shall be accompanied by a map at a scale and scope
+acceptable to the Minister, showing the location of the proposed system in
+relation to buildings and other structures, other systems, roads, railways,
+easements, rights of way, bridges, sewer installations and lines, wells and
+other bodies of water and other like features located within one thousand
+metres of the proposed site.
+24(4)The fee for an application for site approval is twenty-five dollars.
+
+25(1)The Minister shall cause an inspector to assess the sensitivity of the
+area to which the application relates.
+25(2)The factors to be considered by an inspector in assessing the sensitivity
+of an area include but are not limited to:
+(a)the density and proximity of wells;
+(b)the proximity of surface water bodies;
+(c)the proximity of densely populated areas; and
+(d)the presence in the area of geological, hydrogeological or environmental
+conditions, structures or animal, bird, aquatic or plant life that necessitate
+the taking of unusual precautions to prevent pollution of the environment.
+25(3)The inspector shall file with the Minister a report setting out an
+assessment of the sensitivity of the area.
+
+26(1)At any time before rendering a decision under subsection¬ 29(1), the
+Minister may require from the applicant any additional information the Minister
+considers necessary or desirable in order to dispose of the application,
+including, without limiting the foregoing:
+(a)location plans;
+(b)site plans;
+(c)storage capacities;
+(d)technical reports;
+(e)design bases and assumptions;
+(f)engineer‚Äôs design, engineering plans, reports and specifications;
+(g)schedules of construction or production;
+(h)geological and hydrogeological test results;
+(i)facilities;
+(j)the intended mode of operation of components and systems;
+(k)contingency plans;
+(l)pollution control equipment;
+(m)water and waste disposal plans and equipment; and
+(n)personnel and procedures.
+26(2)Information required under paragraph (1)(f) shall be prepared or approved
+by an engineer who is a member of the Association of Professional Engineers and
+Geoscientists of New Brunswick or who is licensed to practise engineering under
+the Engineering and Geoscience Professions Act.
+2009-120
+
+27(1)At any time before rendering a decision under subsection¬ 29(1), the
+Minister may require the applicant to file submissions with respect to the
+application and, where the application relates to the installation of a new
+system or to expansion of the capacity of a system already installed, may
+(a)require the applicant to publish notice of the application in The Royal
+Gazette or another publication required by the Minister, including in the
+notice the details of the application required by the Minister,
+(b)require the applicant to serve a copy of the application upon the person or
+persons required by the Minister, or
+(c)hold a public meeting, provide for submissions to be made and require the
+applicant to attend.
+27(2)Where publication of a notice or service of a copy of an application is
+required by the Minister under subsection¬ (1), any person may, within thirty
+days after the publication or service, file with the Minister a written
+objection to the issuance of the site approval being sought.
+27(3)Where the application relates to the installation of a new system or to
+expansion of the capacity of a system already installed and where publication
+of a notice or service of a copy of an application is not required by the
+Minister under subsection¬ (1), any person may, within sixty days after the
+filing of the application for a site approval, file with the Minister a written
+objection to the issuance of the site approval being sought.
+27(4)A corporation or an unincorporated society filing an objection under
+subsection¬ (2) or (3) shall include in the objection the name and address for
+service of an individual who may be served on its behalf.
+27(5)The Minister shall serve a copy of an objection filed under subsection¬ 
+(2) or (3) upon the applicant and upon every other person who has filed an
+objection.
+27(6)Within six weeks after the filing of an application for a site approval,
+the Minister shall serve a copy of the inspector‚Äôs report referred to in
+subsection¬ 25(3) on the applicant and on any person who has filed an
+objection.
+27(7)Notwithstanding paragraph¬ (1)(c), no person is entitled as of right to be
+heard personally by the Minister with respect to an application for a site
+approval.
+
+28The Minister, if satisfied that
+(a)a system must be excavated without delay in an emergency situation where
+there is a leak or a suspected leak of a petroleum product,
+(b)a storage tank is being reactivated,
+(c)a storage tank is being upgraded in order to meet requirements of the
+Minister under paragraph¬ 9(1)(a) or subsection¬ 10(4),
+(d)routine maintenance work is being done on a system,
+(e)a storage tank is being destroyed or disposed of without substitution,
+(f)a new environmental approval is being issued under subsection¬ 31(2), or
+(g)the work to be done poses no serious threat of pollution,
+may in the Minister‚Äôs discretion dispense with any requirements under this
+section, subsection¬ 24(3) and sections 25 to 32.
+
+29(1)After the requirements of the Act and this Regulation, the requirements of
+any other applicable legislation and any requirements under subsection¬ 27(1)
+have been complied with, the Minister shall, within a reasonable time, render a
+decision in writing
+(a)granting site approval to the applicant, permitting the applicant to
+continue to develop such detailed design as may be required by the Minister and
+setting out any terms and conditions, or
+(b)denying the site approval and setting out the reasons.
+29(2)The Minister shall serve a copy of the decision upon the applicant and
+upon any person who has filed an objection.
+29(3)The Minister is not required to effect service on a corporation or an
+unincorporated society under subsection¬ 27(5) or (6) or subsection¬ (2) if the
+corporation or unincorporated society has not complied with subsection¬ 27(4).
+
+30(1)An applicant who has been granted a site approval under paragraph¬ 29(1)
+(a) shall submit to the Minister
+(a)an application for an environmental approval on a form provided by the
+Minister,
+(b)the design referred to in paragraph¬ 29(1)(a), and
+(c)copies of any studies or reports relevant to the application.
+30(2)After considering the application and other material submitted by the
+applicant under subsection¬ (1) and any other information submitted to the
+Minister, the Minister may issue an environmental approval in Form 2, which may
+be subject to such terms and conditions as the Minister may require, including,
+without restricting the foregoing:
+(a)requiring changes in the design, construction, components, manner of
+installation, capacity or operation of the proposed system or site, including
+the requirement that the system meet standards more stringent than those
+required in this Regulation;
+(b)requiring that a system be fitted with one or more automatic leak detection
+systems, monitoring devices or monitoring wells;
+(c)requiring the applicant to file with the Minister engineering plans that
+comply with subsection¬ 26(2);
+(d)providing for an expiry date of twelve months or less;
+(e)requiring the regular reporting of the names, mailing addresses, residential
+addresses and telephone numbers of all persons in charge of the operation of
+the system;
+(f)requiring the applicant to notify the Minister of the commencement of
+backfilling of the system at least three days in advance; and
+(g)requiring the applicant to obtain a licence before commencing operations.
+30(3)An environmental approval shall be issued within a reasonable time in the
+name of the applicant and is not transferrable except in accordance with
+section¬ 31.
+30(4)An environmental approval is valid only for the work described in the
+approval.
+30(5)The issue to an applicant of an environmental approval does not supplant
+any requirement imposed upon the applicant or upon the work to be done by the
+Act, this Regulation or any other legislation.
+30(6)The holder of an environmental approval shall
+(a)ensure that the work done on an installation complies with section¬ 35, all
+other provisions of the Act and this Regulation and all other applicable
+legislation, and
+(b)notify the Minister at least three full business days before starting the
+work on the system.
+93-14
+
+31(1)The holder of an environmental approval shall notify the Minister in
+writing immediately of a proposed change in any of the particulars appearing on
+the environmental approval or a change in any of the factors referred to in
+subsection¬ 25(2) and shall give full particulars of the change.
+31(2)After receiving a notification under subsection¬ (1) of a proposed change
+in the name of the owner of the land at which the system is to be or is
+situated, the name of the owner or operator of the system, the name of the
+installer who will do or supervise or is doing or supervising the work or a
+change in any of the factors referred to in subsection¬ 25(2), the Minister
+shall, within a reasonable time
+(a)issue a new environmental approval subject to such terms and conditions as
+the Minister may require,
+(b)refuse to issue a new environmental approval, setting out in writing such
+terms and conditions as the Minister may require the holder of the approval or,
+where applicable, the proposed holder of the new approval to meet in order for
+a new approval to be issued, or
+(c)refuse to issue a new environmental approval, setting out in writing the
+reasons.
+31(3)The fee for an application for a new environmental approval under
+subsection¬ (2) is fifteen dollars.
+
+32Before commencing operations, an applicant who has been granted an
+environmental approval shall
+(a)demonstrate to the Minister‚Äôs satisfaction compliance with any terms and
+conditions included on the environmental approval,
+(b)demonstrate compliance with the Act, this Regulation and all other
+applicable legislation, and
+(c)file with the Minister a certificate acceptable to the Minister, in which
+the licensed installer who did or supervised the work certifies that the work
+was done in accordance with any terms and conditions of the environmental
+approval and with the requirements of the Act, this Regulation and all other
+applicable legislation.
+
+33(1)The holder of an environmental approval who is required to apply for and
+obtain a licence or a registration before commencing operations shall apply for
+a licence in accordance with and subject to Part II or shall apply for a
+registration in accordance with and subject to the Water Quality Regulation, as
+the case may be.
+33(2)The Minister, if satisfied that an application under this Part and related
+documents contain all the information required by an application for a licence,
+may waive the requirement to submit an application for a licence and may issue
+a licence to the holder of an environmental approval.
+33(3)Part II applies to the issuance of a licence under subsection¬ (2).
+
+34No work authorized by an environmental approval shall be done on a system
+after the expiry date shown on the environmental approval unless a new
+environmental approval is issued in accordance with this Regulation.
+
+35(1)In this section and in sections 38 and 39
+``business'' means a sole proprietorship, an unincorporated association or
+organization, a partnership or a corporation, that does or holds itself out as
+doing any of the work referred to in subsection¬ 23(1) in exchange for
+consideration;
+``employee'' means an individual employed by a business to carry out any work
+referred to in subsection¬ 23(1) and, if the business is a sole proprietorship
+or a partnership, includes the owner of the sole proprietorship and a partner
+in the partnership.
+35(2)A business may apply for a business registration by completing and
+delivering to the Minister an application on a form provided by the Minister.
+35(3)An applicant for a business registration shall submit with the application
+a certificate of comprehensive general liability insurance for a term of at
+least one year, valid for the same year during which the registration to which
+the application relates will be valid, providing coverage that is acceptable to
+the Minister in an amount of at least one million dollars for all acts for
+which the applicant may become liable as a result of the applicant‚Äôs business
+operations, including for completed operations.
+35(4)An applicant for a business registration shall be the holder of or shall
+have at least one employee who is the holder of a valid installer‚Äôs licence.
+35(5)The Minister, if satisfied that an applicant under subsection¬ (2) has
+fulfilled the requirements under subsections (3) and (4), may register the
+applicant.
+35(6)The owner and the operator of a system on which work referred to in
+subsection¬ 23(1) is to be performed shall ensure that the work is performed by
+the holder of a business registration under subsection¬ (5).
+35(7)The holder of a business registration that is performing work referred to
+in subsection¬ 23(1) shall ensure that all the work is done by or supervised by
+an individual who is
+(a)an employee of the holder of the business registration, and
+(b)the holder of an installer‚Äôs licence issued under subsection¬ 36(4).
+93-14
+
+35.1(1)An insurer who has provided a certificate of insurance required under
+subsection¬ 35(3) shall notify the Minister not less than thirty days before
+the cancellation of the insurance referred to in the certificate.
+35.1(2)Insurance referred to in subsection¬ (1) shall not be cancelled until
+notice has been given in accordance with subsection¬ (1).
+35.1(3)The Minister may cancel or suspend a business registration if the
+insurance required under subsection¬ 35(3) ceases to be in effect.
+35.1(4)The Minister may reinstate a business registration cancelled or
+suspended under subsection¬ (3) upon compliance with the requirements of
+subsection¬ 35(3) and with any other terms and conditions imposed by the
+Minister.
+93-14
+
+36(1)An individual may apply for an installer‚Äôs licence by completing and
+delivering to the Minister an application on a form provided by the Minister.
+36(2) Repealed: 93-14
+36(3)An applicant for an installer‚Äôs licence shall successfully complete a
+training program designated by the Minister before being issued an
+installer‚Äôs licence.
+36(4)The Minister, if satisfied that an applicant under subsection¬ (1) has
+fulfilled the requirements under subsection¬ (3), has the necessary
+qualifications and has paid the fee under subsection¬ (7), may issue to the
+applicant an installer‚Äôs licence.
+36(5)An installer‚Äôs licence shall be in Form 3.
+36(6)An installer‚Äôs licence expires on the date indicated on the licence.
+36(7)The fee to be paid for the issue of an installer‚Äôs licence is one
+hundred dollars.
+93-14; 2005-10
+
+37(1)Not less than thirty days before the expiry of an installer‚Äôs licence,
+the holder of the licence, if intending to continue the work of an installer
+after the expiry date, shall deliver to the Minister an application for a new
+licence along with the fee prescribed in subsection¬ 36(7).
+37(2)Subsections 36(1), (4), (5), (6) and (7) apply with the necessary
+modifications to an application made under subsection¬ (1).
+93-14
+
+38(1)The holder of an installer‚Äôs licence shall ensure that all work done by
+or under the supervision of the holder and all systems installed by or under
+the supervision of the holder conform to the Act, this Regulation and all other
+applicable legislation.
+38(2)The holder of a business registration shall ensure that all work done and
+all systems installed by or under the supervision of an employee who is the
+holder of an installer‚Äôs licence conform to the Act, this Regulation and all
+other applicable legislation.
+93-14
+
+39(1)The Minister, if satisfied that the holder of an installer‚Äôs licence has
+not complied with subsection¬ 38(1), may
+(a)cancel the licence, or
+(b)suspend the licence subject to the doing of specified work by or under the
+supervision of the holder.
+39(2)The Minister, if satisfied that the holder of a business registration has
+not complied with subsection¬ 35(7) or 38(2), may
+(a)cancel the registration, or
+(b)suspend the registration subject to the doing of specified work by or under
+the supervision of an employee of the holder of the registration who is the
+holder of an installer‚Äôs licence issued under subsection¬ 36(4).
+39(3)The Minister may reinstate a licence or registration cancelled or
+suspended under this section upon completion of any work specified under
+subsection¬ (1) or (2) and upon compliance with any terms and conditions
+imposed by the Minister.
+93-14
+
+40 Repealed: 93-14
+93-14
+PART IV
+GENERAL ENFORCEMENT
+
+In this Part
+``person responsible for the system'' means
+(a)the owner or operator of the system or any part of the system,
+(b)a person responsible or who at any time was responsible for the
+construction, installation, alteration, modification, change in the capacity,
+reactivation, excavation, relocation, loading, filling, emptying,
+disassembling, removal, disposal or operation of the system or any part of the
+system,
+(c)a person having the charge, management or control of the system or any part
+of the system,
+(d)a person to whom a registration, licence, site approval or environmental
+approval has been issued with respect to the system, or
+(e)any person who personally or by servants or agents installed the system and
+who
+(i)is the lessor of part or all of the system or part or all of the lands or
+premises at which the system is located, or
+(ii)is party to a contract with the owner or operator of the system whereby the
+owner or operator agrees to sell the product of that party in consideration of
+the conveyance of part or all of the system or part or all of the lands or
+premises at which the system is located.
+
+42If a system is operated without a registration or a licence or contrary to
+the terms and conditions of a registration or a licence, is constructed,
+installed, altered, modified, changed in capacity, reactivated, excavated,
+disassembled, relocated, removed or disposed of without a site approval or
+environmental approval as required under Part III or contrary to any terms and
+conditions with respect to a site approval or an environmental approval or
+otherwise is operated contrary to or in violation of the Act or this
+Regulation, notwithstanding any other remedy that may be available, the
+Minister may direct that the operation or work be investigated or may order the
+person responsible for the system to terminate the operation of or to make such
+modifications to the system or the manner of operating the system as the
+Minister considers necessary.
+
+43Any person who suspects or detects that a petroleum product is leaking or has
+leaked from a system or that water or other liquid is intruding or has intruded
+into a system shall immediately
+(a)notify the Minister of the leak or possible leak by calling the Director,
+Environmental Protection Branch, Department of Environment, Fredericton, New
+Brunswick, during normal office hours, or calling 1-800-565-1633, outside
+normal office hours, and provide the information requested by the person
+contacted, and
+(b)notify the person responsible for the system.
+88-51; 1998, c.41, s.21; 2000, c.26, s.41; 2006, c.16, s.28
+
+44(1)A person responsible for the system who is aware of a leak or possible
+leak of a petroleum product from a system shall
+(a)immediately report all leaks to the nearest fire prevention authority,
+(b)arrange for recorded liquid medium tests acceptable to the Minister with
+readings at four hours and twelve hours after commencement of the test or at
+any other time, frequency or duration acceptable to or ordered by the Minister,
+on underground storage tanks and piping,
+(c)ensure that all lines are pressure isolated from the tank before application
+of the line pressure test,
+(d)where after completion of the liquid medium tests there is doubt as to
+whether or not there is a leak, arrange to uncover sufficient surface of the
+tank or line to permit visual inspection,
+(e)arrange for immediate removal of leaking systems,
+(f)take all steps reasonable in the circumstances to prevent further leakage,
+(g)recover escaped petroleum product and remove product-contaminated soil
+before installing a replacement storage tank or line,
+(h)subject to subsection¬ (2), ensure that the pressure gauges used in the
+tests required by this subsection are calibrated in increments not greater than
+(i)1.0¬ kilopascals for the tank test, and
+(ii)10¬ kilopascals for the line pressure tests, and
+(i)construct and monitor such observation wells as required by the Minister.
+44(2)The Minister may direct that increments different from those provided for
+in paragraph¬ (1)(h) be used.
+44(3)The person responsible for the system shall witness all tests and repairs
+required under subsection¬ (1) and shall certify to this effect on the records
+of the tests, and the owner shall retain the records for inspection by the
+Minister until the system is disposed of.
+2009-120
+
+45(1)Notwithstanding any terms and conditions with respect to a registration, a
+licence, a site approval or an environmental approval issued under this or any
+other Regulation, the Minister, after receiving notice of a leak or possible
+leak, or at any other time, may
+(a)direct that the system be inspected or investigated,
+(b)order that a test different from that required under paragraph¬ 44(1)(b) be
+performed,
+(c)order that the operation of the system terminate,
+(d)order that part or all of the system be excavated,
+(e)order that part or all of the system be modified,
+(f)order that the manner of operating the system be modified,
+(g)order replacement of part or all of the system,
+(h)order that contaminated soil be removed,
+(i)order that contaminated water be decontaminated,
+(j)order that a well or other water supply that has been contaminated by a
+petroleum product be replaced or substituted for, or
+(k)make such other order as the Minister considers necessary.
+45(2)Without restricting any other provision of this Regulation, the Minister
+may direct an order under subsection¬ (1) to any person responsible for the
+system.
+2009-120
+
+46 Repealed: 2009-120
+2009-120
+
+47 Repealed: 2009-120
+2009-120
+
+48 Repealed: 2009-120
+2009-120
+
+49 Repealed: 2009-120
+2009-120
+
+50 Repealed: 2009-120
+2009-120
+
+51In this Regulation any time limit set for the taking of any action or for the
+completion of any matter or thing by a person other than the Minister may be
+extended by the written consent of the Minister.
+
+52Any notice or other document that is to be given to, filed with or served
+upon the Minister shall be sufficiently given, filed or served if it is
+delivered personally or mailed prepaid registered post to the Department of
+Environment, P.O. Box 6000, Fredericton, New Brunswick, E3B 5H1.
+1998, c.41, s.21; 2000, c.26, s.41; 2006, c.16, s.28
+PART V
+GENERAL STANDARDS
+
+53The owner and the operator of every system shall ensure that the system is
+installed in conformance with and conforms to this Part, where applicable.
+
+54(1)Every atmospheric storage tank installed after the commencement of this
+Regulation shall be built in conformance with the following:
+(a)CAN4-S601-M84, ‚ÄúStandard For Shop Fabricated Steel Aboveground Horizontal
+Tanks For Flammable And Combustible Liquids‚Äù;
+(a.1)CAN4-S630-M84, ‚ÄúStandard for Shop Fabricated Steel Aboveground Vertical
+Tanks for Flammable and Combustible Liquids‚Äù;
+(a.2)ULC/ORD-C142.3-1991, ‚ÄúContained Steel Aboveground Tank Assemblies For
+Flammable Liquids‚Äù;
+(b)CAN4-S603-M85, ‚ÄúStandard For Steel Underground Tanks For Flammable And
+Combustible Liquids‚Äù;
+(c)CAN4-S603.1-M85, ‚ÄúStandard For Galvanic Corrosion Protection Systems For
+Steel Underground Tanks For Flammable And Combustible Liquids‚Äù;
+(d)CAN4-S615-M83, ‚ÄúStandard For Reinforced Plastic Underground Tanks For
+Petroleum Products‚Äù;
+(e)API Standard 650, ‚ÄúWelded Steel Tanks For Oil Storage‚Äù (July, 1973);
+(f)API-STD-12B, ‚ÄúSpecification For Bolted Production Tanks‚Äù (May, 1958);
+(g)API-STD-12D, ‚ÄúSpecification For Large Field Welded Production Tanks‚Äù
+(August, 1957); or
+(h)API-SPEC-12F, ‚ÄúSpecification For Shop Welded Tanks for Storage of
+Production Liquids‚Äù (January, 1982).
+54(2)Tanks built in conformance with the standards referred to in paragraphs
+(1)(f), (g) and (h) shall be used only for the storage of crude petroleum at
+oil fields.
+93-14
+
+55Every low pressure storage tank installed after the commencement of this
+Regulation shall be constructed in conformance with
+(a)API Standard 620, ‚ÄúRecommended Rules For Design and Construction of Large,
+Welded, Low-Pressure Storage Tanks‚Äù (July, 1973), or
+(b)‚ÄúRules for Construction of Pressure Vessels‚Äù, Section VIII, Division¬ 1
+of the ASME Boiler And Pressure Vessel Code (July¬ 1, 1986).
+
+56An atmospheric storage tank shall not be used for the storage of a petroleum
+product at a temperature at or above its boiling point.
+
+57Low pressure storage tanks and pressure vessels may be used as atmospheric
+storage tanks.
+
+58The normal operating pressure of a storage tank shall not exceed its design
+pressure.
+
+59The exposed surface of every aboveground storage tank for a petroleum product
+that is installed after the commencement of this Regulation and that is
+fabricated of any ferrous substance shall be thoroughly coated with rust-
+resisting material compatible with the tank and shall be cathodically protected
+in conformance with CAN4-S603.1-M85, ‚ÄúStandard For Galvanic Corrosion
+Protection Systems For Steel Underground Tanks For Flammable And Combustible
+Liquids‚Äù.
+
+60(1)Subject to subsections (2) and (3), the holder of an installer‚Äôs licence
+who is installing or supervising the installation of a storage tank shall
+ensure that it is tested for leakage by a method acceptable to the Minister at
+the time of installation in conformance with the appropriate requirements of
+this Part.
+60(2)Subject to subsection¬ (3), where measurements indicate a leak, the source
+of leakage from an aboveground storage tank may be determined by a visual
+examination and by testing the bottom of the tank by a method acceptable to the
+Minister.
+60(3)Where field test methods are included in the tank construction standards
+referred to in sections 54 and 55, such tests shall be permitted for tanks
+conforming to those standards.
+93-14
+
+61Records of tests referred to in section¬ 60 shall be retained until the
+system has been disposed of.
+
+62If a leak is detected in a storage tank during the leakage test referred to
+in section¬ 60
+(a)an underground storage tank shall be replaced,
+(b)an aboveground storage tank shall be repaired, replaced or disposed of, and
+(c)the escaped liquid and contaminated soil shall be removed by a method and to
+the degree acceptable to the Minister.
+
+63(1)Pneumatic leakage tests may be performed only on a new underground storage
+tank that does not contain and has never contained a petroleum product, after
+installation but before backfilling.
+63(2)Where a pneumatic leakage test is performed under subsection¬ (1), the
+tank shall be considered to be leaking when any pressure drop is detected
+within a period of two hours after steady temperature and tank deflection
+conditions have been established and the source of pressure has been removed.
+63(3)Pneumatic test pressures applied to a new underground storage tank shall
+be measured by an instrument calibrated in increments not greater than one
+kilopascal.
+63(4)The test pressure for a pneumatic leakage test shall be not less than
+thirty kilopascals and not more than thirty-five kilopascals above atmospheric
+pressure.
+
+64(1)Where a leakage test incorporating a liquid test medium, including a
+petroleum product, is performed on an underground storage tank, the tank shall
+be considered to be leaking when, with compensation for volume differentials
+caused by the effects of temperature and tank shell distortion, the test
+indicates a liquid loss greater than 0.189 litres per hour.
+64(2)The pressure at the bottom of a storage tank shall not exceed seventy
+kilopascals above atmospheric pressure during the leakage test referred to in
+subsection¬ (1).
+
+65(1)Subject to subsection¬ (6), the owner or operator of an underground
+storage tank at a service station or marina shall measure the liquid level in
+the storage tank at least once each day the service station or marina is open
+in conformance with subsections (5) and (7) by a method acceptable to the
+Minister.
+65(2)Subject to subsection¬ (6), the owner or operator of an underground
+storage tank at a service station or marina shall measure the level of water at
+the bottom of the underground storage tank at least once each day the service
+station or marina is open in conformance with subsections (5) and (7) by a
+method acceptable to the Minister.
+65(3)Subject to subsections (1) and (6), the owner or operator of a storage
+tank, except a storage tank containing a petroleum product used solely for the
+purpose of heating a premises, shall measure the liquid level in the storage
+tank at least once each week in conformance with subsections (5) and (7) by a
+method acceptable to the Minister.
+65(4)Subject to subsections (1) and (6), the owner or operator of a storage
+tank, except a storage tank containing a petroleum product used solely for the
+purpose of heating a premises, shall measure the level of water at the bottom
+of the storage tank at least once each week in conformance with subsections (5)
+and (7) by a method acceptable to the Minister.
+65(5)The person taking the measurements referred to in subsection¬ (1), (2),
+(3) or (4) shall immediately reconcile them with receipt and issue records and,
+where available, meter readings and shall record the findings on a form
+approved by the Minister.
+65(6)The owner or operator of a storage tank containing waste petroleum product
+shall measure the level of the waste petroleum product in the storage tank and
+the level of water at the bottom of the tank at the end of the last business
+day in each week and at the beginning of the first business day in each week by
+a method acceptable to the Minister and shall, on the first business day of
+each week, reconcile the readings taken that day with those taken on the last
+business day of the previous week and record the findings on a form approved by
+the Minister.
+65(7)Where a loss of liquid or a gain of water of five millimetres or greater
+is indicated by the reconciliation made under subsection¬ (5) or (6) or where
+the level of water at the bottom of an underground storage tank exceeds fifty
+millimetres the owner or operator of the system shall immediately take
+corrective action in accordance with section¬ 44.
+65(8)A record for each storage tank showing the measurements required under
+subsection¬ (1), (2), (3), (4) or (6), the records required under subsections
+(5) and (6) and a record of the computation of any loss of liquid or gain of
+water shall be kept on a form approved by the Minister and shall be retained
+for a period of at least two years for immediate examination by the Minister.
+65(9)Where a dipstick is used in making the measurements under this section, it
+shall be marked in increments of no greater than ten millimetres.
+65(10)No person shall use an electronic or other storage tank liquid level
+gauge to make the measurements under this section unless the gauge is approved
+by the Minister before use.
+88-51; 93-14; 2009-120
+
+66Provision shall be made in areas where a petroleum product is dispensed to
+prevent spilled liquid from entering buildings or waterways by providing
+grading or curbing and drainage.
+
+67(1)A person may store waste petroleum product, in quantities that do not
+exceed the quantities permitted under subsection¬ (2), by placing it in a
+sealed tank that is not a storage tank, or in a sealed drum, in accordance with
+section¬ 68, until the product is removed from the site for recycling or
+disposal in a manner acceptable to the Minister.
+67(2)The maximum quantities of waste petroleum product that may be stored under
+subsection¬ (1) are
+(a)for used lubricating oil, two thousand litres, and
+(b)for waste petroleum product other than used lubricating oil, five hundred
+litres.
+93-14; 2002-20
+
+68(1)Notwithstanding any other provision of this Regulation except subsection¬ 
+(2), a person storing waste petroleum product shall store it outside buildings,
+pending final disposal, at a location free of sources of ignition and at least
+one and one-half metres away from building openings, except that the person may
+convey the waste petroleum product from the inside to the outside of a building
+by means of a pipe that is equipped with a means acceptable to the Minister of
+preventing flammable vapours from entering the building through the pipe.
+68(2)A person may store used lubricating oil inside a building, pending final
+disposal.
+68(3)No person shall apply waste petroleum product to a public or private
+highway, lane, trail, bridge, park, parking area, drive-in theatre, yard,
+beach, landfill site or any other ground surface for the purpose of suppressing
+dust or for any other purpose.
+93-14; 2002-20
+
+69(1)No person shall dispense a petroleum product into a storage tank or
+container that has a vent until that person has checked the vent and ensured
+that it is unobstructed.
+69(2)A person dispensing a petroleum product into a storage tank or container
+that has a vent and who has reason to believe that the vent has become
+obstructed shall immediately cease dispensing the liquid into the storage tank
+or container and shall not resume dispensing the liquid until the obstruction
+has been removed.
+69(3)A person becoming aware of an obstruction in the vent of a storage tank or
+container for a petroleum product shall immediately notify the owner of, or the
+operator of the storage tank or container.
+
+70Subject to Part X, at all times when a petroleum product is being dispensed,
+transferred, received, loaded into a conveyance, delivered or otherwise handled
+at, to or from a bulk plant or a storage tank, except in a drum or container in
+conformance with this Regulation, a person having a detailed working knowledge
+of the operation shall be in constant attendance at the place where the
+operation is being controlled and shall take all reasonable steps to eliminate
+spillage and other hazards and to ensure that spilled petroleum product is
+disposed of immediately and safely if a spill occurs.
+93-14
+
+71The owner or operator of a system shall make the system available at any time
+for such test or tests as the Minister may request.
+PART VI
+OUTSIDE ABOVEGROUND STORAGE TANK SYSTEMS
+
+72This Part applies to aboveground storage tank systems installed outside
+buildings.
+
+73The owner and the operator of an outside aboveground storage tank system
+shall ensure that the storage tank system is installed in conformance with and
+conforms to this Part.
+
+74At the time of installation, an aboveground storage tank and associated
+piping shall be tested in conformance with sections 60 to 64 and 145 to 153.
+93-14
+
+75Every aboveground storage tank shall be permanently marked to identify
+clearly its contents and maximum capacity on at least three sides in lettering
+of a size sufficient to ensure legibility from at least four and one-half
+metres or from outside a diked area, whichever is the greater.
+
+76In areas subject to earthquake forces, storage tank supports and connections
+shall be designed to resist such forces in conformance with the National
+Building Code of Canada 1985.
+
+77(1)An aboveground storage tank shall rest on a foundation on the ground or on
+supports on the ground made of concrete, masonry, piling or steel in
+conformance with Appendix E of API Standard 650, ‚ÄúWelded Steel Tanks For Oil
+Storage‚Äù (March, 1975) and Appendices B and N of API Standard 620,
+‚ÄúRecommended Rules For Design And Construction Of Large, Welded, Low-Pressure
+Storage Tanks‚Äù (July, 1973).
+77(2)Tank supports shall be installed on firm foundations designed to minimize
+uneven settling of the tank and to minimize corrosion of the part of the tank
+resting on the foundation.
+
+78Except for steel saddles that are less than three hundred millimetres high at
+their highest point, supports for aboveground storage tanks shall provide a
+fire-resistance rating of at least two hours.
+
+79Every storage tank shall be supported in a manner that will prevent the
+allowable design stress of the tank from being exceeded.
+
+80No storage tank shall be located in an area that may be subjected to
+flooding.
+
+81Atmospheric storage tanks and low pressure storage tanks shall be provided
+with normal and emergency venting in conformance with API Standard No. 2000,
+Third Edition, January, 1982, ‚ÄúVenting Atmospheric and Low-Pressure Storage
+Tanks‚Äù or with the tank design standards listed in subsection¬ 54(1).
+
+82Vent piping materials and construction shall conform to sections 134 to 136.
+
+83Vent pipe outlets for a storage tank for a petroleum product shall be located
+outside buildings not less than three thousand five hundred millimetres above
+the adjacent ground level and not less than one thousand five hundred
+millimetres from any building opening and shall discharge so that petroleum
+product vapours will not enter the building or be trapped near any part of the
+building.
+2009-120
+
+84(1)Connections to an aboveground storage tank at any level below the highest
+level to which the liquid will rise shall be provided with valves located as
+close as practicable to the shell.
+84(2)Valves and their connections to a storage tank shall be made of steel,
+except that when the chemical characteristics of the liquid stored are
+incompatible with steel, materials other than steel shall be used.
+84(3)Materials for valves and their connections to a storage tank shall be
+suitable for the pressures, stresses and temperatures to which they will be
+subjected and as specified in the design.
+
+85An opening for measuring the liquid level in a storage tank for a petroleum
+product shall be equipped with a vapour tight cap or cover which shall be
+opened only when measuring the liquid level.
+
+86A connection for filling or emptying a storage tank shall be identified to
+indicate the product for which the connection is to be used and shall be kept
+closed to prevent leakage when not in use.
+
+87The area surrounding a storage tank or group of storage tanks shall be
+designed to accommodate accidental spillage by surrounding the storage tank or
+tanks with a dike in conformance with sections 88 to 94.
+
+88(1)Subject to subsection¬ (2), the distance between a storage tank shell and
+the centre line of a dike shall be at least three thousand millimetres or one-
+half the tank height, whichever is greater.
+88(2)For a storage tank having a capacity not exceeding one hundred and forty-
+one thousand litres, the distance required in subsection¬ (1) may be reduced to
+one thousand five hundred millimetres where acceptable to the Minister.
+
+89(1)A dike surrounding only one storage tank shall have a capacity sufficient
+to contain a volume of liquid at least ten per cent greater than the volume of
+the tank and in addition shall have at least one hundred and fifty millimetres
+of freeboard.
+89(2)Subject to subsection¬ (3), a dike surrounding more than one storage tank
+shall have
+(a)at least one hundred and fifty millimetres of freeboard, and
+(b)a capacity sufficient to contain a volume of liquid at least equal to the
+volume of the largest tank, and
+(i)ten per cent of the total volume of all the other tanks, or
+(ii)ten per cent of the volume of the largest tank,
+whichever is greater.
+
+90(1)The walls and floor of a dike and diked area, including any
+interconnecting channel and the area beneath a storage tank, shall be
+(a)made of earth, steel, concrete or other material that is designed,
+constructed and maintained to be liquid tight to a permeability of 1 times 10-
+7 centimetres per second and to withstand the full hydrostatic head, in spite
+of atmospheric influences, and
+(b)adequately protected to maintain their integrity during construction and
+servicing of the area.
+90(2)The impermeable layer of the walls and floor of a dike and diked area made
+of earth, clay or other natural material shall be at least four hundred
+millimetres thick.
+90(3)Where necessary, the water table shall be lowered before construction of a
+dike or diked area and shall be kept lowered so that no portion of a dike or
+diked area, including any interconnecting channel and the area beneath an
+aboveground storage tank, is below the water table at any time of the year.
+90(4)No piping shall pass through the wall of a dike referred to in section¬ 87
+other than for the purpose of drainage or where the permission of the Minister
+has been obtained before construction of the piping.
+90(5)Where piping passes through a wall of a dike as provided for in
+subsection¬ (4), the passage shall be designed, constructed and maintained to
+prevent seepage from the diked area and excess pressure or stress on the piping
+as a result of settlement or fire exposure.
+90(6)Subject to subsection¬ (4), piping passing from one side of the wall of a
+dike to the other shall pass over the wall and shall be constructed and
+supported so that leakage from the piping cannot occur.
+93-14
+
+91The walls of every earth dike referred to in section¬ 85 shall have a flat
+top at least six hundred millimetres wide, a height of at least six hundred
+millimetres and a slope consistent with the angle of repose of the material
+which in no case shall be less than two horizontal to one vertical.
+
+92(1)Subject to subsection¬ (3), the walls of a dike referred to in section¬ 87
+shall not exceed an average height of one thousand eight hundred millimetres
+above the ground level of the interior of the diked area.
+92(2)One or more permanent stairways shall be erected and maintained over a
+dike referred to in subsection¬ (1) and the diked area shall be designed to
+facilitate access to storage tanks, valves and other equipment and safe egress
+from the diked area.
+92(3)The walls of a dike may exceed the height provided for in subsection¬ (1)
+if one or more permanent stairways are erected and maintained over the dike and
+if provisions acceptable to the Minister are made to facilitate access to the
+storage tank, valves and other equipment and safe egress from the diked area.
+
+93Dike walls, drainage ditches and interconnecting channels shall be provided
+with suitable energy dissipation structures that are capable of controlling and
+absorbing erosive forces caused by changes in the elevation and direction of
+flow of the contents within a dike.
+
+94Where the average height of the walls of a dike containing a petroleum
+product exceeds three thousand five hundred millimetres measured from the
+ground level of the interior of the diked area or the distance between a tank
+and the top inside edge of the dike wall is less than the height of the dike
+wall, provisions shall be made for the normal operation of valves and for
+access to roofs of aboveground storage tanks at a level above the top of the
+dike.
+
+95Controls for a drainage system from a diked area shall be accessible under
+all conditions and be located outside the diked area.
+
+96(1)Drainage ditches and interconnecting channels shall be
+(a)designed to handle storm runoff resulting from a one in ten year storm or a
+ruptured pipeline, whichever is greater, and
+(b)constructed and maintained so that erosion cannot occur.
+96(2)Subject to subsection¬ (1), a drainage pipe from a diked area shall
+(a)have a slope of not less than one per cent,
+(b)be equipped with a valve which shall be kept locked in a closed position
+except when opened during a supervised drainage operation,
+(c)be routed through a separator that is designed to separate free petroleum
+product from water, and
+(d)be discharged to a location and in a manner acceptable to the Minister.
+96(3)A drainage arrangement different from the one required under subsection¬ 
+(2) may be required by the Minister or used with the consent of the Minister.
+96(4)A loading or unloading area, dispensing area, delivery rack, pump base,
+air eliminator, container storage area, waste collection area or other area
+where a petroleum product may be spilled shall be situated on an impermeable
+floor that slopes to a drain.
+96(5)A drain referred to in subsection¬ (4) shall be connected to a separator
+that is designed and used to separate free petroleum product from water.
+96(6)The owner or operator of a system referred to in subsection¬ (5) shall
+(a)file with the Minister a description of the proposed means of removal and
+disposal of the petroleum product or sludge collected in the separator and its
+storage tank,
+(b)after complying with paragraph¬ (a), ensure that a separator and its storage
+tank required under this section are emptied of collected petroleum product or
+sludge before they fill beyond their capacity, and
+(c)ensure that the clarified water is discharged to a location and in a manner
+acceptable to the Minister.
+PART VII
+UNDERGROUND STORAGE TANK SYSTEMS
+
+97This Part applies to underground storage tank systems for a petroleum
+product.
+
+98The owner and the operator of every underground storage tank system shall
+ensure that the system is installed in conformance with and conforms to this
+Part.
+
+99(1)An underground storage tank shall be located so that foundations of
+existing buildings will not be undermined during excavation and so that loads
+from building foundations and supports are not transmitted to the tank.
+99(2)An underground storage tank shall be located at least six hundred
+millimetres from any adjacent tank, one thousand millimetres from a building,
+street line or right-of-way line and one thousand five hundred millimetres from
+other property lines.
+
+100(1)Except as required under subsections (2) to (4), an underground storage
+tank shall be installed with at least six hundred millimetres of ground cover
+over the tank.
+100(2)Except as provided in subsection¬ (3), a storage tank subjected to
+vehicular traffic shall be installed with at least one metre of ground cover
+over the tank.
+100(3)A reinforced concrete slab one hundred and fifty millimetres thick or an
+unreinforced concrete slab two hundred millimetres thick covered with at least
+four hundred and fifty millimetres of sand may be used instead of the ground
+cover described in subsection¬ (2) if the slab extends at least three hundred
+millimetres beyond the storage tank in every direction.
+100(4)Where subsurface conditions make it impracticable to install a storage
+tank totally below adjacent ground level, an underground storage tank may be
+installed so that at least
+(a)fifty per cent of its volume is below adjacent ground level if there are at
+least one thousand millimetres of ground cover over the portion of the tank
+above adjacent ground level, or
+(b)ten per cent or more, but less than fifty per cent, of its volume is below
+adjacent ground level if there are at least seven hundred and fifty millimetres
+of ground cover over the portion of the tank above adjacent ground level.
+100(5)The area above a storage tank installed under subsection¬ (4) shall be
+marked to indicate clearly the presence of the underground storage tank and
+shall be protected from damage.
+
+101(1)The installer of an underground storage tank shall inspect the tank
+before installation and shall repair any damage to the protective coating
+immediately before the tank is lowered into the excavation.
+101(2)Any damage to an underground storage tank that occurs during installation
+shall be repaired by the installer before backfilling.
+
+102(1)An underground storage tank shall be lowered into the excavation by the
+use of lifting lugs and hooks and also, where necessary, spreader bars to
+prevent damage to the tank.
+102(2)No method of handling that might result in damage to a storage tank or to
+the protective coating of a storage tank shall be used.
+
+103(1)Subject to subsection¬ (2), a steel storage tank shall be supported on
+clean compacted sand at least one hundred and fifty millimetres deep and shall
+be backfilled on all sides including the top with at least three hundred
+millimetres of clean sand that is free of clay, cinders, stones and any foreign
+matter and that is compacted in layers not greater than three hundred
+millimetres thick.
+103(2)Where acceptable to the Minister, grade B gravel, stone dust or
+screenings may be substituted for the sand required under subsection¬ (1).
+103(3)An underground plastic storage tank shall be supported on pea gravel or
+clean crushed stone at least three hundred millimetres deep and shall be
+backfilled on all sides including the top with at least three hundred
+millimetres of pea gravel or clean crushed stone that is free of any foreign
+matter.
+103(4)A steel underground storage tank shall not be placed in direct contact
+with a reinforced concrete anchor slab but shall be separated by a minimum of
+one hundred and fifty millimetres of compacted sand or other suitable material
+to distribute evenly the mass of the tank on the supporting base.
+93-14
+
+104At the time of installation, an underground storage tank and associated
+piping shall be tested in conformance with Part V.
+
+105(1)A petroleum product shall not be placed in an underground storage tank
+until the tank has been secured, the fill pipe and vent line have been
+installed in the tank and all other openings have been sealed.
+105(2)If a spillage occurs, the escaped liquid and all soil contaminated by the
+spill shall be removed before completion of the backfilling in conformance with
+sections 250 to 253.
+
+106(1)Where a high water table is anticipated, an underground storage tank
+shall be protected against uplift forces with hold down straps and anchor slab
+or deadmen.
+106(2)The hold down straps, anchor slab and deadmen required under subsection¬ 
+(1) shall be designed to resist uplift due to hydrostatic forces when the tank
+is empty.
+106(3)The hold down straps required under subsection¬ (1) shall be installed
+and tightened so as not to damage the tank or the protective coating on the
+tank.
+93-14
+
+107No underground storage tank that is structurally damaged shall be repaired
+on site and used for storage of a petroleum product unless
+(a)the repair is done by the manufacturer,
+(b)the manufacturer certifies in writing that the repaired tank meets the
+applicable manufacturing codes, and
+(c)the condition of the repaired tank is acceptable to the Minister.
+
+108(1)Subject to subsection¬ (3), underground steel storage¬ tanks and
+associated piping and fittings subject to corrosion¬ shall be protected in
+conformance with CAN4-S603.1-M85, ‚ÄúStandard For Galvanic Corrosion Protection
+Systems For Steel Underground Tanks For Flammable And Combustible Liquids‚Äù.
+108(2)Underground plastic storage tanks and associated piping and fittings
+shall be in conformance with CAN4-S615-M83, ‚ÄúStandard For Reinforced Plastic
+Underground Tanks For Petroleum Products‚Äù and, where associated piping or
+fittings are subject to corrosion, shall be protected in conformance with
+subsection¬ (1).
+108(3)Electrical voltage readings showing the existence of the corrosion
+protection referred to in subsection¬ (1) shall be taken every twelve months
+and records kept until the storage tank is disposed of in accordance with Part
+XIV.
+108(4)Where new steel storage tanks or associated piping or fittings subject to
+corrosion are introduced into an installed system, they shall be electrically
+isolated from the remainder of the system and shall be protected in conformance
+with subsection¬ (1).
+
+109An underground storage tank shall be provided with vent openings and piping
+having a cross-sectional area sufficient to vent the tank during the maximum
+filling or withdrawal rate without causing the allowable stress for the tank to
+be exceeded.
+
+110Vent piping materials and construction for underground storage tanks shall
+conform to Part IX.
+
+111(1)A vent pipe outlet from an underground storage tank containing a
+flammable liquid shall
+(a)be located outside buildings, and
+(b)extend vertically to
+(i)at least the height of the highest point in the delivery vehicle tank or at
+least three thousand five hundred millimetres above adjacent ground level,
+whichever is greater, where the tank is fitted with a tight fill adaptor on the
+fill pipe, or
+(ii)at least three thousand five hundred millimetres above the adjacent ground
+level or the top of the fill pipe, whichever is greater, where the tank is not
+fitted with a tight fill adaptor on the fill pipe.
+111(2)Vent piping from an underground storage tank for a petroleum product
+shall not be obstructed by any device that may cause excessive back pressure.
+111(3)Vent pipes from an underground storage tank for a combustible liquid may
+be fitted with return bends, coarse screens or other devices to minimize the
+entry of foreign material and shall extend two thousand millimetres above
+adjacent ground level.
+111(4)Vent pipes from an underground storage tank for a flammable liquid shall
+not be fitted with return bends and may be fitted with rain caps or other
+devices to minimize the entry of foreign material.
+
+112Vent piping shall enter a storage tank through the top of the tank and shall
+not extend into the tank more than twenty-five millimetres unless the vent is
+equipped with a vent alarm.
+
+113Vent piping shall be installed so that any nominally horizontal run shall
+slope toward the storage tank, shall be constructed without traps, shall be
+adequately supported to prevent sagging and, where necessary, shall be
+protected against mechanical damage.
+
+114(1)Subject to subsection¬ (2), where vent piping connects two or more
+storage tanks, piping sizes shall be designed to vent the combined vapours
+produced in the connected underground storage tanks without exceeding the
+allowable stresses of the tanks when being filled or emptied simultaneously.
+114(2)Where it is not possible to fill the connected storage tanks referred to
+in subsection¬ (1) simultaneously, or where the connected vents have a vapour
+recovery system, the vent piping shall be of a size sufficient to accommodate
+the maximum vapour flow possible in the system.
+
+115Vent piping for an underground storage tank containing a flammable liquid
+shall not be connected to vent piping for a storage tank containing a
+combustible liquid unless an effective arrangement is provided to prevent the
+vapours from the flammable liquid from entering the other tank.
+
+116Connections for all openings in an underground storage tank shall be liquid
+and vapour tight.
+
+117An opening for measuring the liquid level in an underground storage tank if
+independent of the fill pipe shall be equipped with a vapour and liquid tight
+cap or cover which shall be opened only when measuring the liquid level.
+
+118(1)Fill piping and discharge piping shall enter an underground storage tank
+only through the top of the tank and discharge piping used in a suction system
+shall be sloped toward the storage tank.
+118(2)A remote fill outlet from an underground storage tank shall not be
+located higher than other outlets from the tank.
+
+119(1)Connections used as part of normal operating conditions for filling or
+emptying an underground storage tank shall be kept closed to prevent leakage
+when not in use.
+119(2)Connections referred to in subsection¬ (1) shall be identified in
+conformance with PACE Report No. 79.1, ‚ÄúProduct Identification Guidelines‚Äù.
+PART VIII
+STORAGE TANK SYSTEMS INSIDE BUILDINGS
+
+120This Part applies to storage tank systems for a petroleum product installed
+inside a building.
+
+121The owner and the operator of a storage tank system referred to in
+section¬ 120 shall ensure that the system is installed in conformance with and
+conforms to this Part.
+
+122Subject to sections 126 and 127, no person shall install a storage tank,
+except a storage tank connected to a space heating appliance or to a stationary
+engine utilizing a combustible liquid, inside a building that is not used as an
+industrial occupancy.
+93-14
+
+123A storage tank for a combustible liquid inside a building shall be
+(a)diked and placed in a room with no floor drains, and
+(b)securely anchored to prevent uplift in the event of flooding.
+93-14
+
+124The static head imposed on a storage tank inside a building shall not exceed
+a pressure of seventy kilopascals above atmospheric pressure at the bottom of
+the tank when the vent or fill pipe is filled with liquid unless the tank is
+designed for greater pressures.
+
+125A storage tank for a combustible liquid used as a fuel supply for stationary
+engines that are used or intended to be used to power emergency equipment shall
+be installed in conformance with the requirements of CSA B139, ‚ÄúInstallation
+Code for Oil Burning Equipment‚Äù (March, 1976) for supply tanks installed
+inside buildings.
+93-14
+
+126Vents for a storage tank inside a building shall be provided in conformance
+with the National Fire Code of Canada 1990, but emergency venting by the use of
+roof-to-side shell seams, designed to rupture before the allowable design
+stress of the storage tank is reached, may not be used.
+93-14
+
+127(1)Connections for all openings in a storage tank inside a building shall be
+liquid and vapour tight.
+127(2)A connection to a storage tank through which liquid can flow shall be
+provided with a valve located as close as practicable to the tank.
+
+128(1)An opening that is independent of the fill pipe and is used for measuring
+the liquid level in a storage tank containing a petroleum product shall be
+equipped with a liquid and vapour tight cap which shall be opened only when
+measuring the liquid level.
+128(2)An opening referred to in subsection¬ (1) shall be protected against
+overflow and vapour pressure by means of a spring-loaded check valve.
+
+129A fill pipe for a storage tank inside a building shall be installed so as to
+minimize vibration of the pipe.
+
+130A storage tank inside a building shall be equipped with a device to prevent
+overflow.
+PART IX
+PIPING AND PUMPING SYSTEMS
+
+131(1)This Part applies to piping and pumping systems for petroleum products.
+131(2)Except where otherwise stated in this Part, this Part does not apply to
+the following:
+(a)tubing or casings and piping for oil or gas wells;
+(b)piping for vehicles, aircraft, water-craft and portable engines;
+(c)piping systems in retail outlets, marinas and distilleries;
+(d)piping systems on piers and wharves; and
+(e)piping within the scope of the Boiler and Pressure Vessel Act.
+
+132The owner and the operator of every piping and pumping system to which this
+Part applies shall ensure that the system is installed in conformance with and
+conforms to this Part where applicable.
+
+133(1)Materials for a piping system for a petroleum product shall be suitable
+for the maximum anticipated working pressures and operating temperatures and
+for the chemical properties of the product.
+133(2)Subject to subsection¬ (3), materials for a piping system referred to in
+subsection¬ (1) that are subject to failure from internal stress or rupture by
+mechanical damage and combustible or low-melting point materials that are
+subject to failure even in moderate fires shall not be used.
+133(3)A piping system conforming to ULC-C107C-M1984, ‚ÄúGuide For Glass Fibre
+Reinforced Plastic Pipe and Fittings For Flammable Liquids‚Äù may be used for
+an underground installation.
+
+134(1)Subject to subsection¬ (2), where steel piping, including welded and
+seamless grades, is used, it shall meet the requirements of
+(a)API Spec 5L, ‚ÄúSpecification For Line Pipe‚Äù ¬ (March, 1975),
+(b)ASTM A 53-86, ‚ÄúStandard Specification for Pipe, Steel, Black And Hot-
+Dipped, Zinc-Coated Welded And Seamless‚Äù,
+(c)CAN/CSA-Z245.1-M90, ‚ÄúSteel Line Pipe‚Äù, or
+(d)CAN/CSA-Z183-M90, ‚ÄúOil Pipeline Systems‚Äù.
+134(2)Where service pressures exceeding eight hundred and seventy five
+kilopascals above atmospheric pressure may occur, piping and fittings shall be
+designed in conformance with ANSI B31.3-1976, ‚ÄúChemical Plant and Petroleum
+Refinery Piping‚Äù as amended by ANSI/ASME B31.3e-1980, ‚Äúaddenda to Chemical
+Plant and Petroleum Refinery Piping‚Äù.
+93-14
+
+135Where problems of corrosion, contamination, sanitation or standards of
+purity require special materials, materials acceptable to the Minister may be
+used for other than metallic piping, valves and fittings.
+
+136All exposed and underground piping, couplings, flanges and bolts for a
+petroleum product shall be protected where necessary against external
+corrosion.
+
+137Pipelines for a flammable or combustible liquid shall be marked with the
+contents of the line, and these markings shall be maintained in a clearly
+legible form.
+
+138Piping for a petroleum product shall not be painted red.
+
+139(1)Plans showing a piping system for a petroleum product, including tank and
+pumping arrangements, shall be made available to the Minister on the
+Minister‚Äôs request.
+139(2)Sets of plans referred to in subsection¬ (1) shall be kept at two
+separate locations.
+
+140Threaded joints in piping systems for a petroleum product shall be made
+using
+(a)a joint compound conforming to ULC-C340-M1979, ‚ÄúPreliminary Standard For
+The Testing Of Pipe Joint Compounds‚Äù, or
+(b)polytetrafluoroethylene tape conforming to ULC-C1321-1983, ‚ÄúGuide For The
+Investigation Of Seal Materials -Polytetrafluoroethylene Plastic Tape‚Äù.
+
+141(1)Welding of piping for a petroleum product shall conform to the
+appropriate requirements under the Boiler and Pressure Vessel Act.
+141(2)Flanged joints for piping referred to in section¬ 140 shall be provided
+in welded systems at intervals that will facilitate dismantling and avoid
+subsequent in-place cutting and welding operations.
+
+142(1)Subject to subsection¬ (2), flanged joints for piping referred to in
+section¬ 141 shall be made with forged or cast steel flanges designed,
+constructed and installed in conformance with ANSI B16.5-1973, ‚ÄúSteel Pipe
+Flanges, Flanged Valves, and Fittings‚Äù.
+142(2)Bronze flanges for two hundred and fifty millimetre or smaller size
+piping referred to in section¬ 141 may be used where copper and brass piping is
+permitted.
+
+143Bolting materials for flanged connections in steel piping systems for a
+petroleum product shall be of alloy steel equivalent to ASTM A193/A 193M-86,
+‚ÄúAlloy-Steel And Stainless Steel Bolting Materials For High-Temperature
+Service‚Äù, Grade B-7.
+
+144Gaskets in flanged connections shall be of a material resistant to the
+liquid being carried and capable of withstanding temperatures of at least six
+hundred and fifty degrees Celsius without damage.
+
+145(1)Subject to subsection¬ (2), a piping system, including one at a service
+station or marina, shall be tested for leakage by a test method acceptable to
+the Minister before backfilling at the time of installation and whenever a leak
+is suspected.
+145(2)An exposed piping system in service may be visually inspected for leakage
+in conformance with section¬ 259.
+
+146Records of the leakage tests on a piping system shall be retained for
+examination by the Minister until the system has been disposed of.
+
+147(1)Subject to subsection¬ (2), if a leak is detected in a piping system
+during the leakage test or inspection referred to in section¬ 145, the piping
+system shall be repaired or replaced and the escaped liquid shall be removed
+forthwith in conformance with sections 250 to 253.
+147(2)If a leak detected under subsection¬ (1) is due to corrosion, the entire
+piping system shall be replaced.
+
+148Where an exposed piping system is subject to a pneumatic leakage test, the
+piping, including the joints, shall be soaped to assist in the detection of
+leaks.
+
+149A piping system shall be considered to be leaking when
+(a)a petroleum product is detected in the vicinity of the piping system, or
+(b)the piping system has been tested in accordance with subsection¬ 145(1) and
+the test indicates a liquid loss greater than 0.189 litres per hour.
+
+150Pressure measurements taken during leakage tests referred to in section¬ 145
+shall be obtained by using instruments calibrated in increments not greater
+than ten kilopascals for test pressures up to seven hundred kilopascals above
+atmospheric pressure and in increments not greater than one per cent of the
+test pressure where it exceeds seven hundred kilopascals above atmospheric
+pressure.
+
+151Subject to sections 152 and 153, a piping system shall be pressure tested at
+pressures of at least three hundred fifty kilopascals above atmospheric
+pressure or one and one-half times the maximum operating pressure, whichever is
+the greater.
+
+152Test pressures exceeding seven hundred kilopascals above atmospheric
+pressure shall not be used unless the piping system is designed for those
+pressures.
+
+153Where test pressures exceed the design pressures for pumps or similar
+components included in the piping system being tested, those pumps or
+components shall be isolated from the remainder of the system.
+
+154(1)Aboveground outdoor piping shall be supported and arranged to prevent
+excessive vibration and stress on the piping and on equipment connected to it.
+154(2)Where vehicular impact or other physical damage is possible, protective
+guarding devices shall be provided for piping referred to in subsection¬ (1)
+and for fill and vent piping for storage tanks.
+
+155(1)Aboveground outdoor piping shall not be located on the exterior of walls
+except on those of noncombustible construction, and in no case shall such
+piping be located above windows.
+155(2)Aboveground outdoor piping may be located above roofs only when the roofs
+are of noncombustible and impermeable construction, with provision for the
+collection of accidental spillage provided in conformance with sections 250 to
+253.
+
+156Aboveground piping that crosses over roadways shall be adequately supported
+and ample overhead clearance and warning signs indicating the clearance height
+shall be provided.
+
+157(1)All underground piping shall be supported on at least one hundred and
+fifty millimetres of clean compacted sand, pea gravel or washed, crushed stone
+in conformance with the manufacturer‚Äôs specifications.
+157(2)Underground steel piping shall be backfilled on the top and sides with at
+least three hundred millimetres of clean compacted sand, free of clay, cinders,
+stones and any foreign matter and compacted in layers not greater than three
+hundred millimetres thick, in accordance with the manufacturer‚Äôs
+recommendations.
+157(3)Underground fiberglass piping shall be backfilled on the top and sides
+with at least three hundred millimetres of pea gravel or clean crushed stone,
+in accordance with the manufacturer‚Äôs recommendations.
+
+158Piping shall not be located in a service tunnel that is used for pedestrian
+traffic.
+
+159(1)Piping shall be located aboveground where the piping enters a building.
+159(2)Piping referred to in subsection¬ (1) shall be provided with inside and
+outside control valves.
+159(3)Where piping referred to in subsection¬ (1) passes through a wall that
+would restrict the expansion or contraction of the piping, pipe sleeves shall
+be provided at the wall penetration to facilitate such movement.
+
+160Where indoor piping carries a petroleum product, provision shall be made in
+any floor drain or floor drain system to contain the product in the event of a
+spill or line rupture.
+
+161(1)Provision shall be made for thermal expansion and contraction in the
+design of a piping system.
+161(2)Flexible hose connectors conforming to CAN4-S633-M90, ‚ÄúFlexible
+Underground Hose Connectors For Flammable And Combustible Liquids‚Äù may be
+used where necessary in a system carrying a petroleum product in order to
+prevent excessive stresses resulting from vibration, settling or temperature
+changes.
+93-14
+
+162(1)Subject to subsection¬ (2), valves in a piping system shall be designed
+to accommodate the temperatures and pressures of the system and shall conform
+to ULC-C842-M1984, ‚ÄúGuide For The Investigation Of Valves For Flammable And
+Combustible Liquids‚Äù.
+162(2)Hose nozzle and emergency valves shall conform to ULC-S620-M1980,
+‚ÄúStandard For Valves For Flammable And Combustible Liquids‚Äù.
+
+163(1)Shutoff valves shall be provided in all piping and pumping systems.
+163(2)Where practicable, a valve referred to in subsection¬ (1) shall be
+located outdoors or be immediately accessible from outdoors.
+163(3)A steel shutoff valve shall be provided
+(a)at connections to all aboveground storage tanks,
+(b)on aboveground supply piping where it enters buildings or structures,
+(c)on aboveground branch lines from the main supply line,
+(d)on aboveground supply lines at dispensing locations, and
+(e)on underground piping that may be subject to siphoning action in the event
+of a line rupture.
+
+164Subject to section¬ 165, where a valve is used to isolate one part of a
+piping system from another, it shall be made of steel.
+
+165A stainless steel, monel metal or lined steel bodied valve may be used where
+special conditions warrant their use.
+
+166(1)A diaphragm valve shall have no direct connection between the liquid and
+air section that might permit leakage of the liquid past the packing into the
+air line.
+166(2)A globe valve shall be arranged so that the packing is on the low
+pressure side.
+166(3)A rising stem or other indicating-type valve shall be used where
+necessary to determine whether a valve is open or shut.
+
+167(1)All aboveground valves shall be identified so that
+(a)valves controlling a flammable liquid are identified by an octagonal red
+tag, and
+(b)valves controlling a combustible liquid are identified by a circular tag
+coloured other than red, green or red-orange.
+167(2)An identification tag required under subsection¬ (1) shall
+(a)be of enamelled metal, anodized aluminum, pressed fibre or solvent resistant
+plastic,
+(b)indicate the name of the product in clear, legible, permanent characters,
+and
+(c)be kept clean so that its colour and inscription are easily recognizable.
+
+168A pump for a piping system installed aboveground and outside of a building
+shall be located at least three thousand millimetres from the property line and
+at least one thousand five hundred millimetres from building openings.
+
+169A pump located inside a building shall be placed in a room that conforms to
+the requirements of the National Building Code of Canada 1985.
+
+170(1)A pit for a subsurface pump for a piping system or for piping connected
+to a submersible pump shall be designed to withstand the forces to which it may
+be subjected without causing damage to the system.
+170(2)A pit provided in conformance with subsection¬ (1) shall not be larger
+than necessary for inspection and maintenance and shall be provided with a
+cover.
+170(3)A pit referred to in subsection¬ (1) shall be vented to prevent the
+buildup of vapours.
+
+171A pump for a piping system shall be provided with duplicate control switches
+to shut down the pump in case of emergency, with one switch located in the
+operating area and the other at a remote location.
+
+172(1)Subject to subsection¬ (6), maintenance shall not be carried out on a
+piping system while it is under pressure.
+172(2)All petroleum product shall be drained from the piping system before
+connections or piping are opened.
+172(3)Where equipment for handling a petroleum product must be repaired, it
+shall be removed from the system and taken to maintenance areas when possible.
+172(4)Tags and lockouts shall be attached to all valves on piping systems that
+are shut off for maintenance purposes to indicate that such valves are not to
+be opened.
+172(5)Subject to section¬ 246, piping that has been used for the transfer of a
+petroleum product shall be removed or capped when it is no longer intended to
+be used.
+172(6)Connections to pressurized piping systems shall be made in conformance
+with the practice
+(a)provided for under the Boiler and Pressure Vessel Act,
+(b)described in API Publication No. 2200, Second Edition, April, 1983,
+‚ÄúRepairing Crude Oil, Liquified Petroleum Gas, and Product Pipelines‚Äù, or
+(c)described in API Publication No. 2201, Third Edition, October, 1985,
+‚ÄúProcedures For Welding or Hot Tapping On Equipment Containing Flammables‚Äù,
+or with other practice acceptable to the Minister.
+
+172.1(1)The owner and the operator of an aboveground piping system shall ensure
+that a visual inspection is made on each day of operation of the system to
+detect leakage and shall keep a record of the inspection on the premises for at
+least two years for immediate inspection by the Minister.
+172.1(2)Where necessary, the owner and the operator of an aboveground piping
+system shall ensure that vapour indicators are used to detect leakage.
+93-14
+
+172.2To ensure proper operation, the owner and the operator of every system
+shall ensure that frequent inspections and tests are made of all safety valves
+with particular attention directed to normally open fusible-link-operated
+valves, float valves and automatic controls.
+93-14
+PART X
+STORAGE, HANDLING AND USE OF PETROLEUM PRODUCTS AT RETAIL OUTLETS AND MARINAS
+
+173This Part applies to the storage, handling and use of petroleum products at
+retail outlets and marinas.
+
+174The owner and the operator of a retail outlet or marina shall ensure that
+(a)the retail outlet or marina conforms to this Part, and
+(b)all petroleum products stored, handled or used at the retail outlet or
+marina are stored, handled and used in conformance with this Part.
+
+175All fill pipes, vent piping and valves associated with a storage tank
+referred to in section¬ 173 shall conform to sections 82 to 86 and shall be
+permanently marked to indicate the type of liquid in the tank and the equipment
+controlled by the valves.
+
+176All petroleum products stored aboveground in containers shall be in closed
+metal containers complying with this Part or in other containers acceptable to
+the Minister and shall be distinctly marked with the generic name of the
+container contents.
+
+177Where a petroleum product is sold in a container, the container shall be
+(a)a prepackaged container acceptable to the Minister that is clearly marked
+with the name of the liquid it contains,
+(b)a shipping container conforming to section¬ 256, securely closed to prevent
+leaks or spills and clearly marked with the name of the liquid it contains, or
+(c)a portable container meeting the requirements of paragraph¬ 256(b).
+
+178(1)Every container for a petroleum product at a retail outlet or marina
+shall be kept tightly closed when disconnected from its pumping apparatus.
+178(2)Every container referred to in subsection¬ (1) that is equipped with a
+pump shall have a liquid and vapour tight connection between the pump and the
+container.
+
+179The storage of an empty container that previously contained a petroleum
+product shall conform to subsection¬ 178(1).
+
+180(1)Subject to subsection¬ (2), all piping associated with a petroleum
+product storage tank shall be made of steel and shall conform to AP1 Spec 5L,
+‚ÄúSpecificiation For Line Pipe‚Äù (March, 1975), ASTM A53-86, ‚ÄúStandard
+Specification for Pipe, Steel, Black And Hot-Dipped, Zinc-Coated Welded And
+Seamless‚Äù or CAN3-Z245.1-M86, ‚ÄúSteel Line Pipe‚Äù.
+180(2)A non-metallic piping system conforming to ULC-C107C-M1984, ‚ÄúGuide For
+Glass Fibre Reinforced Plastic Pipe And Fittings For Flammable Liquids‚Äù may
+be used for underground installations.
+
+181Steel piping at a retail outlet or marina shall be provided with corrosion
+protection in conformance with CAN4-S603.1-M85, ‚ÄúStandard For Galvanic
+Corrosion Protection Systems For Steel Underground Tanks For Flammable And
+Combustible Liquids‚Äù.
+
+182Piping shall be firmly supported and protected by installing guards when
+necessary to prevent vehicle impact or other mechanical damage.
+
+183Pits for subsurface pumps or for piping connected to submersed pumps shall
+conform to section¬ 170.
+
+184(1)Subject to subsection¬ (2), fixed dispensing equipment for a petroleum
+product shall conform to CSA-B346-M1950, ‚ÄúPower-Operated Dispensing Devices
+for Flammable Liquids‚Äù.
+184(2)Where flow rates from dispensing equipment conforming to the standard
+referred to in subsection¬ (1) are not adequate for the intended application,
+other dispensing equipment acceptable to the Minister may be used.
+
+185Fixed dispensing equipment shall be protected against collision damage by
+(a)a concrete island at least one hundred millimetres high, or
+(b)other means acceptable to the Minister.
+
+186(1)Devices to shut off the power to all dispensing units shall be provided
+at a location remote from the dispensing units or shielded from any fire that
+might occur at the dispensing units.
+186(2)A shutoff device required under subsection¬ (1) shall be clearly
+identified and easily accessible.
+
+187An emergency shut-off switch to stop all dispensing units at self-service
+outlets shall be located in the central control office described in
+section¬ 194 so that it is readily accessible to the attendant.
+
+188(1)Subject to subsection¬ (2), a hose through which a petroleum product is
+dispensed at a retail outlet shall not exceed four thousand five hundred
+millimetres in length.
+188(2)Where a retracting mechanism is used, a hose referred to in subsection¬ 
+(1) shall not exceed six metres in extended length.
+188(3)A retracting mechanism shall be kept retracted when not in use.
+
+189(1)A hose nozzle valve through which a petroleum product having a flash
+point below sixty degrees Celsius is dispensed by a motorized dispensing unit
+into a vehicle tank shall conform to ULC-S620-M1980, ‚ÄúStandard For Valves For
+Flammable And Combustible Liquids‚Äù and shall be constructed so that the valve
+(a)can be kept open only by the continuous application of manual pressure, or
+(b)is equipped with a device at the nozzle that will
+(i)allow automatic dispensing,
+(ii)automatically shut off when the vehicle tank is filled, and
+(iii)shut off if the nozzle is dropped or falls from the fill pipe.
+189(2)A dispensing nozzle at a self-service outlet or marina shall be an
+automatic closing type without a hold-open device and shall conform to ULC-
+S620-M1980, ‚ÄúStandard For Valves For Flammable And Combustible Liquids‚Äù.
+189(3)A hose for equipment referred to in subsections (1) and (2) shall conform
+to CAN4-S612-M83, ‚ÄúStandard For Hose Materials For Conducting Flammable and
+Combustible Liquids‚Äù.
+
+190No person shall use a device to hold open a dispensing nozzle while
+dispensing a petroleum product at a self-service outlet.
+
+191(1)Subject to subsection¬ (2), every retail outlet and marina shall have at
+least one attendant on duty when the station is open for business.
+191(2)A retail outlet or marina that does not serve the general public does not
+require an attendant if all users of the dispenser have been instructed in the
+proper procedures for operation of the dispenser by the owner or operator.
+
+192Except as permitted at self-service outlets, an employee shall be in
+constant control of the dispensing of a petroleum product into the fuel tanks
+of motor vehicles, water-craft or portable containers.
+
+193Instructions for the operation of dispensing units in a self-service outlet
+shall be posted in a conspicuous location.
+
+194(1)A central control office shall be provided at a self-service outlet at a
+distance of not more than eighteen metres from each dispensing unit so that the
+attendant has an unobstructed view of all units at the same time.
+194(2)A two-way communication system between a central control office and each
+pump island shall be provided at a self-service outlet.
+194(3)A central control office referred to in subsection¬ (1) shall be equipped
+with controls to regulate the operation of each dispensing unit.
+
+195(1)Special type dispensing units including coin operated, card operated and
+remote preset units may not be located at self-service outlets unless there is
+at least one qualified attendant on duty for each twelve hoses that can be
+operated simultaneously while the outlet is open to the public.
+195(2)Special type dispensing units described in subsection¬ (1) may be located
+only at self-service outlets of retail outlets or marinas or at retail outlets
+or marinas that do not serve the general public.
+
+196An attendant on duty at a self-service outlet shall
+(a)supervise the dispensing of petroleum products,
+(b)not activate the controls to permit the dispensing of fuel at an individual
+dispensing unit until the customer at the unit is ready to activate the nozzle,
+(c)prevent the dispensing of petroleum products into containers not conforming
+to paragraph¬ 256(b),
+(d)take appropriate action in the event of a spill, including to prevent or
+reduce the seepage of the spilled liquid into the soil and into bodies of
+water, and
+(e)shut off the power to all dispensing units in the event of a spill.
+
+197Every person dispensing a petroleum product shall
+(a)take precautions to prevent overflow or spillage of the liquid being
+dispensed,
+(b)not knowingly overfill the fuel system after an automatic nozzle shuts off,
+and
+(c)in the event of spillage immediately apply an acceptable absorbent material
+to soak up the spillage.
+
+198Sufficient absorbent material to soak up liquid spillage shall be provided
+for use by attendants at every retail outlet and marina.
+
+199The liquid level in all storage tanks including storage tanks containing
+waste petroleum product at a retail outlet or marina shall be measured in
+conformance with section¬ 65.
+93-14
+PART XI
+MARINAS
+
+200Without restricting the application of other Parts of this Regulation, this
+Part applies to the storage, handling and use of petroleum products at marinas.
+
+201The owner and the operator of a marina shall ensure that the marina conforms
+to this Part.
+
+202(1)Where a shore location would result in an excessively long supply line to
+the dispenser, a temporary storage tank may be installed on a pier if
+(a)the applicable portions of Part VI relating to spacing, diking and piping
+are complied with, and
+(b)the aggregate quantity stored in the system does not exceed two hundred and
+thirty litres.
+202(2)A temporary installation referred to in subsection¬ (1) shall be removed
+each autumn before freeze-up.
+
+203(1)Subject to section¬ 202 and subsection¬ (3), a storage tank supplying a
+marina shall be an underground storage tank complying with this Regulation
+unless the Minister consents in writing to the use of an aboveground storage
+tank.
+203(2)Subject to section¬ 202, no underground storage tank at a marina shall be
+located at a distance of less than four thousand five hundred millimetres
+measured horizontally above the high-water mark or, in tidal areas, above the
+highest high-water mark.
+203(3)A storage tank located on shore and supplying a marina may be located
+aboveground where rock or a high-water table makes an underground tank
+impractical.
+203(4)Subject to section¬ 202, an aboveground storage tank at a marina shall be
+installed so that it is above and protected from any ice or debris damage that
+may result from a one in one hundred year flood, but in no case shall the tank
+be less than four thousand five hundred millimetres measured horizontally above
+the high-water mark or, in tidal areas, above the highest high-water mark.
+
+204(1)The dispensing unit at a marina shall be at a location that will permit
+safe access by water-craft and shall be firmly installed on shore or on a
+strong dock, wharf, pier or pontoon.
+204(2)No operational dispensing unit connected to a storage tank shall be
+located on shore below the high-water mark or, in tidal areas, the highest
+high-water mark at a time when the dispensing unit may be subjected to flooding
+or ice or debris damage.
+204(3)No dispensing unit installed on a dock, wharf or pier at or below the
+high-water mark or, in tidal areas, the highest high-water mark shall be
+connected to a storage tank at a time when the dock, wharf or pier may be
+subjected to flooding or ice or debris damage.
+204(4)No dispensing unit installed on a pontoon shall be connected to a storage
+tank at a time when a rise in water level may cause damage to the pontoon or
+any part of the system or may cause leakage of a petroleum product.
+204(5)At any time that a dispensing unit is disconnected from a storage tank,
+the lines connecting the storage tank to the dispensing unit shall be securely
+capped, locked and protected from physical damage.
+204(6)Where a retracting mechanism is used, the length of extended hose at a
+marina may exceed the length provided for in subsection¬ 188(2).
+
+205No petroleum product shall be transferred from a storage tank or a container
+to a dispensing unit at a marina except by means of pumping.
+
+206Piping between a storage tank located on shore and a dispensing unit at a
+marina shall conform to Part IX, except that where dispensing is from a
+floating structure, suitable lengths of flexible hose acceptable to the
+Minister may be employed between the piping on shore and the piping on the
+floating structure to accommodate changes in water level.
+
+207Piping attached to docks, wharves, piers or pontoons at a marina shall be
+installed in accordance with Part IX and shall be provided with an easily
+accessible valve to shut off the supply of petroleum product which shall be
+located
+(a)at or within two thousand millimetres of, or
+(b)at the closest possible safe access to,
+the approach to the dock, wharf, pier or pontoon.
+
+208Where a storage tank at a marina is at an elevation above the dispensing
+unit, the storage tank outlet shall be equipped at the tank outlet with an
+electrically-operated solenoid valve that is normally closed and that is
+designed to open only when the apparatus is being operated, so as to prevent
+siphoning in the event of a rupture of the supply line to the dispensing unit
+while the dispensing unit is not activated.
+
+209An attendant on duty at a marina
+(a)shall not activate the controls to permit the dispensing of fuel at an
+individual dispensing unit until all ports and hatches on the water-craft have
+been closed,
+(b)shall prevent the dispensing of a petroleum product into a portable
+container or a portable fuel tank until it has been removed from the water-
+craft and placed in an area that would prevent the escape of the product in the
+event of an overflow, and
+(c)shall prevent the dispensing of a petroleum product into the fuel tank of a
+water-craft while its engine is running or while it is not securely moored to a
+dock, wharf, pier or pontoon.
+PART XII
+REMOTE PUMPING SYSTEMS
+
+210This Part applies to systems for dispensing a petroleum product where the
+product is transferred from a storage facility to individual or multiple
+dispensing units by pumps located elsewhere than at the dispensing units.
+
+211The owner and the operator of a remote pumping system shall ensure that the
+system conforms to this Part.
+
+212A pump referred to in section¬ 210 and its associated control equipment
+shall be designed so that the system cannot be subjected to pressures above the
+design working pressure.
+
+213(1)A pump referred to in section¬ 210 shall be securely anchored and
+protected against damage from vehicles.
+213(2)An emergency valve conforming to ULC-S620-M1980, ‚ÄúStandard For Valves
+For Flammable And Combustible Liquids‚Äù and incorporating a fusible element
+having a maximum temperature rating of seventy-one degrees Celsius shall be
+installed in the supply line so that the shear point of the valve is at a level
+not more than twenty-five millimetres below the base of the dispensing unit.
+213(3)An emergency valve required under subsection¬ (2) shall close
+automatically in the event of severe impact to the dispensing unit.
+213(4)An emergency valve required under subsection¬ (2) shall be maintained in
+operating condition and serviced at least once every twelve months.
+213(5)A remote pumping system shall be fitted with an automatic leak detection
+device on the pressure side of the system.
+213(6)A remote pumping system shall be fitted with a device that will indicate
+on the control console, where applicable, that the device is activated.
+
+214(1)A pump installed aboveground and outside a building shall be located at
+least three metres from any property line and one and one-half metres from any
+building opening.
+214(2)Where an outside pump location is impracticable, a pump may be installed
+inside a building as provided in section¬ 169 or in a pit as provided in
+section¬ 170.
+
+215After the completion of an installation, including paving, all underground
+lines connected to a storage tank shall be tested for leakage in conformance
+with sections 145 to 153.
+PART XIII
+BULK PLANTS
+
+216This Part applies to the storage, handling and use of a petroleum product at
+a bulk plant.
+
+217The owner and the operator of a bulk plant shall ensure that the bulk plant
+conforms to this Part.
+
+218A petroleum product shall be stored in closed containers or in storage tanks
+located outside buildings in conformance with Parts V, VI and VII.
+
+219Storage tanks, piping, pumps, valves and associated components that are part
+of a system at a bulk plant shall be designed, installed and maintained to
+accommodate shock pressure on the system.
+
+220(1)Containers for a petroleum product stored inside a building shall be
+arranged in conformance with the National Fire Code of Canada 1990.
+220(2)Containers for a petroleum product stored outdoors shall be stored in
+conformance with the National Fire Code of Canada 1990 except that the distance
+between a pile of containers and any property line and the distance between
+piles of containers does not apply where the containers are stored in an area
+that does not present a hazard to neighbouring property.
+93-14
+
+221An outdoor area used for the storage of a petroleum product shall be
+constructed in conformance with Part XV to prevent seepage or runoff of a
+petroleum product to the environment.
+
+222(1)A bulk plant shall be surrounded by a firmly anchored fence.
+222(2)A fence required under subsection¬ (1) shall be substantially constructed
+to discourage climbing, with a minimum height of one thousand eight hundred
+millimetres and with two gates that shall be locked when the bulk plant is not
+in operation or when the enclosure is not supervised by personnel.
+
+223Dispensing systems for flammable or combustible liquids shall not be
+interconnected.
+
+224(1)A dispensing system serving the general public by dispensing a petroleum
+product into the fuel tank of a vehicle shall not be located at a bulk plant
+unless it is separated by a fence or equivalent barrier from the area in which
+the bulk plant operation is conducted.
+224(2)Where a dispensing system referred to in subsection¬ (1) is supplied from
+an aboveground storage tank
+(a)an electrically-operated solenoid valve, normally closed and designed to
+open only when the apparatus is being operated, shall be provided at the tank
+outlet, and
+(b)an emergency valve shall be provided for the dispensing apparatus in
+conformance with the National Fire Code of Canada 1990.
+93-14
+
+225(1)A system through which tank cars or tank vehicles discharge into an
+aboveground storage tank by means of pumps shall be provided with check valves
+conforming to sections 163 to 167.
+225(2)A system referred to in subsection¬ (1) shall be designed, installed and
+maintained to prevent leakage or spillage.
+225(3)Isolation valves provided to a system referred to in subsection¬ (1)
+shall be kept closed when the system is unattended.
+
+226(1)A valve installed to control the filling of tank vehicles shall be of the
+self-closing type when used for a petroleum product.
+226(2)A control valve referred to in subsection¬ (1) shall be held open
+manually, except where an automatic device is provided for shutting off the
+flow when the vehicle is full or filled to a preset amount.
+
+227Facilities to control and collect possible spills of a petroleum product
+shall be provided at loading and unloading points in conformance with Part XV.
+
+228The owner or the operator of a bulk plant that is in operation at the
+commencement of this Regulation shall, within sixty days after the commencement
+of this Regulation, file with the Minister a contingency plan setting out the
+procedures to be followed should any petroleum product leak from the tank.
+PART XIV
+WITHDRAWAL OF STORAGE TANKS FROM SERVICE
+
+229This Part applies to the procedures to be followed when a system is removed,
+relocated, abandoned, disposed of or temporarily taken out of service.
+
+230(1)The owner or the operator of a system that is out of service at the
+commencement of this Regulation shall notify the Minister by telephone, within
+sixty days after the commencement of this Regulation, shall provide any
+information requested by the Minister and shall comply with the applicable
+provisions of this Part.
+230(2)When an underground storage tank system is to be out of service for a
+period of more than seven days, the owner or the operator of the system shall
+notify the Minister by telephone before the tank goes out of service, shall
+provide any information requested by the Minister and shall comply with the
+applicable provisions of this Part.
+
+231When an underground storage tank system is to be out of service for a period
+of more than seven days but not more than one hundred and eighty days, the
+owner or the operator of the system shall
+(a)notify the Minister in writing within seven days after the system goes out
+of service, providing the following information:
+(i)the name and mailing address of the owner,
+(ii)the name and mailing address of the operator,
+(iii)the location of the system,
+(iv)a description of the nature and quantity of the contents,
+(v)the name, address and telephone number of the person who is taking the
+measurements required under paragraph¬ (b) or (c), and
+(vi)the address of the place where the records required under paragraph¬ (b) or
+(c) will be kept,
+(b)where the storage tank does not have cathodic protection, ensure that the
+liquid level in the storage tank is measured at least once each week, that the
+measurements are compared with those of the previous week and that a record of
+the measurements is maintained for inspection by the Minister,
+(c)where the storage tank does have cathodic protection, ensure that the liquid
+level in the storage tank is measured at least once each month, that the
+measurements are compared with those of the previous month and that a record of
+the measurements is maintained for inspection by the Minister,
+(d)ensure that fill pipe covers and covers over openings to measure liquid
+levels, dispensing facilities and power controls are kept locked in the off
+position, and
+(e)ensure that vent piping is kept open.
+90-139
+
+232Subject to section¬ 239, when an underground storage tank system is to be
+out of service for a period of more than one hundred and eighty days, the owner
+or the operator shall
+(a)notify the Minister in writing within seven days after the system goes out
+of service, providing the following information:
+(i)the name and mailing address of the owner,
+(ii)the name and mailing address of the operator,
+(iii)the location of the system, and
+(iv)a description of the nature and quantity of the contents,
+(b)where the storage tank contains a petroleum product, empty the tank,
+connected piping and dispensing facilities of the liquid,
+(c)fill the storage tank, connected piping and dispensing facilities with at
+least one kilogram of dry ice for each five hundred litres of tank capacity or
+with an inert material acceptable to the Minister,
+(d)where there is a possibility of high groundwater that could cause the
+storage tank to float, fill the storage tank with inert material that will
+prevent uplift,
+(e)ensure that fill pipe covers and covers over openings to measure liquid
+levels, dispensing facilities and power controls are kept locked in the off
+position, and
+(f)ensure that vent piping is kept open.
+90-139
+
+233Subject to subsection¬ 239, where an underground storage tank system is
+operated on a seasonal basis, the owner or the operator shall
+(a)notify the Minister in writing within seven days after the system goes out
+of service, providing the following information:
+(i)the name and mailing address of the owner,
+(ii)the name and mailing address of the operator,
+(iii)the location of the system,
+(iv)a description of the nature and quantity of the contents,
+(v)the name, address and telephone number of the person who is taking the
+measurements required under paragraph¬ (b) or (c), and
+(vi)the address of the place where the records required under paragraph¬ (b) or
+(c) will be kept,
+(b)where the storage tank does not have cathodic protection, ensure that the
+liquid level of each storage tank containing a petroleum product is measured at
+least once each week, that the measurements are compared with those of the
+previous week and that a record of the measurements is maintained for
+inspection by the Minister,
+(c)where the storage tank does have cathodic protection, ensure that the liquid
+level of each storage tank containing a petroleum product is measured at least
+once each month, that the measurements are compared with those of the previous
+month and that a record of the measurements is maintained for inspection by the
+Minister,
+(d)ensure that fill pipe covers and covers over openings to measure liquid
+levels, dispensing facilities and power controls are kept locked in the off
+position, and
+(e)ensure that vent piping is kept open.
+
+234(1)When an aboveground storage tank system is to be out of service for a
+period of more than seven days but not more than one hundred and eighty days,
+the owner or the operator shall
+(a)notify the Minister in writing within seven days after the storage tank goes
+out of service, providing the following information:
+(i)the name and mailing address of the owner,
+(ii)the name and mailing address of the operator,
+(iii)the location of the system,
+(iv)a description of the nature and quantity of the contents,
+(v)the name, address and telephone number of the person who is taking the
+measurements required under subsection¬ (2), and
+(vi)the address of the place where the records required under subsection¬ (2)
+will be kept, and
+(b)ensure that the piping from the storage tank is capped or the valves
+necessary to achieve similar isolation of the tank are closed and securely
+locked.
+234(2)When a storage tank referred to in subsection¬ (1) contains a petroleum
+product, the owner or the operator shall ensure that the liquid level in the
+tank is measured at least once every seven days, that the measurements are
+compared to those of the previous readings and that a record of the
+measurements is maintained for inspection by the Minister.
+
+235(1)Where the measurements taken under paragraph¬ 231(b) or (c),
+paragraph¬ 233(b) or (c) or subsection¬ 234(2) indicate that a loss of liquid
+or water intrusion has taken place, the person detecting the loss or intrusion
+shall notify the Minister and the owner or the operator of the system of the
+loss or intrusion immediately.
+235(2)The owner or the operator of the system shall take immediate action to
+correct a loss or intrusion referred to in subsection¬ (1) in accordance with
+sections 43 and 44.
+
+236When an aboveground storage tank system is to be out of service for a period
+of more than one hundred and eighty days, the owner or the operator shall
+(a)notify the Minister in writing within seven days after the system goes out
+of service, providing the following information:
+(i)the name and mailing address of the owner,
+(ii)the name and mailing address of the operator, and
+(iii)the location of the system,
+(b)remove all petroleum product and purge all petroleum product vapours from
+the storage tank and its connected piping, and
+(c)ensure that the storage tank markings clearly indicate that the tank is
+empty of liquid petroleum product but may contain petroleum product vapours.
+
+237(1)An out of service underground storage tank system shall be reactivated in
+accordance with Part III.
+237(2)If a system referred to in subsection¬ (1) has been out of service for
+more than twelve months, the storage tank, piping and galvanic protection where
+applicable shall be tested in conformance with sections 60 to 64.
+
+238(1)Where a property at which a storage tank system is located is sold or
+leased, the owner of the property shall, at least fourteen days before the sale
+or lease is completed
+(a)notify the purchaser or lessee in writing of the presence and location of
+the system and provide the purchaser or lessee with proof that the applicable
+requirements of this Regulation have been complied with, and
+(b)notify the Minister of the sale or lease in writing and provide the
+information required by the Minister.
+238(2)The owner of a system that is located in or on lands to be sold or leased
+and that is not to be used for the storage of a petroleum product after the
+sale or lease is completed shall, before the sale or lease is completed,
+(a)dispose of the system in accordance with sections 241 to 249, and
+(b)remove any and all contaminated soil, water and other substances from the
+property to the satisfaction of the Minister.
+93-14
+
+239(1)Subject to subsections (2) and (3), when an underground storage tank
+system without cathodic protection as required under section¬ 59 has no further
+use or has been out of service for one year, the owner shall dispose of the
+tank in accordance with sections 241 to 249.
+239(2)The owner of a steel underground storage tank without cathodic protection
+shall dispose of the tank in accordance with sections 241 to 249 on or before
+the disposal date provided for in Schedule B.
+239(3)The owner of a steel underground storage tank with cathodic protection
+that is not operating according to its specifications shall dispose of the tank
+in accordance with subsection¬ (2).
+239(4)The date of manufacture of a storage tank referred to in subsection¬ (2)
+shall be deemed to be unknown unless the owner satisfies the Minister as to the
+date of installation.
+
+240For the purposes of this Regulation, the owner of the lands in or on which a
+system is located shall be deemed to be the owner of the system unless the
+owner of the lands satisfies the Minister that the system is owned by another
+person.
+
+241No person shall excavate, dispose of or destroy a system and no owner of a
+system shall permit or authorize the excavation, disposal or destruction of the
+system unless the owner first obtains a registration.
+93-14
+
+242(1)The owner of a storage tank system shall ensure that the work referred to
+in section¬ 241 is done in accordance with instructions provided by the
+Minister.
+242(2)The owner of a storage tank that is not to be reused for the storage of a
+petroleum product shall ensure that
+(a)the tank is conspicuously labelled as follows:
+TANK HAS CONTAINED
+(type of petroleum product)
+NOT VAPOUR FREE
+NOT SUITABLE FOR FOOD OR DRINKING WATER
+immediately upon completion of the excavation work, and
+(b)any contaminated soil around or under a storage tank that has been
+excavated, relocated or removed from its mountings is excavated and replaced
+with clean fill to a degree acceptable to the Minister.
+
+243(1)The owner of a storage tank that has been excavated, relocated or removed
+from its mountings shall ensure that the tank is
+(a)relocated to the premises of a storage tank dealer acceptable to the
+Minister within ten days, or
+(b)relocated to a disposal site acceptable to the Minister within five days.
+243(2)The owner of a storage tank shall give written notice to the Minister at
+least five days before commencing any work referred to in subsection¬ (1).
+243(3)The owner of a storage tank shall give notice to the operator of a
+disposal site referred to in paragraph¬ (1)(b) at least five days before
+relocating a storage tank to the site.
+
+244The owner or the operator of a disposal site who has received a storage tank
+under paragraph¬ 243(1)(a) or (b) shall
+(a)ensure that the tank is free of petroleum product, and
+(b)where the tank is not intended to be reused, ensure that the tank is
+destroyed as soon as practicable.
+
+245A storage tank that is being stored before reuse or destruction shall be
+stored
+(a)in an area that is inaccessible to the general public,
+(b)with a three millimetre hole left exposed so as to allow the storage tank to
+adjust to pressure changes caused by fluctuations in temperature, and
+(c)with the labelling required under subsection¬ 242(2) clearly visible.
+
+246(1)An owner of a storage tank may apply to the Minister for approval to
+dispose of a storage tank permanently in the location in which it is installed
+by
+(a)applying for a site approval and, where applicable, an environmental
+approval in accordance with Part III,
+(b)describing fully in the application the circumstances of the tank location
+that the owner feels would bring it within the scope of subsection¬ (2), and
+(c)satisfying the Minister that the soil under and around the storage tank has
+not been contaminated with a petroleum product.
+246(2)The Minister may, in his discretion, grant approval in writing of an
+application made under subsection¬ (1) where he is satisfied that a storage
+tank is
+(a)located in whole or in part beneath a permanent building and that excavation
+of the tank is not practicable,
+(b)so large or of a type of construction that the excavation of the tank is not
+practicable,
+(c)inaccessible to the heavy equipment necessary for removal of the tank, or
+(d)situated so that removal of the tank would endanger the structural integrity
+of nearby buildings or storage tanks.
+
+247(1)Subject to subsection¬ (2), an underground storage tank that has been
+excavated shall not be reused for the storage of a petroleum product.
+247(2)A storage tank may be reused for the storage of a petroleum product only
+after it has been refurbished and meets the requirements of CAN4-S603.1-M85,
+‚ÄúGalvanic Corrosion Protection Systems For Steel Underground Tanks For
+Flammable And Combustible Liquids‚Äù, or CAN4-S615-M83, ‚ÄúStandard for
+Reinforced Plastic Underground Tanks For Petroleum Products‚Äù.
+247(3)A storage tank referred to in subsection¬ (2) shall not be reused until
+the owner of the tank has supplied the Minister with a certificate acceptable
+to the Minister that is signed by a licenced manufacturer of the same or
+similar tanks and certifies that the tank meets the requirements of
+subsection¬ (2).
+
+248Where inspection or tests of an excavated storage tank reveal excessive
+denting, pitting or gouging, causing any reduction of shell thickness in excess
+of one millimetre or any dents greater than thirty degrees from normal
+configuration, the tank shall not be reused.
+
+249Riveted storage tanks shall not be reused.
+PART XV
+SPILL PREVENTION
+
+250(1)Except at retail outlets and marinas, appropriate measures to prevent a
+spill of a petroleum product from entering the soil, underground service
+systems or natural waterways shall be provided by grading the site or sloping
+the floor in order to divert a spill or by providing noncombustible sills,
+curbs or dikes.
+250(2)Where dikes are provided to contain accidental spillage referred to in
+subsection¬ (1), they shall conform to sections 88 to 96.
+
+251(1)A drainage system designed to drain a spill of a petroleum product shall
+terminate at a location that will not create a hazard to public health or
+safety by contaminating the soil or any body of water or by entering any
+underground service system.
+251(2)A closed drainage system shall be equipped with a trap.
+
+252All petroleum products shall be stored in storage tanks or containers that
+conform to this Regulation.
+
+253(1)Maintenance and operating procedures shall be established to prevent the
+escape of a petroleum product to an area where it would create pollution.
+253(2)Subject to subsection¬ (3), all reasonable steps shall be taken to
+recover escaped liquid and to remove or treat the contaminated soil as required
+under this Part.
+253(3)A petroleum product spilled or leaked on a nonabsorbing surface shall be
+removed with the aid of an absorbent and disposed of in a manner acceptable to
+the Minister.
+PART XVI
+CONTAINER STORAGE OF PETROLEUM PRODUCTS
+
+254This Part applies to the storage of petroleum products with a flash point
+below 93.3¬ degrees Celsius in a drum, portable container or prepackaged
+container not covered elsewhere in this Regulation except that it does not
+apply to the following:
+(a)containers in retail outlets, bulk plants, refineries, chemical plants and
+distilleries;
+(b)fuel tanks for internal combustion engines;
+(c)packaged containers of alcoholic beverages, foods and pharmaceutical
+products; and
+(d)other products such as detergents, insecticides and fungicides containing
+not more than fifty per cent by volume of water-miscible flammable or
+combustible liquids with the remainder of the solution being non-flammable.
+
+255The owner of an outside storage area for a petroleum product shall fence the
+area in a manner acceptable to the Minister where fencing is necessary to
+prevent the entry of unauthorized persons.
+
+256A person may store, handle and use a petroleum product in quantities of less
+than two hundred and thirty litres in the following containers only:
+(a)a drum or prepackaged container meeting any requirements under the
+Transportation of Dangerous Goods Act, chapter 36 of the Statutes of Canada
+1980-81-82-83;
+(b)a portable container of metal or plastic conforming to CSA-B376-M1980,
+‚ÄúPortable Containers for Gasoline and Other Petroleum Fuels‚Äù;
+(c)a portable fuel tank conforming to CSA-B306-M1977, ‚ÄúPortable Fuel Tanks
+for Marine Use‚Äù; and
+(d)safety cans conforming to ULC-C30-1974, ‚ÄúGuide For The Investigation Of
+Metal Safety Containers‚Äù.
+
+257No person shall store, handle or use a petroleum product in quantities of
+two hundred and thirty litres or greater in a container other than a storage
+tank in accordance with this Regulation.
+
+258Subject to section¬ 256, a person may store, handle or use a petroleum
+product in a glass or plastic prepackaged container only if the required liquid
+purity would be affected by storage in a metal container or if the liquid would
+cause excessive corrosion of the metal container.
+
+259 Repealed: 93-14
+93-14
+
+260 Repealed: 93-14
+93-14
+
+261This Regulation comes into force on August¬ 10, 1987.
+
+SCHEDULE A
+PUBLIC LIABILITY INSURANCE COVERAGE FOR TYPES OF LICENCES
+Type of Licence         Coverage per System
+Retail Outlet           $ ¬  500,000.00
+Government              ¬ 500,000.00
+Bulk Plant              1,000,000.00
+Marina                  1,000,000.00
+Commercial Industrial   500,000.00
+[Image]Woodlands
+Farm                    100,000.00
+Residential             100,000.00
+Municipal Government    500,000.00
+Not-for-profit          500,000.00
+93-14; 2009-120
+SCHEDULE B
+DISPOSAL DATES FOR STEEL UNDERGROUND STORAGE TANKS WITHOUT CATHODIC PROTECTION
+Date of Installation         Disposal Date
+of Tank
+1960 or earlier or unknown   June¬ 30, 1989
+1961 - 1965                  June¬ 30, 1990
+1966 - 1970                  June¬ 30, 1991
+1971 - 1975                  June¬ 30, 1992
+after 1975                   June¬ 30, 1993
+88-51; 88-273; 93-14
+FORM 1
+Repealed: 88-215
+88-215
+_F_o_r_m_ _2_ 
+_F_o_r_m_ _3_ 
+N.B. This Regulation is consolidated to November 1, 2009.
